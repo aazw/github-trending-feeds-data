@@ -4,7 +4,7 @@ GitHub Trendingのページをスクレイピングして、RSSリーダー(Inor
 
 * GitHub Trending: https://github.com/trending
 * GitHub Pages: https://aazw.github.io/github-trending-feeds-data/
-  * 2025/06/15付けで https://github.com/aazw/github-trending-feeds から移行
+  * 2025/06/15付けで https://aazw.github.io/github-trending-feeds/ から移行
 
 このプロジェクトは2024/12/24にスタートした。
 
