@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bitbake/weekly.atom</id>
+  <title>GitHub Trending - bitbake (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OE4T/meta-tegra#1739750400</id>
+    <title>https://github.com/OE4T/meta-tegra</title>
+    <link href="https://github.com/OE4T/meta-tegra" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">BSP layer for NVIDIA Jetson platforms, based on L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OSSystems/meta-browser#1739750400</id>
+    <title>https://github.com/OSSystems/meta-browser</title>
+    <link href="https://github.com/OSSystems/meta-browser" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Web Browsers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/meta-xilinx#1739750400</id>
+    <title>https://github.com/Xilinx/meta-xilinx</title>
+    <link href="https://github.com/Xilinx/meta-xilinx" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Collection of Yocto Project layers to enable AMD Xilinx products</content>
+  </entry>
+  <entry>
+    <id>https://github.com/balena-os/meta-balena#1739750400</id>
+    <title>https://github.com/balena-os/meta-balena</title>
+    <link href="https://github.com/balena-os/meta-balena" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A collection of Yocto layers used to build balenaOS images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kraj/meta-openwrt#1739750400</id>
+    <title>https://github.com/kraj/meta-openwrt</title>
+    <link href="https://github.com/kraj/meta-openwrt" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">OE/Yocto metadata layer for OpenWRT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-flutter/meta-flutter#1739750400</id>
+    <title>https://github.com/meta-flutter/meta-flutter</title>
+    <link href="https://github.com/meta-flutter/meta-flutter" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Google Flutter for Yocto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-rust/meta-rust#1739750400</id>
+    <title>https://github.com/meta-rust/meta-rust</title>
+    <link href="https://github.com/meta-rust/meta-rust" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nxp-imx/meta-imx#1739750400</id>
+    <title>https://github.com/nxp-imx/meta-imx</title>
+    <link href="https://github.com/nxp-imx/meta-imx" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">i.MX Yocto Project i.MX BSP Layer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbmc/openbmc#1739750400</id>
+    <title>https://github.com/openbmc/openbmc</title>
+    <link href="https://github.com/openbmc/openbmc" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">OpenBMC Distribution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/meta-openembedded#1739750400</id>
+    <title>https://github.com/openembedded/meta-openembedded</title>
+    <link href="https://github.com/openembedded/meta-openembedded" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/openembedded-core#1739750400</id>
+    <title>https://github.com/openembedded/openembedded-core</title>
+    <link href="https://github.com/openembedded/openembedded-core" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qualcomm-linux/meta-qcom#1739750400</id>
+    <title>https://github.com/qualcomm-linux/meta-qcom</title>
+    <link href="https://github.com/qualcomm-linux/meta-qcom" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rauc/meta-rauc#1739750400</id>
+    <title>https://github.com/rauc/meta-rauc</title>
+    <link href="https://github.com/rauc/meta-rauc" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-embedded/meta-rust-bin#1739750400</id>
+    <title>https://github.com/rust-embedded/meta-rust-bin</title>
+    <link href="https://github.com/rust-embedded/meta-rust-bin" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
+  </entry>
+</feed>

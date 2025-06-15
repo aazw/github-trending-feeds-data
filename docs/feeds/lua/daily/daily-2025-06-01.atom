@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LazyVim/starter#1748736000</id>
+    <title>https://github.com/LazyVim/starter</title>
+    <link href="https://github.com/LazyVim/starter" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Starter template for LazyVim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NeogitOrg/neogit#1748736000</id>
+    <title>https://github.com/NeogitOrg/neogit</title>
+    <link href="https://github.com/NeogitOrg/neogit" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">An interactive and powerful Git interface for Neovim, inspired by Magit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akinsho/toggleterm.nvim#1748736000</id>
+    <title>https://github.com/akinsho/toggleterm.nvim</title>
+    <link href="https://github.com/akinsho/toggleterm.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">A neovim lua plugin to help easily manage multiple terminal windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/nvim#1748736000</id>
+    <title>https://github.com/catppuccin/nvim</title>
+    <link href="https://github.com/catppuccin/nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">🍨 Soothing pastel theme for (Neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1748736000</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazydev.nvim#1748736000</id>
+    <title>https://github.com/folke/lazydev.nvim</title>
+    <link href="https://github.com/folke/lazydev.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Faster LuaLS setup for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1748736000</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hrsh7th/nvim-cmp#1748736000</id>
+    <title>https://github.com/hrsh7th/nvim-cmp</title>
+    <link href="https://github.com/hrsh7th/nvim-cmp" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">A completion plugin for neovim coded in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1748736000</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loki79uk/FS25_UniversalAutoload#1748736000</id>
+    <title>https://github.com/loki79uk/FS25_UniversalAutoload</title>
+    <link href="https://github.com/loki79uk/FS25_UniversalAutoload" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Mod for FS25. Please download latest release below.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mason-org/mason-lspconfig.nvim#1748736000</id>
+    <title>https://github.com/mason-org/mason-lspconfig.nvim</title>
+    <link href="https://github.com/mason-org/mason-lspconfig.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/numToStr/Comment.nvim#1748736000</id>
+    <title>https://github.com/numToStr/Comment.nvim</title>
+    <link href="https://github.com/numToStr/Comment.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1748736000</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neo-tree/neo-tree.nvim#1748736000</id>
+    <title>https://github.com/nvim-neo-tree/neo-tree.nvim</title>
+    <link href="https://github.com/nvim-neo-tree/neo-tree.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Neovim plugin to manage the file system and other tree like structures.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/saecki/crates.nvim#1748736000</id>
+    <title>https://github.com/saecki/crates.nvim</title>
+    <link href="https://github.com/saecki/crates.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">A neovim plugin that helps managing crates.io dependencies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shahrilnet/remote_lua_loader#1748736000</id>
+    <title>https://github.com/shahrilnet/remote_lua_loader</title>
+    <link href="https://github.com/shahrilnet/remote_lua_loader" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/sindrets/diffview.nvim#1748736000</id>
+    <title>https://github.com/sindrets/diffview.nvim</title>
+    <link href="https://github.com/sindrets/diffview.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Single tabpage interface for easily cycling through diffs for all modified files for any git rev.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/oil.nvim#1748736000</id>
+    <title>https://github.com/stevearc/oil.nvim</title>
+    <link href="https://github.com/stevearc/oil.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Neovim file explorer: edit your filesystem like a buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiaorouji/openwrt-passwall#1748736000</id>
+    <title>https://github.com/xiaorouji/openwrt-passwall</title>
+    <link href="https://github.com/xiaorouji/openwrt-passwall" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1748736000</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

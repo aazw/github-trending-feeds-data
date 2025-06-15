@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/systemverilog/weekly.atom</id>
+  <title>GitHub Trending - systemverilog (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/chipsalliance/Cores-VeeR-EL2#1737936000</id>
+    <title>https://github.com/chipsalliance/Cores-VeeR-EL2</title>
+    <link href="https://github.com/chipsalliance/Cores-VeeR-EL2" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">VeeR EL2 Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/opentitan#1737936000</id>
+    <title>https://github.com/lowRISC/opentitan</title>
+    <link href="https://github.com/lowRISC/opentitan" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">OpenTitan: Open source silicon root of trust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/axi#1737936000</id>
+    <title>https://github.com/pulp-platform/axi</title>
+    <link href="https://github.com/pulp-platform/axi" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/common_cells#1737936000</id>
+    <title>https://github.com/pulp-platform/common_cells</title>
+    <link href="https://github.com/pulp-platform/common_cells" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Common SystemVerilog components</content>
+  </entry>
+</feed>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1739836800</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1739836800</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1739836800</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/cli#1739836800</id>
+    <title>https://github.com/docker/cli</title>
+    <link href="https://github.com/docker/cli" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">The Docker CLI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/compose#1739836800</id>
+    <title>https://github.com/docker/compose</title>
+    <link href="https://github.com/docker/compose" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Define and run multi-container applications with Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/go-ethereum#1739836800</id>
+    <title>https://github.com/ethereum/go-ethereum</title>
+    <link href="https://github.com/ethereum/go-ethereum" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Go implementation of the Ethereum protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-delve/delve#1739836800</id>
+    <title>https://github.com/go-delve/delve</title>
+    <link href="https://github.com/go-delve/delve" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Delve is a debugger for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gorm/gorm#1739836800</id>
+    <title>https://github.com/go-gorm/gorm</title>
+    <link href="https://github.com/go-gorm/gorm" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">The fantastic ORM library for Golang, aims to be developer friendly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-migrate/migrate#1739836800</id>
+    <title>https://github.com/golang-migrate/migrate</title>
+    <link href="https://github.com/golang-migrate/migrate" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Database migrations. CLI and Golang library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorilla/mux#1739836800</id>
+    <title>https://github.com/gorilla/mux</title>
+    <link href="https://github.com/gorilla/mux" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorilla/websocket#1739836800</id>
+    <title>https://github.com/gorilla/websocket</title>
+    <link href="https://github.com/gorilla/websocket" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1739836800</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jmoiron/sqlx#1739836800</id>
+    <title>https://github.com/jmoiron/sqlx</title>
+    <link href="https://github.com/jmoiron/sqlx" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">general purpose extensions to golang's database/sql</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1739836800</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1739836800</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1739836800</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1739836800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus-operator/prometheus-operator#1739836800</id>
+    <title>https://github.com/prometheus-operator/prometheus-operator</title>
+    <link href="https://github.com/prometheus-operator/prometheus-operator" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdm12/ddns-updater#1739836800</id>
+    <title>https://github.com/qdm12/ddns-updater</title>
+    <link href="https://github.com/qdm12/ddns-updater" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Container to update DNS records periodically with WebUI for many DNS providers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/samber/lo#1739836800</id>
+    <title>https://github.com/samber/lo</title>
+    <link href="https://github.com/samber/lo" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1739836800</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swaggo/swag#1739836800</id>
+    <title>https://github.com/swaggo/swag</title>
+    <link href="https://github.com/swaggo/swag" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Automatically generate RESTful API documentation with Swagger 2.0 for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/veops/oneterm#1739836800</id>
+    <title>https://github.com/veops/oneterm</title>
+    <link href="https://github.com/veops/oneterm" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Provide secure access and control over all infrastructure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wailsapp/wails#1739836800</id>
+    <title>https://github.com/wailsapp/wails</title>
+    <link href="https://github.com/wailsapp/wails" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Create beautiful applications using Go</content>
+  </entry>
+</feed>

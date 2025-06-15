@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1748908800</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1748908800</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TykTechnologies/tyk#1748908800</id>
+    <title>https://github.com/TykTechnologies/tyk</title>
+    <link href="https://github.com/TykTechnologies/tyk" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/kube-bench#1748908800</id>
+    <title>https://github.com/aquasecurity/kube-bench</title>
+    <link href="https://github.com/aquasecurity/kube-bench" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1748908800</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami-labs/sealed-secrets#1748908800</id>
+    <title>https://github.com/bitnami-labs/sealed-secrets</title>
+    <link href="https://github.com/bitnami-labs/sealed-secrets" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">A Kubernetes controller and tool for one-way encrypted Secrets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bufbuild/protoc-gen-validate#1748908800</id>
+    <title>https://github.com/bufbuild/protoc-gen-validate</title>
+    <link href="https://github.com/bufbuild/protoc-gen-validate" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1748908800</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/go-genai#1748908800</id>
+    <title>https://github.com/googleapis/go-genai</title>
+    <link href="https://github.com/googleapis/go-genai" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1748908800</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1748908800</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1748908800</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1748908800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencontainers/image-spec#1748908800</id>
+    <title>https://github.com/opencontainers/image-spec</title>
+    <link href="https://github.com/opencontainers/image-spec" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">OCI Image Format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/blackbox_exporter#1748908800</id>
+    <title>https://github.com/prometheus/blackbox_exporter</title>
+    <link href="https://github.com/prometheus/blackbox_exporter" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Blackbox prober exporter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slackhq/nebula#1748908800</id>
+    <title>https://github.com/slackhq/nebula</title>
+    <link href="https://github.com/slackhq/nebula" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">A scalable overlay networking tool with a focus on performance, simplicity and security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1748908800</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swaggo/swag#1748908800</id>
+    <title>https://github.com/swaggo/swag</title>
+    <link href="https://github.com/swaggo/swag" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Automatically generate RESTful API documentation with Swagger 2.0 for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1748908800</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/temporalio/temporal#1748908800</id>
+    <title>https://github.com/temporalio/temporal</title>
+    <link href="https://github.com/temporalio/temporal" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Temporal service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tulir/whatsmeow#1748908800</id>
+    <title>https://github.com/tulir/whatsmeow</title>
+    <link href="https://github.com/tulir/whatsmeow" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Go library for the WhatsApp web multidevice API</content>
+  </entry>
+</feed>

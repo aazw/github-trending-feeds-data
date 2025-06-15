@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ahyatt/emacs-websocket#1740787200</id>
+    <title>https://github.com/ahyatt/emacs-websocket</title>
+    <link href="https://github.com/ahyatt/emacs-websocket" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A websocket implementation in elisp, for emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1740787200</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/auto-complete/popup-el#1740787200</id>
+    <title>https://github.com/auto-complete/popup-el</title>
+    <link href="https://github.com/auto-complete/popup-el" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Visual Popup Interface Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1740787200</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1740787200</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1740787200</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacsorphanage/quickrun#1740787200</id>
+    <title>https://github.com/emacsorphanage/quickrun</title>
+    <link href="https://github.com/emacsorphanage/quickrun" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Run command quickly. This packages is inspired quickrun.vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jacktasia/dumb-jump#1740787200</id>
+    <title>https://github.com/jacktasia/dumb-jump</title>
+    <link href="https://github.com/jacktasia/dumb-jump" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">an Emacs "jump to definition" package for 50+ languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwiegley/use-package#1740787200</id>
+    <title>https://github.com/jwiegley/use-package</title>
+    <link href="https://github.com/jwiegley/use-package" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A use-package declaration for simplifying your .emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/consult-dir#1740787200</id>
+    <title>https://github.com/karthink/consult-dir</title>
+    <link href="https://github.com/karthink/consult-dir" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Insert paths into the minibuffer prompt in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1740787200</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lassik/emacs-format-all-the-code#1740787200</id>
+    <title>https://github.com/lassik/emacs-format-all-the-code</title>
+    <link href="https://github.com/lassik/emacs-format-all-the-code" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Auto-format source code in many languages with one command</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1740787200</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1740787200</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/polymode/polymode#1740787200</id>
+    <title>https://github.com/polymode/polymode</title>
+    <link href="https://github.com/polymode/polymode" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Framework for Multiple Major Modes in Emacs (core library)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/package-lint#1740787200</id>
+    <title>https://github.com/purcell/package-lint</title>
+    <link href="https://github.com/purcell/package-lint" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A linting library for elisp package metadata</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volrath/treepy.el#1740787200</id>
+    <title>https://github.com/volrath/treepy.el</title>
+    <link href="https://github.com/volrath/treepy.el" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Generic tree traversing tools for Emacs Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig-mode#1740787200</id>
+    <title>https://github.com/ziglang/zig-mode</title>
+    <link href="https://github.com/ziglang/zig-mode" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Zig mode for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zkry/yaml.el#1740787200</id>
+    <title>https://github.com/zkry/yaml.el</title>
+    <link href="https://github.com/zkry/yaml.el" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">YAML parser in Elisp</content>
+  </entry>
+</feed>

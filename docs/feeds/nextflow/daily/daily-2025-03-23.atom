@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom</id>
+  <title>GitHub Trending - nextflow (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nf-core/airrflow#1742688000</id>
+    <title>https://github.com/nf-core/airrflow</title>
+    <link href="https://github.com/nf-core/airrflow" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/configs#1742688000</id>
+    <title>https://github.com/nf-core/configs</title>
+    <link href="https://github.com/nf-core/configs" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Config files used to define parameters specific to compute environments at different Institutions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/crisprseq#1742688000</id>
+    <title>https://github.com/nf-core/crisprseq</title>
+    <link href="https://github.com/nf-core/crisprseq" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">A pipeline for the analysis of CRISPR edited data. It allows the evaluation of the quality of gene editing experiments using targeted next generation sequencing (NGS) data (`targeted`) as well as the discovery of important genes from knock-out or activation CRISPR-Cas9 screens using CRISPR pooled DNA (`screening`).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/deepmodeloptim#1742688000</id>
+    <title>https://github.com/nf-core/deepmodeloptim</title>
+    <link href="https://github.com/nf-core/deepmodeloptim" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Stochastic Testing and Input Manipulation for Unbiased Learning Systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/differentialabundance#1742688000</id>
+    <title>https://github.com/nf-core/differentialabundance</title>
+    <link href="https://github.com/nf-core/differentialabundance" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Differential abundance analysis for feature/ observation matrices from platforms such as RNA-seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/epitopeprediction#1742688000</id>
+    <title>https://github.com/nf-core/epitopeprediction</title>
+    <link href="https://github.com/nf-core/epitopeprediction" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">A bioinformatics best-practice analysis pipeline for epitope prediction and annotation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/multiplesequencealign#1742688000</id>
+    <title>https://github.com/nf-core/multiplesequencealign</title>
+    <link href="https://github.com/nf-core/multiplesequencealign" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">A pipeline to run and systematically evaluate Multiple Sequence Alignment (MSA) methods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/oncoanalyser#1742688000</id>
+    <title>https://github.com/nf-core/oncoanalyser</title>
+    <link href="https://github.com/nf-core/oncoanalyser" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">A comprehensive cancer DNA/RNA analysis and reporting pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/proteomicslfq#1742688000</id>
+    <title>https://github.com/nf-core/proteomicslfq</title>
+    <link href="https://github.com/nf-core/proteomicslfq" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Proteomics label-free quantification (LFQ) analysis pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/raredisease#1742688000</id>
+    <title>https://github.com/nf-core/raredisease</title>
+    <link href="https://github.com/nf-core/raredisease" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Call and score variants from WGS/WES of rare disease patients.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/rnaseq#1742688000</id>
+    <title>https://github.com/nf-core/rnaseq</title>
+    <link href="https://github.com/nf-core/rnaseq" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/rnasplice#1742688000</id>
+    <title>https://github.com/nf-core/rnasplice</title>
+    <link href="https://github.com/nf-core/rnasplice" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">rnasplice is a bioinformatics pipeline for RNA-seq alternative splicing analysis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/sarek#1742688000</id>
+    <title>https://github.com/nf-core/sarek</title>
+    <link href="https://github.com/nf-core/sarek" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</content>
+  </entry>
+</feed>

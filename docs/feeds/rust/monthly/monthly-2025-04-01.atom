@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/monthly.atom</id>
+  <title>GitHub Trending - rust (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DioxusLabs/dioxus#1743465600</id>
+    <title>https://github.com/DioxusLabs/dioxus</title>
+    <link href="https://github.com/DioxusLabs/dioxus" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Fullstack app framework for web, desktop, mobile, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EricLBuehler/mistral.rs#1743465600</id>
+    <title>https://github.com/EricLBuehler/mistral.rs</title>
+    <link href="https://github.com/EricLBuehler/mistral.rs" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Blazingly fast LLM inference.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GraphiteEditor/Graphite#1743465600</id>
+    <title>https://github.com/GraphiteEditor/Graphite</title>
+    <link href="https://github.com/GraphiteEditor/Graphite" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">2D vector &amp; raster editor that melds traditional layers &amp; tools with a modern node-based, non-destructive, procedural workflow.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rust-GPU/Rust-CUDA#1743465600</id>
+    <title>https://github.com/Rust-GPU/Rust-CUDA</title>
+    <link href="https://github.com/Rust-GPU/Rust-CUDA" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1743465600</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1743465600</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1743465600</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1743465600</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1743465600</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/biomejs/biome#1743465600</id>
+    <title>https://github.com/biomejs/biome</title>
+    <link href="https://github.com/biomejs/biome" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juhaku/utoipa#1743465600</id>
+    <title>https://github.com/juhaku/utoipa</title>
+    <link href="https://github.com/juhaku/utoipa" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1743465600</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/katanemo/archgw#1743465600</id>
+    <title>https://github.com/katanemo/archgw</title>
+    <link href="https://github.com/katanemo/archgw" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1743465600</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1743465600</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust#1743465600</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-analyzer#1743465600</id>
+    <title>https://github.com/rust-lang/rust-analyzer</title>
+    <link href="https://github.com/rust-lang/rust-analyzer" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A Rust compiler front-end for IDEs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1743465600</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustup#1743465600</id>
+    <title>https://github.com/rust-lang/rustup</title>
+    <link href="https://github.com/rust-lang/rustup" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The Rust toolchain installer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/fd#1743465600</id>
+    <title>https://github.com/sharkdp/fd</title>
+    <link href="https://github.com/sharkdp/fd" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A simple, fast and user-friendly alternative to 'find'</content>
+  </entry>
+  <entry>
+    <id>https://github.com/signalapp/libsignal#1743465600</id>
+    <title>https://github.com/signalapp/libsignal</title>
+    <link href="https://github.com/signalapp/libsignal" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tree-sitter/tree-sitter#1743465600</id>
+    <title>https://github.com/tree-sitter/tree-sitter</title>
+    <link href="https://github.com/tree-sitter/tree-sitter" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An incremental parsing system for programming tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1743465600</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1743465600</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1743465600</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

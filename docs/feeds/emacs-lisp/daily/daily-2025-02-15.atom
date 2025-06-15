@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abo-abo/ace-window#1739577600</id>
+    <title>https://github.com/abo-abo/ace-window</title>
+    <link href="https://github.com/abo-abo/ace-window" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Quickly switch windows in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/avy#1739577600</id>
+    <title>https://github.com/abo-abo/avy</title>
+    <link href="https://github.com/abo-abo/avy" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Jump to things in Emacs tree-style</content>
+  </entry>
+  <entry>
+    <id>https://github.com/auto-complete/popup-el#1739577600</id>
+    <title>https://github.com/auto-complete/popup-el</title>
+    <link href="https://github.com/auto-complete/popup-el" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Visual Popup Interface Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bbatsov/projectile#1739577600</id>
+    <title>https://github.com/bbatsov/projectile</title>
+    <link href="https://github.com/bbatsov/projectile" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Project Interaction Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chep/copilot-chat.el#1739577600</id>
+    <title>https://github.com/chep/copilot-chat.el</title>
+    <link href="https://github.com/chep/copilot-chat.el" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Chat with Github copilot in Emacs !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1739577600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1739577600</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/dap-mode#1739577600</id>
+    <title>https://github.com/emacs-lsp/dap-mode</title>
+    <link href="https://github.com/emacs-lsp/dap-mode" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Emacs ❤️ Debug Adapter Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1739577600</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/eglot#1739577600</id>
+    <title>https://github.com/joaotavora/eglot</title>
+    <link href="https://github.com/joaotavora/eglot" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A client for Language Server Protocol servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1739577600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1739577600</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1739577600</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meow-edit/meow#1739577600</id>
+    <title>https://github.com/meow-edit/meow</title>
+    <link href="https://github.com/meow-edit/meow" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Yet another modal editing on Emacs / 猫态编辑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1739577600</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1739577600</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1739577600</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zkry/yaml.el#1739577600</id>
+    <title>https://github.com/zkry/yaml.el</title>
+    <link href="https://github.com/zkry/yaml.el" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">YAML parser in Elisp</content>
+  </entry>
+</feed>

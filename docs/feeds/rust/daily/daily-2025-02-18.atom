@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GyulyVGC/sniffnet#1739836800</id>
+    <title>https://github.com/GyulyVGC/sniffnet</title>
+    <link href="https://github.com/GyulyVGC/sniffnet" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Comfortably monitor your Internet traffic 🕵️‍♂️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PyO3/pyo3#1739836800</id>
+    <title>https://github.com/PyO3/pyo3</title>
+    <link href="https://github.com/PyO3/pyo3" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Rust bindings for the Python interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeaQL/sea-orm#1739836800</id>
+    <title>https://github.com/SeaQL/sea-orm</title>
+    <link href="https://github.com/SeaQL/sea-orm" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">🐚 An async &amp; dynamic ORM for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1739836800</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atuinsh/atuin#1739836800</id>
+    <title>https://github.com/atuinsh/atuin</title>
+    <link href="https://github.com/atuinsh/atuin" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">✨ Magical shell history</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1739836800</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coral-xyz/anchor#1739836800</id>
+    <title>https://github.com/coral-xyz/anchor</title>
+    <link href="https://github.com/coral-xyz/anchor" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">⚓ Solana Sealevel Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cordx56/rustowl#1739836800</id>
+    <title>https://github.com/cordx56/rustowl</title>
+    <link href="https://github.com/cordx56/rustowl" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Visualize Ownership and Lifetimes in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/foundry#1739836800</id>
+    <title>https://github.com/foundry-rs/foundry</title>
+    <link href="https://github.com/foundry-rs/foundry" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gfx-rs/wgpu#1739836800</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greenbone/openvas-scanner#1739836800</id>
+    <title>https://github.com/greenbone/openvas-scanner</title>
+    <link href="https://github.com/greenbone/openvas-scanner" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">This repository contains the scanner component for Greenbone Community Edition.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1739836800</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/katanemo/archgw#1739836800</id>
+    <title>https://github.com/katanemo/archgw</title>
+    <link href="https://github.com/katanemo/archgw" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">AI-native (edge and LLM) proxy for agents. Handles all the pesky heavy lifting in building agentic apps -- fast ⚡️ query routing, seamless integration of prompts with business APIs, and unified access and observabilty of LLMs. Built by the contributors of Envoy proxy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1739836800</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meilisearch/meilisearch#1739836800</id>
+    <title>https://github.com/meilisearch/meilisearch</title>
+    <link href="https://github.com/meilisearch/meilisearch" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1739836800</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1739836800</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tokio#1739836800</id>
+    <title>https://github.com/tokio-rs/tokio</title>
+    <link href="https://github.com/tokio-rs/tokio" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tracel-ai/burn#1739836800</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tree-sitter/tree-sitter#1739836800</id>
+    <title>https://github.com/tree-sitter/tree-sitter</title>
+    <link href="https://github.com/tree-sitter/tree-sitter" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">An incremental parsing system for programming tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1739836800</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/visioncortex/vtracer#1739836800</id>
+    <title>https://github.com/visioncortex/vtracer</title>
+    <link href="https://github.com/visioncortex/vtracer" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">Raster to Vector Graphics Converter</content>
+  </entry>
+</feed>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</id>
+  <title>GitHub Trending - nix (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Mic92/sops-nix#1748908800</id>
+    <title>https://github.com/Mic92/sops-nix</title>
+    <link href="https://github.com/Mic92/sops-nix" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Atomic secret provisioning for NixOS based on sops</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/infra#1748908800</id>
+    <title>https://github.com/NixOS/infra</title>
+    <link href="https://github.com/NixOS/infra" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">NixOS configurations for nixos.org and its servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nix.dev#1748908800</id>
+    <title>https://github.com/NixOS/nix.dev</title>
+    <link href="https://github.com/NixOS/nix.dev" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Official documentation for getting things done with Nix.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixos-hardware#1748908800</id>
+    <title>https://github.com/NixOS/nixos-hardware</title>
+    <link href="https://github.com/NixOS/nixos-hardware" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">A collection of NixOS modules covering hardware quirks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1748908800</id>
+    <title>https://github.com/NixOS/nixpkgs</title>
+    <link href="https://github.com/NixOS/nixpkgs" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Nix Packages collection &amp; NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NotAShelf/nvf#1748908800</id>
+    <title>https://github.com/NotAShelf/nvf</title>
+    <link href="https://github.com/NotAShelf/nvf" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astro/microvm.nix#1748908800</id>
+    <title>https://github.com/astro/microvm.nix</title>
+    <link href="https://github.com/astro/microvm.nix" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">NixOS MicroVMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cachix/devenv#1748908800</id>
+    <title>https://github.com/cachix/devenv</title>
+    <link href="https://github.com/cachix/devenv" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dustinlyons/nixos-config#1748908800</id>
+    <title>https://github.com/dustinlyons/nixos-config</title>
+    <link href="https://github.com/dustinlyons/nixos-config" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">General purpose Nix configuration for macOS / NixOS (with starter templates!)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibizaman/selfhostblocks#1748908800</id>
+    <title>https://github.com/ibizaman/selfhostblocks</title>
+    <link href="https://github.com/ibizaman/selfhostblocks" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Modular server management based on NixOS modules and focused on best practices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3d3/claude-desktop-linux-flake#1748908800</id>
+    <title>https://github.com/k3d3/claude-desktop-linux-flake</title>
+    <link href="https://github.com/k3d3/claude-desktop-linux-flake" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Nix Flake for Claude Desktop on Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/musnix/musnix#1748908800</id>
+    <title>https://github.com/musnix/musnix</title>
+    <link href="https://github.com/musnix/musnix" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Real-time audio in NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/NixOS-WSL#1748908800</id>
+    <title>https://github.com/nix-community/NixOS-WSL</title>
+    <link href="https://github.com/nix-community/NixOS-WSL" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">NixOS on WSL [maintainer=@nzbr]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/disko#1748908800</id>
+    <title>https://github.com/nix-community/disko</title>
+    <link href="https://github.com/nix-community/disko" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/home-manager#1748908800</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nixvim#1748908800</id>
+    <title>https://github.com/nix-community/nixvim</title>
+    <link href="https://github.com/nix-community/nixvim" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/stylix#1748908800</id>
+    <title>https://github.com/nix-community/stylix</title>
+    <link href="https://github.com/nix-community/stylix" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/notthebee/nix-config#1748908800</id>
+    <title>https://github.com/notthebee/nix-config</title>
+    <link href="https://github.com/notthebee/nix-config" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Configuration files for my NixOS and nix-darwin machines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvmd/nixos-raspberrypi#1748908800</id>
+    <title>https://github.com/nvmd/nixos-raspberrypi</title>
+    <link href="https://github.com/nvmd/nixos-raspberrypi" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Nix flake for a fully declarative NixOS on Raspberry Pi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryantm/agenix#1748908800</id>
+    <title>https://github.com/ryantm/agenix</title>
+    <link href="https://github.com/ryantm/agenix" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">age-encrypted secrets for NixOS and Home manager</content>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/E3SM-Project/E3SM#1740009600</id>
+    <title>https://github.com/E3SM-Project/E3SM</title>
+    <link href="https://github.com/E3SM-Project/E3SM" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Energy Exascale Earth System Model source code. NOTE: use "maint" branches for your work. Head of master is not validated.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GEOS-ESM/MAPL#1740009600</id>
+    <title>https://github.com/GEOS-ESM/MAPL</title>
+    <link href="https://github.com/GEOS-ESM/MAPL" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MCSclimate/MCT#1740009600</id>
+    <title>https://github.com/MCSclimate/MCT</title>
+    <link href="https://github.com/MCSclimate/MCT" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Model Coupling Tookit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MPAS-Dev/MPAS-Model#1740009600</id>
+    <title>https://github.com/MPAS-Dev/MPAS-Model</title>
+    <link href="https://github.com/MPAS-Dev/MPAS-Model" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Repository for MPAS models and shared framework releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NGEET/fates#1740009600</id>
+    <title>https://github.com/NGEET/fates</title>
+    <link href="https://github.com/NGEET/fates" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NOAA-GFDL/FMS#1740009600</id>
+    <title>https://github.com/NOAA-GFDL/FMS</title>
+    <link href="https://github.com/NOAA-GFDL/FMS" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">GFDL's Flexible Modeling System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFAST/openfast#1740009600</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/fckit#1740009600</id>
+    <title>https://github.com/ecmwf/fckit</title>
+    <link href="https://github.com/ecmwf/fckit" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A Fortran toolkit for interoperating Fortran with C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1740009600</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/geoschem/geos-chem#1740009600</id>
+    <title>https://github.com/geoschem/geos-chem</title>
+    <link href="https://github.com/geoschem/geos-chem" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">GEOS-Chem "Science Codebase" repository. Contains GEOS-Chem science routines, run directory generation scripts, and interface code. This repository is used as a submodule within the GCClassic and GCHP wrappers, as well as in other modeling contexts (external ESMs).</content>
+  </entry>
+</feed>

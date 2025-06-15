@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NixOS/nix-mode#1737936000</id>
+    <title>https://github.com/NixOS/nix-mode</title>
+    <link href="https://github.com/NixOS/nix-mode" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">An Emacs major mode for editing Nix expressions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akermu/emacs-libvterm#1737936000</id>
+    <title>https://github.com/akermu/emacs-libvterm</title>
+    <link href="https://github.com/akermu/emacs-libvterm" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Emacs libvterm integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1737936000</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bbatsov/projectile#1737936000</id>
+    <title>https://github.com/bbatsov/projectile</title>
+    <link href="https://github.com/bbatsov/projectile" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Project Interaction Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1737936000</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/domtronn/all-the-icons.el#1737936000</id>
+    <title>https://github.com/domtronn/all-the-icons.el</title>
+    <link href="https://github.com/domtronn/all-the-icons.el" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A utility package to collect various Icon Fonts and propertize them within Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1737936000</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1737936000</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-ui#1737936000</id>
+    <title>https://github.com/emacs-lsp/lsp-ui</title>
+    <link href="https://github.com/emacs-lsp/lsp-ui" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">UI integrations for lsp-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-php/php-mode#1737936000</id>
+    <title>https://github.com/emacs-php/php-mode</title>
+    <link href="https://github.com/emacs-php/php-mode" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A powerful and flexible Emacs major mode for editing PHP scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immerrr/lua-mode#1737936000</id>
+    <title>https://github.com/immerrr/lua-mode</title>
+    <link href="https://github.com/immerrr/lua-mode" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Emacs major mode for editing Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrblevin/markdown-mode#1737936000</id>
+    <title>https://github.com/jrblevin/markdown-mode</title>
+    <link href="https://github.com/jrblevin/markdown-mode" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Emacs Markdown Mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1737936000</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lassik/emacs-format-all-the-code#1737936000</id>
+    <title>https://github.com/lassik/emacs-format-all-the-code</title>
+    <link href="https://github.com/lassik/emacs-format-all-the-code" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Auto-format source code in many languages with one command</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1737936000</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/renzmann/treesit-auto#1737936000</id>
+    <title>https://github.com/renzmann/treesit-auto</title>
+    <link href="https://github.com/renzmann/treesit-auto" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Automatic installation, usage, and fallback for tree-sitter major modes in Emacs 29</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1737936000</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tumashu/posframe#1737936000</id>
+    <title>https://github.com/tumashu/posframe</title>
+    <link href="https://github.com/tumashu/posframe" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</content>
+  </entry>
+</feed>

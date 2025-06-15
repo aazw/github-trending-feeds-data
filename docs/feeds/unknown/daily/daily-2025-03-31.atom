@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom</id>
+  <title>GitHub Trending - unknown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/PatrickJS/awesome-cursorrules#1743379200</id>
+    <title>https://github.com/PatrickJS/awesome-cursorrules</title>
+    <link href="https://github.com/PatrickJS/awesome-cursorrules" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">📄 A curated list of awesome .cursorrules files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ngosang/trackerslist#1743379200</id>
+    <title>https://github.com/ngosang/trackerslist</title>
+    <link href="https://github.com/ngosang/trackerslist" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Updated list of public BitTorrent trackers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/punkpeye/awesome-mcp-servers#1743379200</id>
+    <title>https://github.com/punkpeye/awesome-mcp-servers</title>
+    <link href="https://github.com/punkpeye/awesome-mcp-servers" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A collection of MCP servers.</content>
+  </entry>
+</feed>

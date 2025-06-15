@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1740096000</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VundleVim/Vundle.vim#1740096000</id>
+    <title>https://github.com/VundleVim/Vundle.vim</title>
+    <link href="https://github.com/VundleVim/Vundle.vim" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Vundle, the plug-in manager for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Yggdroot/indentLine#1740096000</id>
+    <title>https://github.com/Yggdroot/indentLine</title>
+    <link href="https://github.com/Yggdroot/indentLine" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">A vim plugin to display the indention levels with thin vertical lines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1740096000</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1740096000</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1740096000</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jlanzarotta/bufexplorer#1740096000</id>
+    <title>https://github.com/jlanzarotta/bufexplorer</title>
+    <link href="https://github.com/jlanzarotta/bufexplorer" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">BufExplorer Plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-signify#1740096000</id>
+    <title>https://github.com/mhinz/vim-signify</title>
+    <link href="https://github.com/mhinz/vim-signify" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">➕ Show a diff using Vim its sign column.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1740096000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/romainl/vim-cool#1740096000</id>
+    <title>https://github.com/romainl/vim-cool</title>
+    <link href="https://github.com/romainl/vim-cool" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">A very simple plugin that makes hlsearch more useful.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1740096000</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stephpy/vim-yaml#1740096000</id>
+    <title>https://github.com/stephpy/vim-yaml</title>
+    <link href="https://github.com/stephpy/vim-yaml" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Override vim syntax for yaml files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomasr/molokai#1740096000</id>
+    <title>https://github.com/tomasr/molokai</title>
+    <link href="https://github.com/tomasr/molokai" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Molokai color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1740096000</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rails#1740096000</id>
+    <title>https://github.com/tpope/vim-rails</title>
+    <link href="https://github.com/tpope/vim-rails" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">rails.vim: Ruby on Rails power tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1740096000</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voldikss/vim-floaterm#1740096000</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wsdjeg/SpaceVim#1740096000</id>
+    <title>https://github.com/wsdjeg/SpaceVim</title>
+    <link href="https://github.com/wsdjeg/SpaceVim" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">A modular configuration of Vim and Neovim</content>
+  </entry>
+</feed>

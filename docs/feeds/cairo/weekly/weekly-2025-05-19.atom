@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cairo/weekly.atom</id>
+  <title>GitHub Trending - cairo (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cairo/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/shramee/starklings#1747612800</id>
+    <title>https://github.com/shramee/starklings</title>
+    <link href="https://github.com/shramee/starklings" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">An interactive tutorial to get you up and running with Cairo v1 and Starknet</content>
+  </entry>
+</feed>

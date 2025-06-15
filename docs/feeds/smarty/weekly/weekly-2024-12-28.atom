@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/weekly.atom</id>
+  <title>GitHub Trending - smarty (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-28T14:41:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/rancher/charts#1735396875</id>
+    <title>https://github.com/rancher/charts</title>
+    <link href="https://github.com/rancher/charts" />
+    <updated>2024-12-28T14:41:15+00:00</updated>
+    <content type="text">Github based Helm Chart Index Repository providing charts crafted for Rancher Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wiz-sec/charts#1735396875</id>
+    <title>https://github.com/wiz-sec/charts</title>
+    <link href="https://github.com/wiz-sec/charts" />
+    <updated>2024-12-28T14:41:15+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/charts#1735396875</id>
+    <title>https://github.com/cloudnative-pg/charts</title>
+    <link href="https://github.com/cloudnative-pg/charts" />
+    <updated>2024-12-28T14:41:15+00:00</updated>
+    <content type="text">CloudNativePG Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/helm-charts#1735396875</id>
+    <title>https://github.com/grafana/helm-charts</title>
+    <link href="https://github.com/grafana/helm-charts" />
+    <updated>2024-12-28T14:41:15+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/sidpalas/devops-directive-kubernetes-course#1735396875</id>
+    <title>https://github.com/sidpalas/devops-directive-kubernetes-course</title>
+    <link href="https://github.com/sidpalas/devops-directive-kubernetes-course" />
+    <updated>2024-12-28T14:41:15+00:00</updated>
+    <content type="text">This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb/helm-charts#1735396875</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2024-12-28T14:41:15+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/truenas/charts#1735396875</id>
+    <title>https://github.com/truenas/charts</title>
+    <link href="https://github.com/truenas/charts" />
+    <updated>2024-12-28T14:41:15+00:00</updated>
+    <content type="text">TrueNAS SCALE Apps Catalogs &amp; Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1735396875</id>
+    <title>https://github.com/truecharts/public</title>
+    <link href="https://github.com/truecharts/public" />
+    <updated>2024-12-28T14:41:15+00:00</updated>
+    <content type="text">Community Helm Chart Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plexinc/pms-docker#1735396875</id>
+    <title>https://github.com/plexinc/pms-docker</title>
+    <link href="https://github.com/plexinc/pms-docker" />
+    <updated>2024-12-28T14:41:15+00:00</updated>
+    <content type="text">Plex Media Server Docker repo, for all your PMS docker needs.</content>
+  </entry>
+</feed>

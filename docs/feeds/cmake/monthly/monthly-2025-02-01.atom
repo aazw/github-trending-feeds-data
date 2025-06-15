@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/monthly.atom</id>
+  <title>GitHub Trending - cmake (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Andersama/obs-asio#1738368000</id>
+    <title>https://github.com/Andersama/obs-asio</title>
+    <link href="https://github.com/Andersama/obs-asio" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">ASIO plugin for OBS-Studio</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1738368000</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PX4/px4_msgs#1738368000</id>
+    <title>https://github.com/PX4/px4_msgs</title>
+    <link href="https://github.com/PX4/px4_msgs" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">ROS/ROS2 messages that match the uORB messages counterparts on the PX4 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheRobotStudio/SO-ARM100#1738368000</id>
+    <title>https://github.com/TheRobotStudio/SO-ARM100</title>
+    <link href="https://github.com/TheRobotStudio/SO-ARM100" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Standard Open Arm 100</content>
+  </entry>
+  <entry>
+    <id>https://github.com/boostorg/cmake#1738368000</id>
+    <title>https://github.com/boostorg/cmake</title>
+    <link href="https://github.com/boostorg/cmake" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">CMake support infrastructure Boost submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/corrosion-rs/corrosion#1738368000</id>
+    <title>https://github.com/corrosion-rs/corrosion</title>
+    <link href="https://github.com/corrosion-rs/corrosion" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Marrying Rust and CMake - Easy Rust and C/C++ Integration!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/ecbuild#1738368000</id>
+    <title>https://github.com/ecmwf/ecbuild</title>
+    <link href="https://github.com/ecmwf/ecbuild" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flathub/shared-modules#1738368000</id>
+    <title>https://github.com/flathub/shared-modules</title>
+    <link href="https://github.com/flathub/shared-modules" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Common Flatpak modules that can be used as a git submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1738368000</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1738368000</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+</feed>

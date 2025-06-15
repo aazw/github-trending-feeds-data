@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SpinalHDL/VexiiRiscv#1747612800</id>
+    <title>https://github.com/SpinalHDL/VexiiRiscv</title>
+    <link href="https://github.com/SpinalHDL/VexiiRiscv" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Like VexRiscv, but, Harder, Better, Faster, Stronger</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheHive-Project/TheHive#1747612800</id>
+    <title>https://github.com/TheHive-Project/TheHive</title>
+    <link href="https://github.com/TheHive-Project/TheHive" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">TheHive: a Scalable, Open Source and Free Security Incident Response Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akka/akka#1747612800</id>
+    <title>https://github.com/akka/akka</title>
+    <link href="https://github.com/akka/akka" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1747612800</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-livy#1747612800</id>
+    <title>https://github.com/apache/incubator-livy</title>
+    <link href="https://github.com/apache/incubator-livy" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/kyuubi#1747612800</id>
+    <title>https://github.com/apache/kyuubi</title>
+    <link href="https://github.com/apache/kyuubi" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/openwhisk#1747612800</id>
+    <title>https://github.com/apache/openwhisk</title>
+    <link href="https://github.com/apache/openwhisk" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Apache OpenWhisk is an open source serverless cloud platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1747612800</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/sam#1747612800</id>
+    <title>https://github.com/broadinstitute/sam</title>
+    <link href="https://github.com/broadinstitute/sam" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">workbench identity and access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/chisel#1747612800</id>
+    <title>https://github.com/chipsalliance/chisel</title>
+    <link href="https://github.com/chipsalliance/chisel" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Chisel: A Modern Hardware Design Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1747612800</id>
+    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
+    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Spark: The Definitive Guide's Code Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1747612800</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/enso-org/enso#1747612800</id>
+    <title>https://github.com/enso-org/enso</title>
+    <link href="https://github.com/enso-org/enso" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Enso Analytics is a self-service data prep and analysis platform designed for data teams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1747612800</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/locationtech/geomesa#1747612800</id>
+    <title>https://github.com/locationtech/geomesa</title>
+    <link href="https://github.com/locationtech/geomesa" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">GeoMesa is a suite of tools for working with big geo-spatial data in a distributed fashion.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/finagle#1747612800</id>
+    <title>https://github.com/twitter/finagle</title>
+    <link href="https://github.com/twitter/finagle" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">A fault tolerant, protocol-agnostic RPC system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/scrooge#1747612800</id>
+    <title>https://github.com/twitter/scrooge</title>
+    <link href="https://github.com/twitter/scrooge" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">A Thrift parser/generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1747612800</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/berkeley-hardfloat#1747612800</id>
+    <title>https://github.com/ucb-bar/berkeley-hardfloat</title>
+    <link href="https://github.com/ucb-bar/berkeley-hardfloat" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/zio/zio#1747612800</id>
+    <title>https://github.com/zio/zio</title>
+    <link href="https://github.com/zio/zio" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">ZIO — A type-safe, composable library for async and concurrent programming in Scala</content>
+  </entry>
+</feed>

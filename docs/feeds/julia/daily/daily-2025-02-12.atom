@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CliMA/ClimaAtmos.jl#1739318400</id>
+    <title>https://github.com/CliMA/ClimaAtmos.jl</title>
+    <link href="https://github.com/CliMA/ClimaAtmos.jl" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaLand.jl#1739318400</id>
+    <title>https://github.com/CliMA/ClimaLand.jl</title>
+    <link href="https://github.com/CliMA/ClimaLand.jl" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Clima's Land Model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/CloudMicrophysics.jl#1739318400</id>
+    <title>https://github.com/CliMA/CloudMicrophysics.jl</title>
+    <link href="https://github.com/CliMA/CloudMicrophysics.jl" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">A library of cloud microphysics parameterizations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/Oceananigans.jl#1739318400</id>
+    <title>https://github.com/CliMA/Oceananigans.jl</title>
+    <link href="https://github.com/CliMA/Oceananigans.jl" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1739318400</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaPlots/Plots.jl#1739318400</id>
+    <title>https://github.com/JuliaPlots/Plots.jl</title>
+    <link href="https://github.com/JuliaPlots/Plots.jl" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Powerful convenience for Julia visualizations and data analysis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1739318400</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NREL-Sienna/PowerSystems.jl#1739318400</id>
+    <title>https://github.com/NREL-Sienna/PowerSystems.jl</title>
+    <link href="https://github.com/NREL-Sienna/PowerSystems.jl" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Data structures in Julia to enable power systems analysis. Part of the Scalable Integrated Infrastructure Planning Initiative at the National Renewable Energy Lab.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NREL/PRAS#1739318400</id>
+    <title>https://github.com/NREL/PRAS</title>
+    <link href="https://github.com/NREL/PRAS" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">NREL's Probabilistic Resource Adequacy Suite (PRAS)</content>
+  </entry>
+</feed>

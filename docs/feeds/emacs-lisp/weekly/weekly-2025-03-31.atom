@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom</id>
+  <title>GitHub Trending - emacs-lisp (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/alphapapa/org-ql#1743379200</id>
+    <title>https://github.com/alphapapa/org-ql</title>
+    <link href="https://github.com/alphapapa/org-ql" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1743379200</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1743379200</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1743379200</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1743379200</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xenodium/chatgpt-shell#1743379200</id>
+    <title>https://github.com/xenodium/chatgpt-shell</title>
+    <link href="https://github.com/xenodium/chatgpt-shell" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations</content>
+  </entry>
+</feed>

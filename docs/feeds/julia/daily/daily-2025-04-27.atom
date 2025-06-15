@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CliMA/ClimaCore.jl#1745712000</id>
+    <title>https://github.com/CliMA/ClimaCore.jl</title>
+    <link href="https://github.com/CliMA/ClimaCore.jl" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">CliMA model dycore</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaCoupler.jl#1745712000</id>
+    <title>https://github.com/CliMA/ClimaCoupler.jl</title>
+    <link href="https://github.com/CliMA/ClimaCoupler.jl" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">ClimaCoupler: bringing atmosphere, land, and ocean together</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaLand.jl#1745712000</id>
+    <title>https://github.com/CliMA/ClimaLand.jl</title>
+    <link href="https://github.com/CliMA/ClimaLand.jl" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Clima's Land Model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaOcean.jl#1745712000</id>
+    <title>https://github.com/CliMA/ClimaOcean.jl</title>
+    <link href="https://github.com/CliMA/ClimaOcean.jl" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">🌎 Regional-to-global coupled ocean and sea ice simulations based on Oceananigans.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/CloudMicrophysics.jl#1745712000</id>
+    <title>https://github.com/CliMA/CloudMicrophysics.jl</title>
+    <link href="https://github.com/CliMA/CloudMicrophysics.jl" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">A library of cloud microphysics parameterizations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1745712000</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaReach/RangeEnclosures.jl#1745712000</id>
+    <title>https://github.com/JuliaReach/RangeEnclosures.jl</title>
+    <link href="https://github.com/JuliaReach/RangeEnclosures.jl" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Enclosures of real-valued functions in Julia</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1745712000</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/StructuralIdentifiability.jl#1745712000</id>
+    <title>https://github.com/SciML/StructuralIdentifiability.jl</title>
+    <link href="https://github.com/SciML/StructuralIdentifiability.jl" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Fast and automatic structural identifiability software for ODE systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aviatesk/JET.jl#1745712000</id>
+    <title>https://github.com/aviatesk/JET.jl</title>
+    <link href="https://github.com/aviatesk/JET.jl" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">An experimental code analyzer for Julia. No need for additional type annotations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chalk-lab/Mooncake.jl#1745712000</id>
+    <title>https://github.com/chalk-lab/Mooncake.jl</title>
+    <link href="https://github.com/chalk-lab/Mooncake.jl" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">language level autograd compiler for Julia</content>
+  </entry>
+</feed>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ArthurBrussee/brush#1747008000</id>
+    <title>https://github.com/ArthurBrussee/brush</title>
+    <link href="https://github.com/ArthurBrussee/brush" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">3D Reconstruction for all</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BurntSushi/ripgrep#1747008000</id>
+    <title>https://github.com/BurntSushi/ripgrep</title>
+    <link href="https://github.com/BurntSushi/ripgrep" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EasyTier/EasyTier#1747008000</id>
+    <title>https://github.com/EasyTier/EasyTier</title>
+    <link href="https://github.com/EasyTier/EasyTier" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A simple, decentralized mesh VPN with WireGuard support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation#1747008000</id>
+    <title>https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation</title>
+    <link href="https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actix/actix-web#1747008000</id>
+    <title>https://github.com/actix/actix-web</title>
+    <link href="https://github.com/actix/actix-web" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1747008000</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emilk/egui#1747008000</id>
+    <title>https://github.com/emilk/egui</title>
+    <link href="https://github.com/emilk/egui" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1747008000</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lencx/ChatGPT#1747008000</id>
+    <title>https://github.com/lencx/ChatGPT</title>
+    <link href="https://github.com/lencx/ChatGPT" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">🔮 ChatGPT Desktop Application (Mac, Windows and Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/longbridge/gpui-component#1747008000</id>
+    <title>https://github.com/longbridge/gpui-component</title>
+    <link href="https://github.com/longbridge/gpui-component" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">UI components for building fantastic desktop application by using GPUI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modrinth/code#1747008000</id>
+    <title>https://github.com/modrinth/code</title>
+    <link href="https://github.com/modrinth/code" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">The Modrinth monorepo containing all code which powers Modrinth!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/parcel-bundler/lightningcss#1747008000</id>
+    <title>https://github.com/parcel-bundler/lightningcss</title>
+    <link href="https://github.com/parcel-bundler/lightningcss" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ratatui/ratatui#1747008000</id>
+    <title>https://github.com/ratatui/ratatui</title>
+    <link href="https://github.com/ratatui/ratatui" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/book#1747008000</id>
+    <title>https://github.com/rust-lang/book</title>
+    <link href="https://github.com/rust-lang/book" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">The Rust Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1747008000</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/servo/servo#1747008000</id>
+    <title>https://github.com/servo/servo</title>
+    <link href="https://github.com/servo/servo" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sirupsen/napkin-math#1747008000</id>
+    <title>https://github.com/sirupsen/napkin-math</title>
+    <link href="https://github.com/sirupsen/napkin-math" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Techniques and numbers for estimating system's performance from first-principles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-foundation/anchor#1747008000</id>
+    <title>https://github.com/solana-foundation/anchor</title>
+    <link href="https://github.com/solana-foundation/anchor" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">⚓ Solana Sealevel Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1747008000</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1747008000</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1747008000</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vosen/ZLUDA#1747008000</id>
+    <title>https://github.com/vosen/ZLUDA</title>
+    <link href="https://github.com/vosen/ZLUDA" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">CUDA on non-NVIDIA GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1747008000</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zellij-org/zellij#1747008000</id>
+    <title>https://github.com/zellij-org/zellij</title>
+    <link href="https://github.com/zellij-org/zellij" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A terminal workspace with batteries included</content>
+  </entry>
+</feed>

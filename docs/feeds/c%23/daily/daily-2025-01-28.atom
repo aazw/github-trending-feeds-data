@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c%23/daily.atom</id>
+  <title>GitHub Trending - c%23 (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c%23/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/App-vNext/Polly#1738022400</id>
+    <title>https://github.com/App-vNext/Polly</title>
+    <link href="https://github.com/App-vNext/Polly" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk-for-net#1738022400</id>
+    <title>https://github.com/Azure/azure-sdk-for-net</title>
+    <link href="https://github.com/Azure/azure-sdk-for-net" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BartoszCichecki/LenovoLegionToolkit#1738022400</id>
+    <title>https://github.com/BartoszCichecki/LenovoLegionToolkit</title>
+    <link href="https://github.com/BartoszCichecki/LenovoLegionToolkit" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ElectronNET/Electron.NET#1738022400</id>
+    <title>https://github.com/ElectronNET/Electron.NET</title>
+    <link href="https://github.com/ElectronNET/Electron.NET" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Build cross platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GhostPack/Seatbelt#1738022400</id>
+    <title>https://github.com/GhostPack/Seatbelt</title>
+    <link href="https://github.com/GhostPack/Seatbelt" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Seatbelt is a C# project that performs a number of security oriented host-survey "safety checks" relevant from both offensive and defensive security perspectives.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MudBlazor/MudBlazor#1738022400</id>
+    <title>https://github.com/MudBlazor/MudBlazor</title>
+    <link href="https://github.com/MudBlazor/MudBlazor" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Blazor Component Library based on Material Design principles with an emphasis on ease of use and extensibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShell/PowerShell#1738022400</id>
+    <title>https://github.com/PowerShell/PowerShell</title>
+    <link href="https://github.com/PowerShell/PowerShell" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">PowerShell for every system!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TechnitiumSoftware/DnsServer#1738022400</id>
+    <title>https://github.com/TechnitiumSoftware/DnsServer</title>
+    <link href="https://github.com/TechnitiumSoftware/DnsServer" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Technitium DNS Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beeradmoore/dlss-swapper#1738022400</id>
+    <title>https://github.com/beeradmoore/dlss-swapper</title>
+    <link href="https://github.com/beeradmoore/dlss-swapper" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/Silk.NET#1738022400</id>
+    <title>https://github.com/dotnet/Silk.NET</title>
+    <link href="https://github.com/dotnet/Silk.NET" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">The high-speed OpenGL, OpenCL, OpenAL, OpenXR, GLFW, SDL, Vulkan, Assimp, WebGPU, and DirectX bindings library your mother warned you about.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/aspire#1738022400</id>
+    <title>https://github.com/dotnet/aspire</title>
+    <link href="https://github.com/dotnet/aspire" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Tools, templates, and packages to accelerate building observable, production-ready apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/efcore#1738022400</id>
+    <title>https://github.com/dotnet/efcore</title>
+    <link href="https://github.com/dotnet/efcore" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/maui#1738022400</id>
+    <title>https://github.com/dotnet/maui</title>
+    <link href="https://github.com/dotnet/maui" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/sdk#1738022400</id>
+    <title>https://github.com/dotnet/sdk</title>
+    <link href="https://github.com/dotnet/sdk" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duplicati/duplicati#1738022400</id>
+    <title>https://github.com/duplicati/duplicati</title>
+    <link href="https://github.com/duplicati/duplicati" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Store securely encrypted backups in the cloud!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/files-community/Files#1738022400</id>
+    <title>https://github.com/files-community/Files</title>
+    <link href="https://github.com/files-community/Files" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A modern file manager that helps users organize their files and folders.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgrzybek/modular-monolith-with-ddd#1738022400</id>
+    <title>https://github.com/kgrzybek/modular-monolith-with-ddd</title>
+    <link href="https://github.com/kgrzybek/modular-monolith-with-ddd" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Full Modular Monolith application with Domain-Driven Design approach.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mRemoteNG/mRemoteNG#1738022400</id>
+    <title>https://github.com/mRemoteNG/mRemoteNG</title>
+    <link href="https://github.com/mRemoteNG/mRemoteNG" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">mRemoteNG is the next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/devhome#1738022400</id>
+    <title>https://github.com/microsoft/devhome</title>
+    <link href="https://github.com/microsoft/devhome" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">The new Dev Home experience for Windows!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/semantic-kernel#1738022400</id>
+    <title>https://github.com/microsoft/semantic-kernel</title>
+    <link href="https://github.com/microsoft/semantic-kernel" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Integrate cutting-edge LLM technology quickly and easily into your apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/testfx#1738022400</id>
+    <title>https://github.com/microsoft/testfx</title>
+    <link href="https://github.com/microsoft/testfx" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">This repository holds the source code of Microsoft.Testing.Platform (MTP), a lightweight alternative to VSTest, as well as MSTest adapter and framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mob-sakai/UIEffect#1738022400</id>
+    <title>https://github.com/mob-sakai/UIEffect</title>
+    <link href="https://github.com/mob-sakai/UIEffect" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to decorate your UI with a unique visual style!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-dotnet#1738022400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-dotnet</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-dotnet" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">The OpenTelemetry .NET Client</content>
+  </entry>
+</feed>

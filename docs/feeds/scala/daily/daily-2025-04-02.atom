@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JohnSnowLabs/spark-nlp#1743552000</id>
+    <title>https://github.com/JohnSnowLabs/spark-nlp</title>
+    <link href="https://github.com/JohnSnowLabs/spark-nlp" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">State of the Art Natural Language Processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/spark-rapids#1743552000</id>
+    <title>https://github.com/NVIDIA/spark-rapids</title>
+    <link href="https://github.com/NVIDIA/spark-rapids" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Spark RAPIDS plugin - accelerate Apache Spark with GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheHive-Project/TheHive#1743552000</id>
+    <title>https://github.com/TheHive-Project/TheHive</title>
+    <link href="https://github.com/TheHive-Project/TheHive" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">TheHive: a Scalable, Open Source and Free Security Incident Response Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1743552000</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-livy#1743552000</id>
+    <title>https://github.com/apache/incubator-livy</title>
+    <link href="https://github.com/apache/incubator-livy" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1743552000</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/deequ#1743552000</id>
+    <title>https://github.com/awslabs/deequ</title>
+    <link href="https://github.com/awslabs/deequ" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1743552000</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-sharing#1743552000</id>
+    <title>https://github.com/delta-io/delta-sharing</title>
+    <link href="https://github.com/delta-io/delta-sharing" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">An open protocol for secure data sharing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbucket/gitbucket#1743552000</id>
+    <title>https://github.com/gitbucket/gitbucket</title>
+    <link href="https://github.com/gitbucket/gitbucket" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joernio/joern#1743552000</id>
+    <title>https://github.com/joernio/joern</title>
+    <link href="https://github.com/joernio/joern" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rtyley/bfg-repo-cleaner#1743552000</id>
+    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
+    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbt/sbt#1743552000</id>
+    <title>https://github.com/sbt/sbt</title>
+    <link href="https://github.com/sbt/sbt" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">sbt, the interactive build tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala3#1743552000</id>
+    <title>https://github.com/scala/scala3</title>
+    <link href="https://github.com/scala/scala3" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">The Scala 3 compiler, also known as Dotty.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/riscv-torture#1743552000</id>
+    <title>https://github.com/ucb-bar/riscv-torture</title>
+    <link href="https://github.com/ucb-bar/riscv-torture" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">RISC-V Torture Test</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zio/zio#1743552000</id>
+    <title>https://github.com/zio/zio</title>
+    <link href="https://github.com/zio/zio" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">ZIO — A type-safe, composable library for async and concurrent programming in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zio/zio-http#1743552000</id>
+    <title>https://github.com/zio/zio-http</title>
+    <link href="https://github.com/zio/zio-http" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers</content>
+  </entry>
+</feed>

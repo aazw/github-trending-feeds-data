@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/bbatsov/projectile#1747008000</id>
+    <title>https://github.com/bbatsov/projectile</title>
+    <link href="https://github.com/bbatsov/projectile" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Project Interaction Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chep/copilot-chat.el#1747008000</id>
+    <title>https://github.com/chep/copilot-chat.el</title>
+    <link href="https://github.com/chep/copilot-chat.el" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Chat with Github copilot in Emacs !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/company-mode/company-mode#1747008000</id>
+    <title>https://github.com/company-mode/company-mode</title>
+    <link href="https://github.com/company-mode/company-mode" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Modular in-buffer completion framework for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/domtronn/all-the-icons.el#1747008000</id>
+    <title>https://github.com/domtronn/all-the-icons.el</title>
+    <link href="https://github.com/domtronn/all-the-icons.el" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A utility package to collect various Icon Fonts and propertize them within Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1747008000</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/themes#1747008000</id>
+    <title>https://github.com/doomemacs/themes</title>
+    <link href="https://github.com/doomemacs/themes" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A megapack of themes for GNU Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1747008000</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flycheck/flycheck#1747008000</id>
+    <title>https://github.com/flycheck/flycheck</title>
+    <link href="https://github.com/flycheck/flycheck" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">On the fly syntax checking for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1747008000</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1747008000</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1747008000</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/dash.el#1747008000</id>
+    <title>https://github.com/magnars/dash.el</title>
+    <link href="https://github.com/magnars/dash.el" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A modern list library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1747008000</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mmontone/emacs-inspector#1747008000</id>
+    <title>https://github.com/mmontone/emacs-inspector</title>
+    <link href="https://github.com/mmontone/emacs-inspector" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Inspection tool for Emacs Lisp objects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protesilaos/modus-themes#1747008000</id>
+    <title>https://github.com/protesilaos/modus-themes</title>
+    <link href="https://github.com/protesilaos/modus-themes" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/exec-path-from-shell#1747008000</id>
+    <title>https://github.com/purcell/exec-path-from-shell</title>
+    <link href="https://github.com/purcell/exec-path-from-shell" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Make Emacs use the $PATH set up by the user's shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons.el#1747008000</id>
+    <title>https://github.com/rainstormstudio/nerd-icons.el</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons.el" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/rejeep/f.el#1747008000</id>
+    <title>https://github.com/rejeep/f.el</title>
+    <link href="https://github.com/rejeep/f.el" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Modern API for working with files and directories in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1747008000</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seagle0128/doom-modeline#1747008000</id>
+    <title>https://github.com/seagle0128/doom-modeline</title>
+    <link href="https://github.com/seagle0128/doom-modeline" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A fancy and fast mode-line inspired by minimalism design.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1747008000</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

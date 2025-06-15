@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/" rel="alternate" />
+  <updated>2024-12-26T11:26:02+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/immunogenomics/harmony#1735212362</id>
+    <title>https://github.com/immunogenomics/harmony</title>
+    <link href="https://github.com/immunogenomics/harmony" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">Fast, sensitive and accurate integration of single-cell data with Harmony</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat-wrappers#1735212362</id>
+    <title>https://github.com/satijalab/seurat-wrappers</title>
+    <link href="https://github.com/satijalab/seurat-wrappers" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">Community-provided extensions to Seurat</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cole-trapnell-lab/monocle3#1735212362</id>
+    <title>https://github.com/cole-trapnell-lab/monocle3</title>
+    <link href="https://github.com/cole-trapnell-lab/monocle3" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/MRCIEU/TwoSampleMR#1735212362</id>
+    <title>https://github.com/MRCIEU/TwoSampleMR</title>
+    <link href="https://github.com/MRCIEU/TwoSampleMR" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">R package for performing 2-sample MR using MR-Base database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1735212362</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swirldev/swirl_courses#1735212362</id>
+    <title>https://github.com/swirldev/swirl_courses</title>
+    <link href="https://github.com/swirldev/swirl_courses" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">🎓 A collection of interactive courses for the swirl R package.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/pointblank#1735212362</id>
+    <title>https://github.com/rstudio/pointblank</title>
+    <link href="https://github.com/rstudio/pointblank" />
+    <updated>2024-12-26T11:26:02+00:00</updated>
+    <content type="text">Data quality assessment and metadata reporting for data frames and database tables</content>
+  </entry>
+</feed>

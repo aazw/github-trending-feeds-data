@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom</id>
+  <title>GitHub Trending - makefile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ROCKNIX/distribution#1746921600</id>
+    <title>https://github.com/ROCKNIX/distribution</title>
+    <link href="https://github.com/ROCKNIX/distribution" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/WerWolv/Tesla-Menu#1746921600</id>
+    <title>https://github.com/WerWolv/Tesla-Menu</title>
+    <link href="https://github.com/WerWolv/Tesla-Menu" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">The Nintendo Switch overlay menu</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/eks-anywhere-build-tooling#1746921600</id>
+    <title>https://github.com/aws/eks-anywhere-build-tooling</title>
+    <link href="https://github.com/aws/eks-anywhere-build-tooling" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Build artifacts for upstream dependencies of Amazon EKS Anywhere - https://github.com/aws/eks-anywhere</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cilium/hubble#1746921600</id>
+    <title>https://github.com/cilium/hubble</title>
+    <link href="https://github.com/cilium/hubble" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Hubble - Network, Service &amp; Security Observability for Kubernetes using eBPF</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dbt-labs/dbt-utils#1746921600</id>
+    <title>https://github.com/dbt-labs/dbt-utils</title>
+    <link href="https://github.com/dbt-labs/dbt-utils" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Utility functions for dbt projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duckdb/extension-ci-tools#1746921600</id>
+    <title>https://github.com/duckdb/extension-ci-tools</title>
+    <link href="https://github.com/duckdb/extension-ci-tools" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Repository containing reusable workflows / actions for building DuckDB extensions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foostan/crkbd#1746921600</id>
+    <title>https://github.com/foostan/crkbd</title>
+    <link href="https://github.com/foostan/crkbd" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto#1746921600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">OpenTelemetry protocol (OTLP) specification and Protobuf definitions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/upbound/build#1746921600</id>
+    <title>https://github.com/upbound/build</title>
+    <link href="https://github.com/upbound/build" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Upbound build and CI scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuk7/ArchWSL#1746921600</id>
+    <title>https://github.com/yuk7/ArchWSL</title>
+    <link href="https://github.com/yuk7/ArchWSL" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">ArchLinux based WSL Distribution. Supports multiple install.</content>
+  </entry>
+</feed>

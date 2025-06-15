@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cilium/cilium#1737676800</id>
+    <title>https://github.com/cilium/cilium</title>
+    <link href="https://github.com/cilium/cilium" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">eBPF-based Networking, Security, and Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/gateway#1737676800</id>
+    <title>https://github.com/envoyproxy/gateway</title>
+    <link href="https://github.com/envoyproxy/gateway" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1737676800</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/superchain-registry#1737676800</id>
+    <title>https://github.com/ethereum-optimism/superchain-registry</title>
+    <link href="https://github.com/ethereum-optimism/superchain-registry" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1737676800</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1737676800</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goreleaser/goreleaser#1737676800</id>
+    <title>https://github.com/goreleaser/goreleaser</title>
+    <link href="https://github.com/goreleaser/goreleaser" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Release engineering, simplified</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1737676800</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hibiken/asynq#1737676800</id>
+    <title>https://github.com/hibiken/asynq</title>
+    <link href="https://github.com/hibiken/asynq" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Simple, reliable, and efficient distributed task queue in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1737676800</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/json-iterator/go#1737676800</id>
+    <title>https://github.com/json-iterator/go</title>
+    <link href="https://github.com/json-iterator/go" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A high-performance 100% compatible drop-in replacement of "encoding/json"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/knadh/listmonk#1737676800</id>
+    <title>https://github.com/knadh/listmonk</title>
+    <link href="https://github.com/knadh/listmonk" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/autoscaler#1737676800</id>
+    <title>https://github.com/kubernetes/autoscaler</title>
+    <link href="https://github.com/kubernetes/autoscaler" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Autoscaling components for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oapi-codegen/oapi-codegen#1737676800</id>
+    <title>https://github.com/oapi-codegen/oapi-codegen</title>
+    <link href="https://github.com/oapi-codegen/oapi-codegen" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Generate Go client and server boilerplate from OpenAPI 3 specifications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1737676800</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1737676800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentofu/opentofu#1737676800</id>
+    <title>https://github.com/opentofu/opentofu</title>
+    <link href="https://github.com/opentofu/opentofu" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">OpenTofu lets you declaratively manage your cloud infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/blackbox_exporter#1737676800</id>
+    <title>https://github.com/prometheus/blackbox_exporter</title>
+    <link href="https://github.com/prometheus/blackbox_exporter" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Blackbox prober exporter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1737676800</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/runatlantis/atlantis#1737676800</id>
+    <title>https://github.com/runatlantis/atlantis</title>
+    <link href="https://github.com/runatlantis/atlantis" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Terraform Pull Request Automation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sirupsen/logrus#1737676800</id>
+    <title>https://github.com/sirupsen/logrus</title>
+    <link href="https://github.com/sirupsen/logrus" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Structured, pluggable logging for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1737676800</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/zap#1737676800</id>
+    <title>https://github.com/uber-go/zap</title>
+    <link href="https://github.com/uber-go/zap" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wavetermdev/waveterm#1737676800</id>
+    <title>https://github.com/wavetermdev/waveterm</title>
+    <link href="https://github.com/wavetermdev/waveterm" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">An open-source, cross-platform terminal for seamless workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yorukot/superfile#1737676800</id>
+    <title>https://github.com/yorukot/superfile</title>
+    <link href="https://github.com/yorukot/superfile" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Pretty fancy and modern terminal file manager</content>
+  </entry>
+</feed>

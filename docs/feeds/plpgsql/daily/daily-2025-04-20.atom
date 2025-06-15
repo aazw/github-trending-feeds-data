@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/plpgsql/daily.atom</id>
+  <title>GitHub Trending - plpgsql (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/plpgsql/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/digoal/blog#1745107200</id>
+    <title>https://github.com/digoal/blog</title>
+    <link href="https://github.com/digoal/blog" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lfittl/activerecord-clean-db-structure#1745107200</id>
+    <title>https://github.com/lfittl/activerecord-clean-db-structure</title>
+    <link href="https://github.com/lfittl/activerecord-clean-db-structure" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Automatic cleanup for the Rails db/structure.sql file (ActiveRecord/PostgreSQL)</content>
+  </entry>
+</feed>

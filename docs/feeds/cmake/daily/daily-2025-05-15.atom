@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1747267200</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheLartians/ModernCppStarter#1747267200</id>
+    <title>https://github.com/TheLartians/ModernCppStarter</title>
+    <link href="https://github.com/TheLartians/ModernCppStarter" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arsenm/sanitizers-cmake#1747267200</id>
+    <title>https://github.com/arsenm/sanitizers-cmake</title>
+    <link href="https://github.com/arsenm/sanitizers-cmake" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">CMake modules to help use sanitizers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware_msgs#1747267200</id>
+    <title>https://github.com/autowarefoundation/autoware_msgs</title>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/corrosion-rs/corrosion#1747267200</id>
+    <title>https://github.com/corrosion-rs/corrosion</title>
+    <link href="https://github.com/corrosion-rs/corrosion" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Marrying Rust and CMake - Easy Rust and C/C++ Integration!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leetal/ios-cmake#1747267200</id>
+    <title>https://github.com/leetal/ios-cmake</title>
+    <link href="https://github.com/leetal/ios-cmake" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1747267200</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-planning/navigation_msgs#1747267200</id>
+    <title>https://github.com/ros-planning/navigation_msgs</title>
+    <link href="https://github.com/ros-planning/navigation_msgs" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Message packages required by the navigation stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1747267200</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+</feed>

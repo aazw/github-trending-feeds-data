@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1749772800</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/advancedtelematic/quickcheck-state-machine#1749772800</id>
+    <title>https://github.com/advancedtelematic/quickcheck-state-machine</title>
+    <link href="https://github.com/advancedtelematic/quickcheck-state-machine" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Test monadic programs using state machine based models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augustss/MicroHs#1749772800</id>
+    <title>https://github.com/augustss/MicroHs</title>
+    <link href="https://github.com/augustss/MicroHs" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Haskell implemented with combinators</content>
+  </entry>
+  <entry>
+    <id>https://github.com/composewell/streamly#1749772800</id>
+    <title>https://github.com/composewell/streamly</title>
+    <link href="https://github.com/composewell/streamly" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">High performance, concurrent functional programming abstractions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1749772800</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1749772800</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1749772800</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simonmichael/hledger#1749772800</id>
+    <title>https://github.com/simonmichael/hledger</title>
+    <link href="https://github.com/simonmichael/hledger" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidalcycles/Tidal#1749772800</id>
+    <title>https://github.com/tidalcycles/Tidal</title>
+    <link href="https://github.com/tidalcycles/Tidal" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Pattern language</content>
+  </entry>
+</feed>

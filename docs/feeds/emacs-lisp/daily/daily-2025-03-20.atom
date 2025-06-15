@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Wilfred/elisp-refs#1742428800</id>
+    <title>https://github.com/Wilfred/elisp-refs</title>
+    <link href="https://github.com/Wilfred/elisp-refs" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">semantic code search for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/company-mode/company-mode#1742428800</id>
+    <title>https://github.com/company-mode/company-mode</title>
+    <link href="https://github.com/company-mode/company-mode" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Modular in-buffer completion framework for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dajva/rg.el#1742428800</id>
+    <title>https://github.com/dajva/rg.el</title>
+    <link href="https://github.com/dajva/rg.el" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Emacs search tool based on ripgrep</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1742428800</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1742428800</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-mode#1742428800</id>
+    <title>https://github.com/haskell/haskell-mode</title>
+    <link href="https://github.com/haskell/haskell-mode" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Emacs mode for Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1742428800</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1742428800</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/forge#1742428800</id>
+    <title>https://github.com/magit/forge</title>
+    <link href="https://github.com/magit/forge" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Work with Git forges from the comfort of Magit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1742428800</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1742428800</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oantolin/embark#1742428800</id>
+    <title>https://github.com/oantolin/embark</title>
+    <link href="https://github.com/oantolin/embark" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Emacs Mini-Buffer Actions Rooted in Keymaps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1742428800</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Interact with Aider: AI pair programming made simple</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volrath/treepy.el#1742428800</id>
+    <title>https://github.com/volrath/treepy.el</title>
+    <link href="https://github.com/volrath/treepy.el" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Generic tree traversing tools for Emacs Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zkry/yaml.el#1742428800</id>
+    <title>https://github.com/zkry/yaml.el</title>
+    <link href="https://github.com/zkry/yaml.el" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">YAML parser in Elisp</content>
+  </entry>
+</feed>

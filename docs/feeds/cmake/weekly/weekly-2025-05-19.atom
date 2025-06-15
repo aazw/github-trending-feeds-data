@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom</id>
+  <title>GitHub Trending - cmake (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/TheLartians/ModernCppStarter#1747612800</id>
+    <title>https://github.com/TheLartians/ModernCppStarter</title>
+    <link href="https://github.com/TheLartians/ModernCppStarter" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/corrosion-rs/corrosion#1747612800</id>
+    <title>https://github.com/corrosion-rs/corrosion</title>
+    <link href="https://github.com/corrosion-rs/corrosion" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Marrying Rust and CMake - Easy Rust and C/C++ Integration!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1747612800</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+</feed>

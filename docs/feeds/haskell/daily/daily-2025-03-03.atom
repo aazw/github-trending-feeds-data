@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-api#1740960000</id>
+    <title>https://github.com/IntersectMBO/cardano-api</title>
+    <link href="https://github.com/IntersectMBO/cardano-api" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Cardano API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node#1740960000</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/ouroboros-network#1740960000</id>
+    <title>https://github.com/IntersectMBO/ouroboros-network</title>
+    <link href="https://github.com/IntersectMBO/ouroboros-network" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1740960000</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1740960000</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1740960000</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1740960000</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simplex-chat/simplexmq#1740960000</id>
+    <title>https://github.com/simplex-chat/simplexmq</title>
+    <link href="https://github.com/simplex-chat/simplexmq" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmonad/xmonad#1740960000</id>
+    <title>https://github.com/xmonad/xmonad</title>
+    <link href="https://github.com/xmonad/xmonad" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">The core of xmonad, a small but functional ICCCM-compliant tiling window manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmonad/xmonad-contrib#1740960000</id>
+    <title>https://github.com/xmonad/xmonad-contrib</title>
+    <link href="https://github.com/xmonad/xmonad-contrib" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Contributed modules for xmonad</content>
+  </entry>
+</feed>

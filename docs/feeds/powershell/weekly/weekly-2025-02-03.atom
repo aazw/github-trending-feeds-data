@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/powershell/weekly.atom</id>
+  <title>GitHub Trending - powershell (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/powershell/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/Enterprise-Scale#1738540800</id>
+    <title>https://github.com/Azure/Enterprise-Scale</title>
+    <link href="https://github.com/Azure/Enterprise-Scale" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The Azure Landing Zones (Enterprise-Scale) architecture provides prescriptive guidance coupled with Azure best practices, and it follows design principles across the critical design areas for organizations to define their Azure architecture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk#1738540800</id>
+    <title>https://github.com/Azure/azure-sdk</title>
+    <link href="https://github.com/Azure/azure-sdk" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">This is the Azure SDK parent repository and mostly contains documentation around guidelines and policies as well as the releases for the various languages supported by the Azure SDK.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Micke-K/IntuneManagement#1738540800</id>
+    <title>https://github.com/Micke-K/IntuneManagement</title>
+    <link href="https://github.com/Micke-K/IntuneManagement" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShellMafia/PowerSploit#1738540800</id>
+    <title>https://github.com/PowerShellMafia/PowerSploit</title>
+    <link href="https://github.com/PowerShellMafia/PowerSploit" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">PowerSploit - A PowerShell Post-Exploitation Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Romanitho/Winget-AutoUpdate#1738540800</id>
+    <title>https://github.com/Romanitho/Winget-AutoUpdate</title>
+    <link href="https://github.com/Romanitho/Winget-AutoUpdate" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/runner-images#1738540800</id>
+    <title>https://github.com/actions/runner-images</title>
+    <link href="https://github.com/actions/runner-images" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">GitHub Actions runner images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cisagov/ScubaGear#1738540800</id>
+    <title>https://github.com/cisagov/ScubaGear</title>
+    <link href="https://github.com/cisagov/ScubaGear" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Automation to assess the state of your M365 tenant against CISA's baselines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mandiant/flare-vm#1738540800</id>
+    <title>https://github.com/mandiant/flare-vm</title>
+    <link href="https://github.com/mandiant/flare-vm" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A collection of software installations scripts for Windows systems that allows you to easily setup and maintain a reverse engineering environment on a VM.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/winget-pkgs#1738540800</id>
+    <title>https://github.com/microsoft/winget-pkgs</title>
+    <link href="https://github.com/microsoft/winget-pkgs" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The Microsoft community Windows Package Manager manifest repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoftgraph/microsoft-graph-docs-contrib#1738540800</id>
+    <title>https://github.com/microsoftgraph/microsoft-graph-docs-contrib</title>
+    <link href="https://github.com/microsoftgraph/microsoft-graph-docs-contrib" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Documentation for the Microsoft Graph REST API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoftgraph/powershell-intune-samples#1738540800</id>
+    <title>https://github.com/microsoftgraph/powershell-intune-samples</title>
+    <link href="https://github.com/microsoftgraph/powershell-intune-samples" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">This repository of PowerShell sample scripts show how to access Intune service resources. They demonstrate this by making HTTPS RESTful API requests to the Microsoft Graph API from PowerShell.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/samratashok/nishang#1738540800</id>
+    <title>https://github.com/samratashok/nishang</title>
+    <link href="https://github.com/samratashok/nishang" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Nishang - Offensive PowerShell for red team, penetration testing and offensive security.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sdushantha/recycle-bin-themes#1738540800</id>
+    <title>https://github.com/sdushantha/recycle-bin-themes</title>
+    <link href="https://github.com/sdushantha/recycle-bin-themes" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Silly icons for the Windows Recycle Bin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ugurkocde/IntuneBrew#1738540800</id>
+    <title>https://github.com/ugurkocde/IntuneBrew</title>
+    <link href="https://github.com/ugurkocde/IntuneBrew" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">IntuneBrew is a PowerShell-based tool that simplifies the process of uploading and managing macOS applications in Microsoft Intune. It automates the entire workflow from downloading apps to uploading them to Intune, complete with proper metadata and logos.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiv3r/Burpsuite-Professional#1738540800</id>
+    <title>https://github.com/xiv3r/Burpsuite-Professional</title>
+    <link href="https://github.com/xiv3r/Burpsuite-Professional" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Latest Burpsuite Professional v2024.12.*</content>
+  </entry>
+</feed>

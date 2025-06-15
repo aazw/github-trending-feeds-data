@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/monthly.atom</id>
+  <title>GitHub Trending - emacs-lisp (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-01T13:15:22+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1735737322</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-ui#1735737322</id>
+    <title>https://github.com/emacs-lsp/lsp-ui</title>
+    <link href="https://github.com/emacs-lsp/lsp-ui" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">UI integrations for lsp-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-emacs#1735737322</id>
+    <title>https://github.com/editorconfig/editorconfig-emacs</title>
+    <link href="https://github.com/editorconfig/editorconfig-emacs" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">EditorConfig plugin for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-dashboard/emacs-dashboard#1735737322</id>
+    <title>https://github.com/emacs-dashboard/emacs-dashboard</title>
+    <link href="https://github.com/emacs-dashboard/emacs-dashboard" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">An extensible emacs dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/positron-solutions/dslide#1735737322</id>
+    <title>https://github.com/positron-solutions/dslide</title>
+    <link href="https://github.com/positron-solutions/dslide" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">Present anything Emacs can do with programmable, extensible, configurable slides &amp; presentation steps made from org mode headings</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1735737322</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clojure-emacs/clojure-mode#1735737322</id>
+    <title>https://github.com/clojure-emacs/clojure-mode</title>
+    <link href="https://github.com/clojure-emacs/clojure-mode" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">Emacs support for the Clojure(Script) programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/millejoh/emacs-ipython-notebook#1735737322</id>
+    <title>https://github.com/millejoh/emacs-ipython-notebook</title>
+    <link href="https://github.com/millejoh/emacs-ipython-notebook" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">Jupyter notebook client in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1735737322</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1735737322</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1735737322</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-01T13:15:22+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+</feed>

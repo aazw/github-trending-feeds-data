@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Trending - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-13T12:32:14+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1736771534</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-vinegar#1736771534</id>
+    <title>https://github.com/tpope/vim-vinegar</title>
+    <link href="https://github.com/tpope/vim-vinegar" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">vinegar.vim: Combine with netrw to create a delicious salad dressing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1736771534</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1736771534</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ap/vim-css-color#1736771534</id>
+    <title>https://github.com/ap/vim-css-color</title>
+    <link href="https://github.com/ap/vim-css-color" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">Preview colours in source code while editing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-scriptease#1736771534</id>
+    <title>https://github.com/tpope/vim-scriptease</title>
+    <link href="https://github.com/tpope/vim-scriptease" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">scriptease.vim: A Vim plugin for Vim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1736771534</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1736771534</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-completion#1736771534</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-completion</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-completion" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">Database autocompletion powered by https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1736771534</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-ui#1736771534</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-ui</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">Simple UI for https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1736771534</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1736771534</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1736771534</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-01-13T12:32:14+00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+</feed>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1745193600</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DioxusLabs/dioxus#1745193600</id>
+    <title>https://github.com/DioxusLabs/dioxus</title>
+    <link href="https://github.com/DioxusLabs/dioxus" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Fullstack app framework for web, desktop, mobile, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GreptimeTeam/greptimedb#1745193600</id>
+    <title>https://github.com/GreptimeTeam/greptimedb</title>
+    <link href="https://github.com/GreptimeTeam/greptimedb" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">An open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeaQL/sea-orm#1745193600</id>
+    <title>https://github.com/SeaQL/sea-orm</title>
+    <link href="https://github.com/SeaQL/sea-orm" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">🐚 An async &amp; dynamic ORM for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1745193600</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/casey/just#1745193600</id>
+    <title>https://github.com/casey/just</title>
+    <link href="https://github.com/casey/just" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">🤖 Just a command runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1745193600</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/quiche#1745193600</id>
+    <title>https://github.com/cloudflare/quiche</title>
+    <link href="https://github.com/cloudflare/quiche" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cube-js/cube#1745193600</id>
+    <title>https://github.com/cube-js/cube</title>
+    <link href="https://github.com/cube-js/cube" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-convex/convex-backend#1745193600</id>
+    <title>https://github.com/get-convex/convex-backend</title>
+    <link href="https://github.com/get-convex/convex-backend" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The open-source reactive database for app developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gfx-rs/wgpu#1745193600</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1745193600</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lance#1745193600</id>
+    <title>https://github.com/lancedb/lance</title>
+    <link href="https://github.com/lancedb/lance" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lapce/lapce#1745193600</id>
+    <title>https://github.com/lapce/lapce</title>
+    <link href="https://github.com/lapce/lapce" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Lightning-fast and Powerful Code Editor written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1745193600</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meilisearch/meilisearch#1745193600</id>
+    <title>https://github.com/meilisearch/meilisearch</title>
+    <link href="https://github.com/meilisearch/meilisearch" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moghtech/komodo#1745193600</id>
+    <title>https://github.com/moghtech/komodo</title>
+    <link href="https://github.com/moghtech/komodo" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">🦎 a tool to build and deploy software on many servers 🦎</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1745193600</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1745193600</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rpcpool/yellowstone-grpc#1745193600</id>
+    <title>https://github.com/rpcpool/yellowstone-grpc</title>
+    <link href="https://github.com/rpcpool/yellowstone-grpc" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">solana geyser grpc service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/book#1745193600</id>
+    <title>https://github.com/rust-lang/book</title>
+    <link href="https://github.com/rust-lang/book" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The Rust Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1745193600</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tree-sitter/tree-sitter#1745193600</id>
+    <title>https://github.com/tree-sitter/tree-sitter</title>
+    <link href="https://github.com/tree-sitter/tree-sitter" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">An incremental parsing system for programming tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wasmerio/wasmer#1745193600</id>
+    <title>https://github.com/wasmerio/wasmer</title>
+    <link href="https://github.com/wasmerio/wasmer" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">🚀 Fast, secure, lightweight containers based on WebAssembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1745193600</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

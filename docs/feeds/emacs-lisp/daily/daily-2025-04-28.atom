@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Alexander-Miller/treemacs#1745798400</id>
+    <title>https://github.com/Alexander-Miller/treemacs</title>
+    <link href="https://github.com/Alexander-Miller/treemacs" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/helpful#1745798400</id>
+    <title>https://github.com/Wilfred/helpful</title>
+    <link href="https://github.com/Wilfred/helpful" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A better Emacs *help* buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1745798400</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphapapa/org-ql#1745798400</id>
+    <title>https://github.com/alphapapa/org-ql</title>
+    <link href="https://github.com/alphapapa/org-ql" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chep/copilot-chat.el#1745798400</id>
+    <title>https://github.com/chep/copilot-chat.el</title>
+    <link href="https://github.com/chep/copilot-chat.el" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Chat with Github copilot in Emacs !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1745798400</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/domtronn/all-the-icons.el#1745798400</id>
+    <title>https://github.com/domtronn/all-the-icons.el</title>
+    <link href="https://github.com/domtronn/all-the-icons.el" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A utility package to collect various Icon Fonts and propertize them within Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-emacs#1745798400</id>
+    <title>https://github.com/editorconfig/editorconfig-emacs</title>
+    <link href="https://github.com/editorconfig/editorconfig-emacs" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">EditorConfig plugin for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil-collection#1745798400</id>
+    <title>https://github.com/emacs-evil/evil-collection</title>
+    <link href="https://github.com/emacs-evil/evil-collection" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A set of keybindings for evil-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-ui#1745798400</id>
+    <title>https://github.com/emacs-lsp/lsp-ui</title>
+    <link href="https://github.com/emacs-lsp/lsp-ui" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">UI integrations for lsp-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1745798400</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flycheck/flycheck#1745798400</id>
+    <title>https://github.com/flycheck/flycheck</title>
+    <link href="https://github.com/flycheck/flycheck" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">On the fly syntax checking for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwiegley/emacs-async#1745798400</id>
+    <title>https://github.com/jwiegley/emacs-async</title>
+    <link href="https://github.com/jwiegley/emacs-async" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Simple library for asynchronous processing in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1745798400</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1745798400</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1745798400</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+</feed>

@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FreeRTOS/FreeRTOS-Kernel#1742947200</id>
+    <title>https://github.com/FreeRTOS/FreeRTOS-Kernel</title>
+    <link href="https://github.com/FreeRTOS/FreeRTOS-Kernel" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mbed-TLS/mbedtls#1742947200</id>
+    <title>https://github.com/Mbed-TLS/mbedtls</title>
+    <link href="https://github.com/Mbed-TLS/mbedtls" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RfidResearchGroup/proxmark3#1742947200</id>
+    <title>https://github.com/RfidResearchGroup/proxmark3</title>
+    <link href="https://github.com/RfidResearchGroup/proxmark3" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Iceman Fork - Proxmark3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThrowTheSwitch/Unity#1742947200</id>
+    <title>https://github.com/ThrowTheSwitch/Unity</title>
+    <link href="https://github.com/ThrowTheSwitch/Unity" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Simple unit testing for C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/confluentinc/librdkafka#1742947200</id>
+    <title>https://github.com/confluentinc/librdkafka</title>
+    <link href="https://github.com/confluentinc/librdkafka" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">The Apache Kafka C/C++ library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-idf#1742947200</id>
+    <title>https://github.com/espressif/esp-idf</title>
+    <link href="https://github.com/espressif/esp-idf" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Espressif IoT Development Framework. Official development framework for Espressif SoCs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/zstd#1742947200</id>
+    <title>https://github.com/facebook/zstd</title>
+    <link href="https://github.com/facebook/zstd" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Zstandard - Fast real-time compression algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flipperdevices/flipperzero-firmware#1742947200</id>
+    <title>https://github.com/flipperdevices/flipperzero-firmware</title>
+    <link href="https://github.com/flipperdevices/flipperzero-firmware" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Flipper Zero firmware source code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/floooh/sokol#1742947200</id>
+    <title>https://github.com/floooh/sokol</title>
+    <link href="https://github.com/floooh/sokol" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">minimal cross-platform standalone C headers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/llama2.c#1742947200</id>
+    <title>https://github.com/karpathy/llama2.c</title>
+    <link href="https://github.com/karpathy/llama2.c" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Inference Llama 2 in one file of pure C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kokke/tiny-AES-c#1742947200</id>
+    <title>https://github.com/kokke/tiny-AES-c</title>
+    <link href="https://github.com/kokke/tiny-AES-c" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Small portable AES128/192/256 in C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libevent/libevent#1742947200</id>
+    <title>https://github.com/libevent/libevent</title>
+    <link href="https://github.com/libevent/libevent" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Event notification library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/littlefs-project/littlefs#1742947200</id>
+    <title>https://github.com/littlefs-project/littlefs</title>
+    <link href="https://github.com/littlefs-project/littlefs" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">A little fail-safe filesystem designed for microcontrollers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-mpi/ompi#1742947200</id>
+    <title>https://github.com/open-mpi/ompi</title>
+    <link href="https://github.com/open-mpi/ompi" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Open MPI main development repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pgvector/pgvector#1742947200</id>
+    <title>https://github.com/pgvector/pgvector</title>
+    <link href="https://github.com/pgvector/pgvector" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Open-source vector similarity search for Postgres</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocoproject/poco#1742947200</id>
+    <title>https://github.com/pocoproject/poco</title>
+    <link href="https://github.com/pocoproject/poco" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sonic-net/sonic-buildimage#1742947200</id>
+    <title>https://github.com/sonic-net/sonic-buildimage</title>
+    <link href="https://github.com/sonic-net/sonic-buildimage" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Scripts which perform an installable binary image build for SONiC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmux/tmux#1742947200</id>
+    <title>https://github.com/tmux/tmux</title>
+    <link href="https://github.com/tmux/tmux" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">tmux source code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ufrisk/pcileech#1742947200</id>
+    <title>https://github.com/ufrisk/pcileech</title>
+    <link href="https://github.com/ufrisk/pcileech" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Direct Memory Access (DMA) Attack Software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/valkey-io/valkey#1742947200</id>
+    <title>https://github.com/valkey-io/valkey</title>
+    <link href="https://github.com/valkey-io/valkey" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zephyrproject-rtos/zephyr#1742947200</id>
+    <title>https://github.com/zephyrproject-rtos/zephyr</title>
+    <link href="https://github.com/zephyrproject-rtos/zephyr" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Yggdroot/indentLine#1743638400</id>
+    <title>https://github.com/Yggdroot/indentLine</title>
+    <link href="https://github.com/Yggdroot/indentLine" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A vim plugin to display the indention levels with thin vertical lines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airblade/vim-rooter#1743638400</id>
+    <title>https://github.com/airblade/vim-rooter</title>
+    <link href="https://github.com/airblade/vim-rooter" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Changes Vim working directory to project root.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1743638400</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1743638400</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/easymotion/vim-easymotion#1743638400</id>
+    <title>https://github.com/easymotion/vim-easymotion</title>
+    <link href="https://github.com/easymotion/vim-easymotion" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Vim motions on speed!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ekalinin/Dockerfile.vim#1743638400</id>
+    <title>https://github.com/ekalinin/Dockerfile.vim</title>
+    <link href="https://github.com/ekalinin/Dockerfile.vim" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Vim syntax file &amp; snippets for Docker's Dockerfile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ervandew/supertab#1743638400</id>
+    <title>https://github.com/ervandew/supertab</title>
+    <link href="https://github.com/ervandew/supertab" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Perform all your vim insert mode completions with Tab</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1743638400</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1743638400</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mileszs/ack.vim#1743638400</id>
+    <title>https://github.com/mileszs/ack.vim</title>
+    <link href="https://github.com/mileszs/ack.vim" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Vim plugin for the Perl module / CLI script 'ack'</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete-lsp.vim#1743638400</id>
+    <title>https://github.com/prabirshrestha/asyncomplete-lsp.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete.vim#1743638400</id>
+    <title>https://github.com/prabirshrestha/asyncomplete.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete.vim" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">async completion in pure vim script for vim8 and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1743638400</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1743638400</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1743638400</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline#1743638400</id>
+    <title>https://github.com/vim-airline/vim-airline</title>
+    <link href="https://github.com/vim-airline/vim-airline" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">lean &amp; mean status/tabline for vim that's light as air</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vital.vim#1743638400</id>
+    <title>https://github.com/vim-jp/vital.vim</title>
+    <link href="https://github.com/vim-jp/vital.vim" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A comprehensive Vim utility functions for Vim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1743638400</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+</feed>

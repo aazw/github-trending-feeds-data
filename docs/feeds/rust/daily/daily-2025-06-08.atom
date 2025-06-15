@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GreptimeTeam/greptimedb#1749340800</id>
+    <title>https://github.com/GreptimeTeam/greptimedb</title>
+    <link href="https://github.com/GreptimeTeam/greptimedb" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1749340800</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1749340800</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1749340800</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dtolnay/cxx#1749340800</id>
+    <title>https://github.com/dtolnay/cxx</title>
+    <link href="https://github.com/dtolnay/cxx" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Safe interop between Rust and C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gfx-rs/wgpu#1749340800</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/candle#1749340800</id>
+    <title>https://github.com/huggingface/candle</title>
+    <link href="https://github.com/huggingface/candle" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Minimalist ML framework for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/librespot-org/librespot#1749340800</id>
+    <title>https://github.com/librespot-org/librespot</title>
+    <link href="https://github.com/librespot-org/librespot" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Open Source Spotify client library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1749340800</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modrinth/code#1749340800</id>
+    <title>https://github.com/modrinth/code</title>
+    <link href="https://github.com/modrinth/code" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The Modrinth monorepo containing all code which powers Modrinth!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1749340800</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openobserve/openobserve#1749340800</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust#1749340800</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1749340800</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/skyzh/mini-lsm#1749340800</id>
+    <title>https://github.com/skyzh/mini-lsm</title>
+    <link href="https://github.com/skyzh/mini-lsm" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A course of building an LSM-Tree storage engine (database) in a week.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1749340800</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1749340800</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tracel-ai/burn#1749340800</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1749340800</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+</feed>

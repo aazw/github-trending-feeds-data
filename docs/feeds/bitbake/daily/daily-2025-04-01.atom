@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom</id>
+  <title>GitHub Trending - bitbake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Freescale/meta-freescale#1743465600</id>
+    <title>https://github.com/Freescale/meta-freescale</title>
+    <link href="https://github.com/Freescale/meta-freescale" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Layer containing NXP hardware support metadata</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Freescale/meta-freescale-3rdparty#1743465600</id>
+    <title>https://github.com/Freescale/meta-freescale-3rdparty</title>
+    <link href="https://github.com/Freescale/meta-freescale-3rdparty" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Freescale's ARM based platforms</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OE4T/meta-tegra#1743465600</id>
+    <title>https://github.com/OE4T/meta-tegra</title>
+    <link href="https://github.com/OE4T/meta-tegra" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">BSP layer for NVIDIA Jetson platforms, based on L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TimesysGit/meta-timesys#1743465600</id>
+    <title>https://github.com/TimesysGit/meta-timesys</title>
+    <link href="https://github.com/TimesysGit/meta-timesys" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Vulnerability management tool that provides Yocto SBOM generation and CVE Analysis of target images.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws4embeddedlinux/meta-aws#1743465600</id>
+    <title>https://github.com/aws4embeddedlinux/meta-aws</title>
+    <link href="https://github.com/aws4embeddedlinux/meta-aws" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The metadata layer for baking AWS device software to Embedded Linux distributions built by the Yocto Project build system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/balena-os/meta-balena#1743465600</id>
+    <title>https://github.com/balena-os/meta-balena</title>
+    <link href="https://github.com/balena-os/meta-balena" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A collection of Yocto layers used to build balenaOS images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mendersoftware/meta-mender-community#1743465600</id>
+    <title>https://github.com/mendersoftware/meta-mender-community</title>
+    <link href="https://github.com/mendersoftware/meta-mender-community" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Community supported Yocto Project layers (Board integrations) for Mender for different boards</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-flutter/meta-flutter#1743465600</id>
+    <title>https://github.com/meta-flutter/meta-flutter</title>
+    <link href="https://github.com/meta-flutter/meta-flutter" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Google Flutter for Yocto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-qt5/meta-qt5#1743465600</id>
+    <title>https://github.com/meta-qt5/meta-qt5</title>
+    <link href="https://github.com/meta-qt5/meta-qt5" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">QT5 layer for openembedded</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-rust/meta-rust#1743465600</id>
+    <title>https://github.com/meta-rust/meta-rust</title>
+    <link href="https://github.com/meta-rust/meta-rust" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nxp-imx/meta-imx#1743465600</id>
+    <title>https://github.com/nxp-imx/meta-imx</title>
+    <link href="https://github.com/nxp-imx/meta-imx" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">i.MX Yocto Project i.MX BSP Layer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbmc/openbmc#1743465600</id>
+    <title>https://github.com/openbmc/openbmc</title>
+    <link href="https://github.com/openbmc/openbmc" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">OpenBMC Distribution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/meta-openembedded#1743465600</id>
+    <title>https://github.com/openembedded/meta-openembedded</title>
+    <link href="https://github.com/openembedded/meta-openembedded" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/openembedded-core#1743465600</id>
+    <title>https://github.com/openembedded/openembedded-core</title>
+    <link href="https://github.com/openembedded/openembedded-core" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rauc/meta-rauc#1743465600</id>
+    <title>https://github.com/rauc/meta-rauc</title>
+    <link href="https://github.com/rauc/meta-rauc" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-embedded/meta-rust-bin#1743465600</id>
+    <title>https://github.com/rust-embedded/meta-rust-bin</title>
+    <link href="https://github.com/rust-embedded/meta-rust-bin" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbabic/meta-swupdate#1743465600</id>
+    <title>https://github.com/sbabic/meta-swupdate</title>
+    <link href="https://github.com/sbabic/meta-swupdate" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Yocto receipes to generate a swupdate rootfilesystem as initrd</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wolfSSL/meta-wolfssl#1743465600</id>
+    <title>https://github.com/wolfSSL/meta-wolfssl</title>
+    <link href="https://github.com/wolfSSL/meta-wolfssl" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">wolfSSL layer for OpenEmbedded and Yocto, containing product recipes, examples, and bbappend files.</content>
+  </entry>
+</feed>

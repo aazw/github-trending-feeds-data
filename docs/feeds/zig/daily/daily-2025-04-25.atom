@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom</id>
+  <title>GitHub Trending - zig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Hejsil/zig-clap#1745539200</id>
+    <title>https://github.com/Hejsil/zig-clap</title>
+    <link href="https://github.com/Hejsil/zig-clap" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Command line argument parsing library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blackboardsh/electrobun#1745539200</id>
+    <title>https://github.com/blackboardsh/electrobun</title>
+    <link href="https://github.com/blackboardsh/electrobun" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Build ultra fast, tiny, and cross-platform desktop apps with Typescript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-capital/crypto-ecosystems#1745539200</id>
+    <title>https://github.com/electric-capital/crypto-ecosystems</title>
+    <link href="https://github.com/electric-capital/crypto-ecosystems" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">A taxonomy for open source cryptocurrency, blockchain, and decentralized ecosystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexops/mach#1745539200</id>
+    <title>https://github.com/hexops/mach</title>
+    <link href="https://github.com/hexops/mach" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">zig game engine &amp; graphics toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/libxev#1745539200</id>
+    <title>https://github.com/mitchellh/libxev</title>
+    <link href="https://github.com/mitchellh/libxev" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/natecraddock/zf#1745539200</id>
+    <title>https://github.com/natecraddock/zf</title>
+    <link href="https://github.com/natecraddock/zf" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">a commandline fuzzy finder and zig module designed for filtering filepaths</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neurocyte/flow#1745539200</id>
+    <title>https://github.com/neurocyte/flow</title>
+    <link href="https://github.com/neurocyte/flow" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Flow Control: a programmer's text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1745539200</id>
+    <title>https://github.com/oven-sh/bun</title>
+    <link href="https://github.com/oven-sh/bun" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tigerbeetle/tigerbeetle#1745539200</id>
+    <title>https://github.com/tigerbeetle/tigerbeetle</title>
+    <link href="https://github.com/tigerbeetle/tigerbeetle" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">The financial transactions database designed for mission critical safety and performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zigtools/zls#1745539200</id>
+    <title>https://github.com/zigtools/zls</title>
+    <link href="https://github.com/zigtools/zls" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">A Zig language server supporting Zig developers with features like autocomplete and goto definition</content>
+  </entry>
+</feed>

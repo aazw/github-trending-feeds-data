@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SeleniumHQ/docker-selenium#1743811200</id>
+    <title>https://github.com/SeleniumHQ/docker-selenium</title>
+    <link href="https://github.com/SeleniumHQ/docker-selenium" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Sergeydigl3/zapret-discord-youtube-linux#1743811200</id>
+    <title>https://github.com/Sergeydigl3/zapret-discord-youtube-linux</title>
+    <link href="https://github.com/Sergeydigl3/zapret-discord-youtube-linux" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">(NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/angristan/wireguard-install#1743811200</id>
+    <title>https://github.com/angristan/wireguard-install</title>
+    <link href="https://github.com/angristan/wireguard-install" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">WireGuard VPN installer for Linux servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/amazon-eks-ami#1743811200</id>
+    <title>https://github.com/awslabs/amazon-eks-ami</title>
+    <link href="https://github.com/awslabs/amazon-eks-ami" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Packer configuration for building a custom EKS AMI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/git-secrets#1743811200</id>
+    <title>https://github.com/awslabs/git-secrets</title>
+    <link href="https://github.com/awslabs/git-secrets" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Prevents you from committing secrets and credentials into git repositories</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/omakub#1743811200</id>
+    <title>https://github.com/basecamp/omakub</title>
+    <link href="https://github.com/basecamp/omakub" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Opinionated Ubuntu Setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bats-core/bats-core#1743811200</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1743811200</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1743811200</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itdoginfo/podkop#1743811200</id>
+    <title>https://github.com/itdoginfo/podkop</title>
+    <link href="https://github.com/itdoginfo/podkop" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Dev podkop</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1743811200</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nelvko/clash-for-linux-install#1743811200</id>
+    <title>https://github.com/nelvko/clash-for-linux-install</title>
+    <link href="https://github.com/nelvko/clash-for-linux-install" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">😼 优雅地部署基于 clash/mihomo 的代理环境</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nestybox/sysbox#1743811200</id>
+    <title>https://github.com/nestybox/sysbox</title>
+    <link href="https://github.com/nestybox/sysbox" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">An open-source, next-generation "runc" that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1743811200</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sakai135/wsl-vpnkit#1743811200</id>
+    <title>https://github.com/sakai135/wsl-vpnkit</title>
+    <link href="https://github.com/sakai135/wsl-vpnkit" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Provides network connectivity to WSL 2 when blocked by VPN</content>
+  </entry>
+  <entry>
+    <id>https://github.com/themactep/thingino-firmware#1743811200</id>
+    <title>https://github.com/themactep/thingino-firmware</title>
+    <link href="https://github.com/themactep/thingino-firmware" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Open-source firmware for Ingenic SoC IP cameras</content>
+  </entry>
+</feed>

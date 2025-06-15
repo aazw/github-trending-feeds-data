@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1737936000</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DioxusLabs/dioxus#1737936000</id>
+    <title>https://github.com/DioxusLabs/dioxus</title>
+    <link href="https://github.com/DioxusLabs/dioxus" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Fullstack app framework for web, desktop, mobile, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RustAudio/cpal#1737936000</id>
+    <title>https://github.com/RustAudio/cpal</title>
+    <link href="https://github.com/RustAudio/cpal" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Cross-platform audio I/O library in pure Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Schniz/fnm#1737936000</id>
+    <title>https://github.com/Schniz/fnm</title>
+    <link href="https://github.com/Schniz/fnm" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">🚀 Fast and simple Node.js version manager, built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1737936000</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1737936000</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1737936000</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1737936000</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1737936000</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1737936000</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1737936000</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openobserve/openobserve#1737936000</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/piotrostr/listen#1737936000</id>
+    <title>https://github.com/piotrostr/listen</title>
+    <link href="https://github.com/piotrostr/listen" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Solana Swiss Army Knife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1737936000</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qarmin/czkawka#1737936000</id>
+    <title>https://github.com/qarmin/czkawka</title>
+    <link href="https://github.com/qarmin/czkawka" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Multi functional app to find duplicates, empty folders, similar images etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapiz1/rathole#1737936000</id>
+    <title>https://github.com/rapiz1/rathole</title>
+    <link href="https://github.com/rapiz1/rathole" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sigp/lighthouse#1737936000</id>
+    <title>https://github.com/sigp/lighthouse</title>
+    <link href="https://github.com/sigp/lighthouse" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Ethereum consensus client in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana#1737936000</id>
+    <title>https://github.com/solana-labs/solana</title>
+    <link href="https://github.com/solana-labs/solana" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1737936000</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1737936000</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1737936000</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1737936000</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1737936000</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1737936000</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

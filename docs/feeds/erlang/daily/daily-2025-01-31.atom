@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aeternity/aeternity#1738281600</id>
+    <title>https://github.com/aeternity/aeternity</title>
+    <link href="https://github.com/aeternity/aeternity" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-beam/aws-erlang#1738281600</id>
+    <title>https://github.com/aws-beam/aws-erlang</title>
+    <link href="https://github.com/aws-beam/aws-erlang" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Create, configure, and manage AWS services from Erlang code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/benoitc/hackney#1738281600</id>
+    <title>https://github.com/benoitc/hackney</title>
+    <link href="https://github.com/benoitc/hackney" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">simple HTTP client in Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blt/port_compiler#1738281600</id>
+    <title>https://github.com/blt/port_compiler</title>
+    <link href="https://github.com/blt/port_compiler" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A rebar3 port compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cmullaparthi/ibrowse#1738281600</id>
+    <title>https://github.com/cmullaparthi/ibrowse</title>
+    <link href="https://github.com/cmullaparthi/ibrowse" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Erlang HTTP client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/couchbase/couchdb#1738281600</id>
+    <title>https://github.com/couchbase/couchdb</title>
+    <link href="https://github.com/couchbase/couchdb" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">CouchDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dnsimple/dns_erlang#1738281600</id>
+    <title>https://github.com/dnsimple/dns_erlang</title>
+    <link href="https://github.com/dnsimple/dns_erlang" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Erlang DNS library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1738281600</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-lager/lager#1738281600</id>
+    <title>https://github.com/erlang-lager/lager</title>
+    <link href="https://github.com/erlang-lager/lager" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A logging framework for Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1738281600</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlware/relx#1738281600</id>
+    <title>https://github.com/erlware/relx</title>
+    <link href="https://github.com/erlware/relx" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Sane, simple release creation for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1738281600</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/for-GET/jesse#1738281600</id>
+    <title>https://github.com/for-GET/jesse</title>
+    <link href="https://github.com/for-GET/jesse" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jcomellas/getopt#1738281600</id>
+    <title>https://github.com/jcomellas/getopt</title>
+    <link href="https://github.com/jcomellas/getopt" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Erlang module to parse command line arguments using the GNU getopt syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1738281600</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/processone/ejabberd#1738281600</id>
+    <title>https://github.com/processone/ejabberd</title>
+    <link href="https://github.com/processone/ejabberd" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1738281600</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seth/ej#1738281600</id>
+    <title>https://github.com/seth/ej</title>
+    <link href="https://github.com/seth/ej" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Helper module for working with Erlang terms representing JSON</content>
+  </entry>
+</feed>

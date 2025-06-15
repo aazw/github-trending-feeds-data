@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom</id>
+  <title>GitHub Trending - cmake (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware_msgs#1737936000</id>
+    <title>https://github.com/autowarefoundation/autoware_msgs</title>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1737936000</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cpm-cmake/CPM.cmake#1737936000</id>
+    <title>https://github.com/cpm-cmake/CPM.cmake</title>
+    <link href="https://github.com/cpm-cmake/CPM.cmake" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/friendlyanon/cmake-init#1737936000</id>
+    <title>https://github.com/friendlyanon/cmake-init</title>
+    <link href="https://github.com/friendlyanon/cmake-init" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">The missing CMake project initializer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libbpf/libbpf-bootstrap#1737936000</id>
+    <title>https://github.com/libbpf/libbpf-bootstrap</title>
+    <link href="https://github.com/libbpf/libbpf-bootstrap" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Scaffolding for BPF application development with libbpf and BPF CO-RE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1737936000</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ttroy50/cmake-examples#1737936000</id>
+    <title>https://github.com/ttroy50/cmake-examples</title>
+    <link href="https://github.com/ttroy50/cmake-examples" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Useful CMake Examples</content>
+  </entry>
+</feed>

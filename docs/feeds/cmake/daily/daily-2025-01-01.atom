@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-01T11:09:12+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cpm-cmake/CPM.cmake#1735729752</id>
+    <title>https://github.com/cpm-cmake/CPM.cmake</title>
+    <link href="https://github.com/cpm-cmake/CPM.cmake" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flathub/shared-modules#1735729752</id>
+    <title>https://github.com/flathub/shared-modules</title>
+    <link href="https://github.com/flathub/shared-modules" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">Common Flatpak modules that can be used as a git submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1735729752</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JoakimSoderberg/coveralls-cmake#1735729752</id>
+    <title>https://github.com/JoakimSoderberg/coveralls-cmake</title>
+    <link href="https://github.com/JoakimSoderberg/coveralls-cmake" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">Coveralls JSON coverage generator and uploader for CMake</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1735729752</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SergiusTheBest/FindWDK#1735729752</id>
+    <title>https://github.com/SergiusTheBest/FindWDK</title>
+    <link href="https://github.com/SergiusTheBest/FindWDK" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">CMake module for building drivers with Windows Development Kit (WDK)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dreamworksanimation/openmoonray#1735729752</id>
+    <title>https://github.com/dreamworksanimation/openmoonray</title>
+    <link href="https://github.com/dreamworksanimation/openmoonray" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1735729752</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aminosbh/sdl2-cmake-modules#1735729752</id>
+    <title>https://github.com/aminosbh/sdl2-cmake-modules</title>
+    <link href="https://github.com/aminosbh/sdl2-cmake-modules" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">Modern CMake modules for finding and using the SDL2 library as well as other related libraries: SDL2_image, SDL2_ttf, SDL2_net, SDL2_mixer and SDL2_gfx. (Targets: SDL2::Core, SDL2::Main, SDL2::Image, SDL2::TTF, SDL2::Net, SDL2::Mixer and SDL2::GFX). Mirror of https://gitlab.com/aminosbh/sdl2-cmake-modules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1735729752</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheRobotStudio/SO-ARM100#1735729752</id>
+    <title>https://github.com/TheRobotStudio/SO-ARM100</title>
+    <link href="https://github.com/TheRobotStudio/SO-ARM100" />
+    <updated>2025-01-01T11:09:12+00:00</updated>
+    <content type="text">Standard Open Arm 100</content>
+  </entry>
+</feed>

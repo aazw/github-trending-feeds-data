@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/swift/daily.atom</id>
+  <title>GitHub Trending - swift (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/swift/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Alamofire/Alamofire#1744070400</id>
+    <title>https://github.com/Alamofire/Alamofire</title>
+    <link href="https://github.com/Alamofire/Alamofire" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Elegant HTTP Networking in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChartsOrg/Charts#1744070400</id>
+    <title>https://github.com/ChartsOrg/Charts</title>
+    <link href="https://github.com/ChartsOrg/Charts" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/dd-sdk-ios#1744070400</id>
+    <title>https://github.com/DataDog/dd-sdk-ios</title>
+    <link href="https://github.com/DataDog/dd-sdk-ios" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Datadog SDK for iOS - Swift and Objective-C.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EmergeTools/Pow#1744070400</id>
+    <title>https://github.com/EmergeTools/Pow</title>
+    <link href="https://github.com/EmergeTools/Pow" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Delightful SwiftUI effects for your app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Moya/Moya#1744070400</id>
+    <title>https://github.com/Moya/Moya</title>
+    <link href="https://github.com/Moya/Moya" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Network abstraction layer written in Swift.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReactiveX/RxSwift#1744070400</id>
+    <title>https://github.com/ReactiveX/RxSwift</title>
+    <link href="https://github.com/ReactiveX/RxSwift" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Reactive Programming in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SDWebImage/SDWebImageSwiftUI#1744070400</id>
+    <title>https://github.com/SDWebImage/SDWebImageSwiftUI</title>
+    <link href="https://github.com/SDWebImage/SDWebImageSwiftUI" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">SwiftUI Image loading and Animation framework powered by SDWebImage</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airbnb/lottie-ios#1744070400</id>
+    <title>https://github.com/airbnb/lottie-ios</title>
+    <link href="https://github.com/airbnb/lottie-ios" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">An iOS library to natively render After Effects vector animations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-samples/amazon-bedrock-client-for-mac#1744070400</id>
+    <title>https://github.com/aws-samples/amazon-bedrock-client-for-mac</title>
+    <link href="https://github.com/aws-samples/amazon-bedrock-client-for-mac" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A modern, native macOS client for Amazon Bedrock, providing streamlined access to AI models directly from your desktop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/facebook-ios-sdk#1744070400</id>
+    <title>https://github.com/facebook/facebook-ios-sdk</title>
+    <link href="https://github.com/facebook/facebook-ios-sdk" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Used to integrate the Facebook Platform with your iOS &amp; tvOS apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hackiftekhar/IQKeyboardManager#1744070400</id>
+    <title>https://github.com/hackiftekhar/IQKeyboardManager</title>
+    <link href="https://github.com/hackiftekhar/IQKeyboardManager" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Codeless drop-in universal library allows to prevent issues of keyboard sliding up and cover UITextField/UITextView. Neither need to write any code nor any setup required and much more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/johnbean393/Sidekick#1744070400</id>
+    <title>https://github.com/johnbean393/Sidekick</title>
+    <link href="https://github.com/johnbean393/Sidekick" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A native macOS app that allows users to chat with a local LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/marmelroy/PhoneNumberKit#1744070400</id>
+    <title>https://github.com/marmelroy/PhoneNumberKit</title>
+    <link href="https://github.com/marmelroy/PhoneNumberKit" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A Swift framework for parsing, formatting and validating international phone numbers. Inspired by Google's libphonenumber.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nikitabobko/AeroSpace#1744070400</id>
+    <title>https://github.com/nikitabobko/AeroSpace</title>
+    <link href="https://github.com/nikitabobko/AeroSpace" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">AeroSpace is an i3-like tiling window manager for macOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/peripheryapp/periphery#1744070400</id>
+    <title>https://github.com/peripheryapp/periphery</title>
+    <link href="https://github.com/peripheryapp/periphery" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A tool to identify unused code in Swift projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pointfreeco/swift-composable-architecture#1744070400</id>
+    <title>https://github.com/pointfreeco/swift-composable-architecture</title>
+    <link href="https://github.com/pointfreeco/swift-composable-architecture" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pointfreeco/swift-snapshot-testing#1744070400</id>
+    <title>https://github.com/pointfreeco/swift-snapshot-testing</title>
+    <link href="https://github.com/pointfreeco/swift-snapshot-testing" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">📸 Delightful Swift snapshot testing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/realm/SwiftLint#1744070400</id>
+    <title>https://github.com/realm/SwiftLint</title>
+    <link href="https://github.com/realm/SwiftLint" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A tool to enforce Swift style and conventions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rxhanson/Rectangle#1744070400</id>
+    <title>https://github.com/rxhanson/Rectangle</title>
+    <link href="https://github.com/rxhanson/Rectangle" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Move and resize windows on macOS with keyboard shortcuts and snap areas</content>
+  </entry>
+  <entry>
+    <id>https://github.com/siteline/swiftui-introspect#1744070400</id>
+    <title>https://github.com/siteline/swiftui-introspect</title>
+    <link href="https://github.com/siteline/swiftui-introspect" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Introspect underlying UIKit/AppKit components from SwiftUI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftwasm/WasmKit#1744070400</id>
+    <title>https://github.com/swiftwasm/WasmKit</title>
+    <link href="https://github.com/swiftwasm/WasmKit" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">WebAssembly Runtime written in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yonaskolb/XcodeGen#1744070400</id>
+    <title>https://github.com/yonaskolb/XcodeGen</title>
+    <link href="https://github.com/yonaskolb/XcodeGen" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A Swift command line tool for generating your Xcode project</content>
+  </entry>
+</feed>

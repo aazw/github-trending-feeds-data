@@ -1,0 +1,165 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T11:28:39+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1735298919</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ast-grep/ast-grep#1735298919</id>
+    <title>https://github.com/ast-grep/ast-grep</title>
+    <link href="https://github.com/ast-grep/ast-grep" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadowsocks/shadowsocks-rust#1735298919</id>
+    <title>https://github.com/shadowsocks/shadowsocks-rust</title>
+    <link href="https://github.com/shadowsocks/shadowsocks-rust" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">A Rust port of shadowsocks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1735298919</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Y2Z/monolith#1735298919</id>
+    <title>https://github.com/Y2Z/monolith</title>
+    <link href="https://github.com/Y2Z/monolith" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">⬛️ CLI tool for saving complete web pages as a single HTML file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tikv/tikv#1735298919</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qarmin/czkawka#1735298919</id>
+    <title>https://github.com/qarmin/czkawka</title>
+    <link href="https://github.com/qarmin/czkawka" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Multi functional app to find duplicates, empty folders, similar images etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/risingwavelabs/risingwave#1735298919</id>
+    <title>https://github.com/risingwavelabs/risingwave</title>
+    <link href="https://github.com/risingwavelabs/risingwave" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch. PostgreSQL compatible.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hatoo/oha#1735298919</id>
+    <title>https://github.com/hatoo/oha</title>
+    <link href="https://github.com/hatoo/oha" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/serde-rs/json#1735298919</id>
+    <title>https://github.com/serde-rs/json</title>
+    <link href="https://github.com/serde-rs/json" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Strongly typed JSON library for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libnyanpasu/clash-nyanpasu#1735298919</id>
+    <title>https://github.com/libnyanpasu/clash-nyanpasu</title>
+    <link href="https://github.com/libnyanpasu/clash-nyanpasu" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Clash Nyanpasu～(∠・ω&lt; )⌒☆​</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/mail-server#1735298919</id>
+    <title>https://github.com/stalwartlabs/mail-server</title>
+    <link href="https://github.com/stalwartlabs/mail-server" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1735298919</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana-program-library#1735298919</id>
+    <title>https://github.com/solana-labs/solana-program-library</title>
+    <link href="https://github.com/solana-labs/solana-program-library" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">A collection of Solana programs maintained by Solana Labs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1735298919</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/tokenizers#1735298919</id>
+    <title>https://github.com/huggingface/tokenizers</title>
+    <link href="https://github.com/huggingface/tokenizers" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ratatui/ratatui#1735298919</id>
+    <title>https://github.com/ratatui/ratatui</title>
+    <link href="https://github.com/ratatui/ratatui" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1735298919</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eythaann/Seelen-UI#1735298919</id>
+    <title>https://github.com/eythaann/Seelen-UI</title>
+    <link href="https://github.com/eythaann/Seelen-UI" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">The Fully Customizable Desktop Environment for Windows 10/11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1735298919</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emilk/egui#1735298919</id>
+    <title>https://github.com/emilk/egui</title>
+    <link href="https://github.com/emilk/egui" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1735298919</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2024-12-27T11:28:39+00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+</feed>

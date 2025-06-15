@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/1Panel-dev/1Panel#1749340800</id>
+    <title>https://github.com/1Panel-dev/1Panel</title>
+    <link href="https://github.com/1Panel-dev/1Panel" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Jguer/yay#1749340800</id>
+    <title>https://github.com/Jguer/yay</title>
+    <link href="https://github.com/Jguer/yay" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Yet another Yogurt - An AUR Helper written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1749340800</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1749340800</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft#1749340800</id>
+    <title>https://github.com/anchore/syft</title>
+    <link href="https://github.com/anchore/syft" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/authelia/authelia#1749340800</id>
+    <title>https://github.com/authelia/authelia</title>
+    <link href="https://github.com/authelia/authelia" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbletea#1749340800</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A powerful little TUI framework 🏗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluxcd/flux2#1749340800</id>
+    <title>https://github.com/fluxcd/flux2</title>
+    <link href="https://github.com/fluxcd/flux2" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gocolly/colly#1749340800</id>
+    <title>https://github.com/gocolly/colly</title>
+    <link href="https://github.com/gocolly/colly" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Elegant Scraper and Crawler Framework for Golang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gofr-dev/gofr#1749340800</id>
+    <title>https://github.com/gofr-dev/gofr</title>
+    <link href="https://github.com/gofr-dev/gofr" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubetail-org/kubetail#1749340800</id>
+    <title>https://github.com/kubetail-org/kubetail</title>
+    <link href="https://github.com/kubetail-org/kubetail" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Real-time logging dashboard for Kubernetes (browser/terminal)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1749340800</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1749340800</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/restic/restic#1749340800</id>
+    <title>https://github.com/restic/restic</title>
+    <link href="https://github.com/restic/restic" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Fast, secure, efficient backup program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steveiliop56/tinyauth#1749340800</id>
+    <title>https://github.com/steveiliop56/tinyauth</title>
+    <link href="https://github.com/steveiliop56/tinyauth" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The simplest way to protect your apps with a login screen.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailscale/tailscale#1749340800</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trustwallet/assets#1749340800</id>
+    <title>https://github.com/trustwallet/assets</title>
+    <link href="https://github.com/trustwallet/assets" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</content>
+  </entry>
+</feed>

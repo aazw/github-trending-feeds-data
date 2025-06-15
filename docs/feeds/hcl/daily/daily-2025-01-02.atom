@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:14:52+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-api-gateway#1735816492</id>
+    <title>https://github.com/cloudposse/terraform-aws-api-gateway</title>
+    <link href="https://github.com/cloudposse/terraform-aws-api-gateway" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms#1735816492</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Terraform module for creating alarms for tracking important changes and occurrences from cloudtrail.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/syntax#1735816492</id>
+    <title>https://github.com/hashicorp/syntax</title>
+    <link href="https://github.com/hashicorp/syntax" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">TextMate grammars for highlighting HCL, HCL-based languages and Sentinel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-samples/eks-workshop-v2#1735816492</id>
+    <title>https://github.com/aws-samples/eks-workshop-v2</title>
+    <link href="https://github.com/aws-samples/eks-workshop-v2" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Hands-on labs for Amazon EKS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chainguard-images/images#1735816492</id>
+    <title>https://github.com/chainguard-images/images</title>
+    <link href="https://github.com/chainguard-images/images" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Public Chainguard Images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1735816492</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1735816492</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-yaml-config#1735816492</id>
+    <title>https://github.com/cloudposse/terraform-yaml-config</title>
+    <link href="https://github.com/cloudposse/terraform-yaml-config" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Terraform module to convert local and remote YAML configuration templates into Terraform lists and maps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-efs#1735816492</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/setup-packer#1735816492</id>
+    <title>https://github.com/hashicorp/setup-packer</title>
+    <link href="https://github.com/hashicorp/setup-packer" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Run HashiCorp Packer as part of your GitHub Actions Workflow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-redis#1735816492</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-redis</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-redis" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Terraform module to provision an ElastiCache Redis Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster#1735816492</id>
+    <title>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Terraform module to provision AWS MSK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket#1735816492</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">S3 bucket with built in IAM policy to allow CloudTrail logs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/h3mmy/bloopySphere#1735816492</id>
+    <title>https://github.com/h3mmy/bloopySphere</title>
+    <link href="https://github.com/h3mmy/bloopySphere" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">My home cluster.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1735816492</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1735816492</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2025-01-02T11:14:52+00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+</feed>

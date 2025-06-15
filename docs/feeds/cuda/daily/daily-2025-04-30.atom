@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cuda/daily.atom</id>
+  <title>GitHub Trending - cuda (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cuda/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Dao-AILab/causal-conv1d#1745971200</id>
+    <title>https://github.com/Dao-AILab/causal-conv1d</title>
+    <link href="https://github.com/Dao-AILab/causal-conv1d" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Causal depthwise conv1d in CUDA, with a PyTorch interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HigherOrderCO/HVM#1745971200</id>
+    <title>https://github.com/HigherOrderCO/HVM</title>
+    <link href="https://github.com/HigherOrderCO/HVM" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">A massively parallel, optimal functional runtime in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Infatoshi/cuda-course#1745971200</id>
+    <title>https://github.com/Infatoshi/cuda-course</title>
+    <link href="https://github.com/Infatoshi/cuda-course" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/CUDALibrarySamples#1745971200</id>
+    <title>https://github.com/NVIDIA/CUDALibrarySamples</title>
+    <link href="https://github.com/NVIDIA/CUDALibrarySamples" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">CUDA Library Samples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nccl-tests#1745971200</id>
+    <title>https://github.com/NVIDIA/nccl-tests</title>
+    <link href="https://github.com/NVIDIA/nccl-tests" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">NCCL Tests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nvbench#1745971200</id>
+    <title>https://github.com/NVIDIA/nvbench</title>
+    <link href="https://github.com/NVIDIA/nvbench" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">CUDA Kernel Benchmarking Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVlabs/instant-ngp#1745971200</id>
+    <title>https://github.com/NVlabs/instant-ngp</title>
+    <link href="https://github.com/NVlabs/instant-ngp" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Instant neural graphics primitives: lightning fast NeRF and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tony-Tan/CUDA_Freshman#1745971200</id>
+    <title>https://github.com/Tony-Tan/CUDA_Freshman</title>
+    <link href="https://github.com/Tony-Tan/CUDA_Freshman" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/flashinfer-ai/flashinfer#1745971200</id>
+    <title>https://github.com/flashinfer-ai/flashinfer</title>
+    <link href="https://github.com/flashinfer-ai/flashinfer" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">FlashInfer: Kernel Library for LLM Serving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/llm.c#1745971200</id>
+    <title>https://github.com/karpathy/llm.c</title>
+    <link href="https://github.com/karpathy/llm.c" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">LLM training in simple, raw C/CUDA</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mit-han-lab/nunchaku#1745971200</id>
+    <title>https://github.com/mit-han-lab/nunchaku</title>
+    <link href="https://github.com/mit-han-lab/nunchaku" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/princeton-vl/lietorch#1745971200</id>
+    <title>https://github.com/princeton-vl/lietorch</title>
+    <link href="https://github.com/princeton-vl/lietorch" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/cugraph#1745971200</id>
+    <title>https://github.com/rapidsai/cugraph</title>
+    <link href="https://github.com/rapidsai/cugraph" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">cuGraph - RAPIDS Graph Analytics Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/cuvs#1745971200</id>
+    <title>https://github.com/rapidsai/cuvs</title>
+    <link href="https://github.com/rapidsai/cuvs" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">cuVS - a library for vector search and clustering on the GPU</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/raft#1745971200</id>
+    <title>https://github.com/rapidsai/raft</title>
+    <link href="https://github.com/rapidsai/raft" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thu-ml/SageAttention#1745971200</id>
+    <title>https://github.com/thu-ml/SageAttention</title>
+    <link href="https://github.com/thu-ml/SageAttention" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Quantized Attention achieves speedup of 2-3x and 3-5x compared to FlashAttention and xformers, without lossing end-to-end metrics across language, image, and video models.</content>
+  </entry>
+</feed>

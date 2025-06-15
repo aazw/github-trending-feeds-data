@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/asl/daily.atom</id>
+  <title>GitHub Trending - asl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/asl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-11T11:07:09+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mozilla/ecosystem-platform#1736593629</id>
+    <title>https://github.com/mozilla/ecosystem-platform</title>
+    <link href="https://github.com/mozilla/ecosystem-platform" />
+    <updated>2025-01-11T11:07:09+00:00</updated>
+    <content type="text">Documentation Hub for Firefox Accounts, Sync Client Integrations and More</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Project-Aloha/mu_aloha_platforms#1736593629</id>
+    <title>https://github.com/Project-Aloha/mu_aloha_platforms</title>
+    <link href="https://github.com/Project-Aloha/mu_aloha_platforms" />
+    <updated>2025-01-11T11:07:09+00:00</updated>
+    <content type="text">Port of mu_andromeda_platforms for other qualcomm based devices.</content>
+  </entry>
+</feed>

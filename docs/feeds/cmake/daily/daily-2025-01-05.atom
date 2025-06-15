@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-05T11:09:27+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-core-test#1736075367</id>
+    <title>https://github.com/editorconfig/editorconfig-core-test</title>
+    <link href="https://github.com/editorconfig/editorconfig-core-test" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">Testings for EditorConfig Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TLeonardUK/ds3os#1736075367</id>
+    <title>https://github.com/TLeonardUK/ds3os</title>
+    <link href="https://github.com/TLeonardUK/ds3os" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">Dark Souls - Open Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arsenm/sanitizers-cmake#1736075367</id>
+    <title>https://github.com/arsenm/sanitizers-cmake</title>
+    <link href="https://github.com/arsenm/sanitizers-cmake" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">CMake modules to help use sanitizers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leetal/ios-cmake#1736075367</id>
+    <title>https://github.com/leetal/ios-cmake</title>
+    <link href="https://github.com/leetal/ios-cmake" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libbpf/libbpf-bootstrap#1736075367</id>
+    <title>https://github.com/libbpf/libbpf-bootstrap</title>
+    <link href="https://github.com/libbpf/libbpf-bootstrap" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">Scaffolding for BPF application development with libbpf and BPF CO-RE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aminosbh/sdl2-cmake-modules#1736075367</id>
+    <title>https://github.com/aminosbh/sdl2-cmake-modules</title>
+    <link href="https://github.com/aminosbh/sdl2-cmake-modules" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">Modern CMake modules for finding and using the SDL2 library as well as other related libraries: SDL2_image, SDL2_ttf, SDL2_net, SDL2_mixer and SDL2_gfx. (Targets: SDL2::Core, SDL2::Main, SDL2::Image, SDL2::TTF, SDL2::Net, SDL2::Mixer and SDL2::GFX). Mirror of https://gitlab.com/aminosbh/sdl2-cmake-modules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SergiusTheBest/FindWDK#1736075367</id>
+    <title>https://github.com/SergiusTheBest/FindWDK</title>
+    <link href="https://github.com/SergiusTheBest/FindWDK" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">CMake module for building drivers with Windows Development Kit (WDK)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dreamworksanimation/openmoonray#1736075367</id>
+    <title>https://github.com/dreamworksanimation/openmoonray</title>
+    <link href="https://github.com/dreamworksanimation/openmoonray" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ultralight-ux/Ultralight#1736075367</id>
+    <title>https://github.com/ultralight-ux/Ultralight</title>
+    <link href="https://github.com/ultralight-ux/Ultralight" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">Lightweight, high-performance HTML renderer for game and app developers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1736075367</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1736075367</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-01-05T11:09:27+00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+</feed>

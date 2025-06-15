@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/common-lisp/daily.atom</id>
+  <title>GitHub Trending - common-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/common-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-09T11:09:51+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/sbcl/sbcl#1736420991</id>
+    <title>https://github.com/sbcl/sbcl</title>
+    <link href="https://github.com/sbcl/sbcl" />
+    <updated>2025-01-09T11:09:51+00:00</updated>
+    <content type="text">Mirror of Steel Bank Common Lisp (SBCL)'s official repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/norvig/paip-lisp#1736420991</id>
+    <title>https://github.com/norvig/paip-lisp</title>
+    <link href="https://github.com/norvig/paip-lisp" />
+    <updated>2025-01-09T11:09:51+00:00</updated>
+    <content type="text">Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dimitri/pgloader#1736420991</id>
+    <title>https://github.com/dimitri/pgloader</title>
+    <link href="https://github.com/dimitri/pgloader" />
+    <updated>2025-01-09T11:09:51+00:00</updated>
+    <content type="text">Migrate to PostgreSQL in a single command!</content>
+  </entry>
+</feed>

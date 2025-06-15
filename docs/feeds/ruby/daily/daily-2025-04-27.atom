@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-cask#1745712000</id>
+    <title>https://github.com/Homebrew/homebrew-cask</title>
+    <link href="https://github.com/Homebrew/homebrew-cask" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">🍻 A CLI workflow for the administration of macOS applications distributed as binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-core#1745712000</id>
+    <title>https://github.com/Homebrew/homebrew-core</title>
+    <link href="https://github.com/Homebrew/homebrew-core" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">🍻 Default formulae for the missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/discourse/discourse#1745712000</id>
+    <title>https://github.com/discourse/discourse</title>
+    <link href="https://github.com/discourse/discourse" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">A platform for community discussion. Free, open, simple.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastlane/fastlane#1745712000</id>
+    <title>https://github.com/fastlane/fastlane</title>
+    <link href="https://github.com/fastlane/fastlane" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluentd#1745712000</id>
+    <title>https://github.com/fluent/fluentd</title>
+    <link href="https://github.com/fluent/fluentd" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Fluentd: Unified Logging Layer (project under CNCF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/explore#1745712000</id>
+    <title>https://github.com/github/explore</title>
+    <link href="https://github.com/github/explore" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Community-curated topic and collection pages on GitHub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kilimchoi/engineering-blogs#1745712000</id>
+    <title>https://github.com/kilimchoi/engineering-blogs</title>
+    <link href="https://github.com/kilimchoi/engineering-blogs" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">A curated list of engineering blogs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mastodon/mastodon#1745712000</id>
+    <title>https://github.com/mastodon/mastodon</title>
+    <link href="https://github.com/mastodon/mastodon" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Your self-hosted, globally interconnected microblogging community</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maybe-finance/maybe#1745712000</id>
+    <title>https://github.com/maybe-finance/maybe</title>
+    <link href="https://github.com/maybe-finance/maybe" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">The OS for your personal finances</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opf/openproject#1745712000</id>
+    <title>https://github.com/opf/openproject</title>
+    <link href="https://github.com/opf/openproject" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">OpenProject is the leading open source project management software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/postalserver/postal#1745712000</id>
+    <title>https://github.com/postalserver/postal</title>
+    <link href="https://github.com/postalserver/postal" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1745712000</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redmine/redmine#1745712000</id>
+    <title>https://github.com/redmine/redmine</title>
+    <link href="https://github.com/redmine/redmine" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubysec/ruby-advisory-db#1745712000</id>
+    <title>https://github.com/rubysec/ruby-advisory-db</title>
+    <link href="https://github.com/rubysec/ruby-advisory-db" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">A database of vulnerable Ruby Gems</content>
+  </entry>
+</feed>

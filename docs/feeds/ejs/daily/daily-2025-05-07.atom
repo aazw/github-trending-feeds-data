@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ejs/daily.atom</id>
+  <title>GitHub Trending - ejs (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ejs/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LondheShubham153/node-todo-cicd#1746576000</id>
+    <title>https://github.com/LondheShubham153/node-todo-cicd</title>
+    <link href="https://github.com/LondheShubham153/node-todo-cicd" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/docker/multi-container-app#1746576000</id>
+    <title>https://github.com/docker/multi-container-app</title>
+    <link href="https://github.com/docker/multi-container-app" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/github/haikus-for-codespaces#1746576000</id>
+    <title>https://github.com/github/haikus-for-codespaces</title>
+    <link href="https://github.com/github/haikus-for-codespaces" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/keikaavousi/fake-store-api#1746576000</id>
+    <title>https://github.com/keikaavousi/fake-store-api</title>
+    <link href="https://github.com/keikaavousi/fake-store-api" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">FakeStoreAPI is a free online REST API that provides you fake e-commerce JSON data</content>
+  </entry>
+</feed>

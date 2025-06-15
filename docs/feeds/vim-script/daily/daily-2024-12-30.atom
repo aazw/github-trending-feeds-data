@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-30T11:30:09+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/kana/vim-textobj-user#1735558209</id>
+    <title>https://github.com/kana/vim-textobj-user</title>
+    <link href="https://github.com/kana/vim-textobj-user" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">Vim plugin: Create your own text objects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/tagbar#1735558209</id>
+    <title>https://github.com/preservim/tagbar</title>
+    <link href="https://github.com/preservim/tagbar" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">Vim plugin that displays tags in a window, ordered by scope</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lambdalisue/vim-fern#1735558209</id>
+    <title>https://github.com/lambdalisue/vim-fern</title>
+    <link href="https://github.com/lambdalisue/vim-fern" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">🌿 General purpose asynchronous tree viewer written in Pure Vim script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vader.vim#1735558209</id>
+    <title>https://github.com/junegunn/vader.vim</title>
+    <link href="https://github.com/junegunn/vader.vim" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">A simple Vimscript test framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1735558209</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joshdick/onedark.vim#1735558209</id>
+    <title>https://github.com/joshdick/onedark.vim</title>
+    <link href="https://github.com/joshdick/onedark.vim" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-signify#1735558209</id>
+    <title>https://github.com/mhinz/vim-signify</title>
+    <link href="https://github.com/mhinz/vim-signify" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">➕ Show a diff using Vim its sign column.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-syntastic/syntastic#1735558209</id>
+    <title>https://github.com/vim-syntastic/syntastic</title>
+    <link href="https://github.com/vim-syntastic/syntastic" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">Syntax checking hacks for vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatih/vim-go#1735558209</id>
+    <title>https://github.com/fatih/vim-go</title>
+    <link href="https://github.com/fatih/vim-go" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">Go development plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-galore#1735558209</id>
+    <title>https://github.com/mhinz/vim-galore</title>
+    <link href="https://github.com/mhinz/vim-galore" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">🎓 All things Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig.vim#1735558209</id>
+    <title>https://github.com/ziglang/zig.vim</title>
+    <link href="https://github.com/ziglang/zig.vim" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">Vim configuration for Zig</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1735558209</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1735558209</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1735558209</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1735558209</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1735558209</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1735558209</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1735558209</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2024-12-30T11:30:09+00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+</feed>

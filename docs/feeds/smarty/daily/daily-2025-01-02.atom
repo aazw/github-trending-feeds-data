@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom</id>
+  <title>GitHub Trending - smarty (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:26:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/bitnami/charts#1735817208</id>
+    <title>https://github.com/bitnami/charts</title>
+    <link href="https://github.com/bitnami/charts" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text">Bitnami Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aenix-io/cozystack#1735817208</id>
+    <title>https://github.com/aenix-io/cozystack</title>
+    <link href="https://github.com/aenix-io/cozystack" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text">Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openshift-helm-charts/charts#1735817208</id>
+    <title>https://github.com/openshift-helm-charts/charts</title>
+    <link href="https://github.com/openshift-helm-charts/charts" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text">OpenShift Helm charts Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BorisPolonsky/dify-helm#1735817208</id>
+    <title>https://github.com/BorisPolonsky/dify-helm</title>
+    <link href="https://github.com/BorisPolonsky/dify-helm" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text">Deploy langgenious/dify, an LLM based app on kubernetes with helm chart</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sidpalas/devops-directive-kubernetes-course#1735817208</id>
+    <title>https://github.com/sidpalas/devops-directive-kubernetes-course</title>
+    <link href="https://github.com/sidpalas/devops-directive-kubernetes-course" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text">This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pajikos/home-assistant-helm-chart#1735817208</id>
+    <title>https://github.com/pajikos/home-assistant-helm-chart</title>
+    <link href="https://github.com/pajikos/home-assistant-helm-chart" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text">Helm Chart for Home Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb/helm-charts#1735817208</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k8s-monitoring-helm#1735817208</id>
+    <title>https://github.com/grafana/k8s-monitoring-helm</title>
+    <link href="https://github.com/grafana/k8s-monitoring-helm" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/wiz-sec/charts#1735817208</id>
+    <title>https://github.com/wiz-sec/charts</title>
+    <link href="https://github.com/wiz-sec/charts" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/supabase-community/supabase-kubernetes#1735817208</id>
+    <title>https://github.com/supabase-community/supabase-kubernetes</title>
+    <link href="https://github.com/supabase-community/supabase-kubernetes" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text">Helm 3 charts to deploy a Supabase on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1735817208</id>
+    <title>https://github.com/truecharts/public</title>
+    <link href="https://github.com/truecharts/public" />
+    <updated>2025-01-02T11:26:48+00:00</updated>
+    <content type="text">Community Helm Chart Repository</content>
+  </entry>
+</feed>

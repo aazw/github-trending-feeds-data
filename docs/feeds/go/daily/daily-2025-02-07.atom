@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/k8s-device-plugin#1738886400</id>
+    <title>https://github.com/NVIDIA/k8s-device-plugin</title>
+    <link href="https://github.com/NVIDIA/k8s-device-plugin" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">NVIDIA device plugin for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/VictoriaMetrics#1738886400</id>
+    <title>https://github.com/VictoriaMetrics/VictoriaMetrics</title>
+    <link href="https://github.com/VictoriaMetrics/VictoriaMetrics" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">VictoriaMetrics: fast, cost-effective monitoring solution and time series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/actions-runner-controller#1738886400</id>
+    <title>https://github.com/actions/actions-runner-controller</title>
+    <link href="https://github.com/actions/actions-runner-controller" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Kubernetes controller for GitHub Actions self-hosted runners</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1738886400</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1738886400</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/buildx#1738886400</id>
+    <title>https://github.com/docker/buildx</title>
+    <link href="https://github.com/docker/buildx" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Docker CLI plugin for extended build capabilities with BuildKit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ehang-io/nps#1738886400</id>
+    <title>https://github.com/ehang-io/nps</title>
+    <link href="https://github.com/ehang-io/nps" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1738886400</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goharbor/harbor#1738886400</id>
+    <title>https://github.com/goharbor/harbor</title>
+    <link href="https://github.com/goharbor/harbor" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">An open source trusted cloud native registry project that stores, signs, and scans content.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heroiclabs/nakama#1738886400</id>
+    <title>https://github.com/heroiclabs/nakama</title>
+    <link href="https://github.com/heroiclabs/nakama" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Distributed server for social and realtime games and apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/client-go#1738886400</id>
+    <title>https://github.com/kubernetes/client-go</title>
+    <link href="https://github.com/kubernetes/client-go" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Go client for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metallb/metallb#1738886400</id>
+    <title>https://github.com/metallb/metallb</title>
+    <link href="https://github.com/metallb/metallb" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A network load-balancer implementation for Kubernetes using standard routing protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1738886400</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738886400</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1738886400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-go#1738886400</id>
+    <title>https://github.com/openai/openai-go</title>
+    <link href="https://github.com/openai/openai-go" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">The official Go library for the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/tidb#1738886400</id>
+    <title>https://github.com/pingcap/tidb</title>
+    <link href="https://github.com/pingcap/tidb" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/client_golang#1738886400</id>
+    <title>https://github.com/prometheus/client_golang</title>
+    <link href="https://github.com/prometheus/client_golang" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Prometheus instrumentation library for Go applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1738886400</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rook/rook#1738886400</id>
+    <title>https://github.com/rook/rook</title>
+    <link href="https://github.com/rook/rook" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Storage Orchestration for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volcano-sh/volcano#1738886400</id>
+    <title>https://github.com/volcano-sh/volcano</title>
+    <link href="https://github.com/volcano-sh/volcano" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A Cloud Native Batch System (Project under CNCF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yorukot/superfile#1738886400</id>
+    <title>https://github.com/yorukot/superfile</title>
+    <link href="https://github.com/yorukot/superfile" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Pretty fancy and modern terminal file manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1738886400</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+</feed>

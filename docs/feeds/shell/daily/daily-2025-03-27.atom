@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JamesTurland/JimsGarage#1743033600</id>
+    <title>https://github.com/JamesTurland/JimsGarage</title>
+    <link href="https://github.com/JamesTurland/JimsGarage" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Homelab Goodies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acmesh-official/acme.sh#1743033600</id>
+    <title>https://github.com/acmesh-official/acme.sh</title>
+    <link href="https://github.com/acmesh-official/acme.sh" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-mwaa-local-runner#1743033600</id>
+    <title>https://github.com/aws/aws-mwaa-local-runner</title>
+    <link href="https://github.com/aws/aws-mwaa-local-runner" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bats-core/bats-core#1743033600</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1743033600</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1743033600</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cdarlint/winutils#1743033600</id>
+    <title>https://github.com/cdarlint/winutils</title>
+    <link href="https://github.com/cdarlint/winutils" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">winutils.exe hadoop.dll and hdfs.dll binaries for hadoop windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1743033600</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/self-hosted#1743033600</id>
+    <title>https://github.com/getsentry/self-hosted</title>
+    <link href="https://github.com/getsentry/self-hosted" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/docker-otel-lgtm#1743033600</id>
+    <title>https://github.com/grafana/docker-otel-lgtm</title>
+    <link href="https://github.com/grafana/docker-otel-lgtm" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">OpenTelemetry backend in a Docker image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/j-hc/revanced-magisk-module#1743033600</id>
+    <title>https://github.com/j-hc/revanced-magisk-module</title>
+    <link href="https://github.com/j-hc/revanced-magisk-module" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Extensive ReVanced builder. Builds both modules and APKs. Updated daily.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jayphelps/git-blame-someone-else#1743033600</id>
+    <title>https://github.com/jayphelps/git-blame-someone-else</title>
+    <link href="https://github.com/jayphelps/git-blame-someone-else" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Blame someone else for your bad code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner#1743033600</id>
+    <title>https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner</title>
+    <link href="https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Dynamic sub-dir volume provisioner on a remote NFS server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mack-a/v2ray-agent#1743033600</id>
+    <title>https://github.com/mack-a/v2ray-agent</title>
+    <link href="https://github.com/mack-a/v2ray-agent" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Xray、Tuic、hysteria2、sing-box 八合一一键脚本</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mlocati/docker-php-extension-installer#1743033600</id>
+    <title>https://github.com/mlocati/docker-php-extension-installer</title>
+    <link href="https://github.com/mlocati/docker-php-extension-installer" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Easily install PHP extensions in Docker containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mylinuxforwork/dotfiles#1743033600</id>
+    <title>https://github.com/mylinuxforwork/dotfiles</title>
+    <link href="https://github.com/mylinuxforwork/dotfiles" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1743033600</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmybash/oh-my-bash#1743033600</id>
+    <title>https://github.com/ohmybash/oh-my-bash</title>
+    <link href="https://github.com/ohmybash/oh-my-bash" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openshift/release#1743033600</id>
+    <title>https://github.com/openshift/release</title>
+    <link href="https://github.com/openshift/release" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Release tooling for OpenShift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1743033600</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T11:18:32+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mrcjkb/rustaceanvim#1736162312</id>
+    <title>https://github.com/mrcjkb/rustaceanvim</title>
+    <link href="https://github.com/mrcjkb/rustaceanvim" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/williamboman/mason-lspconfig.nvim#1736162312</id>
+    <title>https://github.com/williamboman/mason-lspconfig.nvim</title>
+    <link href="https://github.com/williamboman/mason-lspconfig.nvim" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.nvim#1736162312</id>
+    <title>https://github.com/Exafunction/codeium.nvim</title>
+    <link href="https://github.com/Exafunction/codeium.nvim" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">A native neovim extension for Codeium</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1736162312</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdhao/nvim-config#1736162312</id>
+    <title>https://github.com/jdhao/nvim-config</title>
+    <link href="https://github.com/jdhao/nvim-config" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">A modern Neovim configuration with full battery for Python, Lua, C++, Markdown, LaTeX, and more...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvimtools/none-ls.nvim#1736162312</id>
+    <title>https://github.com/nvimtools/none-ls.nvim</title>
+    <link href="https://github.com/nvimtools/none-ls.nvim" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beyond-all-reason/Beyond-All-Reason#1736162312</id>
+    <title>https://github.com/beyond-all-reason/Beyond-All-Reason</title>
+    <link href="https://github.com/beyond-all-reason/Beyond-All-Reason" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">Main game repository for Beyond All Reason.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-lint#1736162312</id>
+    <title>https://github.com/mfussenegger/nvim-lint</title>
+    <link href="https://github.com/mfussenegger/nvim-lint" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1736162312</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/which-key.nvim#1736162312</id>
+    <title>https://github.com/folke/which-key.nvim</title>
+    <link href="https://github.com/folke/which-key.nvim" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josean-dev/dev-environment-files#1736162312</id>
+    <title>https://github.com/josean-dev/dev-environment-files</title>
+    <link href="https://github.com/josean-dev/dev-environment-files" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/gaboolic/rime-frost#1736162312</id>
+    <title>https://github.com/gaboolic/rime-frost</title>
+    <link href="https://github.com/gaboolic/rime-frost" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hrsh7th/nvim-cmp#1736162312</id>
+    <title>https://github.com/hrsh7th/nvim-cmp</title>
+    <link href="https://github.com/hrsh7th/nvim-cmp" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">A completion plugin for neovim coded in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1736162312</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThePrimeagen/init.lua#1736162312</id>
+    <title>https://github.com/ThePrimeagen/init.lua</title>
+    <link href="https://github.com/ThePrimeagen/init.lua" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1736162312</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1736162312</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1736162312</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-01-06T11:18:32+00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

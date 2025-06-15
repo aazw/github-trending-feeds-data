@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom</id>
+  <title>GitHub Trending - nextflow (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nextflow-io/training#1742947200</id>
+    <title>https://github.com/nextflow-io/training</title>
+    <link href="https://github.com/nextflow-io/training" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Nextflow training material</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/bacass#1742947200</id>
+    <title>https://github.com/nf-core/bacass</title>
+    <link href="https://github.com/nf-core/bacass" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Simple bacterial assembly and annotation pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/bactmap#1742947200</id>
+    <title>https://github.com/nf-core/bactmap</title>
+    <link href="https://github.com/nf-core/bactmap" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">A mapping-based pipeline for creating a phylogeny from bacterial whole genome sequences</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/clipseq#1742947200</id>
+    <title>https://github.com/nf-core/clipseq</title>
+    <link href="https://github.com/nf-core/clipseq" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">CLIP sequencing analysis pipeline for QC, pre-mapping, genome mapping, UMI deduplication, and multiple peak-calling options.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/configs#1742947200</id>
+    <title>https://github.com/nf-core/configs</title>
+    <link href="https://github.com/nf-core/configs" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Config files used to define parameters specific to compute environments at different Institutions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/isoseq#1742947200</id>
+    <title>https://github.com/nf-core/isoseq</title>
+    <link href="https://github.com/nf-core/isoseq" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Genome annotation with PacBio Iso-Seq. Takes raw subreads as input, generate Full Length Non Chemiric (FLNC) sequences and produce a bed annotation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/modules#1742947200</id>
+    <title>https://github.com/nf-core/modules</title>
+    <link href="https://github.com/nf-core/modules" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Repository to host tool-specific module files for the Nextflow DSL2 community!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/pathogensurveillance#1742947200</id>
+    <title>https://github.com/nf-core/pathogensurveillance</title>
+    <link href="https://github.com/nf-core/pathogensurveillance" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Surveillance of pathogens using population genomics and sequencing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/proteinfold#1742947200</id>
+    <title>https://github.com/nf-core/proteinfold</title>
+    <link href="https://github.com/nf-core/proteinfold" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Protein 3D structure prediction pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/rnaseq#1742947200</id>
+    <title>https://github.com/nf-core/rnaseq</title>
+    <link href="https://github.com/nf-core/rnaseq" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/sarek#1742947200</id>
+    <title>https://github.com/nf-core/sarek</title>
+    <link href="https://github.com/nf-core/sarek" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/taxprofiler#1742947200</id>
+    <title>https://github.com/nf-core/taxprofiler</title>
+    <link href="https://github.com/nf-core/taxprofiler" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Highly parallelised multi-taxonomic profiling of shotgun short- and long-read metagenomic data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/viralrecon#1742947200</id>
+    <title>https://github.com/nf-core/viralrecon</title>
+    <link href="https://github.com/nf-core/viralrecon" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Assembly and intrahost/low-frequency variant calling for viral samples</content>
+  </entry>
+</feed>

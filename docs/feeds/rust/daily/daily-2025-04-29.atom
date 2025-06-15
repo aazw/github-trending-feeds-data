@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LGUG2Z/komorebi#1745884800</id>
+    <title>https://github.com/LGUG2Z/komorebi</title>
+    <link href="https://github.com/LGUG2Z/komorebi" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">A tiling window manager for Windows 🍉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/walrus#1745884800</id>
+    <title>https://github.com/MystenLabs/walrus</title>
+    <link href="https://github.com/MystenLabs/walrus" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">A decentralized blob store using Sui for coordination and governance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1745884800</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/opendal#1745884800</id>
+    <title>https://github.com/apache/opendal</title>
+    <link href="https://github.com/apache/opendal" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Apache OpenDAL: One Layer, All Storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-q-developer-cli#1745884800</id>
+    <title>https://github.com/aws/amazon-q-developer-cli</title>
+    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">✨ Agentic AI experience in your terminal for building applications using natural language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1745884800</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/quiche#1745884800</id>
+    <title>https://github.com/cloudflare/quiche</title>
+    <link href="https://github.com/cloudflare/quiche" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1745884800</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elkowar/eww#1745884800</id>
+    <title>https://github.com/elkowar/eww</title>
+    <link href="https://github.com/elkowar/eww" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">ElKowars wacky widgets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/embassy-rs/embassy#1745884800</id>
+    <title>https://github.com/embassy-rs/embassy</title>
+    <link href="https://github.com/embassy-rs/embassy" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Modern embedded framework, using Rust and async.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/foundry#1745884800</id>
+    <title>https://github.com/foundry-rs/foundry</title>
+    <link href="https://github.com/foundry-rs/foundry" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdx/mise#1745884800</id>
+    <title>https://github.com/jdx/mise</title>
+    <link href="https://github.com/jdx/mise" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">dev tools, env vars, task runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1745884800</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lapce/lapce#1745884800</id>
+    <title>https://github.com/lapce/lapce</title>
+    <link href="https://github.com/lapce/lapce" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Lightning-fast and Powerful Code Editor written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfontanini/presenterm#1745884800</id>
+    <title>https://github.com/mfontanini/presenterm</title>
+    <link href="https://github.com/mfontanini/presenterm" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">A markdown terminal slideshow tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/libc#1745884800</id>
+    <title>https://github.com/rust-lang/libc</title>
+    <link href="https://github.com/rust-lang/libc" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Raw bindings to platform APIs for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1745884800</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-foundation/anchor#1745884800</id>
+    <title>https://github.com/solana-foundation/anchor</title>
+    <link href="https://github.com/solana-foundation/anchor" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">⚓ Solana Sealevel Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana#1745884800</id>
+    <title>https://github.com/solana-labs/solana</title>
+    <link href="https://github.com/solana-labs/solana" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1745884800</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tracel-ai/burn#1745884800</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tree-sitter/tree-sitter#1745884800</id>
+    <title>https://github.com/tree-sitter/tree-sitter</title>
+    <link href="https://github.com/tree-sitter/tree-sitter" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">An incremental parsing system for programming tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1745884800</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+</feed>

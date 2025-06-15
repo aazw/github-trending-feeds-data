@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/purescript/weekly.atom</id>
+  <title>GitHub Trending - purescript (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/purescript/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nammayatri/nammayatri#1748217600</id>
+    <title>https://github.com/nammayatri/nammayatri</title>
+    <link href="https://github.com/nammayatri/nammayatri" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-lists#1748217600</id>
+    <title>https://github.com/purescript/purescript-lists</title>
+    <link href="https://github.com/purescript/purescript-lists" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Linked Lists</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-prelude#1748217600</id>
+    <title>https://github.com/purescript/purescript-prelude</title>
+    <link href="https://github.com/purescript/purescript-prelude" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The PureScript Prelude</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-profunctor#1748217600</id>
+    <title>https://github.com/purescript/purescript-profunctor</title>
+    <link href="https://github.com/purescript/purescript-profunctor" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Profunctor type classes and data structures</content>
+  </entry>
+</feed>

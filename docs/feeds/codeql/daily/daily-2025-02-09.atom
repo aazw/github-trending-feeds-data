@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/codeql/daily.atom</id>
+  <title>GitHub Trending - codeql (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/codeql/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/github/codeql#1739059200</id>
+    <title>https://github.com/github/codeql</title>
+    <link href="https://github.com/github/codeql" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/vscode-codeql-starter#1739059200</id>
+    <title>https://github.com/github/vscode-codeql-starter</title>
+    <link href="https://github.com/github/vscode-codeql-starter" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Starter workspace to use with the CodeQL extension for Visual Studio Code.</content>
+  </entry>
+</feed>

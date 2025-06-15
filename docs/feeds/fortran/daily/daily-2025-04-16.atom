@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-16T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CICE-Consortium/Icepack#1744761600</id>
+    <title>https://github.com/CICE-Consortium/Icepack</title>
+    <link href="https://github.com/CICE-Consortium/Icepack" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Development repository for sea-ice column physics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GEOS-ESM/MAPL#1744761600</id>
+    <title>https://github.com/GEOS-ESM/MAPL</title>
+    <link href="https://github.com/GEOS-ESM/MAPL" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NCAR/ccpp-physics#1744761600</id>
+    <title>https://github.com/NCAR/ccpp-physics</title>
+    <link href="https://github.com/NCAR/ccpp-physics" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Collection of physics parameterizations compliant with the Common Community Physics Package (CCPP) framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NOAA-GFDL/FMS#1744761600</id>
+    <title>https://github.com/NOAA-GFDL/FMS</title>
+    <link href="https://github.com/NOAA-GFDL/FMS" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">GFDL's Flexible Modeling System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere#1744761600</id>
+    <title>https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere</title>
+    <link href="https://github.com/NOAA-GFDL/GFDL_atmos_cubed_sphere" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">The GFDL atmos_cubed_sphere dynamical core code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFAST/openfast#1744761600</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/earth-system-radiation/rte-rrtmgp#1744761600</id>
+    <title>https://github.com/earth-system-radiation/rte-rrtmgp</title>
+    <link href="https://github.com/earth-system-radiation/rte-rrtmgp" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1744761600</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firemodels/fds#1744761600</id>
+    <title>https://github.com/firemodels/fds</title>
+    <link href="https://github.com/firemodels/fds" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Fire Dynamics Simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grimme-lab/xtb#1744761600</id>
+    <title>https://github.com/grimme-lab/xtb</title>
+    <link href="https://github.com/grimme-lab/xtb" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Semiempirical Extended Tight-Binding Program Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1744761600</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+</feed>

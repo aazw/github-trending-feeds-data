@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/puppet/daily.atom</id>
+  <title>GitHub Trending - puppet (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/puppet/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/puppet-datadog-agent#1741737600</id>
+    <title>https://github.com/DataDog/puppet-datadog-agent</title>
+    <link href="https://github.com/DataDog/puppet-datadog-agent" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Puppet module to install the Datadog agent</content>
+  </entry>
+</feed>

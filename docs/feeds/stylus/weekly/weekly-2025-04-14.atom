@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/stylus/weekly.atom</id>
+  <title>GitHub Trending - stylus (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/stylus/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/anzhiyu-c/hexo-theme-anzhiyu#1744588800</id>
+    <title>https://github.com/anzhiyu-c/hexo-theme-anzhiyu</title>
+    <link href="https://github.com/anzhiyu-c/hexo-theme-anzhiyu" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">安知鱼主题，这是一个简洁美丽的hexo主题。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rcore-os/blog#1744588800</id>
+    <title>https://github.com/rcore-os/blog</title>
+    <link href="https://github.com/rcore-os/blog" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">rcore-os Developer Blog</content>
+  </entry>
+  <entry>
+    <id>https://github.com/theme-next/hexo-theme-next#1744588800</id>
+    <title>https://github.com/theme-next/hexo-theme-next</title>
+    <link href="https://github.com/theme-next/hexo-theme-next" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Elegant and powerful theme for Hexo.</content>
+  </entry>
+</feed>

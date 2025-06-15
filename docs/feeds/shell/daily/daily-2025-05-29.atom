@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CISOfy/lynis#1748476800</id>
+    <title>https://github.com/CISOfy/lynis</title>
+    <link href="https://github.com/CISOfy/lynis" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DaoCloud/public-image-mirror#1748476800</id>
+    <title>https://github.com/DaoCloud/public-image-mirror</title>
+    <link href="https://github.com/DaoCloud/public-image-mirror" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Elegycloud/clash-for-linux-backup#1748476800</id>
+    <title>https://github.com/Elegycloud/clash-for-linux-backup</title>
+    <link href="https://github.com/Elegycloud/clash-for-linux-backup" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">基于Clash Core 制作的Clash For Linux备份仓库 A Clash For Linux Backup Warehouse Based on Clash Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MicrosoftDocs/azure-devops-docs#1748476800</id>
+    <title>https://github.com/MicrosoftDocs/azure-devops-docs</title>
+    <link href="https://github.com/MicrosoftDocs/azure-devops-docs" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/docker-selenium#1748476800</id>
+    <title>https://github.com/SeleniumHQ/docker-selenium</title>
+    <link href="https://github.com/SeleniumHQ/docker-selenium" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/angristan/openvpn-install#1748476800</id>
+    <title>https://github.com/angristan/openvpn-install</title>
+    <link href="https://github.com/angristan/openvpn-install" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Set up your own OpenVPN server on Debian, Ubuntu, Fedora, CentOS, Arch Linux and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/git-secrets#1748476800</id>
+    <title>https://github.com/awslabs/git-secrets</title>
+    <link href="https://github.com/awslabs/git-secrets" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Prevents you from committing secrets and credentials into git repositories</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1748476800</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/tmux#1748476800</id>
+    <title>https://github.com/catppuccin/tmux</title>
+    <link href="https://github.com/catppuccin/tmux" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">💽 Soothing pastel theme for Tmux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1748476800</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gpakosz/.tmux#1748476800</id>
+    <title>https://github.com/gpakosz/.tmux</title>
+    <link href="https://github.com/gpakosz/.tmux" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Oh my tmux! My self-contained, pretty &amp; versatile tmux configuration made with 💛🩷💙🖤❤️🤍</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mylinuxforwork/dotfiles#1748476800</id>
+    <title>https://github.com/mylinuxforwork/dotfiles</title>
+    <link href="https://github.com/mylinuxforwork/dotfiles" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/npryce/adr-tools#1748476800</id>
+    <title>https://github.com/npryce/adr-tools</title>
+    <link href="https://github.com/npryce/adr-tools" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Command-line tools for working with Architecture Decision Records</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1748476800</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openshift/release#1748476800</id>
+    <title>https://github.com/openshift/release</title>
+    <link href="https://github.com/openshift/release" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Release tooling for OpenShift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1748476800</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/winapps-org/winapps#1748476800</id>
+    <title>https://github.com/winapps-org/winapps</title>
+    <link href="https://github.com/winapps-org/winapps" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zabbix/zabbix-docker#1748476800</id>
+    <title>https://github.com/zabbix/zabbix-docker</title>
+    <link href="https://github.com/zabbix/zabbix-docker" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Official Zabbix Dockerfiles</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1738540800</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1738540800</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/dap-mode#1738540800</id>
+    <title>https://github.com/emacs-lsp/dap-mode</title>
+    <link href="https://github.com/emacs-lsp/dap-mode" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Emacs ❤️ Debug Adapter Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1738540800</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1738540800</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immerrr/lua-mode#1738540800</id>
+    <title>https://github.com/immerrr/lua-mode</title>
+    <link href="https://github.com/immerrr/lua-mode" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Emacs major mode for editing Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1738540800</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwiegley/emacs-async#1738540800</id>
+    <title>https://github.com/jwiegley/emacs-async</title>
+    <link href="https://github.com/jwiegley/emacs-async" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Simple library for asynchronous processing in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kickingvegas/casual#1738540800</id>
+    <title>https://github.com/kickingvegas/casual</title>
+    <link href="https://github.com/kickingvegas/casual" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1738540800</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1738540800</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/dash.el#1738540800</id>
+    <title>https://github.com/magnars/dash.el</title>
+    <link href="https://github.com/magnars/dash.el" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A modern list library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1738540800</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1738540800</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spotify/dockerfile-mode#1738540800</id>
+    <title>https://github.com/spotify/dockerfile-mode</title>
+    <link href="https://github.com/spotify/dockerfile-mode" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">An emacs mode for handling Dockerfiles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1738540800</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1738540800</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xenodium/chatgpt-shell#1738540800</id>
+    <title>https://github.com/xenodium/chatgpt-shell</title>
+    <link href="https://github.com/xenodium/chatgpt-shell" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations</content>
+  </entry>
+</feed>

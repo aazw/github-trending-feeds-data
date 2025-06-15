@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/apache/couchdb#1739577600</id>
+    <title>https://github.com/apache/couchdb</title>
+    <link href="https://github.com/apache/couchdb" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/choptastic/qdate#1739577600</id>
+    <title>https://github.com/choptastic/qdate</title>
+    <link href="https://github.com/choptastic/qdate" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Erlang date, time, and timezone management: formatting, conversion, and date arithmetic</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cmullaparthi/ibrowse#1739577600</id>
+    <title>https://github.com/cmullaparthi/ibrowse</title>
+    <link href="https://github.com/cmullaparthi/ibrowse" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Erlang HTTP client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1739577600</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1739577600</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-lager/lager#1739577600</id>
+    <title>https://github.com/erlang-lager/lager</title>
+    <link href="https://github.com/erlang-lager/lager" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A logging framework for Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1739577600</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1739577600</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josefs/Gradualizer#1739577600</id>
+    <title>https://github.com/josefs/Gradualizer</title>
+    <link href="https://github.com/josefs/Gradualizer" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A Gradual type system for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kivra/restclient#1739577600</id>
+    <title>https://github.com/kivra/restclient</title>
+    <link href="https://github.com/kivra/restclient" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Erlang Rest Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1739577600</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1739577600</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1739577600</id>
+    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
+    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Delayed Messaging for RabbitMQ</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomas-abrahamsson/gpb#1739577600</id>
+    <title>https://github.com/tomas-abrahamsson/gpb</title>
+    <link href="https://github.com/tomas-abrahamsson/gpb" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A Google Protobuf implementation for Erlang</content>
+  </entry>
+</feed>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MartialBE/one-hub#1739491200</id>
+    <title>https://github.com/MartialBE/one-hub</title>
+    <link href="https://github.com/MartialBE/one-hub" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">OpenAI 接口管理 &amp; 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1739491200</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1739491200</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/compose#1739491200</id>
+    <title>https://github.com/docker/compose</title>
+    <link href="https://github.com/docker/compose" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Define and run multi-container applications with Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/optimism#1739491200</id>
+    <title>https://github.com/ethereum-optimism/optimism</title>
+    <link href="https://github.com/ethereum-optimism/optimism" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Optimism is Ethereum, scaled.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1739491200</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1739491200</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1739491200</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1739491200</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gotenberg/gotenberg#1739491200</id>
+    <title>https://github.com/gotenberg/gotenberg</title>
+    <link href="https://github.com/gotenberg/gotenberg" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">A developer-friendly API for converting numerous document formats into PDF files, and more!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1739491200</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/mimir#1739491200</id>
+    <title>https://github.com/grafana/mimir</title>
+    <link href="https://github.com/grafana/mimir" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/tempo#1739491200</id>
+    <title>https://github.com/grafana/tempo</title>
+    <link href="https://github.com/grafana/tempo" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Grafana Tempo is a high volume, minimal dependency distributed tracing backend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1739491200</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1739491200</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1739491200</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livekit/livekit#1739491200</id>
+    <title>https://github.com/livekit/livekit</title>
+    <link href="https://github.com/livekit/livekit" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">End-to-end stack for WebRTC. SFU media server and SDKs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1739491200</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencontainers/runc#1739491200</id>
+    <title>https://github.com/opencontainers/runc</title>
+    <link href="https://github.com/opencontainers/runc" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">CLI tool for spawning and running containers according to the OCI specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pressly/goose#1739491200</id>
+    <title>https://github.com/pressly/goose</title>
+    <link href="https://github.com/pressly/goose" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">A database migration tool. Supports SQL migrations and Go functions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/prometheus#1739491200</id>
+    <title>https://github.com/prometheus/prometheus</title>
+    <link href="https://github.com/prometheus/prometheus" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">The Prometheus monitoring system and time series database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shopspring/decimal#1739491200</id>
+    <title>https://github.com/shopspring/decimal</title>
+    <link href="https://github.com/shopspring/decimal" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Arbitrary-precision fixed-point decimal numbers in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/techschool/simplebank#1739491200</id>
+    <title>https://github.com/techschool/simplebank</title>
+    <link href="https://github.com/techschool/simplebank" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Backend master class: build a simple bank service in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wagoodman/dive#1739491200</id>
+    <title>https://github.com/wagoodman/dive</title>
+    <link href="https://github.com/wagoodman/dive" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">A tool for exploring each layer in a docker image</content>
+  </entry>
+</feed>

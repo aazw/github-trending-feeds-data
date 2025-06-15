@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1738800000</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1738800000</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/VictoriaMetrics#1738800000</id>
+    <title>https://github.com/VictoriaMetrics/VictoriaMetrics</title>
+    <link href="https://github.com/VictoriaMetrics/VictoriaMetrics" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">VictoriaMetrics: fast, cost-effective monitoring solution and time series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akuity/kargo#1738800000</id>
+    <title>https://github.com/akuity/kargo</title>
+    <link href="https://github.com/akuity/kargo" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Application lifecycle orchestration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alireza0/s-ui#1738800000</id>
+    <title>https://github.com/alireza0/s-ui</title>
+    <link href="https://github.com/alireza0/s-ui" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">An advanced Web Panel • Built for SagerNet/Sing-Box</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1738800000</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1738800000</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/skopeo#1738800000</id>
+    <title>https://github.com/containers/skopeo</title>
+    <link href="https://github.com/containers/skopeo" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Work with remote images registries - retrieving information, images, signing content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/bbolt#1738800000</id>
+    <title>https://github.com/etcd-io/bbolt</title>
+    <link href="https://github.com/etcd-io/bbolt" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">An embedded key/value database for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1738800000</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1738800000</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1738800000</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heroiclabs/nakama#1738800000</id>
+    <title>https://github.com/heroiclabs/nakama</title>
+    <link href="https://github.com/heroiclabs/nakama" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Distributed server for social and realtime games and apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1738800000</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1738800000</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/autoscaler#1738800000</id>
+    <title>https://github.com/kubernetes/autoscaler</title>
+    <link href="https://github.com/kubernetes/autoscaler" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Autoscaling components for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1738800000</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1738800000</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/monasticacademy/httptap#1738800000</id>
+    <title>https://github.com/monasticacademy/httptap</title>
+    <link href="https://github.com/monasticacademy/httptap" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">View HTTP/HTTPS requests made by any Linux program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738800000</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1738800000</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/photoprism/photoprism#1738800000</id>
+    <title>https://github.com/photoprism/photoprism</title>
+    <link href="https://github.com/photoprism/photoprism" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">AI-Powered Photos App for the Decentralized Web 🌈💎✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1738800000</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1738800000</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+</feed>

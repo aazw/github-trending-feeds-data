@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom</id>
+  <title>GitHub Trending - zig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ghostty-org/ghostty#1748044800</id>
+    <title>https://github.com/ghostty-org/ghostty</title>
+    <link href="https://github.com/ghostty-org/ghostty" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lightpanda-io/browser#1748044800</id>
+    <title>https://github.com/lightpanda-io/browser</title>
+    <link href="https://github.com/lightpanda-io/browser" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Lightpanda: the headless browser designed for AI and automation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1748044800</id>
+    <title>https://github.com/oven-sh/bun</title>
+    <link href="https://github.com/oven-sh/bun" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pedropark99/zig-book#1748044800</id>
+    <title>https://github.com/pedropark99/zig-book</title>
+    <link href="https://github.com/pedropark99/zig-book" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">An open, technical and introductory book for the Zig programming language 📚📖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig#1748044800</id>
+    <title>https://github.com/ziglang/zig</title>
+    <link href="https://github.com/ziglang/zig" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zml/zml#1748044800</id>
+    <title>https://github.com/zml/zml</title>
+    <link href="https://github.com/zml/zml" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</content>
+  </entry>
+</feed>

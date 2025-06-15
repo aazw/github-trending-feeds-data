@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-avm-ptn-alz#1749427200</id>
+    <title>https://github.com/Azure/terraform-azurerm-avm-ptn-alz</title>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-ptn-alz" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Terraform module to deploy Azure Landing Zones</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1749427200</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1749427200</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1749427200</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
+  </entry>
+</feed>

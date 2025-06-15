@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/monthly.atom</id>
+  <title>GitHub Trending - go (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/1Panel-dev/1Panel#1746057600</id>
+    <title>https://github.com/1Panel-dev/1Panel</title>
+    <link href="https://github.com/1Panel-dev/1Panel" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/higress#1746057600</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1746057600</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1746057600</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ehang-io/nps#1746057600</id>
+    <title>https://github.com/ehang-io/nps</title>
+    <link href="https://github.com/ehang-io/nps" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1746057600</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1746057600</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1746057600</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golangci/golangci-lint#1746057600</id>
+    <title>https://github.com/golangci/golangci-lint</title>
+    <link href="https://github.com/golangci/golangci-lint" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Fast linters runner for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/mcp-grafana#1746057600</id>
+    <title>https://github.com/grafana/mcp-grafana</title>
+    <link href="https://github.com/grafana/mcp-grafana" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">MCP server for Grafana</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juanfont/headscale#1746057600</id>
+    <title>https://github.com/juanfont/headscale</title>
+    <link href="https://github.com/juanfont/headscale" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">An open source, self-hosted implementation of the Tailscale control server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1746057600</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcphost#1746057600</id>
+    <title>https://github.com/mark3labs/mcphost</title>
+    <link href="https://github.com/mark3labs/mcphost" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1746057600</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1746057600</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/navidrome/navidrome#1746057600</id>
+    <title>https://github.com/navidrome/navidrome</title>
+    <link href="https://github.com/navidrome/navidrome" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">🎧☁️ Your Personal Streaming Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1746057600</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plandex-ai/plandex#1746057600</id>
+    <title>https://github.com/plandex-ai/plandex</title>
+    <link href="https://github.com/plandex-ai/plandex" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Open source AI coding agent. Designed for large projects and real world tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketbase/pocketbase#1746057600</id>
+    <title>https://github.com/pocketbase/pocketbase</title>
+    <link href="https://github.com/pocketbase/pocketbase" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Open Source realtime backend in 1 file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/katana#1746057600</id>
+    <title>https://github.com/projectdiscovery/katana</title>
+    <link href="https://github.com/projectdiscovery/katana" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A next-generation crawling and spidering framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1746057600</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trustwallet/assets#1746057600</id>
+    <title>https://github.com/trustwallet/assets</title>
+    <link href="https://github.com/trustwallet/assets" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</content>
+  </entry>
+</feed>

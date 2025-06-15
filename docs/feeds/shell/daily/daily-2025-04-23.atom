@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Installomator/Installomator#1745366400</id>
+    <title>https://github.com/Installomator/Installomator</title>
+    <link href="https://github.com/Installomator/Installomator" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Installation script to deploy standard software on Macs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RPi-Distro/pi-gen#1745366400</id>
+    <title>https://github.com/RPi-Distro/pi-gen</title>
+    <link href="https://github.com/RPi-Distro/pi-gen" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Tool used to create the official Raspberry Pi OS images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acmesh-official/acme.sh#1745366400</id>
+    <title>https://github.com/acmesh-official/acme.sh</title>
+    <link href="https://github.com/acmesh-official/acme.sh" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adi1090x/rofi#1745366400</id>
+    <title>https://github.com/adi1090x/rofi</title>
+    <link href="https://github.com/adi1090x/rofi" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A huge collection of Rofi based custom Applets, Launchers &amp; Powermenus.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/angristan/wireguard-install#1745366400</id>
+    <title>https://github.com/angristan/wireguard-install</title>
+    <link href="https://github.com/angristan/wireguard-install" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">WireGuard VPN installer for Linux servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/appleboy/ssh-action#1745366400</id>
+    <title>https://github.com/appleboy/ssh-action</title>
+    <link href="https://github.com/appleboy/ssh-action" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">GitHub Actions for executing remote ssh commands.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf-ruby#1745366400</id>
+    <title>https://github.com/asdf-vm/asdf-ruby</title>
+    <link href="https://github.com/asdf-vm/asdf-ruby" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Ruby plugin for asdf version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bats-core/bats-core#1745366400</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1745366400</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1745366400</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1745366400</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dockur/windows#1745366400</id>
+    <title>https://github.com/dockur/windows</title>
+    <link href="https://github.com/dockur/windows" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Windows inside a Docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/self-hosted#1745366400</id>
+    <title>https://github.com/getsentry/self-hosted</title>
+    <link href="https://github.com/getsentry/self-hosted" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept</content>
+  </entry>
+  <entry>
+    <id>https://github.com/npryce/adr-tools#1745366400</id>
+    <title>https://github.com/npryce/adr-tools</title>
+    <link href="https://github.com/npryce/adr-tools" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Command-line tools for working with Architecture Decision Records</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1745366400</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rbenv/rbenv#1745366400</id>
+    <title>https://github.com/rbenv/rbenv</title>
+    <link href="https://github.com/rbenv/rbenv" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Manage your app's Ruby environment</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1745366400</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1745366400</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+</feed>

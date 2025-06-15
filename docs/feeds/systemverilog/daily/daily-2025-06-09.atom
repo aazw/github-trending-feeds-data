@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom</id>
+  <title>GitHub Trending - systemverilog (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aws/aws-fpga#1749427200</id>
+    <title>https://github.com/aws/aws-fpga</title>
+    <link href="https://github.com/aws/aws-fpga" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Official repository of the AWS EC2 FPGA Hardware and Software Development Kit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bespoke-silicon-group/basejump_stl#1749427200</id>
+    <title>https://github.com/bespoke-silicon-group/basejump_stl</title>
+    <link href="https://github.com/bespoke-silicon-group/basejump_stl" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">BaseJump STL: A Standard Template Library for SystemVerilog</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/ibex#1749427200</id>
+    <title>https://github.com/lowRISC/ibex</title>
+    <link href="https://github.com/lowRISC/ibex" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/opentitan#1749427200</id>
+    <title>https://github.com/lowRISC/opentitan</title>
+    <link href="https://github.com/lowRISC/opentitan" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">OpenTitan: Open source silicon root of trust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/cheriot-ibex#1749427200</id>
+    <title>https://github.com/microsoft/cheriot-ibex</title>
+    <link href="https://github.com/microsoft/cheriot-ibex" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">cheriot-ibex is a RTL implementation of CHERIoT ISA based on LowRISC's Ibex core.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/axi#1749427200</id>
+    <title>https://github.com/pulp-platform/axi</title>
+    <link href="https://github.com/pulp-platform/axi" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/axi_mem_if#1749427200</id>
+    <title>https://github.com/pulp-platform/axi_mem_if</title>
+    <link href="https://github.com/pulp-platform/axi_mem_if" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Simple single-port AXI memory interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xlsynth/bedrock-rtl#1749427200</id>
+    <title>https://github.com/xlsynth/bedrock-rtl</title>
+    <link href="https://github.com/xlsynth/bedrock-rtl" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">High quality and composable RTL libraries in SystemVerilog</content>
+  </entry>
+</feed>

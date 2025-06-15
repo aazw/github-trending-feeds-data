@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom</id>
+  <title>GitHub Trending - emacs-lisp (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abo-abo/swiper#1739145600</id>
+    <title>https://github.com/abo-abo/swiper</title>
+    <link href="https://github.com/abo-abo/swiper" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1739145600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1739145600</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1739145600</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-php/php-mode#1739145600</id>
+    <title>https://github.com/emacs-php/php-mode</title>
+    <link href="https://github.com/emacs-php/php-mode" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A powerful and flexible Emacs major mode for editing PHP scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flycheck/flycheck#1739145600</id>
+    <title>https://github.com/flycheck/flycheck</title>
+    <link href="https://github.com/flycheck/flycheck" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">On the fly syntax checking for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-mode#1739145600</id>
+    <title>https://github.com/haskell/haskell-mode</title>
+    <link href="https://github.com/haskell/haskell-mode" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Emacs mode for Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1739145600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1739145600</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1739145600</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mickeynp/combobulate#1739145600</id>
+    <title>https://github.com/mickeynp/combobulate</title>
+    <link href="https://github.com/mickeynp/combobulate" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Structured Editing and Navigation in Emacs with Tree-Sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/org-roam/org-roam#1739145600</id>
+    <title>https://github.com/org-roam/org-roam</title>
+    <link href="https://github.com/org-roam/org-roam" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Rudimentary Roam replica with Org-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1739145600</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rougier/nano-emacs#1739145600</id>
+    <title>https://github.com/rougier/nano-emacs</title>
+    <link href="https://github.com/rougier/nano-emacs" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">GNU Emacs / N Λ N O - Emacs made simple</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1739145600</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xenodium/chatgpt-shell#1739145600</id>
+    <title>https://github.com/xenodium/chatgpt-shell</title>
+    <link href="https://github.com/xenodium/chatgpt-shell" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations</content>
+  </entry>
+</feed>

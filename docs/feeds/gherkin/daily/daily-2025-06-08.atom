@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom</id>
+  <title>GitHub Trending - gherkin (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NHSDigital/personal-demographics-service-api#1749340800</id>
+    <title>https://github.com/NHSDigital/personal-demographics-service-api</title>
+    <link href="https://github.com/NHSDigital/personal-demographics-service-api" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Specifications for NHS Digital APIs provided on the API Management Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/core-command#1749340800</id>
+    <title>https://github.com/wp-cli/core-command</title>
+    <link href="https://github.com/wp-cli/core-command" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Downloads, installs, updates, and manages a WordPress installation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/dist-archive-command#1749340800</id>
+    <title>https://github.com/wp-cli/dist-archive-command</title>
+    <link href="https://github.com/wp-cli/dist-archive-command" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Create a distribution .zip or .tar.gz based on a plugin or theme's .distignore file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/doctor-command#1749340800</id>
+    <title>https://github.com/wp-cli/doctor-command</title>
+    <link href="https://github.com/wp-cli/doctor-command" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Diagnose problems within WordPress by running a series of checks for symptoms</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/i18n-command#1749340800</id>
+    <title>https://github.com/wp-cli/i18n-command</title>
+    <link href="https://github.com/wp-cli/i18n-command" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Provides internationalization tools for WordPress projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/scaffold-package-command#1749340800</id>
+    <title>https://github.com/wp-cli/scaffold-package-command</title>
+    <link href="https://github.com/wp-cli/scaffold-package-command" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Scaffolds WP-CLI commands with functional tests, full README.md, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/search-replace-command#1749340800</id>
+    <title>https://github.com/wp-cli/search-replace-command</title>
+    <link href="https://github.com/wp-cli/search-replace-command" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Searches/replaces strings in the database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/wp-cli-bundle#1749340800</id>
+    <title>https://github.com/wp-cli/wp-cli-bundle</title>
+    <link href="https://github.com/wp-cli/wp-cli-bundle" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">📦 WP-CLI package that bundles the framework with a set of common commands</content>
+  </entry>
+</feed>

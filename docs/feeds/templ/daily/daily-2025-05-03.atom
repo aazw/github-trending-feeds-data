@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/templ/daily.atom</id>
+  <title>GitHub Trending - templ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/templ/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/axzilla/templui#1746230400</id>
+    <title>https://github.com/axzilla/templui</title>
+    <link href="https://github.com/axzilla/templui" />
+    <updated>2025-05-03T00:00:00</updated>
+    <content type="text">The UI Kit for templ</content>
+  </entry>
+</feed>

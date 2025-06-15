@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/EndlessCheng/codeforces-go#1739404800</id>
+    <title>https://github.com/EndlessCheng/codeforces-go</title>
+    <link href="https://github.com/EndlessCheng/codeforces-go" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">算法竞赛模板库 by 灵茶山艾府 💭💡🎈</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MartialBE/one-hub#1739404800</id>
+    <title>https://github.com/MartialBE/one-hub</title>
+    <link href="https://github.com/MartialBE/one-hub" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">OpenAI 接口管理 &amp; 分发系统，改自songquanpeng/one-api。支持更多模型，加入统计页面，完善非openai模型的函数调用。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpecterOps/BloodHound#1739404800</id>
+    <title>https://github.com/SpecterOps/BloodHound</title>
+    <link href="https://github.com/SpecterOps/BloodHound" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Six Degrees of Domain Admin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cert-manager/cert-manager#1739404800</id>
+    <title>https://github.com/cert-manager/cert-manager</title>
+    <link href="https://github.com/cert-manager/cert-manager" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Automatically provision and manage TLS certificates in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1739404800</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1739404800</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1739404800</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-kratos/kratos#1739404800</id>
+    <title>https://github.com/go-kratos/kratos</title>
+    <link href="https://github.com/go-kratos/kratos" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Your ultimate Go microservices framework for the cloud-native era.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1739404800</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/tempo#1739404800</id>
+    <title>https://github.com/grafana/tempo</title>
+    <link href="https://github.com/grafana/tempo" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Grafana Tempo is a high volume, minimal dependency distributed tracing backend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gravitational/teleport#1739404800</id>
+    <title>https://github.com/gravitational/teleport</title>
+    <link href="https://github.com/gravitational/teleport" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">The easiest, and most secure way to access and protect all of your infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1739404800</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1739404800</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaegertracing/jaeger#1739404800</id>
+    <title>https://github.com/jaegertracing/jaeger</title>
+    <link href="https://github.com/jaegertracing/jaeger" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">CNCF Jaeger, a Distributed Tracing Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kustomize#1739404800</id>
+    <title>https://github.com/kubernetes-sigs/kustomize</title>
+    <link href="https://github.com/kubernetes-sigs/kustomize" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Customization of kubernetes YAML configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/dashboard#1739404800</id>
+    <title>https://github.com/kubernetes/dashboard</title>
+    <link href="https://github.com/kubernetes/dashboard" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">General-purpose web UI for Kubernetes clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1739404800</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1739404800</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rs/zerolog#1739404800</id>
+    <title>https://github.com/rs/zerolog</title>
+    <link href="https://github.com/rs/zerolog" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Zero Allocation JSON Logger</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sashabaranov/go-openai#1739404800</id>
+    <title>https://github.com/sashabaranov/go-openai</title>
+    <link href="https://github.com/sashabaranov/go-openai" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/securego/gosec#1739404800</id>
+    <title>https://github.com/securego/gosec</title>
+    <link href="https://github.com/securego/gosec" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Go security checker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1739404800</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thanos-io/thanos#1739404800</id>
+    <title>https://github.com/thanos-io/thanos</title>
+    <link href="https://github.com/thanos-io/thanos" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wagoodman/dive#1739404800</id>
+    <title>https://github.com/wagoodman/dive</title>
+    <link href="https://github.com/wagoodman/dive" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A tool for exploring each layer in a docker image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wailsapp/wails#1739404800</id>
+    <title>https://github.com/wailsapp/wails</title>
+    <link href="https://github.com/wailsapp/wails" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Create beautiful applications using Go</content>
+  </entry>
+</feed>

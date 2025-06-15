@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom</id>
+  <title>GitHub Trending - r (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T12:27:04+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/r-lib/tree-sitter-r#1736166424</id>
+    <title>https://github.com/r-lib/tree-sitter-r</title>
+    <link href="https://github.com/r-lib/tree-sitter-r" />
+    <updated>2025-01-06T12:27:04+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/swirldev/swirl_courses#1736166424</id>
+    <title>https://github.com/swirldev/swirl_courses</title>
+    <link href="https://github.com/swirldev/swirl_courses" />
+    <updated>2025-01-06T12:27:04+00:00</updated>
+    <content type="text">🎓 A collection of interactive courses for the swirl R package.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadley/r4ds#1736166424</id>
+    <title>https://github.com/hadley/r4ds</title>
+    <link href="https://github.com/hadley/r4ds" />
+    <updated>2025-01-06T12:27:04+00:00</updated>
+    <content type="text">R for data science: a book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rmaia/pavo#1736166424</id>
+    <title>https://github.com/rmaia/pavo</title>
+    <link href="https://github.com/rmaia/pavo" />
+    <updated>2025-01-06T12:27:04+00:00</updated>
+    <content type="text">tools for the analysis of color data in R</content>
+  </entry>
+</feed>

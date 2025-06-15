@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-07T11:14:08+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/go-playground/validator#1736248448</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1736248448</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1736248448</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1736248448</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kedacore/keda#1736248448</id>
+    <title>https://github.com/kedacore/keda</title>
+    <link href="https://github.com/kedacore/keda" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/devpod#1736248448</id>
+    <title>https://github.com/loft-sh/devpod</title>
+    <link href="https://github.com/loft-sh/devpod" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1736248448</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/consul#1736248448</id>
+    <title>https://github.com/hashicorp/consul</title>
+    <link href="https://github.com/hashicorp/consul" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1736248448</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1736248448</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sysadminsmedia/homebox#1736248448</id>
+    <title>https://github.com/sysadminsmedia/homebox</title>
+    <link href="https://github.com/sysadminsmedia/homebox" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">A continuation of HomeBox the inventory and organization system built for the Home User</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1736248448</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flipped-aurora/gin-vue-admin#1736248448</id>
+    <title>https://github.com/flipped-aurora/gin-vue-admin</title>
+    <link href="https://github.com/flipped-aurora/gin-vue-admin" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik#1736248448</id>
+    <title>https://github.com/traefik/traefik</title>
+    <link href="https://github.com/traefik/traefik" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">The Cloud Native Application Proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1736248448</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/tidb#1736248448</id>
+    <title>https://github.com/pingcap/tidb</title>
+    <link href="https://github.com/pingcap/tidb" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1736248448</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1736248448</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1736248448</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1736248448</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3s-io/k3s#1736248448</id>
+    <title>https://github.com/k3s-io/k3s</title>
+    <link href="https://github.com/k3s-io/k3s" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Lightweight Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1736248448</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/nuclei#1736248448</id>
+    <title>https://github.com/projectdiscovery/nuclei</title>
+    <link href="https://github.com/projectdiscovery/nuclei" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/prometheus#1736248448</id>
+    <title>https://github.com/prometheus/prometheus</title>
+    <link href="https://github.com/prometheus/prometheus" />
+    <updated>2025-01-07T11:14:08+00:00</updated>
+    <content type="text">The Prometheus monitoring system and time series database.</content>
+  </entry>
+</feed>

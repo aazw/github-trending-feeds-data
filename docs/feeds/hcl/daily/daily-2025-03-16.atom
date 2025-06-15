@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-16T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1742083200</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphagov/govuk-infrastructure#1742083200</id>
+    <title>https://github.com/alphagov/govuk-infrastructure</title>
+    <link href="https://github.com/alphagov/govuk-infrastructure" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Terraform turnup automation for the EKS Kubernetes clusters that host GOV.UK. See https://github.com/alphagov/govuk-helm-charts for application config.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-config#1742083200</id>
+    <title>https://github.com/cloudposse/terraform-aws-config</title>
+    <link href="https://github.com/cloudposse/terraform-aws-config" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">This module configures AWS Config, a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-documentdb-cluster#1742083200</id>
+    <title>https://github.com/cloudposse/terraform-aws-documentdb-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-documentdb-cluster" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Terraform module to provision a DocumentDB cluster on AWS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1742083200</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account#1742083200</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1742083200</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-composer#1742083200</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-composer</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-composer" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Manages Cloud Composer v1 and v2 along with option to manage networking</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-folders#1742083200</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-folders</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-folders" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Creates several Google Cloud folders under the same parent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-vpn#1742083200</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-vpn</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-vpn" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Sets up a Cloud VPN gateway</content>
+  </entry>
+</feed>

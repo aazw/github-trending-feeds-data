@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom</id>
+  <title>GitHub Trending - nextflow (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nf-core/airrflow#1742860800</id>
+    <title>https://github.com/nf-core/airrflow</title>
+    <link href="https://github.com/nf-core/airrflow" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">B-cell and T-cell Adaptive Immune Receptor Repertoire (AIRR) sequencing analysis pipeline using the Immcantation framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/atacseq#1742860800</id>
+    <title>https://github.com/nf-core/atacseq</title>
+    <link href="https://github.com/nf-core/atacseq" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">ATAC-seq peak-calling and QC analysis pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/bacass#1742860800</id>
+    <title>https://github.com/nf-core/bacass</title>
+    <link href="https://github.com/nf-core/bacass" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Simple bacterial assembly and annotation pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/differentialabundance#1742860800</id>
+    <title>https://github.com/nf-core/differentialabundance</title>
+    <link href="https://github.com/nf-core/differentialabundance" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Differential abundance analysis for feature/ observation matrices from platforms such as RNA-seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/eager#1742860800</id>
+    <title>https://github.com/nf-core/eager</title>
+    <link href="https://github.com/nf-core/eager" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A fully reproducible and state-of-the-art ancient DNA analysis pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/epitopeprediction#1742860800</id>
+    <title>https://github.com/nf-core/epitopeprediction</title>
+    <link href="https://github.com/nf-core/epitopeprediction" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A bioinformatics best-practice analysis pipeline for epitope prediction and annotation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/hlatyping#1742860800</id>
+    <title>https://github.com/nf-core/hlatyping</title>
+    <link href="https://github.com/nf-core/hlatyping" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Precision HLA typing from next-generation sequencing data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/modules#1742860800</id>
+    <title>https://github.com/nf-core/modules</title>
+    <link href="https://github.com/nf-core/modules" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Repository to host tool-specific module files for the Nextflow DSL2 community!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/pangenome#1742860800</id>
+    <title>https://github.com/nf-core/pangenome</title>
+    <link href="https://github.com/nf-core/pangenome" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Renders a collection of sequences into a pangenome graph. https://doi.org/10.1093/bioinformatics/btae609.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/raredisease#1742860800</id>
+    <title>https://github.com/nf-core/raredisease</title>
+    <link href="https://github.com/nf-core/raredisease" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Call and score variants from WGS/WES of rare disease patients.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/rnaseq#1742860800</id>
+    <title>https://github.com/nf-core/rnaseq</title>
+    <link href="https://github.com/nf-core/rnaseq" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/sarek#1742860800</id>
+    <title>https://github.com/nf-core/sarek</title>
+    <link href="https://github.com/nf-core/sarek" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/scrnaseq#1742860800</id>
+    <title>https://github.com/nf-core/scrnaseq</title>
+    <link href="https://github.com/nf-core/scrnaseq" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Single-cell RNA-Seq pipeline for barcode-based protocols such as 10x, DropSeq or SmartSeq, offering a variety of aligners and empty-droplet detection</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/smrnaseq#1742860800</id>
+    <title>https://github.com/nf-core/smrnaseq</title>
+    <link href="https://github.com/nf-core/smrnaseq" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A small-RNA sequencing analysis pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/taxprofiler#1742860800</id>
+    <title>https://github.com/nf-core/taxprofiler</title>
+    <link href="https://github.com/nf-core/taxprofiler" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Highly parallelised multi-taxonomic profiling of shotgun short- and long-read metagenomic data</content>
+  </entry>
+</feed>

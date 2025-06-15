@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1747008000</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EFForg/rayhunter#1747008000</id>
+    <title>https://github.com/EFForg/rayhunter</title>
+    <link href="https://github.com/EFForg/rayhunter" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Rust tool to detect cell site simulators on an orbic mobile hotspot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LGFae/swww#1747008000</id>
+    <title>https://github.com/LGFae/swww</title>
+    <link href="https://github.com/LGFae/swww" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A Solution to your Wayland Wallpaper Woes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/arrow-rs#1747008000</id>
+    <title>https://github.com/apache/arrow-rs</title>
+    <link href="https://github.com/apache/arrow-rs" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Official Rust implementation of Apache Arrow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1747008000</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1747008000</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/biomejs/biome#1747008000</id>
+    <title>https://github.com/biomejs/biome</title>
+    <link href="https://github.com/biomejs/biome" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elkowar/eww#1747008000</id>
+    <title>https://github.com/elkowar/eww</title>
+    <link href="https://github.com/elkowar/eww" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">ElKowars wacky widgets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1747008000</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moghtech/komodo#1747008000</id>
+    <title>https://github.com/moghtech/komodo</title>
+    <link href="https://github.com/moghtech/komodo" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">🦎 a tool to build and deploy software on many servers 🦎</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1747008000</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1747008000</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ratatui/ratatui#1747008000</id>
+    <title>https://github.com/ratatui/ratatui</title>
+    <link href="https://github.com/ratatui/ratatui" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1747008000</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-unofficial/awesome-rust#1747008000</id>
+    <title>https://github.com/rust-unofficial/awesome-rust</title>
+    <link href="https://github.com/rust-unofficial/awesome-rust" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A curated list of Rust code and resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-windowing/winit#1747008000</id>
+    <title>https://github.com/rust-windowing/winit</title>
+    <link href="https://github.com/rust-windowing/winit" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Window handling library in pure Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/bat#1747008000</id>
+    <title>https://github.com/sharkdp/bat</title>
+    <link href="https://github.com/sharkdp/bat" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A cat(1) clone with wings.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1747008000</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1747008000</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1747008000</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1747008000</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1747008000</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1747008000</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

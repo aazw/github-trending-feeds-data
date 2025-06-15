@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/PyO3/maturin#1741737600</id>
+    <title>https://github.com/PyO3/maturin</title>
+    <link href="https://github.com/PyO3/maturin" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1741737600</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/opendal#1741737600</id>
+    <title>https://github.com/apache/opendal</title>
+    <link href="https://github.com/apache/opendal" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Apache OpenDAL: One Layer, All Storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1741737600</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1741737600</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1741737600</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1741737600</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/pingora#1741737600</id>
+    <title>https://github.com/cloudflare/pingora</title>
+    <link href="https://github.com/cloudflare/pingora" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A library for building fast, reliable and evolvable network services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1741737600</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1741737600</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iced-rs/iced#1741737600</id>
+    <title>https://github.com/iced-rs/iced</title>
+    <link href="https://github.com/iced-rs/iced" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A cross-platform GUI library for Rust, inspired by Elm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfontanini/presenterm#1741737600</id>
+    <title>https://github.com/mfontanini/presenterm</title>
+    <link href="https://github.com/mfontanini/presenterm" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A markdown terminal slideshow tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxc-project/oxc#1741737600</id>
+    <title>https://github.com/oxc-project/oxc</title>
+    <link href="https://github.com/oxc-project/oxc" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">⚓ A collection of JavaScript tools written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1741737600</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1741737600</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-unofficial/awesome-rust#1741737600</id>
+    <title>https://github.com/rust-unofficial/awesome-rust</title>
+    <link href="https://github.com/rust-unofficial/awesome-rust" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A curated list of Rust code and resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1741737600</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starkware-libs/cairo#1741737600</id>
+    <title>https://github.com/starkware-libs/cairo</title>
+    <link href="https://github.com/starkware-libs/cairo" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Cairo is the first Turing-complete language for creating provable programs for general computation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/tauri#1741737600</id>
+    <title>https://github.com/tauri-apps/tauri</title>
+    <link href="https://github.com/tauri-apps/tauri" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1741737600</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1741737600</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1741737600</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1741737600</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1741737600</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-13T11:12:15+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/elixir-lang/ex_doc#1736766735</id>
+    <title>https://github.com/elixir-lang/ex_doc</title>
+    <link href="https://github.com/elixir-lang/ex_doc" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">ExDoc produces HTML and EPUB documentation for Elixir projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bartblast/hologram#1736766735</id>
+    <title>https://github.com/bartblast/hologram</title>
+    <link href="https://github.com/bartblast/hologram" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Full stack isomorphic Elixir web framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1736766735</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1736766735</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Sync little subsets of your Postgres data into local apps and services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/sentry-elixir#1736766735</id>
+    <title>https://github.com/getsentry/sentry-elixir</title>
+    <link href="https://github.com/getsentry/sentry-elixir" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">The official Elixir SDK for Sentry (sentry.io)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1736766735</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beam-community/stripity-stripe#1736766735</id>
+    <title>https://github.com/beam-community/stripity-stripe</title>
+    <link href="https://github.com/beam-community/stripity-stripe" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">An Elixir Library for Stripe</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eigr/spawn#1736766735</id>
+    <title>https://github.com/eigr/spawn</title>
+    <link href="https://github.com/eigr/spawn" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Spawn - Actor Mesh</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1736766735</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OffchainLabs/blockscout#1736766735</id>
+    <title>https://github.com/OffchainLabs/blockscout</title>
+    <link href="https://github.com/OffchainLabs/blockscout" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/woutdp/live_svelte#1736766735</id>
+    <title>https://github.com/woutdp/live_svelte</title>
+    <link href="https://github.com/woutdp/live_svelte" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Svelte inside Phoenix LiveView with seamless end-to-end reactivity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1736766735</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/liveview-native/live_view_native#1736766735</id>
+    <title>https://github.com/liveview-native/live_view_native</title>
+    <link href="https://github.com/liveview-native/live_view_native" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">A framework for building native applications with Phoenix LiveView</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1736766735</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-plug/plug#1736766735</id>
+    <title>https://github.com/elixir-plug/plug</title>
+    <link href="https://github.com/elixir-plug/plug" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Compose web applications with functions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitwalker/libcluster#1736766735</id>
+    <title>https://github.com/bitwalker/libcluster</title>
+    <link href="https://github.com/bitwalker/libcluster" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Automatic cluster formation/healing for Elixir applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/flame#1736766735</id>
+    <title>https://github.com/phoenixframework/flame</title>
+    <link href="https://github.com/phoenixframework/flame" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Fleeting Lambda Application for Modular Execution: auto scale parts of your existing app with a single function call</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1736766735</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/anoma#1736766735</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1736766735</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1736766735</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-01-13T11:12:15+00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+</feed>

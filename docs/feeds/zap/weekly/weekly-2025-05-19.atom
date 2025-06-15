@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zap/weekly.atom</id>
+  <title>GitHub Trending - zap (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zap/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/project-chip/zap#1747612800</id>
+    <title>https://github.com/project-chip/zap</title>
+    <link href="https://github.com/project-chip/zap" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">ZAP stands for ZCL Advanced Platform. It is used to configure clusters, attributes and other entities for Matter and ZigbeePro applications.</content>
+  </entry>
+</feed>

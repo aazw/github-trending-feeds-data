@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-03T11:12:07+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dimitri/el-get#1735902727</id>
+    <title>https://github.com/dimitri/el-get</title>
+    <link href="https://github.com/dimitri/el-get" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">Manage the external elisp bits and pieces upon which you depend!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1735902727</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/eglot#1735902727</id>
+    <title>https://github.com/joaotavora/eglot</title>
+    <link href="https://github.com/joaotavora/eglot" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">A client for Language Server Protocol servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacsorphanage/anzu#1735902727</id>
+    <title>https://github.com/emacsorphanage/anzu</title>
+    <link href="https://github.com/emacsorphanage/anzu" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">Emacs Port of anzu.vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xenodium/chatgpt-shell#1735902727</id>
+    <title>https://github.com/xenodium/chatgpt-shell</title>
+    <link href="https://github.com/xenodium/chatgpt-shell" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1735902727</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/auto-complete/popup-el#1735902727</id>
+    <title>https://github.com/auto-complete/popup-el</title>
+    <link href="https://github.com/auto-complete/popup-el" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">Visual Popup Interface Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1735902727</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1735902727</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1735902727</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protesilaos/denote#1735902727</id>
+    <title>https://github.com/protesilaos/denote</title>
+    <link href="https://github.com/protesilaos/denote" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">Simple notes for Emacs with an efficient file-naming scheme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/positron-solutions/dslide#1735902727</id>
+    <title>https://github.com/positron-solutions/dslide</title>
+    <link href="https://github.com/positron-solutions/dslide" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">Present anything Emacs can do with programmable, extensible, configurable slides &amp; presentation steps made from org mode headings</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1735902727</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/millejoh/emacs-ipython-notebook#1735902727</id>
+    <title>https://github.com/millejoh/emacs-ipython-notebook</title>
+    <link href="https://github.com/millejoh/emacs-ipython-notebook" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">Jupyter notebook client in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CeleritasCelery/rune#1735902727</id>
+    <title>https://github.com/CeleritasCelery/rune</title>
+    <link href="https://github.com/CeleritasCelery/rune" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">Rust VM for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1735902727</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-03T11:12:07+00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+</feed>

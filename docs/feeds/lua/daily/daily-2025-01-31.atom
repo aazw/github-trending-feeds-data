@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1738281600</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NeogitOrg/neogit#1738281600</id>
+    <title>https://github.com/NeogitOrg/neogit</title>
+    <link href="https://github.com/NeogitOrg/neogit" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">An interactive and powerful Git interface for Neovim, inspired by Magit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awesomeWM/awesome#1738281600</id>
+    <title>https://github.com/awesomeWM/awesome</title>
+    <link href="https://github.com/awesomeWM/awesome" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">awesome window manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/nvim#1738281600</id>
+    <title>https://github.com/catppuccin/nvim</title>
+    <link href="https://github.com/catppuccin/nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">🍨 Soothing pastel theme for (Neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/flash.nvim#1738281600</id>
+    <title>https://github.com/folke/flash.nvim</title>
+    <link href="https://github.com/folke/flash.nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Navigate your code with search labels, enhanced character motions and Treesitter integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1738281600</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/noice.nvim#1738281600</id>
+    <title>https://github.com/folke/noice.nvim</title>
+    <link href="https://github.com/folke/noice.nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1738281600</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1738281600</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1738281600</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nomnivore/ollama.nvim#1738281600</id>
+    <title>https://github.com/nomnivore/ollama.nvim</title>
+    <link href="https://github.com/nomnivore/ollama.nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A plugin for managing and integrating your ollama workflows in neovim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1738281600</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pwntester/octo.nvim#1738281600</id>
+    <title>https://github.com/pwntester/octo.nvim</title>
+    <link href="https://github.com/pwntester/octo.nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Edit and review GitHub issues and pull requests from the comfort of your favorite editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tanvirtin/vgit.nvim#1738281600</id>
+    <title>https://github.com/tanvirtin/vgit.nvim</title>
+    <link href="https://github.com/tanvirtin/vgit.nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Visual git plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1738281600</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1740009600</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AlexxIT/go2rtc#1740009600</id>
+    <title>https://github.com/AlexxIT/go2rtc</title>
+    <link href="https://github.com/AlexxIT/go2rtc" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1740009600</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1740009600</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1740009600</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1740009600</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derailed/k9s#1740009600</id>
+    <title>https://github.com/derailed/k9s</title>
+    <link href="https://github.com/derailed/k9s" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">🐶 Kubernetes CLI To Manage Your Clusters In Style!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evcc-io/evcc#1740009600</id>
+    <title>https://github.com/evcc-io/evcc</title>
+    <link href="https://github.com/evcc-io/evcc" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Solar Charging ☀️🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1740009600</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glanceapp/glance#1740009600</id>
+    <title>https://github.com/glanceapp/glance</title>
+    <link href="https://github.com/glanceapp/glance" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A self-hosted dashboard that puts all your feeds in one place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/loki#1740009600</id>
+    <title>https://github.com/grafana/loki</title>
+    <link href="https://github.com/grafana/loki" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Like Prometheus, but for logs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1740009600</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1740009600</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1740009600</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kube-state-metrics#1740009600</id>
+    <title>https://github.com/kubernetes/kube-state-metrics</title>
+    <link href="https://github.com/kubernetes/kube-state-metrics" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Add-on agent to generate and expose cluster-level metrics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubevirt/kubevirt#1740009600</id>
+    <title>https://github.com/kubevirt/kubevirt</title>
+    <link href="https://github.com/kubevirt/kubevirt" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Kubernetes Virtualization API and runtime in order to define and manage virtual machines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1740009600</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1740009600</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/nuclei#1740009600</id>
+    <title>https://github.com/projectdiscovery/nuclei</title>
+    <link href="https://github.com/projectdiscovery/nuclei" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/node_exporter#1740009600</id>
+    <title>https://github.com/prometheus/node_exporter</title>
+    <link href="https://github.com/prometheus/node_exporter" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Exporter for machine metrics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quic-go/quic-go#1740009600</id>
+    <title>https://github.com/quic-go/quic-go</title>
+    <link href="https://github.com/quic-go/quic-go" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A QUIC implementation in pure Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/samber/lo#1740009600</id>
+    <title>https://github.com/samber/lo</title>
+    <link href="https://github.com/samber/lo" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1740009600</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vmware-tanzu/velero#1740009600</id>
+    <title>https://github.com/vmware-tanzu/velero</title>
+    <link href="https://github.com/vmware-tanzu/velero" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Backup and migrate Kubernetes applications and their persistent volumes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yorukot/superfile#1740009600</id>
+    <title>https://github.com/yorukot/superfile</title>
+    <link href="https://github.com/yorukot/superfile" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Pretty fancy and modern terminal file manager</content>
+  </entry>
+</feed>

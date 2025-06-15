@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/amix/vimrc#1740268800</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chrisbra/csv.vim#1740268800</id>
+    <title>https://github.com/chrisbra/csv.vim</title>
+    <link href="https://github.com/chrisbra/csv.vim" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A Filetype plugin for csv files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gelguy/wilder.nvim#1740268800</id>
+    <title>https://github.com/gelguy/wilder.nvim</title>
+    <link href="https://github.com/gelguy/wilder.nvim" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A more adventurous wildmenu</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1740268800</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1740268800</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1740268800</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lambdalisue/vim-suda#1740268800</id>
+    <title>https://github.com/lambdalisue/vim-suda</title>
+    <link href="https://github.com/lambdalisue/vim-suda" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">🥪 An alternative sudo.vim for Vim and Neovim, limited support sudo in Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1740268800</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moll/vim-bbye#1740268800</id>
+    <title>https://github.com/moll/vim-bbye</title>
+    <link href="https://github.com/moll/vim-bbye" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1740268800</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1740268800</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete-lsp.vim#1740268800</id>
+    <title>https://github.com/prabirshrestha/asyncomplete-lsp.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/vim-lsp#1740268800</id>
+    <title>https://github.com/prabirshrestha/vim-lsp</title>
+    <link href="https://github.com/prabirshrestha/vim-lsp" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">async language server protocol plugin for vim and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1740268800</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/romainl/vim-cool#1740268800</id>
+    <title>https://github.com/romainl/vim-cool</title>
+    <link href="https://github.com/romainl/vim-cool" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A very simple plugin that makes hlsearch more useful.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/skywind3000/asyncrun.vim#1740268800</id>
+    <title>https://github.com/skywind3000/asyncrun.vim</title>
+    <link href="https://github.com/skywind3000/asyncrun.vim" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">🚀 Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rhubarb#1740268800</id>
+    <title>https://github.com/tpope/vim-rhubarb</title>
+    <link href="https://github.com/tpope/vim-rhubarb" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">rhubarb.vim: GitHub extension for fugitive.vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1740268800</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vital.vim#1740268800</id>
+    <title>https://github.com/vim-jp/vital.vim</title>
+    <link href="https://github.com/vim-jp/vital.vim" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A comprehensive Vim utility functions for Vim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1740268800</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

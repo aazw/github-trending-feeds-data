@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rescript/monthly.atom</id>
+  <title>GitHub Trending - rescript (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rescript/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/enviodev/hyperindex#1743465600</id>
+    <title>https://github.com/enviodev/hyperindex</title>
+    <link href="https://github.com/enviodev/hyperindex" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🚢 Ultra-Fast Multichain Indexer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rescript-lang/rescript#1743465600</id>
+    <title>https://github.com/rescript-lang/rescript</title>
+    <link href="https://github.com/rescript-lang/rescript" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.</content>
+  </entry>
+</feed>

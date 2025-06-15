@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom</id>
+  <title>GitHub Trending - groovy (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cirulls/hands-on-jenkins#1738454400</id>
+    <title>https://github.com/cirulls/hands-on-jenkins</title>
+    <link href="https://github.com/cirulls/hands-on-jenkins" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Companion code, slides and exercises of the video course Hands-on Continuous Integration and Automation with Jenkins by Packt Publishing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudius-systems/mgmt#1738454400</id>
+    <title>https://github.com/cloudius-systems/mgmt</title>
+    <link href="https://github.com/cloudius-systems/mgmt" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/gradle/gradle#1738454400</id>
+    <title>https://github.com/gradle/gradle</title>
+    <link href="https://github.com/gradle/gradle" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Adaptable, fast automation for all</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jenkinsci/pipeline-examples#1738454400</id>
+    <title>https://github.com/jenkinsci/pipeline-examples</title>
+    <link href="https://github.com/jenkinsci/pipeline-examples" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextflow-io/nextflow#1738454400</id>
+    <title>https://github.com/nextflow-io/nextflow</title>
+    <link href="https://github.com/nextflow-io/nextflow" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">A DSL for data-driven computational pipelines</content>
+  </entry>
+</feed>

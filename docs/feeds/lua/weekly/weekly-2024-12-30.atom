@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/weekly.atom</id>
+  <title>GitHub Trending - lua (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-30T12:19:47+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nvim-neo-tree/neo-tree.nvim#1735561187</id>
+    <title>https://github.com/nvim-neo-tree/neo-tree.nvim</title>
+    <link href="https://github.com/nvim-neo-tree/neo-tree.nvim" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">Neovim plugin to manage the file system and other tree like structures.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zbirenbaum/copilot.lua#1735561187</id>
+    <title>https://github.com/zbirenbaum/copilot.lua</title>
+    <link href="https://github.com/zbirenbaum/copilot.lua" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">Fully featured &amp; enhanced replacement for copilot.vim complete with API for interacting with Github Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rebelot/kanagawa.nvim#1735561187</id>
+    <title>https://github.com/rebelot/kanagawa.nvim</title>
+    <link href="https://github.com/rebelot/kanagawa.nvim" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/conform.nvim#1735561187</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1735561187</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rcarriga/nvim-dap-ui#1735561187</id>
+    <title>https://github.com/rcarriga/nvim-dap-ui</title>
+    <link href="https://github.com/rcarriga/nvim-dap-ui" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">A UI for nvim-dap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1735561187</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrcjkb/rustaceanvim#1735561187</id>
+    <title>https://github.com/mrcjkb/rustaceanvim</title>
+    <link href="https://github.com/mrcjkb/rustaceanvim" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/starter#1735561187</id>
+    <title>https://github.com/LazyVim/starter</title>
+    <link href="https://github.com/LazyVim/starter" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">Starter template for LazyVim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/nvim#1735561187</id>
+    <title>https://github.com/catppuccin/nvim</title>
+    <link href="https://github.com/catppuccin/nvim" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">🍨 Soothing pastel theme for (Neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1735561187</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epwalsh/obsidian.nvim#1735561187</id>
+    <title>https://github.com/epwalsh/obsidian.nvim</title>
+    <link href="https://github.com/epwalsh/obsidian.nvim" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">Obsidian 🤝 Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1735561187</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-tree/nvim-tree.lua#1735561187</id>
+    <title>https://github.com/nvim-tree/nvim-tree.lua</title>
+    <link href="https://github.com/nvim-tree/nvim-tree.lua" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">A file explorer tree for neovim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1735561187</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Steamopollys/Steamodded#1735561187</id>
+    <title>https://github.com/Steamopollys/Steamodded</title>
+    <link href="https://github.com/Steamopollys/Steamodded" />
+    <updated>2024-12-30T12:19:47+00:00</updated>
+    <content type="text">A Balatro ModLoader</content>
+  </entry>
+</feed>

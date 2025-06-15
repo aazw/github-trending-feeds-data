@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</id>
+  <title>GitHub Trending - nix (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LnL7/nix-darwin#1738886400</id>
+    <title>https://github.com/LnL7/nix-darwin</title>
+    <link href="https://github.com/LnL7/nix-darwin" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">nix modules for darwin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mic92/sops-nix#1738886400</id>
+    <title>https://github.com/Mic92/sops-nix</title>
+    <link href="https://github.com/Mic92/sops-nix" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Atomic secret provisioning for NixOS based on sops</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixos-hardware#1738886400</id>
+    <title>https://github.com/NixOS/nixos-hardware</title>
+    <link href="https://github.com/NixOS/nixos-hardware" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A collection of NixOS modules covering hardware quirks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NotAShelf/nvf#1738886400</id>
+    <title>https://github.com/NotAShelf/nvf</title>
+    <link href="https://github.com/NotAShelf/nvf" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A highly modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cachix/devenv#1738886400</id>
+    <title>https://github.com/cachix/devenv</title>
+    <link href="https://github.com/cachix/devenv" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dustinlyons/nixos-config#1738886400</id>
+    <title>https://github.com/dustinlyons/nixos-config</title>
+    <link href="https://github.com/dustinlyons/nixos-config" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/nixos-unified-template#1738886400</id>
+    <title>https://github.com/juspay/nixos-unified-template</title>
+    <link href="https://github.com/juspay/nixos-unified-template" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A multi-platform Nix configuration template optimized as development environment, based on nixos-unified.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/nixos-config#1738886400</id>
+    <title>https://github.com/mitchellh/nixos-config</title>
+    <link href="https://github.com/mitchellh/nixos-config" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">My NixOS configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/disko#1738886400</id>
+    <title>https://github.com/nix-community/disko</title>
+    <link href="https://github.com/nix-community/disko" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/home-manager#1738886400</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nixvim#1738886400</id>
+    <title>https://github.com/nix-community/nixvim</title>
+    <link href="https://github.com/nix-community/nixvim" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nixos-bsd/nixbsd#1738886400</id>
+    <title>https://github.com/nixos-bsd/nixbsd</title>
+    <link href="https://github.com/nixos-bsd/nixbsd" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">An unofficial NixOS fork with a FreeBSD kernel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/the-nix-way/dev-templates#1738886400</id>
+    <title>https://github.com/the-nix-way/dev-templates</title>
+    <link href="https://github.com/the-nix-way/dev-templates" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]</content>
+  </entry>
+</feed>

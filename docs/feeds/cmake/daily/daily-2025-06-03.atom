@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MarkSchofield/WindowsToolchain#1748908800</id>
+    <title>https://github.com/MarkSchofield/WindowsToolchain</title>
+    <link href="https://github.com/MarkSchofield/WindowsToolchain" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">A repository containing a CMake toolchain for using MSVC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ament/ament_cmake#1748908800</id>
+    <title>https://github.com/ament/ament_cmake</title>
+    <link href="https://github.com/ament/ament_cmake" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Supporting CMake packages for working with ament</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1748908800</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cpm-cmake/CPM.cmake#1748908800</id>
+    <title>https://github.com/cpm-cmake/CPM.cmake</title>
+    <link href="https://github.com/cpm-cmake/CPM.cmake" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leetal/ios-cmake#1748908800</id>
+    <title>https://github.com/leetal/ios-cmake</title>
+    <link href="https://github.com/leetal/ios-cmake" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-controls/control_msgs#1748908800</id>
+    <title>https://github.com/ros-controls/control_msgs</title>
+    <link href="https://github.com/ros-controls/control_msgs" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">contains base messages and actions useful for controlling robots</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shinchiro/mpv-winbuild-cmake#1748908800</id>
+    <title>https://github.com/shinchiro/mpv-winbuild-cmake</title>
+    <link href="https://github.com/shinchiro/mpv-winbuild-cmake" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">CMake-based MinGW-w64 Cross Toolchain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeek/cmake#1748908800</id>
+    <title>https://github.com/zeek/cmake</title>
+    <link href="https://github.com/zeek/cmake" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">CMake scripts used in Zeek</content>
+  </entry>
+</feed>

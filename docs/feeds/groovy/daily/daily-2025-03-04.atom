@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom</id>
+  <title>GitHub Trending - groovy (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SmartThingsCommunity/SmartThingsPublic#1741046400</id>
+    <title>https://github.com/SmartThingsCommunity/SmartThingsPublic</title>
+    <link href="https://github.com/SmartThingsCommunity/SmartThingsPublic" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">SmartThings open-source DeviceType Handlers and SmartApps code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bregman-arie/devops-resources#1741046400</id>
+    <title>https://github.com/bregman-arie/devops-resources</title>
+    <link href="https://github.com/bregman-arie/devops-resources" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gradle/gradle#1741046400</id>
+    <title>https://github.com/gradle/gradle</title>
+    <link href="https://github.com/gradle/gradle" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Adaptable, fast automation for all</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jenkinsci/job-dsl-plugin#1741046400</id>
+    <title>https://github.com/jenkinsci/job-dsl-plugin</title>
+    <link href="https://github.com/jenkinsci/job-dsl-plugin" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A Groovy DSL for Jenkins Jobs - Sweeeeet!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextflow-io/nextflow#1741046400</id>
+    <title>https://github.com/nextflow-io/nextflow</title>
+    <link href="https://github.com/nextflow-io/nextflow" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A DSL for data-driven computational pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rundeck/rundeck#1741046400</id>
+    <title>https://github.com/rundeck/rundeck</title>
+    <link href="https://github.com/rundeck/rundeck" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts</content>
+  </entry>
+</feed>

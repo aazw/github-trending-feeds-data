@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/chep/copilot-chat.el#1740009600</id>
+    <title>https://github.com/chep/copilot-chat.el</title>
+    <link href="https://github.com/chep/copilot-chat.el" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Chat with Github copilot in Emacs !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1740009600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1740009600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-emacs#1740009600</id>
+    <title>https://github.com/editorconfig/editorconfig-emacs</title>
+    <link href="https://github.com/editorconfig/editorconfig-emacs" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">EditorConfig plugin for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1740009600</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1740009600</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1740009600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1740009600</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1740009600</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs.d#1740009600</id>
+    <title>https://github.com/purcell/emacs.d</title>
+    <link href="https://github.com/purcell/emacs.d" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">An Emacs configuration bundle with batteries included</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1740009600</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1740009600</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/s-kostyaev/ellama#1740009600</id>
+    <title>https://github.com/s-kostyaev/ellama</title>
+    <link href="https://github.com/s-kostyaev/ellama" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Ellama is a tool for interacting with large language models from Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1740009600</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom</id>
+  <title>GitHub Trending - emacs-lisp (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Fanael/edit-indirect#1737936000</id>
+    <title>https://github.com/Fanael/edit-indirect</title>
+    <link href="https://github.com/Fanael/edit-indirect" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Edit regions in separate buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1737936000</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ahyatt/emacs-websocket#1737936000</id>
+    <title>https://github.com/ahyatt/emacs-websocket</title>
+    <link href="https://github.com/ahyatt/emacs-websocket" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A websocket implementation in elisp, for emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1737936000</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1737936000</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1737936000</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lewang/ws-butler#1737936000</id>
+    <title>https://github.com/lewang/ws-butler</title>
+    <link href="https://github.com/lewang/ws-butler" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Unobtrusively trim extraneous white-space *ONLY* in lines edited.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1737936000</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/dash.el#1737936000</id>
+    <title>https://github.com/magnars/dash.el</title>
+    <link href="https://github.com/magnars/dash.el" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A modern list library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1737936000</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/progfolio/elpaca#1737936000</id>
+    <title>https://github.com/progfolio/elpaca</title>
+    <link href="https://github.com/progfolio/elpaca" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">An elisp package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1737936000</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/renzmann/treesit-auto#1737936000</id>
+    <title>https://github.com/renzmann/treesit-auto</title>
+    <link href="https://github.com/renzmann/treesit-auto" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Automatic installation, usage, and fallback for tree-sitter major modes in Emacs 29</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1737936000</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+</feed>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/acl-org/aclpubcheck#1747785600</id>
+    <title>https://github.com/acl-org/aclpubcheck</title>
+    <link href="https://github.com/acl-org/aclpubcheck" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Tools for checking ACL paper submissions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/iceberg-python#1747785600</id>
+    <title>https://github.com/apache/iceberg-python</title>
+    <link href="https://github.com/apache/iceberg-python" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Apache PyIceberg</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilibili/Index-anisora#1747785600</id>
+    <title>https://github.com/bilibili/Index-anisora</title>
+    <link href="https://github.com/bilibili/Index-anisora" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/celery/celery#1747785600</id>
+    <title>https://github.com/celery/celery</title>
+    <link href="https://github.com/celery/celery" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Distributed Task Queue (development branch)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/comfyanonymous/ComfyUI#1747785600</id>
+    <title>https://github.com/comfyanonymous/ComfyUI</title>
+    <link href="https://github.com/comfyanonymous/ComfyUI" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/donnemartin/system-design-primer#1747785600</id>
+    <title>https://github.com/donnemartin/system-design-primer</title>
+    <link href="https://github.com/donnemartin/system-design-primer" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/qlib#1747785600</id>
+    <title>https://github.com/microsoft/qlib</title>
+    <link href="https://github.com/microsoft/qlib" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sherlock-project/sherlock#1747785600</id>
+    <title>https://github.com/sherlock-project/sherlock</title>
+    <link href="https://github.com/sherlock-project/sherlock" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Hunt down social media accounts by username across social networks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tinygrad/tinygrad#1747785600</id>
+    <title>https://github.com/tinygrad/tinygrad</title>
+    <link href="https://github.com/tinygrad/tinygrad" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">You like pytorch? You like micrograd? You love tinygrad! ❤️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unslothai/unsloth#1747785600</id>
+    <title>https://github.com/unslothai/unsloth</title>
+    <link href="https://github.com/unslothai/unsloth" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 &amp; Gemma 3 LLMs 2x faster with 70% less memory! 🦥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/virattt/ai-hedge-fund#1747785600</id>
+    <title>https://github.com/virattt/ai-hedge-fund</title>
+    <link href="https://github.com/virattt/ai-hedge-fund" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">An AI Hedge Fund Team</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/vllm#1747785600</id>
+    <title>https://github.com/vllm-project/vllm</title>
+    <link href="https://github.com/vllm-project/vllm" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">A high-throughput and memory-efficient inference and serving engine for LLMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volcengine/verl#1747785600</id>
+    <title>https://github.com/volcengine/verl</title>
+    <link href="https://github.com/volcengine/verl" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">verl: Volcano Engine Reinforcement Learning for LLMs</content>
+  </entry>
+</feed>

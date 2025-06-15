@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Courseplay/Courseplay_FS25#1748044800</id>
+    <title>https://github.com/Courseplay/Courseplay_FS25</title>
+    <link href="https://github.com/Courseplay/Courseplay_FS25" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Courseplay for Farming Simulator 2025</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DNLHC/glance.nvim#1748044800</id>
+    <title>https://github.com/DNLHC/glance.nvim</title>
+    <link href="https://github.com/DNLHC/glance.nvim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Peek preview window for LSP locations in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kong/kong#1748044800</id>
+    <title>https://github.com/Kong/kong</title>
+    <link href="https://github.com/Kong/kong" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mmtrx/FS25_BetterContracts#1748044800</id>
+    <title>https://github.com/Mmtrx/FS25_BetterContracts</title>
+    <link href="https://github.com/Mmtrx/FS25_BetterContracts" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Mod to augment contracting functions in FS25. Click on Releases below to download latest Test version.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1748044800</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1748044800</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1748044800</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mason-org/mason.nvim#1748044800</id>
+    <title>https://github.com/mason-org/mason.nvim</title>
+    <link href="https://github.com/mason-org/mason.nvim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-dap#1748044800</id>
+    <title>https://github.com/mfussenegger/nvim-dap</title>
+    <link href="https://github.com/mfussenegger/nvim-dap" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Debug Adapter Protocol client implementation for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-lint#1748044800</id>
+    <title>https://github.com/mfussenegger/nvim-lint</title>
+    <link href="https://github.com/mfussenegger/nvim-lint" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1748044800</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-telescope/telescope.nvim#1748044800</id>
+    <title>https://github.com/nvim-telescope/telescope.nvim</title>
+    <link href="https://github.com/nvim-telescope/telescope.nvim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Find, Filter, Preview, Pick. All lua, all the time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-tree/nvim-web-devicons#1748044800</id>
+    <title>https://github.com/nvim-tree/nvim-web-devicons</title>
+    <link href="https://github.com/nvim-tree/nvim-web-devicons" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Provides Nerd Font icons (glyphs) for use by neovim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rebelot/heirline.nvim#1748044800</id>
+    <title>https://github.com/rebelot/heirline.nvim</title>
+    <link href="https://github.com/rebelot/heirline.nvim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Heirline.nvim is a no-nonsense Neovim Statusline plugin designed around recursive inheritance to be exceptionally fast and versatile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sindrets/diffview.nvim#1748044800</id>
+    <title>https://github.com/sindrets/diffview.nvim</title>
+    <link href="https://github.com/sindrets/diffview.nvim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Single tabpage interface for easily cycling through diffs for all modified files for any git rev.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/conform.nvim#1748044800</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1748044800</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

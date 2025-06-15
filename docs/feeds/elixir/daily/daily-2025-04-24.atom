@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OpenFn/lightning#1745452800</id>
+    <title>https://github.com/OpenFn/lightning</title>
+    <link href="https://github.com/OpenFn/lightning" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">OpenFn/Lightning ⚡️ is the newest version of the OpenFn DPG and provides a web UI to visually manage complex workflow automation projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/anoma#1745452800</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1745452800</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1745452800</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1745452800</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Real-time sync for Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1745452800</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixirs/faker#1745452800</id>
+    <title>https://github.com/elixirs/faker</title>
+    <link href="https://github.com/elixirs/faker" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Faker is a pure Elixir library for generating fake data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1745452800</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntrepid8/ex_crypto#1745452800</id>
+    <title>https://github.com/ntrepid8/ex_crypto</title>
+    <link href="https://github.com/ntrepid8/ex_crypto" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Wrapper around the Erlang crypto module for Elixir.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1745452800</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1745452800</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sequinstream/sequin#1745452800</id>
+    <title>https://github.com/sequinstream/sequin</title>
+    <link href="https://github.com/sequinstream/sequin" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/software-mansion/live-debugger#1745452800</id>
+    <title>https://github.com/software-mansion/live-debugger</title>
+    <link href="https://github.com/software-mansion/live-debugger" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Tool for debugging LiveView applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1745452800</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+</feed>

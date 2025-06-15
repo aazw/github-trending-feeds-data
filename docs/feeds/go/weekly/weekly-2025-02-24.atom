@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1740355200</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1740355200</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1740355200</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1740355200</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">An engine to run your pipelines in containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1740355200</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derailed/k9s#1740355200</id>
+    <title>https://github.com/derailed/k9s</title>
+    <link href="https://github.com/derailed/k9s" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">🐶 Kubernetes CLI To Manage Your Clusters In Style!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/cli#1740355200</id>
+    <title>https://github.com/docker/cli</title>
+    <link href="https://github.com/docker/cli" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">The Docker CLI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/go-ethereum#1740355200</id>
+    <title>https://github.com/ethereum/go-ethereum</title>
+    <link href="https://github.com/ethereum/go-ethereum" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Go implementation of the Ethereum protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evcc-io/evcc#1740355200</id>
+    <title>https://github.com/evcc-io/evcc</title>
+    <link href="https://github.com/evcc-io/evcc" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Solar Charging ☀️🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1740355200</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluxcd/flux2#1740355200</id>
+    <title>https://github.com/fluxcd/flux2</title>
+    <link href="https://github.com/fluxcd/flux2" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1740355200</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glanceapp/glance#1740355200</id>
+    <title>https://github.com/glanceapp/glance</title>
+    <link href="https://github.com/glanceapp/glance" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">A self-hosted dashboard that puts all your feeds in one place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gorm/gorm#1740355200</id>
+    <title>https://github.com/go-gorm/gorm</title>
+    <link href="https://github.com/go-gorm/gorm" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">The fantastic ORM library for Golang, aims to be developer friendly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1740355200</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorilla/websocket#1740355200</id>
+    <title>https://github.com/gorilla/websocket</title>
+    <link href="https://github.com/gorilla/websocket" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1740355200</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1740355200</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1740355200</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/vcluster#1740355200</id>
+    <title>https://github.com/loft-sh/vcluster</title>
+    <link href="https://github.com/loft-sh/vcluster" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1740355200</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1740355200</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/go-redis#1740355200</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Redis Go client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1740355200</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yorukot/superfile#1740355200</id>
+    <title>https://github.com/yorukot/superfile</title>
+    <link href="https://github.com/yorukot/superfile" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Pretty fancy and modern terminal file manager</content>
+  </entry>
+</feed>

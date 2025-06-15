@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/apex/daily.atom</id>
+  <title>GitHub Trending - apex (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/apex/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-30T11:06:49+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/apex-enterprise-patterns/at4dx#1735556809</id>
+    <title>https://github.com/apex-enterprise-patterns/at4dx</title>
+    <link href="https://github.com/apex-enterprise-patterns/at4dx" />
+    <updated>2024-12-30T11:06:49+00:00</updated>
+    <content type="text">Advanced Techniques for Salesforce DX Adoption Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apex-enterprise-patterns/fflib-apex-common#1735556809</id>
+    <title>https://github.com/apex-enterprise-patterns/fflib-apex-common</title>
+    <link href="https://github.com/apex-enterprise-patterns/fflib-apex-common" />
+    <updated>2024-12-30T11:06:49+00:00</updated>
+    <content type="text">Common Apex Library supporting Apex Enterprise Patterns and much more!</content>
+  </entry>
+</feed>

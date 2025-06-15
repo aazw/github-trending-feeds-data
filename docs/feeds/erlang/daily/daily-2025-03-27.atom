@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/benoitc/hackney#1743033600</id>
+    <title>https://github.com/benoitc/hackney</title>
+    <link href="https://github.com/benoitc/hackney" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">simple HTTP client in Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blt/port_compiler#1743033600</id>
+    <title>https://github.com/blt/port_compiler</title>
+    <link href="https://github.com/blt/port_compiler" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">A rebar3 port compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1743033600</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epgsql/epgsql#1743033600</id>
+    <title>https://github.com/epgsql/epgsql</title>
+    <link href="https://github.com/epgsql/epgsql" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Erlang PostgreSQL client library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1743033600</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-ls/erlang_ls#1743033600</id>
+    <title>https://github.com/erlang-ls/erlang_ls</title>
+    <link href="https://github.com/erlang-ls/erlang_ls" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The Erlang Language Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1743033600</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mochi/mochiweb#1743033600</id>
+    <title>https://github.com/mochi/mochiweb</title>
+    <link href="https://github.com/mochi/mochiweb" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">MochiWeb is an Erlang library for building lightweight HTTP servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1743033600</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/talentdeficit/jsx#1743033600</id>
+    <title>https://github.com/talentdeficit/jsx</title>
+    <link href="https://github.com/talentdeficit/jsx" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">an erlang application for consuming, producing and manipulating json. inspired by yajl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uwiger/parse_trans#1743033600</id>
+    <title>https://github.com/uwiger/parse_trans</title>
+    <link href="https://github.com/uwiger/parse_trans" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Parse transform utilities for Erlang</content>
+  </entry>
+</feed>

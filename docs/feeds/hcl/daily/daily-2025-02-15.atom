@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/terraform#1739577600</id>
+    <title>https://github.com/Azure/terraform</title>
+    <link href="https://github.com/Azure/terraform" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Source code for the Azure Marketplace Terraform development VM package.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1739577600</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1739577600</id>
+    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1739577600</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-iam#1739577600</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-iam</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-iam" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Terraform module to create AWS IAM resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora#1739577600</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds-aurora" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Terraform module to create AWS RDS Aurora resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-vpc#1739577600</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-vpc</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-vpc" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Terraform module to create AWS VPC resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-example-foundation#1739577600</id>
+    <title>https://github.com/terraform-google-modules/terraform-example-foundation</title>
+    <link href="https://github.com/terraform-google-modules/terraform-example-foundation" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Shows how the CFT modules can be composed to build a secure cloud foundation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-gcloud#1739577600</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-gcloud</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-gcloud" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Executes Google Cloud CLI commands within Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine#1739577600</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Configures opinionated GKE clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-lb-http#1739577600</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-lb-http</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-lb-http" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Creates a global HTTP load balancer for Compute Engine by using forwarding rules</content>
+  </entry>
+</feed>

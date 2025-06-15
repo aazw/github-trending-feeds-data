@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/akermu/emacs-libvterm#1738713600</id>
+    <title>https://github.com/akermu/emacs-libvterm</title>
+    <link href="https://github.com/akermu/emacs-libvterm" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Emacs libvterm integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chep/copilot-chat.el#1738713600</id>
+    <title>https://github.com/chep/copilot-chat.el</title>
+    <link href="https://github.com/chep/copilot-chat.el" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Chat with Github copilot in Emacs !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1738713600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1738713600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1738713600</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1738713600</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/consult-dir#1738713600</id>
+    <title>https://github.com/karthink/consult-dir</title>
+    <link href="https://github.com/karthink/consult-dir" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Insert paths into the minibuffer prompt in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1738713600</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1738713600</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+</feed>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom</id>
+  <title>GitHub Trending - emacs-lisp (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MatthewZMD/aidermacs#1748217600</id>
+    <title>https://github.com/MatthewZMD/aidermacs</title>
+    <link href="https://github.com/MatthewZMD/aidermacs" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">AI Pair Programming in Emacs with Aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1748217600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dgutov/diff-hl#1748217600</id>
+    <title>https://github.com/dgutov/diff-hl</title>
+    <link href="https://github.com/dgutov/diff-hl" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Emacs package for highlighting uncommitted changes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1748217600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1748217600</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1748217600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lizqwerscott/mcp.el#1748217600</id>
+    <title>https://github.com/lizqwerscott/mcp.el</title>
+    <link href="https://github.com/lizqwerscott/mcp.el" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">An Mcp client inside Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1748217600</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1748217600</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/polymode/polymode#1748217600</id>
+    <title>https://github.com/polymode/polymode</title>
+    <link href="https://github.com/polymode/polymode" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Framework for Multiple Major Modes in Emacs (core library)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1748217600</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/renzmann/treesit-auto#1748217600</id>
+    <title>https://github.com/renzmann/treesit-auto</title>
+    <link href="https://github.com/renzmann/treesit-auto" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Automatic installation, usage, and fallback for tree-sitter major modes in Emacs 29</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1748217600</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

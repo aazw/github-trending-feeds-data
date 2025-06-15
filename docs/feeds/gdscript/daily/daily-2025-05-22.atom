@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom</id>
+  <title>GitHub Trending - gdscript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Quaint-Studios/Reia#1747872000</id>
+    <title>https://github.com/Quaint-Studios/Reia</title>
+    <link href="https://github.com/Quaint-Studios/Reia" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">RPG game action-adventure MMO built with Godot, Rust, and Zig.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitbrain/beehave#1747872000</id>
+    <title>https://github.com/bitbrain/beehave</title>
+    <link href="https://github.com/bitbrain/beehave" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">🐝 behavior tree AI for Godot Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitwes/Gut#1747872000</id>
+    <title>https://github.com/bitwes/Gut</title>
+    <link href="https://github.com/bitwes/Gut" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Godot Unit Test. Unit testing tool for Godot Game Engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derkork/godot-statecharts#1747872000</id>
+    <title>https://github.com/derkork/godot-statecharts</title>
+    <link href="https://github.com/derkork/godot-statecharts" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">A state charts extension for Godot 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/git-learning-game/oh-my-git#1747872000</id>
+    <title>https://github.com/git-learning-game/oh-my-git</title>
+    <link href="https://github.com/git-learning-game/oh-my-git" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">An interactive Git learning game!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbrlabs/Lorien#1747872000</id>
+    <title>https://github.com/mbrlabs/Lorien</title>
+    <link href="https://github.com/mbrlabs/Lorien" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/viniciusgerevini/godot-aseprite-wizard#1747872000</id>
+    <title>https://github.com/viniciusgerevini/godot-aseprite-wizard</title>
+    <link href="https://github.com/viniciusgerevini/godot-aseprite-wizard" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Godot Editor plugin to help import Aseprite animations to AnimationPlayers, AnimatedSprites and SpriteFrames.</content>
+  </entry>
+</feed>

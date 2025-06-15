@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OpenBB-finance/OpenBB#1740614400</id>
+    <title>https://github.com/OpenBB-finance/OpenBB</title>
+    <link href="https://github.com/OpenBB-finance/OpenBB" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Investment Research for Everyone, Everywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PrefectHQ/prefect#1740614400</id>
+    <title>https://github.com/PrefectHQ/prefect</title>
+    <link href="https://github.com/PrefectHQ/prefect" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Prefect is a workflow orchestration framework for building resilient data pipelines in Python.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shubhamsaboo/awesome-llm-apps#1740614400</id>
+    <title>https://github.com/Shubhamsaboo/awesome-llm-apps</title>
+    <link href="https://github.com/Shubhamsaboo/awesome-llm-apps" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Soulter/AstrBot#1740614400</id>
+    <title>https://github.com/Soulter/AstrBot</title>
+    <link href="https://github.com/Soulter/AstrBot" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">✨易上手的多平台 LLM 聊天机器人及开发框架✨。支持 QQ、QQ频道、Telegram、微信个人号(Gewechat)、企业微信、飞书、内置 Web Chat，OpenAI GPT、DeepSeek、Ollama、Llama、GLM、Gemini、硅基流动、月之暗面、OneAPI、LLMTuner，支持 LLM Agent 插件开发，可视化面板。一键部署。支持 Dify 工作流、代码执行器、Whisper 语音转文字。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/allenai/olmocr#1740614400</id>
+    <title>https://github.com/allenai/olmocr</title>
+    <link href="https://github.com/allenai/olmocr" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Toolkit for linearizing PDFs for LLM datasets/training</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bregman-arie/devops-exercises#1740614400</id>
+    <title>https://github.com/bregman-arie/devops-exercises</title>
+    <link href="https://github.com/bregman-arie/devops-exercises" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/browser-use/browser-use#1740614400</id>
+    <title>https://github.com/browser-use/browser-use</title>
+    <link href="https://github.com/browser-use/browser-use" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Make websites accessible for AI agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frdel/agent-zero#1740614400</id>
+    <title>https://github.com/frdel/agent-zero</title>
+    <link href="https://github.com/frdel/agent-zero" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Agent Zero AI framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/freddyaboulton/fastrtc#1740614400</id>
+    <title>https://github.com/freddyaboulton/fastrtc</title>
+    <link href="https://github.com/freddyaboulton/fastrtc" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The python library for real-time communication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langflow-ai/langflow#1740614400</id>
+    <title>https://github.com/langflow-ai/langflow</title>
+    <link href="https://github.com/langflow-ai/langflow" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Langflow is a low-code app builder for RAG and multi-agent AI applications. It’s Python-based and agnostic to any model, API, or database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelscope/DiffSynth-Studio#1740614400</id>
+    <title>https://github.com/modelscope/DiffSynth-Studio</title>
+    <link href="https://github.com/modelscope/DiffSynth-Studio" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Enjoy the magic of Diffusion models!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/python-poetry/poetry#1740614400</id>
+    <title>https://github.com/python-poetry/poetry</title>
+    <link href="https://github.com/python-poetry/poetry" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Python packaging and dependency management made easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/roboflow/supervision#1740614400</id>
+    <title>https://github.com/roboflow/supervision</title>
+    <link href="https://github.com/roboflow/supervision" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">We write your reusable computer vision tools. 💜</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/vllm#1740614400</id>
+    <title>https://github.com/vllm-project/vllm</title>
+    <link href="https://github.com/vllm-project/vllm" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">A high-throughput and memory-efficient inference and serving engine for LLMs</content>
+  </entry>
+</feed>

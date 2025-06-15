@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Eventual-Inc/Daft#1744070400</id>
+    <title>https://github.com/Eventual-Inc/Daft</title>
+    <link href="https://github.com/Eventual-Inc/Daft" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Distributed data engine for Python/SQL designed for the cloud, powered by Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1744070400</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aptos-labs/aptos-core#1744070400</id>
+    <title>https://github.com/aptos-labs/aptos-core</title>
+    <link href="https://github.com/aptos-labs/aptos-core" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1744070400</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1744070400</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1744070400</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1744070400</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1744070400</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperlight-dev/hyperlight#1744070400</id>
+    <title>https://github.com/hyperlight-dev/hyperlight</title>
+    <link href="https://github.com/hyperlight-dev/hyperlight" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ilya-zlobintsev/LACT#1744070400</id>
+    <title>https://github.com/ilya-zlobintsev/LACT</title>
+    <link href="https://github.com/ilya-zlobintsev/LACT" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Linux GPU Configuration And Monitoring Tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1744070400</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1744070400</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quadratichq/quadratic#1744070400</id>
+    <title>https://github.com/quadratichq/quadratic</title>
+    <link href="https://github.com/quadratichq/quadratic" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Spreadsheet with AI, Code, Connections</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1744070400</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tikv/tikv#1744070400</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tree-sitter/tree-sitter#1744070400</id>
+    <title>https://github.com/tree-sitter/tree-sitter</title>
+    <link href="https://github.com/tree-sitter/tree-sitter" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">An incremental parsing system for programming tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1744070400</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1744070400</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

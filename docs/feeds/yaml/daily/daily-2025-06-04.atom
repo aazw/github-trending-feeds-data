@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom</id>
+  <title>GitHub Trending - yaml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/hackclub/dns#1748995200</id>
+    <title>https://github.com/hackclub/dns</title>
+    <link href="https://github.com/hackclub/dns" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">🕹 Manage Hack Club's DNS through a GitHub repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubeflow/manifests#1748995200</id>
+    <title>https://github.com/kubeflow/manifests</title>
+    <link href="https://github.com/kubeflow/manifests" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Kubeflow Deployment Manifests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mustache/spec#1748995200</id>
+    <title>https://github.com/mustache/spec</title>
+    <link href="https://github.com/mustache/spec" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">The Mustache spec.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sleighzy/ansible-zookeeper#1748995200</id>
+    <title>https://github.com/sleighzy/ansible-zookeeper</title>
+    <link href="https://github.com/sleighzy/ansible-zookeeper" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Ansible role for installing and configuring Apache ZooKeeper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sublime-security/sublime-rules#1748995200</id>
+    <title>https://github.com/sublime-security/sublime-rules</title>
+    <link href="https://github.com/sublime-security/sublime-rules" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Sublime rules for email attack detection, prevention, and threat hunting.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-platform-dx/web-features#1748995200</id>
+    <title>https://github.com/web-platform-dx/web-features</title>
+    <link href="https://github.com/web-platform-dx/web-features" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Exploring how to present Web platform features adoptability</content>
+  </entry>
+</feed>

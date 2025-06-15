@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smt/daily.atom</id>
+  <title>GitHub Trending - smt (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smt/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Boolector/boolector#1739750400</id>
+    <title>https://github.com/Boolector/boolector</title>
+    <link href="https://github.com/Boolector/boolector" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A Satisfiability Modulo Theories (SMT) solver for the theories of fixed-size bit-vectors, arrays and uninterpreted functions.</content>
+  </entry>
+</feed>

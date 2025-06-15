@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1738540800</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1738540800</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1738540800</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1738540800</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1738540800</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cli/cli#1738540800</id>
+    <title>https://github.com/cli/cli</title>
+    <link href="https://github.com/cli/cli" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">GitHub’s official command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudreve/Cloudreve#1738540800</id>
+    <title>https://github.com/cloudreve/Cloudreve</title>
+    <link href="https://github.com/cloudreve/Cloudreve" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1738540800</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fyne-io/fyne#1738540800</id>
+    <title>https://github.com/fyne-io/fyne</title>
+    <link href="https://github.com/fyne-io/fyne" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Cross platform GUI toolkit in Go inspired by Material Design</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1738540800</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1738540800</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livekit/livekit#1738540800</id>
+    <title>https://github.com/livekit/livekit</title>
+    <link href="https://github.com/livekit/livekit" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">End-to-end stack for WebRTC. SFU media server and SDKs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meshery/meshery#1738540800</id>
+    <title>https://github.com/meshery/meshery</title>
+    <link href="https://github.com/meshery/meshery" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Meshery, the cloud native manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738540800</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sashabaranov/go-openai#1738540800</id>
+    <title>https://github.com/sashabaranov/go-openai</title>
+    <link href="https://github.com/sashabaranov/go-openai" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starfederation/datastar#1738540800</id>
+    <title>https://github.com/starfederation/datastar</title>
+    <link href="https://github.com/starfederation/datastar" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The hypermedia framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sundowndev/phoneinfoga#1738540800</id>
+    <title>https://github.com/sundowndev/phoneinfoga</title>
+    <link href="https://github.com/sundowndev/phoneinfoga" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Information gathering framework for phone numbers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1738540800</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/v2fly/v2ray-core#1738540800</id>
+    <title>https://github.com/v2fly/v2ray-core</title>
+    <link href="https://github.com/v2fly/v2ray-core" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A platform for building proxies to bypass network restrictions.</content>
+  </entry>
+</feed>

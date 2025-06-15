@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Trending - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cocopon/iceberg.vim#1747612800</id>
+    <title>https://github.com/cocopon/iceberg.vim</title>
+    <link href="https://github.com/cocopon/iceberg.vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">🇦🇶 Bluish color scheme for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1747612800</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ekalinin/Dockerfile.vim#1747612800</id>
+    <title>https://github.com/ekalinin/Dockerfile.vim</title>
+    <link href="https://github.com/ekalinin/Dockerfile.vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Vim syntax file &amp; snippets for Docker's Dockerfile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1747612800</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/limelight.vim#1747612800</id>
+    <title>https://github.com/junegunn/limelight.vim</title>
+    <link href="https://github.com/junegunn/limelight.vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">🔦 All the world's indeed a stage and we are merely players</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1747612800</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntpeters/vim-better-whitespace#1747612800</id>
+    <title>https://github.com/ntpeters/vim-better-whitespace</title>
+    <link href="https://github.com/ntpeters/vim-better-whitespace" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Better whitespace highlighting for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1747612800</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1747612800</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1747612800</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1747612800</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1747612800</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wakatime/vim-wakatime#1747612800</id>
+    <title>https://github.com/wakatime/vim-wakatime</title>
+    <link href="https://github.com/wakatime/vim-wakatime" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Vim plugin for automatic time tracking and metrics generated from your programming activity.</content>
+  </entry>
+</feed>

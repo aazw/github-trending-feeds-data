@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mlir/daily.atom</id>
+  <title>GitHub Trending - mlir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mlir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/intel/intel-xpu-backend-for-triton#1740528000</id>
+    <title>https://github.com/intel/intel-xpu-backend-for-triton</title>
+    <link href="https://github.com/intel/intel-xpu-backend-for-triton" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">OpenAI Triton backend for Intel® GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/triton-shared#1740528000</id>
+    <title>https://github.com/microsoft/triton-shared</title>
+    <link href="https://github.com/microsoft/triton-shared" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Shared Middle-Layer for Triton Compilation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openxla/stablehlo#1740528000</id>
+    <title>https://github.com/openxla/stablehlo</title>
+    <link href="https://github.com/openxla/stablehlo" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Backward compatible ML compute opset inspired by HLO/MHLO</content>
+  </entry>
+</feed>

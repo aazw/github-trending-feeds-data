@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault#1748217600</id>
+    <title>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</title>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Azure Verified Module for Key Vault</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-caf-enterprise-scale#1748217600</id>
+    <title>https://github.com/Azure/terraform-azurerm-caf-enterprise-scale</title>
+    <link href="https://github.com/Azure/terraform-azurerm-caf-enterprise-scale" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Azure landing zones Terraform module</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraform-google-secret-manager#1748217600</id>
+    <title>https://github.com/GoogleCloudPlatform/terraform-google-secret-manager</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraform-google-secret-manager" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Creates one or more Google Secret Manager secrets and manages basic permissions for them</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-samples/eks-workshop-v2#1748217600</id>
+    <title>https://github.com/aws-samples/eks-workshop-v2</title>
+    <link href="https://github.com/aws-samples/eks-workshop-v2" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Hands-on labs for Amazon EKS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-api-gateway#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-api-gateway</title>
+    <link href="https://github.com/cloudposse/terraform-aws-api-gateway" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-codebuild#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-codebuild</title>
+    <link href="https://github.com/cloudposse/terraform-aws-codebuild" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Terraform Module to easily leverage AWS CodeBuild for Continuous Integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-alb-service-task" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Terraform module which implements an ECS service which exposes a web service via ALB.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-efs#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-lambda-function#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-lambda-function</title>
+    <link href="https://github.com/cloudposse/terraform-aws-lambda-function" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A module for launching Lambda Fuctions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-rds#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-rds</title>
+    <link href="https://github.com/cloudposse/terraform-aws-rds" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Terraform module to provision AWS RDS instances</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-sso#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-sso</title>
+    <link href="https://github.com/cloudposse/terraform-aws-sso" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Terraform module to configure AWS Single Sign-On (SSO)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering-multi-account" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Terraform module to provision a VPC peering across multiple VPCs in different accounts by using multiple providers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-datadog-platform#1748217600</id>
+    <title>https://github.com/cloudposse/terraform-datadog-platform</title>
+    <link href="https://github.com/cloudposse/terraform-datadog-platform" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML configuration, complete with automated tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-vpn#1748217600</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-vpn</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-vpn" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Sets up a Cloud VPN gateway</content>
+  </entry>
+</feed>

@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/actions/actions-runner-controller#1740441600</id>
+    <title>https://github.com/actions/actions-runner-controller</title>
+    <link href="https://github.com/actions/actions-runner-controller" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Kubernetes controller for GitHub Actions self-hosted runners</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/higress#1740441600</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1740441600</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coredns/coredns#1740441600</id>
+    <title>https://github.com/coredns/coredns</title>
+    <link href="https://github.com/coredns/coredns" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">CoreDNS is a DNS server that chains plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1740441600</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1740441600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/hcl#1740441600</id>
+    <title>https://github.com/hashicorp/hcl</title>
+    <link href="https://github.com/hashicorp/hcl" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">HCL is the HashiCorp configuration language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1740441600</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1740441600</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1740441600</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikefarah/yq#1740441600</id>
+    <title>https://github.com/mikefarah/yq</title>
+    <link href="https://github.com/mikefarah/yq" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1740441600</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oauth2-proxy/oauth2-proxy#1740441600</id>
+    <title>https://github.com/oauth2-proxy/oauth2-proxy</title>
+    <link href="https://github.com/oauth2-proxy/oauth2-proxy" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1740441600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1740441600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1740441600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectcalico/calico#1740441600</id>
+    <title>https://github.com/projectcalico/calico</title>
+    <link href="https://github.com/projectcalico/calico" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Cloud native networking and network security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/nuclei#1740441600</id>
+    <title>https://github.com/projectdiscovery/nuclei</title>
+    <link href="https://github.com/projectdiscovery/nuclei" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sirupsen/logrus#1740441600</id>
+    <title>https://github.com/sirupsen/logrus</title>
+    <link href="https://github.com/sirupsen/logrus" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Structured, pluggable logging for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1740441600</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/veops/oneterm#1740441600</id>
+    <title>https://github.com/veops/oneterm</title>
+    <link href="https://github.com/veops/oneterm" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Provide secure access and control over all infrastructure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wavetermdev/waveterm#1740441600</id>
+    <title>https://github.com/wavetermdev/waveterm</title>
+    <link href="https://github.com/wavetermdev/waveterm" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">An open-source, cross-platform terminal for seamless workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yorukot/superfile#1740441600</id>
+    <title>https://github.com/yorukot/superfile</title>
+    <link href="https://github.com/yorukot/superfile" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Pretty fancy and modern terminal file manager</content>
+  </entry>
+</feed>

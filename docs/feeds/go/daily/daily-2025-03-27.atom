@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FiloSottile/mkcert#1743033600</id>
+    <title>https://github.com/FiloSottile/mkcert</title>
+    <link href="https://github.com/FiloSottile/mkcert" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">A simple zero-config tool to make locally trusted development certificates with any names you'd like.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1743033600</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/actions-runner-controller#1743033600</id>
+    <title>https://github.com/actions/actions-runner-controller</title>
+    <link href="https://github.com/actions/actions-runner-controller" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Kubernetes controller for GitHub Actions self-hosted runners</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cilium/cilium#1743033600</id>
+    <title>https://github.com/cilium/cilium</title>
+    <link href="https://github.com/cilium/cilium" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">eBPF-based Networking, Security, and Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crossplane/crossplane#1743033600</id>
+    <title>https://github.com/crossplane/crossplane</title>
+    <link href="https://github.com/crossplane/crossplane" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The Cloud Native Control Plane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1743033600</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gogs/gogs#1743033600</id>
+    <title>https://github.com/gogs/gogs</title>
+    <link href="https://github.com/gogs/gogs" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Gogs is a painless self-hosted Git service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golangci/golangci-lint#1743033600</id>
+    <title>https://github.com/golangci/golangci-lint</title>
+    <link href="https://github.com/golangci/golangci-lint" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Fast linters runner for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1743033600</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hahwul/dalfox#1743033600</id>
+    <title>https://github.com/hahwul/dalfox</title>
+    <link href="https://github.com/hahwul/dalfox" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">🌙🦊 Dalfox is a powerful open-source XSS scanner and utility focused on automation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1743033600</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1743033600</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgateway-dev/kgateway#1743033600</id>
+    <title>https://github.com/kgateway-dev/kgateway</title>
+    <link href="https://github.com/kgateway-dev/kgateway" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The Cloud-Native API Gateway and AI Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/client-go#1743033600</id>
+    <title>https://github.com/kubernetes/client-go</title>
+    <link href="https://github.com/kubernetes/client-go" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Go client for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/dashboard#1743033600</id>
+    <title>https://github.com/kubernetes/dashboard</title>
+    <link href="https://github.com/kubernetes/dashboard" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">General-purpose web UI for Kubernetes clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1743033600</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1743033600</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1743033600</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1743033600</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1743033600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbao/openbao#1743033600</id>
+    <title>https://github.com/openbao/openbao</title>
+    <link href="https://github.com/openbao/openbao" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/temporalio/temporal#1743033600</id>
+    <title>https://github.com/temporalio/temporal</title>
+    <link href="https://github.com/temporalio/temporal" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Temporal service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zitadel/zitadel#1743033600</id>
+    <title>https://github.com/zitadel/zitadel</title>
+    <link href="https://github.com/zitadel/zitadel" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">ZITADEL - Identity infrastructure, simplified for you.</content>
+  </entry>
+</feed>

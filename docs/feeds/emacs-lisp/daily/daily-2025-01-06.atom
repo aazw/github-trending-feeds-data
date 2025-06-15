@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T11:12:13+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/protesilaos/denote#1736161933</id>
+    <title>https://github.com/protesilaos/denote</title>
+    <link href="https://github.com/protesilaos/denote" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">Simple notes for Emacs with an efficient file-naming scheme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1736161933</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mohkale/consult-eglot#1736161933</id>
+    <title>https://github.com/mohkale/consult-eglot</title>
+    <link href="https://github.com/mohkale/consult-eglot" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">Jump to workspace symbols with eglot and consult</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1736161933</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/helpful#1736161933</id>
+    <title>https://github.com/Wilfred/helpful</title>
+    <link href="https://github.com/Wilfred/helpful" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">A better Emacs *help* buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/multiple-cursors.el#1736161933</id>
+    <title>https://github.com/magnars/multiple-cursors.el</title>
+    <link href="https://github.com/magnars/multiple-cursors.el" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">Multiple cursors for emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1736161933</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1736161933</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Fanael/edit-indirect#1736161933</id>
+    <title>https://github.com/Fanael/edit-indirect</title>
+    <link href="https://github.com/Fanael/edit-indirect" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">Edit regions in separate buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/ts-fold#1736161933</id>
+    <title>https://github.com/emacs-tree-sitter/ts-fold</title>
+    <link href="https://github.com/emacs-tree-sitter/ts-fold" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">Code-folding using tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/elisp-refs#1736161933</id>
+    <title>https://github.com/Wilfred/elisp-refs</title>
+    <link href="https://github.com/Wilfred/elisp-refs" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">semantic code search for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/company-mode/company-mode#1736161933</id>
+    <title>https://github.com/company-mode/company-mode</title>
+    <link href="https://github.com/company-mode/company-mode" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">Modular in-buffer completion framework for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Alexander-Miller/treemacs#1736161933</id>
+    <title>https://github.com/Alexander-Miller/treemacs</title>
+    <link href="https://github.com/Alexander-Miller/treemacs" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-compat/compat#1736161933</id>
+    <title>https://github.com/emacs-compat/compat</title>
+    <link href="https://github.com/emacs-compat/compat" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">COMPATibility Library for Emacs Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/swiper#1736161933</id>
+    <title>https://github.com/abo-abo/swiper</title>
+    <link href="https://github.com/abo-abo/swiper" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1736161933</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1736161933</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-01-06T11:12:13+00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+</feed>

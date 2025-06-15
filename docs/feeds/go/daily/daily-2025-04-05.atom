@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/nvidia-container-toolkit#1743811200</id>
+    <title>https://github.com/NVIDIA/nvidia-container-toolkit</title>
+    <link href="https://github.com/NVIDIA/nvidia-container-toolkit" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Build and run containers leveraging NVIDIA GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TykTechnologies/tyk#1743811200</id>
+    <title>https://github.com/TykTechnologies/tyk</title>
+    <link href="https://github.com/TykTechnologies/tyk" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/actions-runner-controller#1743811200</id>
+    <title>https://github.com/actions/actions-runner-controller</title>
+    <link href="https://github.com/actions/actions-runner-controller" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Kubernetes controller for GitHub Actions self-hosted runners</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/grype#1743811200</id>
+    <title>https://github.com/anchore/grype</title>
+    <link href="https://github.com/anchore/grype" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">A vulnerability scanner for container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-rollouts#1743811200</id>
+    <title>https://github.com/argoproj/argo-rollouts</title>
+    <link href="https://github.com/argoproj/argo-rollouts" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Progressive Delivery for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cockroachdb/cockroach#1743811200</id>
+    <title>https://github.com/cockroachdb/cockroach</title>
+    <link href="https://github.com/cockroachdb/cockroach" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1743811200</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/distribution/distribution#1743811200</id>
+    <title>https://github.com/distribution/distribution</title>
+    <link href="https://github.com/distribution/distribution" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">The toolkit to pack, ship, store, and deliver container content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1743811200</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-delve/delve#1743811200</id>
+    <title>https://github.com/go-delve/delve</title>
+    <link href="https://github.com/go-delve/delve" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Delve is a debugger for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/mcp-grafana#1743811200</id>
+    <title>https://github.com/grafana/mcp-grafana</title>
+    <link href="https://github.com/grafana/mcp-grafana" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">MCP server for Grafana</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/tempo#1743811200</id>
+    <title>https://github.com/grafana/tempo</title>
+    <link href="https://github.com/grafana/tempo" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Grafana Tempo is a high volume, minimal dependency distributed tracing backend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1743811200</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1743811200</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1743811200</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/istio/istio#1743811200</id>
+    <title>https://github.com/istio/istio</title>
+    <link href="https://github.com/istio/istio" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Connect, secure, control, and observe services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1743811200</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1743811200</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/nuclei#1743811200</id>
+    <title>https://github.com/projectdiscovery/nuclei</title>
+    <link href="https://github.com/projectdiscovery/nuclei" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1743811200</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stakater/Reloader#1743811200</id>
+    <title>https://github.com/stakater/Reloader</title>
+    <link href="https://github.com/stakater/Reloader" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thanos-io/thanos#1743811200</id>
+    <title>https://github.com/thanos-io/thanos</title>
+    <link href="https://github.com/thanos-io/thanos" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/fx#1743811200</id>
+    <title>https://github.com/uber-go/fx</title>
+    <link href="https://github.com/uber-go/fx" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">A dependency injection based application framework for Go.</content>
+  </entry>
+</feed>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom</id>
+  <title>GitHub Trending - systemverilog (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/bespoke-silicon-group/basejump_stl#1743033600</id>
+    <title>https://github.com/bespoke-silicon-group/basejump_stl</title>
+    <link href="https://github.com/bespoke-silicon-group/basejump_stl" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">BaseJump STL: A Standard Template Library for SystemVerilog</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/ibex#1743033600</id>
+    <title>https://github.com/lowRISC/ibex</title>
+    <link href="https://github.com/lowRISC/ibex" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Ibex is a small 32 bit RISC-V CPU core, previously known as zero-riscy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/opentitan#1743033600</id>
+    <title>https://github.com/lowRISC/opentitan</title>
+    <link href="https://github.com/lowRISC/opentitan" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">OpenTitan: Open source silicon root of trust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cv32e40p#1743033600</id>
+    <title>https://github.com/openhwgroup/cv32e40p</title>
+    <link href="https://github.com/openhwgroup/cv32e40p" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">CV32E40P is an in-order 4-stage RISC-V RV32IMFCXpulp CPU based on RI5CY from PULP-Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cvfpu#1743033600</id>
+    <title>https://github.com/openhwgroup/cvfpu</title>
+    <link href="https://github.com/openhwgroup/cvfpu" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Parametric floating-point unit with support for standard RISC-V formats and operations as well as transprecision formats.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/axi#1743033600</id>
+    <title>https://github.com/pulp-platform/axi</title>
+    <link href="https://github.com/pulp-platform/axi" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/common_cells#1743033600</id>
+    <title>https://github.com/pulp-platform/common_cells</title>
+    <link href="https://github.com/pulp-platform/common_cells" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Common SystemVerilog components</content>
+  </entry>
+</feed>

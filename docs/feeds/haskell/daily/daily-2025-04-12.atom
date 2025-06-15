@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GaloisInc/elf-edit#1744416000</id>
+    <title>https://github.com/GaloisInc/elf-edit</title>
+    <link href="https://github.com/GaloisInc/elf-edit" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">The elf-edit library provides a datatype suitable for reading and writing Elf files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1744416000</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/duckling#1744416000</id>
+    <title>https://github.com/facebook/duckling</title>
+    <link href="https://github.com/facebook/duckling" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Language, engine, and tooling for expressing, testing, and evaluating composable language rules on input strings.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fossas/fossa-cli#1744416000</id>
+    <title>https://github.com/fossas/fossa-cli</title>
+    <link href="https://github.com/fossas/fossa-cli" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Fast, portable and reliable dependency analysis for any codebase. Supports license &amp; vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1744416000</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/cabal#1744416000</id>
+    <title>https://github.com/haskell/cabal</title>
+    <link href="https://github.com/haskell/cabal" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Official upstream development repository for Cabal and cabal-install</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1744416000</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1744416000</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simonmichael/hledger#1744416000</id>
+    <title>https://github.com/simonmichael/hledger</title>
+    <link href="https://github.com/simonmichael/hledger" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</content>
+  </entry>
+</feed>

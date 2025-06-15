@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Fuco1/smartparens#1741132800</id>
+    <title>https://github.com/Fuco1/smartparens</title>
+    <link href="https://github.com/Fuco1/smartparens" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Minor mode for Emacs that deals with parens pairs and tries to be smart about it.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/swiper#1741132800</id>
+    <title>https://github.com/abo-abo/swiper</title>
+    <link href="https://github.com/abo-abo/swiper" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chep/copilot-chat.el#1741132800</id>
+    <title>https://github.com/chep/copilot-chat.el</title>
+    <link href="https://github.com/chep/copilot-chat.el" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Chat with Github copilot in Emacs !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1741132800</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1741132800</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/domtronn/all-the-icons.el#1741132800</id>
+    <title>https://github.com/domtronn/all-the-icons.el</title>
+    <link href="https://github.com/domtronn/all-the-icons.el" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">A utility package to collect various Icon Fonts and propertize them within Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-emacs#1741132800</id>
+    <title>https://github.com/editorconfig/editorconfig-emacs</title>
+    <link href="https://github.com/editorconfig/editorconfig-emacs" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">EditorConfig plugin for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1741132800</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-pyright#1741132800</id>
+    <title>https://github.com/emacs-lsp/lsp-pyright</title>
+    <link href="https://github.com/emacs-lsp/lsp-pyright" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">lsp-mode ❤️ pyright</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1741132800</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1741132800</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flycheck/flycheck#1741132800</id>
+    <title>https://github.com/flycheck/flycheck</title>
+    <link href="https://github.com/flycheck/flycheck" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">On the fly syntax checking for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-mode#1741132800</id>
+    <title>https://github.com/haskell/haskell-mode</title>
+    <link href="https://github.com/haskell/haskell-mode" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Emacs mode for Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iqbalansari/emacs-emojify#1741132800</id>
+    <title>https://github.com/iqbalansari/emacs-emojify</title>
+    <link href="https://github.com/iqbalansari/emacs-emojify" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Display emojis in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1741132800</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1741132800</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protesilaos/modus-themes#1741132800</id>
+    <title>https://github.com/protesilaos/modus-themes</title>
+    <link href="https://github.com/protesilaos/modus-themes" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1741132800</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1741132800</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1741132800</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+</feed>

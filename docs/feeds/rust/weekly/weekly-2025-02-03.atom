@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1738540800</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EricLBuehler/mistral.rs#1738540800</id>
+    <title>https://github.com/EricLBuehler/mistral.rs</title>
+    <link href="https://github.com/EricLBuehler/mistral.rs" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Blazingly fast LLM inference.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GyulyVGC/sniffnet#1738540800</id>
+    <title>https://github.com/GyulyVGC/sniffnet</title>
+    <link href="https://github.com/GyulyVGC/sniffnet" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Comfortably monitor your Internet traffic 🕵️‍♂️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/sui#1738540800</id>
+    <title>https://github.com/MystenLabs/sui</title>
+    <link href="https://github.com/MystenLabs/sui" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apollographql/router#1738540800</id>
+    <title>https://github.com/apollographql/router</title>
+    <link href="https://github.com/apollographql/router" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A configurable, high-performance routing runtime for Apollo Federation 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1738540800</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1738540800</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bionic-gpt/bionic-gpt#1738540800</id>
+    <title>https://github.com/bionic-gpt/bionic-gpt</title>
+    <link href="https://github.com/bionic-gpt/bionic-gpt" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">BionicGPT is an on-premise replacement for ChatGPT, offering the advantages of Generative AI while maintaining strict data confidentiality</content>
+  </entry>
+  <entry>
+    <id>https://github.com/block/goose#1738540800</id>
+    <title>https://github.com/block/goose</title>
+    <link href="https://github.com/block/goose" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1738540800</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ducaale/xh#1738540800</id>
+    <title>https://github.com/ducaale/xh</title>
+    <link href="https://github.com/ducaale/xh" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Friendly and fast tool for sending HTTP requests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ekzhang/bore#1738540800</id>
+    <title>https://github.com/ekzhang/bore</title>
+    <link href="https://github.com/ekzhang/bore" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">🕳 bore is a simple CLI tool for making tunnels to localhost</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hatoo/oha#1738540800</id>
+    <title>https://github.com/hatoo/oha</title>
+    <link href="https://github.com/hatoo/oha" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/tokenizers#1738540800</id>
+    <title>https://github.com/huggingface/tokenizers</title>
+    <link href="https://github.com/huggingface/tokenizers" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1738540800</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1738540800</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meilisearch/meilisearch#1738540800</id>
+    <title>https://github.com/meilisearch/meilisearch</title>
+    <link href="https://github.com/meilisearch/meilisearch" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-rust#1738540800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-rust</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-rust" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The Rust OpenTelemetry implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prefix-dev/pixi#1738540800</id>
+    <title>https://github.com/prefix-dev/pixi</title>
+    <link href="https://github.com/prefix-dev/pixi" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Package management made easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qarmin/czkawka#1738540800</id>
+    <title>https://github.com/qarmin/czkawka</title>
+    <link href="https://github.com/qarmin/czkawka" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Multi functional app to find duplicates, empty folders, similar images etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rerun-io/rerun#1738540800</id>
+    <title>https://github.com/rerun-io/rerun</title>
+    <link href="https://github.com/rerun-io/rerun" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-bakery/nom#1738540800</id>
+    <title>https://github.com/rust-bakery/nom</title>
+    <link href="https://github.com/rust-bakery/nom" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Rust parser combinator framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1738540800</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+</feed>

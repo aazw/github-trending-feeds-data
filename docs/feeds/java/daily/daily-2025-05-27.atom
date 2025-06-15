@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom</id>
+  <title>GitHub Trending - java (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Catfriend1/syncthing-android#1748304000</id>
+    <title>https://github.com/Catfriend1/syncthing-android</title>
+    <link href="https://github.com/Catfriend1/syncthing-android" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Syncthing-Fork - A Syncthing Wrapper for Android.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Snailclimb/JavaGuide#1748304000</id>
+    <title>https://github.com/Snailclimb/JavaGuide</title>
+    <link href="https://github.com/Snailclimb/JavaGuide" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StarRocks/starrocks#1748304000</id>
+    <title>https://github.com/StarRocks/starrocks</title>
+    <link href="https://github.com/StarRocks/starrocks" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/beam#1748304000</id>
+    <title>https://github.com/apache/beam</title>
+    <link href="https://github.com/apache/beam" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Apache Beam is a unified programming model for Batch and Streaming data processing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/dolphinscheduler#1748304000</id>
+    <title>https://github.com/apache/dolphinscheduler</title>
+    <link href="https://github.com/apache/dolphinscheduler" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/doris#1748304000</id>
+    <title>https://github.com/apache/doris</title>
+    <link href="https://github.com/apache/doris" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Apache Doris is an easy-to-use, high performance and unified analytics database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/gravitino#1748304000</id>
+    <title>https://github.com/apache/gravitino</title>
+    <link href="https://github.com/apache/gravitino" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/continew-org/continew-admin#1748304000</id>
+    <title>https://github.com/continew-org/continew-admin</title>
+    <link href="https://github.com/continew-org/continew-admin" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">🔥Almost最佳后端规范🔥AI 编程纪元，从 ContiNew &amp; AI 开始优雅编码，让 AI 也“吃点好的”。持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 &amp; Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/debezium/debezium#1748304000</id>
+    <title>https://github.com/debezium/debezium</title>
+    <link href="https://github.com/debezium/debezium" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dependency-check/DependencyCheck#1748304000</id>
+    <title>https://github.com/dependency-check/DependencyCheck</title>
+    <link href="https://github.com/dependency-check/DependencyCheck" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dromara/Sa-Token#1748304000</id>
+    <title>https://github.com/dromara/Sa-Token</title>
+    <link href="https://github.com/dromara/Sa-Token" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">一个轻量级 Java 权限认证框架，让鉴权变得简单、优雅！—— 登录认证、权限认证、分布式Session会话、微服务网关鉴权、单点登录、OAuth2.0</content>
+  </entry>
+  <entry>
+    <id>https://github.com/graphhopper/graphhopper#1748304000</id>
+    <title>https://github.com/graphhopper/graphhopper</title>
+    <link href="https://github.com/graphhopper/graphhopper" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Open source routing engine for OpenStreetMap. Use it as Java library or standalone web server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jeecgboot/JeecgBoot#1748304000</id>
+    <title>https://github.com/jeecgboot/JeecgBoot</title>
+    <link href="https://github.com/jeecgboot/JeecgBoot" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">🔥集成完善AIGC应用的低代码平台，旨在帮助企业快速实现低代码开发和构建、部署个性化的 AI 应用。 前后端分离 SpringBoot，SpringCloud，Ant Design&amp;Vue3，Mybatis，Shiro！强大的代码生成器让前后端代码一键生成，无需写任何代码! 成套AI大模型功能: AI模型管理、AI应用、知识库、AI流程编排、AI对话助手等；</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junit-team/junit5#1748304000</id>
+    <title>https://github.com/junit-team/junit5</title>
+    <link href="https://github.com/junit-team/junit5" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">✅ The programmer-friendly testing framework for Java and the JVM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keycloak/keycloak#1748304000</id>
+    <title>https://github.com/keycloak/keycloak</title>
+    <link href="https://github.com/keycloak/keycloak" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Open Source Identity and Access Management For Modern Applications and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krahets/hello-algo#1748304000</id>
+    <title>https://github.com/krahets/hello-algo</title>
+    <link href="https://github.com/krahets/hello-algo" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java#1748304000</id>
+    <title>https://github.com/kunal-kushwaha/DSA-Bootcamp-Java</title>
+    <link href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metersphere/metersphere#1748304000</id>
+    <title>https://github.com/metersphere/metersphere</title>
+    <link href="https://github.com/metersphere/metersphere" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">MeterSphere 是新一代的开源持续测试工具，让软件测试工作更简单、更高效，不再成为持续交付的瓶颈。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-ai#1748304000</id>
+    <title>https://github.com/spring-projects/spring-ai</title>
+    <link href="https://github.com/spring-projects/spring-ai" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">An Application Framework for AI Engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-framework#1748304000</id>
+    <title>https://github.com/spring-projects/spring-framework</title>
+    <link href="https://github.com/spring-projects/spring-framework" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Spring Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thingsboard/thingsboard#1748304000</id>
+    <title>https://github.com/thingsboard/thingsboard</title>
+    <link href="https://github.com/thingsboard/thingsboard" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Open-source IoT Platform - Device management, data collection, processing and visualization.</content>
+  </entry>
+</feed>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Wilfred/elisp-refs#1741564800</id>
+    <title>https://github.com/Wilfred/elisp-refs</title>
+    <link href="https://github.com/Wilfred/elisp-refs" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">semantic code search for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/helpful#1741564800</id>
+    <title>https://github.com/Wilfred/helpful</title>
+    <link href="https://github.com/Wilfred/helpful" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A better Emacs *help* buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ahyatt/emacs-websocket#1741564800</id>
+    <title>https://github.com/ahyatt/emacs-websocket</title>
+    <link href="https://github.com/ahyatt/emacs-websocket" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A websocket implementation in elisp, for emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chep/copilot-chat.el#1741564800</id>
+    <title>https://github.com/chep/copilot-chat.el</title>
+    <link href="https://github.com/chep/copilot-chat.el" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Chat with Github copilot in Emacs !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1741564800</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1741564800</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/themes#1741564800</id>
+    <title>https://github.com/doomemacs/themes</title>
+    <link href="https://github.com/doomemacs/themes" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A megapack of themes for GNU Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1741564800</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/tree-sitter-langs#1741564800</id>
+    <title>https://github.com/emacs-tree-sitter/tree-sitter-langs</title>
+    <link href="https://github.com/emacs-tree-sitter/tree-sitter-langs" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Language bundle for Emacs's tree-sitter package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immerrr/lua-mode#1741564800</id>
+    <title>https://github.com/immerrr/lua-mode</title>
+    <link href="https://github.com/immerrr/lua-mode" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Emacs major mode for editing Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joodland/bm#1741564800</id>
+    <title>https://github.com/joodland/bm</title>
+    <link href="https://github.com/joodland/bm" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">bm.el -- Visual Bookmarks for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1741564800</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1741564800</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1741564800</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/s-kostyaev/ellama#1741564800</id>
+    <title>https://github.com/s-kostyaev/ellama</title>
+    <link href="https://github.com/s-kostyaev/ellama" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Ellama is a tool for interacting with large language models from Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1741564800</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1741564800</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tumashu/posframe#1741564800</id>
+    <title>https://github.com/tumashu/posframe</title>
+    <link href="https://github.com/tumashu/posframe" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig-mode#1741564800</id>
+    <title>https://github.com/ziglang/zig-mode</title>
+    <link href="https://github.com/ziglang/zig-mode" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Zig mode for Emacs</content>
+  </entry>
+</feed>

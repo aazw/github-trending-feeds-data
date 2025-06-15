@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aws-beam/aws-erlang#1746921600</id>
+    <title>https://github.com/aws-beam/aws-erlang</title>
+    <link href="https://github.com/aws-beam/aws-erlang" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Create, configure, and manage AWS services from Erlang code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/benoitc/hackney#1746921600</id>
+    <title>https://github.com/benoitc/hackney</title>
+    <link href="https://github.com/benoitc/hackney" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">simple HTTP client in Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1746921600</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">The most scalable MQTT broker for AI, IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epgsql/epgsql#1746921600</id>
+    <title>https://github.com/epgsql/epgsql</title>
+    <link href="https://github.com/epgsql/epgsql" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Erlang PostgreSQL client library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1746921600</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlsci/iso8601#1746921600</id>
+    <title>https://github.com/erlsci/iso8601</title>
+    <link href="https://github.com/erlsci/iso8601" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">An ISO 8601 date formating and parsing library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1746921600</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josefs/Gradualizer#1746921600</id>
+    <title>https://github.com/josefs/Gradualizer</title>
+    <link href="https://github.com/josefs/Gradualizer" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">A Gradual type system for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kivra/restclient#1746921600</id>
+    <title>https://github.com/kivra/restclient</title>
+    <link href="https://github.com/kivra/restclient" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Erlang Rest Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mochi/mochiweb#1746921600</id>
+    <title>https://github.com/mochi/mochiweb</title>
+    <link href="https://github.com/mochi/mochiweb" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">MochiWeb is an Erlang library for building lightweight HTTP servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1746921600</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1746921600</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/ranch#1746921600</id>
+    <title>https://github.com/ninenines/ranch</title>
+    <link href="https://github.com/ninenines/ranch" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Socket acceptor pool for TCP protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/processone/ejabberd#1746921600</id>
+    <title>https://github.com/processone/ejabberd</title>
+    <link href="https://github.com/processone/ejabberd" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</content>
+  </entry>
+</feed>

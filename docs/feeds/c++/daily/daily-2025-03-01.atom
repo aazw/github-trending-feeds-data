@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Floorp-Projects/Floorp#1740787200</id>
+    <title>https://github.com/Floorp-Projects/Floorp</title>
+    <link href="https://github.com/Floorp-Projects/Floorp" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LadybirdBrowser/ladybird#1740787200</id>
+    <title>https://github.com/LadybirdBrowser/ladybird</title>
+    <link href="https://github.com/LadybirdBrowser/ladybird" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Truly independent web browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SerenityOS/serenity#1740787200</id>
+    <title>https://github.com/SerenityOS/serenity</title>
+    <link href="https://github.com/SerenityOS/serenity" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">The Serenity Operating System 🐞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/foundationdb#1740787200</id>
+    <title>https://github.com/apple/foundationdb</title>
+    <link href="https://github.com/apple/foundationdb" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">FoundationDB - the open source, distributed, transactional key-value store</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aria2/aria2#1740787200</id>
+    <title>https://github.com/aria2/aria2</title>
+    <link href="https://github.com/aria2/aria2" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">aria2 is a lightweight multi-protocol &amp; multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ceph/ceph#1740787200</id>
+    <title>https://github.com/ceph/ceph</title>
+    <link href="https://github.com/ceph/ceph" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Ceph is a distributed object, block, and file storage platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duckdb/duckdb#1740787200</id>
+    <title>https://github.com/duckdb/duckdb</title>
+    <link href="https://github.com/duckdb/duckdb" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">DuckDB is an analytical in-process SQL database management system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/rocksdb#1740787200</id>
+    <title>https://github.com/facebook/rocksdb</title>
+    <link href="https://github.com/facebook/rocksdb" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A library that provides an embeddable, persistent key-value store for fast storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/flatbuffers#1740787200</id>
+    <title>https://github.com/google/flatbuffers</title>
+    <link href="https://github.com/google/flatbuffers" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">FlatBuffers: Memory Efficient Serialization Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k2-fsa/sherpa-onnx#1740787200</id>
+    <title>https://github.com/k2-fsa/sherpa-onnx</title>
+    <link href="https://github.com/k2-fsa/sherpa-onnx" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust</content>
+  </entry>
+</feed>

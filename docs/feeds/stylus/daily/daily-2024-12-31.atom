@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/stylus/daily.atom</id>
+  <title>GitHub Trending - stylus (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/stylus/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-31T11:27:20+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/hexojs/site#1735644440</id>
+    <title>https://github.com/hexojs/site</title>
+    <link href="https://github.com/hexojs/site" />
+    <updated>2024-12-31T11:27:20+00:00</updated>
+    <content type="text">The website for Hexo. https://hexo.io/</content>
+  </entry>
+</feed>

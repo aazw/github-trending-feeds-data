@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smt/weekly.atom</id>
+  <title>GitHub Trending - smt (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smt/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/adafruit/Adafruit_CAD_Parts#1745193600</id>
+    <title>https://github.com/adafruit/Adafruit_CAD_Parts</title>
+    <link href="https://github.com/adafruit/Adafruit_CAD_Parts" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">CAD files for various boards, components and parts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cvc5/cvc5#1745193600</id>
+    <title>https://github.com/cvc5/cvc5</title>
+    <link href="https://github.com/cvc5/cvc5" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">cvc5 is an open-source automatic theorem prover for Satisfiability Modulo Theories (SMT) problems.</content>
+  </entry>
+</feed>

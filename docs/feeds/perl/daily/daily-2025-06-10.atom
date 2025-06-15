@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom</id>
+  <title>GitHub Trending - perl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AlDanial/cloc#1749513600</id>
+    <title>https://github.com/AlDanial/cloc</title>
+    <link href="https://github.com/AlDanial/cloc" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FelixKrueger/TrimGalore#1749513600</id>
+    <title>https://github.com/FelixKrueger/TrimGalore</title>
+    <link href="https://github.com/FelixKrueger/TrimGalore" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Gaius-Augustus/BRAKER#1749513600</id>
+    <title>https://github.com/Gaius-Augustus/BRAKER</title>
+    <link href="https://github.com/Gaius-Augustus/BRAKER" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">BRAKER is a pipeline for fully automated prediction of protein coding gene structures with GeneMark-ES/ET/EP/ETP and AUGUSTUS in novel eukaryotic genomes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LMS-Community/slimserver#1749513600</id>
+    <title>https://github.com/LMS-Community/slimserver</title>
+    <link href="https://github.com/LMS-Community/slimserver" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenKore/openkore#1749513600</id>
+    <title>https://github.com/OpenKore/openkore</title>
+    <link href="https://github.com/OpenKore/openkore" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A free/open source client and automation tool for Ragnarok Online</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpiderLabs/owasp-modsecurity-crs#1749513600</id>
+    <title>https://github.com/SpiderLabs/owasp-modsecurity-crs</title>
+    <link href="https://github.com/SpiderLabs/owasp-modsecurity-crs" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThePrimeagen/.dotfiles#1749513600</id>
+    <title>https://github.com/ThePrimeagen/.dotfiles</title>
+    <link href="https://github.com/ThePrimeagen/.dotfiles" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/adrienverge/openfortivpn#1749513600</id>
+    <title>https://github.com/adrienverge/openfortivpn</title>
+    <link href="https://github.com/adrienverge/openfortivpn" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Client for PPP+TLS VPN tunnel services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brendangregg/FlameGraph#1749513600</id>
+    <title>https://github.com/brendangregg/FlameGraph</title>
+    <link href="https://github.com/brendangregg/FlameGraph" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Stack trace visualizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/darold/ora2pg#1749513600</id>
+    <title>https://github.com/darold/ora2pg</title>
+    <link href="https://github.com/darold/ora2pg" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ddclient/ddclient#1749513600</id>
+    <title>https://github.com/ddclient/ddclient</title>
+    <link href="https://github.com/ddclient/ddclient" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">ddclient updates dynamic DNS entries for accounts on a wide range of dynamic DNS services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/holzschu/a-shell#1749513600</id>
+    <title>https://github.com/holzschu/a-shell</title>
+    <link href="https://github.com/holzschu/a-shell" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A terminal for iOS, with multiple windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jimsalterjrs/sanoid#1749513600</id>
+    <title>https://github.com/jimsalterjrs/sanoid</title>
+    <link href="https://github.com/jimsalterjrs/sanoid" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">These are policy-driven snapshot management and replication tools which use OpenZFS for underlying next-gen storage. (Btrfs support plans are shelved unless and until btrfs becomes reliable.)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linux-test-project/lcov#1749513600</id>
+    <title>https://github.com/linux-test-project/lcov</title>
+    <link href="https://github.com/linux-test-project/lcov" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">LCOV</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netdisco/netdisco#1749513600</id>
+    <title>https://github.com/netdisco/netdisco</title>
+    <link href="https://github.com/netdisco/netdisco" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A web-based network management tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/owasp-modsecurity/ModSecurity-nginx#1749513600</id>
+    <title>https://github.com/owasp-modsecurity/ModSecurity-nginx</title>
+    <link href="https://github.com/owasp-modsecurity/ModSecurity-nginx" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">ModSecurity v3 Nginx Connector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/so-fancy/diff-so-fancy#1749513600</id>
+    <title>https://github.com/so-fancy/diff-so-fancy</title>
+    <link href="https://github.com/so-fancy/diff-so-fancy" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sullo/nikto#1749513600</id>
+    <title>https://github.com/sullo/nikto</title>
+    <link href="https://github.com/sullo/nikto" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Nikto web server scanner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trinityrnaseq/trinityrnaseq#1749513600</id>
+    <title>https://github.com/trinityrnaseq/trinityrnaseq</title>
+    <link href="https://github.com/trinityrnaseq/trinityrnaseq" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Trinity RNA-Seq de novo transcriptome assembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tseemann/prokka#1749513600</id>
+    <title>https://github.com/tseemann/prokka</title>
+    <link href="https://github.com/tseemann/prokka" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">⚡ ♒ Rapid prokaryotic genome annotation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tseemann/snippy#1749513600</id>
+    <title>https://github.com/tseemann/snippy</title>
+    <link href="https://github.com/tseemann/snippy" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">✂️ ⚡ Rapid haploid variant calling and core genome alignment</content>
+  </entry>
+</feed>

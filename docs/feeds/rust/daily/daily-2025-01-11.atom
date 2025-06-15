@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-11T11:28:14+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ajeetdsouza/zoxide#1736594894</id>
+    <title>https://github.com/ajeetdsouza/zoxide</title>
+    <link href="https://github.com/ajeetdsouza/zoxide" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">A smarter cd command. Supports all major shells.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1736594894</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/launchbadge/sqlx#1736594894</id>
+    <title>https://github.com/launchbadge/sqlx</title>
+    <link href="https://github.com/launchbadge/sqlx" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1736594894</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/a2x/cs2-dumper#1736594894</id>
+    <title>https://github.com/a2x/cs2-dumper</title>
+    <link href="https://github.com/a2x/cs2-dumper" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Counter-Strike: 2 Offset Dumper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rpcpool/yellowstone-grpc#1736594894</id>
+    <title>https://github.com/rpcpool/yellowstone-grpc</title>
+    <link href="https://github.com/rpcpool/yellowstone-grpc" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">solana geyser grpc service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/iceberg-rust#1736594894</id>
+    <title>https://github.com/apache/iceberg-rust</title>
+    <link href="https://github.com/apache/iceberg-rust" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Apache Iceberg</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/fd#1736594894</id>
+    <title>https://github.com/sharkdp/fd</title>
+    <link href="https://github.com/sharkdp/fd" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">A simple, fast and user-friendly alternative to 'find'</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gleam-lang/gleam#1736594894</id>
+    <title>https://github.com/gleam-lang/gleam</title>
+    <link href="https://github.com/gleam-lang/gleam" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">⭐️ A friendly language for building type-safe, scalable systems!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/tauri#1736594894</id>
+    <title>https://github.com/tauri-apps/tauri</title>
+    <link href="https://github.com/tauri-apps/tauri" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/servo/servo#1736594894</id>
+    <title>https://github.com/servo/servo</title>
+    <link href="https://github.com/servo/servo" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n0-computer/iroh#1736594894</id>
+    <title>https://github.com/n0-computer/iroh</title>
+    <link href="https://github.com/n0-computer/iroh" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">peer-2-peer that just works</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1736594894</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1736594894</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1736594894</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/embassy-rs/embassy#1736594894</id>
+    <title>https://github.com/embassy-rs/embassy</title>
+    <link href="https://github.com/embassy-rs/embassy" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Modern embedded framework, using Rust and async.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1736594894</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rerun-io/rerun#1736594894</id>
+    <title>https://github.com/rerun-io/rerun</title>
+    <link href="https://github.com/rerun-io/rerun" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1736594894</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1736594894</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/hyperfine#1736594894</id>
+    <title>https://github.com/sharkdp/hyperfine</title>
+    <link href="https://github.com/sharkdp/hyperfine" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">A command-line benchmarking tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexpasmantier/television#1736594894</id>
+    <title>https://github.com/alexpasmantier/television</title>
+    <link href="https://github.com/alexpasmantier/television" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">The revolution will (not) be televised</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quickwit-oss/tantivy#1736594894</id>
+    <title>https://github.com/quickwit-oss/tantivy</title>
+    <link href="https://github.com/quickwit-oss/tantivy" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1736594894</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quickwit-oss/quickwit#1736594894</id>
+    <title>https://github.com/quickwit-oss/quickwit</title>
+    <link href="https://github.com/quickwit-oss/quickwit" />
+    <updated>2025-01-11T11:28:14+00:00</updated>
+    <content type="text">Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.</content>
+  </entry>
+</feed>

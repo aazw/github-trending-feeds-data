@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/amix/vimrc#1748304000</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chaoren/vim-wordmotion#1748304000</id>
+    <title>https://github.com/chaoren/vim-wordmotion</title>
+    <link href="https://github.com/chaoren/vim-wordmotion" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">More useful word motions for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1748304000</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1748304000</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1748304000</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-easy-align#1748304000</id>
+    <title>https://github.com/junegunn/vim-easy-align</title>
+    <link href="https://github.com/junegunn/vim-easy-align" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">🌻 A Vim alignment plugin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1748304000</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justinmk/vim-sneak#1748304000</id>
+    <title>https://github.com/justinmk/vim-sneak</title>
+    <link href="https://github.com/justinmk/vim-sneak" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">The missing motion for Vim 👟</content>
+  </entry>
+  <entry>
+    <id>https://github.com/liuchengxu/vista.vim#1748304000</id>
+    <title>https://github.com/liuchengxu/vista.vim</title>
+    <link href="https://github.com/liuchengxu/vista.vim" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">🌵 Viewer &amp; Finder for LSP symbols and tags</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1748304000</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1748304000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1748304000</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-vinegar#1748304000</id>
+    <title>https://github.com/tpope/vim-vinegar</title>
+    <link href="https://github.com/tpope/vim-vinegar" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">vinegar.vim: Combine with netrw to create a delicious salad dressing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-ruby/vim-ruby#1748304000</id>
+    <title>https://github.com/vim-ruby/vim-ruby</title>
+    <link href="https://github.com/vim-ruby/vim-ruby" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Vim/Ruby Configuration Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1748304000</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1748304000</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voldikss/vim-floaterm#1748304000</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
+  </entry>
+</feed>

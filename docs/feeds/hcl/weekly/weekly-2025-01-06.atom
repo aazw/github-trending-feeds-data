@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/weekly.atom</id>
+  <title>GitHub Trending - hcl (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T12:17:03+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure-Samples/aks-openai-terraform#1736165823</id>
+    <title>https://github.com/Azure-Samples/aks-openai-terraform</title>
+    <link href="https://github.com/Azure-Samples/aks-openai-terraform" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">This article shows how to deploy an Azure Kubernetes Service(AKS) cluster and Azure OpenAI Service via Terraform and how to deploy a Terraform chatbot that authenticates against Azure OpenAI using Azure AD workload identity and calls the Chat Completion API of a ChatGPT model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ec2-instance#1736165823</id>
+    <title>https://github.com/cloudposse/terraform-aws-ec2-instance</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-instance" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">Terraform module for provisioning a general purpose EC2 host</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-event-function#1736165823</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-event-function</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-event-function" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">Responds to logging events with a Cloud Function</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chime/terraform-aws-alternat#1736165823</id>
+    <title>https://github.com/chime/terraform-aws-alternat</title>
+    <link href="https://github.com/chime/terraform-aws-alternat" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">High availability implementation of AWS NAT instances.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1736165823</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ecs-container-definition#1736165823</id>
+    <title>https://github.com/cloudposse/terraform-aws-ecs-container-definition</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-container-definition" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ec2-autoscale-group#1736165823</id>
+    <title>https://github.com/cloudposse/terraform-aws-ec2-autoscale-group</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-autoscale-group" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">Terraform module to provision Auto Scaling Group and Launch Template on AWS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/serverless-sample-app#1736165823</id>
+    <title>https://github.com/DataDog/serverless-sample-app</title>
+    <link href="https://github.com/DataDog/serverless-sample-app" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">Explore Datadog's serverless observability features with this sample app.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/tfc-guide-example#1736165823</id>
+    <title>https://github.com/hashicorp/tfc-guide-example</title>
+    <link href="https://github.com/hashicorp/tfc-guide-example" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">Example Terraform configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1736165823</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1736165823</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zealvora/terraform-beginner-to-advanced-resource#1736165823</id>
+    <title>https://github.com/zealvora/terraform-beginner-to-advanced-resource</title>
+    <link href="https://github.com/zealvora/terraform-beginner-to-advanced-resource" />
+    <updated>2025-01-06T12:17:03+00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

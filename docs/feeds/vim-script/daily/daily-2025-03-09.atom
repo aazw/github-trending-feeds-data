@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Yggdroot/indentLine#1741478400</id>
+    <title>https://github.com/Yggdroot/indentLine</title>
+    <link href="https://github.com/Yggdroot/indentLine" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A vim plugin to display the indention levels with thin vertical lines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/altercation/solarized#1741478400</id>
+    <title>https://github.com/altercation/solarized</title>
+    <link href="https://github.com/altercation/solarized" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cocopon/iceberg.vim#1741478400</id>
+    <title>https://github.com/cocopon/iceberg.vim</title>
+    <link href="https://github.com/cocopon/iceberg.vim" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">🇦🇶 Bluish color scheme for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1741478400</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatih/vim-go#1741478400</id>
+    <title>https://github.com/fatih/vim-go</title>
+    <link href="https://github.com/fatih/vim-go" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Go development plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jistr/vim-nerdtree-tabs#1741478400</id>
+    <title>https://github.com/jistr/vim-nerdtree-tabs</title>
+    <link href="https://github.com/jistr/vim-nerdtree-tabs" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">NERDTree and tabs together in Vim, painlessly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1741478400</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1741478400</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-galore#1741478400</id>
+    <title>https://github.com/mhinz/vim-galore</title>
+    <link href="https://github.com/mhinz/vim-galore" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">🎓 All things Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-startify#1741478400</id>
+    <title>https://github.com/mhinz/vim-startify</title>
+    <link href="https://github.com/mhinz/vim-startify" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">🔗 The fancy start screen for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1741478400</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust.vim#1741478400</id>
+    <title>https://github.com/rust-lang/rust.vim</title>
+    <link href="https://github.com/rust-lang/rust.vim" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Vim configuration for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1741478400</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/szw/vim-maximizer#1741478400</id>
+    <title>https://github.com/szw/vim-maximizer</title>
+    <link href="https://github.com/szw/vim-maximizer" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Maximizes and restores the current window in Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline-themes#1741478400</id>
+    <title>https://github.com/vim-airline/vim-airline-themes</title>
+    <link href="https://github.com/vim-airline/vim-airline-themes" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A collection of themes for vim-airline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1741478400</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-syntastic/syntastic#1741478400</id>
+    <title>https://github.com/vim-syntastic/syntastic</title>
+    <link href="https://github.com/vim-syntastic/syntastic" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Syntax checking hacks for vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xero/miasma.nvim#1741478400</id>
+    <title>https://github.com/xero/miasma.nvim</title>
+    <link href="https://github.com/xero/miasma.nvim" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">a fog descends upon your editor ☁ dark color scheme inspired by the woods for vim and neovim</content>
+  </entry>
+</feed>

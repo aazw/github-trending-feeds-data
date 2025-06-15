@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom</id>
+  <title>GitHub Trending - perl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AlDanial/cloc#1742515200</id>
+    <title>https://github.com/AlDanial/cloc</title>
+    <link href="https://github.com/AlDanial/cloc" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpiderLabs/owasp-modsecurity-crs#1742515200</id>
+    <title>https://github.com/SpiderLabs/owasp-modsecurity-crs</title>
+    <link href="https://github.com/SpiderLabs/owasp-modsecurity-crs" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Zimbra/zm-build#1742515200</id>
+    <title>https://github.com/Zimbra/zm-build</title>
+    <link href="https://github.com/Zimbra/zm-build" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">zm-build for Zimbra Collaboration Suite, FOSS Edition</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adrienverge/openfortivpn#1742515200</id>
+    <title>https://github.com/adrienverge/openfortivpn</title>
+    <link href="https://github.com/adrienverge/openfortivpn" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Client for PPP+TLS VPN tunnel services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brendangregg/FlameGraph#1742515200</id>
+    <title>https://github.com/brendangregg/FlameGraph</title>
+    <link href="https://github.com/brendangregg/FlameGraph" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Stack trace visualizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/centreon/centreon-plugins#1742515200</id>
+    <title>https://github.com/centreon/centreon-plugins</title>
+    <link href="https://github.com/centreon/centreon-plugins" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Collection of standard plugins to discover and gather cloud-to-edge metrics and status across your whole IT infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/darold/ora2pg#1742515200</id>
+    <title>https://github.com/darold/ora2pg</title>
+    <link href="https://github.com/darold/ora2pg" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Ora2Pg is a free tool used to migrate an Oracle database to a PostgreSQL compatible schema. It connects your Oracle database, scan it automatically and extracts its structure or data, it then generates SQL scripts that you can load into PostgreSQL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/darold/pgbadger#1742515200</id>
+    <title>https://github.com/darold/pgbadger</title>
+    <link href="https://github.com/darold/pgbadger" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A fast PostgreSQL Log Analyzer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fusioninventory/fusioninventory-agent#1742515200</id>
+    <title>https://github.com/fusioninventory/fusioninventory-agent</title>
+    <link href="https://github.com/fusioninventory/fusioninventory-agent" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">FusionInventory Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glpi-project/glpi-agent#1742515200</id>
+    <title>https://github.com/glpi-project/glpi-agent</title>
+    <link href="https://github.com/glpi-project/glpi-agent" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">GLPI Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linux-test-project/lcov#1742515200</id>
+    <title>https://github.com/linux-test-project/lcov</title>
+    <link href="https://github.com/linux-test-project/lcov" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">LCOV</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metomi/fcm#1742515200</id>
+    <title>https://github.com/metomi/fcm</title>
+    <link href="https://github.com/metomi/fcm" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">🔨 FCM: a modern Fortran build system + wrappers to Subversion for scientific software development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocpi/ocpi#1742515200</id>
+    <title>https://github.com/ocpi/ocpi</title>
+    <link href="https://github.com/ocpi/ocpi" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rjbs/Email-Sender#1742515200</id>
+    <title>https://github.com/rjbs/Email-Sender</title>
+    <link href="https://github.com/rjbs/Email-Sender" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">a perl library for sending email</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sullo/nikto#1742515200</id>
+    <title>https://github.com/sullo/nikto</title>
+    <link href="https://github.com/sullo/nikto" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Nikto web server scanner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trinityrnaseq/trinityrnaseq#1742515200</id>
+    <title>https://github.com/trinityrnaseq/trinityrnaseq</title>
+    <link href="https://github.com/trinityrnaseq/trinityrnaseq" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Trinity RNA-Seq de novo transcriptome assembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tseemann/prokka#1742515200</id>
+    <title>https://github.com/tseemann/prokka</title>
+    <link href="https://github.com/tseemann/prokka" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">⚡ ♒ Rapid prokaryotic genome annotation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tseemann/snippy#1742515200</id>
+    <title>https://github.com/tseemann/snippy</title>
+    <link href="https://github.com/tseemann/snippy" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">✂️ ⚡ Rapid haploid variant calling and core genome alignment</content>
+  </entry>
+</feed>

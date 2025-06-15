@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/circom/daily.atom</id>
+  <title>GitHub Trending - circom (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/circom/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/iden3/circomlib#1743811200</id>
+    <title>https://github.com/iden3/circomlib</title>
+    <link href="https://github.com/iden3/circomlib" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Library of basic circuits for circom</content>
+  </entry>
+  <entry>
+    <id>https://github.com/selfxyz/self#1743811200</id>
+    <title>https://github.com/selfxyz/self</title>
+    <link href="https://github.com/selfxyz/self" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Prove your self</content>
+  </entry>
+</feed>

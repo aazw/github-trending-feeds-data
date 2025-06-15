@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom</id>
+  <title>GitHub Trending - zig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Cloudef/zig-aio#1739404800</id>
+    <title>https://github.com/Cloudef/zig-aio</title>
+    <link href="https://github.com/Cloudef/zig-aio" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">io_uring like asynchronous API and coroutine powered IO tasks for zig</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Syndica/sig#1739404800</id>
+    <title>https://github.com/Syndica/sig</title>
+    <link href="https://github.com/Syndica/sig" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">a Solana validator client implementation written in Zig</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Vexu/arocc#1739404800</id>
+    <title>https://github.com/Vexu/arocc</title>
+    <link href="https://github.com/Vexu/arocc" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A modern fully featured C compiler.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fairyglade/ly#1739404800</id>
+    <title>https://github.com/fairyglade/ly</title>
+    <link href="https://github.com/fairyglade/ly" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">display manager with console UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristoff-it/superhtml#1739404800</id>
+    <title>https://github.com/kristoff-it/superhtml</title>
+    <link href="https://github.com/kristoff-it/superhtml" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">HTML Language Server &amp; Templating Language Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristoff-it/zine#1739404800</id>
+    <title>https://github.com/kristoff-it/zine</title>
+    <link href="https://github.com/kristoff-it/zine" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Fast, Scalable, Flexible Static Site Generator (SSG)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/libxev#1739404800</id>
+    <title>https://github.com/mitchellh/libxev</title>
+    <link href="https://github.com/mitchellh/libxev" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mookums/zzz#1739404800</id>
+    <title>https://github.com/mookums/zzz</title>
+    <link href="https://github.com/mookums/zzz" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A framework for writing performant and reliable networked services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1739404800</id>
+    <title>https://github.com/oven-sh/bun</title>
+    <link href="https://github.com/oven-sh/bun" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seatedro/asciigen#1739404800</id>
+    <title>https://github.com/seatedro/asciigen</title>
+    <link href="https://github.com/seatedro/asciigen" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">convert images, video to ascii!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zig-gamedev/zig-gamedev#1739404800</id>
+    <title>https://github.com/zig-gamedev/zig-gamedev</title>
+    <link href="https://github.com/zig-gamedev/zig-gamedev" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Dev repo for @zig-gamedev libs and sample applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig#1739404800</id>
+    <title>https://github.com/ziglang/zig</title>
+    <link href="https://github.com/ziglang/zig" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zigtools/zls#1739404800</id>
+    <title>https://github.com/zigtools/zls</title>
+    <link href="https://github.com/zigtools/zls" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A Zig language server supporting Zig developers with features like autocomplete and goto definition</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zml/zml#1739404800</id>
+    <title>https://github.com/zml/zml</title>
+    <link href="https://github.com/zml/zml" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</content>
+  </entry>
+</feed>

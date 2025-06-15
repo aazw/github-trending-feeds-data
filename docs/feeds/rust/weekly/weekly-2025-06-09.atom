@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/EasyTier/EasyTier#1749427200</id>
+    <title>https://github.com/EasyTier/EasyTier</title>
+    <link href="https://github.com/EasyTier/EasyTier" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A simple, decentralized mesh VPN with WireGuard support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EricLBuehler/mistral.rs#1749427200</id>
+    <title>https://github.com/EricLBuehler/mistral.rs</title>
+    <link href="https://github.com/EricLBuehler/mistral.rs" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Blazingly fast LLM inference.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GyulyVGC/sniffnet#1749427200</id>
+    <title>https://github.com/GyulyVGC/sniffnet</title>
+    <link href="https://github.com/GyulyVGC/sniffnet" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Comfortably monitor your Internet traffic 🕵️‍♂️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/difftastic#1749427200</id>
+    <title>https://github.com/Wilfred/difftastic</title>
+    <link href="https://github.com/Wilfred/difftastic" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">a structural diff that understands syntax 🟥🟩</content>
+  </entry>
+  <entry>
+    <id>https://github.com/block/goose#1749427200</id>
+    <title>https://github.com/block/goose</title>
+    <link href="https://github.com/block/goose" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cocoindex-io/cocoindex#1749427200</id>
+    <title>https://github.com/cocoindex-io/cocoindex</title>
+    <link href="https://github.com/cocoindex-io/cocoindex" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Real-time data transformation framework for AI. Ultra performant, with incremental processing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dtolnay/cxx#1749427200</id>
+    <title>https://github.com/dtolnay/cxx</title>
+    <link href="https://github.com/dtolnay/cxx" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Safe interop between Rust and C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eythaann/Seelen-UI#1749427200</id>
+    <title>https://github.com/eythaann/Seelen-UI</title>
+    <link href="https://github.com/eythaann/Seelen-UI" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The Fully Customizable Desktop Environment for Windows 10/11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-convex/convex-backend#1749427200</id>
+    <title>https://github.com/get-convex/convex-backend</title>
+    <link href="https://github.com/get-convex/convex-backend" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The open-source reactive database for app developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gleam-lang/gleam#1749427200</id>
+    <title>https://github.com/gleam-lang/gleam</title>
+    <link href="https://github.com/gleam-lang/gleam" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">⭐️ A friendly language for building type-safe, scalable systems!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lancedb#1749427200</id>
+    <title>https://github.com/lancedb/lancedb</title>
+    <link href="https://github.com/lancedb/lancedb" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openobserve/openobserve#1749427200</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ratatui/ratatui#1749427200</id>
+    <title>https://github.com/ratatui/ratatui</title>
+    <link href="https://github.com/ratatui/ratatui" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1749427200</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust#1749427200</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-unofficial/awesome-rust#1749427200</id>
+    <title>https://github.com/rust-unofficial/awesome-rust</title>
+    <link href="https://github.com/rust-unofficial/awesome-rust" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A curated list of Rust code and resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1749427200</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/skyzh/mini-lsm#1749427200</id>
+    <title>https://github.com/skyzh/mini-lsm</title>
+    <link href="https://github.com/skyzh/mini-lsm" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A course of building an LSM-Tree storage engine (database) in a week.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1749427200</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1749427200</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+</feed>

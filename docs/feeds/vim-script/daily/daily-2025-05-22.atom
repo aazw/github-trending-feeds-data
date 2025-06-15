@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/windsurf.vim#1747872000</id>
+    <title>https://github.com/Exafunction/windsurf.vim</title>
+    <link href="https://github.com/Exafunction/windsurf.vim" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Raimondi/delimitMate#1747872000</id>
+    <title>https://github.com/Raimondi/delimitMate</title>
+    <link href="https://github.com/Raimondi/delimitMate" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Yggdroot/indentLine#1747872000</id>
+    <title>https://github.com/Yggdroot/indentLine</title>
+    <link href="https://github.com/Yggdroot/indentLine" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">A vim plugin to display the indention levels with thin vertical lines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/altercation/vim-colors-solarized#1747872000</id>
+    <title>https://github.com/altercation/vim-colors-solarized</title>
+    <link href="https://github.com/altercation/vim-colors-solarized" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">precision colorscheme for the vim text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1747872000</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1747872000</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1747872000</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatih/vim-go#1747872000</id>
+    <title>https://github.com/fatih/vim-go</title>
+    <link href="https://github.com/fatih/vim-go" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Go development plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gergap/vim-ollama#1747872000</id>
+    <title>https://github.com/gergap/vim-ollama</title>
+    <link href="https://github.com/gergap/vim-ollama" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Vim plugin for integrating Ollama based LLM (large language models)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1747872000</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1747872000</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kien/ctrlp.vim#1747872000</id>
+    <title>https://github.com/kien/ctrlp.vim</title>
+    <link href="https://github.com/kien/ctrlp.vim" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Fuzzy file, buffer, mru, tag, etc finder.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ludovicchabant/vim-gutentags#1747872000</id>
+    <title>https://github.com/ludovicchabant/vim-gutentags</title>
+    <link href="https://github.com/ludovicchabant/vim-gutentags" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">A Vim plugin that manages your tag files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-signify#1747872000</id>
+    <title>https://github.com/mhinz/vim-signify</title>
+    <link href="https://github.com/mhinz/vim-signify" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">➕ Show a diff using Vim its sign column.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1747872000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vimux#1747872000</id>
+    <title>https://github.com/preservim/vimux</title>
+    <link href="https://github.com/preservim/vimux" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">easily interact with tmux from vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/skywind3000/asyncrun.vim#1747872000</id>
+    <title>https://github.com/skywind3000/asyncrun.vim</title>
+    <link href="https://github.com/skywind3000/asyncrun.vim" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">🚀 Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1747872000</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1747872000</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+</feed>

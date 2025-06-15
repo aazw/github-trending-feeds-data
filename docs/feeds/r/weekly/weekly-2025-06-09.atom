@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom</id>
+  <title>GitHub Trending - r (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/benjjneb/dada2#1749427200</id>
+    <title>https://github.com/benjjneb/dada2</title>
+    <link href="https://github.com/benjjneb/dada2" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Accurate sample inference from amplicon data with single nucleotide resolution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1749427200</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cole-trapnell-lab/monocle3#1749427200</id>
+    <title>https://github.com/cole-trapnell-lab/monocle3</title>
+    <link href="https://github.com/cole-trapnell-lab/monocle3" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/immunogenomics/harmony#1749427200</id>
+    <title>https://github.com/immunogenomics/harmony</title>
+    <link href="https://github.com/immunogenomics/harmony" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Fast, sensitive and accurate integration of single-cell data with Harmony</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jokergoo/ComplexHeatmap#1749427200</id>
+    <title>https://github.com/jokergoo/ComplexHeatmap</title>
+    <link href="https://github.com/jokergoo/ComplexHeatmap" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Make Complex Heatmaps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mojaveazure/seurat-disk#1749427200</id>
+    <title>https://github.com/mojaveazure/seurat-disk</title>
+    <link href="https://github.com/mojaveazure/seurat-disk" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Interfaces for HDF5-based Single Cell File Formats</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plotly/plotly.R#1749427200</id>
+    <title>https://github.com/plotly/plotly.R</title>
+    <link href="https://github.com/plotly/plotly.R" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">An interactive graphing library for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rdpeng/ProgrammingAssignment2#1749427200</id>
+    <title>https://github.com/rdpeng/ProgrammingAssignment2</title>
+    <link href="https://github.com/rdpeng/ProgrammingAssignment2" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Repository for Programming Assignment 2 for R Programming on Coursera</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/renv#1749427200</id>
+    <title>https://github.com/rstudio/renv</title>
+    <link href="https://github.com/rstudio/renv" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">renv: Project environments for R.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat#1749427200</id>
+    <title>https://github.com/satijalab/seurat</title>
+    <link href="https://github.com/satijalab/seurat" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">R toolkit for single cell genomics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqjin/CellChat#1749427200</id>
+    <title>https://github.com/sqjin/CellChat</title>
+    <link href="https://github.com/sqjin/CellChat" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stuart-lab/signac#1749427200</id>
+    <title>https://github.com/stuart-lab/signac</title>
+    <link href="https://github.com/stuart-lab/signac" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">R toolkit for the analysis of single-cell chromatin data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swirldev/swirl_courses#1749427200</id>
+    <title>https://github.com/swirldev/swirl_courses</title>
+    <link href="https://github.com/swirldev/swirl_courses" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🎓 A collection of interactive courses for the swirl R package.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thomasp85/patchwork#1749427200</id>
+    <title>https://github.com/thomasp85/patchwork</title>
+    <link href="https://github.com/thomasp85/patchwork" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The Composer of ggplots</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ellmer#1749427200</id>
+    <title>https://github.com/tidyverse/ellmer</title>
+    <link href="https://github.com/tidyverse/ellmer" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Call LLM APIs from R</content>
+  </entry>
+</feed>

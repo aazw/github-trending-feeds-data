@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/spark-rapids#1749600000</id>
+    <title>https://github.com/NVIDIA/spark-rapids</title>
+    <link href="https://github.com/NVIDIA/spark-rapids" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Spark RAPIDS plugin - accelerate Apache Spark with GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheHive-Project/TheHive#1749600000</id>
+    <title>https://github.com/TheHive-Project/TheHive</title>
+    <link href="https://github.com/TheHive-Project/TheHive" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">TheHive: a Scalable, Open Source and Free Security Incident Response Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1749600000</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-livy#1749600000</id>
+    <title>https://github.com/apache/incubator-livy</title>
+    <link href="https://github.com/apache/incubator-livy" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1749600000</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/deequ#1749600000</id>
+    <title>https://github.com/awslabs/deequ</title>
+    <link href="https://github.com/awslabs/deequ" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1749600000</id>
+    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
+    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Spark: The Definitive Guide's Code Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1749600000</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-sharing#1749600000</id>
+    <title>https://github.com/delta-io/delta-sharing</title>
+    <link href="https://github.com/delta-io/delta-sharing" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">An open protocol for secure data sharing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gatling/gatling#1749600000</id>
+    <title>https://github.com/gatling/gatling</title>
+    <link href="https://github.com/gatling/gatling" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Modern Load Testing as Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbucket/gitbucket#1749600000</id>
+    <title>https://github.com/gitbucket/gitbucket</title>
+    <link href="https://github.com/gitbucket/gitbucket" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperledger-labs/splice#1749600000</id>
+    <title>https://github.com/hyperledger-labs/splice</title>
+    <link href="https://github.com/hyperledger-labs/splice" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Reference applications for funding, operating, and incentivizing the use of a decentralized, public Canton synchronizer. Includes the Amulet reference application for creating native payment utilities for Canton synchronizers and Daml applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joernio/joern#1749600000</id>
+    <title>https://github.com/joernio/joern</title>
+    <link href="https://github.com/joernio/joern" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/playframework/playframework#1749600000</id>
+    <title>https://github.com/playframework/playframework</title>
+    <link href="https://github.com/playframework/playframework" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">The Community Maintained High Velocity Web Framework For Java and Scala.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rtyley/bfg-repo-cleaner#1749600000</id>
+    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
+    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbt/sbt#1749600000</id>
+    <title>https://github.com/sbt/sbt</title>
+    <link href="https://github.com/sbt/sbt" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">sbt, the interactive build tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala-xml#1749600000</id>
+    <title>https://github.com/scala/scala-xml</title>
+    <link href="https://github.com/scala/scala-xml" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">The standard Scala XML library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scalameta/metals#1749600000</id>
+    <title>https://github.com/scalameta/metals</title>
+    <link href="https://github.com/scalameta/metals" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Scala language server with rich IDE features 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/finagle#1749600000</id>
+    <title>https://github.com/twitter/finagle</title>
+    <link href="https://github.com/twitter/finagle" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">A fault tolerant, protocol-agnostic RPC system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/scrooge#1749600000</id>
+    <title>https://github.com/twitter/scrooge</title>
+    <link href="https://github.com/twitter/scrooge" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">A Thrift parser/generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1749600000</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/util#1749600000</id>
+    <title>https://github.com/twitter/util</title>
+    <link href="https://github.com/twitter/util" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Wonderful reusable code from Twitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/chipyard#1749600000</id>
+    <title>https://github.com/ucb-bar/chipyard</title>
+    <link href="https://github.com/ucb-bar/chipyard" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/PX4/px4_msgs#1738454400</id>
+    <title>https://github.com/PX4/px4_msgs</title>
+    <link href="https://github.com/PX4/px4_msgs" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">ROS/ROS2 messages that match the uORB messages counterparts on the PX4 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TLeonardUK/ds3os#1738454400</id>
+    <title>https://github.com/TLeonardUK/ds3os</title>
+    <link href="https://github.com/TLeonardUK/ds3os" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Dark Souls - Open Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abdes/cryptopp-cmake#1738454400</id>
+    <title>https://github.com/abdes/cryptopp-cmake</title>
+    <link href="https://github.com/abdes/cryptopp-cmake" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">A modern CMake build project for Crypto++ (https://github.com/weidai11/cryptopp).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arsenm/sanitizers-cmake#1738454400</id>
+    <title>https://github.com/arsenm/sanitizers-cmake</title>
+    <link href="https://github.com/arsenm/sanitizers-cmake" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">CMake modules to help use sanitizers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-core-test#1738454400</id>
+    <title>https://github.com/editorconfig/editorconfig-core-test</title>
+    <link href="https://github.com/editorconfig/editorconfig-core-test" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Testings for EditorConfig Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flathub/shared-modules#1738454400</id>
+    <title>https://github.com/flathub/shared-modules</title>
+    <link href="https://github.com/flathub/shared-modules" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Common Flatpak modules that can be used as a git submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg-docs#1738454400</id>
+    <title>https://github.com/microsoft/vcpkg-docs</title>
+    <link href="https://github.com/microsoft/vcpkg-docs" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/minecraft-linux/mcpelauncher-manifest#1738454400</id>
+    <title>https://github.com/minecraft-linux/mcpelauncher-manifest</title>
+    <link href="https://github.com/minecraft-linux/mcpelauncher-manifest" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-planning/navigation_msgs#1738454400</id>
+    <title>https://github.com/ros-planning/navigation_msgs</title>
+    <link href="https://github.com/ros-planning/navigation_msgs" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Message packages required by the navigation stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shinchiro/mpv-winbuild-cmake#1738454400</id>
+    <title>https://github.com/shinchiro/mpv-winbuild-cmake</title>
+    <link href="https://github.com/shinchiro/mpv-winbuild-cmake" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">CMake-based MinGW-w64 Cross Toolchain</content>
+  </entry>
+</feed>

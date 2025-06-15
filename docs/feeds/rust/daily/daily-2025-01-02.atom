@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:25:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/wez/wezterm#1735817148</id>
+    <title>https://github.com/wez/wezterm</title>
+    <link href="https://github.com/wez/wezterm" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/katanemo/archgw#1735817148</id>
+    <title>https://github.com/katanemo/archgw</title>
+    <link href="https://github.com/katanemo/archgw" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of prompts with your APIs - outside business logic. Built by the core contributors of Envoy proxy, on Envoy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alvr-org/ALVR#1735817148</id>
+    <title>https://github.com/alvr-org/ALVR</title>
+    <link href="https://github.com/alvr-org/ALVR" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">Stream VR games from your PC to your headset via Wi-Fi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1735817148</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gfx-rs/wgpu#1735817148</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-rs#1735817148</id>
+    <title>https://github.com/delta-io/delta-rs</title>
+    <link href="https://github.com/delta-io/delta-rs" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">A native Rust library for Delta Lake, with bindings into Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Automattic/harper#1735817148</id>
+    <title>https://github.com/Automattic/harper</title>
+    <link href="https://github.com/Automattic/harper" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">The Grammar Checker for Developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustup#1735817148</id>
+    <title>https://github.com/rust-lang/rustup</title>
+    <link href="https://github.com/rust-lang/rustup" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">The Rust toolchain installer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1735817148</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/arrow-rs#1735817148</id>
+    <title>https://github.com/apache/arrow-rs</title>
+    <link href="https://github.com/apache/arrow-rs" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">Official Rust implementation of Apache Arrow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperium/tonic#1735817148</id>
+    <title>https://github.com/hyperium/tonic</title>
+    <link href="https://github.com/hyperium/tonic" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">A native gRPC client &amp; server implementation with async/await support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loco-rs/loco#1735817148</id>
+    <title>https://github.com/loco-rs/loco</title>
+    <link href="https://github.com/loco-rs/loco" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">🚂 🦀 The one-person framework for Rust for side-projects and startups</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DioxusLabs/dioxus#1735817148</id>
+    <title>https://github.com/DioxusLabs/dioxus</title>
+    <link href="https://github.com/DioxusLabs/dioxus" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">Fullstack app framework for web, desktop, mobile, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spaceandtimelabs/sxt-proof-of-sql#1735817148</id>
+    <title>https://github.com/spaceandtimelabs/sxt-proof-of-sql</title>
+    <link href="https://github.com/spaceandtimelabs/sxt-proof-of-sql" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">Space and Time | Proof of SQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0xPlaygrounds/rig#1735817148</id>
+    <title>https://github.com/0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1735817148</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GitoxideLabs/gitoxide#1735817148</id>
+    <title>https://github.com/GitoxideLabs/gitoxide</title>
+    <link href="https://github.com/GitoxideLabs/gitoxide" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">An idiomatic, lean, fast &amp; safe pure Rust implementation of Git</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruffle-rs/ruffle#1735817148</id>
+    <title>https://github.com/ruffle-rs/ruffle</title>
+    <link href="https://github.com/ruffle-rs/ruffle" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">A Flash Player emulator written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/quiche#1735817148</id>
+    <title>https://github.com/cloudflare/quiche</title>
+    <link href="https://github.com/cloudflare/quiche" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1735817148</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vosen/ZLUDA#1735817148</id>
+    <title>https://github.com/vosen/ZLUDA</title>
+    <link href="https://github.com/vosen/ZLUDA" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">CUDA on non-NVIDIA GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/louis-e/arnis#1735817148</id>
+    <title>https://github.com/louis-e/arnis</title>
+    <link href="https://github.com/louis-e/arnis" />
+    <updated>2025-01-02T11:25:48+00:00</updated>
+    <content type="text">Generate any location from the real world in Minecraft Java Edition with a high level of detail.</content>
+  </entry>
+</feed>

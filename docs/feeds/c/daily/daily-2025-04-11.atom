@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FRRouting/frr#1744329600</id>
+    <title>https://github.com/FRRouting/frr</title>
+    <link href="https://github.com/FRRouting/frr" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">The FRRouting Protocol Suite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GuijiAI/HeyGem.ai#1744329600</id>
+    <title>https://github.com/GuijiAI/HeyGem.ai</title>
+    <link href="https://github.com/GuijiAI/HeyGem.ai" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Klipper3d/klipper#1744329600</id>
+    <title>https://github.com/Klipper3d/klipper</title>
+    <link href="https://github.com/Klipper3d/klipper" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Klipper is a 3d-printer firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThrowTheSwitch/Unity#1744329600</id>
+    <title>https://github.com/ThrowTheSwitch/Unity</title>
+    <link href="https://github.com/ThrowTheSwitch/Unity" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Simple unit testing for C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/c-ares/c-ares#1744329600</id>
+    <title>https://github.com/c-ares/c-ares</title>
+    <link href="https://github.com/c-ares/c-ares" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">A C library for asynchronous DNS requests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/confluentinc/librdkafka#1744329600</id>
+    <title>https://github.com/confluentinc/librdkafka</title>
+    <link href="https://github.com/confluentinc/librdkafka" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">The Apache Kafka C/C++ library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coturn/coturn#1744329600</id>
+    <title>https://github.com/coturn/coturn</title>
+    <link href="https://github.com/coturn/coturn" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">coturn TURN server project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-mosquitto/mosquitto#1744329600</id>
+    <title>https://github.com/eclipse-mosquitto/mosquitto</title>
+    <link href="https://github.com/eclipse-mosquitto/mosquitto" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Eclipse Mosquitto - An open source MQTT broker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iovisor/bcc#1744329600</id>
+    <title>https://github.com/iovisor/bcc</title>
+    <link href="https://github.com/iovisor/bcc" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/llama2.c#1744329600</id>
+    <title>https://github.com/karpathy/llama2.c</title>
+    <link href="https://github.com/karpathy/llama2.c" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Inference Llama 2 in one file of pure C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kingToolbox/WindTerm#1744329600</id>
+    <title>https://github.com/kingToolbox/WindTerm</title>
+    <link href="https://github.com/kingToolbox/WindTerm" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kokke/tiny-AES-c#1744329600</id>
+    <title>https://github.com/kokke/tiny-AES-c</title>
+    <link href="https://github.com/kokke/tiny-AES-c" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Small portable AES128/192/256 in C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lvgl/lvgl#1744329600</id>
+    <title>https://github.com/lvgl/lvgl</title>
+    <link href="https://github.com/lvgl/lvgl" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nanopb/nanopb#1744329600</id>
+    <title>https://github.com/nanopb/nanopb</title>
+    <link href="https://github.com/nanopb/nanopb" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Protocol Buffers with small code size</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nmap/nmap#1744329600</id>
+    <title>https://github.com/nmap/nmap</title>
+    <link href="https://github.com/nmap/nmap" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Nmap - the Network Mapper. Github mirror of official SVN repository.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/olikraus/u8g2#1744329600</id>
+    <title>https://github.com/olikraus/u8g2</title>
+    <link href="https://github.com/olikraus/u8g2" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">U8glib library for monochrome displays, version 2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openssl/openssl#1744329600</id>
+    <title>https://github.com/openssl/openssl</title>
+    <link href="https://github.com/openssl/openssl" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">TLS/SSL and crypto library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openzfs/zfs#1744329600</id>
+    <title>https://github.com/openzfs/zfs</title>
+    <link href="https://github.com/openzfs/zfs" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">OpenZFS on Linux and FreeBSD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src#1744329600</id>
+    <title>https://github.com/php/php-src</title>
+    <link href="https://github.com/php/php-src" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">The PHP Interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocoproject/poco#1744329600</id>
+    <title>https://github.com/pocoproject/poco</title>
+    <link href="https://github.com/pocoproject/poco" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stlink-org/stlink#1744329600</id>
+    <title>https://github.com/stlink-org/stlink</title>
+    <link href="https://github.com/stlink-org/stlink" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Open source STM32 MCU programming toolset</content>
+  </entry>
+  <entry>
+    <id>https://github.com/valkey-io/valkey#1744329600</id>
+    <title>https://github.com/valkey-io/valkey</title>
+    <link href="https://github.com/valkey-io/valkey" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.</content>
+  </entry>
+</feed>

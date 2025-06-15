@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/dd-trace-go#1747180800</id>
+    <title>https://github.com/DataDog/dd-trace-go</title>
+    <link href="https://github.com/DataDog/dd-trace-go" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Datadog Go Library including APM tracing, profiling, and security monitoring.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1747180800</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft#1747180800</id>
+    <title>https://github.com/anchore/syft</title>
+    <link href="https://github.com/anchore/syft" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1747180800</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1747180800</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1747180800</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1747180800</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goharbor/harbor#1747180800</id>
+    <title>https://github.com/goharbor/harbor</title>
+    <link href="https://github.com/goharbor/harbor" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">An open source trusted cloud native registry project that stores, signs, and scans content.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/wire#1747180800</id>
+    <title>https://github.com/google/wire</title>
+    <link href="https://github.com/google/wire" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Compile-time Dependency Injection for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1747180800</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1747180800</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1747180800</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iam-veeramalla/observability-zero-to-hero#1747180800</id>
+    <title>https://github.com/iam-veeramalla/observability-zero-to-hero</title>
+    <link href="https://github.com/iam-veeramalla/observability-zero-to-hero" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Repo for learning observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1747180800</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1747180800</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-sandbox#1747180800</id>
+    <title>https://github.com/langgenius/dify-sandbox</title>
+    <link href="https://github.com/langgenius/dify-sandbox" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">A lightweight, fast, and secure code execution environment that supports multiple programming languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1747180800</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1747180800</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencontainers/image-spec#1747180800</id>
+    <title>https://github.com/opencontainers/image-spec</title>
+    <link href="https://github.com/opencontainers/image-spec" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">OCI Image Format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qax-os/excelize#1747180800</id>
+    <title>https://github.com/qax-os/excelize</title>
+    <link href="https://github.com/qax-os/excelize" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rook/rook#1747180800</id>
+    <title>https://github.com/rook/rook</title>
+    <link href="https://github.com/rook/rook" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Storage Orchestration for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1747180800</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmc/langchaingo#1747180800</id>
+    <title>https://github.com/tmc/langchaingo</title>
+    <link href="https://github.com/tmc/langchaingo" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">LangChain for Go, the easiest way to write LLM-based programs in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/fx#1747180800</id>
+    <title>https://github.com/uber-go/fx</title>
+    <link href="https://github.com/uber-go/fx" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">A dependency injection based application framework for Go.</content>
+  </entry>
+</feed>

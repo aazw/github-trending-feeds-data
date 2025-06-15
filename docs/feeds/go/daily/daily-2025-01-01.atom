@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-01T11:13:50+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1735730030</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thanos-io/thanos#1735730030</id>
+    <title>https://github.com/thanos-io/thanos</title>
+    <link href="https://github.com/thanos-io/thanos" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1735730030</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1735730030</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1735730030</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vmware-tanzu/velero#1735730030</id>
+    <title>https://github.com/vmware-tanzu/velero</title>
+    <link href="https://github.com/vmware-tanzu/velero" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Backup and migrate Kubernetes applications and their persistent volumes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-jwt/jwt#1735730030</id>
+    <title>https://github.com/golang-jwt/jwt</title>
+    <link href="https://github.com/golang-jwt/jwt" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Go implementation of JSON Web Tokens (JWT).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/onsi/ginkgo#1735730030</id>
+    <title>https://github.com/onsi/ginkgo</title>
+    <link href="https://github.com/onsi/ginkgo" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">A Modern Testing Framework for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1735730030</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1735730030</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/nerdctl#1735730030</id>
+    <title>https://github.com/containerd/nerdctl</title>
+    <link href="https://github.com/containerd/nerdctl" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1735730030</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XIU2/CloudflareSpeedTest#1735730030</id>
+    <title>https://github.com/XIU2/CloudflareSpeedTest</title>
+    <link href="https://github.com/XIU2/CloudflareSpeedTest" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lima-vm/lima#1735730030</id>
+    <title>https://github.com/lima-vm/lima</title>
+    <link href="https://github.com/lima-vm/lima" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Linux virtual machines, with a focus on running containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencontainers/runc#1735730030</id>
+    <title>https://github.com/opencontainers/runc</title>
+    <link href="https://github.com/opencontainers/runc" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">CLI tool for spawning and running containers according to the OCI specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/loki#1735730030</id>
+    <title>https://github.com/grafana/loki</title>
+    <link href="https://github.com/grafana/loki" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Like Prometheus, but for logs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gost/gost#1735730030</id>
+    <title>https://github.com/go-gost/gost</title>
+    <link href="https://github.com/go-gost/gost" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">GO Simple Tunnel - a simple tunnel written in golang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1735730030</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ginuerzh/gost#1735730030</id>
+    <title>https://github.com/ginuerzh/gost</title>
+    <link href="https://github.com/ginuerzh/gost" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">GO Simple Tunnel - a simple tunnel written in golang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livekit/livekit#1735730030</id>
+    <title>https://github.com/livekit/livekit</title>
+    <link href="https://github.com/livekit/livekit" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">End-to-end stack for WebRTC. SFU media server and SDKs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ccfos/nightingale#1735730030</id>
+    <title>https://github.com/ccfos/nightingale</title>
+    <link href="https://github.com/ccfos/nightingale" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oapi-codegen/oapi-codegen#1735730030</id>
+    <title>https://github.com/oapi-codegen/oapi-codegen</title>
+    <link href="https://github.com/oapi-codegen/oapi-codegen" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Generate Go client and server boilerplate from OpenAPI 3 specifications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/go-github#1735730030</id>
+    <title>https://github.com/google/go-github</title>
+    <link href="https://github.com/google/go-github" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Go library for accessing the GitHub v3 API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1735730030</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-01T11:13:50+00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</content>
+  </entry>
+</feed>

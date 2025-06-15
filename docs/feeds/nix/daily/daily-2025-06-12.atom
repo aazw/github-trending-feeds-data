@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</id>
+  <title>GitHub Trending - nix (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Frost-Phoenix/nixos-config#1749686400</id>
+    <title>https://github.com/Frost-Phoenix/nixos-config</title>
+    <link href="https://github.com/Frost-Phoenix/nixos-config" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">❄️ NixOs / Hyprland rice with Home-Manager ❄️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Gaming-Linux-FR/GLF-OS#1749686400</id>
+    <title>https://github.com/Gaming-Linux-FR/GLF-OS</title>
+    <link href="https://github.com/Gaming-Linux-FR/GLF-OS" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1749686400</id>
+    <title>https://github.com/NixOS/nixpkgs</title>
+    <link href="https://github.com/NixOS/nixpkgs" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Nix Packages collection &amp; NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NotAShelf/nvf#1749686400</id>
+    <title>https://github.com/NotAShelf/nvf</title>
+    <link href="https://github.com/NotAShelf/nvf" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cachix/devenv#1749686400</id>
+    <title>https://github.com/cachix/devenv</title>
+    <link href="https://github.com/cachix/devenv" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments using Nix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gmodena/nix-flatpak#1749686400</id>
+    <title>https://github.com/gmodena/nix-flatpak</title>
+    <link href="https://github.com/gmodena/nix-flatpak" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Install flatpaks declaratively</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3d3/claude-desktop-linux-flake#1749686400</id>
+    <title>https://github.com/k3d3/claude-desktop-linux-flake</title>
+    <link href="https://github.com/k3d3/claude-desktop-linux-flake" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Nix Flake for Claude Desktop on Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/NixOS-WSL#1749686400</id>
+    <title>https://github.com/nix-community/NixOS-WSL</title>
+    <link href="https://github.com/nix-community/NixOS-WSL" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">NixOS on WSL [maintainer=@nzbr]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/disko#1749686400</id>
+    <title>https://github.com/nix-community/disko</title>
+    <link href="https://github.com/nix-community/disko" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/emacs-overlay#1749686400</id>
+    <title>https://github.com/nix-community/emacs-overlay</title>
+    <link href="https://github.com/nix-community/emacs-overlay" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Bleeding edge emacs overlay [maintainer=@adisbladis]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/home-manager#1749686400</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nix-on-droid#1749686400</id>
+    <title>https://github.com/nix-community/nix-on-droid</title>
+    <link href="https://github.com/nix-community/nix-on-droid" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nixvim#1749686400</id>
+    <title>https://github.com/nix-community/nixvim</title>
+    <link href="https://github.com/nix-community/nixvim" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/stylix#1749686400</id>
+    <title>https://github.com/nix-community/stylix</title>
+    <link href="https://github.com/nix-community/stylix" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]</content>
+  </entry>
+</feed>

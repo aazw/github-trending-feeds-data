@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/KindleModding/WinterBreak#1745798400</id>
+    <title>https://github.com/KindleModding/WinterBreak</title>
+    <link href="https://github.com/KindleModding/WinterBreak" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">It do a thing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/tmux#1745798400</id>
+    <title>https://github.com/catppuccin/tmux</title>
+    <link href="https://github.com/catppuccin/tmux" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">💽 Soothing pastel theme for Tmux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dockur/windows#1745798400</id>
+    <title>https://github.com/dockur/windows</title>
+    <link href="https://github.com/dockur/windows" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Windows inside a Docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dylanaraps/neofetch#1745798400</id>
+    <title>https://github.com/dylanaraps/neofetch</title>
+    <link href="https://github.com/dylanaraps/neofetch" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">🖼️ A command-line system information tool written in bash 3.2+</content>
+  </entry>
+  <entry>
+    <id>https://github.com/home-assistant/brands#1745798400</id>
+    <title>https://github.com/home-assistant/brands</title>
+    <link href="https://github.com/home-assistant/brands" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">🎨 Brands for Home Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itzg/docker-minecraft-server#1745798400</id>
+    <title>https://github.com/itzg/docker-minecraft-server</title>
+    <link href="https://github.com/itzg/docker-minecraft-server" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kiddin9/Kwrt#1745798400</id>
+    <title>https://github.com/kiddin9/Kwrt</title>
+    <link href="https://github.com/kiddin9/Kwrt" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P, 树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linux-surface/linux-surface#1745798400</id>
+    <title>https://github.com/linux-surface/linux-surface</title>
+    <link href="https://github.com/linux-surface/linux-surface" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Linux Kernel for Surface Devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mylinuxforwork/dotfiles#1745798400</id>
+    <title>https://github.com/mylinuxforwork/dotfiles</title>
+    <link href="https://github.com/mylinuxforwork/dotfiles" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mylinuxforwork/hyprland-starter#1745798400</id>
+    <title>https://github.com/mylinuxforwork/hyprland-starter</title>
+    <link href="https://github.com/mylinuxforwork/hyprland-starter" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">The ML4W Hyprland Starter - The perfect starting point for your Hyprland experiments. Easy to install, simple to configure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1745798400</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ophub/amlogic-s9xxx-openwrt#1745798400</id>
+    <title>https://github.com/ophub/amlogic-s9xxx-openwrt</title>
+    <link href="https://github.com/ophub/amlogic-s9xxx-openwrt" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pi-hole/pi-hole#1745798400</id>
+    <title>https://github.com/pi-hole/pi-hole</title>
+    <link href="https://github.com/pi-hole/pi-hole" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A black hole for Internet advertisements</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prasanthrangan/hyprdots#1745798400</id>
+    <title>https://github.com/prasanthrangan/hyprdots</title>
+    <link href="https://github.com/prasanthrangan/hyprdots" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">// Aesthetic, dynamic and minimal dots for Arch hyprland</content>
+  </entry>
+  <entry>
+    <id>https://github.com/termux/termux-packages#1745798400</id>
+    <title>https://github.com/termux/termux-packages</title>
+    <link href="https://github.com/termux/termux-packages" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A package build system for Termux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ublue-os/bazzite#1745798400</id>
+    <title>https://github.com/ublue-os/bazzite</title>
+    <link href="https://github.com/ublue-os/bazzite" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Bazzite makes gaming and everyday use smoother and simpler across desktop PCs, handhelds, tablets, and home theater PCs.</content>
+  </entry>
+</feed>

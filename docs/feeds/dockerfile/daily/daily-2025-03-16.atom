@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-16T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AsahiLinux/docs#1742083200</id>
+    <title>https://github.com/AsahiLinux/docs</title>
+    <link href="https://github.com/AsahiLinux/docs" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Asahi Linux documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Hacking-the-Cloud/hackingthe.cloud#1742083200</id>
+    <title>https://github.com/Hacking-the-Cloud/hackingthe.cloud</title>
+    <link href="https://github.com/Hacking-the-Cloud/hackingthe.cloud" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">An encyclopedia for offensive and defensive security knowledge in cloud native technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware#1742083200</id>
+    <title>https://github.com/autowarefoundation/autoware</title>
+    <link href="https://github.com/autowarefoundation/autoware" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Autoware - the world's leading open-source software project for autonomous driving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/sagemaker-distribution#1742083200</id>
+    <title>https://github.com/aws/sagemaker-distribution</title>
+    <link href="https://github.com/aws/sagemaker-distribution" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">A set of Docker images that include popular frameworks for machine learning, data science and visualization.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coollabsio/documentation-coolify#1742083200</id>
+    <title>https://github.com/coollabsio/documentation-coolify</title>
+    <link href="https://github.com/coollabsio/documentation-coolify" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Documentation for Coolify</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-docker#1742083200</id>
+    <title>https://github.com/dotnet/dotnet-docker</title>
+    <link href="https://github.com/dotnet/dotnet-docker" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Official container images for .NET</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dunglas/symfony-docker#1742083200</id>
+    <title>https://github.com/dunglas/symfony-docker</title>
+    <link href="https://github.com/dunglas/symfony-docker" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/exaco/laravel-octane-dockerfile#1742083200</id>
+    <title>https://github.com/exaco/laravel-octane-dockerfile</title>
+    <link href="https://github.com/exaco/laravel-octane-dockerfile" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Production-ready Docker setup for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1742083200</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/contributor-playground#1742083200</id>
+    <title>https://github.com/kubernetes-sigs/contributor-playground</title>
+    <link href="https://github.com/kubernetes-sigs/contributor-playground" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-swag#1742083200</id>
+    <title>https://github.com/linuxserver/docker-swag</title>
+    <link href="https://github.com/linuxserver/docker-swag" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1742083200</id>
+    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
+    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openresty/docker-openresty#1742083200</id>
+    <title>https://github.com/openresty/docker-openresty</title>
+    <link href="https://github.com/openresty/docker-openresty" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Docker tooling for OpenResty</content>
+  </entry>
+  <entry>
+    <id>https://github.com/osrf/docker_images#1742083200</id>
+    <title>https://github.com/osrf/docker_images</title>
+    <link href="https://github.com/osrf/docker_images" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">A repository to hold definitions of docker images maintained by OSRF</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxsecurity/megalinter#1742083200</id>
+    <title>https://github.com/oxsecurity/megalinter</title>
+    <link href="https://github.com/oxsecurity/megalinter" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</content>
+  </entry>
+</feed>

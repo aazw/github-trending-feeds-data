@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FreeRTOS/FreeRTOS-Kernel#1744416000</id>
+    <title>https://github.com/FreeRTOS/FreeRTOS-Kernel</title>
+    <link href="https://github.com/FreeRTOS/FreeRTOS-Kernel" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GuijiAI/HeyGem.ai#1744416000</id>
+    <title>https://github.com/GuijiAI/HeyGem.ai</title>
+    <link href="https://github.com/GuijiAI/HeyGem.ai" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/OpenCPN/OpenCPN#1744416000</id>
+    <title>https://github.com/OpenCPN/OpenCPN</title>
+    <link href="https://github.com/OpenCPN/OpenCPN" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/axboe/liburing#1744416000</id>
+    <title>https://github.com/axboe/liburing</title>
+    <link href="https://github.com/axboe/liburing" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Library providing helpers for the Linux kernel io_uring support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/betaflight/betaflight#1744416000</id>
+    <title>https://github.com/betaflight/betaflight</title>
+    <link href="https://github.com/betaflight/betaflight" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Open Source Flight Controller Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/confluentinc/librdkafka#1744416000</id>
+    <title>https://github.com/confluentinc/librdkafka</title>
+    <link href="https://github.com/confluentinc/librdkafka" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">The Apache Kafka C/C++ library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-sr#1744416000</id>
+    <title>https://github.com/espressif/esp-sr</title>
+    <link href="https://github.com/espressif/esp-sr" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Speech recognition</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flipperdevices/flipperzero-firmware#1744416000</id>
+    <title>https://github.com/flipperdevices/flipperzero-firmware</title>
+    <link href="https://github.com/flipperdevices/flipperzero-firmware" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Flipper Zero firmware source code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluent-bit#1744416000</id>
+    <title>https://github.com/fluent/fluent-bit</title>
+    <link href="https://github.com/fluent/fluent-bit" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/git/git#1744416000</id>
+    <title>https://github.com/git/git</title>
+    <link href="https://github.com/git/git" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haproxy/haproxy#1744416000</id>
+    <title>https://github.com/haproxy/haproxy</title>
+    <link href="https://github.com/haproxy/haproxy" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">HAProxy Load Balancer's development branch (mirror of git.haproxy.org)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/htop-dev/htop#1744416000</id>
+    <title>https://github.com/htop-dev/htop</title>
+    <link href="https://github.com/htop-dev/htop" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">htop - an interactive process viewer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kingToolbox/WindTerm#1744416000</id>
+    <title>https://github.com/kingToolbox/WindTerm</title>
+    <link href="https://github.com/kingToolbox/WindTerm" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">A professional cross-platform SSH/Sftp/Shell/Telnet/Tmux/Serial terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nanopb/nanopb#1744416000</id>
+    <title>https://github.com/nanopb/nanopb</title>
+    <link href="https://github.com/nanopb/nanopb" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Protocol Buffers with small code size</content>
+  </entry>
+  <entry>
+    <id>https://github.com/olikraus/u8g2#1744416000</id>
+    <title>https://github.com/olikraus/u8g2</title>
+    <link href="https://github.com/olikraus/u8g2" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">U8glib library for monochrome displays, version 2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-quantum-safe/liboqs#1744416000</id>
+    <title>https://github.com/open-quantum-safe/liboqs</title>
+    <link href="https://github.com/open-quantum-safe/liboqs" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">C library for prototyping and experimenting with quantum-resistant cryptography</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openssl/openssl#1744416000</id>
+    <title>https://github.com/openssl/openssl</title>
+    <link href="https://github.com/openssl/openssl" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">TLS/SSL and crypto library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openzfs/zfs#1744416000</id>
+    <title>https://github.com/openzfs/zfs</title>
+    <link href="https://github.com/openzfs/zfs" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">OpenZFS on Linux and FreeBSD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqlcipher/sqlcipher#1744416000</id>
+    <title>https://github.com/sqlcipher/sqlcipher</title>
+    <link href="https://github.com/sqlcipher/sqlcipher" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/taosdata/TDengine#1744416000</id>
+    <title>https://github.com/taosdata/TDengine</title>
+    <link href="https://github.com/taosdata/TDengine" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vedderb/bldc#1744416000</id>
+    <title>https://github.com/vedderb/bldc</title>
+    <link href="https://github.com/vedderb/bldc" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">The VESC motor control firmware</content>
+  </entry>
+</feed>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BlakeWilliams/Elixir-Slack#1737849600</id>
+    <title>https://github.com/BlakeWilliams/Elixir-Slack</title>
+    <link href="https://github.com/BlakeWilliams/Elixir-Slack" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Slack real time messaging and web API client in Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akira/exq_ui#1737849600</id>
+    <title>https://github.com/akira/exq_ui</title>
+    <link href="https://github.com/akira/exq_ui" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">UI Dashboard for Exq, a job processing library for Elixir. Exq UI provides the UI dashboard to display stats on job processing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash_phoenix#1737849600</id>
+    <title>https://github.com/ash-project/ash_phoenix</title>
+    <link href="https://github.com/ash-project/ash_phoenix" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Utilities for integrating Ash and Phoenix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/igniter#1737849600</id>
+    <title>https://github.com/ash-project/igniter</title>
+    <link href="https://github.com/ash-project/igniter" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A code generation and project patching framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1737849600</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluzky/salad_ui#1737849600</id>
+    <title>https://github.com/bluzky/salad_ui</title>
+    <link href="https://github.com/bluzky/salad_ui" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Phoenix Liveview component library inspired by shadcn UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brainlid/langchain#1737849600</id>
+    <title>https://github.com/brainlid/langchain</title>
+    <link href="https://github.com/brainlid/langchain" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/commanded/eventstore#1737849600</id>
+    <title>https://github.com/commanded/eventstore</title>
+    <link href="https://github.com/commanded/eventstore" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Event store using PostgreSQL for persistence</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1737849600</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fly-apps/live_beats#1737849600</id>
+    <title>https://github.com/fly-apps/live_beats</title>
+    <link href="https://github.com/fly-apps/live_beats" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/germsvel/phoenix_test#1737849600</id>
+    <title>https://github.com/germsvel/phoenix_test</title>
+    <link href="https://github.com/germsvel/phoenix_test" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">PhoenixTest provides a unified way of writing feature tests -- regardless of whether you're testing LiveView pages or static (non-LiveView) pages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1737849600</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lexical-lsp/lexical#1737849600</id>
+    <title>https://github.com/lexical-lsp/lexical</title>
+    <link href="https://github.com/lexical-lsp/lexical" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Lexical is a next-generation elixir language server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1737849600</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/naymspace/backpex#1737849600</id>
+    <title>https://github.com/naymspace/backpex</title>
+    <link href="https://github.com/naymspace/backpex" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Backpex is a highly customizable administration panel for Phoenix LiveView applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pentacent/keila#1737849600</id>
+    <title>https://github.com/pentacent/keila</title>
+    <link href="https://github.com/pentacent/keila" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Open Source Newsletter Tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1737849600</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+</feed>

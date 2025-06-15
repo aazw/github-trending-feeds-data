@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine#1739059200</id>
+    <title>https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine</title>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform AVM module for virtual machines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1739059200</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1739059200</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binbashar/le-tf-infra-aws#1739059200</id>
+    <title>https://github.com/binbashar/le-tf-infra-aws</title>
+    <link href="https://github.com/binbashar/le-tf-infra-aws" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform code for Leverage Reference Architecture for AWS, designed under optimal configs for the most popular modern web and mobile applications needs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-alb#1739059200</id>
+    <title>https://github.com/cloudposse/terraform-aws-alb</title>
+    <link href="https://github.com/cloudposse/terraform-aws-alb" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform module to provision a standard ALB for HTTP/HTTP traffic</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ec2-autoscale-group#1739059200</id>
+    <title>https://github.com/cloudposse/terraform-aws-ec2-autoscale-group</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-autoscale-group" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform module to provision Auto Scaling Group and Launch Template on AWS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task#1739059200</id>
+    <title>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-alb-service-task" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform module which implements an ECS service which exposes a web service via ALB.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-efs#1739059200</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1739059200</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster#1739059200</id>
+    <title>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform module to provision AWS MSK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-sso#1739059200</id>
+    <title>https://github.com/cloudposse/terraform-aws-sso</title>
+    <link href="https://github.com/cloudposse/terraform-aws-sso" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform module to configure AWS Single Sign-On (SSO)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1739059200</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-datadog-platform#1739059200</id>
+    <title>https://github.com/cloudposse/terraform-datadog-platform</title>
+    <link href="https://github.com/cloudposse/terraform-datadog-platform" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML configuration, complete with automated tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1739059200</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-event-function#1739059200</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-event-function</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-event-function" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Responds to logging events with a Cloud Function</content>
+  </entry>
+</feed>

@@ -1,0 +1,186 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-28T11:26:06+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1735385166</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1735385166</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/arrow-rs#1735385166</id>
+    <title>https://github.com/apache/arrow-rs</title>
+    <link href="https://github.com/apache/arrow-rs" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Official Rust implementation of Apache Arrow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1735385166</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/serde-rs/json#1735385166</id>
+    <title>https://github.com/serde-rs/json</title>
+    <link href="https://github.com/serde-rs/json" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Strongly typed JSON library for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/windows-rs#1735385166</id>
+    <title>https://github.com/microsoft/windows-rs</title>
+    <link href="https://github.com/microsoft/windows-rs" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Rust for Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/mini-redis#1735385166</id>
+    <title>https://github.com/tokio-rs/mini-redis</title>
+    <link href="https://github.com/tokio-rs/mini-redis" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Incomplete Redis client and server implementation using Tokio - for learning purposes only</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1735385166</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1735385166</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1735385166</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1735385166</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-rust#1735385166</id>
+    <title>https://github.com/open-telemetry/opentelemetry-rust</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-rust" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">The Rust OpenTelemetry implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Snowiiii/Pumpkin#1735385166</id>
+    <title>https://github.com/Snowiiii/Pumpkin</title>
+    <link href="https://github.com/Snowiiii/Pumpkin" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Empowering everyone to host fast and efficient Minecraft servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wez/wezterm#1735385166</id>
+    <title>https://github.com/wez/wezterm</title>
+    <link href="https://github.com/wez/wezterm" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atuinsh/atuin#1735385166</id>
+    <title>https://github.com/atuinsh/atuin</title>
+    <link href="https://github.com/atuinsh/atuin" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">✨ Magical shell history</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1735385166</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eythaann/Seelen-UI#1735385166</id>
+    <title>https://github.com/eythaann/Seelen-UI</title>
+    <link href="https://github.com/eythaann/Seelen-UI" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">The Fully Customizable Desktop Environment for Windows 10/11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/serde-rs/serde#1735385166</id>
+    <title>https://github.com/serde-rs/serde</title>
+    <link href="https://github.com/serde-rs/serde" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Serialization framework for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1735385166</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AppFlowy-IO/AppFlowy-Cloud#1735385166</id>
+    <title>https://github.com/AppFlowy-IO/AppFlowy-Cloud</title>
+    <link href="https://github.com/AppFlowy-IO/AppFlowy-Cloud" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1735385166</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/risingwavelabs/risingwave#1735385166</id>
+    <title>https://github.com/risingwavelabs/risingwave</title>
+    <link href="https://github.com/risingwavelabs/risingwave" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch. PostgreSQL compatible.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Y2Z/monolith#1735385166</id>
+    <title>https://github.com/Y2Z/monolith</title>
+    <link href="https://github.com/Y2Z/monolith" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">⬛️ CLI tool for saving complete web pages as a single HTML file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1735385166</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1735385166</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2024-12-28T11:26:06+00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+</feed>

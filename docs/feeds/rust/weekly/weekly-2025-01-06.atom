@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T12:28:42+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/quickwit-oss/tantivy#1736166522</id>
+    <title>https://github.com/quickwit-oss/tantivy</title>
+    <link href="https://github.com/quickwit-oss/tantivy" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RustPython/RustPython#1736166522</id>
+    <title>https://github.com/RustPython/RustPython</title>
+    <link href="https://github.com/RustPython/RustPython" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">A Python Interpreter written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/katanemo/archgw#1736166522</id>
+    <title>https://github.com/katanemo/archgw</title>
+    <link href="https://github.com/katanemo/archgw" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">Arch is an intelligent gateway for agents. Engineered with (fast) LLMs for the secure handling, rich observability, and seamless integration of user prompts with your APIs - outside business logic. Built by the core contributors of Envoy proxy, on Envoy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1736166522</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getzola/zola#1736166522</id>
+    <title>https://github.com/getzola/zola</title>
+    <link href="https://github.com/getzola/zola" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">A fast static site generator in a single binary with everything built-in. https://www.getzola.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1736166522</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RustScan/RustScan#1736166522</id>
+    <title>https://github.com/RustScan/RustScan</title>
+    <link href="https://github.com/RustScan/RustScan" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">🤖 The Modern Port Scanner 🤖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheAlgorithms/Rust#1736166522</id>
+    <title>https://github.com/TheAlgorithms/Rust</title>
+    <link href="https://github.com/TheAlgorithms/Rust" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">All Algorithms implemented in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1736166522</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vosen/ZLUDA#1736166522</id>
+    <title>https://github.com/vosen/ZLUDA</title>
+    <link href="https://github.com/vosen/ZLUDA" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">CUDA on non-NVIDIA GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Y2Z/monolith#1736166522</id>
+    <title>https://github.com/Y2Z/monolith</title>
+    <link href="https://github.com/Y2Z/monolith" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">⬛️ CLI tool for saving complete web pages as a single HTML file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tokio#1736166522</id>
+    <title>https://github.com/tokio-rs/tokio</title>
+    <link href="https://github.com/tokio-rs/tokio" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eza-community/eza#1736166522</id>
+    <title>https://github.com/eza-community/eza</title>
+    <link href="https://github.com/eza-community/eza" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">A modern alternative to ls</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/candle#1736166522</id>
+    <title>https://github.com/huggingface/candle</title>
+    <link href="https://github.com/huggingface/candle" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">Minimalist ML framework for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iced-rs/iced#1736166522</id>
+    <title>https://github.com/iced-rs/iced</title>
+    <link href="https://github.com/iced-rs/iced" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">A cross-platform GUI library for Rust, inspired by Elm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1736166522</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ajeetdsouza/zoxide#1736166522</id>
+    <title>https://github.com/ajeetdsouza/zoxide</title>
+    <link href="https://github.com/ajeetdsouza/zoxide" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">A smarter cd command. Supports all major shells.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/quiche#1736166522</id>
+    <title>https://github.com/cloudflare/quiche</title>
+    <link href="https://github.com/cloudflare/quiche" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1736166522</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Automattic/harper#1736166522</id>
+    <title>https://github.com/Automattic/harper</title>
+    <link href="https://github.com/Automattic/harper" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">The Grammar Checker for Developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spaceandtimelabs/sxt-proof-of-sql#1736166522</id>
+    <title>https://github.com/spaceandtimelabs/sxt-proof-of-sql</title>
+    <link href="https://github.com/spaceandtimelabs/sxt-proof-of-sql" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">Space and Time | Proof of SQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wez/wezterm#1736166522</id>
+    <title>https://github.com/wez/wezterm</title>
+    <link href="https://github.com/wez/wezterm" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loco-rs/loco#1736166522</id>
+    <title>https://github.com/loco-rs/loco</title>
+    <link href="https://github.com/loco-rs/loco" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">🚂 🦀 The one-person framework for Rust for side-projects and startups</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fish-shell/fish-shell#1736166522</id>
+    <title>https://github.com/fish-shell/fish-shell</title>
+    <link href="https://github.com/fish-shell/fish-shell" />
+    <updated>2025-01-06T12:28:42+00:00</updated>
+    <content type="text">The user-friendly command line shell.</content>
+  </entry>
+</feed>

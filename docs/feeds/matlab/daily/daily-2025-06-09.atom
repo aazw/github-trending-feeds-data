@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom</id>
+  <title>GitHub Trending - matlab (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CERN/TIGRE#1749427200</id>
+    <title>https://github.com/CERN/TIGRE</title>
+    <link href="https://github.com/CERN/TIGRE" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MicrosoftDocs/powerquery-docs#1749427200</id>
+    <title>https://github.com/MicrosoftDocs/powerquery-docs</title>
+    <link href="https://github.com/MicrosoftDocs/powerquery-docs" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Public repository for Microsoft Power Query documentation. All content in this repository is published to learn.microsoft.com.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulseq/pulseq#1749427200</id>
+    <title>https://github.com/pulseq/pulseq</title>
+    <link href="https://github.com/pulseq/pulseq" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Open source framework for pulse sequences</content>
+  </entry>
+</feed>

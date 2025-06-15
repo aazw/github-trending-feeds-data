@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom</id>
+  <title>GitHub Trending - ocaml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/bcpierce00/unison#1737936000</id>
+    <title>https://github.com/bcpierce00/unison</title>
+    <link href="https://github.com/bcpierce00/unison" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Unison file synchronizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chshersh/github-tui#1737936000</id>
+    <title>https://github.com/chshersh/github-tui</title>
+    <link href="https://github.com/chshersh/github-tui" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">🌒 A TUI for GitHub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cryspen/hax#1737936000</id>
+    <title>https://github.com/cryspen/hax</title>
+    <link href="https://github.com/cryspen/hax" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A Rust verification tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/infer#1737936000</id>
+    <title>https://github.com/facebook/infer</title>
+    <link href="https://github.com/facebook/infer" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A static analyzer for Java, C, C++, and Objective-C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocaml/flexdll#1737936000</id>
+    <title>https://github.com/ocaml/flexdll</title>
+    <link href="https://github.com/ocaml/flexdll" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">a dlopen-like API for Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/semgrep#1737936000</id>
+    <title>https://github.com/semgrep/semgrep</title>
+    <link href="https://github.com/semgrep/semgrep" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</content>
+  </entry>
+</feed>

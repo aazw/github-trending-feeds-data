@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xJacky/nginx-ui#1746403200</id>
+    <title>https://github.com/0xJacky/nginx-ui</title>
+    <link href="https://github.com/0xJacky/nginx-ui" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Yet another WebUI for Nginx</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1746403200</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AlexxIT/go2rtc#1746403200</id>
+    <title>https://github.com/AlexxIT/go2rtc</title>
+    <link href="https://github.com/AlexxIT/go2rtc" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/kubectl-ai#1746403200</id>
+    <title>https://github.com/GoogleCloudPlatform/kubectl-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/kubectl-ai" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">AI powered Kubernetes Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IceWhaleTech/CasaOS#1746403200</id>
+    <title>https://github.com/IceWhaleTech/CasaOS</title>
+    <link href="https://github.com/IceWhaleTech/CasaOS" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Netflix/chaosmonkey#1746403200</id>
+    <title>https://github.com/Netflix/chaosmonkey</title>
+    <link href="https://github.com/Netflix/chaosmonkey" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1746403200</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/authelia/authelia#1746403200</id>
+    <title>https://github.com/authelia/authelia</title>
+    <link href="https://github.com/authelia/authelia" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">The Single Sign-On Multi-Factor portal for web apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crossplane/crossplane#1746403200</id>
+    <title>https://github.com/crossplane/crossplane</title>
+    <link href="https://github.com/crossplane/crossplane" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">The Cloud Native Control Plane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1746403200</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1746403200</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juanfont/headscale#1746403200</id>
+    <title>https://github.com/juanfont/headscale</title>
+    <link href="https://github.com/juanfont/headscale" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">An open source, self-hosted implementation of the Tailscale control server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1746403200</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openp2p-cn/openp2p#1746403200</id>
+    <title>https://github.com/openp2p-cn/openp2p</title>
+    <link href="https://github.com/openp2p-cn/openp2p" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">OpenP2P is a lightweight P2P sharing network. Support Cone,Symmetric(NAT1-NAT4),UPNP,IPv6,both UDP&amp;TCP punch. NAT travelsal, sdwan.(P2P内网穿透，组网，联机)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/owncast/owncast#1746403200</id>
+    <title>https://github.com/owncast/owncast</title>
+    <link href="https://github.com/owncast/owncast" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Take control over your live stream video by running it yourself. Streaming + chat out of the box.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/photoprism/photoprism#1746403200</id>
+    <title>https://github.com/photoprism/photoprism</title>
+    <link href="https://github.com/photoprism/photoprism" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">AI-Powered Photos App for the Decentralized Web 🌈💎✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sozercan/kubectl-ai#1746403200</id>
+    <title>https://github.com/sozercan/kubectl-ai</title>
+    <link href="https://github.com/sozercan/kubectl-ai" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">✨ Kubectl plugin to create manifests with LLMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sysadminsmedia/homebox#1746403200</id>
+    <title>https://github.com/sysadminsmedia/homebox</title>
+    <link href="https://github.com/sysadminsmedia/homebox" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A continuation of HomeBox the inventory and organization system built for the Home User</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailscale/tailscale#1746403200</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmrts/go-patterns#1746403200</id>
+    <title>https://github.com/tmrts/go-patterns</title>
+    <link href="https://github.com/tmrts/go-patterns" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Curated list of Go design patterns, recipes and idioms</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zyedidia/micro#1746403200</id>
+    <title>https://github.com/zyedidia/micro</title>
+    <link href="https://github.com/zyedidia/micro" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A modern and intuitive terminal-based text editor</content>
+  </entry>
+</feed>

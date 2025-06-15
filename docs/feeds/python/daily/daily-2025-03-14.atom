@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AgentOps-AI/agentops#1741910400</id>
+    <title>https://github.com/AgentOps-AI/agentops</title>
+    <link href="https://github.com/AgentOps-AI/agentops" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BerriAI/litellm#1741910400</id>
+    <title>https://github.com/BerriAI/litellm</title>
+    <link href="https://github.com/BerriAI/litellm" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VikParuchuri/surya#1741910400</id>
+    <title>https://github.com/VikParuchuri/surya</title>
+    <link href="https://github.com/VikParuchuri/surya" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">OCR, layout analysis, reading order, table recognition in 90+ languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-samples/bedrock-access-gateway#1741910400</id>
+    <title>https://github.com/aws-samples/bedrock-access-gateway</title>
+    <link href="https://github.com/aws-samples/bedrock-access-gateway" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">OpenAI-Compatible RESTful APIs for Amazon Bedrock</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eosphoros-ai/DB-GPT#1741910400</id>
+    <title>https://github.com/eosphoros-ai/DB-GPT</title>
+    <link href="https://github.com/eosphoros-ai/DB-GPT" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hpcaitech/Open-Sora#1741910400</id>
+    <title>https://github.com/hpcaitech/Open-Sora</title>
+    <link href="https://github.com/hpcaitech/Open-Sora" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">Open-Sora: Democratizing Efficient Video Production for All</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/lerobot#1741910400</id>
+    <title>https://github.com/huggingface/lerobot</title>
+    <link href="https://github.com/huggingface/lerobot" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/RD-Agent#1741910400</id>
+    <title>https://github.com/microsoft/RD-Agent</title>
+    <link href="https://github.com/microsoft/RD-Agent" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are committed to automating these high-value generic R&amp;D processes through our open source R&amp;D automation tool RD-Agent, which lets AI drive data-driven AI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-python#1741910400</id>
+    <title>https://github.com/openai/openai-python</title>
+    <link href="https://github.com/openai/openai-python" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">The official Python library for the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/public-apis/public-apis#1741910400</id>
+    <title>https://github.com/public-apis/public-apis</title>
+    <link href="https://github.com/public-apis/public-apis" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">A collective list of free APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simular-ai/Agent-S#1741910400</id>
+    <title>https://github.com/simular-ai/Agent-S</title>
+    <link href="https://github.com/simular-ai/Agent-S" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">Agent S: an open agentic framework that uses computers like a human</content>
+  </entry>
+</feed>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Freika/dawarich#1741564800</id>
+    <title>https://github.com/Freika/dawarich</title>
+    <link href="https://github.com/Freika/dawarich" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Self-hostable alternative to Google Location History (Google Maps Timeline)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-cask#1741564800</id>
+    <title>https://github.com/Homebrew/homebrew-cask</title>
+    <link href="https://github.com/Homebrew/homebrew-cask" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🍻 A CLI workflow for the administration of macOS applications distributed as binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-core#1741564800</id>
+    <title>https://github.com/Homebrew/homebrew-core</title>
+    <link href="https://github.com/Homebrew/homebrew-core" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🍻 Default formulae for the missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/kamal#1741564800</id>
+    <title>https://github.com/basecamp/kamal</title>
+    <link href="https://github.com/basecamp/kamal" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Deploy web apps anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chatwoot/chatwoot#1741564800</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dependabot/dependabot-core#1741564800</id>
+    <title>https://github.com/dependabot/dependabot-core</title>
+    <link href="https://github.com/dependabot/dependabot-core" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🤖 Dependabot's core logic for creating update PRs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluentd#1741564800</id>
+    <title>https://github.com/fluent/fluentd</title>
+    <link href="https://github.com/fluent/fluentd" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Fluentd: Unified Logging Layer (project under CNCF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vagrant#1741564800</id>
+    <title>https://github.com/hashicorp/vagrant</title>
+    <link href="https://github.com/hashicorp/vagrant" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Vagrant is a tool for building and distributing development environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heartcombo/devise#1741564800</id>
+    <title>https://github.com/heartcombo/devise</title>
+    <link href="https://github.com/heartcombo/devise" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Flexible authentication solution for Rails with Warden.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mastodon/mastodon#1741564800</id>
+    <title>https://github.com/mastodon/mastodon</title>
+    <link href="https://github.com/mastodon/mastodon" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Your self-hosted, globally interconnected microblogging community</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1741564800</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby#1741564800</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spree/spree#1741564800</id>
+    <title>https://github.com/spree/spree</title>
+    <link href="https://github.com/spree/spree" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
+  </entry>
+</feed>

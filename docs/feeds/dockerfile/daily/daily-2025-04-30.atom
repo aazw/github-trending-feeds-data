@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AsahiLinux/docs#1745971200</id>
+    <title>https://github.com/AsahiLinux/docs</title>
+    <link href="https://github.com/AsahiLinux/docs" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Asahi Linux documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1745971200</id>
+    <title>https://github.com/OWASP/wstg</title>
+    <link href="https://github.com/OWASP/wstg" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/sagemaker-distribution#1745971200</id>
+    <title>https://github.com/aws/sagemaker-distribution</title>
+    <link href="https://github.com/aws/sagemaker-distribution" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">A set of Docker images that include popular frameworks for machine learning, data science and visualization.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haxqer/confluence#1745971200</id>
+    <title>https://github.com/haxqer/confluence</title>
+    <link href="https://github.com/haxqer/confluence" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">The simplest docker file of Confluence. Support v8.9.8(latest) v9.2.1(latest) and v8.5.19(lts)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iv-org/documentation#1745971200</id>
+    <title>https://github.com/iv-org/documentation</title>
+    <link href="https://github.com/iv-org/documentation" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">The official Invidious documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1745971200</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mssql-docker#1745971200</id>
+    <title>https://github.com/microsoft/mssql-docker</title>
+    <link href="https://github.com/microsoft/mssql-docker" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Official Microsoft repository for SQL Server in Docker resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/odoo/docker#1745971200</id>
+    <title>https://github.com/odoo/docker</title>
+    <link href="https://github.com/odoo/docker" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/piyushsachdeva/CKA-2024#1745971200</id>
+    <title>https://github.com/piyushsachdeva/CKA-2024</title>
+    <link href="https://github.com/piyushsachdeva/CKA-2024" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">This repository contains the notes and code snippets of the CKA 2024 YouTube Playlist. The content is based on the latest 2024 curriculum and includes hands-on demos, assignments, and exam-based scenarios. I will be covering everything from the basics to the advanced level.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vulhub/vulhub#1745971200</id>
+    <title>https://github.com/vulhub/vulhub</title>
+    <link href="https://github.com/vulhub/vulhub" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
+  </entry>
+</feed>

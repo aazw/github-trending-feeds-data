@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/anoma/anoma#1747008000</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1747008000</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluzky/salad_ui#1747008000</id>
+    <title>https://github.com/bluzky/salad_ui</title>
+    <link href="https://github.com/bluzky/salad_ui" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Phoenix Liveview component library inspired by shadcn UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dashbitco/broadway_kafka#1747008000</id>
+    <title>https://github.com/dashbitco/broadway_kafka</title>
+    <link href="https://github.com/dashbitco/broadway_kafka" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A Broadway connector for Kafka</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1747008000</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Real-time sync for Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-grpc/grpc#1747008000</id>
+    <title>https://github.com/elixir-grpc/grpc</title>
+    <link href="https://github.com/elixir-grpc/grpc" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">An Elixir implementation of gRPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1747008000</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-protobuf/protobuf#1747008000</id>
+    <title>https://github.com/elixir-protobuf/protobuf</title>
+    <link href="https://github.com/elixir-protobuf/protobuf" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A pure Elixir implementation of Google Protobuf.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1747008000</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inertiajs/inertia-phoenix#1747008000</id>
+    <title>https://github.com/inertiajs/inertia-phoenix</title>
+    <link href="https://github.com/inertiajs/inertia-phoenix" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">The Phoenix adapter for Inertia.js.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1747008000</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1747008000</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1747008000</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1747008000</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sequinstream/sequin#1747008000</id>
+    <title>https://github.com/sequinstream/sequin</title>
+    <link href="https://github.com/sequinstream/sequin" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1747008000</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/woutdp/live_svelte#1747008000</id>
+    <title>https://github.com/woutdp/live_svelte</title>
+    <link href="https://github.com/woutdp/live_svelte" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Svelte inside Phoenix LiveView with seamless end-to-end reactivity</content>
+  </entry>
+</feed>

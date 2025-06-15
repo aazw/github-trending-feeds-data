@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom</id>
+  <title>GitHub Trending - nim (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/crashappsec/chalk#1747785600</id>
+    <title>https://github.com/crashappsec/chalk</title>
+    <link href="https://github.com/crashappsec/chalk" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Chalk allows you to follow code from development, through builds and into production.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metacraft-labs/codetracer#1747785600</id>
+    <title>https://github.com/metacraft-labs/codetracer</title>
+    <link href="https://github.com/metacraft-labs/codetracer" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">CodeTracer is a user-friendly time-traveling debugger designed to support a wide range of programming languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/Nim#1747785600</id>
+    <title>https://github.com/nim-lang/Nim</title>
+    <link href="https://github.com/nim-lang/Nim" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).</content>
+  </entry>
+</feed>

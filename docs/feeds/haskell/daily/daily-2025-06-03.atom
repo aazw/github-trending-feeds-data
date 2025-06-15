@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-cli#1748908800</id>
+    <title>https://github.com/IntersectMBO/cardano-cli</title>
+    <link href="https://github.com/IntersectMBO/cardano-cli" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node#1748908800</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1748908800</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/agda/agda#1748908800</id>
+    <title>https://github.com/agda/agda</title>
+    <link href="https://github.com/agda/agda" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Agda is a dependently typed programming language / interactive theorem prover.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1748908800</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1748908800</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/input-output-hk/plutus-pioneer-program#1748908800</id>
+    <title>https://github.com/input-output-hk/plutus-pioneer-program</title>
+    <link href="https://github.com/input-output-hk/plutus-pioneer-program" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">This repository hosts the lectures of the Plutus Pioneers Program. This program is a training course that the IOG Education Team provides to recruit and train software developers in Plutus, the native smart contract language for the Cardano ecosystem.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1748908800</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1748908800</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1748908800</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidalcycles/Tidal#1748908800</id>
+    <title>https://github.com/tidalcycles/Tidal</title>
+    <link href="https://github.com/tidalcycles/Tidal" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Pattern language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucsd-progsys/liquid-fixpoint#1748908800</id>
+    <title>https://github.com/ucsd-progsys/liquid-fixpoint</title>
+    <link href="https://github.com/ucsd-progsys/liquid-fixpoint" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Horn Clause Constraint Solving for Liquid Types</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unisonweb/unison#1748908800</id>
+    <title>https://github.com/unisonweb/unison</title>
+    <link href="https://github.com/unisonweb/unison" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">A friendly programming language from the future</content>
+  </entry>
+</feed>

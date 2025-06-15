@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/windsurf.vim#1745884800</id>
+    <title>https://github.com/Exafunction/windsurf.vim</title>
+    <link href="https://github.com/Exafunction/windsurf.vim" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1745884800</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1745884800</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1745884800</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jlanzarotta/bufexplorer#1745884800</id>
+    <title>https://github.com/jlanzarotta/bufexplorer</title>
+    <link href="https://github.com/jlanzarotta/bufexplorer" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">BufExplorer Plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-easy-align#1745884800</id>
+    <title>https://github.com/junegunn/vim-easy-align</title>
+    <link href="https://github.com/junegunn/vim-easy-align" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">🌻 A Vim alignment plugin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justinmk/vim-sneak#1745884800</id>
+    <title>https://github.com/justinmk/vim-sneak</title>
+    <link href="https://github.com/justinmk/vim-sneak" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">The missing motion for Vim 👟</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1745884800</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1745884800</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntpeters/vim-better-whitespace#1745884800</id>
+    <title>https://github.com/ntpeters/vim-better-whitespace</title>
+    <link href="https://github.com/ntpeters/vim-better-whitespace" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Better whitespace highlighting for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vim-indent-guides#1745884800</id>
+    <title>https://github.com/preservim/vim-indent-guides</title>
+    <link href="https://github.com/preservim/vim-indent-guides" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">A Vim plugin for visually displaying indent levels in code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryanoasis/vim-devicons#1745884800</id>
+    <title>https://github.com/ryanoasis/vim-devicons</title>
+    <link href="https://github.com/ryanoasis/vim-devicons" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1745884800</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1745884800</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1745884800</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1745884800</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig.vim#1745884800</id>
+    <title>https://github.com/ziglang/zig.vim</title>
+    <link href="https://github.com/ziglang/zig.vim" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Vim configuration for Zig</content>
+  </entry>
+</feed>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom</id>
+  <title>GitHub Trending - zig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/capy-ui/capy#1749600000</id>
+    <title>https://github.com/capy-ui/capy</title>
+    <link href="https://github.com/capy-ui/capy" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">💻Build one codebase and get native UI on Windows, Linux and Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghostty-org/ghostty#1749600000</id>
+    <title>https://github.com/ghostty-org/ghostty</title>
+    <link href="https://github.com/ghostty-org/ghostty" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lightpanda-io/browser#1749600000</id>
+    <title>https://github.com/lightpanda-io/browser</title>
+    <link href="https://github.com/lightpanda-io/browser" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Lightpanda: the headless browser designed for AI and automation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/marler8997/anyzig#1749600000</id>
+    <title>https://github.com/marler8997/anyzig</title>
+    <link href="https://github.com/marler8997/anyzig" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">One zig to rule them all.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/libxev#1749600000</id>
+    <title>https://github.com/mitchellh/libxev</title>
+    <link href="https://github.com/mitchellh/libxev" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riverwm/river#1749600000</id>
+    <title>https://github.com/riverwm/river</title>
+    <link href="https://github.com/riverwm/river" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">[mirror] A dynamic tiling Wayland compositor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig#1749600000</id>
+    <title>https://github.com/ziglang/zig</title>
+    <link href="https://github.com/ziglang/zig" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zigtools/zls#1749600000</id>
+    <title>https://github.com/zigtools/zls</title>
+    <link href="https://github.com/zigtools/zls" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">A Zig language server supporting Zig developers with features like autocomplete and goto definition</content>
+  </entry>
+</feed>

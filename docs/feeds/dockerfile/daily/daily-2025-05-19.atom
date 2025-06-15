@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Anduin2017/HowToCook#1747612800</id>
+    <title>https://github.com/Anduin2017/HowToCook</title>
+    <link href="https://github.com/Anduin2017/HowToCook" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Hacking-the-Cloud/hackingthe.cloud#1747612800</id>
+    <title>https://github.com/Hacking-the-Cloud/hackingthe.cloud</title>
+    <link href="https://github.com/Hacking-the-Cloud/hackingthe.cloud" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">An encyclopedia for offensive and defensive security knowledge in cloud native technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexbelgium/hassio-addons#1747612800</id>
+    <title>https://github.com/alexbelgium/hassio-addons</title>
+    <link href="https://github.com/alexbelgium/hassio-addons" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">My homeassistant addons</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-buildtools-prereqs-docker#1747612800</id>
+    <title>https://github.com/dotnet/dotnet-buildtools-prereqs-docker</title>
+    <link href="https://github.com/dotnet/dotnet-buildtools-prereqs-docker" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Used to maintain the Docker images hosted at the mcr.microsoft.com/dotnet-buildtools/prereqs image repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dunglas/symfony-docker#1747612800</id>
+    <title>https://github.com/dunglas/symfony-docker</title>
+    <link href="https://github.com/dunglas/symfony-docker" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1747612800</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kagisearch/kagi-docs#1747612800</id>
+    <title>https://github.com/kagisearch/kagi-docs</title>
+    <link href="https://github.com/kagisearch/kagi-docs" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Documentation for products made by Kagi Inc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/contributor-playground#1747612800</id>
+    <title>https://github.com/kubernetes-sigs/contributor-playground</title>
+    <link href="https://github.com/kubernetes-sigs/contributor-playground" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/laradock/laradock#1747612800</id>
+    <title>https://github.com/laradock/laradock</title>
+    <link href="https://github.com/laradock/laradock" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Full PHP development environment for Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-wireguard#1747612800</id>
+    <title>https://github.com/linuxserver/docker-wireguard</title>
+    <link href="https://github.com/linuxserver/docker-wireguard" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1747612800</id>
+    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
+    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxsecurity/megalinter#1747612800</id>
+    <title>https://github.com/oxsecurity/megalinter</title>
+    <link href="https://github.com/oxsecurity/megalinter" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sprintcube/docker-compose-lamp#1747612800</id>
+    <title>https://github.com/sprintcube/docker-compose-lamp</title>
+    <link href="https://github.com/sprintcube/docker-compose-lamp" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">A basic LAMP stack environment built using Docker Compose.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sytone/obsidian-remote#1747612800</id>
+    <title>https://github.com/sytone/obsidian-remote</title>
+    <link href="https://github.com/sytone/obsidian-remote" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Run Obsidian.md in a browser via a docker container.</content>
+  </entry>
+</feed>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndrewRadev/splitjoin.vim#1741392000</id>
+    <title>https://github.com/AndrewRadev/splitjoin.vim</title>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Switch between single-line and multiline forms of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joshdick/onedark.vim#1741392000</id>
+    <title>https://github.com/joshdick/onedark.vim</title>
+    <link href="https://github.com/joshdick/onedark.vim" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kana/vim-textobj-user#1741392000</id>
+    <title>https://github.com/kana/vim-textobj-user</title>
+    <link href="https://github.com/kana/vim-textobj-user" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Vim plugin: Create your own text objects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leafgarland/typescript-vim#1741392000</id>
+    <title>https://github.com/leafgarland/typescript-vim</title>
+    <link href="https://github.com/leafgarland/typescript-vim" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Typescript syntax files for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1741392000</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-signify#1741392000</id>
+    <title>https://github.com/mhinz/vim-signify</title>
+    <link href="https://github.com/mhinz/vim-signify" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">➕ Show a diff using Vim its sign column.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nanotech/jellybeans.vim#1741392000</id>
+    <title>https://github.com/nanotech/jellybeans.vim</title>
+    <link href="https://github.com/nanotech/jellybeans.vim" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A colorful, dark color scheme for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1741392000</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rodjek/vim-puppet#1741392000</id>
+    <title>https://github.com/rodjek/vim-puppet</title>
+    <link href="https://github.com/rodjek/vim-puppet" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Puppet niceties for your Vim setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryanoasis/vim-devicons#1741392000</id>
+    <title>https://github.com/ryanoasis/vim-devicons</title>
+    <link href="https://github.com/ryanoasis/vim-devicons" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sheerun/vim-polyglot#1741392000</id>
+    <title>https://github.com/sheerun/vim-polyglot</title>
+    <link href="https://github.com/sheerun/vim-polyglot" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A solid language pack for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-abolish#1741392000</id>
+    <title>https://github.com/tpope/vim-abolish</title>
+    <link href="https://github.com/tpope/vim-abolish" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">abolish.vim: Work with several variants of a word at once</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1741392000</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline#1741392000</id>
+    <title>https://github.com/vim-airline/vim-airline</title>
+    <link href="https://github.com/vim-airline/vim-airline" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">lean &amp; mean status/tabline for vim that's light as air</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1741392000</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1741392000</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voldikss/vim-floaterm#1741392000</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
+  </entry>
+</feed>

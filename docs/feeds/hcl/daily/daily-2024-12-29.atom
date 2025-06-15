@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-29T11:15:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-datadog-platform#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-datadog-platform</title>
+    <link href="https://github.com/cloudposse/terraform-datadog-platform" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML configuration, complete with automated tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-alb#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-alb</title>
+    <link href="https://github.com/cloudposse/terraform-aws-alb" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform module to provision a standard ALB for HTTP/HTTP traffic</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-gcloud#1735470948</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-gcloud</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-gcloud" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Executes Google Cloud CLI commands within Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-dynamic-subnets#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-dynamic-subnets</title>
+    <link href="https://github.com/cloudposse/terraform-aws-dynamic-subnets" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform module for public and private subnets provisioning in existing VPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-yaml-config#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-yaml-config</title>
+    <link href="https://github.com/cloudposse/terraform-yaml-config" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform module to convert local and remote YAML configuration templates into Terraform lists and maps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kms#1735470948</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kms</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kms" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ec2-instance#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-ec2-instance</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-instance" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform module for provisioning a general purpose EC2 host</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ses#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-ses</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ses" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform module to provision Simple Email Service on AWS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform module to provision AWS MSK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1735470948</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-redis#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-redis</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-redis" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform module to provision an ElastiCache Redis Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">S3 bucket with built in IAM policy to allow CloudTrail logs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example#1735470948</id>
+    <title>https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example</title>
+    <link href="https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">A repo used to show examples file/folder structures you can use with Terragrunt and Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-efs#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1735470948</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-aws-consul#1735470948</id>
+    <title>https://github.com/hashicorp/terraform-aws-consul</title>
+    <link href="https://github.com/hashicorp/terraform-aws-consul" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">A Terraform Module for how to run Consul on AWS using Terraform and Packer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/techiescamp/devops-projects#1735470948</id>
+    <title>https://github.com/techiescamp/devops-projects</title>
+    <link href="https://github.com/techiescamp/devops-projects" />
+    <updated>2024-12-29T11:15:48+00:00</updated>
+    <content type="text">DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</content>
+  </entry>
+</feed>

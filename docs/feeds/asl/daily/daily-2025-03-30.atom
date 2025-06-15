@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/asl/daily.atom</id>
+  <title>GitHub Trending - asl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/asl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/acpica/acpica#1743292800</id>
+    <title>https://github.com/acpica/acpica</title>
+    <link href="https://github.com/acpica/acpica" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">The ACPI Component Architecture (ACPICA) project provides an open-source operating system-independent implementation of the Advanced Configuration and Power Interface specification (ACPI). For detailed project information and downloads, go to https://www.acpica.org. For ACPICA contributor and source code licensing information, go to</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dortania/Getting-Started-With-ACPI#1743292800</id>
+    <title>https://github.com/dortania/Getting-Started-With-ACPI</title>
+    <link href="https://github.com/dortania/Getting-Started-With-ACPI" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Repo for Getting Started With ACPI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/edk2-porting/edk2-msm#1743292800</id>
+    <title>https://github.com/edk2-porting/edk2-msm</title>
+    <link href="https://github.com/edk2-porting/edk2-msm" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Broken edk2 port for Qualcomm platforms xD</content>
+  </entry>
+</feed>

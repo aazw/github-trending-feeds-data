@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/TheHive-Project/TheHive#1739145600</id>
+    <title>https://github.com/TheHive-Project/TheHive</title>
+    <link href="https://github.com/TheHive-Project/TheHive" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">TheHive: a Scalable, Open Source and Free Security Incident Response Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VirtusLab/scala-cli#1739145600</id>
+    <title>https://github.com/VirtusLab/scala-cli</title>
+    <link href="https://github.com/VirtusLab/scala-cli" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Scala CLI is a command-line tool to interact with the Scala language. It lets you compile, run, test, and package your Scala code (and more!)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akka/akka#1739145600</id>
+    <title>https://github.com/akka/akka</title>
+    <link href="https://github.com/akka/akka" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1739145600</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/cromwell#1739145600</id>
+    <title>https://github.com/broadinstitute/cromwell</title>
+    <link href="https://github.com/broadinstitute/cromwell" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Scientific workflow engine designed for simplicity &amp; scalability. Trivially transition between one off use cases to massive scale production environments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/firecloud-orchestration#1739145600</id>
+    <title>https://github.com/broadinstitute/firecloud-orchestration</title>
+    <link href="https://github.com/broadinstitute/firecloud-orchestration" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/rocket-chip#1739145600</id>
+    <title>https://github.com/chipsalliance/rocket-chip</title>
+    <link href="https://github.com/chipsalliance/rocket-chip" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Rocket Chip Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1739145600</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Mill is a fast build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1739145600</id>
+    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
+    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Spark: The Definitive Guide's Code Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1739145600</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/digital-asset/daml#1739145600</id>
+    <title>https://github.com/digital-asset/daml</title>
+    <link href="https://github.com/digital-asset/daml" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">The Daml smart contract language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gatling/gatling#1739145600</id>
+    <title>https://github.com/gatling/gatling</title>
+    <link href="https://github.com/gatling/gatling" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Modern Load Testing as Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joernio/joern#1739145600</id>
+    <title>https://github.com/joernio/joern</title>
+    <link href="https://github.com/joernio/joern" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1739145600</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/SynapseML#1739145600</id>
+    <title>https://github.com/microsoft/SynapseML</title>
+    <link href="https://github.com/microsoft/SynapseML" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Simple and Distributed Machine Learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scalapb/ScalaPB#1739145600</id>
+    <title>https://github.com/scalapb/ScalaPB</title>
+    <link href="https://github.com/scalapb/ScalaPB" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Protocol buffer compiler for Scala.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1739145600</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/chipyard#1739145600</id>
+    <title>https://github.com/ucb-bar/chipyard</title>
+    <link href="https://github.com/ucb-bar/chipyard" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zio/zio#1739145600</id>
+    <title>https://github.com/zio/zio</title>
+    <link href="https://github.com/zio/zio" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">ZIO — A type-safe, composable library for async and concurrent programming in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zio/zio-http#1739145600</id>
+    <title>https://github.com/zio/zio-http</title>
+    <link href="https://github.com/zio/zio-http" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers</content>
+  </entry>
+</feed>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/sap-automation#1745280000</id>
+    <title>https://github.com/Azure/sap-automation</title>
+    <link href="https://github.com/Azure/sap-automation" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">This is the repository supporting the SAP deployment automation framework on Azure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1745280000</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1745280000</id>
+    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cluster-toolkit#1745280000</id>
+    <title>https://github.com/GoogleCloudPlatform/cluster-toolkit</title>
+    <link href="https://github.com/GoogleCloudPlatform/cluster-toolkit" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Cluster Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraform-google-cloud-run#1745280000</id>
+    <title>https://github.com/GoogleCloudPlatform/terraform-google-cloud-run</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraform-google-cloud-run" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Deploys apps to Cloud Run, along with option to map custom domain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphagov/govuk-infrastructure#1745280000</id>
+    <title>https://github.com/alphagov/govuk-infrastructure</title>
+    <link href="https://github.com/alphagov/govuk-infrastructure" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Terraform turnup automation for the EKS Kubernetes clusters that host GOV.UK. See https://github.com/alphagov/govuk-helm-charts for application config.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bridgecrewio/terragoat#1745280000</id>
+    <title>https://github.com/bridgecrewio/terragoat</title>
+    <link href="https://github.com/bridgecrewio/terragoat" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1745280000</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ec2-client-vpn#1745280000</id>
+    <title>https://github.com/cloudposse/terraform-aws-ec2-client-vpn</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-client-vpn" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ecs-web-app#1745280000</id>
+    <title>https://github.com/cloudposse/terraform-aws-ecs-web-app</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-web-app" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Terraform module that implements a web app on ECS and supports autoscaling, CI/CD, monitoring, ALB integration, and much more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-datadog-platform#1745280000</id>
+    <title>https://github.com/cloudposse/terraform-datadog-platform</title>
+    <link href="https://github.com/cloudposse/terraform-datadog-platform" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML configuration, complete with automated tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1745280000</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-vpc#1745280000</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-vpc</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-vpc" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Terraform module to create AWS VPC resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zealvora/terraform-beginner-to-advanced-resource#1745280000</id>
+    <title>https://github.com/zealvora/terraform-beginner-to-advanced-resource</title>
+    <link href="https://github.com/zealvora/terraform-beginner-to-advanced-resource" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">HashiCorp Certified Terraform Associate 2025</content>
+  </entry>
+</feed>

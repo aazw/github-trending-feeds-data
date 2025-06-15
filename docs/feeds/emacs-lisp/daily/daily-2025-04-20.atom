@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abo-abo/ace-window#1745107200</id>
+    <title>https://github.com/abo-abo/ace-window</title>
+    <link href="https://github.com/abo-abo/ace-window" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Quickly switch windows in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/avy#1745107200</id>
+    <title>https://github.com/abo-abo/avy</title>
+    <link href="https://github.com/abo-abo/avy" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Jump to things in Emacs tree-style</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1745107200</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1745107200</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clojure-emacs/cider#1745107200</id>
+    <title>https://github.com/clojure-emacs/cider</title>
+    <link href="https://github.com/clojure-emacs/cider" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">The Clojure Interactive Development Environment that Rocks for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1745107200</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1745107200</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1745107200</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flycheck/flycheck#1745107200</id>
+    <title>https://github.com/flycheck/flycheck</title>
+    <link href="https://github.com/flycheck/flycheck" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">On the fly syntax checking for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1745107200</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrblevin/markdown-mode#1745107200</id>
+    <title>https://github.com/jrblevin/markdown-mode</title>
+    <link href="https://github.com/jrblevin/markdown-mode" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Emacs Markdown Mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justbur/emacs-which-key#1745107200</id>
+    <title>https://github.com/justbur/emacs-which-key</title>
+    <link href="https://github.com/justbur/emacs-which-key" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Emacs package that displays available keybindings in popup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwiegley/emacs-async#1745107200</id>
+    <title>https://github.com/jwiegley/emacs-async</title>
+    <link href="https://github.com/jwiegley/emacs-async" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Simple library for asynchronous processing in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1745107200</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1745107200</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rejeep/f.el#1745107200</id>
+    <title>https://github.com/rejeep/f.el</title>
+    <link href="https://github.com/rejeep/f.el" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Modern API for working with files and directories in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rougier/nano-emacs#1745107200</id>
+    <title>https://github.com/rougier/nano-emacs</title>
+    <link href="https://github.com/rougier/nano-emacs" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">GNU Emacs / N Λ N O - Emacs made simple</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seagle0128/doom-modeline#1745107200</id>
+    <title>https://github.com/seagle0128/doom-modeline</title>
+    <link href="https://github.com/seagle0128/doom-modeline" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">A fancy and fast mode-line inspired by minimalism design.</content>
+  </entry>
+</feed>

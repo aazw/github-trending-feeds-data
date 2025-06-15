@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-13T11:12:24+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/atomontage/xterm-color#1736766744</id>
+    <title>https://github.com/atomontage/xterm-color</title>
+    <link href="https://github.com/atomontage/xterm-color" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">ANSI &amp; xterm-256 color text property translator for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mmontone/emacs-inspector#1736766744</id>
+    <title>https://github.com/mmontone/emacs-inspector</title>
+    <link href="https://github.com/mmontone/emacs-inspector" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Inspection tool for Emacs Lisp objects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-mode#1736766744</id>
+    <title>https://github.com/haskell/haskell-mode</title>
+    <link href="https://github.com/haskell/haskell-mode" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Emacs mode for Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1736766744</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/apheleia#1736766744</id>
+    <title>https://github.com/radian-software/apheleia</title>
+    <link href="https://github.com/radian-software/apheleia" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-typescript/typescript.el#1736766744</id>
+    <title>https://github.com/emacs-typescript/typescript.el</title>
+    <link href="https://github.com/emacs-typescript/typescript.el" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">TypeScript-support for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protesilaos/modus-themes#1736766744</id>
+    <title>https://github.com/protesilaos/modus-themes</title>
+    <link href="https://github.com/protesilaos/modus-themes" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig-mode#1736766744</id>
+    <title>https://github.com/ziglang/zig-mode</title>
+    <link href="https://github.com/ziglang/zig-mode" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Zig mode for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/multiple-cursors.el#1736766744</id>
+    <title>https://github.com/magnars/multiple-cursors.el</title>
+    <link href="https://github.com/magnars/multiple-cursors.el" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Multiple cursors for emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pkryger/difftastic.el#1736766744</id>
+    <title>https://github.com/pkryger/difftastic.el</title>
+    <link href="https://github.com/pkryger/difftastic.el" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Wrapper for difftastic</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jcs090218/setup-emacs-windows#1736766744</id>
+    <title>https://github.com/jcs090218/setup-emacs-windows</title>
+    <link href="https://github.com/jcs090218/setup-emacs-windows" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">A GitHub Action that installs a specific emacs version</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1736766744</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1736766744</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lewang/ws-butler#1736766744</id>
+    <title>https://github.com/lewang/ws-butler</title>
+    <link href="https://github.com/lewang/ws-butler" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Unobtrusively trim extraneous white-space *ONLY* in lines edited.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1736766744</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1736766744</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1736766744</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1736766744</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-13T11:12:24+00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+</feed>

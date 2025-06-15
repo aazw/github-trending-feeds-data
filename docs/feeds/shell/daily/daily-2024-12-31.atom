@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-31T11:26:06+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/basecamp/omakub#1735644366</id>
+    <title>https://github.com/basecamp/omakub</title>
+    <link href="https://github.com/basecamp/omakub" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Opinionated Ubuntu Setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bats-core/bats-core#1735644366</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1735644366</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rupa/z#1735644366</id>
+    <title>https://github.com/rupa/z</title>
+    <link href="https://github.com/rupa/z" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">z - jump around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmux-plugins/tpm#1735644366</id>
+    <title>https://github.com/tmux-plugins/tpm</title>
+    <link href="https://github.com/tmux-plugins/tpm" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Tmux Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/longhorn/longhorn#1735644366</id>
+    <title>https://github.com/longhorn/longhorn</title>
+    <link href="https://github.com/longhorn/longhorn" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Cloud-Native distributed storage built on and for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/007revad/Synology_HDD_db#1735644366</id>
+    <title>https://github.com/007revad/Synology_HDD_db</title>
+    <link href="https://github.com/007revad/Synology_HDD_db" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CISOfy/lynis#1735644366</id>
+    <title>https://github.com/CISOfy/lynis</title>
+    <link href="https://github.com/CISOfy/lynis" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/source-foundry/Hack#1735644366</id>
+    <title>https://github.com/source-foundry/Hack</title>
+    <link href="https://github.com/source-foundry/Hack" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">A typeface designed for source code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenVPN/easy-rsa#1735644366</id>
+    <title>https://github.com/OpenVPN/easy-rsa</title>
+    <link href="https://github.com/OpenVPN/easy-rsa" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">easy-rsa - Simple shell based CA utility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/super-linter/super-linter#1735644366</id>
+    <title>https://github.com/super-linter/super-linter</title>
+    <link href="https://github.com/super-linter/super-linter" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Combination of multiple linters to run as a GitHub Action or standalone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/self-hosted#1735644366</id>
+    <title>https://github.com/getsentry/self-hosted</title>
+    <link href="https://github.com/getsentry/self-hosted" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker-mailserver/docker-mailserver#1735644366</id>
+    <title>https://github.com/docker-mailserver/docker-mailserver</title>
+    <link href="https://github.com/docker-mailserver/docker-mailserver" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1735644366</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/base-org/node#1735644366</id>
+    <title>https://github.com/base-org/node</title>
+    <link href="https://github.com/base-org/node" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Everything required to run your own Base node</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1735644366</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pi-hole/pi-hole#1735644366</id>
+    <title>https://github.com/pi-hole/pi-hole</title>
+    <link href="https://github.com/pi-hole/pi-hole" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">A black hole for Internet advertisements</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ublue-os/bazzite#1735644366</id>
+    <title>https://github.com/ublue-os/bazzite</title>
+    <link href="https://github.com/ublue-os/bazzite" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RROrg/rr#1735644366</id>
+    <title>https://github.com/RROrg/rr</title>
+    <link href="https://github.com/RROrg/rr" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Redpill Recovery (arpl-i18n)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/p8952/bocker#1735644366</id>
+    <title>https://github.com/p8952/bocker</title>
+    <link href="https://github.com/p8952/bocker" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Docker implemented in around 100 lines of bash</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbadolato/iTerm2-Color-Schemes#1735644366</id>
+    <title>https://github.com/mbadolato/iTerm2-Color-Schemes</title>
+    <link href="https://github.com/mbadolato/iTerm2-Color-Schemes" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Over 325 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, Xresources, XRDB, Remmina, Termite, XFCE, Tilda, FreeBSD VT, Terminator, Kitty, MobaXterm, LXTerminal, Microsoft's Windows Terminal, Visual Studio, Alacritty, and many more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quickemu-project/quickemu#1735644366</id>
+    <title>https://github.com/quickemu-project/quickemu</title>
+    <link href="https://github.com/quickemu-project/quickemu" />
+    <updated>2024-12-31T11:26:06+00:00</updated>
+    <content type="text">Quickly create and run optimised Windows, macOS and Linux virtual machines</content>
+  </entry>
+</feed>

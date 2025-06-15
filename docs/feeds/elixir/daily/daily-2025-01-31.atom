@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ExHammer/hammer-backend-redis#1738281600</id>
+    <title>https://github.com/ExHammer/hammer-backend-redis</title>
+    <link href="https://github.com/ExHammer/hammer-backend-redis" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A Redis backend for for the Hammer rate-limiter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GSA/Challenge_gov#1738281600</id>
+    <title>https://github.com/GSA/Challenge_gov</title>
+    <link href="https://github.com/GSA/Challenge_gov" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/commanded/eventstore#1738281600</id>
+    <title>https://github.com/commanded/eventstore</title>
+    <link href="https://github.com/commanded/eventstore" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Event store using PostgreSQL for persistence</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1738281600</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Sync little subsets of your Postgres data into local apps and services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-ecto/ecto#1738281600</id>
+    <title>https://github.com/elixir-ecto/ecto</title>
+    <link href="https://github.com/elixir-ecto/ecto" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A toolkit for data mapping and language integrated query.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-grpc/grpc#1738281600</id>
+    <title>https://github.com/elixir-grpc/grpc</title>
+    <link href="https://github.com/elixir-grpc/grpc" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">An Elixir implementation of gRPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1738281600</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-protobuf/protobuf#1738281600</id>
+    <title>https://github.com/elixir-protobuf/protobuf</title>
+    <link href="https://github.com/elixir-protobuf/protobuf" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A pure Elixir implementation of Google Protobuf.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixirs/faker#1738281600</id>
+    <title>https://github.com/elixirs/faker</title>
+    <link href="https://github.com/elixirs/faker" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Faker is a pure Elixir library for generating fake data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1738281600</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/germsvel/phoenix_test#1738281600</id>
+    <title>https://github.com/germsvel/phoenix_test</title>
+    <link href="https://github.com/germsvel/phoenix_test" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">PhoenixTest provides a unified way of writing feature tests -- regardless of whether you're testing LiveView pages or static (non-LiveView) pages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1738281600</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1738281600</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pentacent/keila#1738281600</id>
+    <title>https://github.com/pentacent/keila</title>
+    <link href="https://github.com/pentacent/keila" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Open Source Newsletter Tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1738281600</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1738281600</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1738281600</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1738281600</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+</feed>

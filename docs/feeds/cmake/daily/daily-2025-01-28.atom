@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1738022400</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheRobotStudio/SO-ARM100#1738022400</id>
+    <title>https://github.com/TheRobotStudio/SO-ARM100</title>
+    <link href="https://github.com/TheRobotStudio/SO-ARM100" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Standard Open Arm 100</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware_msgs#1738022400</id>
+    <title>https://github.com/autowarefoundation/autoware_msgs</title>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/corrosion-rs/corrosion#1738022400</id>
+    <title>https://github.com/corrosion-rs/corrosion</title>
+    <link href="https://github.com/corrosion-rs/corrosion" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Marrying Rust and CMake - Easy Rust and C/C++ Integration!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/ecbuild#1738022400</id>
+    <title>https://github.com/ecmwf/ecbuild</title>
+    <link href="https://github.com/ecmwf/ecbuild" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1738022400</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sudara/melatonin_perfetto#1738022400</id>
+    <title>https://github.com/sudara/melatonin_perfetto</title>
+    <link href="https://github.com/sudara/melatonin_perfetto" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Use google's perfetto performance tracing in JUCE plugins and apps</content>
+  </entry>
+</feed>

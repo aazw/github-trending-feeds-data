@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GitoxideLabs/gitoxide#1745366400</id>
+    <title>https://github.com/GitoxideLabs/gitoxide</title>
+    <link href="https://github.com/GitoxideLabs/gitoxide" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">An idiomatic, lean, fast &amp; safe pure Rust implementation of Git</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PyO3/maturin#1745366400</id>
+    <title>https://github.com/PyO3/maturin</title>
+    <link href="https://github.com/PyO3/maturin" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TabbyML/tabby#1745366400</id>
+    <title>https://github.com/TabbyML/tabby</title>
+    <link href="https://github.com/TabbyML/tabby" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Self-hosted AI coding assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TraceMachina/nativelink#1745366400</id>
+    <title>https://github.com/TraceMachina/nativelink</title>
+    <link href="https://github.com/TraceMachina/nativelink" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1745366400</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1745366400</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atuinsh/atuin#1745366400</id>
+    <title>https://github.com/atuinsh/atuin</title>
+    <link href="https://github.com/atuinsh/atuin" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">✨ Magical shell history</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1745366400</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1745366400</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lapce/lapce#1745366400</id>
+    <title>https://github.com/lapce/lapce</title>
+    <link href="https://github.com/lapce/lapce" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Lightning-fast and Powerful Code Editor written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1745366400</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxc-project/oxc#1745366400</id>
+    <title>https://github.com/oxc-project/oxc</title>
+    <link href="https://github.com/oxc-project/oxc" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">⚓ A collection of JavaScript tools written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1745366400</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prefix-dev/pixi#1745366400</id>
+    <title>https://github.com/prefix-dev/pixi</title>
+    <link href="https://github.com/prefix-dev/pixi" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Package management made easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1745366400</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1745366400</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1745366400</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1745366400</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1745366400</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+</feed>

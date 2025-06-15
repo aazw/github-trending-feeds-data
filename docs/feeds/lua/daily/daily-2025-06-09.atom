@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Courseplay/Courseplay_FS25#1749427200</id>
+    <title>https://github.com/Courseplay/Courseplay_FS25</title>
+    <link href="https://github.com/Courseplay/Courseplay_FS25" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Courseplay for Farming Simulator 2025</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Facepunch/garrysmod#1749427200</id>
+    <title>https://github.com/Facepunch/garrysmod</title>
+    <link href="https://github.com/Facepunch/garrysmod" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Sandbox mod for the Source Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PathOfBuildingCommunity/PathOfBuilding#1749427200</id>
+    <title>https://github.com/PathOfBuildingCommunity/PathOfBuilding</title>
+    <link href="https://github.com/PathOfBuildingCommunity/PathOfBuilding" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Offline build planner for Path of Exile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1749427200</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThePrimeagen/vim-be-good#1749427200</id>
+    <title>https://github.com/ThePrimeagen/vim-be-good</title>
+    <link href="https://github.com/ThePrimeagen/vim-be-good" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">vim-be-good is a nvim plugin designed to make you better at Vim Movements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akinsho/bufferline.nvim#1749427200</id>
+    <title>https://github.com/akinsho/bufferline.nvim</title>
+    <link href="https://github.com/akinsho/bufferline.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A snazzy bufferline for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beyond-all-reason/Beyond-All-Reason#1749427200</id>
+    <title>https://github.com/beyond-all-reason/Beyond-All-Reason</title>
+    <link href="https://github.com/beyond-all-reason/Beyond-All-Reason" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Main game repository for Beyond All Reason.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1749427200</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esx-framework/esx_core#1749427200</id>
+    <title>https://github.com/esx-framework/esx_core</title>
+    <link href="https://github.com/esx-framework/esx_core" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Official Repo For core resources for esx-legacy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1749427200</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazydev.nvim#1749427200</id>
+    <title>https://github.com/folke/lazydev.nvim</title>
+    <link href="https://github.com/folke/lazydev.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Faster LuaLS setup for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/snacks.nvim#1749427200</id>
+    <title>https://github.com/folke/snacks.nvim</title>
+    <link href="https://github.com/folke/snacks.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🍿 A collection of QoL plugins for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1749427200</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/trouble.nvim#1749427200</id>
+    <title>https://github.com/folke/trouble.nvim</title>
+    <link href="https://github.com/folke/trouble.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🚦 A pretty diagnostics, references, telescope results, quickfix and location list to help you solve all the trouble your code is causing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1749427200</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1749427200</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1749427200</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/olimorris/codecompanion.nvim#1749427200</id>
+    <title>https://github.com/olimorris/codecompanion.nvim</title>
+    <link href="https://github.com/olimorris/codecompanion.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">✨ AI-powered coding, seamlessly in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentibiabr/canary#1749427200</id>
+    <title>https://github.com/opentibiabr/canary</title>
+    <link href="https://github.com/opentibiabr/canary" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Canary Server 14.x for OpenTibia community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pmizio/typescript-tools.nvim#1749427200</id>
+    <title>https://github.com/pmizio/typescript-tools.nvim</title>
+    <link href="https://github.com/pmizio/typescript-tools.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">⚡ TypeScript integration NeoVim deserves ⚡</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typecraft-dev/dotfiles#1749427200</id>
+    <title>https://github.com/typecraft-dev/dotfiles</title>
+    <link href="https://github.com/typecraft-dev/dotfiles" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

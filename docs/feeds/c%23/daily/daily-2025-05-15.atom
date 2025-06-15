@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c%23/daily.atom</id>
+  <title>GitHub Trending - c%23 (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c%23/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/App-vNext/Polly#1747267200</id>
+    <title>https://github.com/App-vNext/Polly</title>
+    <link href="https://github.com/App-vNext/Polly" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AvaloniaUI/Avalonia#1747267200</id>
+    <title>https://github.com/AvaloniaUI/Avalonia</title>
+    <link href="https://github.com/AvaloniaUI/Avalonia" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The most popular .NET UI client technology</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk-for-net#1747267200</id>
+    <title>https://github.com/Azure/azure-sdk-for-net</title>
+    <link href="https://github.com/Azure/azure-sdk-for-net" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitwarden/server#1747267200</id>
+    <title>https://github.com/bitwarden/server</title>
+    <link href="https://github.com/bitwarden/server" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Bitwarden infrastructure/backend (API, database, Docker, etc).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/aspire#1747267200</id>
+    <title>https://github.com/dotnet/aspire</title>
+    <link href="https://github.com/dotnet/aspire" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Tools, templates, and packages to accelerate building observable, production-ready apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/aspnetcore#1747267200</id>
+    <title>https://github.com/dotnet/aspnetcore</title>
+    <link href="https://github.com/dotnet/aspnetcore" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/csharplang#1747267200</id>
+    <title>https://github.com/dotnet/csharplang</title>
+    <link href="https://github.com/dotnet/csharplang" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">The official repo for the design of the C# programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet#1747267200</id>
+    <title>https://github.com/dotnet/dotnet</title>
+    <link href="https://github.com/dotnet/dotnet" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Home of .NET's Virtual Monolithic Repository which includes all the code needed to build the .NET SDK.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/extensions#1747267200</id>
+    <title>https://github.com/dotnet/extensions</title>
+    <link href="https://github.com/dotnet/extensions" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">This repository contains a suite of libraries that provide facilities commonly needed when creating production-ready applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/maui#1747267200</id>
+    <title>https://github.com/dotnet/maui</title>
+    <link href="https://github.com/dotnet/maui" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/maui-samples#1747267200</id>
+    <title>https://github.com/dotnet/maui-samples</title>
+    <link href="https://github.com/dotnet/maui-samples" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Samples for .NET Multi-Platform App UI (.NET MAUI)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/msbuild#1747267200</id>
+    <title>https://github.com/dotnet/msbuild</title>
+    <link href="https://github.com/dotnet/msbuild" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/roslyn#1747267200</id>
+    <title>https://github.com/dotnet/roslyn</title>
+    <link href="https://github.com/dotnet/roslyn" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/runtime#1747267200</id>
+    <title>https://github.com/dotnet/runtime</title>
+    <link href="https://github.com/dotnet/runtime" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/PowerToys#1747267200</id>
+    <title>https://github.com/microsoft/PowerToys</title>
+    <link href="https://github.com/microsoft/PowerToys" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Windows system utilities to maximize productivity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/semantic-kernel#1747267200</id>
+    <title>https://github.com/microsoft/semantic-kernel</title>
+    <link href="https://github.com/microsoft/semantic-kernel" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Integrate cutting-edge LLM technology quickly and easily into your apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nopSolutions/nopCommerce#1747267200</id>
+    <title>https://github.com/nopSolutions/nopCommerce</title>
+    <link href="https://github.com/nopSolutions/nopCommerce" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">ASP.NET Core eCommerce software. nopCommerce is a free and open-source shopping cart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/srwi/EverythingToolbar#1747267200</id>
+    <title>https://github.com/srwi/EverythingToolbar</title>
+    <link href="https://github.com/srwi/EverythingToolbar" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Everything integration for the Windows taskbar.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xunit/xunit#1747267200</id>
+    <title>https://github.com/xunit/xunit</title>
+    <link href="https://github.com/xunit/xunit" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">xUnit.net is a free, open source, community-focused unit testing tool for .NET.</content>
+  </entry>
+</feed>

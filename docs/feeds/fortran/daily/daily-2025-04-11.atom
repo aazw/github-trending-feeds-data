@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CFMIP/COSPv2.0#1744329600</id>
+    <title>https://github.com/CFMIP/COSPv2.0</title>
+    <link href="https://github.com/CFMIP/COSPv2.0" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">COSP - The CFMIP (Cloud Feedbacks Model Intercomparison Project) Observation Simulator Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/E3SM-Project/E3SM#1744329600</id>
+    <title>https://github.com/E3SM-Project/E3SM</title>
+    <link href="https://github.com/E3SM-Project/E3SM" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Energy Exascale Earth System Model source code. NOTE: use "maint" branches for your work. Head of master is not validated.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaPackaging/Yggdrasil#1744329600</id>
+    <title>https://github.com/JuliaPackaging/Yggdrasil</title>
+    <link href="https://github.com/JuliaPackaging/Yggdrasil" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Collection of builder repositories for BinaryBuilder.jl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFAST/openfast#1744329600</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cp2k/cp2k#1744329600</id>
+    <title>https://github.com/cp2k/cp2k</title>
+    <link href="https://github.com/cp2k/cp2k" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Quantum chemistry and solid state physics software package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/fckit#1744329600</id>
+    <title>https://github.com/ecmwf/fckit</title>
+    <link href="https://github.com/ecmwf/fckit" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">A Fortran toolkit for interoperating Fortran with C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1744329600</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+</feed>

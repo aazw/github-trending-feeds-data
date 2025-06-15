@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/1Panel-dev/1Panel#1745020800</id>
+    <title>https://github.com/1Panel-dev/1Panel</title>
+    <link href="https://github.com/1Panel-dev/1Panel" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">🔥 1Panel provides an intuitive web interface and MCP Server to manage websites, files, containers, databases, and LLMs on a Linux server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FiloSottile/age#1745020800</id>
+    <title>https://github.com/FiloSottile/age</title>
+    <link href="https://github.com/FiloSottile/age" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Melkeydev/go-blueprint#1745020800</id>
+    <title>https://github.com/Melkeydev/go-blueprint</title>
+    <link href="https://github.com/Melkeydev/go-blueprint" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Go-blueprint allows users to spin up a quick Go project using a popular framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1745020800</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/anthropic-sdk-go#1745020800</id>
+    <title>https://github.com/anthropics/anthropic-sdk-go</title>
+    <link href="https://github.com/anthropics/anthropic-sdk-go" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Access to Anthropic's safety-first language model APIs via Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1745020800</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1745020800</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1745020800</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-chi/chi#1745020800</id>
+    <title>https://github.com/go-chi/chi</title>
+    <link href="https://github.com/go-chi/chi" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">lightweight, idiomatic and composable router for building Go HTTP services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1745020800</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jpillora/chisel#1745020800</id>
+    <title>https://github.com/jpillora/chisel</title>
+    <link href="https://github.com/jpillora/chisel" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">A fast TCP/UDP tunnel over HTTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karmada-io/karmada#1745020800</id>
+    <title>https://github.com/karmada-io/karmada</title>
+    <link href="https://github.com/karmada-io/karmada" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1745020800</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1745020800</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shirou/gopsutil#1745020800</id>
+    <title>https://github.com/shirou/gopsutil</title>
+    <link href="https://github.com/shirou/gopsutil" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">psutil for golang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqlc-dev/sqlc#1745020800</id>
+    <title>https://github.com/sqlc-dev/sqlc</title>
+    <link href="https://github.com/sqlc-dev/sqlc" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Generate type-safe code from SQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sundowndev/phoneinfoga#1745020800</id>
+    <title>https://github.com/sundowndev/phoneinfoga</title>
+    <link href="https://github.com/sundowndev/phoneinfoga" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Information gathering framework for phone numbers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trustwallet/assets#1745020800</id>
+    <title>https://github.com/trustwallet/assets</title>
+    <link href="https://github.com/trustwallet/assets" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1745020800</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+</feed>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom</id>
+  <title>GitHub Trending - clojure (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cognitect-labs/test-runner#1739404800</id>
+    <title>https://github.com/cognitect-labs/test-runner</title>
+    <link href="https://github.com/cognitect-labs/test-runner" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A test runner for clojure.test</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instantdb/instant#1739404800</id>
+    <title>https://github.com/instantdb/instant</title>
+    <link href="https://github.com/instantdb/instant" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metabase/metabase#1739404800</id>
+    <title>https://github.com/metabase/metabase</title>
+    <link href="https://github.com/metabase/metabase" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data 📊</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/status-mobile#1739404800</id>
+    <title>https://github.com/status-im/status-mobile</title>
+    <link href="https://github.com/status-im/status-mobile" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">a free (libre) open source, mobile OS for Ethereum</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tonsky/FiraCode#1739404800</id>
+    <title>https://github.com/tonsky/FiraCode</title>
+    <link href="https://github.com/tonsky/FiraCode" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Free monospaced font with programming ligatures</content>
+  </entry>
+</feed>

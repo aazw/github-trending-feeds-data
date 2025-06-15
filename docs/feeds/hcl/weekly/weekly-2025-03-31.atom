@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/weekly.atom</id>
+  <title>GitHub Trending - hcl (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1743379200</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1743379200</id>
+    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-eks-blueprints#1743379200</id>
+    <title>https://github.com/aws-ia/terraform-aws-eks-blueprints</title>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Configure and deploy complete EKS clusters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons#1743379200</id>
+    <title>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons</title>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints-addons" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Terraform module which provisions addons on Amazon EKS clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-iam-system-user#1743379200</id>
+    <title>https://github.com/cloudposse/terraform-aws-iam-system-user</title>
+    <link href="https://github.com/cloudposse/terraform-aws-iam-system-user" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Terraform Module to Provision a Basic IAM System User Suitable for CI/CD Systems (E.g. TravisCI, CircleCI)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1743379200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1743379200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-iam#1743379200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-iam</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-iam" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Terraform module to create AWS IAM resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-lambda#1743379200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-lambda</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-vpc#1743379200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-vpc</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-vpc" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Terraform module to create AWS VPC resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine#1743379200</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Configures opinionated GKE clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tree-sitter-grammars/tree-sitter-hcl#1743379200</id>
+    <title>https://github.com/tree-sitter-grammars/tree-sitter-hcl</title>
+    <link href="https://github.com/tree-sitter-grammars/tree-sitter-hcl" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">HCL grammar for tree-sitter</content>
+  </entry>
+</feed>

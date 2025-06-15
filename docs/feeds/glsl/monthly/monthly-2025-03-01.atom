@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/glsl/monthly.atom</id>
+  <title>GitHub Trending - glsl (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/glsl/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SaschaWillems/Vulkan#1740787200</id>
+    <title>https://github.com/SaschaWillems/Vulkan</title>
+    <link href="https://github.com/SaschaWillems/Vulkan" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">C++ examples for the Vulkan graphics API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/X0nk/Bliss-Shader#1740787200</id>
+    <title>https://github.com/X0nk/Bliss-Shader</title>
+    <link href="https://github.com/X0nk/Bliss-Shader" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A minecraft shader which is an edit of chocapic v9</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cizia64/CrossMix-OS#1740787200</id>
+    <title>https://github.com/cizia64/CrossMix-OS</title>
+    <link href="https://github.com/cizia64/CrossMix-OS" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Enhanced OS for the TrimUI Smart Pro</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hackr-sh/ghostty-shaders#1740787200</id>
+    <title>https://github.com/hackr-sh/ghostty-shaders</title>
+    <link href="https://github.com/hackr-sh/ghostty-shaders" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A repository containing many free shaders to use with ghostty (the terminal)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patriciogonzalezvivo/lygia#1740787200</id>
+    <title>https://github.com/patriciogonzalezvivo/lygia</title>
+    <link href="https://github.com/patriciogonzalezvivo/lygia" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">LYGIA, it's a granular and multi-language (GLSL, HLSL, WGSL, MSL and CUDA) shader library designed for performance and flexibility</content>
+  </entry>
+</feed>

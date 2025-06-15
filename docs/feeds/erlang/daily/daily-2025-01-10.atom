@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-10T11:13:01+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/uwiger/gproc#1736507581</id>
+    <title>https://github.com/uwiger/gproc</title>
+    <link href="https://github.com/uwiger/gproc" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">Extended process registry for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-ls/erlang_ls#1736507581</id>
+    <title>https://github.com/erlang-ls/erlang_ls</title>
+    <link href="https://github.com/erlang-ls/erlang_ls" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">The Erlang Language Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1736507581</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-beam/aws-erlang#1736507581</id>
+    <title>https://github.com/aws-beam/aws-erlang</title>
+    <link href="https://github.com/aws-beam/aws-erlang" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">Create, configure, and manage AWS services from Erlang code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1736507581</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blt/port_compiler#1736507581</id>
+    <title>https://github.com/blt/port_compiler</title>
+    <link href="https://github.com/blt/port_compiler" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">A rebar3 port compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josefs/Gradualizer#1736507581</id>
+    <title>https://github.com/josefs/Gradualizer</title>
+    <link href="https://github.com/josefs/Gradualizer" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">A Gradual type system for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/talentdeficit/jsx#1736507581</id>
+    <title>https://github.com/talentdeficit/jsx</title>
+    <link href="https://github.com/talentdeficit/jsx" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">an erlang application for consuming, producing and manipulating json. inspired by yajl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlware/relx#1736507581</id>
+    <title>https://github.com/erlware/relx</title>
+    <link href="https://github.com/erlware/relx" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">Sane, simple release creation for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1736507581</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1736507581</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/ranch#1736507581</id>
+    <title>https://github.com/ninenines/ranch</title>
+    <link href="https://github.com/ninenines/ranch" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">Socket acceptor pool for TCP protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/devinus/poolboy#1736507581</id>
+    <title>https://github.com/devinus/poolboy</title>
+    <link href="https://github.com/devinus/poolboy" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">A hunky Erlang worker pool factory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jcomellas/getopt#1736507581</id>
+    <title>https://github.com/jcomellas/getopt</title>
+    <link href="https://github.com/jcomellas/getopt" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">Erlang module to parse command line arguments using the GNU getopt syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1736507581</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1736507581</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1736507581</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-01-10T11:13:01+00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+</feed>

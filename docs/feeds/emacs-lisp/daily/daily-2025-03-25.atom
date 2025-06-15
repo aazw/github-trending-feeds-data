@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/chep/copilot-chat.el#1742860800</id>
+    <title>https://github.com/chep/copilot-chat.el</title>
+    <link href="https://github.com/chep/copilot-chat.el" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Chat with Github copilot in Emacs !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1742860800</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1742860800</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1742860800</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1742860800</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kickingvegas/casual#1742860800</id>
+    <title>https://github.com/kickingvegas/casual</title>
+    <link href="https://github.com/kickingvegas/casual" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A collection of opinionated keyboard-driven user interfaces for various built-in Emacs modes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1742860800</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1742860800</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/org-roam/org-roam#1742860800</id>
+    <title>https://github.com/org-roam/org-roam</title>
+    <link href="https://github.com/org-roam/org-roam" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Rudimentary Roam replica with Org-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/progfolio/elpaca#1742860800</id>
+    <title>https://github.com/progfolio/elpaca</title>
+    <link href="https://github.com/progfolio/elpaca" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">An elisp package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1742860800</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs.d#1742860800</id>
+    <title>https://github.com/purcell/emacs.d</title>
+    <link href="https://github.com/purcell/emacs.d" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">An Emacs configuration bundle with batteries included</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/package-lint#1742860800</id>
+    <title>https://github.com/purcell/package-lint</title>
+    <link href="https://github.com/purcell/package-lint" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A linting library for elisp package metadata</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1742860800</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1742860800</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

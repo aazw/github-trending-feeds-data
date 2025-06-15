@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CocoaPods/CocoaPods#1738886400</id>
+    <title>https://github.com/CocoaPods/CocoaPods</title>
+    <link href="https://github.com/CocoaPods/CocoaPods" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">The Cocoa Dependency Manager.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/brew#1738886400</id>
+    <title>https://github.com/Homebrew/brew</title>
+    <link href="https://github.com/Homebrew/brew" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">🍺 The missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-cask#1738886400</id>
+    <title>https://github.com/Homebrew/homebrew-cask</title>
+    <link href="https://github.com/Homebrew/homebrew-cask" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">🍻 A CLI workflow for the administration of macOS applications distributed as binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThrowTheSwitch/Ceedling#1738886400</id>
+    <title>https://github.com/ThrowTheSwitch/Ceedling</title>
+    <link href="https://github.com/ThrowTheSwitch/Ceedling" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Ruby-based unit testing and build system for C projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexrudall/ruby-openai#1738886400</id>
+    <title>https://github.com/alexrudall/ruby-openai</title>
+    <link href="https://github.com/alexrudall/ruby-openai" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">OpenAI API + Ruby! 🤖❤️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/avo-hq/avo#1738886400</id>
+    <title>https://github.com/avo-hq/avo</title>
+    <link href="https://github.com/avo-hq/avo" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Build Ruby on Rails apps 10x faster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/kamal#1738886400</id>
+    <title>https://github.com/basecamp/kamal</title>
+    <link href="https://github.com/basecamp/kamal" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Deploy web apps anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bblimke/webmock#1738886400</id>
+    <title>https://github.com/bblimke/webmock</title>
+    <link href="https://github.com/bblimke/webmock" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Library for stubbing and setting expectations on HTTP requests in Ruby.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chatwoot/chatwoot#1738886400</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/discourse/discourse#1738886400</id>
+    <title>https://github.com/discourse/discourse</title>
+    <link href="https://github.com/discourse/discourse" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A platform for community discussion. Free, open, simple.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/faker-ruby/faker#1738886400</id>
+    <title>https://github.com/faker-ruby/faker</title>
+    <link href="https://github.com/faker-ruby/faker" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A library for generating fake data such as names, addresses, and phone numbers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flippercloud/flipper#1738886400</id>
+    <title>https://github.com/flippercloud/flipper</title>
+    <link href="https://github.com/flippercloud/flipper" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">🐬 Beautiful, performant feature flags for Ruby.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heartcombo/devise#1738886400</id>
+    <title>https://github.com/heartcombo/devise</title>
+    <link href="https://github.com/heartcombo/devise" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Flexible authentication solution for Rails with Warden.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huginn/huginn#1738886400</id>
+    <title>https://github.com/huginn/huginn</title>
+    <link href="https://github.com/huginn/huginn" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Create agents that monitor and act on your behalf. Your agents are standing by!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instructure/canvas-lms#1738886400</id>
+    <title>https://github.com/instructure/canvas-lms</title>
+    <link href="https://github.com/instructure/canvas-lms" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">The open LMS by Instructure, Inc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekyll/jekyll#1738886400</id>
+    <title>https://github.com/jekyll/jekyll</title>
+    <link href="https://github.com/jekyll/jekyll" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">🌐 Jekyll is a blog-aware static site generator in Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maybe-finance/maybe#1738886400</id>
+    <title>https://github.com/maybe-finance/maybe</title>
+    <link href="https://github.com/maybe-finance/maybe" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">The OS for your personal finances</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opf/openproject#1738886400</id>
+    <title>https://github.com/opf/openproject</title>
+    <link href="https://github.com/opf/openproject" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">OpenProject is the leading open source project management software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/postalserver/postal#1738886400</id>
+    <title>https://github.com/postalserver/postal</title>
+    <link href="https://github.com/postalserver/postal" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1738886400</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rmosolgo/graphql-ruby#1738886400</id>
+    <title>https://github.com/rmosolgo/graphql-ruby</title>
+    <link href="https://github.com/rmosolgo/graphql-ruby" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Ruby implementation of GraphQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/varvet/pundit#1738886400</id>
+    <title>https://github.com/varvet/pundit</title>
+    <link href="https://github.com/varvet/pundit" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Minimal authorization through OO design and pure Ruby classes</content>
+  </entry>
+</feed>

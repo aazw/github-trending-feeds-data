@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom</id>
+  <title>GitHub Trending - java (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/dd-trace-java#1748908800</id>
+    <title>https://github.com/DataDog/dd-trace-java</title>
+    <link href="https://github.com/DataDog/dd-trace-java" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Datadog APM client for Java</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NationalSecurityAgency/ghidra#1748908800</id>
+    <title>https://github.com/NationalSecurityAgency/ghidra</title>
+    <link href="https://github.com/NationalSecurityAgency/ghidra" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Ghidra is a software reverse engineering (SRE) framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenAPITools/openapi-generator#1748908800</id>
+    <title>https://github.com/OpenAPITools/openapi-generator</title>
+    <link href="https://github.com/OpenAPITools/openapi-generator" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/camel#1748908800</id>
+    <title>https://github.com/apache/camel</title>
+    <link href="https://github.com/apache/camel" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/iceberg#1748908800</id>
+    <title>https://github.com/apache/iceberg</title>
+    <link href="https://github.com/apache/iceberg" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Apache Iceberg</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cryptomator/cryptomator#1748908800</id>
+    <title>https://github.com/cryptomator/cryptomator</title>
+    <link href="https://github.com/cryptomator/cryptomator" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Cryptomator for Windows, macOS, and Linux: Secure client-side encryption for your cloud storage, ensuring privacy and control over your data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elastic/elasticsearch#1748908800</id>
+    <title>https://github.com/elastic/elasticsearch</title>
+    <link href="https://github.com/elastic/elasticsearch" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Free and Open Source, Distributed, RESTful Search Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junit-team/junit5#1748908800</id>
+    <title>https://github.com/junit-team/junit5</title>
+    <link href="https://github.com/junit-team/junit5" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">✅ The programmer-friendly testing framework for Java and the JVM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/liferay/liferay-portal#1748908800</id>
+    <title>https://github.com/liferay/liferay-portal</title>
+    <link href="https://github.com/liferay/liferay-portal" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/openrewrite/rewrite#1748908800</id>
+    <title>https://github.com/openrewrite/rewrite</title>
+    <link href="https://github.com/openrewrite/rewrite" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Automated mass refactoring of source code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/questdb/questdb#1748908800</id>
+    <title>https://github.com/questdb/questdb</title>
+    <link href="https://github.com/questdb/questdb" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">QuestDB is a high performance, open-source, time-series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/signalapp/Signal-Server#1748908800</id>
+    <title>https://github.com/signalapp/Signal-Server</title>
+    <link href="https://github.com/signalapp/Signal-Server" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-security#1748908800</id>
+    <title>https://github.com/spring-projects/spring-security</title>
+    <link href="https://github.com/spring-projects/spring-security" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Spring Security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/termux/termux-app#1748908800</id>
+    <title>https://github.com/termux/termux-app</title>
+    <link href="https://github.com/termux/termux-app" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Termux - a terminal emulator application for Android OS extendible by variety of packages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thingsboard/thingsboard#1748908800</id>
+    <title>https://github.com/thingsboard/thingsboard</title>
+    <link href="https://github.com/thingsboard/thingsboard" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Open-source IoT Platform - Device management, data collection, processing and visualization.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trinodb/trino#1748908800</id>
+    <title>https://github.com/trinodb/trino</title>
+    <link href="https://github.com/trinodb/trino" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL (https://trino.io)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiaojieonly/Ehviewer_CN_SXJ#1748908800</id>
+    <title>https://github.com/xiaojieonly/Ehviewer_CN_SXJ</title>
+    <link href="https://github.com/xiaojieonly/Ehviewer_CN_SXJ" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">ehviewer，用爱发电，快乐前行</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zaproxy/zaproxy#1748908800</id>
+    <title>https://github.com/zaproxy/zaproxy</title>
+    <link href="https://github.com/zaproxy/zaproxy" />
+    <updated>2025-06-03T00:00:00</updated>
+    <content type="text">The ZAP by Checkmarx Core project</content>
+  </entry>
+</feed>

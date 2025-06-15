@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bicep/weekly.atom</id>
+  <title>GitHub Trending - bicep (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bicep/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure-Samples/contoso-chat#1749427200</id>
+    <title>https://github.com/Azure-Samples/contoso-chat</title>
+    <link href="https://github.com/Azure-Samples/contoso-chat" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">This sample has the full End2End process of creating RAG application with Prompty and Azure AI Foundry. It includes GPT-4 LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/get-started-with-ai-agents#1749427200</id>
+    <title>https://github.com/Azure-Samples/get-started-with-ai-agents</title>
+    <link href="https://github.com/Azure-Samples/get-started-with-ai-agents" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Basic sample for deploying AI agents web app with Azure AI Foundry and SDKs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/get-started-with-ai-chat#1749427200</id>
+    <title>https://github.com/Azure-Samples/get-started-with-ai-chat</title>
+    <link href="https://github.com/Azure-Samples/get-started-with-ai-chat" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Basic sample for deploying chat web apps with Azure AI Foundry and SDKs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app#1749427200</id>
+    <title>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</title>
+    <link href="https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A sample Express.js app using a MongoDB database to show how to host Node.js app in Azure App service using Azure Cosmos DB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart#1749427200</id>
+    <title>https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart</title>
+    <link href="https://github.com/Azure-Samples/msdocs-python-flask-webapp-quickstart" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Contains the sample application for the App Service Quickstart in Python using Flask.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/ALZ-Bicep#1749427200</id>
+    <title>https://github.com/Azure/ALZ-Bicep</title>
+    <link href="https://github.com/Azure/ALZ-Bicep" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">This repository contains the Azure Landing Zones (ALZ) Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-monitor-baseline-alerts#1749427200</id>
+    <title>https://github.com/Azure/azure-monitor-baseline-alerts</title>
+    <link href="https://github.com/Azure/azure-monitor-baseline-alerts" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Azure Monitor Baseline Alerts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-quickstart-templates#1749427200</id>
+    <title>https://github.com/Azure/azure-quickstart-templates</title>
+    <link href="https://github.com/Azure/azure-quickstart-templates" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Azure Quickstart Templates</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/bicep-registry-modules#1749427200</id>
+    <title>https://github.com/Azure/bicep-registry-modules</title>
+    <link href="https://github.com/Azure/bicep-registry-modules" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Bicep registry modules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github-copilot-resources/copilot-metrics-viewer#1749427200</id>
+    <title>https://github.com/github-copilot-resources/copilot-metrics-viewer</title>
+    <link href="https://github.com/github-copilot-resources/copilot-metrics-viewer" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/azure-container-apps#1749427200</id>
+    <title>https://github.com/microsoft/azure-container-apps</title>
+    <link href="https://github.com/microsoft/azure-container-apps" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Roadmap and issues for Azure Container Apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop#1749427200</id>
+    <title>https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop</title>
+    <link href="https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Build your first agent with Azure AI Agent Service Workshop</content>
+  </entry>
+</feed>

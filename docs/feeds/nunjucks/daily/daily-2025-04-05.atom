@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nunjucks/daily.atom</id>
+  <title>GitHub Trending - nunjucks (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nunjucks/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/11ty/11ty-website#1743811200</id>
+    <title>https://github.com/11ty/11ty-website</title>
+    <link href="https://github.com/11ty/11ty-website" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Documentation site for the Eleventy static site generator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ksylor/ohshitgit#1743811200</id>
+    <title>https://github.com/ksylor/ohshitgit</title>
+    <link href="https://github.com/ksylor/ohshitgit" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">The official home of Oh Shit, Git!?!</content>
+  </entry>
+</feed>

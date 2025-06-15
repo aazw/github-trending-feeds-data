@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OffchainLabs/blockscout#1739059200</id>
+    <title>https://github.com/OffchainLabs/blockscout</title>
+    <link href="https://github.com/OffchainLabs/blockscout" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/anoma#1739059200</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1739059200</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash_postgres#1739059200</id>
+    <title>https://github.com/ash-project/ash_postgres</title>
+    <link href="https://github.com/ash-project/ash_postgres" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The PostgreSQL data layer for Ash Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brainlid/langchain#1739059200</id>
+    <title>https://github.com/brainlid/langchain</title>
+    <link href="https://github.com/brainlid/langchain" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1739059200</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Sync little subsets of your Postgres data into local apps and services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-ecto/postgrex#1739059200</id>
+    <title>https://github.com/elixir-ecto/postgrex</title>
+    <link href="https://github.com/elixir-ecto/postgrex" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">PostgreSQL driver for Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1739059200</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1739059200</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1739059200</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1739059200</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mirego/accent#1739059200</id>
+    <title>https://github.com/mirego/accent</title>
+    <link href="https://github.com/mirego/accent" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The first developer-oriented translation tool. True asynchronous flow between translators and your team.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1739059200</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1739059200</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1739059200</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1739059200</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+</feed>

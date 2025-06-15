@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BurntSushi/ripgrep#1749686400</id>
+    <title>https://github.com/BurntSushi/ripgrep</title>
+    <link href="https://github.com/BurntSushi/ripgrep" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EFForg/rayhunter#1749686400</id>
+    <title>https://github.com/EFForg/rayhunter</title>
+    <link href="https://github.com/EFForg/rayhunter" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Rust tool to detect cell site simulators on an orbic mobile hotspot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GraphiteEditor/Graphite#1749686400</id>
+    <title>https://github.com/GraphiteEditor/Graphite</title>
+    <link href="https://github.com/GraphiteEditor/Graphite" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">2D vector &amp; raster editor that melds traditional layers &amp; tools with a modern node-based, non-destructive, procedural workflow.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1749686400</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-zenoh/zenoh#1749686400</id>
+    <title>https://github.com/eclipse-zenoh/zenoh</title>
+    <link href="https://github.com/eclipse-zenoh/zenoh" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">zenoh unifies data in motion, data in-use, data at rest and computations. It carefully blends traditional pub/sub with geo-distributed storages, queries and computations, while retaining a level of time and space efficiency that is well beyond any of the mainstream stacks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eythaann/Seelen-UI#1749686400</id>
+    <title>https://github.com/eythaann/Seelen-UI</title>
+    <link href="https://github.com/eythaann/Seelen-UI" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">The Fully Customizable Desktop Environment for Windows 10/11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/garyttierney/me3#1749686400</id>
+    <title>https://github.com/garyttierney/me3</title>
+    <link href="https://github.com/garyttierney/me3" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">A framework for modding and instrumenting games.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greenbone/openvas-scanner#1749686400</id>
+    <title>https://github.com/greenbone/openvas-scanner</title>
+    <link href="https://github.com/greenbone/openvas-scanner" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">This repository contains the scanner component for Greenbone Community Edition.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1749686400</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdx/mise#1749686400</id>
+    <title>https://github.com/jdx/mise</title>
+    <link href="https://github.com/jdx/mise" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">dev tools, env vars, task runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1749686400</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kata-containers/kata-containers#1749686400</id>
+    <title>https://github.com/kata-containers/kata-containers</title>
+    <link href="https://github.com/kata-containers/kata-containers" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1749686400</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1749686400</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell#1749686400</id>
+    <title>https://github.com/nushell/nushell</title>
+    <link href="https://github.com/nushell/nushell" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">A new type of shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxc-project/oxc#1749686400</id>
+    <title>https://github.com/oxc-project/oxc</title>
+    <link href="https://github.com/oxc-project/oxc" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">⚓ A collection of JavaScript tools written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rivet-gg/rivet#1749686400</id>
+    <title>https://github.com/rivet-gg/rivet</title>
+    <link href="https://github.com/rivet-gg/rivet" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">🔩 The open-source serverless platform. Easily deploy &amp; scale AI agents, complex workloads, and backends — all on a frictionless platform that runs anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1749686400</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana#1749686400</id>
+    <title>https://github.com/solana-labs/solana</title>
+    <link href="https://github.com/solana-labs/solana" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1749686400</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1749686400</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1749686400</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-06-12T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+</feed>

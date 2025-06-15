@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom</id>
+  <title>GitHub Trending - unknown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/unknown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xk1h0/ChatGPT_DAN#1748217600</id>
+    <title>https://github.com/0xk1h0/ChatGPT_DAN</title>
+    <link href="https://github.com/0xk1h0/ChatGPT_DAN" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">ChatGPT DAN, Jailbreaks prompt</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AnthonyCalandra/modern-cpp-features#1748217600</id>
+    <title>https://github.com/AnthonyCalandra/modern-cpp-features</title>
+    <link href="https://github.com/AnthonyCalandra/modern-cpp-features" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A cheatsheet of modern C++ language and library features.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/friuns2/BlackFriday-GPTs-Prompts#1748217600</id>
+    <title>https://github.com/friuns2/BlackFriday-GPTs-Prompts</title>
+    <link href="https://github.com/friuns2/BlackFriday-GPTs-Prompts" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">List of free GPTs that doesn't require plus subscription</content>
+  </entry>
+</feed>

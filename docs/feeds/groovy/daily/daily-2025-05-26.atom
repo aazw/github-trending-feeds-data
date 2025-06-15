@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom</id>
+  <title>GitHub Trending - groovy (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/gradle/gradle#1748217600</id>
+    <title>https://github.com/gradle/gradle</title>
+    <link href="https://github.com/gradle/gradle" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Adaptable, fast automation for all</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jenkinsci/job-dsl-plugin#1748217600</id>
+    <title>https://github.com/jenkinsci/job-dsl-plugin</title>
+    <link href="https://github.com/jenkinsci/job-dsl-plugin" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A Groovy DSL for Jenkins Jobs - Sweeeeet!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jenkinsci/pipeline-examples#1748217600</id>
+    <title>https://github.com/jenkinsci/pipeline-examples</title>
+    <link href="https://github.com/jenkinsci/pipeline-examples" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A collection of examples, tips and tricks and snippets of scripting for the Jenkins Pipeline plugin</content>
+  </entry>
+</feed>

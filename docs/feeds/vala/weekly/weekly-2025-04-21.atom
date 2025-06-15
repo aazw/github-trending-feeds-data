@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vala/weekly.atom</id>
+  <title>GitHub Trending - vala (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vala/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Aylur/astal#1745193600</id>
+    <title>https://github.com/Aylur/astal</title>
+    <link href="https://github.com/Aylur/astal" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Building blocks for creating custom desktop shells</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ErikReider/SwayNotificationCenter#1745193600</id>
+    <title>https://github.com/ErikReider/SwayNotificationCenter</title>
+    <link href="https://github.com/ErikReider/SwayNotificationCenter" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A simple GTK based notification daemon for any Wayland compositor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxmint/timeshift#1745193600</id>
+    <title>https://github.com/linuxmint/timeshift</title>
+    <link href="https://github.com/linuxmint/timeshift" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/martinpitt/umockdev#1745193600</id>
+    <title>https://github.com/martinpitt/umockdev</title>
+    <link href="https://github.com/martinpitt/umockdev" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Mock hardware devices for creating unit tests and bug reporting</content>
+  </entry>
+</feed>

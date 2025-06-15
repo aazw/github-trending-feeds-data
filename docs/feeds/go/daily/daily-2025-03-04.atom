@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cert-manager/cert-manager#1741046400</id>
+    <title>https://github.com/cert-manager/cert-manager</title>
+    <link href="https://github.com/cert-manager/cert-manager" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Automatically provision and manage TLS certificates in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dapr/dapr#1741046400</id>
+    <title>https://github.com/dapr/dapr</title>
+    <link href="https://github.com/dapr/dapr" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eksctl-io/eksctl#1741046400</id>
+    <title>https://github.com/eksctl-io/eksctl</title>
+    <link href="https://github.com/eksctl-io/eksctl" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">The official CLI for Amazon EKS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/gateway#1741046400</id>
+    <title>https://github.com/envoyproxy/gateway</title>
+    <link href="https://github.com/envoyproxy/gateway" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evcc-io/evcc#1741046400</id>
+    <title>https://github.com/evcc-io/evcc</title>
+    <link href="https://github.com/evcc-io/evcc" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Solar Charging ☀️🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1741046400</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-chi/chi#1741046400</id>
+    <title>https://github.com/go-chi/chi</title>
+    <link href="https://github.com/go-chi/chi" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">lightweight, idiomatic and composable router for building Go HTTP services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gitea/gitea#1741046400</id>
+    <title>https://github.com/go-gitea/gitea</title>
+    <link href="https://github.com/go-gitea/gitea" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-kit/kit#1741046400</id>
+    <title>https://github.com/go-kit/kit</title>
+    <link href="https://github.com/go-kit/kit" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A standard library for microservices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/cadvisor#1741046400</id>
+    <title>https://github.com/google/cadvisor</title>
+    <link href="https://github.com/google/cadvisor" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Analyzes resource usage and performance characteristics of running containers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1741046400</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1741046400</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1741046400</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1741046400</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3s-io/k3s#1741046400</id>
+    <title>https://github.com/k3s-io/k3s</title>
+    <link href="https://github.com/k3s-io/k3s" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Lightweight Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/dashboard#1741046400</id>
+    <title>https://github.com/kubernetes/dashboard</title>
+    <link href="https://github.com/kubernetes/dashboard" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">General-purpose web UI for Kubernetes clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labstack/echo#1741046400</id>
+    <title>https://github.com/labstack/echo</title>
+    <link href="https://github.com/labstack/echo" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">High performance, minimalist Go web framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1741046400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1741046400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus-operator/prometheus-operator#1741046400</id>
+    <title>https://github.com/prometheus-operator/prometheus-operator</title>
+    <link href="https://github.com/prometheus-operator/prometheus-operator" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes</content>
+  </entry>
+</feed>

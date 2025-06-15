@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JuliaArrays/FixedSizeArrays.jl#1748736000</id>
+    <title>https://github.com/JuliaArrays/FixedSizeArrays.jl</title>
+    <link href="https://github.com/JuliaArrays/FixedSizeArrays.jl" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Fixed-size multidimensional arrays. An Array-like type with less indirection at the cost of resizing capability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1748736000</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1748736000</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MSRudolph/PauliPropagation.jl#1748736000</id>
+    <title>https://github.com/MSRudolph/PauliPropagation.jl</title>
+    <link href="https://github.com/MSRudolph/PauliPropagation.jl" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">A Julia library for Pauli propagation simulation of quantum circuits and quantum systems.</content>
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/puppet/daily.atom</id>
+  <title>GitHub Trending - puppet (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/puppet/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/saz/puppet-rsyslog#1742515200</id>
+    <title>https://github.com/saz/puppet-rsyslog</title>
+    <link href="https://github.com/saz/puppet-rsyslog" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Manage rsyslog through puppet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voxpupuli/puppet-gitlab#1742515200</id>
+    <title>https://github.com/voxpupuli/puppet-gitlab</title>
+    <link href="https://github.com/voxpupuli/puppet-gitlab" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Puppet module to manage Gitlab (Omnibus)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voxpupuli/puppet-icinga2#1742515200</id>
+    <title>https://github.com/voxpupuli/puppet-icinga2</title>
+    <link href="https://github.com/voxpupuli/puppet-icinga2" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Puppet module to manage Icinga 2</content>
+  </entry>
+</feed>

@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-03T11:08:20+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/libuv/libuv#1735902500</id>
+    <title>https://github.com/libuv/libuv</title>
+    <link href="https://github.com/libuv/libuv" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">Cross-platform asynchronous I/O</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OP-TEE/optee_os#1735902500</id>
+    <title>https://github.com/OP-TEE/optee_os</title>
+    <link href="https://github.com/OP-TEE/optee_os" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">Trusted side of the TEE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xCuri0/ReBarUEFI#1735902500</id>
+    <title>https://github.com/xCuri0/ReBarUEFI</title>
+    <link href="https://github.com/xCuri0/ReBarUEFI" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">Resizable BAR for (almost) any UEFI system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jemalloc/jemalloc#1735902500</id>
+    <title>https://github.com/jemalloc/jemalloc</title>
+    <link href="https://github.com/jemalloc/jemalloc" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/madler/zlib#1735902500</id>
+    <title>https://github.com/madler/zlib</title>
+    <link href="https://github.com/madler/zlib" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">A massively spiffy yet delicately unobtrusive compression library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-idf#1735902500</id>
+    <title>https://github.com/espressif/esp-idf</title>
+    <link href="https://github.com/espressif/esp-idf" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">Espressif IoT Development Framework. Official development framework for Espressif SoCs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gentilkiwi/mimikatz#1735902500</id>
+    <title>https://github.com/gentilkiwi/mimikatz</title>
+    <link href="https://github.com/gentilkiwi/mimikatz" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">A little tool to play with Windows security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libevent/libevent#1735902500</id>
+    <title>https://github.com/libevent/libevent</title>
+    <link href="https://github.com/libevent/libevent" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">Event notification library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv-collab/riscv-gnu-toolchain#1735902500</id>
+    <title>https://github.com/riscv-collab/riscv-gnu-toolchain</title>
+    <link href="https://github.com/riscv-collab/riscv-gnu-toolchain" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">GNU toolchain for RISC-V, including GCC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FelixKratz/SketchyBar#1735902500</id>
+    <title>https://github.com/FelixKratz/SketchyBar</title>
+    <link href="https://github.com/FelixKratz/SketchyBar" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">A highly customizable macOS status bar replacement</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redcanaryco/atomic-red-team#1735902500</id>
+    <title>https://github.com/redcanaryco/atomic-red-team</title>
+    <link href="https://github.com/redcanaryco/atomic-red-team" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">Small and highly portable detection tests based on MITRE's ATT&amp;CK.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FreeRDP/FreeRDP#1735902500</id>
+    <title>https://github.com/FreeRDP/FreeRDP</title>
+    <link href="https://github.com/FreeRDP/FreeRDP" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">FreeRDP is a free remote desktop protocol library and clients</content>
+  </entry>
+  <entry>
+    <id>https://github.com/taosdata/TDengine#1735902500</id>
+    <title>https://github.com/taosdata/TDengine</title>
+    <link href="https://github.com/taosdata/TDengine" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">High-performance, scalable time-series database designed for Industrial IoT (IIoT) scenarios</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqlcipher/sqlcipher#1735902500</id>
+    <title>https://github.com/sqlcipher/sqlcipher</title>
+    <link href="https://github.com/sqlcipher/sqlcipher" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nrfconnect/sdk-nrf#1735902500</id>
+    <title>https://github.com/nrfconnect/sdk-nrf</title>
+    <link href="https://github.com/nrfconnect/sdk-nrf" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">nRF Connect SDK main repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/crun#1735902500</id>
+    <title>https://github.com/containers/crun</title>
+    <link href="https://github.com/containers/crun" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">A fast and lightweight fully featured OCI runtime and C library for running containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mackron/miniaudio#1735902500</id>
+    <title>https://github.com/mackron/miniaudio</title>
+    <link href="https://github.com/mackron/miniaudio" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">Audio playback and capture library written in C, in a single source file.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arthenica/ffmpeg-kit#1735902500</id>
+    <title>https://github.com/arthenica/ffmpeg-kit</title>
+    <link href="https://github.com/arthenica/ffmpeg-kit" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FreeRTOS/FreeRTOS#1735902500</id>
+    <title>https://github.com/FreeRTOS/FreeRTOS</title>
+    <link href="https://github.com/FreeRTOS/FreeRTOS" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pgvector/pgvector#1735902500</id>
+    <title>https://github.com/pgvector/pgvector</title>
+    <link href="https://github.com/pgvector/pgvector" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">Open-source vector similarity search for Postgres</content>
+  </entry>
+  <entry>
+    <id>https://github.com/valkey-io/valkey#1735902500</id>
+    <title>https://github.com/valkey-io/valkey</title>
+    <link href="https://github.com/valkey-io/valkey" />
+    <updated>2025-01-03T11:08:20+00:00</updated>
+    <content type="text">A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.</content>
+  </entry>
+</feed>

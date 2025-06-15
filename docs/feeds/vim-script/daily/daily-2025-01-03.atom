@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-03T11:30:01+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/preservim/nerdcommenter#1735903801</id>
+    <title>https://github.com/preservim/nerdcommenter</title>
+    <link href="https://github.com/preservim/nerdcommenter" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">Vim plugin for intensely nerdy commenting powers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1735903801</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1735903801</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1735903801</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/machakann/vim-highlightedyank#1735903801</id>
+    <title>https://github.com/machakann/vim-highlightedyank</title>
+    <link href="https://github.com/machakann/vim-highlightedyank" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">Make the yanked region apparent!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-syntastic/syntastic#1735903801</id>
+    <title>https://github.com/vim-syntastic/syntastic</title>
+    <link href="https://github.com/vim-syntastic/syntastic" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">Syntax checking hacks for vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1735903801</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kien/ctrlp.vim#1735903801</id>
+    <title>https://github.com/kien/ctrlp.vim</title>
+    <link href="https://github.com/kien/ctrlp.vim" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">Fuzzy file, buffer, mru, tag, etc finder.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lambdalisue/vim-fern#1735903801</id>
+    <title>https://github.com/lambdalisue/vim-fern</title>
+    <link href="https://github.com/lambdalisue/vim-fern" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">🌿 General purpose asynchronous tree viewer written in Pure Vim script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kchmck/vim-coffee-script#1735903801</id>
+    <title>https://github.com/kchmck/vim-coffee-script</title>
+    <link href="https://github.com/kchmck/vim-coffee-script" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">CoffeeScript support for vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vim-indent-guides#1735903801</id>
+    <title>https://github.com/preservim/vim-indent-guides</title>
+    <link href="https://github.com/preservim/vim-indent-guides" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">A Vim plugin for visually displaying indent levels in code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1735903801</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1735903801</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1735903801</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1735903801</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1735903801</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpaceVim/SpaceVim#1735903801</id>
+    <title>https://github.com/SpaceVim/SpaceVim</title>
+    <link href="https://github.com/SpaceVim/SpaceVim" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">A modular configuration of Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1735903801</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1735903801</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-01-03T11:30:01+00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+</feed>

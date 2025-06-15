@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xPlaygrounds/rig#1739491200</id>
+    <title>https://github.com/0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EricLBuehler/mistral.rs#1739491200</id>
+    <title>https://github.com/EricLBuehler/mistral.rs</title>
+    <link href="https://github.com/EricLBuehler/mistral.rs" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Blazingly fast LLM inference.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1739491200</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1739491200</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/block/goose#1739491200</id>
+    <title>https://github.com/block/goose</title>
+    <link href="https://github.com/block/goose" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cross-rs/cross#1739491200</id>
+    <title>https://github.com/cross-rs/cross</title>
+    <link href="https://github.com/cross-rs/cross" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">“Zero setup” cross compilation and “cross testing” of Rust crates</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-rs#1739491200</id>
+    <title>https://github.com/delta-io/delta-rs</title>
+    <link href="https://github.com/delta-io/delta-rs" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">A native Rust library for Delta Lake, with bindings into Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/foundry#1739491200</id>
+    <title>https://github.com/foundry-rs/foundry</title>
+    <link href="https://github.com/foundry-rs/foundry" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1739491200</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inko-lang/inko#1739491200</id>
+    <title>https://github.com/inko-lang/inko</title>
+    <link href="https://github.com/inko-lang/inko" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">A language for building concurrent software with confidence</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1739491200</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mufeedvh/code2prompt#1739491200</id>
+    <title>https://github.com/mufeedvh/code2prompt</title>
+    <link href="https://github.com/mufeedvh/code2prompt" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ouch-org/ouch#1739491200</id>
+    <title>https://github.com/ouch-org/ouch</title>
+    <link href="https://github.com/ouch-org/ouch" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Painless compression and decompression in the terminal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/piotrostr/listen#1739491200</id>
+    <title>https://github.com/piotrostr/listen</title>
+    <link href="https://github.com/piotrostr/listen" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Solana Swiss Army Knife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rpcpool/yellowstone-grpc#1739491200</id>
+    <title>https://github.com/rpcpool/yellowstone-grpc</title>
+    <link href="https://github.com/rpcpool/yellowstone-grpc" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">solana geyser grpc service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust#1739491200</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1739491200</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1739491200</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1739491200</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

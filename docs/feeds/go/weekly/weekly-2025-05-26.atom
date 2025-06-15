@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1748217600</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/a-h/templ#1748217600</id>
+    <title>https://github.com/a-h/templ</title>
+    <link href="https://github.com/a-h/templ" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A language for writing HTML user interfaces in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1748217600</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytebase/bytebase#1748217600</id>
+    <title>https://github.com/bytebase/bytebase</title>
+    <link href="https://github.com/bytebase/bytebase" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chaitin/SafeLine#1748217600</id>
+    <title>https://github.com/chaitin/SafeLine</title>
+    <link href="https://github.com/chaitin/SafeLine" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cli/cli#1748217600</id>
+    <title>https://github.com/cli/cli</title>
+    <link href="https://github.com/cli/cli" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">GitHub’s official command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databus23/helm-diff#1748217600</id>
+    <title>https://github.com/databus23/helm-diff</title>
+    <link href="https://github.com/databus23/helm-diff" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A helm plugin that shows a diff explaining what a helm upgrade would change</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dunglas/frankenphp#1748217600</id>
+    <title>https://github.com/dunglas/frankenphp</title>
+    <link href="https://github.com/dunglas/frankenphp" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">🧟 The modern PHP app server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1748217600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1748217600</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keploy/keploy#1748217600</id>
+    <title>https://github.com/keploy/keploy</title>
+    <link href="https://github.com/keploy/keploy" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kyverno/kyverno#1748217600</id>
+    <title>https://github.com/kyverno/kyverno</title>
+    <link href="https://github.com/kyverno/kyverno" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Cloud Native Policy Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livekit/livekit#1748217600</id>
+    <title>https://github.com/livekit/livekit</title>
+    <link href="https://github.com/livekit/livekit" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">End-to-end stack for WebRTC. SFU media server and SDKs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/typescript-go#1748217600</id>
+    <title>https://github.com/microsoft/typescript-go</title>
+    <link href="https://github.com/microsoft/typescript-go" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Staging repo for development of native port of TypeScript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minio/minio#1748217600</id>
+    <title>https://github.com/minio/minio</title>
+    <link href="https://github.com/minio/minio" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelcontextprotocol/registry#1748217600</id>
+    <title>https://github.com/modelcontextprotocol/registry</title>
+    <link href="https://github.com/modelcontextprotocol/registry" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A community driven registry service for Model Context Protocol (MCP) servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1748217600</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1748217600</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1748217600</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1748217600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openimsdk/open-im-server#1748217600</id>
+    <title>https://github.com/openimsdk/open-im-server</title>
+    <link href="https://github.com/openimsdk/open-im-server" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">IM Chat ChatGPT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1748217600</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailscale/tailscale#1748217600</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1748217600</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+</feed>

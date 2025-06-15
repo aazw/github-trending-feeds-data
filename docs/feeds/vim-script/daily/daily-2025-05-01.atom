@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NLKNguyen/papercolor-theme#1746057600</id>
+    <title>https://github.com/NLKNguyen/papercolor-theme</title>
+    <link href="https://github.com/NLKNguyen/papercolor-theme" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">🎨 Light &amp; Dark Vim color schemes inspired by Google's Material Design</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1746057600</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1746057600</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/digitaltoad/vim-pug#1746057600</id>
+    <title>https://github.com/digitaltoad/vim-pug</title>
+    <link href="https://github.com/digitaltoad/vim-pug" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Vim Pug (formerly Jade) template engine syntax highlighting and indention</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1746057600</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1746057600</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/othree/html5.vim#1746057600</id>
+    <title>https://github.com/othree/html5.vim</title>
+    <link href="https://github.com/othree/html5.vim" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">HTML5 omnicomplete and syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pearofducks/ansible-vim#1746057600</id>
+    <title>https://github.com/pearofducks/ansible-vim</title>
+    <link href="https://github.com/pearofducks/ansible-vim" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A vim plugin for syntax highlighting Ansible's common filetypes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qpkorr/vim-bufkill#1746057600</id>
+    <title>https://github.com/qpkorr/vim-bufkill</title>
+    <link href="https://github.com/qpkorr/vim-bufkill" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Git repo for http://www.vim.org/scripts/script.php?script_id=1147</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust.vim#1746057600</id>
+    <title>https://github.com/rust-lang/rust.vim</title>
+    <link href="https://github.com/rust-lang/rust.vim" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Vim configuration for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tinted-theming/tinted-vim#1746057600</id>
+    <title>https://github.com/tinted-theming/tinted-vim</title>
+    <link href="https://github.com/tinted-theming/tinted-vim" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">tinted-vim refreshes and commits new themes weekly automatically and has a documented build process.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tommcdo/vim-exchange#1746057600</id>
+    <title>https://github.com/tommcdo/vim-exchange</title>
+    <link href="https://github.com/tommcdo/vim-exchange" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Easy text exchange operator for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1746057600</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-sensible#1746057600</id>
+    <title>https://github.com/tpope/vim-sensible</title>
+    <link href="https://github.com/tpope/vim-sensible" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">sensible.vim: Defaults everyone can agree on</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1746057600</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1746057600</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1746057600</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

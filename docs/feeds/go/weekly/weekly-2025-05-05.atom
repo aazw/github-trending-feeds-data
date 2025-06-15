@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DiceDB/dice#1746403200</id>
+    <title>https://github.com/DiceDB/dice</title>
+    <link href="https://github.com/DiceDB/dice" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/kubectl-ai#1746403200</id>
+    <title>https://github.com/GoogleCloudPlatform/kubectl-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/kubectl-ai" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">AI powered Kubernetes Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1746403200</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1746403200</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbletea#1746403200</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A powerful little TUI framework 🏗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1746403200</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ehang-io/nps#1746403200</id>
+    <title>https://github.com/ehang-io/nps</title>
+    <link href="https://github.com/ehang-io/nps" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1746403200</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibnaleem/gosearch#1746403200</id>
+    <title>https://github.com/ibnaleem/gosearch</title>
+    <link href="https://github.com/ibnaleem/gosearch" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">🔍 Search anyone's digital footprint across 300+ websites</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1746403200</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juanfont/headscale#1746403200</id>
+    <title>https://github.com/juanfont/headscale</title>
+    <link href="https://github.com/juanfont/headscale" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">An open source, self-hosted implementation of the Tailscale control server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgretzky/evilginx2#1746403200</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/knadh/listmonk#1746403200</id>
+    <title>https://github.com/knadh/listmonk</title>
+    <link href="https://github.com/knadh/listmonk" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kustomize#1746403200</id>
+    <title>https://github.com/kubernetes-sigs/kustomize</title>
+    <link href="https://github.com/kubernetes-sigs/kustomize" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Customization of kubernetes YAML configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1746403200</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1746403200</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1746403200</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/photoprism/photoprism#1746403200</id>
+    <title>https://github.com/photoprism/photoprism</title>
+    <link href="https://github.com/photoprism/photoprism" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">AI-Powered Photos App for the Decentralized Web 🌈💎✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redpanda-data/connect#1746403200</id>
+    <title>https://github.com/redpanda-data/connect</title>
+    <link href="https://github.com/redpanda-data/connect" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Fancy stream processing made operationally mundane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/siderolabs/talos#1746403200</id>
+    <title>https://github.com/siderolabs/talos</title>
+    <link href="https://github.com/siderolabs/talos" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Talos Linux is a modern Linux distribution built for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1746403200</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+</feed>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T11:14:12+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/wailsapp/wails#1736162052</id>
+    <title>https://github.com/wailsapp/wails</title>
+    <link href="https://github.com/wailsapp/wails" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Create beautiful applications using Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elastic/beats#1736162052</id>
+    <title>https://github.com/elastic/beats</title>
+    <link href="https://github.com/elastic/beats" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">🐠 Beats - Lightweight shippers for Elasticsearch &amp; Logstash</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simulot/immich-go#1736162052</id>
+    <title>https://github.com/simulot/immich-go</title>
+    <link href="https://github.com/simulot/immich-go" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1736162052</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1736162052</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1736162052</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1736162052</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1736162052</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/nuclei#1736162052</id>
+    <title>https://github.com/projectdiscovery/nuclei</title>
+    <link href="https://github.com/projectdiscovery/nuclei" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sundowndev/phoneinfoga#1736162052</id>
+    <title>https://github.com/sundowndev/phoneinfoga</title>
+    <link href="https://github.com/sundowndev/phoneinfoga" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Information gathering framework for phone numbers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/siderolabs/talos#1736162052</id>
+    <title>https://github.com/siderolabs/talos</title>
+    <link href="https://github.com/siderolabs/talos" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Talos Linux is a modern Linux distribution built for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1736162052</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/filebrowser/filebrowser#1736162052</id>
+    <title>https://github.com/filebrowser/filebrowser</title>
+    <link href="https://github.com/filebrowser/filebrowser" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">📂 Web File Browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1736162052</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1736162052</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jpillora/chisel#1736162052</id>
+    <title>https://github.com/jpillora/chisel</title>
+    <link href="https://github.com/jpillora/chisel" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">A fast TCP/UDP tunnel over HTTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sysadminsmedia/homebox#1736162052</id>
+    <title>https://github.com/sysadminsmedia/homebox</title>
+    <link href="https://github.com/sysadminsmedia/homebox" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">A continuation of HomeBox the inventory and organization system built for the Home User</content>
+  </entry>
+  <entry>
+    <id>https://github.com/owncast/owncast#1736162052</id>
+    <title>https://github.com/owncast/owncast</title>
+    <link href="https://github.com/owncast/owncast" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Take control over your live stream video by running it yourself. Streaming + chat out of the box.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cyclops-ui/cyclops#1736162052</id>
+    <title>https://github.com/cyclops-ui/cyclops</title>
+    <link href="https://github.com/cyclops-ui/cyclops" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Developer Friendly Kubernetes 👁️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailscale/tailscale#1736162052</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cilium/cilium#1736162052</id>
+    <title>https://github.com/cilium/cilium</title>
+    <link href="https://github.com/cilium/cilium" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">eBPF-based Networking, Security, and Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1736162052</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-06T11:14:12+00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</content>
+  </entry>
+</feed>

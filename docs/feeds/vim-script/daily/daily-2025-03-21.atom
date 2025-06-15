@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1742515200</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VundleVim/Vundle.vim#1742515200</id>
+    <title>https://github.com/VundleVim/Vundle.vim</title>
+    <link href="https://github.com/VundleVim/Vundle.vim" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Vundle, the plug-in manager for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/altercation/vim-colors-solarized#1742515200</id>
+    <title>https://github.com/altercation/vim-colors-solarized</title>
+    <link href="https://github.com/altercation/vim-colors-solarized" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">precision colorscheme for the vim text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1742515200</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1742515200</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dhruvasagar/vim-table-mode#1742515200</id>
+    <title>https://github.com/dhruvasagar/vim-table-mode</title>
+    <link href="https://github.com/dhruvasagar/vim-table-mode" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">VIM Table Mode for instant table creation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jlanzarotta/bufexplorer#1742515200</id>
+    <title>https://github.com/jlanzarotta/bufexplorer</title>
+    <link href="https://github.com/jlanzarotta/bufexplorer" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">BufExplorer Plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/goyo.vim#1742515200</id>
+    <title>https://github.com/junegunn/goyo.vim</title>
+    <link href="https://github.com/junegunn/goyo.vim" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">🌷 Distraction-free writing in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vader.vim#1742515200</id>
+    <title>https://github.com/junegunn/vader.vim</title>
+    <link href="https://github.com/junegunn/vader.vim" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A simple Vimscript test framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-completion#1742515200</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-completion</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-completion" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Database autocompletion powered by https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/luochen1990/rainbow#1742515200</id>
+    <title>https://github.com/luochen1990/rainbow</title>
+    <link href="https://github.com/luochen1990/rainbow" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-signify#1742515200</id>
+    <title>https://github.com/mhinz/vim-signify</title>
+    <link href="https://github.com/mhinz/vim-signify" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">➕ Show a diff using Vim its sign column.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-startify#1742515200</id>
+    <title>https://github.com/mhinz/vim-startify</title>
+    <link href="https://github.com/mhinz/vim-startify" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">🔗 The fancy start screen for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntpeters/vim-better-whitespace#1742515200</id>
+    <title>https://github.com/ntpeters/vim-better-whitespace</title>
+    <link href="https://github.com/ntpeters/vim-better-whitespace" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Better whitespace highlighting for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete-lsp.vim#1742515200</id>
+    <title>https://github.com/prabirshrestha/asyncomplete-lsp.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete.vim#1742515200</id>
+    <title>https://github.com/prabirshrestha/asyncomplete.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete.vim" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">async completion in pure vim script for vim8 and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1742515200</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-projectionist#1742515200</id>
+    <title>https://github.com/tpope/vim-projectionist</title>
+    <link href="https://github.com/tpope/vim-projectionist" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">projectionist.vim: Granular project configuration</content>
+  </entry>
+</feed>

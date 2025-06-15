@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T11:13:11+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dgiot/dgiot#1735297991</id>
+    <title>https://github.com/dgiot/dgiot</title>
+    <link href="https://github.com/dgiot/dgiot" />
+    <updated>2024-12-27T11:13:11+00:00</updated>
+    <content type="text">Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1735297991</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2024-12-27T11:13:11+00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1735297991</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2024-12-27T11:13:11+00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/rebar3#1735297991</id>
+    <title>https://github.com/erlang/rebar3</title>
+    <link href="https://github.com/erlang/rebar3" />
+    <updated>2024-12-27T11:13:11+00:00</updated>
+    <content type="text">Erlang build tool that makes it easy to compile and test Erlang applications and releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1735297991</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2024-12-27T11:13:11+00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1735297991</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2024-12-27T11:13:11+00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1735297991</id>
+    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
+    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <updated>2024-12-27T11:13:11+00:00</updated>
+    <content type="text">Delayed Messaging for RabbitMQ</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chef/chef-server#1735297991</id>
+    <title>https://github.com/chef/chef-server</title>
+    <link href="https://github.com/chef/chef-server" />
+    <updated>2024-12-27T11:13:11+00:00</updated>
+    <content type="text">Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1735297991</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2024-12-27T11:13:11+00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+</feed>

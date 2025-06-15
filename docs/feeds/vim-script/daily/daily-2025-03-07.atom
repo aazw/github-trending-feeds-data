@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1741305600</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gergap/vim-ollama#1741305600</id>
+    <title>https://github.com/gergap/vim-ollama</title>
+    <link href="https://github.com/gergap/vim-ollama" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Vim plugin for integrating Ollama based LLM (large language models)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1741305600</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jiangmiao/auto-pairs#1741305600</id>
+    <title>https://github.com/jiangmiao/auto-pairs</title>
+    <link href="https://github.com/jiangmiao/auto-pairs" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Vim plugin, insert or delete brackets, parens, quotes in pair</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jlanzarotta/bufexplorer#1741305600</id>
+    <title>https://github.com/jlanzarotta/bufexplorer</title>
+    <link href="https://github.com/jlanzarotta/bufexplorer" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">BufExplorer Plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/goyo.vim#1741305600</id>
+    <title>https://github.com/junegunn/goyo.vim</title>
+    <link href="https://github.com/junegunn/goyo.vim" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">🌷 Distraction-free writing in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kien/ctrlp.vim#1741305600</id>
+    <title>https://github.com/kien/ctrlp.vim</title>
+    <link href="https://github.com/kien/ctrlp.vim" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Fuzzy file, buffer, mru, tag, etc finder.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leafgarland/typescript-vim#1741305600</id>
+    <title>https://github.com/leafgarland/typescript-vim</title>
+    <link href="https://github.com/leafgarland/typescript-vim" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Typescript syntax files for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-signify#1741305600</id>
+    <title>https://github.com/mhinz/vim-signify</title>
+    <link href="https://github.com/mhinz/vim-signify" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">➕ Show a diff using Vim its sign column.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1741305600</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1741305600</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vim-indent-guides#1741305600</id>
+    <title>https://github.com/preservim/vim-indent-guides</title>
+    <link href="https://github.com/preservim/vim-indent-guides" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">A Vim plugin for visually displaying indent levels in code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1741305600</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1741305600</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-unimpaired#1741305600</id>
+    <title>https://github.com/tpope/vim-unimpaired</title>
+    <link href="https://github.com/tpope/vim-unimpaired" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">unimpaired.vim: Pairs of handy bracket mappings</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1741305600</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

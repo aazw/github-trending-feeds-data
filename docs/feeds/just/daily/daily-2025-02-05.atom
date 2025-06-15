@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/just/daily.atom</id>
+  <title>GitHub Trending - just (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/just/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ethereum-optimism/specs#1738713600</id>
+    <title>https://github.com/ethereum-optimism/specs</title>
+    <link href="https://github.com/ethereum-optimism/specs" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">OP Stack Specifications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pop-os/cosmic-epoch#1738713600</id>
+    <title>https://github.com/pop-os/cosmic-epoch</title>
+    <link href="https://github.com/pop-os/cosmic-epoch" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Next generation Cosmic desktop environment</content>
+  </entry>
+  <entry>
+    <id>https://github.com/secureblue/secureblue#1738713600</id>
+    <title>https://github.com/secureblue/secureblue</title>
+    <link href="https://github.com/secureblue/secureblue" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Hardened Fedora Atomic and Fedora CoreOS images</content>
+  </entry>
+</feed>

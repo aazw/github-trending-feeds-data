@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ClickHouse/ClickHouse#1745452800</id>
+    <title>https://github.com/ClickHouse/ClickHouse</title>
+    <link href="https://github.com/ClickHouse/ClickHouse" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">ClickHouse® is a real-time analytics database management system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CoatiSoftware/Sourcetrail#1745452800</id>
+    <title>https://github.com/CoatiSoftware/Sourcetrail</title>
+    <link href="https://github.com/CoatiSoftware/Sourcetrail" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Sourcetrail - free and open-source interactive source explorer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/TensorRT#1745452800</id>
+    <title>https://github.com/NVIDIA/TensorRT</title>
+    <link href="https://github.com/NVIDIA/TensorRT" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/TensorRT-LLM#1745452800</id>
+    <title>https://github.com/NVIDIA/TensorRT-LLM</title>
+    <link href="https://github.com/NVIDIA/TensorRT-LLM" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and support state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in performant way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/cutlass#1745452800</id>
+    <title>https://github.com/NVIDIA/cutlass</title>
+    <link href="https://github.com/NVIDIA/cutlass" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">CUDA Templates for Linear Algebra Subroutines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tencent/rapidjson#1745452800</id>
+    <title>https://github.com/Tencent/rapidjson</title>
+    <link href="https://github.com/Tencent/rapidjson" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A fast JSON parser/generator for C++ with both SAX/DOM style API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WerWolv/ImHex#1745452800</id>
+    <title>https://github.com/WerWolv/ImHex</title>
+    <link href="https://github.com/WerWolv/ImHex" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">🔍 A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YosysHQ/yosys#1745452800</id>
+    <title>https://github.com/YosysHQ/yosys</title>
+    <link href="https://github.com/YosysHQ/yosys" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Yosys Open SYnthesis Suite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ZLMediaKit/ZLMediaKit#1745452800</id>
+    <title>https://github.com/ZLMediaKit/ZLMediaKit</title>
+    <link href="https://github.com/ZLMediaKit/ZLMediaKit" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">WebRTC/RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/HTTP-TS/HTTP-fMP4/WebSocket-TS/WebSocket-fMP4/GB28181/SRT server and client framework based on C++11</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/brpc#1745452800</id>
+    <title>https://github.com/apache/brpc</title>
+    <link href="https://github.com/apache/brpc" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bpftrace/bpftrace#1745452800</id>
+    <title>https://github.com/bpftrace/bpftrace</title>
+    <link href="https://github.com/bpftrace/bpftrace" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">High-level tracing language for Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duckdb/duckdb#1745452800</id>
+    <title>https://github.com/duckdb/duckdb</title>
+    <link href="https://github.com/duckdb/duckdb" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">DuckDB is an analytical in-process SQL database management system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/rocksdb#1745452800</id>
+    <title>https://github.com/facebook/rocksdb</title>
+    <link href="https://github.com/facebook/rocksdb" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A library that provides an embeddable, persistent key-value store for fast storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firebase/firebase-ios-sdk#1745452800</id>
+    <title>https://github.com/firebase/firebase-ios-sdk</title>
+    <link href="https://github.com/firebase/firebase-ios-sdk" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Firebase SDK for Apple App Development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fmtlib/fmt#1745452800</id>
+    <title>https://github.com/fmtlib/fmt</title>
+    <link href="https://github.com/fmtlib/fmt" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A modern formatting library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot#1745452800</id>
+    <title>https://github.com/godotengine/godot</title>
+    <link href="https://github.com/godotengine/godot" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Godot Engine – Multi-platform 2D and 3D game engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/perfetto#1745452800</id>
+    <title>https://github.com/google/perfetto</title>
+    <link href="https://github.com/google/perfetto" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Performance instrumentation and tracing for Android, Linux and Chrome</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lballabio/QuantLib#1745452800</id>
+    <title>https://github.com/lballabio/QuantLib</title>
+    <link href="https://github.com/lballabio/QuantLib" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">The QuantLib C++ library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/onnxruntime#1745452800</id>
+    <title>https://github.com/microsoft/onnxruntime</title>
+    <link href="https://github.com/microsoft/onnxruntime" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pixie-io/pixie#1745452800</id>
+    <title>https://github.com/pixie-io/pixie</title>
+    <link href="https://github.com/pixie-io/pixie" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Instant Kubernetes-Native Application Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protocolbuffers/protobuf#1745452800</id>
+    <title>https://github.com/protocolbuffers/protobuf</title>
+    <link href="https://github.com/protocolbuffers/protobuf" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Protocol Buffers - Google's data interchange format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redpanda-data/redpanda#1745452800</id>
+    <title>https://github.com/redpanda-data/redpanda</title>
+    <link href="https://github.com/redpanda-data/redpanda" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/risc0/risc0#1745452800</id>
+    <title>https://github.com/risc0/risc0</title>
+    <link href="https://github.com/risc0/risc0" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorflow/tensorflow#1745452800</id>
+    <title>https://github.com/tensorflow/tensorflow</title>
+    <link href="https://github.com/tensorflow/tensorflow" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">An Open Source Machine Learning Framework for Everyone</content>
+  </entry>
+</feed>

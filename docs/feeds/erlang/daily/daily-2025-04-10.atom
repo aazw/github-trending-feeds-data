@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/benoitc/hackney#1744243200</id>
+    <title>https://github.com/benoitc/hackney</title>
+    <link href="https://github.com/benoitc/hackney" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">simple HTTP client in Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1744243200</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1744243200</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-ls/erlang_ls#1744243200</id>
+    <title>https://github.com/erlang-ls/erlang_ls</title>
+    <link href="https://github.com/erlang-ls/erlang_ls" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">The Erlang Language Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1744243200</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1744243200</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1744243200</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1744243200</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+</feed>

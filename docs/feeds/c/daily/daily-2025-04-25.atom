@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Cyan4973/xxHash#1745539200</id>
+    <title>https://github.com/Cyan4973/xxHash</title>
+    <link href="https://github.com/Cyan4973/xxHash" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Extremely fast non-cryptographic hash algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FreeRTOS/FreeRTOS-Kernel#1745539200</id>
+    <title>https://github.com/FreeRTOS/FreeRTOS-Kernel</title>
+    <link href="https://github.com/FreeRTOS/FreeRTOS-Kernel" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ImageMagick/ImageMagick#1745539200</id>
+    <title>https://github.com/ImageMagick/ImageMagick</title>
+    <link href="https://github.com/ImageMagick/ImageMagick" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">ImageMagick is a powerful, open-source software suite for creating, editing, converting, and manipulating images in over 200 formats. Ideal for web developers, graphic designers, and researchers, it offers versatile tools for image processing, including batch processing, format conversion, and complex image transformations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/nuttx#1745539200</id>
+    <title>https://github.com/apache/nuttx</title>
+    <link href="https://github.com/apache/nuttx" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Apache NuttX is a mature, real-time embedded operating system (RTOS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/axboe/fio#1745539200</id>
+    <title>https://github.com/axboe/fio</title>
+    <link href="https://github.com/axboe/fio" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Flexible I/O Tester</content>
+  </entry>
+  <entry>
+    <id>https://github.com/confluentinc/librdkafka#1745539200</id>
+    <title>https://github.com/confluentinc/librdkafka</title>
+    <link href="https://github.com/confluentinc/librdkafka" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">The Apache Kafka C/C++ library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esnet/iperf#1745539200</id>
+    <title>https://github.com/esnet/iperf</title>
+    <link href="https://github.com/esnet/iperf" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">iperf3: A TCP, UDP, and SCTP network bandwidth measurement tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluent-bit#1745539200</id>
+    <title>https://github.com/fluent/fluent-bit</title>
+    <link href="https://github.com/fluent/fluent-bit" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jqlang/jq#1745539200</id>
+    <title>https://github.com/jqlang/jq</title>
+    <link href="https://github.com/jqlang/jq" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Command-line JSON processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libfuse/libfuse#1745539200</id>
+    <title>https://github.com/libfuse/libfuse</title>
+    <link href="https://github.com/libfuse/libfuse" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">The reference implementation of the Linux FUSE (Filesystem in Userspace) interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nanopb/nanopb#1745539200</id>
+    <title>https://github.com/nanopb/nanopb</title>
+    <link href="https://github.com/nanopb/nanopb" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Protocol Buffers with small code size</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-quantum-safe/liboqs#1745539200</id>
+    <title>https://github.com/open-quantum-safe/liboqs</title>
+    <link href="https://github.com/open-quantum-safe/liboqs" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">C library for prototyping and experimenting with quantum-resistant cryptography</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openresty/lua-nginx-module#1745539200</id>
+    <title>https://github.com/openresty/lua-nginx-module</title>
+    <link href="https://github.com/openresty/lua-nginx-module" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Embed the Power of Lua into NGINX HTTP servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openssh/openssh-portable#1745539200</id>
+    <title>https://github.com/openssh/openssh-portable</title>
+    <link href="https://github.com/openssh/openssh-portable" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Portable OpenSSH</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openssl/openssl#1745539200</id>
+    <title>https://github.com/openssl/openssl</title>
+    <link href="https://github.com/openssl/openssl" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">TLS/SSL and crypto library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src#1745539200</id>
+    <title>https://github.com/php/php-src</title>
+    <link href="https://github.com/php/php-src" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">The PHP Interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv-collab/riscv-gnu-toolchain#1745539200</id>
+    <title>https://github.com/riscv-collab/riscv-gnu-toolchain</title>
+    <link href="https://github.com/riscv-collab/riscv-gnu-toolchain" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">GNU toolchain for RISC-V, including GCC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/signalwire/freeswitch#1745539200</id>
+    <title>https://github.com/signalwire/freeswitch</title>
+    <link href="https://github.com/signalwire/freeswitch" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tuya/TuyaOpen#1745539200</id>
+    <title>https://github.com/tuya/TuyaOpen</title>
+    <link href="https://github.com/tuya/TuyaOpen" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiph/rnnoise#1745539200</id>
+    <title>https://github.com/xiph/rnnoise</title>
+    <link href="https://github.com/xiph/rnnoise" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Recurrent neural network for audio noise reduction</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zephyrproject-rtos/zephyr#1745539200</id>
+    <title>https://github.com/zephyrproject-rtos/zephyr</title>
+    <link href="https://github.com/zephyrproject-rtos/zephyr" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</content>
+  </entry>
+</feed>

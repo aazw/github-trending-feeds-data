@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Alexander-Miller/treemacs#1740528000</id>
+    <title>https://github.com/Alexander-Miller/treemacs</title>
+    <link href="https://github.com/Alexander-Miller/treemacs" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Fuco1/smartparens#1740528000</id>
+    <title>https://github.com/Fuco1/smartparens</title>
+    <link href="https://github.com/Fuco1/smartparens" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Minor mode for Emacs that deals with parens pairs and tries to be smart about it.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1740528000</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bbatsov/projectile#1740528000</id>
+    <title>https://github.com/bbatsov/projectile</title>
+    <link href="https://github.com/bbatsov/projectile" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Project Interaction Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dgutov/diff-hl#1740528000</id>
+    <title>https://github.com/dgutov/diff-hl</title>
+    <link href="https://github.com/dgutov/diff-hl" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Emacs package for highlighting uncommitted changes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dimitri/el-get#1740528000</id>
+    <title>https://github.com/dimitri/el-get</title>
+    <link href="https://github.com/dimitri/el-get" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Manage the external elisp bits and pieces upon which you depend!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1740528000</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1740528000</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immerrr/lua-mode#1740528000</id>
+    <title>https://github.com/immerrr/lua-mode</title>
+    <link href="https://github.com/immerrr/lua-mode" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Emacs major mode for editing Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justbur/emacs-which-key#1740528000</id>
+    <title>https://github.com/justbur/emacs-which-key</title>
+    <link href="https://github.com/justbur/emacs-which-key" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Emacs package that displays available keybindings in popup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1740528000</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1740528000</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/dash.el#1740528000</id>
+    <title>https://github.com/magnars/dash.el</title>
+    <link href="https://github.com/magnars/dash.el" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">A modern list library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1740528000</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/progfolio/elpaca#1740528000</id>
+    <title>https://github.com/progfolio/elpaca</title>
+    <link href="https://github.com/progfolio/elpaca" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">An elisp package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1740528000</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rejeep/f.el#1740528000</id>
+    <title>https://github.com/rejeep/f.el</title>
+    <link href="https://github.com/rejeep/f.el" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Modern API for working with files and directories in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1740528000</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spotify/dockerfile-mode#1740528000</id>
+    <title>https://github.com/spotify/dockerfile-mode</title>
+    <link href="https://github.com/spotify/dockerfile-mode" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">An emacs mode for handling Dockerfiles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1740528000</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tumashu/posframe#1740528000</id>
+    <title>https://github.com/tumashu/posframe</title>
+    <link href="https://github.com/tumashu/posframe" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</content>
+  </entry>
+</feed>

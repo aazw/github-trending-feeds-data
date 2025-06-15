@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk-for-rust#1741046400</id>
+    <title>https://github.com/Azure/azure-sdk-for-rust</title>
+    <link href="https://github.com/Azure/azure-sdk-for-rust" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">This repository is for the active development of the Azure SDK for Rust. For consumers of the SDK we recommend visiting Docs.rs and looking up the docs for any of libraries in the SDK.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TabbyML/tabby#1741046400</id>
+    <title>https://github.com/TabbyML/tabby</title>
+    <link href="https://github.com/TabbyML/tabby" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Self-hosted AI coding assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/biomejs/biome#1741046400</id>
+    <title>https://github.com/biomejs/biome</title>
+    <link href="https://github.com/biomejs/biome" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1741046400</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coral-xyz/anchor#1741046400</id>
+    <title>https://github.com/coral-xyz/anchor</title>
+    <link href="https://github.com/coral-xyz/anchor" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">⚓ Solana Sealevel Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1741046400</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gyroflow/gyroflow#1741046400</id>
+    <title>https://github.com/gyroflow/gyroflow</title>
+    <link href="https://github.com/gyroflow/gyroflow" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Video stabilization using gyroscope data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperium/tonic#1741046400</id>
+    <title>https://github.com/hyperium/tonic</title>
+    <link href="https://github.com/hyperium/tonic" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A native gRPC client &amp; server implementation with async/await support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kata-containers/kata-containers#1741046400</id>
+    <title>https://github.com/kata-containers/kata-containers</title>
+    <link href="https://github.com/kata-containers/kata-containers" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mufeedvh/code2prompt#1741046400</id>
+    <title>https://github.com/mufeedvh/code2prompt</title>
+    <link href="https://github.com/mufeedvh/code2prompt" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nkaz001/hftbacktest#1741046400</id>
+    <title>https://github.com/nkaz001/hftbacktest</title>
+    <link href="https://github.com/nkaz001/hftbacktest" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A high frequency trading and market making backtesting and trading bot in Python and Rust, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books, with real-world crypto market-making examples for Binance Futures</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1741046400</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1741046400</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1741046400</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prefix-dev/pixi#1741046400</id>
+    <title>https://github.com/prefix-dev/pixi</title>
+    <link href="https://github.com/prefix-dev/pixi" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Package management made easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quickwit-oss/tantivy#1741046400</id>
+    <title>https://github.com/quickwit-oss/tantivy</title>
+    <link href="https://github.com/quickwit-oss/tantivy" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/cargo#1741046400</id>
+    <title>https://github.com/rust-lang/cargo</title>
+    <link href="https://github.com/rust-lang/cargo" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">The Rust package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1741046400</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/fd#1741046400</id>
+    <title>https://github.com/sharkdp/fd</title>
+    <link href="https://github.com/sharkdp/fd" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A simple, fast and user-friendly alternative to 'find'</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/mail-server#1741046400</id>
+    <title>https://github.com/stalwartlabs/mail-server</title>
+    <link href="https://github.com/stalwartlabs/mail-server" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/plugins-workspace#1741046400</id>
+    <title>https://github.com/tauri-apps/plugins-workspace</title>
+    <link href="https://github.com/tauri-apps/plugins-workspace" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">All of the official Tauri plugins in one place!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tracel-ai/burn#1741046400</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1741046400</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1741046400</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+</feed>

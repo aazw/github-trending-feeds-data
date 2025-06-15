@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/altercation/vim-colors-solarized#1745280000</id>
+    <title>https://github.com/altercation/vim-colors-solarized</title>
+    <link href="https://github.com/altercation/vim-colors-solarized" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">precision colorscheme for the vim text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chrisbra/csv.vim#1745280000</id>
+    <title>https://github.com/chrisbra/csv.vim</title>
+    <link href="https://github.com/chrisbra/csv.vim" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">A Filetype plugin for csv files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1745280000</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-vim#1745280000</id>
+    <title>https://github.com/editorconfig/editorconfig-vim</title>
+    <link href="https://github.com/editorconfig/editorconfig-vim" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">EditorConfig plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatih/vim-go#1745280000</id>
+    <title>https://github.com/fatih/vim-go</title>
+    <link href="https://github.com/fatih/vim-go" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Go development plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1745280000</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/machakann/vim-highlightedyank#1745280000</id>
+    <title>https://github.com/machakann/vim-highlightedyank</title>
+    <link href="https://github.com/machakann/vim-highlightedyank" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Make the yanked region apparent!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1745280000</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1745280000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1745280000</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-abolish#1745280000</id>
+    <title>https://github.com/tpope/vim-abolish</title>
+    <link href="https://github.com/tpope/vim-abolish" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">abolish.vim: Work with several variants of a word at once</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rhubarb#1745280000</id>
+    <title>https://github.com/tpope/vim-rhubarb</title>
+    <link href="https://github.com/tpope/vim-rhubarb" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">rhubarb.vim: GitHub extension for fugitive.vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-sensible#1745280000</id>
+    <title>https://github.com/tpope/vim-sensible</title>
+    <link href="https://github.com/tpope/vim-sensible" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">sensible.vim: Defaults everyone can agree on</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-speeddating#1745280000</id>
+    <title>https://github.com/tpope/vim-speeddating</title>
+    <link href="https://github.com/tpope/vim-speeddating" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1745280000</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voldikss/vim-floaterm#1745280000</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wellle/targets.vim#1745280000</id>
+    <title>https://github.com/wellle/targets.vim</title>
+    <link href="https://github.com/wellle/targets.vim" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Vim plugin that provides additional text objects</content>
+  </entry>
+</feed>

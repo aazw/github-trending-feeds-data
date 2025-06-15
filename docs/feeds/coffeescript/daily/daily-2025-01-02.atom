@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom</id>
+  <title>GitHub Trending - coffeescript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:09:35+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mojs/mojs#1735816175</id>
+    <title>https://github.com/mojs/mojs</title>
+    <link href="https://github.com/mojs/mojs" />
+    <updated>2025-01-02T11:09:35+00:00</updated>
+    <content type="text">The motion graphics toolbelt for the web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jashkenas/coffeescript#1735816175</id>
+    <title>https://github.com/jashkenas/coffeescript</title>
+    <link href="https://github.com/jashkenas/coffeescript" />
+    <updated>2025-01-02T11:09:35+00:00</updated>
+    <content type="text">Unfancy JavaScript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ccd0/4chan-x#1735816175</id>
+    <title>https://github.com/ccd0/4chan-x</title>
+    <link href="https://github.com/ccd0/4chan-x" />
+    <updated>2025-01-02T11:09:35+00:00</updated>
+    <content type="text">Adds various features to anonymous imageboards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FelisCatus/SwitchyOmega#1735816175</id>
+    <title>https://github.com/FelisCatus/SwitchyOmega</title>
+    <link href="https://github.com/FelisCatus/SwitchyOmega" />
+    <updated>2025-01-02T11:09:35+00:00</updated>
+    <content type="text">Manage and switch between multiple proxies quickly &amp; easily.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pandastrike/jsck#1735816175</id>
+    <title>https://github.com/pandastrike/jsck</title>
+    <link href="https://github.com/pandastrike/jsck" />
+    <updated>2025-01-02T11:09:35+00:00</updated>
+    <content type="text">JSON Schema Compiled checK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dropbox/zxcvbn#1735816175</id>
+    <title>https://github.com/dropbox/zxcvbn</title>
+    <link href="https://github.com/dropbox/zxcvbn" />
+    <updated>2025-01-02T11:09:35+00:00</updated>
+    <content type="text">Low-Budget Password Strength Estimation</content>
+  </entry>
+</feed>

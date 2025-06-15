@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vala/weekly.atom</id>
+  <title>GitHub Trending - vala (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vala/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Aylur/astal#1741564800</id>
+    <title>https://github.com/Aylur/astal</title>
+    <link href="https://github.com/Aylur/astal" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Building blocks for creating custom desktop shells</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ErikReider/SwayNotificationCenter#1741564800</id>
+    <title>https://github.com/ErikReider/SwayNotificationCenter</title>
+    <link href="https://github.com/ErikReider/SwayNotificationCenter" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A simple GTK based notification daemon for SwayWM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cheesecakeufo/komorebi#1741564800</id>
+    <title>https://github.com/cheesecakeufo/komorebi</title>
+    <link href="https://github.com/cheesecakeufo/komorebi" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A beautiful and customizable wallpapers manager for Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frida/frida-core#1741564800</id>
+    <title>https://github.com/frida/frida-core</title>
+    <link href="https://github.com/frida/frida-core" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Frida core library intended for static linking into bindings</content>
+  </entry>
+  <entry>
+    <id>https://github.com/martinpitt/umockdev#1741564800</id>
+    <title>https://github.com/martinpitt/umockdev</title>
+    <link href="https://github.com/martinpitt/umockdev" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Mock hardware devices for creating unit tests and bug reporting</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phw/peek#1741564800</id>
+    <title>https://github.com/phw/peek</title>
+    <link href="https://github.com/phw/peek" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Simple animated GIF screen recorder with an easy to use interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tkashkin/GameHub#1741564800</id>
+    <title>https://github.com/tkashkin/GameHub</title>
+    <link href="https://github.com/tkashkin/GameHub" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">All your games in one place</content>
+  </entry>
+</feed>

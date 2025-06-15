@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/akuity/kargo#1744070400</id>
+    <title>https://github.com/akuity/kargo</title>
+    <link href="https://github.com/akuity/kargo" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Application lifecycle orchestration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1744070400</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1744070400</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbletea#1744070400</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A powerful little TUI framework 🏗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fsnotify/fsnotify#1744070400</id>
+    <title>https://github.com/fsnotify/fsnotify</title>
+    <link href="https://github.com/fsnotify/fsnotify" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Cross-platform filesystem notifications for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1744070400</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/go-github#1744070400</id>
+    <title>https://github.com/google/go-github</title>
+    <link href="https://github.com/google/go-github" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Go library for accessing the GitHub v3 API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1744070400</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1744070400</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/packer#1744070400</id>
+    <title>https://github.com/hashicorp/packer</title>
+    <link href="https://github.com/hashicorp/packer" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1744070400</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krillinai/KrillinAI#1744070400</id>
+    <title>https://github.com/krillinai/KrillinAI</title>
+    <link href="https://github.com/krillinai/KrillinAI" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1744070400</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikefarah/yq#1744070400</id>
+    <title>https://github.com/mikefarah/yq</title>
+    <link href="https://github.com/mikefarah/yq" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1744070400</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1744070400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/katana#1744070400</id>
+    <title>https://github.com/projectdiscovery/katana</title>
+    <link href="https://github.com/projectdiscovery/katana" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A next-generation crawling and spidering framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/alertmanager#1744070400</id>
+    <title>https://github.com/prometheus/alertmanager</title>
+    <link href="https://github.com/prometheus/alertmanager" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Prometheus Alertmanager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/robfig/cron#1744070400</id>
+    <title>https://github.com/robfig/cron</title>
+    <link href="https://github.com/robfig/cron" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">a cron library for go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/schollz/croc#1744070400</id>
+    <title>https://github.com/schollz/croc</title>
+    <link href="https://github.com/schollz/croc" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Easily and securely send things from one computer to another 🐊 📦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1744070400</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidwall/gjson#1744070400</id>
+    <title>https://github.com/tidwall/gjson</title>
+    <link href="https://github.com/tidwall/gjson" />
+    <updated>2025-04-08T00:00:00</updated>
+    <content type="text">Get JSON values quickly - JSON parser for Go</content>
+  </entry>
+</feed>

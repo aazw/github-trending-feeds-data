@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/H-M-H/Weylus#1742515200</id>
+    <title>https://github.com/H-M-H/Weylus</title>
+    <link href="https://github.com/H-M-H/Weylus" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Use your tablet as graphic tablet/touch screen on your computer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/sui#1742515200</id>
+    <title>https://github.com/MystenLabs/sui</title>
+    <link href="https://github.com/MystenLabs/sui" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rust-GPU/Rust-CUDA#1742515200</id>
+    <title>https://github.com/Rust-GPU/Rust-CUDA</title>
+    <link href="https://github.com/Rust-GPU/Rust-CUDA" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1742515200</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1742515200</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-rs#1742515200</id>
+    <title>https://github.com/delta-io/delta-rs</title>
+    <link href="https://github.com/delta-io/delta-rs" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A native Rust library for Delta Lake, with bindings into Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1742515200</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googlefonts/fontations#1742515200</id>
+    <title>https://github.com/googlefonts/fontations</title>
+    <link href="https://github.com/googlefonts/fontations" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Reading and writing font files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1742515200</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperium/tonic#1742515200</id>
+    <title>https://github.com/hyperium/tonic</title>
+    <link href="https://github.com/hyperium/tonic" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A native gRPC client &amp; server implementation with async/await support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1742515200</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1742515200</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/katanemo/archgw#1742515200</id>
+    <title>https://github.com/katanemo/archgw</title>
+    <link href="https://github.com/katanemo/archgw" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">The AI proxy for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1742515200</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rerun-io/rerun#1742515200</id>
+    <title>https://github.com/rerun-io/rerun</title>
+    <link href="https://github.com/rerun-io/rerun" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-analyzer#1742515200</id>
+    <title>https://github.com/rust-lang/rust-analyzer</title>
+    <link href="https://github.com/rust-lang/rust-analyzer" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A Rust compiler front-end for IDEs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadowsocks/shadowsocks-rust#1742515200</id>
+    <title>https://github.com/shadowsocks/shadowsocks-rust</title>
+    <link href="https://github.com/shadowsocks/shadowsocks-rust" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A Rust port of shadowsocks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/bat#1742515200</id>
+    <title>https://github.com/sharkdp/bat</title>
+    <link href="https://github.com/sharkdp/bat" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A cat(1) clone with wings.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/fd#1742515200</id>
+    <title>https://github.com/sharkdp/fd</title>
+    <link href="https://github.com/sharkdp/fd" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A simple, fast and user-friendly alternative to 'find'</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/hyperfine#1742515200</id>
+    <title>https://github.com/sharkdp/hyperfine</title>
+    <link href="https://github.com/sharkdp/hyperfine" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A command-line benchmarking tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sunface/rust-by-practice#1742515200</id>
+    <title>https://github.com/sunface/rust-by-practice</title>
+    <link href="https://github.com/sunface/rust-by-practice" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display#1742515200</id>
+    <title>https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display</title>
+    <link href="https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Building a community around a cheap ESP32 Display with a touch screen</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1742515200</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zellij-org/zellij#1742515200</id>
+    <title>https://github.com/zellij-org/zellij</title>
+    <link href="https://github.com/zellij-org/zellij" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A terminal workspace with batteries included</content>
+  </entry>
+</feed>

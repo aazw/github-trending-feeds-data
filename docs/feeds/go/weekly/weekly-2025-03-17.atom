@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk-for-go#1742169600</id>
+    <title>https://github.com/Azure/azure-sdk-for-go</title>
+    <link href="https://github.com/Azure/azure-sdk-for-go" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DiceDB/dice#1742169600</id>
+    <title>https://github.com/DiceDB/dice</title>
+    <link href="https://github.com/DiceDB/dice" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1742169600</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aceberg/WatchYourLAN#1742169600</id>
+    <title>https://github.com/aceberg/WatchYourLAN</title>
+    <link href="https://github.com/aceberg/WatchYourLAN" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Lightweight network IP scanner. Can be used to notify about new hosts and monitor host online/offline history</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/higress#1742169600</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cli/cli#1742169600</id>
+    <title>https://github.com/cli/cli</title>
+    <link href="https://github.com/cli/cli" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">GitHub’s official command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1742169600</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">An open-source runtime for composable workflows. Great for AI agents and CI/CD.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/drakkan/sftpgo#1742169600</id>
+    <title>https://github.com/drakkan/sftpgo</title>
+    <link href="https://github.com/drakkan/sftpgo" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glanceapp/glance#1742169600</id>
+    <title>https://github.com/glanceapp/glance</title>
+    <link href="https://github.com/glanceapp/glance" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">A self-hosted dashboard that puts all your feeds in one place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-migrate/migrate#1742169600</id>
+    <title>https://github.com/golang-migrate/migrate</title>
+    <link href="https://github.com/golang-migrate/migrate" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Database migrations. CLI and Golang library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1742169600</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1742169600</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/loki#1742169600</id>
+    <title>https://github.com/grafana/loki</title>
+    <link href="https://github.com/grafana/loki" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Like Prometheus, but for logs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kopia/kopia#1742169600</id>
+    <title>https://github.com/kopia/kopia</title>
+    <link href="https://github.com/kopia/kopia" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1742169600</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-sandbox#1742169600</id>
+    <title>https://github.com/langgenius/dify-sandbox</title>
+    <link href="https://github.com/langgenius/dify-sandbox" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">A lightweight, fast, and secure code execution environment that supports multiple programming languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1742169600</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1742169600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-go#1742169600</id>
+    <title>https://github.com/openai/openai-go</title>
+    <link href="https://github.com/openai/openai-go" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">The official Go library for the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ray-project/kuberay#1742169600</id>
+    <title>https://github.com/ray-project/kuberay</title>
+    <link href="https://github.com/ray-project/kuberay" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">A toolkit to run Ray applications on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/viper#1742169600</id>
+    <title>https://github.com/spf13/viper</title>
+    <link href="https://github.com/spf13/viper" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Go configuration with fangs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1742169600</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1742169600</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-03-17T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+</feed>

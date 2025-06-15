@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom</id>
+  <title>GitHub Trending - smalltalk (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pharo-contributions/OSSubprocess#1738800000</id>
+    <title>https://github.com/pharo-contributions/OSSubprocess</title>
+    <link href="https://github.com/pharo-contributions/OSSubprocess" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Forking Operating System Processes from within Pharo Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pharo-graphics/Bloc#1738800000</id>
+    <title>https://github.com/pharo-graphics/Bloc</title>
+    <link href="https://github.com/pharo-graphics/Bloc" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Low-level UI infrastructure &amp; framework for Pharo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/svenvc/NeoCSV#1738800000</id>
+    <title>https://github.com/svenvc/NeoCSV</title>
+    <link href="https://github.com/svenvc/NeoCSV" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">NeoCSV is an elegant and efficient standalone Smalltalk framework to read and write CSV converting to or from Smalltalk objects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/svenvc/zinc#1738800000</id>
+    <title>https://github.com/svenvc/zinc</title>
+    <link href="https://github.com/svenvc/zinc" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Zinc HTTP Components is an open-source Smalltalk framework to deal with the HTTP networking protocol.</content>
+  </entry>
+</feed>

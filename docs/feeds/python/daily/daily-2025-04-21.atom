@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Byaidu/PDFMathTranslate#1745193600</id>
+    <title>https://github.com/Byaidu/PDFMathTranslate</title>
+    <link href="https://github.com/Byaidu/PDFMathTranslate" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shubhamsaboo/awesome-llm-apps#1745193600</id>
+    <title>https://github.com/Shubhamsaboo/awesome-llm-apps</title>
+    <link href="https://github.com/Shubhamsaboo/awesome-llm-apps" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/allenai/olmocr#1745193600</id>
+    <title>https://github.com/allenai/olmocr</title>
+    <link href="https://github.com/allenai/olmocr" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Toolkit for linearizing PDFs for LLM datasets/training</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jixiaozhong/Sonic#1745193600</id>
+    <title>https://github.com/jixiaozhong/Sonic</title>
+    <link href="https://github.com/jixiaozhong/Sonic" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Official implementation of "Sonic: Shifting Focus to Global Audio Perception in Portrait Animation"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jumpserver/jumpserver#1745193600</id>
+    <title>https://github.com/jumpserver/jumpserver</title>
+    <link href="https://github.com/jumpserver/jumpserver" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">JumpServer is an open-source Privileged Access Management (PAM) tool that provides DevOps and IT teams with on-demand and secure access to SSH, RDP, Kubernetes, Database and RemoteApp endpoints through a web browser.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/markitdown#1745193600</id>
+    <title>https://github.com/microsoft/markitdown</title>
+    <link href="https://github.com/microsoft/markitdown" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Python tool for converting files and office documents to Markdown.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oumi-ai/oumi#1745193600</id>
+    <title>https://github.com/oumi-ai/oumi</title>
+    <link href="https://github.com/oumi-ai/oumi" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Everything you need to build state-of-the-art foundation models, end-to-end.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/public-apis/public-apis#1745193600</id>
+    <title>https://github.com/public-apis/public-apis</title>
+    <link href="https://github.com/public-apis/public-apis" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A collective list of free APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yt-dlp/yt-dlp#1745193600</id>
+    <title>https://github.com/yt-dlp/yt-dlp</title>
+    <link href="https://github.com/yt-dlp/yt-dlp" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A feature-rich command-line audio/video downloader</content>
+  </entry>
+</feed>

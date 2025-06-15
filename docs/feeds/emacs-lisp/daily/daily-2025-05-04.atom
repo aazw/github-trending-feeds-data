@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Alexander-Miller/treemacs#1746316800</id>
+    <title>https://github.com/Alexander-Miller/treemacs</title>
+    <link href="https://github.com/Alexander-Miller/treemacs" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/clojure-emacs/cider#1746316800</id>
+    <title>https://github.com/clojure-emacs/cider</title>
+    <link href="https://github.com/clojure-emacs/cider" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">The Clojure Interactive Development Environment that Rocks for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1746316800</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil-collection#1746316800</id>
+    <title>https://github.com/emacs-evil/evil-collection</title>
+    <link href="https://github.com/emacs-evil/evil-collection" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">A set of keybindings for evil-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1746316800</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwiegley/emacs-async#1746316800</id>
+    <title>https://github.com/jwiegley/emacs-async</title>
+    <link href="https://github.com/jwiegley/emacs-async" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">Simple library for asynchronous processing in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1746316800</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/forge#1746316800</id>
+    <title>https://github.com/magit/forge</title>
+    <link href="https://github.com/magit/forge" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">Work with Git forges from the comfort of Magit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1746316800</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1746316800</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/dash.el#1746316800</id>
+    <title>https://github.com/magnars/dash.el</title>
+    <link href="https://github.com/magnars/dash.el" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">A modern list library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/expand-region.el#1746316800</id>
+    <title>https://github.com/magnars/expand-region.el</title>
+    <link href="https://github.com/magnars/expand-region.el" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">Emacs extension to increase selected region by semantic units.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/noctuid/general.el#1746316800</id>
+    <title>https://github.com/noctuid/general.el</title>
+    <link href="https://github.com/noctuid/general.el" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">More convenient key definitions in emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1746316800</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1746316800</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tkf/emacs-request#1746316800</id>
+    <title>https://github.com/tkf/emacs-request</title>
+    <link href="https://github.com/tkf/emacs-request" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">Request.el -- Easy HTTP request for Emacs Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zkry/yaml.el#1746316800</id>
+    <title>https://github.com/zkry/yaml.el</title>
+    <link href="https://github.com/zkry/yaml.el" />
+    <updated>2025-05-04T00:00:00</updated>
+    <content type="text">YAML parser in Elisp</content>
+  </entry>
+</feed>

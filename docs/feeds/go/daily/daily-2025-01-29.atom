@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/chainflag/eth-faucet#1738108800</id>
+    <title>https://github.com/chainflag/eth-faucet</title>
+    <link href="https://github.com/chainflag/eth-faucet" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Ether faucet server built with Go and Svelte.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbletea#1738108800</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">A powerful little TUI framework 🏗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1738108800</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ekristen/aws-nuke#1738108800</id>
+    <title>https://github.com/ekristen/aws-nuke</title>
+    <link href="https://github.com/ekristen/aws-nuke" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Remove all the resources from an AWS account</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1738108800</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gardener/gardener#1738108800</id>
+    <title>https://github.com/gardener/gardener</title>
+    <link href="https://github.com/gardener/gardener" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Homogeneous Kubernetes clusters at scale on any infrastructure using hosted control planes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-fuego/fuego#1738108800</id>
+    <title>https://github.com/go-fuego/fuego</title>
+    <link href="https://github.com/go-fuego/fuego" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Golang Fuego - web framework generating OpenAPI 3 spec from source code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-migrate/migrate#1738108800</id>
+    <title>https://github.com/golang-migrate/migrate</title>
+    <link href="https://github.com/golang-migrate/migrate" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Database migrations. CLI and Golang library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1738108800</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iam-veeramalla/observability-zero-to-hero#1738108800</id>
+    <title>https://github.com/iam-veeramalla/observability-zero-to-hero</title>
+    <link href="https://github.com/iam-veeramalla/observability-zero-to-hero" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Repo for learning observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iawia002/lux#1738108800</id>
+    <title>https://github.com/iawia002/lux</title>
+    <link href="https://github.com/iawia002/lux" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">👾 Fast and simple video download library and CLI tool written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1738108800</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kedacore/keda#1738108800</id>
+    <title>https://github.com/kedacore/keda</title>
+    <link href="https://github.com/kedacore/keda" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1738108800</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/vcluster#1738108800</id>
+    <title>https://github.com/loft-sh/vcluster</title>
+    <link href="https://github.com/loft-sh/vcluster" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738108800</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1738108800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go-contrib#1738108800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go-contrib" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Collection of extensions for OpenTelemetry-Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencost/opencost#1738108800</id>
+    <title>https://github.com/opencost/opencost</title>
+    <link href="https://github.com/opencost/opencost" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Cost monitoring for Kubernetes workloads and cloud costs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/owasp-amass/amass#1738108800</id>
+    <title>https://github.com/owasp-amass/amass</title>
+    <link href="https://github.com/owasp-amass/amass" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">In-depth attack surface mapping and asset discovery</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1738108800</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yusing/go-proxy#1738108800</id>
+    <title>https://github.com/yusing/go-proxy</title>
+    <link href="https://github.com/yusing/go-proxy" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Easy to use reverse proxy with docker integration</content>
+  </entry>
+</feed>

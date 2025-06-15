@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/openqasm/daily.atom</id>
+  <title>GitHub Trending - openqasm (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/openqasm/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/oqc-community/qat#1742601600</id>
+    <title>https://github.com/oqc-community/qat</title>
+    <link href="https://github.com/oqc-community/qat" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">QAT is a quantum compiler and runtime focused on low-level, just-above-driver integration.</content>
+  </entry>
+</feed>

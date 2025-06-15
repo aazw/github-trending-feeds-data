@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BlakeWilliams/Elixir-Slack#1749427200</id>
+    <title>https://github.com/BlakeWilliams/Elixir-Slack</title>
+    <link href="https://github.com/BlakeWilliams/Elixir-Slack" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Slack real time messaging and web API client in Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1749427200</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash_admin#1749427200</id>
+    <title>https://github.com/ash-project/ash_admin</title>
+    <link href="https://github.com/ash-project/ash_admin" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash_postgres#1749427200</id>
+    <title>https://github.com/ash-project/ash_postgres</title>
+    <link href="https://github.com/ash-project/ash_postgres" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The PostgreSQL data layer for Ash Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/igniter#1749427200</id>
+    <title>https://github.com/ash-project/igniter</title>
+    <link href="https://github.com/ash-project/igniter" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A code generation and project patching framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bonfire-networks/bonfire-app#1749427200</id>
+    <title>https://github.com/bonfire-networks/bonfire-app</title>
+    <link href="https://github.com/bonfire-networks/bonfire-app" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Bonfire - tend to your digital life in community. Customise and host your own online space and control your experience at the most granular level.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brainlid/langchain#1749427200</id>
+    <title>https://github.com/brainlid/langchain</title>
+    <link href="https://github.com/brainlid/langchain" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1749427200</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1749427200</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Real-time sync for Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1749427200</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1749427200</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lexical-lsp/lexical#1749427200</id>
+    <title>https://github.com/lexical-lsp/lexical</title>
+    <link href="https://github.com/lexical-lsp/lexical" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Lexical is a next-generation elixir language server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1749427200</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1749427200</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sequinstream/sequin#1749427200</id>
+    <title>https://github.com/sequinstream/sequin</title>
+    <link href="https://github.com/sequinstream/sequin" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1749427200</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1749427200</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tuist/Noora#1749427200</id>
+    <title>https://github.com/tuist/Noora</title>
+    <link href="https://github.com/tuist/Noora" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🎨 A design system for Swift CLIs and Phoenix apps</content>
+  </entry>
+</feed>

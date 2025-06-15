@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/REditorSupport/languageserver#1738022400</id>
+    <title>https://github.com/REditorSupport/languageserver</title>
+    <link href="https://github.com/REditorSupport/languageserver" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">An implementation of the Language Server Protocol for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rdatatable/data.table#1738022400</id>
+    <title>https://github.com/Rdatatable/data.table</title>
+    <link href="https://github.com/Rdatatable/data.table" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">R's data.table package extends data.frame:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YuLab-SMU/clusterProfiler#1738022400</id>
+    <title>https://github.com/YuLab-SMU/clusterProfiler</title>
+    <link href="https://github.com/YuLab-SMU/clusterProfiler" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">📊 A universal enrichment tool for interpreting omics data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/benjjneb/dada2#1738022400</id>
+    <title>https://github.com/benjjneb/dada2</title>
+    <link href="https://github.com/benjjneb/dada2" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Accurate sample inference from amplicon data with single nucleotide resolution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1738022400</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chris-mcginnis-ucsf/DoubletFinder#1738022400</id>
+    <title>https://github.com/chris-mcginnis-ucsf/DoubletFinder</title>
+    <link href="https://github.com/chris-mcginnis-ucsf/DoubletFinder" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">R package for detecting doublets in single-cell RNA sequencing data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbengler/tidyplots#1738022400</id>
+    <title>https://github.com/jbengler/tidyplots</title>
+    <link href="https://github.com/jbengler/tidyplots" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Tidy Plots for Scientific Papers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joey711/phyloseq#1738022400</id>
+    <title>https://github.com/joey711/phyloseq</title>
+    <link href="https://github.com/joey711/phyloseq" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/r-lib/remotes#1738022400</id>
+    <title>https://github.com/r-lib/remotes</title>
+    <link href="https://github.com/r-lib/remotes" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Install R packages from GitHub, GitLab, Bitbucket, git, svn repositories, URLs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/r-lib/tree-sitter-r#1738022400</id>
+    <title>https://github.com/r-lib/tree-sitter-r</title>
+    <link href="https://github.com/r-lib/tree-sitter-r" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/r-spatial/sf#1738022400</id>
+    <title>https://github.com/r-spatial/sf</title>
+    <link href="https://github.com/r-spatial/sf" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Simple Features for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/renv#1738022400</id>
+    <title>https://github.com/rstudio/renv</title>
+    <link href="https://github.com/rstudio/renv" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">renv: Project environments for R.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/rmarkdown#1738022400</id>
+    <title>https://github.com/rstudio/rmarkdown</title>
+    <link href="https://github.com/rstudio/rmarkdown" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Dynamic Documents for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/shiny#1738022400</id>
+    <title>https://github.com/rstudio/shiny</title>
+    <link href="https://github.com/rstudio/shiny" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Easy interactive web applications with R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat#1738022400</id>
+    <title>https://github.com/satijalab/seurat</title>
+    <link href="https://github.com/satijalab/seurat" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">R toolkit for single cell genomics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ellmer#1738022400</id>
+    <title>https://github.com/tidyverse/ellmer</title>
+    <link href="https://github.com/tidyverse/ellmer" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Call LLM APIs from R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ggplot2#1738022400</id>
+    <title>https://github.com/tidyverse/ggplot2</title>
+    <link href="https://github.com/tidyverse/ggplot2" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">An implementation of the Grammar of Graphics in R</content>
+  </entry>
+</feed>

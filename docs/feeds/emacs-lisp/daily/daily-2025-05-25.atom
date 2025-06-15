@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MatthewZMD/aidermacs#1748131200</id>
+    <title>https://github.com/MatthewZMD/aidermacs</title>
+    <link href="https://github.com/MatthewZMD/aidermacs" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">AI Pair Programming in Emacs with Aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/avy#1748131200</id>
+    <title>https://github.com/abo-abo/avy</title>
+    <link href="https://github.com/abo-abo/avy" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">Jump to things in Emacs tree-style</content>
+  </entry>
+  <entry>
+    <id>https://github.com/casouri/vundo#1748131200</id>
+    <title>https://github.com/casouri/vundo</title>
+    <link href="https://github.com/casouri/vundo" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">Visualize the undo tree.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1748131200</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1748131200</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrblevin/markdown-mode#1748131200</id>
+    <title>https://github.com/jrblevin/markdown-mode</title>
+    <link href="https://github.com/jrblevin/markdown-mode" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">Emacs Markdown Mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1748131200</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lizqwerscott/mcp.el#1748131200</id>
+    <title>https://github.com/lizqwerscott/mcp.el</title>
+    <link href="https://github.com/lizqwerscott/mcp.el" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">An Mcp client inside Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1748131200</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1748131200</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1748131200</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/apheleia#1748131200</id>
+    <title>https://github.com/radian-software/apheleia</title>
+    <link href="https://github.com/radian-software/apheleia" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1748131200</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/svaante/dape#1748131200</id>
+    <title>https://github.com/svaante/dape</title>
+    <link href="https://github.com/svaante/dape" />
+    <updated>2025-05-25T00:00:00</updated>
+    <content type="text">Debug Adapter Protocol for Emacs</content>
+  </entry>
+</feed>

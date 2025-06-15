@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1737763200</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GitoxideLabs/gitoxide#1737763200</id>
+    <title>https://github.com/GitoxideLabs/gitoxide</title>
+    <link href="https://github.com/GitoxideLabs/gitoxide" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">An idiomatic, lean, fast &amp; safe pure Rust implementation of Git</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PyO3/maturin#1737763200</id>
+    <title>https://github.com/PyO3/maturin</title>
+    <link href="https://github.com/PyO3/maturin" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1737763200</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cube-js/cube#1737763200</id>
+    <title>https://github.com/cube-js/cube</title>
+    <link href="https://github.com/cube-js/cube" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">📊 Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1737763200</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iced-rs/iced#1737763200</id>
+    <title>https://github.com/iced-rs/iced</title>
+    <link href="https://github.com/iced-rs/iced" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">A cross-platform GUI library for Rust, inspired by Elm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/librespot-org/librespot#1737763200</id>
+    <title>https://github.com/librespot-org/librespot</title>
+    <link href="https://github.com/librespot-org/librespot" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Open Source Spotify client library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1737763200</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell#1737763200</id>
+    <title>https://github.com/nushell/nushell</title>
+    <link href="https://github.com/nushell/nushell" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">A new type of shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openobserve/openobserve#1737763200</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1737763200</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/piotrostr/listen#1737763200</id>
+    <title>https://github.com/piotrostr/listen</title>
+    <link href="https://github.com/piotrostr/listen" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Solana Swiss Army Knife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1737763200</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raydium-io/raydium-clmm#1737763200</id>
+    <title>https://github.com/raydium-io/raydium-clmm</title>
+    <link href="https://github.com/raydium-io/raydium-clmm" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Open-Source Concentrated Liquidity Market Maker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rerun-io/rerun#1737763200</id>
+    <title>https://github.com/rerun-io/rerun</title>
+    <link href="https://github.com/rerun-io/rerun" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/cargo#1737763200</id>
+    <title>https://github.com/rust-lang/cargo</title>
+    <link href="https://github.com/rust-lang/cargo" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">The Rust package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust#1737763200</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1737763200</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tracing#1737763200</id>
+    <title>https://github.com/tokio-rs/tracing</title>
+    <link href="https://github.com/tokio-rs/tracing" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Application level tracing for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1737763200</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

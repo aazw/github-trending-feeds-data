@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/EndlessCheng/codeforces-go#1743206400</id>
+    <title>https://github.com/EndlessCheng/codeforces-go</title>
+    <link href="https://github.com/EndlessCheng/codeforces-go" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">算法竞赛模板库 by 灵茶山艾府 💭💡🎈</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/VictoriaMetrics#1743206400</id>
+    <title>https://github.com/VictoriaMetrics/VictoriaMetrics</title>
+    <link href="https://github.com/VictoriaMetrics/VictoriaMetrics" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">VictoriaMetrics: fast, cost-effective monitoring solution and time series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1743206400</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bufbuild/buf#1743206400</id>
+    <title>https://github.com/bufbuild/buf</title>
+    <link href="https://github.com/bufbuild/buf" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">The best way of working with Protocol Buffers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cilium/cilium#1743206400</id>
+    <title>https://github.com/cilium/cilium</title>
+    <link href="https://github.com/cilium/cilium" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">eBPF-based Networking, Security, and Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cockroachdb/cockroach#1743206400</id>
+    <title>https://github.com/cockroachdb/cockroach</title>
+    <link href="https://github.com/cockroachdb/cockroach" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1743206400</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">An open-source runtime for composable workflows. Great for AI agents and CI/CD.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1743206400</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gogs/gogs#1743206400</id>
+    <title>https://github.com/gogs/gogs</title>
+    <link href="https://github.com/gogs/gogs" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Gogs is a painless self-hosted Git service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1743206400</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1743206400</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1743206400</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1743206400</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1743206400</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/enhancements#1743206400</id>
+    <title>https://github.com/kubernetes/enhancements</title>
+    <link href="https://github.com/kubernetes/enhancements" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Enhancements tracking repo for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1743206400</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1743206400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1743206400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1743206400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go-contrib#1743206400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go-contrib" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Collection of extensions for OpenTelemetry-Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zitadel/zitadel#1743206400</id>
+    <title>https://github.com/zitadel/zitadel</title>
+    <link href="https://github.com/zitadel/zitadel" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">ZITADEL - Identity infrastructure, simplified for you.</content>
+  </entry>
+</feed>

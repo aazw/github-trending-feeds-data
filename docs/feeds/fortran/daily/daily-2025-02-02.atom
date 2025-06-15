@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CFMIP/COSPv2.0#1738454400</id>
+    <title>https://github.com/CFMIP/COSPv2.0</title>
+    <link href="https://github.com/CFMIP/COSPv2.0" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">COSP - The CFMIP (Cloud Feedbacks Model Intercomparison Project) Observation Simulator Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NOAA-EMC/WW3#1738454400</id>
+    <title>https://github.com/NOAA-EMC/WW3</title>
+    <link href="https://github.com/NOAA-EMC/WW3" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">WAVEWATCH III</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Reference-LAPACK/lapack#1738454400</id>
+    <title>https://github.com/Reference-LAPACK/lapack</title>
+    <link href="https://github.com/Reference-LAPACK/lapack" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">LAPACK development repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/earth-system-radiation/rte-rrtmgp#1738454400</id>
+    <title>https://github.com/earth-system-radiation/rte-rrtmgp</title>
+    <link href="https://github.com/earth-system-radiation/rte-rrtmgp" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1738454400</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firemodels/fds#1738454400</id>
+    <title>https://github.com/firemodels/fds</title>
+    <link href="https://github.com/firemodels/fds" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Fire Dynamics Simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grimme-lab/xtb#1738454400</id>
+    <title>https://github.com/grimme-lab/xtb</title>
+    <link href="https://github.com/grimme-lab/xtb" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Semiempirical Extended Tight-Binding Program Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1738454400</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+</feed>

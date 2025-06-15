@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom</id>
+  <title>GitHub Trending - emacs-lisp (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abo-abo/swiper#1745193600</id>
+    <title>https://github.com/abo-abo/swiper</title>
+    <link href="https://github.com/abo-abo/swiper" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1745193600</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1745193600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1745193600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-exwm/exwm#1745193600</id>
+    <title>https://github.com/emacs-exwm/exwm</title>
+    <link href="https://github.com/emacs-exwm/exwm" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Emacs X Window Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1745193600</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1745193600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mmontone/emacs-inspector#1745193600</id>
+    <title>https://github.com/mmontone/emacs-inspector</title>
+    <link href="https://github.com/mmontone/emacs-inspector" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Inspection tool for Emacs Lisp objects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/progfolio/elpaca#1745193600</id>
+    <title>https://github.com/progfolio/elpaca</title>
+    <link href="https://github.com/progfolio/elpaca" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">An elisp package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons.el#1745193600</id>
+    <title>https://github.com/rainstormstudio/nerd-icons.el</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons.el" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/seagle0128/doom-modeline#1745193600</id>
+    <title>https://github.com/seagle0128/doom-modeline</title>
+    <link href="https://github.com/seagle0128/doom-modeline" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A fancy and fast mode-line inspired by minimalism design.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1745193600</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

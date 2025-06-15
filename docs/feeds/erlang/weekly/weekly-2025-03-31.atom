@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/weekly.atom</id>
+  <title>GitHub Trending - erlang (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/blt/port_compiler#1743379200</id>
+    <title>https://github.com/blt/port_compiler</title>
+    <link href="https://github.com/blt/port_compiler" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A rebar3 port compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/devinus/poolboy#1743379200</id>
+    <title>https://github.com/devinus/poolboy</title>
+    <link href="https://github.com/devinus/poolboy" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A hunky Erlang worker pool factory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1743379200</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-lager/lager#1743379200</id>
+    <title>https://github.com/erlang-lager/lager</title>
+    <link href="https://github.com/erlang-lager/lager" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A logging framework for Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-ls/erlang_ls#1743379200</id>
+    <title>https://github.com/erlang-ls/erlang_ls</title>
+    <link href="https://github.com/erlang-ls/erlang_ls" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">The Erlang Language Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1743379200</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ferd/recon#1743379200</id>
+    <title>https://github.com/ferd/recon</title>
+    <link href="https://github.com/ferd/recon" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Collection of functions and scripts to debug Erlang in production.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kivra/restclient#1743379200</id>
+    <title>https://github.com/kivra/restclient</title>
+    <link href="https://github.com/kivra/restclient" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Erlang Rest Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mochi/mochiweb#1743379200</id>
+    <title>https://github.com/mochi/mochiweb</title>
+    <link href="https://github.com/mochi/mochiweb" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">MochiWeb is an Erlang library for building lightweight HTTP servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1743379200</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1743379200</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomas-abrahamsson/gpb#1743379200</id>
+    <title>https://github.com/tomas-abrahamsson/gpb</title>
+    <link href="https://github.com/tomas-abrahamsson/gpb" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A Google Protobuf implementation for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uwiger/gproc#1743379200</id>
+    <title>https://github.com/uwiger/gproc</title>
+    <link href="https://github.com/uwiger/gproc" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Extended process registry for Erlang</content>
+  </entry>
+</feed>

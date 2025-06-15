@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom</id>
+  <title>GitHub Trending - ocaml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/awslabs/s2n-bignum#1748736000</id>
+    <title>https://github.com/awslabs/s2n-bignum</title>
+    <link href="https://github.com/awslabs/s2n-bignum" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/bcpierce00/unison#1748736000</id>
+    <title>https://github.com/bcpierce00/unison</title>
+    <link href="https://github.com/bcpierce00/unison" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Unison file synchronizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/flow#1748736000</id>
+    <title>https://github.com/facebook/flow</title>
+    <link href="https://github.com/facebook/flow" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Adds static typing to JavaScript to improve developer productivity and code quality.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/infer#1748736000</id>
+    <title>https://github.com/facebook/infer</title>
+    <link href="https://github.com/facebook/infer" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">A static analyzer for Java, C, C++, and Objective-C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/pyre-check#1748736000</id>
+    <title>https://github.com/facebook/pyre-check</title>
+    <link href="https://github.com/facebook/pyre-check" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Performant type-checking for python.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/formalsec/smtml#1748736000</id>
+    <title>https://github.com/formalsec/smtml</title>
+    <link href="https://github.com/formalsec/smtml" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">An SMT solver frontend for OCaml</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melange-re/melange#1748736000</id>
+    <title>https://github.com/melange-re/melange</title>
+    <link href="https://github.com/melange-re/melange" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">A mixture of tooling combined to produce JavaScript from OCaml &amp; Reason</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocaml/ocaml#1748736000</id>
+    <title>https://github.com/ocaml/ocaml</title>
+    <link href="https://github.com/ocaml/ocaml" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">The core OCaml system: compilers, runtime system, base libraries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/testo#1748736000</id>
+    <title>https://github.com/semgrep/testo</title>
+    <link href="https://github.com/semgrep/testo" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Test framework for OCaml</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terrateamio/terrateam#1748736000</id>
+    <title>https://github.com/terrateamio/terrateam</title>
+    <link href="https://github.com/terrateamio/terrateam" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.</content>
+  </entry>
+</feed>

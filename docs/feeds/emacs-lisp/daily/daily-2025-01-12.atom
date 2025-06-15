@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-12T11:11:33+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1736680293</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rejeep/f.el#1736680293</id>
+    <title>https://github.com/rejeep/f.el</title>
+    <link href="https://github.com/rejeep/f.el" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Modern API for working with files and directories in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1736680293</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jcs090218/setup-emacs-windows#1736680293</id>
+    <title>https://github.com/jcs090218/setup-emacs-windows</title>
+    <link href="https://github.com/jcs090218/setup-emacs-windows" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">A GitHub Action that installs a specific emacs version</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DarthFennec/highlight-indent-guides#1736680293</id>
+    <title>https://github.com/DarthFennec/highlight-indent-guides</title>
+    <link href="https://github.com/DarthFennec/highlight-indent-guides" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Emacs minor mode to highlight indentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-ui#1736680293</id>
+    <title>https://github.com/emacs-lsp/lsp-ui</title>
+    <link href="https://github.com/emacs-lsp/lsp-ui" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">UI integrations for lsp-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bbatsov/projectile#1736680293</id>
+    <title>https://github.com/bbatsov/projectile</title>
+    <link href="https://github.com/bbatsov/projectile" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Project Interaction Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/helpful#1736680293</id>
+    <title>https://github.com/Wilfred/helpful</title>
+    <link href="https://github.com/Wilfred/helpful" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">A better Emacs *help* buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tumashu/posframe#1736680293</id>
+    <title>https://github.com/tumashu/posframe</title>
+    <link href="https://github.com/tumashu/posframe" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1736680293</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flycheck/flycheck#1736680293</id>
+    <title>https://github.com/flycheck/flycheck</title>
+    <link href="https://github.com/flycheck/flycheck" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">On the fly syntax checking for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immerrr/lua-mode#1736680293</id>
+    <title>https://github.com/immerrr/lua-mode</title>
+    <link href="https://github.com/immerrr/lua-mode" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Emacs major mode for editing Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/elisp-refs#1736680293</id>
+    <title>https://github.com/Wilfred/elisp-refs</title>
+    <link href="https://github.com/Wilfred/elisp-refs" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">semantic code search for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1736680293</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/company-mode/company-mode#1736680293</id>
+    <title>https://github.com/company-mode/company-mode</title>
+    <link href="https://github.com/company-mode/company-mode" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Modular in-buffer completion framework for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1736680293</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/avy#1736680293</id>
+    <title>https://github.com/abo-abo/avy</title>
+    <link href="https://github.com/abo-abo/avy" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">Jump to things in Emacs tree-style</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Alexander-Miller/treemacs#1736680293</id>
+    <title>https://github.com/Alexander-Miller/treemacs</title>
+    <link href="https://github.com/Alexander-Miller/treemacs" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1736680293</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1736680293</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-01-12T11:11:33+00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

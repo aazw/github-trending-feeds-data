@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom</id>
+  <title>GitHub Trending - emacs-lisp (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/auto-complete/popup-el#1740960000</id>
+    <title>https://github.com/auto-complete/popup-el</title>
+    <link href="https://github.com/auto-complete/popup-el" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Visual Popup Interface Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1740960000</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dimitri/el-get#1740960000</id>
+    <title>https://github.com/dimitri/el-get</title>
+    <link href="https://github.com/dimitri/el-get" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Manage the external elisp bits and pieces upon which you depend!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1740960000</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1740960000</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1740960000</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1740960000</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justbur/emacs-which-key#1740960000</id>
+    <title>https://github.com/justbur/emacs-which-key</title>
+    <link href="https://github.com/justbur/emacs-which-key" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Emacs package that displays available keybindings in popup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1740960000</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1740960000</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/dash.el#1740960000</id>
+    <title>https://github.com/magnars/dash.el</title>
+    <link href="https://github.com/magnars/dash.el" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A modern list library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1740960000</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1740960000</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rejeep/f.el#1740960000</id>
+    <title>https://github.com/rejeep/f.el</title>
+    <link href="https://github.com/rejeep/f.el" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Modern API for working with files and directories in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1740960000</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tumashu/posframe#1740960000</id>
+    <title>https://github.com/tumashu/posframe</title>
+    <link href="https://github.com/tumashu/posframe" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</content>
+  </entry>
+</feed>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom</id>
+  <title>GitHub Trending - nextflow (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-08T11:22:57+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nf-core/rnaseq#1736335377</id>
+    <title>https://github.com/nf-core/rnaseq</title>
+    <link href="https://github.com/nf-core/rnaseq" />
+    <updated>2025-01-08T11:22:57+00:00</updated>
+    <content type="text">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xPlaygrounds/rig#1744848000</id>
+    <title>https://github.com/0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1744848000</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DioxusLabs/dioxus#1744848000</id>
+    <title>https://github.com/DioxusLabs/dioxus</title>
+    <link href="https://github.com/DioxusLabs/dioxus" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Fullstack app framework for web, desktop, mobile, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1744848000</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1744848000</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-q-developer-cli#1744848000</id>
+    <title>https://github.com/aws/amazon-q-developer-cli</title>
+    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">✨ Add autocomplete and AI to your existing terminal on macOS &amp; Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/quiche#1744848000</id>
+    <title>https://github.com/cloudflare/quiche</title>
+    <link href="https://github.com/cloudflare/quiche" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/katanemo/archgw#1744848000</id>
+    <title>https://github.com/katanemo/archgw</title>
+    <link href="https://github.com/katanemo/archgw" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specific tools, clarifying input, unifying access and observability to any LLM - so you can build smarter and ship faster.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/librespot-org/librespot#1744848000</id>
+    <title>https://github.com/librespot-org/librespot</title>
+    <link href="https://github.com/librespot-org/librespot" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Open Source Spotify client library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1744848000</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1744848000</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1744848000</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-analyzer#1744848000</id>
+    <title>https://github.com/rust-lang/rust-analyzer</title>
+    <link href="https://github.com/rust-lang/rust-analyzer" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">A Rust compiler front-end for IDEs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1744848000</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1744848000</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1744848000</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wasmerio/wasmer#1744848000</id>
+    <title>https://github.com/wasmerio/wasmer</title>
+    <link href="https://github.com/wasmerio/wasmer" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">🚀 Fast, secure, lightweight containers based on WebAssembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1744848000</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

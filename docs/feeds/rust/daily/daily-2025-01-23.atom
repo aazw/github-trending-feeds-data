@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1737590400</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GitoxideLabs/gitoxide#1737590400</id>
+    <title>https://github.com/GitoxideLabs/gitoxide</title>
+    <link href="https://github.com/GitoxideLabs/gitoxide" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">An idiomatic, lean, fast &amp; safe pure Rust implementation of Git</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/arrow-rs#1737590400</id>
+    <title>https://github.com/apache/arrow-rs</title>
+    <link href="https://github.com/apache/arrow-rs" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Official Rust implementation of Apache Arrow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aptos-labs/aptos-core#1737590400</id>
+    <title>https://github.com/aptos-labs/aptos-core</title>
+    <link href="https://github.com/aptos-labs/aptos-core" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytecodealliance/wasmtime#1737590400</id>
+    <title>https://github.com/bytecodealliance/wasmtime</title>
+    <link href="https://github.com/bytecodealliance/wasmtime" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A lightweight WebAssembly runtime that is fast, secure, and standards-compliant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1737590400</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erebe/wstunnel#1737590400</id>
+    <title>https://github.com/erebe/wstunnel</title>
+    <link href="https://github.com/erebe/wstunnel" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1737590400</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1737590400</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1737590400</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jito-foundation/jito-solana#1737590400</id>
+    <title>https://github.com/jito-foundation/jito-solana</title>
+    <link href="https://github.com/jito-foundation/jito-solana" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Jito Foundation MEV Solana Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1737590400</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loco-rs/loco#1737590400</id>
+    <title>https://github.com/loco-rs/loco</title>
+    <link href="https://github.com/loco-rs/loco" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">🚂 🦀 The one-person framework for Rust for side-projects and startups</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1737590400</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/piotrostr/listen#1737590400</id>
+    <title>https://github.com/piotrostr/listen</title>
+    <link href="https://github.com/piotrostr/listen" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Solana Swiss Army Knife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1737590400</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapiz1/rathole#1737590400</id>
+    <title>https://github.com/rapiz1/rathole</title>
+    <link href="https://github.com/rapiz1/rathole" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rpcpool/yellowstone-grpc#1737590400</id>
+    <title>https://github.com/rpcpool/yellowstone-grpc</title>
+    <link href="https://github.com/rpcpool/yellowstone-grpc" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">solana geyser grpc service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1737590400</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana#1737590400</id>
+    <title>https://github.com/solana-labs/solana</title>
+    <link href="https://github.com/solana-labs/solana" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana-program-library#1737590400</id>
+    <title>https://github.com/solana-labs/solana-program-library</title>
+    <link href="https://github.com/solana-labs/solana-program-library" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A collection of Solana programs maintained by Solana Labs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1737590400</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1737590400</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/rspack#1737590400</id>
+    <title>https://github.com/web-infra-dev/rspack</title>
+    <link href="https://github.com/web-infra-dev/rspack" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">The fast Rust-based web bundler with webpack-compatible API 🦀️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1737590400</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IntersectMBO/ouroboros-network#1746403200</id>
+    <title>https://github.com/IntersectMBO/ouroboros-network</title>
+    <link href="https://github.com/IntersectMBO/ouroboros-network" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1746403200</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/b3nj5m1n/xdg-ninja#1746403200</id>
+    <title>https://github.com/b3nj5m1n/xdg-ninja</title>
+    <link href="https://github.com/b3nj5m1n/xdg-ninja" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A shell script which checks your $HOME for unwanted files and directories.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crytic/echidna#1746403200</id>
+    <title>https://github.com/crytic/echidna</title>
+    <link href="https://github.com/crytic/echidna" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Ethereum smart contract fuzzer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/unix#1746403200</id>
+    <title>https://github.com/haskell/unix</title>
+    <link href="https://github.com/haskell/unix" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">POSIX functionality</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1746403200</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1746403200</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1746403200</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simplex-chat/simplexmq#1746403200</id>
+    <title>https://github.com/simplex-chat/simplexmq</title>
+    <link href="https://github.com/simplex-chat/simplexmq" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidalcycles/Tidal#1746403200</id>
+    <title>https://github.com/tidalcycles/Tidal</title>
+    <link href="https://github.com/tidalcycles/Tidal" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Pattern language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucsd-progsys/liquidhaskell#1746403200</id>
+    <title>https://github.com/ucsd-progsys/liquidhaskell</title>
+    <link href="https://github.com/ucsd-progsys/liquidhaskell" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Liquid Types For Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unisonweb/unison#1746403200</id>
+    <title>https://github.com/unisonweb/unison</title>
+    <link href="https://github.com/unisonweb/unison" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A friendly programming language from the future</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmonad/X11#1746403200</id>
+    <title>https://github.com/xmonad/X11</title>
+    <link href="https://github.com/xmonad/X11" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A Haskell binding to the X11 graphics library.</content>
+  </entry>
+</feed>

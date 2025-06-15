@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DaoCloud/public-image-mirror#1741392000</id>
+    <title>https://github.com/DaoCloud/public-image-mirror</title>
+    <link href="https://github.com/DaoCloud/public-image-mirror" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LinuxDroidMaster/Termux-Desktops#1741392000</id>
+    <title>https://github.com/LinuxDroidMaster/Termux-Desktops</title>
+    <link href="https://github.com/LinuxDroidMaster/Termux-Desktops" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MichaelCade/90DaysOfDevOps#1741392000</id>
+    <title>https://github.com/MichaelCade/90DaysOfDevOps</title>
+    <link href="https://github.com/MichaelCade/90DaysOfDevOps" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen2.5#1741392000</id>
+    <title>https://github.com/QwenLM/Qwen2.5</title>
+    <link href="https://github.com/QwenLM/Qwen2.5" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/ROCm#1741392000</id>
+    <title>https://github.com/ROCm/ROCm</title>
+    <link href="https://github.com/ROCm/ROCm" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">AMD ROCm™ Software - GitHub Home</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1741392000</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dokku/dokku#1741392000</id>
+    <title>https://github.com/dokku/dokku</title>
+    <link href="https://github.com/dokku/dokku" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A docker-powered PaaS that helps you build and manage the lifecycle of applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/self-hosted#1741392000</id>
+    <title>https://github.com/getsentry/self-hosted</title>
+    <link href="https://github.com/getsentry/self-hosted" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itdoginfo/podkop#1741392000</id>
+    <title>https://github.com/itdoginfo/podkop</title>
+    <link href="https://github.com/itdoginfo/podkop" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Dev podkop</content>
+  </entry>
+  <entry>
+    <id>https://github.com/masonr/yet-another-bench-script#1741392000</id>
+    <title>https://github.com/masonr/yet-another-bench-script</title>
+    <link href="https://github.com/masonr/yet-another-bench-script" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1741392000</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tj/n#1741392000</id>
+    <title>https://github.com/tj/n</title>
+    <link href="https://github.com/tj/n" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Node version management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xubiaolin/docker-zerotier-planet#1741392000</id>
+    <title>https://github.com/xubiaolin/docker-zerotier-planet</title>
+    <link href="https://github.com/xubiaolin/docker-zerotier-planet" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">一分钟私有部署zerotier-planet服务</content>
+  </entry>
+</feed>

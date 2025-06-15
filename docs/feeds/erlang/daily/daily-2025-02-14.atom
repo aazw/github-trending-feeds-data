@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/WhatsApp/erlfmt#1739491200</id>
+    <title>https://github.com/WhatsApp/erlfmt</title>
+    <link href="https://github.com/WhatsApp/erlfmt" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">An automated code formatter for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/couchdb#1739491200</id>
+    <title>https://github.com/apache/couchdb</title>
+    <link href="https://github.com/apache/couchdb" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/choptastic/qdate#1739491200</id>
+    <title>https://github.com/choptastic/qdate</title>
+    <link href="https://github.com/choptastic/qdate" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Erlang date, time, and timezone management: formatting, conversion, and date arithmetic</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cmullaparthi/ibrowse#1739491200</id>
+    <title>https://github.com/cmullaparthi/ibrowse</title>
+    <link href="https://github.com/cmullaparthi/ibrowse" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Erlang HTTP client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/couchbase/couchdb#1739491200</id>
+    <title>https://github.com/couchbase/couchdb</title>
+    <link href="https://github.com/couchbase/couchdb" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">CouchDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1739491200</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1739491200</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/rebar3#1739491200</id>
+    <title>https://github.com/erlang/rebar3</title>
+    <link href="https://github.com/erlang/rebar3" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Erlang build tool that makes it easy to compile and test Erlang applications and releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1739491200</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/for-GET/jesse#1739491200</id>
+    <title>https://github.com/for-GET/jesse</title>
+    <link href="https://github.com/for-GET/jesse" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josefs/Gradualizer#1739491200</id>
+    <title>https://github.com/josefs/Gradualizer</title>
+    <link href="https://github.com/josefs/Gradualizer" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">A Gradual type system for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1739491200</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1739491200</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1739491200</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-02-14T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+</feed>

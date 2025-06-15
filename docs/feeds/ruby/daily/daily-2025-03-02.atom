@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/dd-trace-rb#1740873600</id>
+    <title>https://github.com/DataDog/dd-trace-rb</title>
+    <link href="https://github.com/DataDog/dd-trace-rb" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Datadog Tracing Ruby Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ViewComponent/view_component#1740873600</id>
+    <title>https://github.com/ViewComponent/view_component</title>
+    <link href="https://github.com/ViewComponent/view_component" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">A framework for building reusable, testable &amp; encapsulated view components in Ruby on Rails.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-ruby#1740873600</id>
+    <title>https://github.com/aws/aws-sdk-ruby</title>
+    <link href="https://github.com/aws/aws-sdk-ruby" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">The official AWS SDK for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dependabot/dependabot-core#1740873600</id>
+    <title>https://github.com/dependabot/dependabot-core</title>
+    <link href="https://github.com/dependabot/dependabot-core" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">🤖 Dependabot's core logic for creating update PRs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastlane/fastlane#1740873600</id>
+    <title>https://github.com/fastlane/fastlane</title>
+    <link href="https://github.com/fastlane/fastlane" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/choosealicense.com#1740873600</id>
+    <title>https://github.com/github/choosealicense.com</title>
+    <link href="https://github.com/github/choosealicense.com" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">A site to provide non-judgmental guidance on choosing a license for your open source project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/explore#1740873600</id>
+    <title>https://github.com/github/explore</title>
+    <link href="https://github.com/github/explore" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Community-curated topic and collection pages on GitHub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vagrant#1740873600</id>
+    <title>https://github.com/hashicorp/vagrant</title>
+    <link href="https://github.com/hashicorp/vagrant" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Vagrant is a tool for building and distributing development environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jordansissel/fpm#1740873600</id>
+    <title>https://github.com/jordansissel/fpm</title>
+    <link href="https://github.com/jordansissel/fpm" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openstreetmap/openstreetmap-website#1740873600</id>
+    <title>https://github.com/openstreetmap/openstreetmap-website</title>
+    <link href="https://github.com/openstreetmap/openstreetmap-website" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">The Rails application that powers OpenStreetMap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opf/openproject#1740873600</id>
+    <title>https://github.com/opf/openproject</title>
+    <link href="https://github.com/opf/openproject" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">OpenProject is the leading open source project management software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/postalserver/postal#1740873600</id>
+    <title>https://github.com/postalserver/postal</title>
+    <link href="https://github.com/postalserver/postal" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1740873600</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/rbs#1740873600</id>
+    <title>https://github.com/ruby/rbs</title>
+    <link href="https://github.com/ruby/rbs" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Type Signature for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubygems/rubygems#1740873600</id>
+    <title>https://github.com/rubygems/rubygems</title>
+    <link href="https://github.com/rubygems/rubygems" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Library packaging and distribution for Ruby.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubysec/ruby-advisory-db#1740873600</id>
+    <title>https://github.com/rubysec/ruby-advisory-db</title>
+    <link href="https://github.com/rubysec/ruby-advisory-db" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">A database of vulnerable Ruby Gems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryanb/nested_form#1740873600</id>
+    <title>https://github.com/ryanb/nested_form</title>
+    <link href="https://github.com/ryanb/nested_form" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Rails plugin to conveniently handle multiple models in a single form.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solidusio/solidus#1740873600</id>
+    <title>https://github.com/solidusio/solidus</title>
+    <link href="https://github.com/solidusio/solidus" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">🛒 Solidus, the open-source eCommerce framework for industry trailblazers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spree/spree#1740873600</id>
+    <title>https://github.com/spree/spree</title>
+    <link href="https://github.com/spree/spree" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
+  </entry>
+</feed>

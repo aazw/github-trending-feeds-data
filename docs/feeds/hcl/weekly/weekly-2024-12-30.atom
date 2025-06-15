@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/weekly.atom</id>
+  <title>GitHub Trending - hcl (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-30T12:16:28+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ec2-bastion-server#1735560988</id>
+    <title>https://github.com/cloudposse/terraform-aws-ec2-bastion-server</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-bastion-server" />
+    <updated>2024-12-30T12:16:28+00:00</updated>
+    <content type="text">Terraform module to define a generic Bastion host with parameterized user_data and support for AWS SSM Session Manager for remote access with IAM authentication.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sidpalas/devops-directive-terraform-course#1735560988</id>
+    <title>https://github.com/sidpalas/devops-directive-terraform-course</title>
+    <link href="https://github.com/sidpalas/devops-directive-terraform-course" />
+    <updated>2024-12-30T12:16:28+00:00</updated>
+    <content type="text">Companion repo for complete Terraform course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault#1735560988</id>
+    <title>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</title>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault" />
+    <updated>2024-12-30T12:16:28+00:00</updated>
+    <content type="text">Azure Verified Module for Key Vault</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-container-vm#1735560988</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-container-vm</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-container-vm" />
+    <updated>2024-12-30T12:16:28+00:00</updated>
+    <content type="text">Deploys containers on Compute Engine instances</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1735560988</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2024-12-30T12:16:28+00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-avm-res-network-virtualnetwork#1735560988</id>
+    <title>https://github.com/Azure/terraform-azurerm-avm-res-network-virtualnetwork</title>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-network-virtualnetwork" />
+    <updated>2024-12-30T12:16:28+00:00</updated>
+    <content type="text">Azure Verified Module for Virtual Network</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1735560988</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2024-12-30T12:16:28+00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1735560988</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2024-12-30T12:16:28+00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+</feed>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom</id>
+  <title>GitHub Trending - verilog (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-03T11:29:55+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/google/CFU-Playground#1735903795</id>
+    <title>https://github.com/google/CFU-Playground</title>
+    <link href="https://github.com/google/CFU-Playground" />
+    <updated>2025-01-03T11:29:55+00:00</updated>
+    <content type="text">Want a faster ML processor? Do it yourself! -- A framework for playing with custom opcodes to accelerate TensorFlow Lite for Microcontrollers (TFLM). . . . . . Online tutorial: https://google.github.io/CFU-Playground/ For reference docs, see the link below.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jotego/jtcores#1735903795</id>
+    <title>https://github.com/jotego/jtcores</title>
+    <link href="https://github.com/jotego/jtcores" />
+    <updated>2025-01-03T11:29:55+00:00</updated>
+    <content type="text">FPGA cores compatible with multiple arcade game machines and KiCAD schematics of arcade games. Working on MiSTer FPGA/Analogue Pocket</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vortexgpgpu/vortex#1735903795</id>
+    <title>https://github.com/vortexgpgpu/vortex</title>
+    <link href="https://github.com/vortexgpgpu/vortex" />
+    <updated>2025-01-03T11:29:55+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/analogdevicesinc/hdl#1735903795</id>
+    <title>https://github.com/analogdevicesinc/hdl</title>
+    <link href="https://github.com/analogdevicesinc/hdl" />
+    <updated>2025-01-03T11:29:55+00:00</updated>
+    <content type="text">HDL libraries and projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EttusResearch/uhd#1735903795</id>
+    <title>https://github.com/EttusResearch/uhd</title>
+    <link href="https://github.com/EttusResearch/uhd" />
+    <updated>2025-01-03T11:29:55+00:00</updated>
+    <content type="text">The USRP™ Hardware Driver Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/The-OpenROAD-Project/OpenROAD#1735903795</id>
+    <title>https://github.com/The-OpenROAD-Project/OpenROAD</title>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD" />
+    <updated>2025-01-03T11:29:55+00:00</updated>
+    <content type="text">OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YosysHQ/picorv32#1735903795</id>
+    <title>https://github.com/YosysHQ/picorv32</title>
+    <link href="https://github.com/YosysHQ/picorv32" />
+    <updated>2025-01-03T11:29:55+00:00</updated>
+    <content type="text">PicoRV32 - A Size-Optimized RISC-V CPU</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexforencich/verilog-ethernet#1735903795</id>
+    <title>https://github.com/alexforencich/verilog-ethernet</title>
+    <link href="https://github.com/alexforencich/verilog-ethernet" />
+    <updated>2025-01-03T11:29:55+00:00</updated>
+    <content type="text">Verilog Ethernet components for FPGA implementation</content>
+  </entry>
+</feed>

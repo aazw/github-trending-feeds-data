@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cuda/weekly.atom</id>
+  <title>GitHub Trending - cuda (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cuda/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/HazyResearch/ThunderKittens#1738540800</id>
+    <title>https://github.com/HazyResearch/ThunderKittens</title>
+    <link href="https://github.com/HazyResearch/ThunderKittens" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Tile primitives for speedy kernels</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/AMGX#1738540800</id>
+    <title>https://github.com/NVIDIA/AMGX</title>
+    <link href="https://github.com/NVIDIA/AMGX" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Distributed multigrid linear solver library on GPU</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nvbench#1738540800</id>
+    <title>https://github.com/NVIDIA/nvbench</title>
+    <link href="https://github.com/NVIDIA/nvbench" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">CUDA Kernel Benchmarking Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flashinfer-ai/flashinfer#1738540800</id>
+    <title>https://github.com/flashinfer-ai/flashinfer</title>
+    <link href="https://github.com/flashinfer-ai/flashinfer" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">FlashInfer: Kernel Library for LLM Serving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/llm.c#1738540800</id>
+    <title>https://github.com/karpathy/llm.c</title>
+    <link href="https://github.com/karpathy/llm.c" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">LLM training in simple, raw C/CUDA</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/cugraph#1738540800</id>
+    <title>https://github.com/rapidsai/cugraph</title>
+    <link href="https://github.com/rapidsai/cugraph" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">cuGraph - RAPIDS Graph Analytics Library</content>
+  </entry>
+</feed>

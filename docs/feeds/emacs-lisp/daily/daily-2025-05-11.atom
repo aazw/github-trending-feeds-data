@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Fuco1/smartparens#1746921600</id>
+    <title>https://github.com/Fuco1/smartparens</title>
+    <link href="https://github.com/Fuco1/smartparens" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Minor mode for Emacs that deals with parens pairs and tries to be smart about it.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MatthewZMD/aidermacs#1746921600</id>
+    <title>https://github.com/MatthewZMD/aidermacs</title>
+    <link href="https://github.com/MatthewZMD/aidermacs" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">AI Pair Programming in Emacs with Aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/avy#1746921600</id>
+    <title>https://github.com/abo-abo/avy</title>
+    <link href="https://github.com/abo-abo/avy" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Jump to things in Emacs tree-style</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1746921600</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akermu/emacs-libvterm#1746921600</id>
+    <title>https://github.com/akermu/emacs-libvterm</title>
+    <link href="https://github.com/akermu/emacs-libvterm" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Emacs libvterm integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/company-mode/company-mode#1746921600</id>
+    <title>https://github.com/company-mode/company-mode</title>
+    <link href="https://github.com/company-mode/company-mode" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Modular in-buffer completion framework for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1746921600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1746921600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1746921600</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1746921600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/expand-region.el#1746921600</id>
+    <title>https://github.com/magnars/expand-region.el</title>
+    <link href="https://github.com/magnars/expand-region.el" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Emacs extension to increase selected region by semantic units.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/noctuid/general.el#1746921600</id>
+    <title>https://github.com/noctuid/general.el</title>
+    <link href="https://github.com/noctuid/general.el" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">More convenient key definitions in emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/exec-path-from-shell#1746921600</id>
+    <title>https://github.com/purcell/exec-path-from-shell</title>
+    <link href="https://github.com/purcell/exec-path-from-shell" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Make Emacs use the $PATH set up by the user's shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1746921600</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons.el#1746921600</id>
+    <title>https://github.com/rainstormstudio/nerd-icons.el</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons.el" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/seagle0128/doom-modeline#1746921600</id>
+    <title>https://github.com/seagle0128/doom-modeline</title>
+    <link href="https://github.com/seagle0128/doom-modeline" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">A fancy and fast mode-line inspired by minimalism design.</content>
+  </entry>
+</feed>

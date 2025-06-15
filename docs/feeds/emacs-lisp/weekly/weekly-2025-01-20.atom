@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom</id>
+  <title>GitHub Trending - emacs-lisp (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1737331200</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1737331200</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1737331200</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdtsmith/ultra-scroll#1737331200</id>
+    <title>https://github.com/jdtsmith/ultra-scroll</title>
+    <link href="https://github.com/jdtsmith/ultra-scroll" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">scroll Emacs like lightning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1737331200</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/ace-window#1737331200</id>
+    <title>https://github.com/abo-abo/ace-window</title>
+    <link href="https://github.com/abo-abo/ace-window" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Quickly switch windows in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1737331200</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dajva/rg.el#1737331200</id>
+    <title>https://github.com/dajva/rg.el</title>
+    <link href="https://github.com/dajva/rg.el" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Emacs search tool based on ripgrep</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clojure-emacs/clojure-mode#1737331200</id>
+    <title>https://github.com/clojure-emacs/clojure-mode</title>
+    <link href="https://github.com/clojure-emacs/clojure-mode" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Emacs support for the Clojure(Script) programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1737331200</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1737331200</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/tree-sitter-langs#1737331200</id>
+    <title>https://github.com/emacs-tree-sitter/tree-sitter-langs</title>
+    <link href="https://github.com/emacs-tree-sitter/tree-sitter-langs" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Language bundle for Emacs's tree-sitter package</content>
+  </entry>
+</feed>

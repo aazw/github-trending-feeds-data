@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/avelino/awesome-go#1745280000</id>
+    <title>https://github.com/avelino/awesome-go</title>
+    <link href="https://github.com/avelino/awesome-go" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">A curated list of awesome Go frameworks, libraries and software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1745280000</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino-ext#1745280000</id>
+    <title>https://github.com/cloudwego/eino-ext</title>
+    <link href="https://github.com/cloudwego/eino-ext" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Various extensions for the Eino framework: https://github.com/cloudwego/eino</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1745280000</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/gateway#1745280000</id>
+    <title>https://github.com/envoyproxy/gateway</title>
+    <link href="https://github.com/envoyproxy/gateway" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1745280000</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-co-op/gocron#1745280000</id>
+    <title>https://github.com/go-co-op/gocron</title>
+    <link href="https://github.com/go-co-op/gocron" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gorm/gorm#1745280000</id>
+    <title>https://github.com/go-gorm/gorm</title>
+    <link href="https://github.com/go-gorm/gorm" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">The fantastic ORM library for Golang, aims to be developer friendly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-resty/resty#1745280000</id>
+    <title>https://github.com/go-resty/resty</title>
+    <link href="https://github.com/go-resty/resty" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Simple HTTP, REST, and SSE client library for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1745280000</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1745280000</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1745280000</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kubebuilder#1745280000</id>
+    <title>https://github.com/kubernetes-sigs/kubebuilder</title>
+    <link href="https://github.com/kubernetes-sigs/kubebuilder" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Kubebuilder - SDK for building Kubernetes APIs using CRDs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketbase/pocketbase#1745280000</id>
+    <title>https://github.com/pocketbase/pocketbase</title>
+    <link href="https://github.com/pocketbase/pocketbase" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Open Source realtime backend in 1 file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/katana#1745280000</id>
+    <title>https://github.com/projectdiscovery/katana</title>
+    <link href="https://github.com/projectdiscovery/katana" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">A next-generation crawling and spidering framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rqlite/rqlite#1745280000</id>
+    <title>https://github.com/rqlite/rqlite</title>
+    <link href="https://github.com/rqlite/rqlite" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">The lightweight, user-friendly, distributed relational database built on SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/viper#1745280000</id>
+    <title>https://github.com/spf13/viper</title>
+    <link href="https://github.com/spf13/viper" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Go configuration with fangs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/auth#1745280000</id>
+    <title>https://github.com/supabase/auth</title>
+    <link href="https://github.com/supabase/auth" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">A JWT based API for managing users and issuing JWT tokens</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usual2970/certimate#1745280000</id>
+    <title>https://github.com/usual2970/certimate</title>
+    <link href="https://github.com/usual2970/certimate" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zitadel/zitadel#1745280000</id>
+    <title>https://github.com/zitadel/zitadel</title>
+    <link href="https://github.com/zitadel/zitadel" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">ZITADEL - Identity infrastructure, simplified for you.</content>
+  </entry>
+</feed>

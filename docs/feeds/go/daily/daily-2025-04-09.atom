@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1744156800</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cilium/cilium#1744156800</id>
+    <title>https://github.com/cilium/cilium</title>
+    <link href="https://github.com/cilium/cilium" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">eBPF-based Networking, Security, and Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1744156800</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/buildx#1744156800</id>
+    <title>https://github.com/docker/buildx</title>
+    <link href="https://github.com/docker/buildx" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Docker CLI plugin for extended build capabilities with BuildKit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/compose#1744156800</id>
+    <title>https://github.com/docker/compose</title>
+    <link href="https://github.com/docker/compose" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Define and run multi-container applications with Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/optimism#1744156800</id>
+    <title>https://github.com/ethereum-optimism/optimism</title>
+    <link href="https://github.com/ethereum-optimism/optimism" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Optimism is Ethereum, scaled.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1744156800</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-git/go-git#1744156800</id>
+    <title>https://github.com/go-git/go-git</title>
+    <link href="https://github.com/go-git/go-git" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">A highly extensible Git implementation in pure Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1744156800</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/mcp-grafana#1744156800</id>
+    <title>https://github.com/grafana/mcp-grafana</title>
+    <link href="https://github.com/grafana/mcp-grafana" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">MCP server for Grafana</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/consul#1744156800</id>
+    <title>https://github.com/hashicorp/consul</title>
+    <link href="https://github.com/hashicorp/consul" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hr3lxphr6j/bililive-go#1744156800</id>
+    <title>https://github.com/hr3lxphr6j/bililive-go</title>
+    <link href="https://github.com/hr3lxphr6j/bililive-go" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">一个直播录制工具</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kopia/kopia#1744156800</id>
+    <title>https://github.com/kopia/kopia</title>
+    <link href="https://github.com/kopia/kopia" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krillinai/KrillinAI#1744156800</id>
+    <title>https://github.com/krillinai/KrillinAI</title>
+    <link href="https://github.com/krillinai/KrillinAI" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1744156800</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikefarah/yq#1744156800</id>
+    <title>https://github.com/mikefarah/yq</title>
+    <link href="https://github.com/mikefarah/yq" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1744156800</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oauth2-proxy/oauth2-proxy#1744156800</id>
+    <title>https://github.com/oauth2-proxy/oauth2-proxy</title>
+    <link href="https://github.com/oauth2-proxy/oauth2-proxy" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1744156800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qax-os/excelize#1744156800</id>
+    <title>https://github.com/qax-os/excelize</title>
+    <link href="https://github.com/qax-os/excelize" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/go-redis#1744156800</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Redis Go client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/segmentio/kafka-go#1744156800</id>
+    <title>https://github.com/segmentio/kafka-go</title>
+    <link href="https://github.com/segmentio/kafka-go" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Kafka library in Go</content>
+  </entry>
+</feed>

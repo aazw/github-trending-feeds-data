@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1743206400</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphapapa/org-ql#1743206400</id>
+    <title>https://github.com/alphapapa/org-ql</title>
+    <link href="https://github.com/alphapapa/org-ql" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/company-mode/company-mode#1743206400</id>
+    <title>https://github.com/company-mode/company-mode</title>
+    <link href="https://github.com/company-mode/company-mode" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Modular in-buffer completion framework for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1743206400</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dimitri/el-get#1743206400</id>
+    <title>https://github.com/dimitri/el-get</title>
+    <link href="https://github.com/dimitri/el-get" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Manage the external elisp bits and pieces upon which you depend!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1743206400</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-emacs#1743206400</id>
+    <title>https://github.com/editorconfig/editorconfig-emacs</title>
+    <link href="https://github.com/editorconfig/editorconfig-emacs" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">EditorConfig plugin for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1743206400</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joodland/bm#1743206400</id>
+    <title>https://github.com/joodland/bm</title>
+    <link href="https://github.com/joodland/bm" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">bm.el -- Visual Bookmarks for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1743206400</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1743206400</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1743206400</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1743206400</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yoshiki/yaml-mode#1743206400</id>
+    <title>https://github.com/yoshiki/yaml-mode</title>
+    <link href="https://github.com/yoshiki/yaml-mode" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">The emacs major mode for editing files in the YAML data serialization format.</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/WhatsApp/erlfmt#1746748800</id>
+    <title>https://github.com/WhatsApp/erlfmt</title>
+    <link href="https://github.com/WhatsApp/erlfmt" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">An automated code formatter for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-beam/aws_credentials#1746748800</id>
+    <title>https://github.com/aws-beam/aws_credentials</title>
+    <link href="https://github.com/aws-beam/aws_credentials" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">An Erlang library to provide AWS credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/devinus/poolboy#1746748800</id>
+    <title>https://github.com/devinus/poolboy</title>
+    <link href="https://github.com/devinus/poolboy" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A hunky Erlang worker pool factory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1746748800</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">The most scalable MQTT broker for AI, IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-lager/lager#1746748800</id>
+    <title>https://github.com/erlang-lager/lager</title>
+    <link href="https://github.com/erlang-lager/lager" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A logging framework for Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1746748800</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/rebar3#1746748800</id>
+    <title>https://github.com/erlang/rebar3</title>
+    <link href="https://github.com/erlang/rebar3" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Erlang build tool that makes it easy to compile and test Erlang applications and releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlsci/iso8601#1746748800</id>
+    <title>https://github.com/erlsci/iso8601</title>
+    <link href="https://github.com/erlsci/iso8601" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">An ISO 8601 date formating and parsing library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlware/relx#1746748800</id>
+    <title>https://github.com/erlware/relx</title>
+    <link href="https://github.com/erlware/relx" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Sane, simple release creation for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexpm/hex_core#1746748800</id>
+    <title>https://github.com/hexpm/hex_core</title>
+    <link href="https://github.com/hexpm/hex_core" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Reference implementation of Hex specifications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1746748800</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1746748800</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/ranch#1746748800</id>
+    <title>https://github.com/ninenines/ranch</title>
+    <link href="https://github.com/ninenines/ranch" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Socket acceptor pool for TCP protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1746748800</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1746748800</id>
+    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
+    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Delayed Messaging for RabbitMQ</content>
+  </entry>
+  <entry>
+    <id>https://github.com/talentdeficit/jsx#1746748800</id>
+    <title>https://github.com/talentdeficit/jsx</title>
+    <link href="https://github.com/talentdeficit/jsx" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">an erlang application for consuming, producing and manipulating json. inspired by yajl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomas-abrahamsson/gpb#1746748800</id>
+    <title>https://github.com/tomas-abrahamsson/gpb</title>
+    <link href="https://github.com/tomas-abrahamsson/gpb" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A Google Protobuf implementation for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uwiger/gproc#1746748800</id>
+    <title>https://github.com/uwiger/gproc</title>
+    <link href="https://github.com/uwiger/gproc" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Extended process registry for Erlang</content>
+  </entry>
+</feed>

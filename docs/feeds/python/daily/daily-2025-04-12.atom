@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BerriAI/litellm#1744416000</id>
+    <title>https://github.com/BerriAI/litellm</title>
+    <link href="https://github.com/BerriAI/litellm" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/InternLM/lmdeploy#1744416000</id>
+    <title>https://github.com/InternLM/lmdeploy</title>
+    <link href="https://github.com/InternLM/lmdeploy" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">LMDeploy is a toolkit for compressing, deploying, and serving LLMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/cuda-python#1744416000</id>
+    <title>https://github.com/NVIDIA/cuda-python</title>
+    <link href="https://github.com/NVIDIA/cuda-python" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">CUDA Python: Performance meets Productivity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/agno-agi/agno#1744416000</id>
+    <title>https://github.com/agno-agi/agno</title>
+    <link href="https://github.com/agno-agi/agno" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Lightweight framework for building Agents with memory, knowledge, tools and reasoning.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crestalnetwork/intentkit#1744416000</id>
+    <title>https://github.com/crestalnetwork/intentkit</title>
+    <link href="https://github.com/crestalnetwork/intentkit" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">An open and fair framework for everyone to build AI agents equipped with powerful skills. Launch your agent, improve the world, your wallet, or both!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastapi/fastapi#1744416000</id>
+    <title>https://github.com/fastapi/fastapi</title>
+    <link href="https://github.com/fastapi/fastapi" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">FastAPI framework, high performance, easy to learn, fast to code, ready for production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/funstory-ai/BabelDOC#1744416000</id>
+    <title>https://github.com/funstory-ai/BabelDOC</title>
+    <link href="https://github.com/funstory-ai/BabelDOC" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Yet Another Document Translator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hiyouga/LLaMA-Factory#1744416000</id>
+    <title>https://github.com/hiyouga/LLaMA-Factory</title>
+    <link href="https://github.com/hiyouga/LLaMA-Factory" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Unified Efficient Fine-Tuning of 100+ LLMs &amp; VLMs (ACL 2024)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mem0ai/mem0#1744416000</id>
+    <title>https://github.com/mem0ai/mem0</title>
+    <link href="https://github.com/mem0ai/mem0" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">The Memory layer for AI Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/psf/black#1744416000</id>
+    <title>https://github.com/psf/black</title>
+    <link href="https://github.com/psf/black" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">The uncompromising Python code formatter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sinaptik-ai/pandas-ai#1744416000</id>
+    <title>https://github.com/sinaptik-ai/pandas-ai</title>
+    <link href="https://github.com/sinaptik-ai/pandas-ai" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Chat with your database or your datalake (SQL, CSV, parquet). PandasAI makes data analysis conversational using LLMs and RAG.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/vllm#1744416000</id>
+    <title>https://github.com/vllm-project/vllm</title>
+    <link href="https://github.com/vllm-project/vllm" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">A high-throughput and memory-efficient inference and serving engine for LLMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yeongpin/cursor-free-vip#1744416000</id>
+    <title>https://github.com/yeongpin/cursor-free-vip</title>
+    <link href="https://github.com/yeongpin/cursor-free-vip" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">[Support 0.48.x]（Reset Cursor AI MachineID &amp; Auto Sign Up / In &amp; Bypass Higher Token Limit）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</content>
+  </entry>
+</feed>

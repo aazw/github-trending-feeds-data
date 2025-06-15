@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-28T11:16:57+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ageron/handson-ml2#1735384617</id>
+    <title>https://github.com/ageron/handson-ml2</title>
+    <link href="https://github.com/ageron/handson-ml2" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/micrograd#1735384617</id>
+    <title>https://github.com/karpathy/micrograd</title>
+    <link href="https://github.com/karpathy/micrograd" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/co-tracker#1735384617</id>
+    <title>https://github.com/facebookresearch/co-tracker</title>
+    <link href="https://github.com/facebookresearch/co-tracker" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">CoTracker is a model for tracking any point (pixel) on a video.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-ai-edge/mediapipe-samples#1735384617</id>
+    <title>https://github.com/google-ai-edge/mediapipe-samples</title>
+    <link href="https://github.com/google-ai-edge/mediapipe-samples" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/NielsRogge/Transformers-Tutorials#1735384617</id>
+    <title>https://github.com/NielsRogge/Transformers-Tutorials</title>
+    <link href="https://github.com/NielsRogge/Transformers-Tutorials" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">This repository contains demos I made with the Transformers library by HuggingFace.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pycaret/pycaret#1735384617</id>
+    <title>https://github.com/pycaret/pycaret</title>
+    <link href="https://github.com/pycaret/pycaret" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">An open-source, low-code machine learning library in Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/nn-zero-to-hero#1735384617</id>
+    <title>https://github.com/karpathy/nn-zero-to-hero</title>
+    <link href="https://github.com/karpathy/nn-zero-to-hero" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">Neural Networks: Zero to Hero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/sam2#1735384617</id>
+    <title>https://github.com/facebookresearch/sam2</title>
+    <link href="https://github.com/facebookresearch/sam2" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1735384617</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/autogen#1735384617</id>
+    <title>https://github.com/microsoft/autogen</title>
+    <link href="https://github.com/microsoft/autogen" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">A programming framework for agentic AI 🤖 PyPi: autogen-agentchat Discord: https://aka.ms/autogen-discord Office Hour: https://aka.ms/autogen-officehour</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ed-donner/llm_engineering#1735384617</id>
+    <title>https://github.com/ed-donner/llm_engineering</title>
+    <link href="https://github.com/ed-donner/llm_engineering" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">Repo to accompany my mastering LLM engineering course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/petercorke/RVC3-python#1735384617</id>
+    <title>https://github.com/petercorke/RVC3-python</title>
+    <link href="https://github.com/petercorke/RVC3-python" />
+    <updated>2024-12-28T11:16:57+00:00</updated>
+    <content type="text">Code examples for Robotics, Vision &amp; Control 3rd edition in Python</content>
+  </entry>
+</feed>

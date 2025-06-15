@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SeaQL/sea-orm#1743552000</id>
+    <title>https://github.com/SeaQL/sea-orm</title>
+    <link href="https://github.com/SeaQL/sea-orm" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">🐚 An async &amp; dynamic ORM for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atuinsh/atuin#1743552000</id>
+    <title>https://github.com/atuinsh/atuin</title>
+    <link href="https://github.com/atuinsh/atuin" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">✨ Magical shell history</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-q-developer-cli#1743552000</id>
+    <title>https://github.com/aws/amazon-q-developer-cli</title>
+    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">✨ Add autocomplete and AI to your existing terminal on macOS &amp; Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1743552000</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/biomejs/biome#1743552000</id>
+    <title>https://github.com/biomejs/biome</title>
+    <link href="https://github.com/biomejs/biome" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytecodealliance/wasmtime#1743552000</id>
+    <title>https://github.com/bytecodealliance/wasmtime</title>
+    <link href="https://github.com/bytecodealliance/wasmtime" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A lightweight WebAssembly runtime that is fast, secure, and standards-compliant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/casey/just#1743552000</id>
+    <title>https://github.com/casey/just</title>
+    <link href="https://github.com/casey/just" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">🤖 Just a command runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1743552000</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espanso/espanso#1743552000</id>
+    <title>https://github.com/espanso/espanso</title>
+    <link href="https://github.com/espanso/espanso" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Cross-platform Text Expander written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/candle#1743552000</id>
+    <title>https://github.com/huggingface/candle</title>
+    <link href="https://github.com/huggingface/candle" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Minimalist ML framework for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1743552000</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1743552000</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rerun-io/rerun#1743552000</id>
+    <title>https://github.com/rerun-io/rerun</title>
+    <link href="https://github.com/rerun-io/rerun" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1743552000</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/servo/servo#1743552000</id>
+    <title>https://github.com/servo/servo</title>
+    <link href="https://github.com/servo/servo" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase-community/postgres-language-server#1743552000</id>
+    <title>https://github.com/supabase-community/postgres-language-server</title>
+    <link href="https://github.com/supabase-community/postgres-language-server" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A Language Server for Postgres</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/tauri#1743552000</id>
+    <title>https://github.com/tauri-apps/tauri</title>
+    <link href="https://github.com/tauri-apps/tauri" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1743552000</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tursodatabase/limbo#1743552000</id>
+    <title>https://github.com/tursodatabase/limbo</title>
+    <link href="https://github.com/tursodatabase/limbo" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Limbo is a project to build the modern evolution of SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1743552000</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/versotile-org/verso#1743552000</id>
+    <title>https://github.com/versotile-org/verso</title>
+    <link href="https://github.com/versotile-org/verso" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A web browser that plays old world blues to build new world hope</content>
+  </entry>
+</feed>

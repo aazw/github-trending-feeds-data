@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CleverRaven/Cataclysm-DDA#1738368000</id>
+    <title>https://github.com/CleverRaven/Cataclysm-DDA</title>
+    <link href="https://github.com/CleverRaven/Cataclysm-DDA" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KhronosGroup/Vulkan-ValidationLayers#1738368000</id>
+    <title>https://github.com/KhronosGroup/Vulkan-ValidationLayers</title>
+    <link href="https://github.com/KhronosGroup/Vulkan-ValidationLayers" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Vulkan Validation Layers (VVL)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abseil/abseil-cpp#1738368000</id>
+    <title>https://github.com/abseil/abseil-cpp</title>
+    <link href="https://github.com/abseil/abseil-cpp" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Abseil Common Libraries (C++)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catchorg/Catch2#1738368000</id>
+    <title>https://github.com/catchorg/Catch2</title>
+    <link href="https://github.com/catchorg/Catch2" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ceph/ceph#1738368000</id>
+    <title>https://github.com/ceph/ceph</title>
+    <link href="https://github.com/ceph/ceph" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Ceph is a distributed object, block, and file storage platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duckdb/duckdb#1738368000</id>
+    <title>https://github.com/duckdb/duckdb</title>
+    <link href="https://github.com/duckdb/duckdb" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">DuckDB is an analytical in-process SQL database management system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/envoy#1738368000</id>
+    <title>https://github.com/envoyproxy/envoy</title>
+    <link href="https://github.com/envoyproxy/envoy" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Cloud-native high-performance edge/middle/service proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react-native#1738368000</id>
+    <title>https://github.com/facebook/react-native</title>
+    <link href="https://github.com/facebook/react-native" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A framework for building native applications using React</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/rocksdb#1738368000</id>
+    <title>https://github.com/facebook/rocksdb</title>
+    <link href="https://github.com/facebook/rocksdb" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A library that provides an embeddable, persistent key-value store for fast storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/faiss#1738368000</id>
+    <title>https://github.com/facebookresearch/faiss</title>
+    <link href="https://github.com/facebookresearch/faiss" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A library for efficient similarity search and clustering of dense vectors.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggerganov/llama.cpp#1738368000</id>
+    <title>https://github.com/ggerganov/llama.cpp</title>
+    <link href="https://github.com/ggerganov/llama.cpp" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">LLM inference in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggerganov/whisper.cpp#1738368000</id>
+    <title>https://github.com/ggerganov/whisper.cpp</title>
+    <link href="https://github.com/ggerganov/whisper.cpp" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Port of OpenAI's Whisper model in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot#1738368000</id>
+    <title>https://github.com/godotengine/godot</title>
+    <link href="https://github.com/godotengine/godot" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Godot Engine – Multi-platform 2D and 3D game engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-ai-edge/mediapipe#1738368000</id>
+    <title>https://github.com/google-ai-edge/mediapipe</title>
+    <link href="https://github.com/google-ai-edge/mediapipe" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Cross-platform, customizable ML solutions for live and streaming media.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/flatbuffers#1738368000</id>
+    <title>https://github.com/google/flatbuffers</title>
+    <link href="https://github.com/google/flatbuffers" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">FlatBuffers: Memory Efficient Serialization Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/googletest#1738368000</id>
+    <title>https://github.com/google/googletest</title>
+    <link href="https://github.com/google/googletest" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">GoogleTest - Google Testing and Mocking Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/re2#1738368000</id>
+    <title>https://github.com/google/re2</title>
+    <link href="https://github.com/google/re2" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jank-lang/jank#1738368000</id>
+    <title>https://github.com/jank-lang/jank</title>
+    <link href="https://github.com/jank-lang/jank" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The native Clojure dialect hosted on LLVM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbeder/yaml-cpp#1738368000</id>
+    <title>https://github.com/jbeder/yaml-cpp</title>
+    <link href="https://github.com/jbeder/yaml-cpp" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A YAML parser and emitter in C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/winget-cli#1738368000</id>
+    <title>https://github.com/microsoft/winget-cli</title>
+    <link href="https://github.com/microsoft/winget-cli" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">WinGet is the Windows Package Manager. This project includes a CLI (Command Line Interface), PowerShell modules, and a COM (Component Object Model) API (Application Programming Interface).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protocolbuffers/protobuf#1738368000</id>
+    <title>https://github.com/protocolbuffers/protobuf</title>
+    <link href="https://github.com/protocolbuffers/protobuf" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Protocol Buffers - Google's data interchange format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/cudf#1738368000</id>
+    <title>https://github.com/rapidsai/cudf</title>
+    <link href="https://github.com/rapidsai/cudf" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">cuDF - GPU DataFrame Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorflow/tensorflow#1738368000</id>
+    <title>https://github.com/tensorflow/tensorflow</title>
+    <link href="https://github.com/tensorflow/tensorflow" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">An Open Source Machine Learning Framework for Everyone</content>
+  </entry>
+</feed>

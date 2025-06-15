@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/monthly.atom</id>
+  <title>GitHub Trending - scala (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/spark-rapids#1746057600</id>
+    <title>https://github.com/NVIDIA/spark-rapids</title>
+    <link href="https://github.com/NVIDIA/spark-rapids" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Spark RAPIDS plugin - accelerate Apache Spark with GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenXiangShan/XiangShan#1746057600</id>
+    <title>https://github.com/OpenXiangShan/XiangShan</title>
+    <link href="https://github.com/OpenXiangShan/XiangShan" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Open-source high-performance RISC-V processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheHive-Project/TheHive#1746057600</id>
+    <title>https://github.com/TheHive-Project/TheHive</title>
+    <link href="https://github.com/TheHive-Project/TheHive" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">TheHive: a Scalable, Open Source and Free Security Incident Response Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1746057600</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1746057600</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1746057600</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1746057600</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gatling/gatling#1746057600</id>
+    <title>https://github.com/gatling/gatling</title>
+    <link href="https://github.com/gatling/gatling" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Modern Load Testing as Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1746057600</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv-boom/riscv-boom#1746057600</id>
+    <title>https://github.com/riscv-boom/riscv-boom</title>
+    <link href="https://github.com/riscv-boom/riscv-boom" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">SonicBOOM: The Berkeley Out-of-Order Machine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rtyley/bfg-repo-cleaner#1746057600</id>
+    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
+    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala3#1746057600</id>
+    <title>https://github.com/scala/scala3</title>
+    <link href="https://github.com/scala/scala3" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">The Scala 3 compiler, also known as Dotty.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/gemmini#1746057600</id>
+    <title>https://github.com/ucb-bar/gemmini</title>
+    <link href="https://github.com/ucb-bar/gemmini" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Berkeley's Spatial Array Generator</content>
+  </entry>
+</feed>

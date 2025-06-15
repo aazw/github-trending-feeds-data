@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nunjucks/weekly.atom</id>
+  <title>GitHub Trending - nunjucks (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nunjucks/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/11ty/11ty-website#1737331200</id>
+    <title>https://github.com/11ty/11ty-website</title>
+    <link href="https://github.com/11ty/11ty-website" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Documentation site for the Eleventy static site generator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/h5bp/Front-end-Developer-Interview-Questions#1737331200</id>
+    <title>https://github.com/h5bp/Front-end-Developer-Interview-Questions</title>
+    <link href="https://github.com/h5bp/Front-end-Developer-Interview-Questions" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore.</content>
+  </entry>
+</feed>

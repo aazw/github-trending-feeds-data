@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/WhatsApp/erlfmt#1746576000</id>
+    <title>https://github.com/WhatsApp/erlfmt</title>
+    <link href="https://github.com/WhatsApp/erlfmt" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">An automated code formatter for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/couchdb#1746576000</id>
+    <title>https://github.com/apache/couchdb</title>
+    <link href="https://github.com/apache/couchdb" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">Seamless multi-primary syncing database with an intuitive HTTP/JSON API, designed for reliability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-beam/aws_credentials#1746576000</id>
+    <title>https://github.com/aws-beam/aws_credentials</title>
+    <link href="https://github.com/aws-beam/aws_credentials" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">An Erlang library to provide AWS credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1746576000</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">The most scalable MQTT broker for AI, IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-lager/lager#1746576000</id>
+    <title>https://github.com/erlang-lager/lager</title>
+    <link href="https://github.com/erlang-lager/lager" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">A logging framework for Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1746576000</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/rebar3#1746576000</id>
+    <title>https://github.com/erlang/rebar3</title>
+    <link href="https://github.com/erlang/rebar3" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">Erlang build tool that makes it easy to compile and test Erlang applications and releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlsci/iso8601#1746576000</id>
+    <title>https://github.com/erlsci/iso8601</title>
+    <link href="https://github.com/erlsci/iso8601" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">An ISO 8601 date formating and parsing library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlware/relx#1746576000</id>
+    <title>https://github.com/erlware/relx</title>
+    <link href="https://github.com/erlware/relx" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">Sane, simple release creation for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexpm/hex_core#1746576000</id>
+    <title>https://github.com/hexpm/hex_core</title>
+    <link href="https://github.com/hexpm/hex_core" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">Reference implementation of Hex specifications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kivra/restclient#1746576000</id>
+    <title>https://github.com/kivra/restclient</title>
+    <link href="https://github.com/kivra/restclient" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">Erlang Rest Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1746576000</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1746576000</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1746576000</id>
+    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
+    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">Delayed Messaging for RabbitMQ</content>
+  </entry>
+</feed>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JamesTurland/JimsGarage#1740614400</id>
+    <title>https://github.com/JamesTurland/JimsGarage</title>
+    <link href="https://github.com/JamesTurland/JimsGarage" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Homelab Goodies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PapirusDevelopmentTeam/papirus-icon-theme#1740614400</id>
+    <title>https://github.com/PapirusDevelopmentTeam/papirus-icon-theme</title>
+    <link href="https://github.com/PapirusDevelopmentTeam/papirus-icon-theme" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Pixel perfect icon theme for Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RPi-Distro/pi-gen#1740614400</id>
+    <title>https://github.com/RPi-Distro/pi-gen</title>
+    <link href="https://github.com/RPi-Distro/pi-gen" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Tool used to create the official Raspberry Pi OS images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RROrg/rr#1740614400</id>
+    <title>https://github.com/RROrg/rr</title>
+    <link href="https://github.com/RROrg/rr" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Redpill Recovery (arpl-i18n)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1740614400</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/ramalama#1740614400</id>
+    <title>https://github.com/containers/ramalama</title>
+    <link href="https://github.com/containers/ramalama" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The goal of RamaLama is to make working with AI boring.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/learn-nlp-with-transformers#1740614400</id>
+    <title>https://github.com/datawhalechina/learn-nlp-with-transformers</title>
+    <link href="https://github.com/datawhalechina/learn-nlp-with-transformers" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">we want to create a repo to illustrate usage of transformers in chinese</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-docs#1740614400</id>
+    <title>https://github.com/langgenius/dify-docs</title>
+    <link href="https://github.com/langgenius/dify-docs" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The open-source repo for docs.dify.ai</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1740614400</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1740614400</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oracle/docker-images#1740614400</id>
+    <title>https://github.com/oracle/docker-images</title>
+    <link href="https://github.com/oracle/docker-images" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Official source of container configurations, images, and examples for Oracle products and projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/super-linter/super-linter#1740614400</id>
+    <title>https://github.com/super-linter/super-linter</title>
+    <link href="https://github.com/super-linter/super-linter" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Combination of multiple linters to run as a GitHub Action or standalone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wolfi-dev/os#1740614400</id>
+    <title>https://github.com/wolfi-dev/os</title>
+    <link href="https://github.com/wolfi-dev/os" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Main package repository for production Wolfi images</content>
+  </entry>
+</feed>

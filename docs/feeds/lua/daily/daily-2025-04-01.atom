@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/apache/apisix#1743465600</id>
+    <title>https://github.com/apache/apisix</title>
+    <link href="https://github.com/apache/apisix" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The Cloud-Native API Gateway and AI Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beyond-all-reason/Beyond-All-Reason#1743465600</id>
+    <title>https://github.com/beyond-all-reason/Beyond-All-Reason</title>
+    <link href="https://github.com/beyond-all-reason/Beyond-All-Reason" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Main game repository for Beyond All Reason.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazydev.nvim#1743465600</id>
+    <title>https://github.com/folke/lazydev.nvim</title>
+    <link href="https://github.com/folke/lazydev.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Faster LuaLS setup for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/snacks.nvim#1743465600</id>
+    <title>https://github.com/folke/snacks.nvim</title>
+    <link href="https://github.com/folke/snacks.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🍿 A collection of QoL plugins for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1743465600</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gaboolic/rime-frost#1743465600</id>
+    <title>https://github.com/gaboolic/rime-frost</title>
+    <link href="https://github.com/gaboolic/rime-frost" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用使用745396750字的高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，立志于打造不输于商业输入法的输入体验。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibhagwan/fzf-lua#1743465600</id>
+    <title>https://github.com/ibhagwan/fzf-lua</title>
+    <link href="https://github.com/ibhagwan/fzf-lua" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Improved fzf.vim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1743465600</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lewis6991/gitsigns.nvim#1743465600</id>
+    <title>https://github.com/lewis6991/gitsigns.nvim</title>
+    <link href="https://github.com/lewis6991/gitsigns.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Git integration for buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrcjkb/rustaceanvim#1743465600</id>
+    <title>https://github.com/mrcjkb/rustaceanvim</title>
+    <link href="https://github.com/mrcjkb/rustaceanvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1743465600</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntop/ntopng#1743465600</id>
+    <title>https://github.com/ntop/ntopng</title>
+    <link href="https://github.com/ntop/ntopng" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Web-based Traffic and Security Network Traffic Monitoring</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1743465600</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentibiabr/canary#1743465600</id>
+    <title>https://github.com/opentibiabr/canary</title>
+    <link href="https://github.com/opentibiabr/canary" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Canary Server 13.x for OpenTibia community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/overextended/ox_inventory#1743465600</id>
+    <title>https://github.com/overextended/ox_inventory</title>
+    <link href="https://github.com/overextended/ox_inventory" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Slot-based inventory with metadata.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phillipi/pix2pix#1743465600</id>
+    <title>https://github.com/phillipi/pix2pix</title>
+    <link href="https://github.com/phillipi/pix2pix" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Image-to-image translation with conditional adversarial nets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rebelot/kanagawa.nvim#1743465600</id>
+    <title>https://github.com/rebelot/kanagawa.nvim</title>
+    <link href="https://github.com/rebelot/kanagawa.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sindrets/diffview.nvim#1743465600</id>
+    <title>https://github.com/sindrets/diffview.nvim</title>
+    <link href="https://github.com/sindrets/diffview.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Single tabpage interface for easily cycling through diffs for all modified files for any git rev.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/conform.nvim#1743465600</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/oil.nvim#1743465600</id>
+    <title>https://github.com/stevearc/oil.nvim</title>
+    <link href="https://github.com/stevearc/oil.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Neovim file explorer: edit your filesystem like a buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1743465600</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-05T11:12:23+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/karthink/consult-dir#1736075543</id>
+    <title>https://github.com/karthink/consult-dir</title>
+    <link href="https://github.com/karthink/consult-dir" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Insert paths into the minibuffer prompt in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwiegley/emacs-async#1736075543</id>
+    <title>https://github.com/jwiegley/emacs-async</title>
+    <link href="https://github.com/jwiegley/emacs-async" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Simple library for asynchronous processing in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oantolin/embark#1736075543</id>
+    <title>https://github.com/oantolin/embark</title>
+    <link href="https://github.com/oantolin/embark" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Emacs Mini-Buffer Actions Rooted in Keymaps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yoshiki/yaml-mode#1736075543</id>
+    <title>https://github.com/yoshiki/yaml-mode</title>
+    <link href="https://github.com/yoshiki/yaml-mode" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">The emacs major mode for editing files in the YAML data serialization format.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1736075543</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1736075543</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1736075543</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrblevin/markdown-mode#1736075543</id>
+    <title>https://github.com/jrblevin/markdown-mode</title>
+    <link href="https://github.com/jrblevin/markdown-mode" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Emacs Markdown Mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1736075543</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/tree-sitter-langs#1736075543</id>
+    <title>https://github.com/emacs-tree-sitter/tree-sitter-langs</title>
+    <link href="https://github.com/emacs-tree-sitter/tree-sitter-langs" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Language bundle for Emacs's tree-sitter package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flycheck/flycheck#1736075543</id>
+    <title>https://github.com/flycheck/flycheck</title>
+    <link href="https://github.com/flycheck/flycheck" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">On the fly syntax checking for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1736075543</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1736075543</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dimitri/el-get#1736075543</id>
+    <title>https://github.com/dimitri/el-get</title>
+    <link href="https://github.com/dimitri/el-get" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Manage the external elisp bits and pieces upon which you depend!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1736075543</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1736075543</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1736075543</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-05T11:12:23+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+</feed>

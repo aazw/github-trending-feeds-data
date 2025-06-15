@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:11:11+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1735816271</id>
+    <title>https://github.com/OWASP/wstg</title>
+    <link href="https://github.com/OWASP/wstg" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShell/PowerShell-Docker#1735816271</id>
+    <title>https://github.com/PowerShell/PowerShell-Docker</title>
+    <link href="https://github.com/PowerShell/PowerShell-Docker" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">Repository for building PowerShell Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cross-rs/cross-toolchains#1735816271</id>
+    <title>https://github.com/cross-rs/cross-toolchains</title>
+    <link href="https://github.com/cross-rs/cross-toolchains" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">Additional Dockerfiles and crosstool-ng config files to build additional toolchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-qbittorrent#1735816271</id>
+    <title>https://github.com/linuxserver/docker-qbittorrent</title>
+    <link href="https://github.com/linuxserver/docker-qbittorrent" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/laradock/laradock#1735816271</id>
+    <title>https://github.com/laradock/laradock</title>
+    <link href="https://github.com/laradock/laradock" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">Full PHP development environment for Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-webtop#1735816271</id>
+    <title>https://github.com/linuxserver/docker-webtop</title>
+    <link href="https://github.com/linuxserver/docker-webtop" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CaiJimmy/hugo-theme-stack-starter#1735816271</id>
+    <title>https://github.com/CaiJimmy/hugo-theme-stack-starter</title>
+    <link href="https://github.com/CaiJimmy/hugo-theme-stack-starter" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">A quickstart template to create a Hugo blog using hugo-theme-stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1735816271</id>
+    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
+    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/contributor-playground#1735816271</id>
+    <title>https://github.com/kubernetes-sigs/contributor-playground</title>
+    <link href="https://github.com/kubernetes-sigs/contributor-playground" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/sou6av/deploy-raganork#1735816271</id>
+    <title>https://github.com/sou6av/deploy-raganork</title>
+    <link href="https://github.com/sou6av/deploy-raganork" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/jessfraz/dockerfiles#1735816271</id>
+    <title>https://github.com/jessfraz/dockerfiles</title>
+    <link href="https://github.com/jessfraz/dockerfiles" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">Various Dockerfiles I use on the desktop and on servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nodejs/docker-node#1735816271</id>
+    <title>https://github.com/nodejs/docker-node</title>
+    <link href="https://github.com/nodejs/docker-node" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">Official Docker Image for Node.js 🐳 🐢 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-functions-docker#1735816271</id>
+    <title>https://github.com/Azure/azure-functions-docker</title>
+    <link href="https://github.com/Azure/azure-functions-docker" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">This repo contains the base Docker images for working with azure functions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1735816271</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-01-02T11:11:11+00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+</feed>

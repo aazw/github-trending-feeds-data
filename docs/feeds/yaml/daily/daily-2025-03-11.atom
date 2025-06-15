@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom</id>
+  <title>GitHub Trending - yaml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ansible-lockdown/RHEL9-CIS#1741651200</id>
+    <title>https://github.com/ansible-lockdown/RHEL9-CIS</title>
+    <link href="https://github.com/ansible-lockdown/RHEL9-CIS" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Automated CIS Benchmark Compliance Remediation for RHEL 9 with Ansible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dell/omnia#1741651200</id>
+    <title>https://github.com/dell/omnia</title>
+    <link href="https://github.com/dell/omnia" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">An open-source toolkit for deploying and managing high performance clusters for HPC, AI, and data analytics workloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubeflow/manifests#1741651200</id>
+    <title>https://github.com/kubeflow/manifests</title>
+    <link href="https://github.com/kubeflow/manifests" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Kubeflow Deployment Manifests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mustache/spec#1741651200</id>
+    <title>https://github.com/mustache/spec</title>
+    <link href="https://github.com/mustache/spec" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">The Mustache spec.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stashapp/CommunityScrapers#1741651200</id>
+    <title>https://github.com/stashapp/CommunityScrapers</title>
+    <link href="https://github.com/stashapp/CommunityScrapers" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">This is a public repository containing scrapers created by the Stash Community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usnistgov/macos_security#1741651200</id>
+    <title>https://github.com/usnistgov/macos_security</title>
+    <link href="https://github.com/usnistgov/macos_security" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">macOS Security Compliance Project</content>
+  </entry>
+</feed>

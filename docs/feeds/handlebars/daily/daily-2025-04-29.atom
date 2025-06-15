@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/handlebars/daily.atom</id>
+  <title>GitHub Trending - handlebars (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/handlebars/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/elastic/integrations#1745884800</id>
+    <title>https://github.com/elastic/integrations</title>
+    <link href="https://github.com/elastic/integrations" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ibeatai/beat-ai#1745884800</id>
+    <title>https://github.com/ibeatai/beat-ai</title>
+    <link href="https://github.com/ibeatai/beat-ai" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">&lt;Beat AI&gt; 又名 &lt;零生万物&gt; , 是一本专属于软件开发工程师的 AI 入门圣经，手把手带你上手写 AI。从神经网络到大模型，从高层设计到微观原理，从工程实现到算法，学完后，你会发现 AI 也并不是想象中那么高不可攀、无法战胜，Just beat it !</content>
+  </entry>
+</feed>

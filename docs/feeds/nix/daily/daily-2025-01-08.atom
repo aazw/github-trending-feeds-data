@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</id>
+  <title>GitHub Trending - nix (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-08T11:23:09+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NixOS/nix.dev#1736335389</id>
+    <title>https://github.com/NixOS/nix.dev</title>
+    <link href="https://github.com/NixOS/nix.dev" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">Official documentation for getting things done with Nix.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryan4yin/nixos-and-flakes-book#1736335389</id>
+    <title>https://github.com/ryan4yin/nixos-and-flakes-book</title>
+    <link href="https://github.com/ryan4yin/nixos-and-flakes-book" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">🛠️ ❤️ Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/NixOS-WSL#1736335389</id>
+    <title>https://github.com/nix-community/NixOS-WSL</title>
+    <link href="https://github.com/nix-community/NixOS-WSL" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">NixOS on WSL(2) [maintainer=@nzbr]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kamadorueda/alejandra#1736335389</id>
+    <title>https://github.com/kamadorueda/alejandra</title>
+    <link href="https://github.com/kamadorueda/alejandra" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">The Uncompromising Nix Code Formatter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nixvim#1736335389</id>
+    <title>https://github.com/nix-community/nixvim</title>
+    <link href="https://github.com/nix-community/nixvim" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Evertras/simple-homemanager#1736335389</id>
+    <title>https://github.com/Evertras/simple-homemanager</title>
+    <link href="https://github.com/Evertras/simple-homemanager" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">A practical guide to getting started with home manager with flakes and all that 2024 goodness.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dustinlyons/nixos-config#1736335389</id>
+    <title>https://github.com/dustinlyons/nixos-config</title>
+    <link href="https://github.com/dustinlyons/nixos-config" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/infra#1736335389</id>
+    <title>https://github.com/nix-community/infra</title>
+    <link href="https://github.com/nix-community/infra" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">nix-community infrastructure [maintainer=@zowoq]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/NixNG#1736335389</id>
+    <title>https://github.com/nix-community/NixNG</title>
+    <link href="https://github.com/nix-community/NixNG" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">A linux distribution based on Nix [maintainer=@MagicRB]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/disko#1736335389</id>
+    <title>https://github.com/nix-community/disko</title>
+    <link href="https://github.com/nix-community/disko" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SaumonNet/proxmox-nixos#1736335389</id>
+    <title>https://github.com/SaumonNet/proxmox-nixos</title>
+    <link href="https://github.com/SaumonNet/proxmox-nixos" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @JulienMalka]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/numtide/devshell#1736335389</id>
+    <title>https://github.com/numtide/devshell</title>
+    <link href="https://github.com/numtide/devshell" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">Per project developer environments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lilyinstarlight/nixos-cosmic#1736335389</id>
+    <title>https://github.com/lilyinstarlight/nixos-cosmic</title>
+    <link href="https://github.com/lilyinstarlight/nixos-cosmic" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">Flake for using COSMIC on NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixos-hardware#1736335389</id>
+    <title>https://github.com/NixOS/nixos-hardware</title>
+    <link href="https://github.com/NixOS/nixos-hardware" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">A collection of NixOS modules covering hardware quirks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/nixos-config#1736335389</id>
+    <title>https://github.com/mitchellh/nixos-config</title>
+    <link href="https://github.com/mitchellh/nixos-config" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">My NixOS configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/home-manager#1736335389</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1736335389</id>
+    <title>https://github.com/NixOS/nixpkgs</title>
+    <link href="https://github.com/NixOS/nixpkgs" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">Nix Packages collection &amp; NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danth/stylix#1736335389</id>
+    <title>https://github.com/danth/stylix</title>
+    <link href="https://github.com/danth/stylix" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">System-wide colorscheming and typography for NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NotAShelf/nvf#1736335389</id>
+    <title>https://github.com/NotAShelf/nvf</title>
+    <link href="https://github.com/NotAShelf/nvf" />
+    <updated>2025-01-08T11:23:09+00:00</updated>
+    <content type="text">A highly modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS.</content>
+  </entry>
+</feed>

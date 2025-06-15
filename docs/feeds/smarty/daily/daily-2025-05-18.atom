@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom</id>
+  <title>GitHub Trending - smarty (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/8gears/n8n-helm-chart#1747526400</id>
+    <title>https://github.com/8gears/n8n-helm-chart</title>
+    <link href="https://github.com/8gears/n8n-helm-chart" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text">A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anveshmuppeda/kubernetes#1747526400</id>
+    <title>https://github.com/anveshmuppeda/kubernetes</title>
+    <link href="https://github.com/anveshmuppeda/kubernetes" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text">Kubernetes Complete Hands-On Guides</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/charts#1747526400</id>
+    <title>https://github.com/cloudnative-pg/charts</title>
+    <link href="https://github.com/cloudnative-pg/charts" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text">CloudNativePG Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cozystack/cozystack#1747526400</id>
+    <title>https://github.com/cozystack/cozystack</title>
+    <link href="https://github.com/cozystack/cozystack" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text">Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/helm-charts#1747526400</id>
+    <title>https://github.com/grafana/helm-charts</title>
+    <link href="https://github.com/grafana/helm-charts" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/langfuse/langfuse-k8s#1747526400</id>
+    <title>https://github.com/langfuse/langfuse-k8s</title>
+    <link href="https://github.com/langfuse/langfuse-k8s" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text">Community-maintained Kubernetes config and Helm chart for Langfuse</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb/helm-charts#1747526400</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/sidpalas/devops-directive-kubernetes-course#1747526400</id>
+    <title>https://github.com/sidpalas/devops-directive-kubernetes-course</title>
+    <link href="https://github.com/sidpalas/devops-directive-kubernetes-course" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text">This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase-community/supabase-kubernetes#1747526400</id>
+    <title>https://github.com/supabase-community/supabase-kubernetes</title>
+    <link href="https://github.com/supabase-community/supabase-kubernetes" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text">Helm 3 charts to deploy a Supabase on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sysdiglabs/charts#1747526400</id>
+    <title>https://github.com/sysdiglabs/charts</title>
+    <link href="https://github.com/sysdiglabs/charts" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text">The official source for Sysdig’s Helm charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik-helm-chart#1747526400</id>
+    <title>https://github.com/traefik/traefik-helm-chart</title>
+    <link href="https://github.com/traefik/traefik-helm-chart" />
+    <updated>2025-05-18T00:00:00</updated>
+    <content type="text">Traefik Proxy Helm Chart</content>
+  </entry>
+</feed>

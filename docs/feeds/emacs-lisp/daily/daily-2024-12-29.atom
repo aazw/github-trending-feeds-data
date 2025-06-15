@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-29T11:12:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/zkry/yaml.el#1735470764</id>
+    <title>https://github.com/zkry/yaml.el</title>
+    <link href="https://github.com/zkry/yaml.el" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">YAML parser in Elisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flycheck/flycheck#1735470764</id>
+    <title>https://github.com/flycheck/flycheck</title>
+    <link href="https://github.com/flycheck/flycheck" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">On the fly syntax checking for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iqbalansari/emacs-emojify#1735470764</id>
+    <title>https://github.com/iqbalansari/emacs-emojify</title>
+    <link href="https://github.com/iqbalansari/emacs-emojify" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">Display emojis in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-php/php-mode#1735470764</id>
+    <title>https://github.com/emacs-php/php-mode</title>
+    <link href="https://github.com/emacs-php/php-mode" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">A powerful and flexible Emacs major mode for editing PHP scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1735470764</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rougier/nano-emacs#1735470764</id>
+    <title>https://github.com/rougier/nano-emacs</title>
+    <link href="https://github.com/rougier/nano-emacs" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">GNU Emacs / N Λ N O - Emacs made simple</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justbur/emacs-which-key#1735470764</id>
+    <title>https://github.com/justbur/emacs-which-key</title>
+    <link href="https://github.com/justbur/emacs-which-key" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">Emacs package that displays available keybindings in popup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1735470764</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1735470764</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/millejoh/emacs-ipython-notebook#1735470764</id>
+    <title>https://github.com/millejoh/emacs-ipython-notebook</title>
+    <link href="https://github.com/millejoh/emacs-ipython-notebook" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">Jupyter notebook client in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meow-edit/meow#1735470764</id>
+    <title>https://github.com/meow-edit/meow</title>
+    <link href="https://github.com/meow-edit/meow" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">Yet another modal editing on Emacs / 猫态编辑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig-mode#1735470764</id>
+    <title>https://github.com/ziglang/zig-mode</title>
+    <link href="https://github.com/ziglang/zig-mode" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">Zig mode for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1735470764</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1735470764</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1735470764</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1735470764</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2024-12-29T11:12:44+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+</feed>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/YuLab-SMU/clusterProfiler#1737590400</id>
+    <title>https://github.com/YuLab-SMU/clusterProfiler</title>
+    <link href="https://github.com/YuLab-SMU/clusterProfiler" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">📊 A universal enrichment tool for interpreting omics data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/benjjneb/dada2#1737590400</id>
+    <title>https://github.com/benjjneb/dada2</title>
+    <link href="https://github.com/benjjneb/dada2" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Accurate sample inference from amplicon data with single nucleotide resolution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1737590400</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cole-trapnell-lab/monocle3#1737590400</id>
+    <title>https://github.com/cole-trapnell-lab/monocle3</title>
+    <link href="https://github.com/cole-trapnell-lab/monocle3" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/hadley/r4ds#1737590400</id>
+    <title>https://github.com/hadley/r4ds</title>
+    <link href="https://github.com/hadley/r4ds" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">R for data science: a book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joey711/phyloseq#1737590400</id>
+    <title>https://github.com/joey711/phyloseq</title>
+    <link href="https://github.com/joey711/phyloseq" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jokergoo/ComplexHeatmap#1737590400</id>
+    <title>https://github.com/jokergoo/ComplexHeatmap</title>
+    <link href="https://github.com/jokergoo/ComplexHeatmap" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Make Complex Heatmaps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mojaveazure/seurat-disk#1737590400</id>
+    <title>https://github.com/mojaveazure/seurat-disk</title>
+    <link href="https://github.com/mojaveazure/seurat-disk" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Interfaces for HDF5-based Single Cell File Formats</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plotly/plotly.R#1737590400</id>
+    <title>https://github.com/plotly/plotly.R</title>
+    <link href="https://github.com/plotly/plotly.R" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">An interactive graphing library for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/r-spatial/sf#1737590400</id>
+    <title>https://github.com/r-spatial/sf</title>
+    <link href="https://github.com/r-spatial/sf" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Simple Features for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/renv#1737590400</id>
+    <title>https://github.com/rstudio/renv</title>
+    <link href="https://github.com/rstudio/renv" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">renv: Project environments for R.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/reticulate#1737590400</id>
+    <title>https://github.com/rstudio/reticulate</title>
+    <link href="https://github.com/rstudio/reticulate" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">R Interface to Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/shiny#1737590400</id>
+    <title>https://github.com/rstudio/shiny</title>
+    <link href="https://github.com/rstudio/shiny" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Easy interactive web applications with R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat#1737590400</id>
+    <title>https://github.com/satijalab/seurat</title>
+    <link href="https://github.com/satijalab/seurat" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">R toolkit for single cell genomics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat-wrappers#1737590400</id>
+    <title>https://github.com/satijalab/seurat-wrappers</title>
+    <link href="https://github.com/satijalab/seurat-wrappers" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Community-provided extensions to Seurat</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqjin/CellChat#1737590400</id>
+    <title>https://github.com/sqjin/CellChat</title>
+    <link href="https://github.com/sqjin/CellChat" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stuart-lab/signac#1737590400</id>
+    <title>https://github.com/stuart-lab/signac</title>
+    <link href="https://github.com/stuart-lab/signac" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">R toolkit for the analysis of single-cell chromatin data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swirldev/swirl_courses#1737590400</id>
+    <title>https://github.com/swirldev/swirl_courses</title>
+    <link href="https://github.com/swirldev/swirl_courses" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">🎓 A collection of interactive courses for the swirl R package.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/dplyr#1737590400</id>
+    <title>https://github.com/tidyverse/dplyr</title>
+    <link href="https://github.com/tidyverse/dplyr" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">dplyr: A grammar of data manipulation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ggplot2#1737590400</id>
+    <title>https://github.com/tidyverse/ggplot2</title>
+    <link href="https://github.com/tidyverse/ggplot2" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">An implementation of the Grammar of Graphics in R</content>
+  </entry>
+</feed>

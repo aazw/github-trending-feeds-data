@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DioxusLabs/dioxus#1744243200</id>
+    <title>https://github.com/DioxusLabs/dioxus</title>
+    <link href="https://github.com/DioxusLabs/dioxus" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Fullstack app framework for web, desktop, mobile, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1744243200</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1744243200</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/block/goose#1744243200</id>
+    <title>https://github.com/block/goose</title>
+    <link href="https://github.com/block/goose" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1744243200</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/embassy-rs/embassy#1744243200</id>
+    <title>https://github.com/embassy-rs/embassy</title>
+    <link href="https://github.com/embassy-rs/embassy" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Modern embedded framework, using Rust and async.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1744243200</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1744243200</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lancedb#1744243200</id>
+    <title>https://github.com/lancedb/lancedb</title>
+    <link href="https://github.com/lancedb/lancedb" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1744243200</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1744243200</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prefix-dev/pixi#1744243200</id>
+    <title>https://github.com/prefix-dev/pixi</title>
+    <link href="https://github.com/prefix-dev/pixi" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Package management made easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seanmonstar/reqwest#1744243200</id>
+    <title>https://github.com/seanmonstar/reqwest</title>
+    <link href="https://github.com/seanmonstar/reqwest" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">An easy and powerful Rust HTTP Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tikv/tikv#1744243200</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1744243200</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1744243200</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1744243200</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1744243200</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

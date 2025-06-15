@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AFLplusplus/AFLplusplus#1738972800</id>
+    <title>https://github.com/AFLplusplus/AFLplusplus</title>
+    <link href="https://github.com/AFLplusplus/AFLplusplus" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel &amp; redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FreeRTOS/FreeRTOS-Kernel#1738972800</id>
+    <title>https://github.com/FreeRTOS/FreeRTOS-Kernel</title>
+    <link href="https://github.com/FreeRTOS/FreeRTOS-Kernel" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Genymobile/scrcpy#1738972800</id>
+    <title>https://github.com/Genymobile/scrcpy</title>
+    <link href="https://github.com/Genymobile/scrcpy" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Display and control your Android device</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mbed-TLS/mbedtls#1738972800</id>
+    <title>https://github.com/Mbed-TLS/mbedtls</title>
+    <link href="https://github.com/Mbed-TLS/mbedtls" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coolsnowwolf/lede#1738972800</id>
+    <title>https://github.com/coolsnowwolf/lede</title>
+    <link href="https://github.com/coolsnowwolf/lede" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Lean's LEDE source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coturn/coturn#1738972800</id>
+    <title>https://github.com/coturn/coturn</title>
+    <link href="https://github.com/coturn/coturn" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">coturn TURN server project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/curl/curl#1738972800</id>
+    <title>https://github.com/curl/curl</title>
+    <link href="https://github.com/curl/curl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-paho/paho.mqtt.c#1738972800</id>
+    <title>https://github.com/eclipse-paho/paho.mqtt.c</title>
+    <link href="https://github.com/eclipse-paho/paho.mqtt.c" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">An Eclipse Paho C client library for MQTT for Windows, Linux and MacOS. API documentation: https://eclipse-paho.github.io/paho.mqtt.c/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-adf#1738972800</id>
+    <title>https://github.com/espressif/esp-adf</title>
+    <link href="https://github.com/espressif/esp-adf" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Espressif Audio Development Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ffmpegwasm/ffmpeg.wasm#1738972800</id>
+    <title>https://github.com/ffmpegwasm/ffmpeg.wasm</title>
+    <link href="https://github.com/ffmpegwasm/ffmpeg.wasm" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">FFmpeg for browser, powered by WebAssembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immortalwrt/immortalwrt#1738972800</id>
+    <title>https://github.com/immortalwrt/immortalwrt</title>
+    <link href="https://github.com/immortalwrt/immortalwrt" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">An opensource OpenWrt variant for mainland China users.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/llama2.c#1738972800</id>
+    <title>https://github.com/karpathy/llama2.c</title>
+    <link href="https://github.com/karpathy/llama2.c" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Inference Llama 2 in one file of pure C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libevent/libevent#1738972800</id>
+    <title>https://github.com/libevent/libevent</title>
+    <link href="https://github.com/libevent/libevent" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Event notification library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nanopb/nanopb#1738972800</id>
+    <title>https://github.com/nanopb/nanopb</title>
+    <link href="https://github.com/nanopb/nanopb" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Protocol Buffers with small code size</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openssh/openssh-portable#1738972800</id>
+    <title>https://github.com/openssh/openssh-portable</title>
+    <link href="https://github.com/openssh/openssh-portable" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Portable OpenSSH</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwrt/openwrt#1738972800</id>
+    <title>https://github.com/openwrt/openwrt</title>
+    <link href="https://github.com/openwrt/openwrt" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv-collab/riscv-gnu-toolchain#1738972800</id>
+    <title>https://github.com/riscv-collab/riscv-gnu-toolchain</title>
+    <link href="https://github.com/riscv-collab/riscv-gnu-toolchain" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">GNU toolchain for RISC-V, including GCC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tianocore/edk2#1738972800</id>
+    <title>https://github.com/tianocore/edk2</title>
+    <link href="https://github.com/tianocore/edk2" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">EDK II</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber/h3#1738972800</id>
+    <title>https://github.com/uber/h3</title>
+    <link href="https://github.com/uber/h3" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Hexagonal hierarchical geospatial indexing system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/valkey-io/valkey#1738972800</id>
+    <title>https://github.com/valkey-io/valkey</title>
+    <link href="https://github.com/valkey-io/valkey" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zephyrproject-rtos/zephyr#1738972800</id>
+    <title>https://github.com/zephyrproject-rtos/zephyr</title>
+    <link href="https://github.com/zephyrproject-rtos/zephyr" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</content>
+  </entry>
+</feed>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pug/daily.atom</id>
+  <title>GitHub Trending - pug (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pug/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-freelancer#1741564800</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-freelancer</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-freelancer" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A flat design, one page, MIT licensed Bootstrap portfolio theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-resume#1741564800</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-resume</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-resume" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A Bootstrap 4 resume/CV theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anders94/blockchain-demo#1741564800</id>
+    <title>https://github.com/anders94/blockchain-demo</title>
+    <link href="https://github.com/anders94/blockchain-demo" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A web-based demonstration of blockchain concepts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nigelpoulton/TheK8sBook#1741564800</id>
+    <title>https://github.com/nigelpoulton/TheK8sBook</title>
+    <link href="https://github.com/nigelpoulton/TheK8sBook" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">YAML files for use with The Kubernetes Book</content>
+  </entry>
+</feed>

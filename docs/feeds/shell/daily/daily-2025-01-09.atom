@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-09T11:27:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/docker-library/official-images#1736422064</id>
+    <title>https://github.com/docker-library/official-images</title>
+    <link href="https://github.com/docker-library/official-images" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Primary source of truth for the Docker "Official Images" program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/docker-selenium#1736422064</id>
+    <title>https://github.com/SeleniumHQ/docker-selenium</title>
+    <link href="https://github.com/SeleniumHQ/docker-selenium" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault-helm#1736422064</id>
+    <title>https://github.com/hashicorp/vault-helm</title>
+    <link href="https://github.com/hashicorp/vault-helm" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Helm chart to install Vault and other associated components.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/1N3/Sn1per#1736422064</id>
+    <title>https://github.com/1N3/Sn1per</title>
+    <link href="https://github.com/1N3/Sn1per" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Attack Surface Management Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openshift/release#1736422064</id>
+    <title>https://github.com/openshift/release</title>
+    <link href="https://github.com/openshift/release" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Release tooling for OpenShift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wolfi-dev/os#1736422064</id>
+    <title>https://github.com/wolfi-dev/os</title>
+    <link href="https://github.com/wolfi-dev/os" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Main package repository for production Wolfi images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1736422064</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sickcodes/Docker-OSX#1736422064</id>
+    <title>https://github.com/sickcodes/Docker-OSX</title>
+    <link href="https://github.com/sickcodes/Docker-OSX" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluesky-social/pds#1736422064</id>
+    <title>https://github.com/bluesky-social/pds</title>
+    <link href="https://github.com/bluesky-social/pds" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Bluesky PDS (Personal Data Server) container image, compose file, and documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ublue-os/bazzite#1736422064</id>
+    <title>https://github.com/ublue-os/bazzite</title>
+    <link href="https://github.com/ublue-os/bazzite" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DaoCloud/public-image-mirror#1736422064</id>
+    <title>https://github.com/DaoCloud/public-image-mirror</title>
+    <link href="https://github.com/DaoCloud/public-image-mirror" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1736422064</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1736422064</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inkonchain/node#1736422064</id>
+    <title>https://github.com/inkonchain/node</title>
+    <link href="https://github.com/inkonchain/node" />
+    <updated>2025-01-09T11:27:44+00:00</updated>
+    <content type="text">How to run an Ink Node</content>
+  </entry>
+</feed>

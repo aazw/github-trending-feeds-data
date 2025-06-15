@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cert-manager/cert-manager#1741564800</id>
+    <title>https://github.com/cert-manager/cert-manager</title>
+    <link href="https://github.com/cert-manager/cert-manager" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Automatically provision and manage TLS certificates in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudreve/Cloudreve#1741564800</id>
+    <title>https://github.com/cloudreve/Cloudreve</title>
+    <link href="https://github.com/cloudreve/Cloudreve" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1741564800</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1741564800</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1741564800</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">An open-source runtime for composable workflows. Great for AI agents and CI/CD.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-chi/chi#1741564800</id>
+    <title>https://github.com/go-chi/chi</title>
+    <link href="https://github.com/go-chi/chi" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">lightweight, idiomatic and composable router for building Go HTTP services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1741564800</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1741564800</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1741564800</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1741564800</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubesphere/kubesphere#1741564800</id>
+    <title>https://github.com/kubesphere/kubesphere</title>
+    <link href="https://github.com/kubesphere/kubesphere" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labstack/echo#1741564800</id>
+    <title>https://github.com/labstack/echo</title>
+    <link href="https://github.com/labstack/echo" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">High performance, minimalist Go web framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lima-vm/lima#1741564800</id>
+    <title>https://github.com/lima-vm/lima</title>
+    <link href="https://github.com/lima-vm/lima" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Linux virtual machines, with a focus on running containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1741564800</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1741564800</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus-operator/prometheus-operator#1741564800</id>
+    <title>https://github.com/prometheus-operator/prometheus-operator</title>
+    <link href="https://github.com/prometheus-operator/prometheus-operator" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/client_golang#1741564800</id>
+    <title>https://github.com/prometheus/client_golang</title>
+    <link href="https://github.com/prometheus/client_golang" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Prometheus instrumentation library for Go applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/samber/lo#1741564800</id>
+    <title>https://github.com/samber/lo</title>
+    <link href="https://github.com/samber/lo" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/viper#1741564800</id>
+    <title>https://github.com/spf13/viper</title>
+    <link href="https://github.com/spf13/viper" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Go configuration with fangs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1741564800</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1741564800</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1741564800</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zitadel/zitadel#1741564800</id>
+    <title>https://github.com/zitadel/zitadel</title>
+    <link href="https://github.com/zitadel/zitadel" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">ZITADEL - Identity infrastructure, simplified for you.</content>
+  </entry>
+</feed>

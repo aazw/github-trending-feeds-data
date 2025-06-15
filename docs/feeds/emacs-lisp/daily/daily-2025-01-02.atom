@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:12:06+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1735816326</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/ace-window#1735816326</id>
+    <title>https://github.com/abo-abo/ace-window</title>
+    <link href="https://github.com/abo-abo/ace-window" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">Quickly switch windows in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1735816326</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akermu/emacs-libvterm#1735816326</id>
+    <title>https://github.com/akermu/emacs-libvterm</title>
+    <link href="https://github.com/akermu/emacs-libvterm" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">Emacs libvterm integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protesilaos/denote#1735816326</id>
+    <title>https://github.com/protesilaos/denote</title>
+    <link href="https://github.com/protesilaos/denote" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">Simple notes for Emacs with an efficient file-naming scheme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rejeep/f.el#1735816326</id>
+    <title>https://github.com/rejeep/f.el</title>
+    <link href="https://github.com/rejeep/f.el" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">Modern API for working with files and directories in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1735816326</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xenodium/chatgpt-shell#1735816326</id>
+    <title>https://github.com/xenodium/chatgpt-shell</title>
+    <link href="https://github.com/xenodium/chatgpt-shell" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meedstrom/org-node#1735816326</id>
+    <title>https://github.com/meedstrom/org-node</title>
+    <link href="https://github.com/meedstrom/org-node" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">A notetaking system like Roam using Emacs Org-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oantolin/embark#1735816326</id>
+    <title>https://github.com/oantolin/embark</title>
+    <link href="https://github.com/oantolin/embark" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">Emacs Mini-Buffer Actions Rooted in Keymaps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1735816326</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1735816326</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig-mode#1735816326</id>
+    <title>https://github.com/ziglang/zig-mode</title>
+    <link href="https://github.com/ziglang/zig-mode" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">Zig mode for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/millejoh/emacs-ipython-notebook#1735816326</id>
+    <title>https://github.com/millejoh/emacs-ipython-notebook</title>
+    <link href="https://github.com/millejoh/emacs-ipython-notebook" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">Jupyter notebook client in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1735816326</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1735816326</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1735816326</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-02T11:12:06+00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+</feed>

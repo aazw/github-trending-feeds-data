@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/weekly.atom</id>
+  <title>GitHub Trending - haskell (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node#1740355200</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/ouroboros-network#1740355200</id>
+    <title>https://github.com/IntersectMBO/ouroboros-network</title>
+    <link href="https://github.com/IntersectMBO/ouroboros-network" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1740355200</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cardano-scaling/hydra#1740355200</id>
+    <title>https://github.com/cardano-scaling/hydra</title>
+    <link href="https://github.com/cardano-scaling/hydra" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Implementation of the Hydra Head protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/semantic#1740355200</id>
+    <title>https://github.com/github/semantic</title>
+    <link href="https://github.com/github/semantic" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Parsing, analyzing, and comparing source code across many languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1740355200</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1740355200</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1740355200</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1740355200</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1740355200</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmonad/xmonad#1740355200</id>
+    <title>https://github.com/xmonad/xmonad</title>
+    <link href="https://github.com/xmonad/xmonad" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">The core of xmonad, a small but functional ICCCM-compliant tiling window manager</content>
+  </entry>
+</feed>

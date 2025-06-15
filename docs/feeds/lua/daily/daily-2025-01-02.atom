@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:18:23+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1735816703</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentibiabr/canary#1735816703</id>
+    <title>https://github.com/opentibiabr/canary</title>
+    <link href="https://github.com/opentibiabr/canary" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Canary Server 13.x for OpenTibia community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/L3MON4D3/LuaSnip#1735816703</id>
+    <title>https://github.com/L3MON4D3/LuaSnip</title>
+    <link href="https://github.com/L3MON4D3/LuaSnip" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Snippet Engine for Neovim written in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kylechui/nvim-surround#1735816703</id>
+    <title>https://github.com/kylechui/nvim-surround</title>
+    <link href="https://github.com/kylechui/nvim-surround" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/windwp/nvim-autopairs#1735816703</id>
+    <title>https://github.com/windwp/nvim-autopairs</title>
+    <link href="https://github.com/windwp/nvim-autopairs" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">autopairs for neovim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/conform.nvim#1735816703</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rcarriga/nvim-dap-ui#1735816703</id>
+    <title>https://github.com/rcarriga/nvim-dap-ui</title>
+    <link href="https://github.com/rcarriga/nvim-dap-ui" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">A UI for nvim-dap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AstroNvim/astrocommunity#1735816703</id>
+    <title>https://github.com/AstroNvim/astrocommunity</title>
+    <link href="https://github.com/AstroNvim/astrocommunity" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">A community repository of common plugin specifications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-telescope/telescope.nvim#1735816703</id>
+    <title>https://github.com/nvim-telescope/telescope.nvim</title>
+    <link href="https://github.com/nvim-telescope/telescope.nvim" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Find, Filter, Preview, Pick. All lua, all the time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1735816703</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1735816703</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LandSandBoat/server#1735816703</id>
+    <title>https://github.com/LandSandBoat/server</title>
+    <link href="https://github.com/LandSandBoat/server" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">⛵ LandSandBoat - a server emulator for Final Fantasy XI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1735816703</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1735816703</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/starter#1735816703</id>
+    <title>https://github.com/LazyVim/starter</title>
+    <link href="https://github.com/LazyVim/starter" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Starter template for LazyVim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/williamboman/mason-lspconfig.nvim#1735816703</id>
+    <title>https://github.com/williamboman/mason-lspconfig.nvim</title>
+    <link href="https://github.com/williamboman/mason-lspconfig.nvim" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Steamopollys/Steamodded#1735816703</id>
+    <title>https://github.com/Steamopollys/Steamodded</title>
+    <link href="https://github.com/Steamopollys/Steamodded" />
+    <updated>2025-01-02T11:18:23+00:00</updated>
+    <content type="text">A Balatro ModLoader</content>
+  </entry>
+</feed>

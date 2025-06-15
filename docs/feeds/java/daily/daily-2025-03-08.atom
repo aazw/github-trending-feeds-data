@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom</id>
+  <title>GitHub Trending - java (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AutoMQ/automq#1741392000</id>
+    <title>https://github.com/AutoMQ/automq</title>
+    <link href="https://github.com/AutoMQ/automq" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">AutoMQ is a cloud-native alternative to Kafka by decoupling durability to S3 and EBS. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk-for-java#1741392000</id>
+    <title>https://github.com/Azure/azure-sdk-for-java</title>
+    <link href="https://github.com/Azure/azure-sdk-for-java" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">This repository is for active development of the Azure SDK for Java. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/java/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-java.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DependencyTrack/dependency-track#1741392000</id>
+    <title>https://github.com/DependencyTrack/dependency-track</title>
+    <link href="https://github.com/DependencyTrack/dependency-track" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenAPITools/openapi-generator#1741392000</id>
+    <title>https://github.com/OpenAPITools/openapi-generator</title>
+    <link href="https://github.com/OpenAPITools/openapi-generator" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/selenium#1741392000</id>
+    <title>https://github.com/SeleniumHQ/selenium</title>
+    <link href="https://github.com/SeleniumHQ/selenium" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A browser automation framework and ecosystem.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheAlgorithms/Java#1741392000</id>
+    <title>https://github.com/TheAlgorithms/Java</title>
+    <link href="https://github.com/TheAlgorithms/Java" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">All Algorithms implemented in Java</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/nacos#1741392000</id>
+    <title>https://github.com/alibaba/nacos</title>
+    <link href="https://github.com/alibaba/nacos" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">an easy-to-use dynamic service discovery, configuration and service management platform for building cloud native applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antlr/antlr4#1741392000</id>
+    <title>https://github.com/antlr/antlr4</title>
+    <link href="https://github.com/antlr/antlr4" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/camel#1741392000</id>
+    <title>https://github.com/apache/camel</title>
+    <link href="https://github.com/apache/camel" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Apache Camel is an open source integration framework that empowers you to quickly and easily integrate various systems consuming or producing data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/dolphinscheduler#1741392000</id>
+    <title>https://github.com/apache/dolphinscheduler</title>
+    <link href="https://github.com/apache/dolphinscheduler" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/iceberg#1741392000</id>
+    <title>https://github.com/apache/iceberg</title>
+    <link href="https://github.com/apache/iceberg" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Apache Iceberg</content>
+  </entry>
+  <entry>
+    <id>https://github.com/continew-org/continew-admin#1741392000</id>
+    <title>https://github.com/continew-org/continew-admin</title>
+    <link href="https://github.com/continew-org/continew-admin" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">🔥Almost最佳后端规范🔥持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。当前采用技术栈：Spring Boot3（Java17）、Vue3 &amp; Arco Design、TS、Vite5 、Sa-Token、MyBatis Plus、Redisson、JetCache、Jackson、Spring Doc、JustAuth、Easy Excel、Crane4j、Liquibase、Hutool 等。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dataease/dataease#1741392000</id>
+    <title>https://github.com/dataease/dataease</title>
+    <link href="https://github.com/dataease/dataease" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">🔥 人人可用的开源 BI 工具，数据可视化神器。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deeplearning4j/deeplearning4j#1741392000</id>
+    <title>https://github.com/deeplearning4j/deeplearning4j</title>
+    <link href="https://github.com/deeplearning4j/deeplearning4j" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flowable/flowable-engine#1741392000</id>
+    <title>https://github.com/flowable/flowable-engine</title>
+    <link href="https://github.com/flowable/flowable-engine" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A compact and highly efficient workflow and Business Process Management (BPM) platform for developers, system admins and business users.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karma9874/AndroRAT#1741392000</id>
+    <title>https://github.com/karma9874/AndroRAT</title>
+    <link href="https://github.com/karma9874/AndroRAT" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A Simple android remote administration tool using sockets. It uses java on the client side and python on the server side</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keycloak/keycloak#1741392000</id>
+    <title>https://github.com/keycloak/keycloak</title>
+    <link href="https://github.com/keycloak/keycloak" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Open Source Identity and Access Management For Modern Applications and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/typespec#1741392000</id>
+    <title>https://github.com/microsoft/typespec</title>
+    <link href="https://github.com/microsoft/typespec" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/questdb/questdb#1741392000</id>
+    <title>https://github.com/questdb/questdb</title>
+    <link href="https://github.com/questdb/questdb" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">QuestDB is a high performance, open-source, time-series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-ai-examples#1741392000</id>
+    <title>https://github.com/spring-projects/spring-ai-examples</title>
+    <link href="https://github.com/spring-projects/spring-ai-examples" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-security#1741392000</id>
+    <title>https://github.com/spring-projects/spring-security</title>
+    <link href="https://github.com/spring-projects/spring-security" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Spring Security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vespa-engine/vespa#1741392000</id>
+    <title>https://github.com/vespa-engine/vespa</title>
+    <link href="https://github.com/vespa-engine/vespa" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">AI + Data, online. https://vespa.ai</content>
+  </entry>
+</feed>

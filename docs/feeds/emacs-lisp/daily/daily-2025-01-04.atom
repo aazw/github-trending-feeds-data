@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-04T11:12:32+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abo-abo/avy#1735989152</id>
+    <title>https://github.com/abo-abo/avy</title>
+    <link href="https://github.com/abo-abo/avy" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">Jump to things in Emacs tree-style</content>
+  </entry>
+  <entry>
+    <id>https://github.com/auto-complete/popup-el#1735989152</id>
+    <title>https://github.com/auto-complete/popup-el</title>
+    <link href="https://github.com/auto-complete/popup-el" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">Visual Popup Interface Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1735989152</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ahyatt/emacs-websocket#1735989152</id>
+    <title>https://github.com/ahyatt/emacs-websocket</title>
+    <link href="https://github.com/ahyatt/emacs-websocket" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">A websocket implementation in elisp, for emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1735989152</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1735989152</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oantolin/embark#1735989152</id>
+    <title>https://github.com/oantolin/embark</title>
+    <link href="https://github.com/oantolin/embark" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">Emacs Mini-Buffer Actions Rooted in Keymaps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Fanael/rainbow-delimiters#1735989152</id>
+    <title>https://github.com/Fanael/rainbow-delimiters</title>
+    <link href="https://github.com/Fanael/rainbow-delimiters" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">Emacs rainbow delimiters mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1735989152</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rmuslimov/browse-at-remote#1735989152</id>
+    <title>https://github.com/rmuslimov/browse-at-remote</title>
+    <link href="https://github.com/rmuslimov/browse-at-remote" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">Browse target page on github/bitbucket from emacs buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/helpful#1735989152</id>
+    <title>https://github.com/Wilfred/helpful</title>
+    <link href="https://github.com/Wilfred/helpful" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">A better Emacs *help* buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1735989152</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CeleritasCelery/rune#1735989152</id>
+    <title>https://github.com/CeleritasCelery/rune</title>
+    <link href="https://github.com/CeleritasCelery/rune" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">Rust VM for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1735989152</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-04T11:12:32+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+</feed>

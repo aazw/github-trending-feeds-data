@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/warp#1742601600</id>
+    <title>https://github.com/NVIDIA/warp</title>
+    <link href="https://github.com/NVIDIA/warp" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">A Python framework for high performance GPU simulation and graphics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenBB-finance/OpenBB#1742601600</id>
+    <title>https://github.com/OpenBB-finance/OpenBB</title>
+    <link href="https://github.com/OpenBB-finance/OpenBB" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Investment Research for Everyone, Everywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostHog/posthog#1742601600</id>
+    <title>https://github.com/PostHog/posthog</title>
+    <link href="https://github.com/PostHog/posthog" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">🦔 PostHog provides open-source web &amp; product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PrefectHQ/prefect#1742601600</id>
+    <title>https://github.com/PrefectHQ/prefect</title>
+    <link href="https://github.com/PrefectHQ/prefect" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Prefect is a workflow orchestration framework for building resilient data pipelines in Python.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastapi/fastapi#1742601600</id>
+    <title>https://github.com/fastapi/fastapi</title>
+    <link href="https://github.com/fastapi/fastapi" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">FastAPI framework, high performance, easy to learn, fast to code, ready for production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hacksider/Deep-Live-Cam#1742601600</id>
+    <title>https://github.com/hacksider/Deep-Live-Cam</title>
+    <link href="https://github.com/hacksider/Deep-Live-Cam" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">real time face swap and one-click video deepfake with only a single image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/transformers#1742601600</id>
+    <title>https://github.com/huggingface/transformers</title>
+    <link href="https://github.com/huggingface/transformers" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/markitdown#1742601600</id>
+    <title>https://github.com/microsoft/markitdown</title>
+    <link href="https://github.com/microsoft/markitdown" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Python tool for converting files and office documents to Markdown.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neuraloperator/neuraloperator#1742601600</id>
+    <title>https://github.com/neuraloperator/neuraloperator</title>
+    <link href="https://github.com/neuraloperator/neuraloperator" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Learning in infinite dimension with neural operators.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocrmypdf/OCRmyPDF#1742601600</id>
+    <title>https://github.com/ocrmypdf/OCRmyPDF</title>
+    <link href="https://github.com/ocrmypdf/OCRmyPDF" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/whisper#1742601600</id>
+    <title>https://github.com/openai/whisper</title>
+    <link href="https://github.com/openai/whisper" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Robust Speech Recognition via Large-Scale Weak Supervision</content>
+  </entry>
+</feed>

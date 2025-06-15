@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/apache/couchdb#1742688000</id>
+    <title>https://github.com/apache/couchdb</title>
+    <link href="https://github.com/apache/couchdb" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/benoitc/hackney#1742688000</id>
+    <title>https://github.com/benoitc/hackney</title>
+    <link href="https://github.com/benoitc/hackney" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">simple HTTP client in Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/couchbase/couchdb#1742688000</id>
+    <title>https://github.com/couchbase/couchdb</title>
+    <link href="https://github.com/couchbase/couchdb" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">CouchDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1742688000</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epgsql/epgsql#1742688000</id>
+    <title>https://github.com/epgsql/epgsql</title>
+    <link href="https://github.com/epgsql/epgsql" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Erlang PostgreSQL client library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1742688000</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/rebar3#1742688000</id>
+    <title>https://github.com/erlang/rebar3</title>
+    <link href="https://github.com/erlang/rebar3" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Erlang build tool that makes it easy to compile and test Erlang applications and releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1742688000</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ferd/recon#1742688000</id>
+    <title>https://github.com/ferd/recon</title>
+    <link href="https://github.com/ferd/recon" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Collection of functions and scripts to debug Erlang in production.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mochi/mochiweb#1742688000</id>
+    <title>https://github.com/mochi/mochiweb</title>
+    <link href="https://github.com/mochi/mochiweb" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">MochiWeb is an Erlang library for building lightweight HTTP servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1742688000</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1742688000</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1742688000</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/ranch#1742688000</id>
+    <title>https://github.com/ninenines/ranch</title>
+    <link href="https://github.com/ninenines/ranch" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Socket acceptor pool for TCP protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1742688000</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustyio/sync#1742688000</id>
+    <title>https://github.com/rustyio/sync</title>
+    <link href="https://github.com/rustyio/sync" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">On-the-fly recompiling and reloading in Erlang. Code without friction.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uwiger/gproc#1742688000</id>
+    <title>https://github.com/uwiger/gproc</title>
+    <link href="https://github.com/uwiger/gproc" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Extended process registry for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uwiger/parse_trans#1742688000</id>
+    <title>https://github.com/uwiger/parse_trans</title>
+    <link href="https://github.com/uwiger/parse_trans" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Parse transform utilities for Erlang</content>
+  </entry>
+</feed>

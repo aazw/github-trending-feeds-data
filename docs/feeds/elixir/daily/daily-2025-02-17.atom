@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/anoma/anoma#1739750400</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash_admin#1739750400</id>
+    <title>https://github.com/ash-project/ash_admin</title>
+    <link href="https://github.com/ash-project/ash_admin" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A super-admin UI dashboard for Ash Framework applications, built with Phoenix LiveView.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash_postgres#1739750400</id>
+    <title>https://github.com/ash-project/ash_postgres</title>
+    <link href="https://github.com/ash-project/ash_postgres" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">The PostgreSQL data layer for Ash Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluzky/salad_ui#1739750400</id>
+    <title>https://github.com/bluzky/salad_ui</title>
+    <link href="https://github.com/bluzky/salad_ui" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Phoenix Liveview component library inspired by shadcn UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brainlid/langchain#1739750400</id>
+    <title>https://github.com/brainlid/langchain</title>
+    <link href="https://github.com/brainlid/langchain" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/commanded/commanded#1739750400</id>
+    <title>https://github.com/commanded/commanded</title>
+    <link href="https://github.com/commanded/commanded" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Use Commanded to build Elixir CQRS/ES applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1739750400</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1739750400</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Sync little subsets of your Postgres data into local apps and services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-grpc/grpc#1739750400</id>
+    <title>https://github.com/elixir-grpc/grpc</title>
+    <link href="https://github.com/elixir-grpc/grpc" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">An Elixir implementation of gRPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1739750400</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-nx/bumblebee#1739750400</id>
+    <title>https://github.com/elixir-nx/bumblebee</title>
+    <link href="https://github.com/elixir-nx/bumblebee" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Pre-trained Neural Network models in Axon (+ 🤗 Models integration)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1739750400</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lexical-lsp/lexical#1739750400</id>
+    <title>https://github.com/lexical-lsp/lexical</title>
+    <link href="https://github.com/lexical-lsp/lexical" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Lexical is a next-generation elixir language server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1739750400</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntrepid8/ex_crypto#1739750400</id>
+    <title>https://github.com/ntrepid8/ex_crypto</title>
+    <link href="https://github.com/ntrepid8/ex_crypto" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Wrapper around the Erlang crypto module for Elixir.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1739750400</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1739750400</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/woutdp/live_svelte#1739750400</id>
+    <title>https://github.com/woutdp/live_svelte</title>
+    <link href="https://github.com/woutdp/live_svelte" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Svelte inside Phoenix LiveView with seamless end-to-end reactivity</content>
+  </entry>
+</feed>

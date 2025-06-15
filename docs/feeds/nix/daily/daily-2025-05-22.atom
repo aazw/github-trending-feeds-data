@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</id>
+  <title>GitHub Trending - nix (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Evertras/simple-homemanager#1747872000</id>
+    <title>https://github.com/Evertras/simple-homemanager</title>
+    <link href="https://github.com/Evertras/simple-homemanager" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">A practical guide to getting started with home manager with flakes and all that 2024 goodness.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Frost-Phoenix/nixos-config#1747872000</id>
+    <title>https://github.com/Frost-Phoenix/nixos-config</title>
+    <link href="https://github.com/Frost-Phoenix/nixos-config" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">❄️ NixOs / Hyprland rice with Home-Manager ❄️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mic92/sops-nix#1747872000</id>
+    <title>https://github.com/Mic92/sops-nix</title>
+    <link href="https://github.com/Mic92/sops-nix" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Atomic secret provisioning for NixOS based on sops</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1747872000</id>
+    <title>https://github.com/NixOS/nixpkgs</title>
+    <link href="https://github.com/NixOS/nixpkgs" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Nix Packages collection &amp; NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astro/microvm.nix#1747872000</id>
+    <title>https://github.com/astro/microvm.nix</title>
+    <link href="https://github.com/astro/microvm.nix" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">NixOS MicroVMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dustinlyons/nixos-config#1747872000</id>
+    <title>https://github.com/dustinlyons/nixos-config</title>
+    <link href="https://github.com/dustinlyons/nixos-config" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">General purpose Nix configuration for macOS / NixOS (with starter templates!)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/feel-co/hjem#1747872000</id>
+    <title>https://github.com/feel-co/hjem</title>
+    <link href="https://github.com/feel-co/hjem" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Streamlined, elegant $HOME management with Nix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gmodena/nix-flatpak#1747872000</id>
+    <title>https://github.com/gmodena/nix-flatpak</title>
+    <link href="https://github.com/gmodena/nix-flatpak" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Install flatpaks declaratively</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3d3/claude-desktop-linux-flake#1747872000</id>
+    <title>https://github.com/k3d3/claude-desktop-linux-flake</title>
+    <link href="https://github.com/k3d3/claude-desktop-linux-flake" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Nix Flake for Claude Desktop on Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/nixos-config#1747872000</id>
+    <title>https://github.com/mitchellh/nixos-config</title>
+    <link href="https://github.com/mitchellh/nixos-config" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">My NixOS configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/NixOS-WSL#1747872000</id>
+    <title>https://github.com/nix-community/NixOS-WSL</title>
+    <link href="https://github.com/nix-community/NixOS-WSL" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">NixOS on WSL [maintainer=@nzbr]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/home-manager#1747872000</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nix-on-droid#1747872000</id>
+    <title>https://github.com/nix-community/nix-on-droid</title>
+    <link href="https://github.com/nix-community/nix-on-droid" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/preservation#1747872000</id>
+    <title>https://github.com/nix-community/preservation</title>
+    <link href="https://github.com/nix-community/preservation" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/srvos#1747872000</id>
+    <title>https://github.com/nix-community/srvos</title>
+    <link href="https://github.com/nix-community/srvos" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">NixOS profiles for servers [maintainer=@numtide]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/stylix#1747872000</id>
+    <title>https://github.com/nix-community/stylix</title>
+    <link href="https://github.com/nix-community/stylix" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@awwpotato, @danth, @trueNAHO]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/the-nix-way/dev-templates#1747872000</id>
+    <title>https://github.com/the-nix-way/dev-templates</title>
+    <link href="https://github.com/the-nix-way/dev-templates" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]</content>
+  </entry>
+</feed>

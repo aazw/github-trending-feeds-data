@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom</id>
+  <title>GitHub Trending - matlab (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/mahmoudnafifi/WB_sRGB#1744502400</id>
+    <title>https://github.com/mahmoudnafifi/WB_sRGB</title>
+    <link href="https://github.com/mahmoudnafifi/WB_sRGB" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">White balance camera-rendered sRGB images (CVPR 2019) [Matlab &amp; Python]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulseq/pulseq#1744502400</id>
+    <title>https://github.com/pulseq/pulseq</title>
+    <link href="https://github.com/pulseq/pulseq" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Open source framework for pulse sequences</content>
+  </entry>
+</feed>

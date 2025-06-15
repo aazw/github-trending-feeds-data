@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ArweaveTeam/arweave#1738540800</id>
+    <title>https://github.com/ArweaveTeam/arweave</title>
+    <link href="https://github.com/ArweaveTeam/arweave" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The Arweave server and App Developer Toolkit.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-beam/aws-erlang#1738540800</id>
+    <title>https://github.com/aws-beam/aws-erlang</title>
+    <link href="https://github.com/aws-beam/aws-erlang" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Create, configure, and manage AWS services from Erlang code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/couchbase/couchdb#1738540800</id>
+    <title>https://github.com/couchbase/couchdb</title>
+    <link href="https://github.com/couchbase/couchdb" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">CouchDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dnsimple/dns_erlang#1738540800</id>
+    <title>https://github.com/dnsimple/dns_erlang</title>
+    <link href="https://github.com/dnsimple/dns_erlang" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Erlang DNS library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dnsimple/erldns#1738540800</id>
+    <title>https://github.com/dnsimple/erldns</title>
+    <link href="https://github.com/dnsimple/erldns" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">DNS server, in Erlang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlcloud/erlcloud#1738540800</id>
+    <title>https://github.com/erlcloud/erlcloud</title>
+    <link href="https://github.com/erlcloud/erlcloud" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">AWS APIs library for Erlang (Amazon EC2, S3, SQS, DDB, ELB and etc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1738540800</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/for-GET/jesse#1738540800</id>
+    <title>https://github.com/for-GET/jesse</title>
+    <link href="https://github.com/for-GET/jesse" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mochi/mochiweb#1738540800</id>
+    <title>https://github.com/mochi/mochiweb</title>
+    <link href="https://github.com/mochi/mochiweb" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">MochiWeb is an Erlang library for building lightweight HTTP servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1738540800</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1738540800</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1738540800</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/processone/ejabberd#1738540800</id>
+    <title>https://github.com/processone/ejabberd</title>
+    <link href="https://github.com/processone/ejabberd" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seth/ej#1738540800</id>
+    <title>https://github.com/seth/ej</title>
+    <link href="https://github.com/seth/ej" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Helper module for working with Erlang terms representing JSON</content>
+  </entry>
+  <entry>
+    <id>https://github.com/talentdeficit/jsx#1738540800</id>
+    <title>https://github.com/talentdeficit/jsx</title>
+    <link href="https://github.com/talentdeficit/jsx" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">an erlang application for consuming, producing and manipulating json. inspired by yajl</content>
+  </entry>
+</feed>

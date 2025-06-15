@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom</id>
+  <title>GitHub Trending - smarty (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/8gears/n8n-helm-chart#1749600000</id>
+    <title>https://github.com/8gears/n8n-helm-chart</title>
+    <link href="https://github.com/8gears/n8n-helm-chart" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">A Kubernetes Helm chart for n8n - a workflow automation tool. Easily automate tasks across different services on self hosted onKubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CrowdStrike/falcon-helm#1749600000</id>
+    <title>https://github.com/CrowdStrike/falcon-helm</title>
+    <link href="https://github.com/CrowdStrike/falcon-helm" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Helm Charts for running CrowdStrike Falcon with Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/helm-charts#1749600000</id>
+    <title>https://github.com/VictoriaMetrics/helm-charts</title>
+    <link href="https://github.com/VictoriaMetrics/helm-charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Helm charts for VictoriaMetrics, VictoriaLogs and ecosystem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/charts#1749600000</id>
+    <title>https://github.com/bitnami/charts</title>
+    <link href="https://github.com/bitnami/charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Bitnami Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/charts#1749600000</id>
+    <title>https://github.com/cloudnative-pg/charts</title>
+    <link href="https://github.com/cloudnative-pg/charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">CloudNativePG Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cozystack/cozystack#1749600000</id>
+    <title>https://github.com/cozystack/cozystack</title>
+    <link href="https://github.com/cozystack/cozystack" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Free and Open Source PaaS framework for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/helm-charts#1749600000</id>
+    <title>https://github.com/grafana/helm-charts</title>
+    <link href="https://github.com/grafana/helm-charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k8s-monitoring-helm#1749600000</id>
+    <title>https://github.com/grafana/k8s-monitoring-helm</title>
+    <link href="https://github.com/grafana/k8s-monitoring-helm" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/langfuse/langfuse-k8s#1749600000</id>
+    <title>https://github.com/langfuse/langfuse-k8s</title>
+    <link href="https://github.com/langfuse/langfuse-k8s" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Community-maintained Kubernetes config and Helm chart for Langfuse</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb/helm-charts#1749600000</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/newrelic/helm-charts#1749600000</id>
+    <title>https://github.com/newrelic/helm-charts</title>
+    <link href="https://github.com/newrelic/helm-charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Helm charts for New Relic applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-helm-charts#1749600000</id>
+    <title>https://github.com/open-telemetry/opentelemetry-helm-charts</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-helm-charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">OpenTelemetry Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-webui/helm-charts#1749600000</id>
+    <title>https://github.com/open-webui/helm-charts</title>
+    <link href="https://github.com/open-webui/helm-charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/opensearch-project/helm-charts#1749600000</id>
+    <title>https://github.com/opensearch-project/helm-charts</title>
+    <link href="https://github.com/opensearch-project/helm-charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">☸️ A community repository for Helm Charts of OpenSearch Project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redpanda-data/helm-charts#1749600000</id>
+    <title>https://github.com/redpanda-data/helm-charts</title>
+    <link href="https://github.com/redpanda-data/helm-charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Redpanda Helm Chart</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sentry-kubernetes/charts#1749600000</id>
+    <title>https://github.com/sentry-kubernetes/charts</title>
+    <link href="https://github.com/sentry-kubernetes/charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Easily deploy Sentry on your Kubernetes Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik-helm-chart#1749600000</id>
+    <title>https://github.com/traefik/traefik-helm-chart</title>
+    <link href="https://github.com/traefik/traefik-helm-chart" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Traefik Proxy Helm Chart</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1749600000</id>
+    <title>https://github.com/truecharts/public</title>
+    <link href="https://github.com/truecharts/public" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Community Helm Chart Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wiz-sec/charts#1749600000</id>
+    <title>https://github.com/wiz-sec/charts</title>
+    <link href="https://github.com/wiz-sec/charts" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/luau/daily.atom</id>
+  <title>GitHub Trending - luau (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/luau/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-05T11:19:13+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JohnnyMorganz/luau-lsp#1736075953</id>
+    <title>https://github.com/JohnnyMorganz/luau-lsp</title>
+    <link href="https://github.com/JohnnyMorganz/luau-lsp" />
+    <updated>2025-01-05T11:19:13+00:00</updated>
+    <content type="text">Language Server Implementation for Luau</content>
+  </entry>
+</feed>

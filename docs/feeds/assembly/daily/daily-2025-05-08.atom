@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/assembly/daily.atom</id>
+  <title>GitHub Trending - assembly (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/assembly/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xAX/asm#1746662400</id>
+    <title>https://github.com/0xAX/asm</title>
+    <link href="https://github.com/0xAX/asm" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Learning assembly for Linux x86_64</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BLAKE3-team/BLAKE3#1746662400</id>
+    <title>https://github.com/BLAKE3-team/BLAKE3</title>
+    <link href="https://github.com/BLAKE3-team/BLAKE3" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">the official Rust and C implementations of the BLAKE3 cryptographic hash function</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/hipBLASLt#1746662400</id>
+    <title>https://github.com/ROCm/hipBLASLt</title>
+    <link href="https://github.com/ROCm/hipBLASLt" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rangi42/polishedcrystal#1746662400</id>
+    <title>https://github.com/Rangi42/polishedcrystal</title>
+    <link href="https://github.com/Rangi42/polishedcrystal" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReturnInfinity/BareMetal#1746662400</id>
+    <title>https://github.com/ReturnInfinity/BareMetal</title>
+    <link href="https://github.com/ReturnInfinity/BareMetal" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">A very minimal, resource efficient exo-kernel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-crypto#1746662400</id>
+    <title>https://github.com/apple/swift-crypto</title>
+    <link href="https://github.com/apple/swift-crypto" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-nio-ssl#1746662400</id>
+    <title>https://github.com/apple/swift-nio-ssl</title>
+    <link href="https://github.com/apple/swift-nio-ssl" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">TLS Support for SwiftNIO, based on BoringSSL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-lc#1746662400</id>
+    <title>https://github.com/aws/aws-lc</title>
+    <link href="https://github.com/aws/aws-lc" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/briansmith/ring#1746662400</id>
+    <title>https://github.com/briansmith/ring</title>
+    <link href="https://github.com/briansmith/ring" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">An experiment.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/intel/intel-sgx-ssl#1746662400</id>
+    <title>https://github.com/intel/intel-sgx-ssl</title>
+    <link href="https://github.com/intel/intel-sgx-ssl" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Intel® Software Guard Extensions SSL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leachim6/hello-world#1746662400</id>
+    <title>https://github.com/leachim6/hello-world</title>
+    <link href="https://github.com/leachim6/hello-world" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Hello world in every computer language. Thanks to everyone who contributes to this, make sure to see contributing.md for contribution instructions!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/core-v-verif#1746662400</id>
+    <title>https://github.com/openhwgroup/core-v-verif</title>
+    <link href="https://github.com/openhwgroup/core-v-verif" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Functional verification project for the CORE-V family of RISC-V cores.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cva6#1746662400</id>
+    <title>https://github.com/openhwgroup/cva6</title>
+    <link href="https://github.com/openhwgroup/cva6" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pret/pokered#1746662400</id>
+    <title>https://github.com/pret/pokered</title>
+    <link href="https://github.com/pret/pokered" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Disassembly of Pokémon Red/Blue</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscvarchive/riscv-v-spec#1746662400</id>
+    <title>https://github.com/riscvarchive/riscv-v-spec</title>
+    <link href="https://github.com/riscvarchive/riscv-v-spec" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Working draft of the proposed RISC-V V vector extension</content>
+  </entry>
+</feed>

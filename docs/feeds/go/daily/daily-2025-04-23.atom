@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/k8s-device-plugin#1745366400</id>
+    <title>https://github.com/NVIDIA/k8s-device-plugin</title>
+    <link href="https://github.com/NVIDIA/k8s-device-plugin" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">NVIDIA device plugin for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1745366400</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-co-op/gocron#1745366400</id>
+    <title>https://github.com/go-co-op/gocron</title>
+    <link href="https://github.com/go-co-op/gocron" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Easy and fluent Go cron scheduling. This is a fork from https://github.com/jasonlvhit/gocron</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-task/task#1745366400</id>
+    <title>https://github.com/go-task/task</title>
+    <link href="https://github.com/go-task/task" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A task runner / simpler Make alternative written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1745366400</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1745366400</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1745366400</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1745366400</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1745366400</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1745366400</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-policy-agent/opa#1745366400</id>
+    <title>https://github.com/open-policy-agent/opa</title>
+    <link href="https://github.com/open-policy-agent/opa" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Open Policy Agent (OPA) is an open source, general-purpose policy engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1745366400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketbase/pocketbase#1745366400</id>
+    <title>https://github.com/pocketbase/pocketbase</title>
+    <link href="https://github.com/pocketbase/pocketbase" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Open Source realtime backend in 1 file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/katana#1745366400</id>
+    <title>https://github.com/projectdiscovery/katana</title>
+    <link href="https://github.com/projectdiscovery/katana" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A next-generation crawling and spidering framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/prometheus#1745366400</id>
+    <title>https://github.com/prometheus/prometheus</title>
+    <link href="https://github.com/prometheus/prometheus" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">The Prometheus monitoring system and time series database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rakyll/hey#1745366400</id>
+    <title>https://github.com/rakyll/hey</title>
+    <link href="https://github.com/rakyll/hey" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">HTTP load generator, ApacheBench (ab) replacement</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rancher/rancher#1745366400</id>
+    <title>https://github.com/rancher/rancher</title>
+    <link href="https://github.com/rancher/rancher" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Complete container management platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spegel-org/spegel#1745366400</id>
+    <title>https://github.com/spegel-org/spegel</title>
+    <link href="https://github.com/spegel-org/spegel" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">Stateless cluster local OCI registry mirror.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1745366400</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1745366400</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zitadel/zitadel#1745366400</id>
+    <title>https://github.com/zitadel/zitadel</title>
+    <link href="https://github.com/zitadel/zitadel" />
+    <updated>2025-04-23T00:00:00</updated>
+    <content type="text">ZITADEL - Identity infrastructure, simplified for you.</content>
+  </entry>
+</feed>

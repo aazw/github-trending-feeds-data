@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Project-HAMi/HAMi#1740182400</id>
+    <title>https://github.com/Project-HAMi/HAMi</title>
+    <link href="https://github.com/Project-HAMi/HAMi" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">Heterogeneous AI Computing Virtualization Middleware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beego/beego#1740182400</id>
+    <title>https://github.com/beego/beego</title>
+    <link href="https://github.com/beego/beego" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">beego is an open-source, high-performance web framework for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chaitin/SafeLine#1740182400</id>
+    <title>https://github.com/chaitin/SafeLine</title>
+    <link href="https://github.com/chaitin/SafeLine" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cilium/cilium#1740182400</id>
+    <title>https://github.com/cilium/cilium</title>
+    <link href="https://github.com/cilium/cilium" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">eBPF-based Networking, Security, and Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1740182400</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1740182400</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">An engine to run your pipelines in containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evcc-io/evcc#1740182400</id>
+    <title>https://github.com/evcc-io/evcc</title>
+    <link href="https://github.com/evcc-io/evcc" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">Solar Charging ☀️🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluxcd/flux2#1740182400</id>
+    <title>https://github.com/fluxcd/flux2</title>
+    <link href="https://github.com/fluxcd/flux2" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gitea/gitea#1740182400</id>
+    <title>https://github.com/go-gitea/gitea</title>
+    <link href="https://github.com/go-gitea/gitea" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1740182400</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1740182400</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1740182400</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1740182400</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1740182400</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1740182400</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1740182400</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keploy/keploy#1740182400</id>
+    <title>https://github.com/keploy/keploy</title>
+    <link href="https://github.com/keploy/keploy" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/vcluster#1740182400</id>
+    <title>https://github.com/loft-sh/vcluster</title>
+    <link href="https://github.com/loft-sh/vcluster" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1740182400</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqlc-dev/sqlc#1740182400</id>
+    <title>https://github.com/sqlc-dev/sqlc</title>
+    <link href="https://github.com/sqlc-dev/sqlc" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">Generate type-safe code from SQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/subtrace/subtrace#1740182400</id>
+    <title>https://github.com/subtrace/subtrace</title>
+    <link href="https://github.com/subtrace/subtrace" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">Wireshark for Docker containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teamhanko/hanko#1740182400</id>
+    <title>https://github.com/teamhanko/hanko</title>
+    <link href="https://github.com/teamhanko/hanko" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">The Complete Authentication and User Management Solution for the Passkey Era. Open Source Alternative to Clerk, Auth0, et al.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/veops/oneterm#1740182400</id>
+    <title>https://github.com/veops/oneterm</title>
+    <link href="https://github.com/veops/oneterm" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">Provide secure access and control over all infrastructure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volcano-sh/volcano#1740182400</id>
+    <title>https://github.com/volcano-sh/volcano</title>
+    <link href="https://github.com/volcano-sh/volcano" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">A Cloud Native Batch System (Project under CNCF)</content>
+  </entry>
+</feed>

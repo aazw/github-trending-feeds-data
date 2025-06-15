@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JohnSnowLabs/spark-nlp#1743465600</id>
+    <title>https://github.com/JohnSnowLabs/spark-nlp</title>
+    <link href="https://github.com/JohnSnowLabs/spark-nlp" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">State of the Art Natural Language Processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheHive-Project/TheHive#1743465600</id>
+    <title>https://github.com/TheHive-Project/TheHive</title>
+    <link href="https://github.com/TheHive-Project/TheHive" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">TheHive: a Scalable, Open Source and Free Security Incident Response Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akka/akka#1743465600</id>
+    <title>https://github.com/akka/akka</title>
+    <link href="https://github.com/akka/akka" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1743465600</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/rocket-chip#1743465600</id>
+    <title>https://github.com/chipsalliance/rocket-chip</title>
+    <link href="https://github.com/chipsalliance/rocket-chip" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Rocket Chip Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1743465600</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1743465600</id>
+    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
+    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Spark: The Definitive Guide's Code Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1743465600</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-sharing#1743465600</id>
+    <title>https://github.com/delta-io/delta-sharing</title>
+    <link href="https://github.com/delta-io/delta-sharing" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An open protocol for secure data sharing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joernio/joern#1743465600</id>
+    <title>https://github.com/joernio/joern</title>
+    <link href="https://github.com/joernio/joern" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala#1743465600</id>
+    <title>https://github.com/scala/scala</title>
+    <link href="https://github.com/scala/scala" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala3#1743465600</id>
+    <title>https://github.com/scala/scala3</title>
+    <link href="https://github.com/scala/scala3" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The Scala 3 compiler, also known as Dotty.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/snowplow-incubator/snowplow-micro#1743465600</id>
+    <title>https://github.com/snowplow-incubator/snowplow-micro</title>
+    <link href="https://github.com/snowplow-incubator/snowplow-micro" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Standalone application to automate testing of trackers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/chipyard#1743465600</id>
+    <title>https://github.com/ucb-bar/chipyard</title>
+    <link href="https://github.com/ucb-bar/chipyard" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/gemmini#1743465600</id>
+    <title>https://github.com/ucb-bar/gemmini</title>
+    <link href="https://github.com/ucb-bar/gemmini" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Berkeley's Spatial Array Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/testchipip#1743465600</id>
+    <title>https://github.com/ucb-bar/testchipip</title>
+    <link href="https://github.com/ucb-bar/testchipip" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

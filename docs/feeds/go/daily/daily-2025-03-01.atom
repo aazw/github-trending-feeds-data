@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/EndlessCheng/codeforces-go#1740787200</id>
+    <title>https://github.com/EndlessCheng/codeforces-go</title>
+    <link href="https://github.com/EndlessCheng/codeforces-go" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">算法竞赛模板库 by 灵茶山艾府 💭💡🎈</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1740787200</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Project-HAMi/HAMi#1740787200</id>
+    <title>https://github.com/Project-HAMi/HAMi</title>
+    <link href="https://github.com/Project-HAMi/HAMi" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Heterogeneous AI Computing Virtualization Middleware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/VictoriaMetrics#1740787200</id>
+    <title>https://github.com/VictoriaMetrics/VictoriaMetrics</title>
+    <link href="https://github.com/VictoriaMetrics/VictoriaMetrics" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">VictoriaMetrics: fast, cost-effective monitoring solution and time series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ahmetb/kubectx#1740787200</id>
+    <title>https://github.com/ahmetb/kubectx</title>
+    <link href="https://github.com/ahmetb/kubectx" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Faster way to switch between clusters and namespaces in kubectl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1740787200</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami-labs/sealed-secrets#1740787200</id>
+    <title>https://github.com/bitnami-labs/sealed-secrets</title>
+    <link href="https://github.com/bitnami-labs/sealed-secrets" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A Kubernetes controller and tool for one-way encrypted Secrets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytebase/bytebase#1740787200</id>
+    <title>https://github.com/bytebase/bytebase</title>
+    <link href="https://github.com/bytebase/bytebase" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/cloudnative-pg#1740787200</id>
+    <title>https://github.com/cloudnative-pg/cloudnative-pg</title>
+    <link href="https://github.com/cloudnative-pg/cloudnative-pg" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ehang-io/nps#1740787200</id>
+    <title>https://github.com/ehang-io/nps</title>
+    <link href="https://github.com/ehang-io/nps" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1740787200</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-kratos/kratos#1740787200</id>
+    <title>https://github.com/go-kratos/kratos</title>
+    <link href="https://github.com/go-kratos/kratos" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Your ultimate Go microservices framework for the cloud-native era.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1740787200</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1740787200</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1740787200</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/nomad#1740787200</id>
+    <title>https://github.com/hashicorp/nomad</title>
+    <link href="https://github.com/hashicorp/nomad" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1740787200</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaegertracing/jaeger#1740787200</id>
+    <title>https://github.com/jaegertracing/jaeger</title>
+    <link href="https://github.com/jaegertracing/jaeger" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">CNCF Jaeger, a Distributed Tracing Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kustomize#1740787200</id>
+    <title>https://github.com/kubernetes-sigs/kustomize</title>
+    <link href="https://github.com/kubernetes-sigs/kustomize" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Customization of kubernetes YAML configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kyverno/kyverno#1740787200</id>
+    <title>https://github.com/kyverno/kyverno</title>
+    <link href="https://github.com/kyverno/kyverno" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Cloud Native Policy Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/majd/ipatool#1740787200</id>
+    <title>https://github.com/majd/ipatool</title>
+    <link href="https://github.com/majd/ipatool" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Command-line tool that allows searching and downloading app packages (known as ipa files) from the iOS App Store</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1740787200</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats.go#1740787200</id>
+    <title>https://github.com/nats-io/nats.go</title>
+    <link href="https://github.com/nats-io/nats.go" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Golang client for NATS, the cloud native messaging system.</content>
+  </entry>
+</feed>

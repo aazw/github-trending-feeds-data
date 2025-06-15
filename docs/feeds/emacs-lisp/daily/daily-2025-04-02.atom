@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abo-abo/ace-window#1743552000</id>
+    <title>https://github.com/abo-abo/ace-window</title>
+    <link href="https://github.com/abo-abo/ace-window" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Quickly switch windows in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphapapa/org-ql#1743552000</id>
+    <title>https://github.com/alphapapa/org-ql</title>
+    <link href="https://github.com/alphapapa/org-ql" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clojure-emacs/cider#1743552000</id>
+    <title>https://github.com/clojure-emacs/cider</title>
+    <link href="https://github.com/clojure-emacs/cider" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">The Clojure Interactive Development Environment that Rocks for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1743552000</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1743552000</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1743552000</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/eglot#1743552000</id>
+    <title>https://github.com/joaotavora/eglot</title>
+    <link href="https://github.com/joaotavora/eglot" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A client for Language Server Protocol servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1743552000</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1743552000</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1743552000</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1743552000</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1743552000</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

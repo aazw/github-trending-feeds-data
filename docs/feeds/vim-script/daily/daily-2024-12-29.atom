@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-29T11:32:10+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/fatih/vim-go#1735471930</id>
+    <title>https://github.com/fatih/vim-go</title>
+    <link href="https://github.com/fatih/vim-go" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Go development plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1735471930</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dracula/vim#1735471930</id>
+    <title>https://github.com/dracula/vim</title>
+    <link href="https://github.com/dracula/vim" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">🧛🏻‍♂️ Dark theme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1735471930</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rails#1735471930</id>
+    <title>https://github.com/tpope/vim-rails</title>
+    <link href="https://github.com/tpope/vim-rails" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">rails.vim: Ruby on Rails power tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voldikss/vim-floaterm#1735471930</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kana/vim-textobj-user#1735471930</id>
+    <title>https://github.com/kana/vim-textobj-user</title>
+    <link href="https://github.com/kana/vim-textobj-user" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Vim plugin: Create your own text objects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline#1735471930</id>
+    <title>https://github.com/vim-airline/vim-airline</title>
+    <link href="https://github.com/vim-airline/vim-airline" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">lean &amp; mean status/tabline for vim that's light as air</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sonph/onehalf#1735471930</id>
+    <title>https://github.com/sonph/onehalf</title>
+    <link href="https://github.com/sonph/onehalf" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joshdick/onedark.vim#1735471930</id>
+    <title>https://github.com/joshdick/onedark.vim</title>
+    <link href="https://github.com/joshdick/onedark.vim" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1735471930</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cocopon/iceberg.vim#1735471930</id>
+    <title>https://github.com/cocopon/iceberg.vim</title>
+    <link href="https://github.com/cocopon/iceberg.vim" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">🇦🇶 Bluish color scheme for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-completion#1735471930</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-completion</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-completion" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Database autocompletion powered by https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1735471930</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1735471930</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1735471930</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1735471930</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1735471930</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1735471930</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1735471930</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1735471930</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1735471930</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2024-12-29T11:32:10+00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+</feed>

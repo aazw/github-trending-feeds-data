@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/verilog/weekly.atom</id>
+  <title>GitHub Trending - verilog (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/EttusResearch/uhd#1745798400</id>
+    <title>https://github.com/EttusResearch/uhd</title>
+    <link href="https://github.com/EttusResearch/uhd" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">The USRP™ Hardware Driver Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts#1745798400</id>
+    <title>https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts</title>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YosysHQ/picorv32#1745798400</id>
+    <title>https://github.com/YosysHQ/picorv32</title>
+    <link href="https://github.com/YosysHQ/picorv32" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">PicoRV32 - A Size-Optimized RISC-V CPU</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexforencich/verilog-ethernet#1745798400</id>
+    <title>https://github.com/alexforencich/verilog-ethernet</title>
+    <link href="https://github.com/alexforencich/verilog-ethernet" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Verilog Ethernet components for FPGA implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/darklife/darkriscv#1745798400</id>
+    <title>https://github.com/darklife/darkriscv</title>
+    <link href="https://github.com/darklife/darkriscv" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">opensouce RISC-V cpu core implemented in Verilog from scratch in one night!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vortexgpgpu/vortex#1745798400</id>
+    <title>https://github.com/vortexgpgpu/vortex</title>
+    <link href="https://github.com/vortexgpgpu/vortex" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

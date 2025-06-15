@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BurntSushi/ripgrep#1743638400</id>
+    <title>https://github.com/BurntSushi/ripgrep</title>
+    <link href="https://github.com/BurntSushi/ripgrep" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GraphiteEditor/Graphite#1743638400</id>
+    <title>https://github.com/GraphiteEditor/Graphite</title>
+    <link href="https://github.com/GraphiteEditor/Graphite" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">2D vector &amp; raster editor that melds traditional layers &amp; tools with a modern node-based, non-destructive, procedural workflow.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/sui#1743638400</id>
+    <title>https://github.com/MystenLabs/sui</title>
+    <link href="https://github.com/MystenLabs/sui" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1743638400</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1743638400</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bottlerocket-os/bottlerocket#1743638400</id>
+    <title>https://github.com/bottlerocket-os/bottlerocket</title>
+    <link href="https://github.com/bottlerocket-os/bottlerocket" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">An operating system designed for hosting containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espanso/espanso#1743638400</id>
+    <title>https://github.com/espanso/espanso</title>
+    <link href="https://github.com/espanso/espanso" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Cross-platform Text Expander written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1743638400</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/candle#1743638400</id>
+    <title>https://github.com/huggingface/candle</title>
+    <link href="https://github.com/huggingface/candle" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Minimalist ML framework for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdx/mise#1743638400</id>
+    <title>https://github.com/jdx/mise</title>
+    <link href="https://github.com/jdx/mise" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">dev tools, env vars, task runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1743638400</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1743638400</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meilisearch/meilisearch#1743638400</id>
+    <title>https://github.com/meilisearch/meilisearch</title>
+    <link href="https://github.com/meilisearch/meilisearch" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1743638400</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell#1743638400</id>
+    <title>https://github.com/nushell/nushell</title>
+    <link href="https://github.com/nushell/nushell" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A new type of shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-rust#1743638400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-rust</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-rust" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">The Rust OpenTelemetry implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1743638400</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1743638400</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/mail-server#1743638400</id>
+    <title>https://github.com/stalwartlabs/mail-server</title>
+    <link href="https://github.com/stalwartlabs/mail-server" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tracing#1743638400</id>
+    <title>https://github.com/tokio-rs/tracing</title>
+    <link href="https://github.com/tokio-rs/tracing" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Application level tracing for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1743638400</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1743638400</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1743638400</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1743638400</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

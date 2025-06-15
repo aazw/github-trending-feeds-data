@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-07T11:09:30+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cpm-cmake/CPM.cmake#1736248170</id>
+    <title>https://github.com/cpm-cmake/CPM.cmake</title>
+    <link href="https://github.com/cpm-cmake/CPM.cmake" />
+    <updated>2025-01-07T11:09:30+00:00</updated>
+    <content type="text">📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SergiusTheBest/FindWDK#1736248170</id>
+    <title>https://github.com/SergiusTheBest/FindWDK</title>
+    <link href="https://github.com/SergiusTheBest/FindWDK" />
+    <updated>2025-01-07T11:09:30+00:00</updated>
+    <content type="text">CMake module for building drivers with Windows Development Kit (WDK)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PX4/px4_msgs#1736248170</id>
+    <title>https://github.com/PX4/px4_msgs</title>
+    <link href="https://github.com/PX4/px4_msgs" />
+    <updated>2025-01-07T11:09:30+00:00</updated>
+    <content type="text">ROS/ROS2 messages that match the uORB messages counterparts on the PX4 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1736248170</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-01-07T11:09:30+00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1736248170</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-01-07T11:09:30+00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrl-umi3218/jrl-cmakemodules#1736248170</id>
+    <title>https://github.com/jrl-umi3218/jrl-cmakemodules</title>
+    <link href="https://github.com/jrl-umi3218/jrl-cmakemodules" />
+    <updated>2025-01-07T11:09:30+00:00</updated>
+    <content type="text">CMake utility toolbox</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MarkSchofield/WindowsToolchain#1736248170</id>
+    <title>https://github.com/MarkSchofield/WindowsToolchain</title>
+    <link href="https://github.com/MarkSchofield/WindowsToolchain" />
+    <updated>2025-01-07T11:09:30+00:00</updated>
+    <content type="text">A repository containing a CMake toolchain for using MSVC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ttroy50/cmake-examples#1736248170</id>
+    <title>https://github.com/ttroy50/cmake-examples</title>
+    <link href="https://github.com/ttroy50/cmake-examples" />
+    <updated>2025-01-07T11:09:30+00:00</updated>
+    <content type="text">Useful CMake Examples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1736248170</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-01-07T11:09:30+00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+</feed>

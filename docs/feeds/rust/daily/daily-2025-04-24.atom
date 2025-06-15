@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Automattic/harper#1745452800</id>
+    <title>https://github.com/Automattic/harper</title>
+    <link href="https://github.com/Automattic/harper" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">The Grammar Checker for Developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1745452800</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atuinsh/atuin#1745452800</id>
+    <title>https://github.com/atuinsh/atuin</title>
+    <link href="https://github.com/atuinsh/atuin" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">✨ Magical shell history</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dandavison/delta#1745452800</id>
+    <title>https://github.com/dandavison/delta</title>
+    <link href="https://github.com/dandavison/delta" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A syntax-highlighting pager for git, diff, grep, and blame output</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meilisearch/meilisearch#1745452800</id>
+    <title>https://github.com/meilisearch/meilisearch</title>
+    <link href="https://github.com/meilisearch/meilisearch" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1745452800</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1745452800</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1745452800</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prefix-dev/pixi#1745452800</id>
+    <title>https://github.com/prefix-dev/pixi</title>
+    <link href="https://github.com/prefix-dev/pixi" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Package management made easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1745452800</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/robustmq/robustmq#1745452800</id>
+    <title>https://github.com/robustmq/robustmq</title>
+    <link href="https://github.com/robustmq/robustmq" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">RobustMQ is a next-generation, high-performance, cloud-native, converged message queue that is compatible with multiple mainstream message queuing protocols and has complete Serveless capabilities.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust#1745452800</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1745452800</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slint-ui/slint#1745452800</id>
+    <title>https://github.com/slint-ui/slint</title>
+    <link href="https://github.com/slint-ui/slint" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tracel-ai/burn#1745452800</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1745452800</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1745452800</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1745452800</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+</feed>

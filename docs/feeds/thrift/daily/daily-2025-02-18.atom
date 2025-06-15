@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/thrift/daily.atom</id>
+  <title>GitHub Trending - thrift (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/thrift/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/quintoandar/hive-metastore-client#1739836800</id>
+    <title>https://github.com/quintoandar/hive-metastore-client</title>
+    <link href="https://github.com/quintoandar/hive-metastore-client" />
+    <updated>2025-02-18T00:00:00</updated>
+    <content type="text">A client for connecting and running DDLs on hive metastore.</content>
+  </entry>
+</feed>

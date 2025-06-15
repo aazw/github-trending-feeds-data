@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/amix/vimrc#1748044800</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1748044800</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1748044800</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1748044800</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1748044800</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-easy-align#1748044800</id>
+    <title>https://github.com/junegunn/vim-easy-align</title>
+    <link href="https://github.com/junegunn/vim-easy-align" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">🌻 A Vim alignment plugin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kana/vim-textobj-user#1748044800</id>
+    <title>https://github.com/kana/vim-textobj-user</title>
+    <link href="https://github.com/kana/vim-textobj-user" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Vim plugin: Create your own text objects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1748044800</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/vim-lsp#1748044800</id>
+    <title>https://github.com/prabirshrestha/vim-lsp</title>
+    <link href="https://github.com/prabirshrestha/vim-lsp" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">async language server protocol plugin for vim and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1748044800</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vim-markdown#1748044800</id>
+    <title>https://github.com/preservim/vim-markdown</title>
+    <link href="https://github.com/preservim/vim-markdown" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Markdown Vim Mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rbong/vim-flog#1748044800</id>
+    <title>https://github.com/rbong/vim-flog</title>
+    <link href="https://github.com/rbong/vim-flog" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">A blazingly fast, stunningly beautiful, exceptionally powerful git branch viewer for Vim/Neovim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/skywind3000/asyncrun.vim#1748044800</id>
+    <title>https://github.com/skywind3000/asyncrun.vim</title>
+    <link href="https://github.com/skywind3000/asyncrun.vim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">🚀 Run Async Shell Commands in Vim 8.0 / NeoVim and Output to the Quickfix Window !!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-repeat#1748044800</id>
+    <title>https://github.com/tpope/vim-repeat</title>
+    <link href="https://github.com/tpope/vim-repeat" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">repeat.vim: enable repeating supported plugin maps with "."</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-vinegar#1748044800</id>
+    <title>https://github.com/tpope/vim-vinegar</title>
+    <link href="https://github.com/tpope/vim-vinegar" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">vinegar.vim: Combine with netrw to create a delicious salad dressing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tyru/open-browser.vim#1748044800</id>
+    <title>https://github.com/tyru/open-browser.vim</title>
+    <link href="https://github.com/tyru/open-browser.vim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Open URI with your favorite browser from your most favorite editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline#1748044800</id>
+    <title>https://github.com/vim-airline/vim-airline</title>
+    <link href="https://github.com/vim-airline/vim-airline" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">lean &amp; mean status/tabline for vim that's light as air</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline-themes#1748044800</id>
+    <title>https://github.com/vim-airline/vim-airline-themes</title>
+    <link href="https://github.com/vim-airline/vim-airline-themes" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">A collection of themes for vim-airline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vital.vim#1748044800</id>
+    <title>https://github.com/vim-jp/vital.vim</title>
+    <link href="https://github.com/vim-jp/vital.vim" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">A comprehensive Vim utility functions for Vim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-syntastic/syntastic#1748044800</id>
+    <title>https://github.com/vim-syntastic/syntastic</title>
+    <link href="https://github.com/vim-syntastic/syntastic" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Syntax checking hacks for vim</content>
+  </entry>
+</feed>

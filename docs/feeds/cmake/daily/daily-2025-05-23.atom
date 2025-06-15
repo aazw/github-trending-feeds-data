@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1747958400</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1747958400</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/boostorg/cmake#1747958400</id>
+    <title>https://github.com/boostorg/cmake</title>
+    <link href="https://github.com/boostorg/cmake" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">CMake support infrastructure Boost submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/corrosion-rs/corrosion#1747958400</id>
+    <title>https://github.com/corrosion-rs/corrosion</title>
+    <link href="https://github.com/corrosion-rs/corrosion" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">Marrying Rust and CMake - Easy Rust and C/C++ Integration!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethz-asl/eigen_catkin#1747958400</id>
+    <title>https://github.com/ethz-asl/eigen_catkin</title>
+    <link href="https://github.com/ethz-asl/eigen_catkin" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">Eigen convenience for catkin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flathub/shared-modules#1747958400</id>
+    <title>https://github.com/flathub/shared-modules</title>
+    <link href="https://github.com/flathub/shared-modules" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">Common Flatpak modules that can be used as a git submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1747958400</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-controls/control_msgs#1747958400</id>
+    <title>https://github.com/ros-controls/control_msgs</title>
+    <link href="https://github.com/ros-controls/control_msgs" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">contains base messages and actions useful for controlling robots</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ttroy50/cmake-examples#1747958400</id>
+    <title>https://github.com/ttroy50/cmake-examples</title>
+    <link href="https://github.com/ttroy50/cmake-examples" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">Useful CMake Examples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vector-of-bool/cmrc#1747958400</id>
+    <title>https://github.com/vector-of-bool/cmrc</title>
+    <link href="https://github.com/vector-of-bool/cmrc" />
+    <updated>2025-05-23T00:00:00</updated>
+    <content type="text">A Resource Compiler in a Single CMake Script</content>
+  </entry>
+</feed>

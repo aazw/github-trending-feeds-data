@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/HerringtonDarkholme/yats.vim#1739404800</id>
+    <title>https://github.com/HerringtonDarkholme/yats.vim</title>
+    <link href="https://github.com/HerringtonDarkholme/yats.vim" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VundleVim/Vundle.vim#1739404800</id>
+    <title>https://github.com/VundleVim/Vundle.vim</title>
+    <link href="https://github.com/VundleVim/Vundle.vim" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Vundle, the plug-in manager for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Yggdroot/indentLine#1739404800</id>
+    <title>https://github.com/Yggdroot/indentLine</title>
+    <link href="https://github.com/Yggdroot/indentLine" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A vim plugin to display the indention levels with thin vertical lines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1739404800</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/goyo.vim#1739404800</id>
+    <title>https://github.com/junegunn/goyo.vim</title>
+    <link href="https://github.com/junegunn/goyo.vim" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">🌷 Distraction-free writing in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/limelight.vim#1739404800</id>
+    <title>https://github.com/junegunn/limelight.vim</title>
+    <link href="https://github.com/junegunn/limelight.vim" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">🔦 All the world's indeed a stage and we are merely players</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1739404800</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kien/ctrlp.vim#1739404800</id>
+    <title>https://github.com/kien/ctrlp.vim</title>
+    <link href="https://github.com/kien/ctrlp.vim" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Fuzzy file, buffer, mru, tag, etc finder.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1739404800</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1739404800</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vim-indent-guides#1739404800</id>
+    <title>https://github.com/preservim/vim-indent-guides</title>
+    <link href="https://github.com/preservim/vim-indent-guides" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">A Vim plugin for visually displaying indent levels in code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rodjek/vim-puppet#1739404800</id>
+    <title>https://github.com/rodjek/vim-puppet</title>
+    <link href="https://github.com/rodjek/vim-puppet" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Puppet niceties for your Vim setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1739404800</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1739404800</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/udalov/kotlin-vim#1739404800</id>
+    <title>https://github.com/udalov/kotlin-vim</title>
+    <link href="https://github.com/udalov/kotlin-vim" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-ruby/vim-ruby#1739404800</id>
+    <title>https://github.com/vim-ruby/vim-ruby</title>
+    <link href="https://github.com/vim-ruby/vim-ruby" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Vim/Ruby Configuration Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1739404800</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+</feed>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AlexxIT/go2rtc#1741651200</id>
+    <title>https://github.com/AlexxIT/go2rtc</title>
+    <link href="https://github.com/AlexxIT/go2rtc" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1741651200</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/kaniko#1741651200</id>
+    <title>https://github.com/GoogleContainerTools/kaniko</title>
+    <link href="https://github.com/GoogleContainerTools/kaniko" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Build Container Images In Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TykTechnologies/tyk#1741651200</id>
+    <title>https://github.com/TykTechnologies/tyk</title>
+    <link href="https://github.com/TykTechnologies/tyk" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abiosoft/colima#1741651200</id>
+    <title>https://github.com/abiosoft/colima</title>
+    <link href="https://github.com/abiosoft/colima" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Container runtimes on macOS (and Linux) with minimal setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/higress#1741651200</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytedance/sonic#1741651200</id>
+    <title>https://github.com/bytedance/sonic</title>
+    <link href="https://github.com/bytedance/sonic" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A blazingly fast JSON serializing &amp; deserializing library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1741651200</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">An open-source runtime for composable workflows. Great for AI agents and CI/CD.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1741651200</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsops/sops#1741651200</id>
+    <title>https://github.com/getsops/sops</title>
+    <link href="https://github.com/getsops/sops" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Simple and flexible tool for managing secrets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gophish/gophish#1741651200</id>
+    <title>https://github.com/gophish/gophish</title>
+    <link href="https://github.com/gophish/gophish" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Open-Source Phishing Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1741651200</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1741651200</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaegertracing/jaeger#1741651200</id>
+    <title>https://github.com/jaegertracing/jaeger</title>
+    <link href="https://github.com/jaegertracing/jaeger" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">CNCF Jaeger, a Distributed Tracing Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jmoiron/sqlx#1741651200</id>
+    <title>https://github.com/jmoiron/sqlx</title>
+    <link href="https://github.com/jmoiron/sqlx" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">general purpose extensions to golang's database/sql</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1741651200</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kyverno/kyverno#1741651200</id>
+    <title>https://github.com/kyverno/kyverno</title>
+    <link href="https://github.com/kyverno/kyverno" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Cloud Native Policy Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-sandbox#1741651200</id>
+    <title>https://github.com/langgenius/dify-sandbox</title>
+    <link href="https://github.com/langgenius/dify-sandbox" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A lightweight, fast, and secure code execution environment that supports multiple programming languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/devpod#1741651200</id>
+    <title>https://github.com/loft-sh/devpod</title>
+    <link href="https://github.com/loft-sh/devpod" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/vcluster#1741651200</id>
+    <title>https://github.com/loft-sh/vcluster</title>
+    <link href="https://github.com/loft-sh/vcluster" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1741651200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go-contrib#1741651200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go-contrib" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Collection of extensions for OpenTelemetry-Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/httpx#1741651200</id>
+    <title>https://github.com/projectdiscovery/httpx</title>
+    <link href="https://github.com/projectdiscovery/httpx" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/testcontainers/testcontainers-go#1741651200</id>
+    <title>https://github.com/testcontainers/testcontainers-go</title>
+    <link href="https://github.com/testcontainers/testcontainers-go" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.</content>
+  </entry>
+</feed>

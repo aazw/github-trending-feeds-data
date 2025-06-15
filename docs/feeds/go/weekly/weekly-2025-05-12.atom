@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xJacky/nginx-ui#1747008000</id>
+    <title>https://github.com/0xJacky/nginx-ui</title>
+    <link href="https://github.com/0xJacky/nginx-ui" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Yet another WebUI for Nginx</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/kubectl-ai#1747008000</id>
+    <title>https://github.com/GoogleCloudPlatform/kubectl-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/kubectl-ai" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">AI powered Kubernetes Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1747008000</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/authelia/authelia#1747008000</id>
+    <title>https://github.com/authelia/authelia</title>
+    <link href="https://github.com/authelia/authelia" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">The Single Sign-On Multi-Factor portal for web apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/avelino/awesome-go#1747008000</id>
+    <title>https://github.com/avelino/awesome-go</title>
+    <link href="https://github.com/avelino/awesome-go" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A curated list of awesome Go frameworks, libraries and software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1747008000</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chaitin/SafeLine#1747008000</id>
+    <title>https://github.com/chaitin/SafeLine</title>
+    <link href="https://github.com/chaitin/SafeLine" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1747008000</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/external-secrets/external-secrets#1747008000</id>
+    <title>https://github.com/external-secrets/external-secrets</title>
+    <link href="https://github.com/external-secrets/external-secrets" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glanceapp/glance#1747008000</id>
+    <title>https://github.com/glanceapp/glance</title>
+    <link href="https://github.com/glanceapp/glance" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">A self-hosted dashboard that puts all your feeds in one place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorilla/websocket#1747008000</id>
+    <title>https://github.com/gorilla/websocket</title>
+    <link href="https://github.com/gorilla/websocket" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gosom/google-maps-scraper#1747008000</id>
+    <title>https://github.com/gosom/google-maps-scraper</title>
+    <link href="https://github.com/gosom/google-maps-scraper" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heroiclabs/nakama#1747008000</id>
+    <title>https://github.com/heroiclabs/nakama</title>
+    <link href="https://github.com/heroiclabs/nakama" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Distributed server for social and realtime games and apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juanfont/headscale#1747008000</id>
+    <title>https://github.com/juanfont/headscale</title>
+    <link href="https://github.com/juanfont/headscale" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">An open source, self-hosted implementation of the Tailscale control server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keploy/keploy#1747008000</id>
+    <title>https://github.com/keploy/keploy</title>
+    <link href="https://github.com/keploy/keploy" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubetail-org/kubetail#1747008000</id>
+    <title>https://github.com/kubetail-org/kubetail</title>
+    <link href="https://github.com/kubetail-org/kubetail" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Real-time logging dashboard for Kubernetes (browser/terminal)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencost/opencost#1747008000</id>
+    <title>https://github.com/opencost/opencost</title>
+    <link href="https://github.com/opencost/opencost" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Cost monitoring for Kubernetes workloads and cloud costs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/owncast/owncast#1747008000</id>
+    <title>https://github.com/owncast/owncast</title>
+    <link href="https://github.com/owncast/owncast" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Take control over your live stream video by running it yourself. Streaming + chat out of the box.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1747008000</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1747008000</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+</feed>

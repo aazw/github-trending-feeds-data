@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ap/vim-css-color#1740355200</id>
+    <title>https://github.com/ap/vim-css-color</title>
+    <link href="https://github.com/ap/vim-css-color" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Preview colours in source code while editing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chrisbra/csv.vim#1740355200</id>
+    <title>https://github.com/chrisbra/csv.vim</title>
+    <link href="https://github.com/chrisbra/csv.vim" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">A Filetype plugin for csv files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1740355200</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1740355200</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godlygeek/tabular#1740355200</id>
+    <title>https://github.com/godlygeek/tabular</title>
+    <link href="https://github.com/godlygeek/tabular" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Vim script for text filtering and alignment</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vader.vim#1740355200</id>
+    <title>https://github.com/junegunn/vader.vim</title>
+    <link href="https://github.com/junegunn/vader.vim" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">A simple Vimscript test framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1740355200</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mattn/vim-lsp-settings#1740355200</id>
+    <title>https://github.com/mattn/vim-lsp-settings</title>
+    <link href="https://github.com/mattn/vim-lsp-settings" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Auto configurations for Language Server for vim-lsp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1740355200</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1740355200</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete-lsp.vim#1740355200</id>
+    <title>https://github.com/prabirshrestha/asyncomplete-lsp.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1740355200</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vim-indent-guides#1740355200</id>
+    <title>https://github.com/preservim/vim-indent-guides</title>
+    <link href="https://github.com/preservim/vim-indent-guides" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">A Vim plugin for visually displaying indent levels in code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sebdah/vim-delve#1740355200</id>
+    <title>https://github.com/sebdah/vim-delve</title>
+    <link href="https://github.com/sebdah/vim-delve" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Neovim / Vim integration for Delve</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-pathogen#1740355200</id>
+    <title>https://github.com/tpope/vim-pathogen</title>
+    <link href="https://github.com/tpope/vim-pathogen" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">pathogen.vim: manage your runtimepath</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-unimpaired#1740355200</id>
+    <title>https://github.com/tpope/vim-unimpaired</title>
+    <link href="https://github.com/tpope/vim-unimpaired" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">unimpaired.vim: Pairs of handy bracket mappings</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-syntastic/syntastic#1740355200</id>
+    <title>https://github.com/vim-syntastic/syntastic</title>
+    <link href="https://github.com/vim-syntastic/syntastic" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Syntax checking hacks for vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1740355200</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

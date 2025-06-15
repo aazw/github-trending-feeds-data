@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/weekly.atom</id>
+  <title>GitHub Trending - scala (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JohnSnowLabs/spark-nlp#1744588800</id>
+    <title>https://github.com/JohnSnowLabs/spark-nlp</title>
+    <link href="https://github.com/JohnSnowLabs/spark-nlp" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">State of the Art Natural Language Processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenXiangShan/XiangShan#1744588800</id>
+    <title>https://github.com/OpenXiangShan/XiangShan</title>
+    <link href="https://github.com/OpenXiangShan/XiangShan" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Open-source high-performance RISC-V processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akka/akka#1744588800</id>
+    <title>https://github.com/akka/akka</title>
+    <link href="https://github.com/akka/akka" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1744588800</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1744588800</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1744588800</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1744588800</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rtyley/bfg-repo-cleaner#1744588800</id>
+    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
+    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbt/sbt#1744588800</id>
+    <title>https://github.com/sbt/sbt</title>
+    <link href="https://github.com/sbt/sbt" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">sbt, the interactive build tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala3#1744588800</id>
+    <title>https://github.com/scala/scala3</title>
+    <link href="https://github.com/scala/scala3" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">The Scala 3 compiler, also known as Dotty.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scalameta/metals#1744588800</id>
+    <title>https://github.com/scalameta/metals</title>
+    <link href="https://github.com/scalameta/metals" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Scala language server with rich IDE features 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/chipyard#1744588800</id>
+    <title>https://github.com/ucb-bar/chipyard</title>
+    <link href="https://github.com/ucb-bar/chipyard" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/gemmini#1744588800</id>
+    <title>https://github.com/ucb-bar/gemmini</title>
+    <link href="https://github.com/ucb-bar/gemmini" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Berkeley's Spatial Array Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/testchipip#1744588800</id>
+    <title>https://github.com/ucb-bar/testchipip</title>
+    <link href="https://github.com/ucb-bar/testchipip" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

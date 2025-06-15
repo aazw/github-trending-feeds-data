@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ankitects/anki#1743897600</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1743897600</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1743897600</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1743897600</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getzola/zola#1743897600</id>
+    <title>https://github.com/getzola/zola</title>
+    <link href="https://github.com/getzola/zola" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">A fast static site generator in a single binary with everything built-in. https://www.getzola.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1743897600</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modrinth/code#1743897600</id>
+    <title>https://github.com/modrinth/code</title>
+    <link href="https://github.com/modrinth/code" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">The Modrinth monorepo containing all code which powers Modrinth!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/near/nearcore#1743897600</id>
+    <title>https://github.com/near/nearcore</title>
+    <link href="https://github.com/near/nearcore" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Reference client for NEAR Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruffle-rs/ruffle#1743897600</id>
+    <title>https://github.com/ruffle-rs/ruffle</title>
+    <link href="https://github.com/ruffle-rs/ruffle" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">A Flash Player emulator written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/book#1743897600</id>
+    <title>https://github.com/rust-lang/book</title>
+    <link href="https://github.com/rust-lang/book" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">The Rust Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/cargo#1743897600</id>
+    <title>https://github.com/rust-lang/cargo</title>
+    <link href="https://github.com/rust-lang/cargo" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">The Rust package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust#1743897600</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-analyzer#1743897600</id>
+    <title>https://github.com/rust-lang/rust-analyzer</title>
+    <link href="https://github.com/rust-lang/rust-analyzer" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">A Rust compiler front-end for IDEs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1743897600</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/serde-rs/json#1743897600</id>
+    <title>https://github.com/serde-rs/json</title>
+    <link href="https://github.com/serde-rs/json" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Strongly typed JSON library for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana#1743897600</id>
+    <title>https://github.com/solana-labs/solana</title>
+    <link href="https://github.com/solana-labs/solana" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1743897600</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1743897600</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1743897600</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

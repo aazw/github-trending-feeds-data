@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-30T11:14:54+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudfront-cdn#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudfront-cdn</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-cdn" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Terraform Module that implements a CloudFront Distribution (CDN) for a custom origin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LondheShubham153/TerraWeek#1735557294</id>
+    <title>https://github.com/LondheShubham153/TerraWeek</title>
+    <link href="https://github.com/LondheShubham153/TerraWeek" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">#TerraWeek Challenge by TWS Community Builders is a 7 Day challenge to Upskill the DevOps Community, which will be starting on 5th June and ending on 11th June at 11:59 P.M IST.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-example-module#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-example-module</title>
+    <link href="https://github.com/cloudposse/terraform-example-module" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Example Terraform Module Scaffolding</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pivotal/paving#1735557294</id>
+    <title>https://github.com/pivotal/paving</title>
+    <link href="https://github.com/pivotal/paving" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Terraform templates for paving infrastructure to deploy the Pivotal Platform.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticsearch#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticsearch</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticsearch" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Terraform module to provision an Elasticsearch cluster with built-in integrations with Kibana and Logstash.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Terraform module to easily provision CloudFront CDN backed by an S3 origin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ses#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-aws-ses</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ses" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Terraform module to provision Simple Email Service on AWS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-efs#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Terraform module to provision AWS MSK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/h3mmy/bloopySphere#1735557294</id>
+    <title>https://github.com/h3mmy/bloopySphere</title>
+    <link href="https://github.com/h3mmy/bloopySphere" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">My home cluster.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-aws-consul#1735557294</id>
+    <title>https://github.com/hashicorp/terraform-aws-consul</title>
+    <link href="https://github.com/hashicorp/terraform-aws-consul" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">A Terraform Module for how to run Consul on AWS using Terraform and Packer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket#1735557294</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">S3 bucket with built in IAM policy to allow CloudTrail logs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cashapp/hermit-packages#1735557294</id>
+    <title>https://github.com/cashapp/hermit-packages</title>
+    <link href="https://github.com/cashapp/hermit-packages" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Hermit manages isolated, self-bootstrapping sets of tools in software projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1735557294</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1735557294</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2024-12-30T11:14:54+00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+</feed>

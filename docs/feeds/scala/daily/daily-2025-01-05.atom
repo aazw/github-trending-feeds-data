@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-05T11:27:23+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/japgolly/scalajs-react#1736076443</id>
+    <title>https://github.com/japgolly/scalajs-react</title>
+    <link href="https://github.com/japgolly/scalajs-react" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Facebook's React on Scala.JS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ClickHouse/spark-clickhouse-connector#1736076443</id>
+    <title>https://github.com/ClickHouse/spark-clickhouse-connector</title>
+    <link href="https://github.com/ClickHouse/spark-clickhouse-connector" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Spark ClickHouse Connector build on DataSourceV2 API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/kyuubi#1736076443</id>
+    <title>https://github.com/apache/kyuubi</title>
+    <link href="https://github.com/apache/kyuubi" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coursier/coursier#1736076443</id>
+    <title>https://github.com/coursier/coursier</title>
+    <link href="https://github.com/coursier/coursier" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Pure Scala Artifact Fetching</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-toree#1736076443</id>
+    <title>https://github.com/apache/incubator-toree</title>
+    <link href="https://github.com/apache/incubator-toree" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Mirror of Apache Toree (Incubating)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lightbend/genjavadoc#1736076443</id>
+    <title>https://github.com/lightbend/genjavadoc</title>
+    <link href="https://github.com/lightbend/genjavadoc" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">A compiler plugin for generating doc’able Java source from Scala source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/chisel#1736076443</id>
+    <title>https://github.com/chipsalliance/chisel</title>
+    <link href="https://github.com/chipsalliance/chisel" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Chisel: A Modern Hardware Design Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1736076443</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/rocket-chip#1736076443</id>
+    <title>https://github.com/chipsalliance/rocket-chip</title>
+    <link href="https://github.com/chipsalliance/rocket-chip" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Rocket Chip Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala3#1736076443</id>
+    <title>https://github.com/scala/scala3</title>
+    <link href="https://github.com/scala/scala3" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">The Scala 3 compiler, also known as Dotty.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1736076443</id>
+    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
+    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Spark: The Definitive Guide's Code Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rtyley/bfg-repo-cleaner#1736076443</id>
+    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
+    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/SynapseML#1736076443</id>
+    <title>https://github.com/microsoft/SynapseML</title>
+    <link href="https://github.com/microsoft/SynapseML" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Simple and Distributed Machine Learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AbsaOSS/spline-spark-agent#1736076443</id>
+    <title>https://github.com/AbsaOSS/spline-spark-agent</title>
+    <link href="https://github.com/AbsaOSS/spline-spark-agent" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Spline agent for Apache Spark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1736076443</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-livy#1736076443</id>
+    <title>https://github.com/apache/incubator-livy</title>
+    <link href="https://github.com/apache/incubator-livy" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/berkeley-hardfloat#1736076443</id>
+    <title>https://github.com/ucb-bar/berkeley-hardfloat</title>
+    <link href="https://github.com/ucb-bar/berkeley-hardfloat" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/open-korean-text/open-korean-text#1736076443</id>
+    <title>https://github.com/open-korean-text/open-korean-text</title>
+    <link href="https://github.com/open-korean-text/open-korean-text" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Open Korean Text Processor - An Open-source Korean Text Processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1736076443</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenXiangShan/XiangShan#1736076443</id>
+    <title>https://github.com/OpenXiangShan/XiangShan</title>
+    <link href="https://github.com/OpenXiangShan/XiangShan" />
+    <updated>2025-01-05T11:27:23+00:00</updated>
+    <content type="text">Open-source high-performance RISC-V processor</content>
+  </entry>
+</feed>

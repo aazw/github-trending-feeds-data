@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom</id>
+  <title>GitHub Trending - markdown (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/markdown/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JetBrains/intellij-sdk-docs#1745798400</id>
+    <title>https://github.com/JetBrains/intellij-sdk-docs</title>
+    <link href="https://github.com/JetBrains/intellij-sdk-docs" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">IntelliJ SDK Platform Documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/KaiserY/trpl-zh-cn#1745798400</id>
+    <title>https://github.com/KaiserY/trpl-zh-cn</title>
+    <link href="https://github.com/KaiserY/trpl-zh-cn" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Rust 程序设计语言（2021 edition）</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OAI/OpenAPI-Specification#1745798400</id>
+    <title>https://github.com/OAI/OpenAPI-Specification</title>
+    <link href="https://github.com/OAI/OpenAPI-Specification" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">The OpenAPI Specification Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/codecrafters-io/build-your-own-x#1745798400</id>
+    <title>https://github.com/codecrafters-io/build-your-own-x</title>
+    <link href="https://github.com/codecrafters-io/build-your-own-x" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Master programming by recreating your favorite technologies from scratch.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaywcjlove/linux-command#1745798400</id>
+    <title>https://github.com/jaywcjlove/linux-command</title>
+    <link href="https://github.com/jaywcjlove/linux-command" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labuladong/fucking-algorithm#1745798400</id>
+    <title>https://github.com/labuladong/fucking-algorithm</title>
+    <link href="https://github.com/labuladong/fucking-algorithm" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satoshilabs/slips#1745798400</id>
+    <title>https://github.com/satoshilabs/slips</title>
+    <link href="https://github.com/satoshilabs/slips" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">SatoshiLabs Improvement Proposals</content>
+  </entry>
+</feed>

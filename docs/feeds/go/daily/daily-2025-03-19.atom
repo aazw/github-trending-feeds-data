@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/datadog-agent#1742342400</id>
+    <title>https://github.com/DataDog/datadog-agent</title>
+    <link href="https://github.com/DataDog/datadog-agent" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Main repository for Datadog Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DiceDB/dice#1742342400</id>
+    <title>https://github.com/DiceDB/dice</title>
+    <link href="https://github.com/DiceDB/dice" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EndlessCheng/codeforces-go#1742342400</id>
+    <title>https://github.com/EndlessCheng/codeforces-go</title>
+    <link href="https://github.com/EndlessCheng/codeforces-go" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">算法竞赛模板库 by 灵茶山艾府 💭💡🎈</content>
+  </entry>
+  <entry>
+    <id>https://github.com/authelia/authelia#1742342400</id>
+    <title>https://github.com/authelia/authelia</title>
+    <link href="https://github.com/authelia/authelia" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">The Single Sign-On Multi-Factor portal for web apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btcsuite/btcd#1742342400</id>
+    <title>https://github.com/btcsuite/btcd</title>
+    <link href="https://github.com/btcsuite/btcd" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">An alternative full node bitcoin implementation written in Go (golang)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cli/cli#1742342400</id>
+    <title>https://github.com/cli/cli</title>
+    <link href="https://github.com/cli/cli" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">GitHub’s official command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1742342400</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1742342400</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derailed/k9s#1742342400</id>
+    <title>https://github.com/derailed/k9s</title>
+    <link href="https://github.com/derailed/k9s" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">🐶 Kubernetes CLI To Manage Your Clusters In Style!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fsnotify/fsnotify#1742342400</id>
+    <title>https://github.com/fsnotify/fsnotify</title>
+    <link href="https://github.com/fsnotify/fsnotify" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Cross-platform filesystem notifications for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glanceapp/glance#1742342400</id>
+    <title>https://github.com/glanceapp/glance</title>
+    <link href="https://github.com/glanceapp/glance" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">A self-hosted dashboard that puts all your feeds in one place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1742342400</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gogf/gf#1742342400</id>
+    <title>https://github.com/gogf/gf</title>
+    <link href="https://github.com/gogf/gf" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">A powerful framework for faster, easier, and more efficient project development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/osv-scanner#1742342400</id>
+    <title>https://github.com/google/osv-scanner</title>
+    <link href="https://github.com/google/osv-scanner" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Vulnerability scanner written in Go which uses the data provided by https://osv.dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1742342400</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1742342400</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1742342400</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/autoscaler#1742342400</id>
+    <title>https://github.com/kubernetes/autoscaler</title>
+    <link href="https://github.com/kubernetes/autoscaler" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Autoscaling components for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/minikube#1742342400</id>
+    <title>https://github.com/kubernetes/minikube</title>
+    <link href="https://github.com/kubernetes/minikube" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Run Kubernetes locally</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livekit/livekit#1742342400</id>
+    <title>https://github.com/livekit/livekit</title>
+    <link href="https://github.com/livekit/livekit" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">End-to-end stack for WebRTC. SFU media server and SDKs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcphost#1742342400</id>
+    <title>https://github.com/mark3labs/mcphost</title>
+    <link href="https://github.com/mark3labs/mcphost" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1742342400</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdm12/ddns-updater#1742342400</id>
+    <title>https://github.com/qdm12/ddns-updater</title>
+    <link href="https://github.com/qdm12/ddns-updater" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Container to update DNS records periodically with WebUI for many DNS providers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/runatlantis/atlantis#1742342400</id>
+    <title>https://github.com/runatlantis/atlantis</title>
+    <link href="https://github.com/runatlantis/atlantis" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Terraform Pull Request Automation</content>
+  </entry>
+</feed>

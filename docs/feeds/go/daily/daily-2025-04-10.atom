@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/akuity/kargo#1744243200</id>
+    <title>https://github.com/akuity/kargo</title>
+    <link href="https://github.com/akuity/kargo" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Application lifecycle orchestration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1744243200</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1744243200</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/skopeo#1744243200</id>
+    <title>https://github.com/containers/skopeo</title>
+    <link href="https://github.com/containers/skopeo" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Work with remote images registries - retrieving information, images, signing content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coroot/coroot#1744243200</id>
+    <title>https://github.com/coroot/coroot</title>
+    <link href="https://github.com/coroot/coroot" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Coroot is an open-source APM &amp; Observability tool, a DataDog and NewRelic alternative. Metrics, logs, traces, continuous profiling, and SLO-based alerting, supercharged with predefined dashboards and inspections.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derailed/k9s#1744243200</id>
+    <title>https://github.com/derailed/k9s</title>
+    <link href="https://github.com/derailed/k9s" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">🐶 Kubernetes CLI To Manage Your Clusters In Style!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/buildx#1744243200</id>
+    <title>https://github.com/docker/buildx</title>
+    <link href="https://github.com/docker/buildx" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Docker CLI plugin for extended build capabilities with BuildKit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/go-ethereum#1744243200</id>
+    <title>https://github.com/ethereum/go-ethereum</title>
+    <link href="https://github.com/ethereum/go-ethereum" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Go implementation of the Ethereum protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fsnotify/fsnotify#1744243200</id>
+    <title>https://github.com/fsnotify/fsnotify</title>
+    <link href="https://github.com/fsnotify/fsnotify" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Cross-platform filesystem notifications for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1744243200</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gitea/gitea#1744243200</id>
+    <title>https://github.com/go-gitea/gitea</title>
+    <link href="https://github.com/go-gitea/gitea" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1744243200</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1744243200</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1744243200</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krillinai/KrillinAI#1744243200</id>
+    <title>https://github.com/krillinai/KrillinAI</title>
+    <link href="https://github.com/krillinai/KrillinAI" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/gateway-api#1744243200</id>
+    <title>https://github.com/kubernetes-sigs/gateway-api</title>
+    <link href="https://github.com/kubernetes-sigs/gateway-api" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1744243200</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1744243200</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1744243200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/viper#1744243200</id>
+    <title>https://github.com/spf13/viper</title>
+    <link href="https://github.com/spf13/viper" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Go configuration with fangs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/mock#1744243200</id>
+    <title>https://github.com/uber-go/mock</title>
+    <link href="https://github.com/uber-go/mock" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">GoMock is a mocking framework for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vitessio/vitess#1744243200</id>
+    <title>https://github.com/vitessio/vitess</title>
+    <link href="https://github.com/vitessio/vitess" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Vitess is a database clustering system for horizontal scaling of MySQL.</content>
+  </entry>
+</feed>

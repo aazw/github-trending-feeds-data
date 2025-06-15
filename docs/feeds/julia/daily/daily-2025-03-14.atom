@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CliMA/ClimaAtmos.jl#1741910400</id>
+    <title>https://github.com/CliMA/ClimaAtmos.jl</title>
+    <link href="https://github.com/CliMA/ClimaAtmos.jl" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1741910400</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1741910400</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LuxDL/Boltz.jl#1741910400</id>
+    <title>https://github.com/LuxDL/Boltz.jl</title>
+    <link href="https://github.com/LuxDL/Boltz.jl" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">Accelerate your ML research using pre-built Deep Learning Models with Lux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/ModelingToolkit.jl#1741910400</id>
+    <title>https://github.com/SciML/ModelingToolkit.jl</title>
+    <link href="https://github.com/SciML/ModelingToolkit.jl" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/SciMLBase.jl#1741910400</id>
+    <title>https://github.com/SciML/SciMLBase.jl</title>
+    <link href="https://github.com/SciML/SciMLBase.jl" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">The Base interface of the SciML ecosystem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/SciMLSensitivity.jl#1741910400</id>
+    <title>https://github.com/SciML/SciMLSensitivity.jl</title>
+    <link href="https://github.com/SciML/SciMLSensitivity.jl" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">A component of the DiffEq ecosystem for enabling sensitivity analysis for scientific machine learning (SciML). Optimize-then-discretize, discretize-then-optimize, adjoint methods, and more for ODEs, SDEs, DDEs, DAEs, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/julia-actions/cache#1741910400</id>
+    <title>https://github.com/julia-actions/cache</title>
+    <link href="https://github.com/julia-actions/cache" />
+    <updated>2025-03-14T00:00:00</updated>
+    <content type="text">A shortcut action to cache Julia artifacts, packages, and registries.</content>
+  </entry>
+</feed>

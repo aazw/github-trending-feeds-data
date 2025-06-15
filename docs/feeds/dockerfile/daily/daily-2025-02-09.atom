@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NREL/docker-openstudio#1739059200</id>
+    <title>https://github.com/NREL/docker-openstudio</title>
+    <link href="https://github.com/NREL/docker-openstudio" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Repository for managing the builds of OpenStudio Docker images.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1739059200</id>
+    <title>https://github.com/OWASP/wstg</title>
+    <link href="https://github.com/OWASP/wstg" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShell/PowerShell-Docker#1739059200</id>
+    <title>https://github.com/PowerShell/PowerShell-Docker</title>
+    <link href="https://github.com/PowerShell/PowerShell-Docker" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Repository for building PowerShell Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RocketChat/Docker.Official.Image#1739059200</id>
+    <title>https://github.com/RocketChat/Docker.Official.Image</title>
+    <link href="https://github.com/RocketChat/Docker.Official.Image" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Docker hub - community managed image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YanWenKun/ComfyUI-Docker#1739059200</id>
+    <title>https://github.com/YanWenKun/ComfyUI-Docker</title>
+    <link href="https://github.com/YanWenKun/ComfyUI-Docker" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-buildtools-prereqs-docker#1739059200</id>
+    <title>https://github.com/dotnet/dotnet-buildtools-prereqs-docker</title>
+    <link href="https://github.com/dotnet/dotnet-buildtools-prereqs-docker" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Used to maintain the Docker images hosted at the mcr.microsoft.com/dotnet-buildtools/prereqs image repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-docker#1739059200</id>
+    <title>https://github.com/dotnet/dotnet-docker</title>
+    <link href="https://github.com/dotnet/dotnet-docker" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Docker images for .NET and the .NET Tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1739059200</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaywcjlove/reference#1739059200</id>
+    <title>https://github.com/jaywcjlove/reference</title>
+    <link href="https://github.com/jaywcjlove/reference" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">为开发人员分享快速参考备忘清单(速查表)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mu_devops#1739059200</id>
+    <title>https://github.com/microsoft/mu_devops</title>
+    <link href="https://github.com/microsoft/mu_devops" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Project Mu Developer Operations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vulhub/vulhub#1739059200</id>
+    <title>https://github.com/vulhub/vulhub</title>
+    <link href="https://github.com/vulhub/vulhub" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
+  </entry>
+</feed>

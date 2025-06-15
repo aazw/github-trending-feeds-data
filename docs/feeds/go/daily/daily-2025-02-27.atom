@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1740614400</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1740614400</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-workflows#1740614400</id>
+    <title>https://github.com/argoproj/argo-workflows</title>
+    <link href="https://github.com/argoproj/argo-workflows" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Workflow Engine for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1740614400</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crossplane/crossplane#1740614400</id>
+    <title>https://github.com/crossplane/crossplane</title>
+    <link href="https://github.com/crossplane/crossplane" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The Cloud Native Control Plane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elastic/beats#1740614400</id>
+    <title>https://github.com/elastic/beats</title>
+    <link href="https://github.com/elastic/beats" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">🐠 Beats - Lightweight shippers for Elasticsearch &amp; Logstash</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/go-ethereum#1740614400</id>
+    <title>https://github.com/ethereum/go-ethereum</title>
+    <link href="https://github.com/ethereum/go-ethereum" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Go implementation of the Ethereum protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gogf/gf#1740614400</id>
+    <title>https://github.com/gogf/gf</title>
+    <link href="https://github.com/gogf/gf" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">A powerful framework for faster, easier, and more efficient project development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1740614400</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1740614400</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1740614400</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1740614400</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1740614400</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1740614400</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1740614400</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/blackbox_exporter#1740614400</id>
+    <title>https://github.com/prometheus/blackbox_exporter</title>
+    <link href="https://github.com/prometheus/blackbox_exporter" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Blackbox prober exporter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/publicsuffix/list#1740614400</id>
+    <title>https://github.com/publicsuffix/list</title>
+    <link href="https://github.com/publicsuffix/list" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The Public Suffix List</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sourcegraph/conc#1740614400</id>
+    <title>https://github.com/sourcegraph/conc</title>
+    <link href="https://github.com/sourcegraph/conc" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Better structured concurrency for go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thanos-io/thanos#1740614400</id>
+    <title>https://github.com/thanos-io/thanos</title>
+    <link href="https://github.com/thanos-io/thanos" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1740614400</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zalando/postgres-operator#1740614400</id>
+    <title>https://github.com/zalando/postgres-operator</title>
+    <link href="https://github.com/zalando/postgres-operator" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Postgres operator creates and manages PostgreSQL clusters running in Kubernetes</content>
+  </entry>
+</feed>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom</id>
+  <title>GitHub Trending - smarty (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CrowdStrike/falcon-helm#1745798400</id>
+    <title>https://github.com/CrowdStrike/falcon-helm</title>
+    <link href="https://github.com/CrowdStrike/falcon-helm" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Helm Charts for running CrowdStrike Falcon with Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SigNoz/charts#1745798400</id>
+    <title>https://github.com/SigNoz/charts</title>
+    <link href="https://github.com/SigNoz/charts" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Helm Charts for SigNoz</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SonarSource/helm-chart-sonarqube#1745798400</id>
+    <title>https://github.com/SonarSource/helm-chart-sonarqube</title>
+    <link href="https://github.com/SonarSource/helm-chart-sonarqube" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb/helm-charts#1745798400</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-helm-charts#1745798400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-helm-charts</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-helm-charts" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">OpenTelemetry Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sidpalas/devops-directive-kubernetes-course#1745798400</id>
+    <title>https://github.com/sidpalas/devops-directive-kubernetes-course</title>
+    <link href="https://github.com/sidpalas/devops-directive-kubernetes-course" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik-helm-chart#1745798400</id>
+    <title>https://github.com/traefik/traefik-helm-chart</title>
+    <link href="https://github.com/traefik/traefik-helm-chart" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Traefik Proxy Helm Chart</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1745798400</id>
+    <title>https://github.com/truecharts/public</title>
+    <link href="https://github.com/truecharts/public" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Community Helm Chart Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wiz-sec/charts#1745798400</id>
+    <title>https://github.com/wiz-sec/charts</title>
+    <link href="https://github.com/wiz-sec/charts" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

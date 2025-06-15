@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OpenBankProject/OBP-API#1741478400</id>
+    <title>https://github.com/OpenBankProject/OBP-API</title>
+    <link href="https://github.com/OpenBankProject/OBP-API" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">An open source RESTful API platform for banks that supports Open Banking, XS2A, PSD2 and Open Finance through access to accounts, transactions, counterparties, payments, entitlements and metadata - plus a host of internal banking and management APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenXiangShan/XiangShan#1741478400</id>
+    <title>https://github.com/OpenXiangShan/XiangShan</title>
+    <link href="https://github.com/OpenXiangShan/XiangShan" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Open-source high-performance RISC-V processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpinalHDL/SpinalHDL#1741478400</id>
+    <title>https://github.com/SpinalHDL/SpinalHDL</title>
+    <link href="https://github.com/SpinalHDL/SpinalHDL" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Scala based HDL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airbnb/chronon#1741478400</id>
+    <title>https://github.com/airbnb/chronon</title>
+    <link href="https://github.com/airbnb/chronon" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Chronon is a data platform for serving for AI/ML applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1741478400</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1741478400</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/chisel#1741478400</id>
+    <title>https://github.com/chipsalliance/chisel</title>
+    <link href="https://github.com/chipsalliance/chisel" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Chisel: A Modern Hardware Design Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/rocket-chip#1741478400</id>
+    <title>https://github.com/chipsalliance/rocket-chip</title>
+    <link href="https://github.com/chipsalliance/rocket-chip" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Rocket Chip Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1741478400</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1741478400</id>
+    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
+    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Spark: The Definitive Guide's Code Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1741478400</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/digital-asset/daml#1741478400</id>
+    <title>https://github.com/digital-asset/daml</title>
+    <link href="https://github.com/digital-asset/daml" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">The Daml smart contract language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1741478400</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/playframework/playframework#1741478400</id>
+    <title>https://github.com/playframework/playframework</title>
+    <link href="https://github.com/playframework/playframework" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">The Community Maintained High Velocity Web Framework For Java and Scala.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv-boom/riscv-boom#1741478400</id>
+    <title>https://github.com/riscv-boom/riscv-boom</title>
+    <link href="https://github.com/riscv-boom/riscv-boom" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">SonicBOOM: The Berkeley Out-of-Order Machine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rtyley/bfg-repo-cleaner#1741478400</id>
+    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
+    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbt/sbt#1741478400</id>
+    <title>https://github.com/sbt/sbt</title>
+    <link href="https://github.com/sbt/sbt" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">sbt, the interactive build tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala3#1741478400</id>
+    <title>https://github.com/scala/scala3</title>
+    <link href="https://github.com/scala/scala3" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">The Scala 3 compiler, also known as Dotty.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1741478400</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/berkeley-hardfloat#1741478400</id>
+    <title>https://github.com/ucb-bar/berkeley-hardfloat</title>
+    <link href="https://github.com/ucb-bar/berkeley-hardfloat" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/chipyard#1741478400</id>
+    <title>https://github.com/ucb-bar/chipyard</title>
+    <link href="https://github.com/ucb-bar/chipyard" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
+  </entry>
+</feed>

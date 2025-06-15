@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware_msgs#1747872000</id>
+    <title>https://github.com/autowarefoundation/autoware_msgs</title>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1747872000</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1747872000</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/kvproto#1747872000</id>
+    <title>https://github.com/pingcap/kvproto</title>
+    <link href="https://github.com/pingcap/kvproto" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Protocol buffer files for TiKV</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-controls/control_msgs#1747872000</id>
+    <title>https://github.com/ros-controls/control_msgs</title>
+    <link href="https://github.com/ros-controls/control_msgs" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">contains base messages and actions useful for controlling robots</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-planning/navigation_msgs#1747872000</id>
+    <title>https://github.com/ros-planning/navigation_msgs</title>
+    <link href="https://github.com/ros-planning/navigation_msgs" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Message packages required by the navigation stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1747872000</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vector-of-bool/cmrc#1747872000</id>
+    <title>https://github.com/vector-of-bool/cmrc</title>
+    <link href="https://github.com/vector-of-bool/cmrc" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">A Resource Compiler in a Single CMake Script</content>
+  </entry>
+</feed>

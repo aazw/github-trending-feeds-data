@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom</id>
+  <title>GitHub Trending - nim (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/arnetheduck/nim-results#1743292800</id>
+    <title>https://github.com/arnetheduck/nim-results</title>
+    <link href="https://github.com/arnetheduck/nim-results" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Friendly value-or-error type</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cheatfate/nimcrypto#1743292800</id>
+    <title>https://github.com/cheatfate/nimcrypto</title>
+    <link href="https://github.com/cheatfate/nimcrypto" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Nim cryptographic library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dom96/jester#1743292800</id>
+    <title>https://github.com/dom96/jester</title>
+    <link href="https://github.com/dom96/jester" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">A sinatra-like web framework for Nim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/guzba/zippy#1743292800</id>
+    <title>https://github.com/guzba/zippy</title>
+    <link href="https://github.com/guzba/zippy" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Pure Nim implementation of deflate, zlib, gzip and zip.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karaxnim/karax#1743292800</id>
+    <title>https://github.com/karaxnim/karax</title>
+    <link href="https://github.com/karaxnim/karax" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Karax. Single page applications for Nim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mratsim/Arraymancer#1743292800</id>
+    <title>https://github.com/mratsim/Arraymancer</title>
+    <link href="https://github.com/mratsim/Arraymancer" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">A fast, ergonomic and portable tensor library in Nim with a deep learning focus for CPU, GPU and embedded devices via OpenMP, Cuda and OpenCL backends</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/Nim#1743292800</id>
+    <title>https://github.com/nim-lang/Nim</title>
+    <link href="https://github.com/nim-lang/Nim" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/langserver#1743292800</id>
+    <title>https://github.com/nim-lang/langserver</title>
+    <link href="https://github.com/nim-lang/langserver" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">The Nim language server implementation (based on nimsuggest)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/nimforum#1743292800</id>
+    <title>https://github.com/nim-lang/nimforum</title>
+    <link href="https://github.com/nim-lang/nimforum" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Lightweight alternative to Discourse written in Nim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-chronicles#1743292800</id>
+    <title>https://github.com/status-im/nim-chronicles</title>
+    <link href="https://github.com/status-im/nim-chronicles" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">A crafty implementation of structured logging for Nim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-chronos#1743292800</id>
+    <title>https://github.com/status-im/nim-chronos</title>
+    <link href="https://github.com/status-im/nim-chronos" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Chronos - An efficient library for asynchronous programming</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-faststreams#1743292800</id>
+    <title>https://github.com/status-im/nim-faststreams</title>
+    <link href="https://github.com/status-im/nim-faststreams" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Nearly zero-overhead input/output streams for Nim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-json-rpc#1743292800</id>
+    <title>https://github.com/status-im/nim-json-rpc</title>
+    <link href="https://github.com/status-im/nim-json-rpc" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Nim library for implementing JSON-RPC clients and servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-json-serialization#1743292800</id>
+    <title>https://github.com/status-im/nim-json-serialization</title>
+    <link href="https://github.com/status-im/nim-json-serialization" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Flexible JSON serialization not relying on run-time type information</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-serialization#1743292800</id>
+    <title>https://github.com/status-im/nim-serialization</title>
+    <link href="https://github.com/status-im/nim-serialization" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">A modern and extensible serialization framework for Nim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-stew#1743292800</id>
+    <title>https://github.com/status-im/nim-stew</title>
+    <link href="https://github.com/status-im/nim-stew" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-stint#1743292800</id>
+    <title>https://github.com/status-im/nim-stint</title>
+    <link href="https://github.com/status-im/nim-stint" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-unittest2#1743292800</id>
+    <title>https://github.com/status-im/nim-unittest2</title>
+    <link href="https://github.com/status-im/nim-unittest2" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Beautiful and efficient unit testing for Nim evolved from the standard library `unittest` module</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-websock#1743292800</id>
+    <title>https://github.com/status-im/nim-websock</title>
+    <link href="https://github.com/status-im/nim-websock" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Websocket for Nim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zedeus/nitter#1743292800</id>
+    <title>https://github.com/zedeus/nitter</title>
+    <link href="https://github.com/zedeus/nitter" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Alternative Twitter front-end</content>
+  </entry>
+</feed>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BlakeWilliams/Elixir-Slack#1737936000</id>
+    <title>https://github.com/BlakeWilliams/Elixir-Slack</title>
+    <link href="https://github.com/BlakeWilliams/Elixir-Slack" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Slack real time messaging and web API client in Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ExHammer/hammer-backend-redis#1737936000</id>
+    <title>https://github.com/ExHammer/hammer-backend-redis</title>
+    <link href="https://github.com/ExHammer/hammer-backend-redis" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A Redis backend for for the Hammer rate-limiter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OffchainLabs/blockscout#1737936000</id>
+    <title>https://github.com/OffchainLabs/blockscout</title>
+    <link href="https://github.com/OffchainLabs/blockscout" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/akira/exq_ui#1737936000</id>
+    <title>https://github.com/akira/exq_ui</title>
+    <link href="https://github.com/akira/exq_ui" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">UI Dashboard for Exq, a job processing library for Elixir. Exq UI provides the UI dashboard to display stats on job processing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/anoma#1737936000</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1737936000</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash_graphql#1737936000</id>
+    <title>https://github.com/ash-project/ash_graphql</title>
+    <link href="https://github.com/ash-project/ash_graphql" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">The extension for building GraphQL APIs with Ash</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash_phoenix#1737936000</id>
+    <title>https://github.com/ash-project/ash_phoenix</title>
+    <link href="https://github.com/ash-project/ash_phoenix" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Utilities for integrating Ash and Phoenix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/igniter#1737936000</id>
+    <title>https://github.com/ash-project/igniter</title>
+    <link href="https://github.com/ash-project/igniter" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A code generation and project patching framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1737936000</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/commanded/eventstore#1737936000</id>
+    <title>https://github.com/commanded/eventstore</title>
+    <link href="https://github.com/commanded/eventstore" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Event store using PostgreSQL for persistence</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1737936000</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-nx/nx#1737936000</id>
+    <title>https://github.com/elixir-nx/nx</title>
+    <link href="https://github.com/elixir-nx/nx" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Multi-dimensional arrays (tensors) and numerical definitions for Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/sentry-elixir#1737936000</id>
+    <title>https://github.com/getsentry/sentry-elixir</title>
+    <link href="https://github.com/getsentry/sentry-elixir" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">The official Elixir SDK for Sentry (sentry.io)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1737936000</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1737936000</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1737936000</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1737936000</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/supavisor#1737936000</id>
+    <title>https://github.com/supabase/supavisor</title>
+    <link href="https://github.com/supabase/supavisor" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A cloud-native, multi-tenant Postgres connection pooler.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1737936000</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+</feed>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Trending - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/vim/vim#1737331200</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1737331200</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rhubarb#1737331200</id>
+    <title>https://github.com/tpope/vim-rhubarb</title>
+    <link href="https://github.com/tpope/vim-rhubarb" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">rhubarb.vim: GitHub extension for fugitive.vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-ui#1737331200</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-ui</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Simple UI for https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pearofducks/ansible-vim#1737331200</id>
+    <title>https://github.com/pearofducks/ansible-vim</title>
+    <link href="https://github.com/pearofducks/ansible-vim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A vim plugin for syntax highlighting Ansible's common filetypes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/puremourning/vimspector#1737331200</id>
+    <title>https://github.com/puremourning/vimspector</title>
+    <link href="https://github.com/puremourning/vimspector" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">vimspector - A multi-language debugging system for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1737331200</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1737331200</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1737331200</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1737331200</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1737331200</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1737331200</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kien/ctrlp.vim#1737331200</id>
+    <title>https://github.com/kien/ctrlp.vim</title>
+    <link href="https://github.com/kien/ctrlp.vim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Fuzzy file, buffer, mru, tag, etc finder.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1737331200</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+</feed>

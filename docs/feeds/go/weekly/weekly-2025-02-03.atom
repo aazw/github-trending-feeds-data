@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/datadog-agent#1738540800</id>
+    <title>https://github.com/DataDog/datadog-agent</title>
+    <link href="https://github.com/DataDog/datadog-agent" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Main repository for Datadog Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1738540800</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chainflag/eth-faucet#1738540800</id>
+    <title>https://github.com/chainflag/eth-faucet</title>
+    <link href="https://github.com/chainflag/eth-faucet" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Ether faucet server built with Go and Svelte.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cli/cli#1738540800</id>
+    <title>https://github.com/cli/cli</title>
+    <link href="https://github.com/cli/cli" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">GitHub’s official command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1738540800</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1738540800</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-migrate/migrate#1738540800</id>
+    <title>https://github.com/golang-migrate/migrate</title>
+    <link href="https://github.com/golang-migrate/migrate" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Database migrations. CLI and Golang library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1738540800</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/nomad#1738540800</id>
+    <title>https://github.com/hashicorp/nomad</title>
+    <link href="https://github.com/hashicorp/nomad" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iam-veeramalla/observability-zero-to-hero#1738540800</id>
+    <title>https://github.com/iam-veeramalla/observability-zero-to-hero</title>
+    <link href="https://github.com/iam-veeramalla/observability-zero-to-hero" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Repo for learning observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iawia002/lux#1738540800</id>
+    <title>https://github.com/iawia002/lux</title>
+    <link href="https://github.com/iawia002/lux" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">👾 Fast and simple video download library and CLI tool written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1738540800</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1738540800</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/cluster-api#1738540800</id>
+    <title>https://github.com/kubernetes-sigs/cluster-api</title>
+    <link href="https://github.com/kubernetes-sigs/cluster-api" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Home for Cluster API, a subproject of sig-cluster-lifecycle</content>
+  </entry>
+  <entry>
+    <id>https://github.com/m1k1o/neko#1738540800</id>
+    <title>https://github.com/m1k1o/neko</title>
+    <link href="https://github.com/m1k1o/neko" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A self hosted virtual browser that runs in docker and uses WebRTC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738540800</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pressly/goose#1738540800</id>
+    <title>https://github.com/pressly/goose</title>
+    <link href="https://github.com/pressly/goose" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A database migration tool. Supports SQL migrations and Go functions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1738540800</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tulir/whatsmeow#1738540800</id>
+    <title>https://github.com/tulir/whatsmeow</title>
+    <link href="https://github.com/tulir/whatsmeow" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Go library for the WhatsApp web multidevice API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wavetermdev/waveterm#1738540800</id>
+    <title>https://github.com/wavetermdev/waveterm</title>
+    <link href="https://github.com/wavetermdev/waveterm" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">An open-source, cross-platform terminal for seamless workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yassinebenaid/bunster#1738540800</id>
+    <title>https://github.com/yassinebenaid/bunster</title>
+    <link href="https://github.com/yassinebenaid/bunster" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Compile shell scripts to static binaries.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yusing/go-proxy#1738540800</id>
+    <title>https://github.com/yusing/go-proxy</title>
+    <link href="https://github.com/yusing/go-proxy" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Easy to use reverse proxy with docker integration</content>
+  </entry>
+</feed>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FreeRTOS/FreeRTOS#1745884800</id>
+    <title>https://github.com/FreeRTOS/FreeRTOS</title>
+    <link href="https://github.com/FreeRTOS/FreeRTOS" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">'Classic' FreeRTOS distribution. Started as Git clone of FreeRTOS SourceForge SVN repo. Submodules the kernel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GuijiAI/HeyGem.ai#1745884800</id>
+    <title>https://github.com/GuijiAI/HeyGem.ai</title>
+    <link href="https://github.com/GuijiAI/HeyGem.ai" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/arthenica/ffmpeg-kit#1745884800</id>
+    <title>https://github.com/arthenica/ffmpeg-kit</title>
+    <link href="https://github.com/arthenica/ffmpeg-kit" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-mosquitto/mosquitto#1745884800</id>
+    <title>https://github.com/eclipse-mosquitto/mosquitto</title>
+    <link href="https://github.com/eclipse-mosquitto/mosquitto" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Eclipse Mosquitto - An open source MQTT broker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastfetch-cli/fastfetch#1745884800</id>
+    <title>https://github.com/fastfetch-cli/fastfetch</title>
+    <link href="https://github.com/fastfetch-cli/fastfetch" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">A maintained, feature-rich and performance oriented, neofetch like system information tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ffmpegwasm/ffmpeg.wasm#1745884800</id>
+    <title>https://github.com/ffmpegwasm/ffmpeg.wasm</title>
+    <link href="https://github.com/ffmpegwasm/ffmpeg.wasm" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">FFmpeg for browser, powered by WebAssembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluent-bit#1745884800</id>
+    <title>https://github.com/fluent/fluent-bit</title>
+    <link href="https://github.com/fluent/fluent-bit" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jqlang/jq#1745884800</id>
+    <title>https://github.com/jqlang/jq</title>
+    <link href="https://github.com/jqlang/jq" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Command-line JSON processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openssl/openssl#1745884800</id>
+    <title>https://github.com/openssl/openssl</title>
+    <link href="https://github.com/openssl/openssl" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">TLS/SSL and crypto library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/redis#1745884800</id>
+    <title>https://github.com/redis/redis</title>
+    <link href="https://github.com/redis/redis" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes, Streams, HyperLogLogs, Bitmaps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/signalwire/freeswitch#1745884800</id>
+    <title>https://github.com/signalwire/freeswitch</title>
+    <link href="https://github.com/signalwire/freeswitch" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.</content>
+  </entry>
+</feed>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom</id>
+  <title>GitHub Trending - clojure (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T11:09:28+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/jepsen-io/jepsen#1736161768</id>
+    <title>https://github.com/jepsen-io/jepsen</title>
+    <link href="https://github.com/jepsen-io/jepsen" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">A framework for distributed systems verification, with fault injection</content>
+  </entry>
+  <entry>
+    <id>https://github.com/l3nz/cli-matic#1736161768</id>
+    <title>https://github.com/l3nz/cli-matic</title>
+    <link href="https://github.com/l3nz/cli-matic" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">Compact, hands-free [sub]command line parsing library for Clojure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instantdb/instant#1736161768</id>
+    <title>https://github.com/instantdb/instant</title>
+    <link href="https://github.com/instantdb/instant" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pedestal/pedestal#1736161768</id>
+    <title>https://github.com/pedestal/pedestal</title>
+    <link href="https://github.com/pedestal/pedestal" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">The Pedestal Server-side Libraries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ring-clojure/ring#1736161768</id>
+    <title>https://github.com/ring-clojure/ring</title>
+    <link href="https://github.com/ring-clojure/ring" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">Clojure HTTP server abstraction</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metosin/muuntaja#1736161768</id>
+    <title>https://github.com/metosin/muuntaja</title>
+    <link href="https://github.com/metosin/muuntaja" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">Clojure library for fast http api format negotiation, encoding and decoding.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jonase/eastwood#1736161768</id>
+    <title>https://github.com/jonase/eastwood</title>
+    <link href="https://github.com/jonase/eastwood" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">Clojure lint tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plumatic/schema#1736161768</id>
+    <title>https://github.com/plumatic/schema</title>
+    <link href="https://github.com/plumatic/schema" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">Clojure(Script) library for declarative data description and validation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/babashka/pods#1736161768</id>
+    <title>https://github.com/babashka/pods</title>
+    <link href="https://github.com/babashka/pods" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">Pods support for JVM and babashka</content>
+  </entry>
+  <entry>
+    <id>https://github.com/babashka/babashka.nrepl#1736161768</id>
+    <title>https://github.com/babashka/babashka.nrepl</title>
+    <link href="https://github.com/babashka/babashka.nrepl" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">The nREPL server from babashka as a library, so it can be used from other SCI-based CLIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/babashka/babashka#1736161768</id>
+    <title>https://github.com/babashka/babashka</title>
+    <link href="https://github.com/babashka/babashka" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">Native, fast starting Clojure interpreter for scripting</content>
+  </entry>
+  <entry>
+    <id>https://github.com/penpot/penpot#1736161768</id>
+    <title>https://github.com/penpot/penpot</title>
+    <link href="https://github.com/penpot/penpot" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">Penpot: The open-source design tool for design and code collaboration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metabase/metabase#1736161768</id>
+    <title>https://github.com/metabase/metabase</title>
+    <link href="https://github.com/metabase/metabase" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋</content>
+  </entry>
+  <entry>
+    <id>https://github.com/logseq/logseq#1736161768</id>
+    <title>https://github.com/logseq/logseq</title>
+    <link href="https://github.com/logseq/logseq" />
+    <updated>2025-01-06T11:09:28+00:00</updated>
+    <content type="text">A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap</content>
+  </entry>
+</feed>

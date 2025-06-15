@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/monthly.atom</id>
+  <title>GitHub Trending - erlang (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/WhatsApp/erlfmt#1746057600</id>
+    <title>https://github.com/WhatsApp/erlfmt</title>
+    <link href="https://github.com/WhatsApp/erlfmt" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">An automated code formatter for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/devinus/poolboy#1746057600</id>
+    <title>https://github.com/devinus/poolboy</title>
+    <link href="https://github.com/devinus/poolboy" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A hunky Erlang worker pool factory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1746057600</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-lager/lager#1746057600</id>
+    <title>https://github.com/erlang-lager/lager</title>
+    <link href="https://github.com/erlang-lager/lager" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A logging framework for Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1746057600</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ferd/recon#1746057600</id>
+    <title>https://github.com/ferd/recon</title>
+    <link href="https://github.com/ferd/recon" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Collection of functions and scripts to debug Erlang in production.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jcomellas/getopt#1746057600</id>
+    <title>https://github.com/jcomellas/getopt</title>
+    <link href="https://github.com/jcomellas/getopt" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Erlang module to parse command line arguments using the GNU getopt syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1746057600</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1746057600</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/ranch#1746057600</id>
+    <title>https://github.com/ninenines/ranch</title>
+    <link href="https://github.com/ninenines/ranch" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Socket acceptor pool for TCP protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/processone/ejabberd#1746057600</id>
+    <title>https://github.com/processone/ejabberd</title>
+    <link href="https://github.com/processone/ejabberd" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1746057600</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1746057600</id>
+    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
+    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Delayed Messaging for RabbitMQ</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomas-abrahamsson/gpb#1746057600</id>
+    <title>https://github.com/tomas-abrahamsson/gpb</title>
+    <link href="https://github.com/tomas-abrahamsson/gpb" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A Google Protobuf implementation for Erlang</content>
+  </entry>
+</feed>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ONLYOFFICE/DocumentServer#1742947200</id>
+    <title>https://github.com/ONLYOFFICE/DocumentServer</title>
+    <link href="https://github.com/ONLYOFFICE/DocumentServer" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WhatsApp/proxy#1742947200</id>
+    <title>https://github.com/WhatsApp/proxy</title>
+    <link href="https://github.com/WhatsApp/proxy" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">This repository contains the WhatsApp proxy implementation for users to host their own proxy infrastructure to connect to WhatsApp for chat (VoIP is not currently supported)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acmesh-official/acme.sh#1742947200</id>
+    <title>https://github.com/acmesh-official/acme.sh</title>
+    <link href="https://github.com/acmesh-official/acme.sh" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1742947200</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fuzhengwei/CodeGuide#1742947200</id>
+    <title>https://github.com/fuzhengwei/CodeGuide</title>
+    <link href="https://github.com/fuzhengwei/CodeGuide" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！</content>
+  </entry>
+  <entry>
+    <id>https://github.com/geerlingguy/mac-dev-playbook#1742947200</id>
+    <title>https://github.com/geerlingguy/mac-dev-playbook</title>
+    <link href="https://github.com/geerlingguy/mac-dev-playbook" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Mac setup and configuration via Ansible.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itzg/docker-minecraft-server#1742947200</id>
+    <title>https://github.com/itzg/docker-minecraft-server</title>
+    <link href="https://github.com/itzg/docker-minecraft-server" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jayphelps/git-blame-someone-else#1742947200</id>
+    <title>https://github.com/jayphelps/git-blame-someone-else</title>
+    <link href="https://github.com/jayphelps/git-blame-someone-else" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Blame someone else for your bad code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1742947200</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1742947200</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oracle/docker-images#1742947200</id>
+    <title>https://github.com/oracle/docker-images</title>
+    <link href="https://github.com/oracle/docker-images" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Official source of container configurations, images, and examples for Oracle products and projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sameersbn/docker-gitlab#1742947200</id>
+    <title>https://github.com/sameersbn/docker-gitlab</title>
+    <link href="https://github.com/sameersbn/docker-gitlab" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">Dockerized GitLab</content>
+  </entry>
+  <entry>
+    <id>https://github.com/taigaio/taiga-docker#1742947200</id>
+    <title>https://github.com/taigaio/taiga-docker</title>
+    <link href="https://github.com/taigaio/taiga-docker" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1742947200</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuaotian/go-cursor-help#1742947200</id>
+    <title>https://github.com/yuaotian/go-cursor-help</title>
+    <link href="https://github.com/yuaotian/go-cursor-help" />
+    <updated>2025-03-26T00:00:00</updated>
+    <content type="text">解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</content>
+  </entry>
+</feed>

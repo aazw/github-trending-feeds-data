@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abdes/cryptopp-cmake#1737676800</id>
+    <title>https://github.com/abdes/cryptopp-cmake</title>
+    <link href="https://github.com/abdes/cryptopp-cmake" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A modern CMake build project for Crypto++ (https://github.com/weidai11/cryptopp).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ament/ament_cmake#1737676800</id>
+    <title>https://github.com/ament/ament_cmake</title>
+    <link href="https://github.com/ament/ament_cmake" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Supporting CMake packages for working with ament</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware_msgs#1737676800</id>
+    <title>https://github.com/autowarefoundation/autoware_msgs</title>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1737676800</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/ecbuild#1737676800</id>
+    <title>https://github.com/ecmwf/ecbuild</title>
+    <link href="https://github.com/ecmwf/ecbuild" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/friendlyanon/cmake-init#1737676800</id>
+    <title>https://github.com/friendlyanon/cmake-init</title>
+    <link href="https://github.com/friendlyanon/cmake-init" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">The missing CMake project initializer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gazebosim/gz-cmake#1737676800</id>
+    <title>https://github.com/gazebosim/gz-cmake</title>
+    <link href="https://github.com/gazebosim/gz-cmake" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A set of CMake modules that are used by the C++-based Gazebo projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1737676800</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1737676800</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+</feed>

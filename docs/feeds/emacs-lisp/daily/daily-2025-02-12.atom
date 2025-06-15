@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Sterlingg/json-snatcher#1739318400</id>
+    <title>https://github.com/Sterlingg/json-snatcher</title>
+    <link href="https://github.com/Sterlingg/json-snatcher" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Get the path to a JSON element in Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1739318400</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bbatsov/projectile#1739318400</id>
+    <title>https://github.com/bbatsov/projectile</title>
+    <link href="https://github.com/bbatsov/projectile" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Project Interaction Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1739318400</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/domtronn/all-the-icons.el#1739318400</id>
+    <title>https://github.com/domtronn/all-the-icons.el</title>
+    <link href="https://github.com/domtronn/all-the-icons.el" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">A utility package to collect various Icon Fonts and propertize them within Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1739318400</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-dashboard/emacs-dashboard#1739318400</id>
+    <title>https://github.com/emacs-dashboard/emacs-dashboard</title>
+    <link href="https://github.com/emacs-dashboard/emacs-dashboard" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">An extensible emacs dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1739318400</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1739318400</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/eglot#1739318400</id>
+    <title>https://github.com/joaotavora/eglot</title>
+    <link href="https://github.com/joaotavora/eglot" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">A client for Language Server Protocol servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwiegley/use-package#1739318400</id>
+    <title>https://github.com/jwiegley/use-package</title>
+    <link href="https://github.com/jwiegley/use-package" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">A use-package declaration for simplifying your .emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/progfolio/elpaca#1739318400</id>
+    <title>https://github.com/progfolio/elpaca</title>
+    <link href="https://github.com/progfolio/elpaca" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">An elisp package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protesilaos/modus-themes#1739318400</id>
+    <title>https://github.com/protesilaos/modus-themes</title>
+    <link href="https://github.com/protesilaos/modus-themes" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1739318400</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1739318400</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/renzmann/treesit-auto#1739318400</id>
+    <title>https://github.com/renzmann/treesit-auto</title>
+    <link href="https://github.com/renzmann/treesit-auto" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">Automatic installation, usage, and fallback for tree-sitter major modes in Emacs 29</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1739318400</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-02-12T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+</feed>

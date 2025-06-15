@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MatthewZMD/aidermacs#1748476800</id>
+    <title>https://github.com/MatthewZMD/aidermacs</title>
+    <link href="https://github.com/MatthewZMD/aidermacs" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">AI Pair Programming in Emacs with Aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/avy#1748476800</id>
+    <title>https://github.com/abo-abo/avy</title>
+    <link href="https://github.com/abo-abo/avy" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Jump to things in Emacs tree-style</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1748476800</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bbatsov/projectile#1748476800</id>
+    <title>https://github.com/bbatsov/projectile</title>
+    <link href="https://github.com/bbatsov/projectile" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Project Interaction Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chep/copilot-chat.el#1748476800</id>
+    <title>https://github.com/chep/copilot-chat.el</title>
+    <link href="https://github.com/chep/copilot-chat.el" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Chat with Github copilot in Emacs !</content>
+  </entry>
+  <entry>
+    <id>https://github.com/company-mode/company-mode#1748476800</id>
+    <title>https://github.com/company-mode/company-mode</title>
+    <link href="https://github.com/company-mode/company-mode" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Modular in-buffer completion framework for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1748476800</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1748476800</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1748476800</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-php/php-mode#1748476800</id>
+    <title>https://github.com/emacs-php/php-mode</title>
+    <link href="https://github.com/emacs-php/php-mode" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">A powerful and flexible Emacs major mode for editing PHP scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-typescript/typescript.el#1748476800</id>
+    <title>https://github.com/emacs-typescript/typescript.el</title>
+    <link href="https://github.com/emacs-typescript/typescript.el" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">TypeScript-support for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flycheck/flycheck#1748476800</id>
+    <title>https://github.com/flycheck/flycheck</title>
+    <link href="https://github.com/flycheck/flycheck" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">On the fly syntax checking for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1748476800</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1748476800</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lizqwerscott/mcp.el#1748476800</id>
+    <title>https://github.com/lizqwerscott/mcp.el</title>
+    <link href="https://github.com/lizqwerscott/mcp.el" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">An Mcp client inside Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/dash.el#1748476800</id>
+    <title>https://github.com/magnars/dash.el</title>
+    <link href="https://github.com/magnars/dash.el" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">A modern list library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/multiple-cursors.el#1748476800</id>
+    <title>https://github.com/magnars/multiple-cursors.el</title>
+    <link href="https://github.com/magnars/multiple-cursors.el" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Multiple cursors for emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1748476800</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/package-lint#1748476800</id>
+    <title>https://github.com/purcell/package-lint</title>
+    <link href="https://github.com/purcell/package-lint" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">A linting library for elisp package metadata</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1748476800</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1748476800</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

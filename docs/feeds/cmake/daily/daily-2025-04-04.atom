@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SergiusTheBest/FindWDK#1743724800</id>
+    <title>https://github.com/SergiusTheBest/FindWDK</title>
+    <link href="https://github.com/SergiusTheBest/FindWDK" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">CMake module for building drivers with Windows Development Kit (WDK)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheLartians/PackageProject.cmake#1743724800</id>
+    <title>https://github.com/TheLartians/PackageProject.cmake</title>
+    <link href="https://github.com/TheLartians/PackageProject.cmake" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheRobotStudio/SO-ARM100#1743724800</id>
+    <title>https://github.com/TheRobotStudio/SO-ARM100</title>
+    <link href="https://github.com/TheRobotStudio/SO-ARM100" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Standard Open Arm 100</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ament/ament_cmake#1743724800</id>
+    <title>https://github.com/ament/ament_cmake</title>
+    <link href="https://github.com/ament/ament_cmake" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Supporting CMake packages for working with ament</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1743724800</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/corrosion-rs/corrosion#1743724800</id>
+    <title>https://github.com/corrosion-rs/corrosion</title>
+    <link href="https://github.com/corrosion-rs/corrosion" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Marrying Rust and CMake - Easy Rust and C/C++ Integration!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1743724800</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moveit/moveit_msgs#1743724800</id>
+    <title>https://github.com/moveit/moveit_msgs</title>
+    <link href="https://github.com/moveit/moveit_msgs" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">ROS messages used by MoveIt</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/kvproto#1743724800</id>
+    <title>https://github.com/pingcap/kvproto</title>
+    <link href="https://github.com/pingcap/kvproto" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Protocol buffer files for TiKV</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-planning/navigation_msgs#1743724800</id>
+    <title>https://github.com/ros-planning/navigation_msgs</title>
+    <link href="https://github.com/ros-planning/navigation_msgs" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Message packages required by the navigation stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ttroy50/cmake-examples#1743724800</id>
+    <title>https://github.com/ttroy50/cmake-examples</title>
+    <link href="https://github.com/ttroy50/cmake-examples" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Useful CMake Examples</content>
+  </entry>
+</feed>

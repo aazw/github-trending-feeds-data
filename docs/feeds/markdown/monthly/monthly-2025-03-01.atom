@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/markdown/monthly.atom</id>
+  <title>GitHub Trending - markdown (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/markdown/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/adambard/learnxinyminutes-docs#1740787200</id>
+    <title>https://github.com/adambard/learnxinyminutes-docs</title>
+    <link href="https://github.com/adambard/learnxinyminutes-docs" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Code documentation written as code! How novel and totally my idea!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/codecrafters-io/build-your-own-x#1740787200</id>
+    <title>https://github.com/codecrafters-io/build-your-own-x</title>
+    <link href="https://github.com/codecrafters-io/build-your-own-x" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Master programming by recreating your favorite technologies from scratch.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hetzneronline/community-content#1740787200</id>
+    <title>https://github.com/hetzneronline/community-content</title>
+    <link href="https://github.com/hetzneronline/community-content" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Hetzner Online Community Project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labuladong/fucking-algorithm#1740787200</id>
+    <title>https://github.com/labuladong/fucking-algorithm</title>
+    <link href="https://github.com/labuladong/fucking-algorithm" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.</content>
+  </entry>
+</feed>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CopilotC-Nvim/CopilotChat.nvim#1741996800</id>
+    <title>https://github.com/CopilotC-Nvim/CopilotChat.nvim</title>
+    <link href="https://github.com/CopilotC-Nvim/CopilotChat.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Chat with GitHub Copilot in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.nvim#1741996800</id>
+    <title>https://github.com/Exafunction/codeium.nvim</title>
+    <link href="https://github.com/Exafunction/codeium.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A native neovim extension for Codeium</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1741996800</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LuaLS/lua-language-server#1741996800</id>
+    <title>https://github.com/LuaLS/lua-language-server</title>
+    <link href="https://github.com/LuaLS/lua-language-server" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A language server that offers Lua language support - programmed in Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NeogitOrg/neogit#1741996800</id>
+    <title>https://github.com/NeogitOrg/neogit</title>
+    <link href="https://github.com/NeogitOrg/neogit" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">An interactive and powerful Git interface for Neovim, inspired by Magit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akinsho/toggleterm.nvim#1741996800</id>
+    <title>https://github.com/akinsho/toggleterm.nvim</title>
+    <link href="https://github.com/akinsho/toggleterm.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A neovim lua plugin to help easily manage multiple terminal windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/apisix#1741996800</id>
+    <title>https://github.com/apache/apisix</title>
+    <link href="https://github.com/apache/apisix" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">The Cloud-Native API Gateway and AI Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beyond-all-reason/Beyond-All-Reason#1741996800</id>
+    <title>https://github.com/beyond-all-reason/Beyond-All-Reason</title>
+    <link href="https://github.com/beyond-all-reason/Beyond-All-Reason" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Main game repository for Beyond All Reason.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hrsh7th/nvim-cmp#1741996800</id>
+    <title>https://github.com/hrsh7th/nvim-cmp</title>
+    <link href="https://github.com/hrsh7th/nvim-cmp" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A completion plugin for neovim coded in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibhagwan/fzf-lua#1741996800</id>
+    <title>https://github.com/ibhagwan/fzf-lua</title>
+    <link href="https://github.com/ibhagwan/fzf-lua" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Improved fzf.vim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kylechui/nvim-surround#1741996800</id>
+    <title>https://github.com/kylechui/nvim-surround</title>
+    <link href="https://github.com/kylechui/nvim-surround" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lewis6991/gitsigns.nvim#1741996800</id>
+    <title>https://github.com/lewis6991/gitsigns.nvim</title>
+    <link href="https://github.com/lewis6991/gitsigns.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Git integration for buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1741996800</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/numToStr/Comment.nvim#1741996800</id>
+    <title>https://github.com/numToStr/Comment.nvim</title>
+    <link href="https://github.com/numToStr/Comment.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">🧠 💪 // Smart and powerful comment plugin for neovim. Supports treesitter, dot repeat, left-right/up-down motions, hooks, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1741996800</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lualine/lualine.nvim#1741996800</id>
+    <title>https://github.com/nvim-lualine/lualine.nvim</title>
+    <link href="https://github.com/nvim-lualine/lualine.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A blazing fast and easy to configure neovim statusline plugin written in pure lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-telescope/telescope.nvim#1741996800</id>
+    <title>https://github.com/nvim-telescope/telescope.nvim</title>
+    <link href="https://github.com/nvim-telescope/telescope.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Find, Filter, Preview, Pick. All lua, all the time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-tree/nvim-web-devicons#1741996800</id>
+    <title>https://github.com/nvim-tree/nvim-web-devicons</title>
+    <link href="https://github.com/nvim-tree/nvim-web-devicons" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Provides Nerd Font icons (glyphs) for use by neovim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentibiabr/canary#1741996800</id>
+    <title>https://github.com/opentibiabr/canary</title>
+    <link href="https://github.com/opentibiabr/canary" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Canary Server 13.x for OpenTibia community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phillipi/pix2pix#1741996800</id>
+    <title>https://github.com/phillipi/pix2pix</title>
+    <link href="https://github.com/phillipi/pix2pix" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Image-to-image translation with conditional adversarial nets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sindrets/diffview.nvim#1741996800</id>
+    <title>https://github.com/sindrets/diffview.nvim</title>
+    <link href="https://github.com/sindrets/diffview.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Single tabpage interface for easily cycling through diffs for all modified files for any git rev.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1741996800</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

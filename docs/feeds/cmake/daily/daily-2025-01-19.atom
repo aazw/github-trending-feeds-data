@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cpm-cmake/CPM.cmake#1737244800</id>
+    <title>https://github.com/cpm-cmake/CPM.cmake</title>
+    <link href="https://github.com/cpm-cmake/CPM.cmake" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/boostorg/cmake#1737244800</id>
+    <title>https://github.com/boostorg/cmake</title>
+    <link href="https://github.com/boostorg/cmake" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">CMake support infrastructure Boost submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1737244800</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1737244800</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PX4/px4_msgs#1737244800</id>
+    <title>https://github.com/PX4/px4_msgs</title>
+    <link href="https://github.com/PX4/px4_msgs" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">ROS/ROS2 messages that match the uORB messages counterparts on the PX4 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shinchiro/mpv-winbuild-cmake#1737244800</id>
+    <title>https://github.com/shinchiro/mpv-winbuild-cmake</title>
+    <link href="https://github.com/shinchiro/mpv-winbuild-cmake" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">CMake-based MinGW-w64 Cross Toolchain</content>
+  </entry>
+</feed>

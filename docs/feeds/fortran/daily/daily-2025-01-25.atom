@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GEOS-ESM/MAPL#1737763200</id>
+    <title>https://github.com/GEOS-ESM/MAPL</title>
+    <link href="https://github.com/GEOS-ESM/MAPL" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaPackaging/Yggdrasil#1737763200</id>
+    <title>https://github.com/JuliaPackaging/Yggdrasil</title>
+    <link href="https://github.com/JuliaPackaging/Yggdrasil" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Collection of builder repositories for BinaryBuilder.jl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cp2k/cp2k#1737763200</id>
+    <title>https://github.com/cp2k/cp2k</title>
+    <link href="https://github.com/cp2k/cp2k" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Quantum chemistry and solid state physics software package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1737763200</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firemodels/fds#1737763200</id>
+    <title>https://github.com/firemodels/fds</title>
+    <link href="https://github.com/firemodels/fds" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Fire Dynamics Simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1737763200</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+</feed>

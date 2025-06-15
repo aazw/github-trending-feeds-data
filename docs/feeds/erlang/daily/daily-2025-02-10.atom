@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aeternity/aeternity#1739145600</id>
+    <title>https://github.com/aeternity/aeternity</title>
+    <link href="https://github.com/aeternity/aeternity" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">æternity blockchain - scalable blockchain for the people - smart contracts, state channels, names, tokens</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/couchdb#1739145600</id>
+    <title>https://github.com/apache/couchdb</title>
+    <link href="https://github.com/apache/couchdb" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chef/chef-server#1739145600</id>
+    <title>https://github.com/chef/chef-server</title>
+    <link href="https://github.com/chef/chef-server" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Chef Infra Server is a hub for configuration data; storing cookbooks, node policies and metadata of managed nodes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1739145600</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epgsql/epgsql#1739145600</id>
+    <title>https://github.com/epgsql/epgsql</title>
+    <link href="https://github.com/epgsql/epgsql" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Erlang PostgreSQL client library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1739145600</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-ls/erlang_ls#1739145600</id>
+    <title>https://github.com/erlang-ls/erlang_ls</title>
+    <link href="https://github.com/erlang-ls/erlang_ls" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">The Erlang Language Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1739145600</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/rebar3#1739145600</id>
+    <title>https://github.com/erlang/rebar3</title>
+    <link href="https://github.com/erlang/rebar3" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Erlang build tool that makes it easy to compile and test Erlang applications and releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josefs/Gradualizer#1739145600</id>
+    <title>https://github.com/josefs/Gradualizer</title>
+    <link href="https://github.com/josefs/Gradualizer" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A Gradual type system for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1739145600</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1739145600</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1739145600</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/processone/ejabberd#1739145600</id>
+    <title>https://github.com/processone/ejabberd</title>
+    <link href="https://github.com/processone/ejabberd" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1739145600</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uwiger/gproc#1739145600</id>
+    <title>https://github.com/uwiger/gproc</title>
+    <link href="https://github.com/uwiger/gproc" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Extended process registry for Erlang</content>
+  </entry>
+</feed>

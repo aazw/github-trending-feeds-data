@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom</id>
+  <title>GitHub Trending - smarty (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aenix-io/cozystack#1737244800</id>
+    <title>https://github.com/aenix-io/cozystack</title>
+    <link href="https://github.com/aenix-io/cozystack" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1737244800</id>
+    <title>https://github.com/truecharts/public</title>
+    <link href="https://github.com/truecharts/public" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Community Helm Chart Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mongodb/helm-charts#1737244800</id>
+    <title>https://github.com/mongodb/helm-charts</title>
+    <link href="https://github.com/mongodb/helm-charts" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k8s-monitoring-helm#1737244800</id>
+    <title>https://github.com/grafana/k8s-monitoring-helm</title>
+    <link href="https://github.com/grafana/k8s-monitoring-helm" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/sysdiglabs/charts#1737244800</id>
+    <title>https://github.com/sysdiglabs/charts</title>
+    <link href="https://github.com/sysdiglabs/charts" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">The official source for Sysdig’s Helm charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sidpalas/devops-directive-kubernetes-course#1737244800</id>
+    <title>https://github.com/sidpalas/devops-directive-kubernetes-course</title>
+    <link href="https://github.com/sidpalas/devops-directive-kubernetes-course" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CrowdStrike/falcon-helm#1737244800</id>
+    <title>https://github.com/CrowdStrike/falcon-helm</title>
+    <link href="https://github.com/CrowdStrike/falcon-helm" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Helm Charts for running CrowdStrike Falcon with Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truenas/charts#1737244800</id>
+    <title>https://github.com/truenas/charts</title>
+    <link href="https://github.com/truenas/charts" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">TrueNAS SCALE Apps Catalogs &amp; Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/community-charts/helm-charts#1737244800</id>
+    <title>https://github.com/community-charts/helm-charts</title>
+    <link href="https://github.com/community-charts/helm-charts" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Community Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextcloud/helm#1737244800</id>
+    <title>https://github.com/nextcloud/helm</title>
+    <link href="https://github.com/nextcloud/helm" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">A community maintained helm chart for deploying Nextcloud on Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wiz-sec/charts#1737244800</id>
+    <title>https://github.com/wiz-sec/charts</title>
+    <link href="https://github.com/wiz-sec/charts" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-helm-charts#1737244800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-helm-charts</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-helm-charts" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">OpenTelemetry Helm Charts</content>
+  </entry>
+</feed>

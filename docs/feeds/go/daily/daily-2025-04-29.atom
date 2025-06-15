@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/datadog-agent#1745884800</id>
+    <title>https://github.com/DataDog/datadog-agent</title>
+    <link href="https://github.com/DataDog/datadog-agent" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Main repository for Datadog Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/kubectl-ai#1745884800</id>
+    <title>https://github.com/GoogleCloudPlatform/kubectl-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/kubectl-ai" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">AI powered Kubernetes Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1745884800</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1745884800</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tencent/AI-Infra-Guard#1745884800</id>
+    <title>https://github.com/Tencent/AI-Infra-Guard</title>
+    <link href="https://github.com/Tencent/AI-Infra-Guard" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beego/beego#1745884800</id>
+    <title>https://github.com/beego/beego</title>
+    <link href="https://github.com/beego/beego" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">beego is an open-source, high-performance web framework for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytedance/sonic#1745884800</id>
+    <title>https://github.com/bytedance/sonic</title>
+    <link href="https://github.com/bytedance/sonic" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">A blazingly fast JSON serializing &amp; deserializing library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/compose#1745884800</id>
+    <title>https://github.com/docker/compose</title>
+    <link href="https://github.com/docker/compose" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Define and run multi-container applications with Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ehang-io/nps#1745884800</id>
+    <title>https://github.com/ehang-io/nps</title>
+    <link href="https://github.com/ehang-io/nps" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goccy/go-yaml#1745884800</id>
+    <title>https://github.com/goccy/go-yaml</title>
+    <link href="https://github.com/goccy/go-yaml" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">YAML support for the Go language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1745884800</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kustomize#1745884800</id>
+    <title>https://github.com/kubernetes-sigs/kustomize</title>
+    <link href="https://github.com/kubernetes-sigs/kustomize" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Customization of kubernetes YAML configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1745884800</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikefarah/yq#1745884800</id>
+    <title>https://github.com/mikefarah/yq</title>
+    <link href="https://github.com/mikefarah/yq" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1745884800</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1745884800</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1745884800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencontainers/runc#1745884800</id>
+    <title>https://github.com/opencontainers/runc</title>
+    <link href="https://github.com/opencontainers/runc" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">CLI tool for spawning and running containers according to the OCI specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plandex-ai/plandex#1745884800</id>
+    <title>https://github.com/plandex-ai/plandex</title>
+    <link href="https://github.com/plandex-ai/plandex" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Open source AI coding agent. Designed for large projects and real world tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semaphoreui/semaphore#1745884800</id>
+    <title>https://github.com/semaphoreui/semaphore</title>
+    <link href="https://github.com/semaphoreui/semaphore" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1745884800</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-04-29T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+</feed>

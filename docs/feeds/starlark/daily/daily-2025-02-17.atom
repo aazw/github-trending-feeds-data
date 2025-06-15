@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom</id>
+  <title>GitHub Trending - starlark (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/distroless#1739750400</id>
+    <title>https://github.com/GoogleContainerTools/distroless</title>
+    <link href="https://github.com/GoogleContainerTools/distroless" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aspect-build/rules_ts#1739750400</id>
+    <title>https://github.com/aspect-build/rules_ts</title>
+    <link href="https://github.com/aspect-build/rules_ts" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Bazel rules for the `tsc` compiler from http://typescriptlang.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/rules_foreign_cc#1739750400</id>
+    <title>https://github.com/bazel-contrib/rules_foreign_cc</title>
+    <link href="https://github.com/bazel-contrib/rules_foreign_cc" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/apple_support#1739750400</id>
+    <title>https://github.com/bazelbuild/apple_support</title>
+    <link href="https://github.com/bazelbuild/apple_support" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Apple support for Bazel rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-central-registry#1739750400</id>
+    <title>https://github.com/bazelbuild/bazel-central-registry</title>
+    <link href="https://github.com/bazelbuild/bazel-central-registry" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">The central registry of Bazel modules for the Bzlmod external dependency system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-skylib#1739750400</id>
+    <title>https://github.com/bazelbuild/bazel-skylib</title>
+    <link href="https://github.com/bazelbuild/bazel-skylib" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Common useful functions and rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_appengine#1739750400</id>
+    <title>https://github.com/bazelbuild/rules_appengine</title>
+    <link href="https://github.com/bazelbuild/rules_appengine" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">AppEngine rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_proto#1739750400</id>
+    <title>https://github.com/bazelbuild/rules_proto</title>
+    <link href="https://github.com/bazelbuild/rules_proto" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Protocol buffer rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_rust#1739750400</id>
+    <title>https://github.com/bazelbuild/rules_rust</title>
+    <link href="https://github.com/bazelbuild/rules_rust" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Rust rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethpandaops/optimism-package#1739750400</id>
+    <title>https://github.com/ethpandaops/optimism-package</title>
+    <link href="https://github.com/ethpandaops/optimism-package" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A kurtosis package for deploying an optimistic rollup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/api-common-protos#1739750400</id>
+    <title>https://github.com/googleapis/api-common-protos</title>
+    <link href="https://github.com/googleapis/api-common-protos" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A standard library for use in specifying protocol buffer APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jvolkman/rules_pycross#1739750400</id>
+    <title>https://github.com/jvolkman/rules_pycross</title>
+    <link href="https://github.com/jvolkman/rules_pycross" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Bazel + Python rules for cross-platform external dependencies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sgammon/rules_graalvm#1739750400</id>
+    <title>https://github.com/sgammon/rules_graalvm</title>
+    <link href="https://github.com/sgammon/rules_graalvm" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Build GraalVM native binaries with Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidbyt/community#1739750400</id>
+    <title>https://github.com/tidbyt/community</title>
+    <link href="https://github.com/tidbyt/community" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A publishing platform for apps developed by the Tidbyt community 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tilt-dev/tilt-extensions#1739750400</id>
+    <title>https://github.com/tilt-dev/tilt-extensions</title>
+    <link href="https://github.com/tilt-dev/tilt-extensions" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Extensions for Tilt</content>
+  </entry>
+</feed>

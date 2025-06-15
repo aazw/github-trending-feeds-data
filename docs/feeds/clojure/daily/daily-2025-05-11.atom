@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom</id>
+  <title>GitHub Trending - clojure (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/logseq/logseq#1746921600</id>
+    <title>https://github.com/logseq/logseq</title>
+    <link href="https://github.com/logseq/logseq" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextjournal/clerk#1746921600</id>
+    <title>https://github.com/nextjournal/clerk</title>
+    <link href="https://github.com/nextjournal/clerk" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">⚡️ Moldable Live Programming for Clojure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/penpot/penpot#1746921600</id>
+    <title>https://github.com/penpot/penpot</title>
+    <link href="https://github.com/penpot/penpot" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Penpot: The open-source design tool for design and code collaboration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tonsky/FiraCode#1746921600</id>
+    <title>https://github.com/tonsky/FiraCode</title>
+    <link href="https://github.com/tonsky/FiraCode" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Free monospaced font with programming ligatures</content>
+  </entry>
+</feed>

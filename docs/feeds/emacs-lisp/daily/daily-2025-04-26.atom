@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Fanael/rainbow-delimiters#1745625600</id>
+    <title>https://github.com/Fanael/rainbow-delimiters</title>
+    <link href="https://github.com/Fanael/rainbow-delimiters" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">Emacs rainbow delimiters mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/elisp-refs#1745625600</id>
+    <title>https://github.com/Wilfred/elisp-refs</title>
+    <link href="https://github.com/Wilfred/elisp-refs" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">semantic code search for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ahyatt/emacs-websocket#1745625600</id>
+    <title>https://github.com/ahyatt/emacs-websocket</title>
+    <link href="https://github.com/ahyatt/emacs-websocket" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">A websocket implementation in elisp, for emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphapapa/org-ql#1745625600</id>
+    <title>https://github.com/alphapapa/org-ql</title>
+    <link href="https://github.com/alphapapa/org-ql" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ardumont/markdown-toc#1745625600</id>
+    <title>https://github.com/ardumont/markdown-toc</title>
+    <link href="https://github.com/ardumont/markdown-toc" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">Generate a TOC in markdown file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bbatsov/prelude#1745625600</id>
+    <title>https://github.com/bbatsov/prelude</title>
+    <link href="https://github.com/bbatsov/prelude" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">Prelude is an enhanced Emacs 25.1+ distribution that should make your experience with Emacs both more pleasant and more powerful.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clojure-emacs/cider#1745625600</id>
+    <title>https://github.com/clojure-emacs/cider</title>
+    <link href="https://github.com/clojure-emacs/cider" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">The Clojure Interactive Development Environment that Rocks for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1745625600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dimitri/el-get#1745625600</id>
+    <title>https://github.com/dimitri/el-get</title>
+    <link href="https://github.com/dimitri/el-get" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">Manage the external elisp bits and pieces upon which you depend!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1745625600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil-collection#1745625600</id>
+    <title>https://github.com/emacs-evil/evil-collection</title>
+    <link href="https://github.com/emacs-evil/evil-collection" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">A set of keybindings for evil-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/eglot#1745625600</id>
+    <title>https://github.com/joaotavora/eglot</title>
+    <link href="https://github.com/joaotavora/eglot" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">A client for Language Server Protocol servers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justbur/emacs-which-key#1745625600</id>
+    <title>https://github.com/justbur/emacs-which-key</title>
+    <link href="https://github.com/justbur/emacs-which-key" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">Emacs package that displays available keybindings in popup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1745625600</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1745625600</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1745625600</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yoshiki/yaml-mode#1745625600</id>
+    <title>https://github.com/yoshiki/yaml-mode</title>
+    <link href="https://github.com/yoshiki/yaml-mode" />
+    <updated>2025-04-26T00:00:00</updated>
+    <content type="text">The emacs major mode for editing files in the YAML data serialization format.</content>
+  </entry>
+</feed>

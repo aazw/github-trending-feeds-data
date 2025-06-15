@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Trending - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndrewRadev/splitjoin.vim#1749427200</id>
+    <title>https://github.com/AndrewRadev/splitjoin.vim</title>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Switch between single-line and multiline forms of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aklt/plantuml-syntax#1749427200</id>
+    <title>https://github.com/aklt/plantuml-syntax</title>
+    <link href="https://github.com/aklt/plantuml-syntax" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">vim syntax file for plantuml</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1749427200</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/andymass/vim-matchup#1749427200</id>
+    <title>https://github.com/andymass/vim-matchup</title>
+    <link href="https://github.com/andymass/vim-matchup" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1749427200</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1749427200</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1749427200</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jlanzarotta/bufexplorer#1749427200</id>
+    <title>https://github.com/jlanzarotta/bufexplorer</title>
+    <link href="https://github.com/jlanzarotta/bufexplorer" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">BufExplorer Plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-ui#1749427200</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-ui</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Simple UI for https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kshenoy/vim-signature#1749427200</id>
+    <title>https://github.com/kshenoy/vim-signature</title>
+    <link href="https://github.com/kshenoy/vim-signature" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Plugin to toggle, display and navigate marks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lambdalisue/vim-fern#1749427200</id>
+    <title>https://github.com/lambdalisue/vim-fern</title>
+    <link href="https://github.com/lambdalisue/vim-fern" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🌿 General purpose asynchronous tree viewer written in Pure Vim script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1749427200</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1749427200</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/tagbar#1749427200</id>
+    <title>https://github.com/preservim/tagbar</title>
+    <link href="https://github.com/preservim/tagbar" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Vim plugin that displays tags in a window, ordered by scope</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1749427200</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1749427200</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomasr/molokai#1749427200</id>
+    <title>https://github.com/tomasr/molokai</title>
+    <link href="https://github.com/tomasr/molokai" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Molokai color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1749427200</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1749427200</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1749427200</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wellle/targets.vim#1749427200</id>
+    <title>https://github.com/wellle/targets.vim</title>
+    <link href="https://github.com/wellle/targets.vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Vim plugin that provides additional text objects</content>
+  </entry>
+</feed>

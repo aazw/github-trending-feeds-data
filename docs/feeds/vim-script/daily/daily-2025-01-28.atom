@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ap/vim-css-color#1738022400</id>
+    <title>https://github.com/ap/vim-css-color</title>
+    <link href="https://github.com/ap/vim-css-color" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Preview colours in source code while editing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dpelle/vim-LanguageTool#1738022400</id>
+    <title>https://github.com/dpelle/vim-LanguageTool</title>
+    <link href="https://github.com/dpelle/vim-LanguageTool" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A vim plugin for the LanguageTool grammar checker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/easymotion/vim-easymotion#1738022400</id>
+    <title>https://github.com/easymotion/vim-easymotion</title>
+    <link href="https://github.com/easymotion/vim-easymotion" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Vim motions on speed!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joshdick/onedark.vim#1738022400</id>
+    <title>https://github.com/joshdick/onedark.vim</title>
+    <link href="https://github.com/joshdick/onedark.vim" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1738022400</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-easy-align#1738022400</id>
+    <title>https://github.com/junegunn/vim-easy-align</title>
+    <link href="https://github.com/junegunn/vim-easy-align" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">🌻 A Vim alignment plugin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1738022400</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-signify#1738022400</id>
+    <title>https://github.com/mhinz/vim-signify</title>
+    <link href="https://github.com/mhinz/vim-signify" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">➕ Show a diff using Vim its sign column.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-startify#1738022400</id>
+    <title>https://github.com/mhinz/vim-startify</title>
+    <link href="https://github.com/mhinz/vim-startify" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">🔗 The fancy start screen for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1738022400</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vim-indent-guides#1738022400</id>
+    <title>https://github.com/preservim/vim-indent-guides</title>
+    <link href="https://github.com/preservim/vim-indent-guides" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A Vim plugin for visually displaying indent levels in code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-markdown#1738022400</id>
+    <title>https://github.com/tpope/vim-markdown</title>
+    <link href="https://github.com/tpope/vim-markdown" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Vim Markdown runtime files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1738022400</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline-themes#1738022400</id>
+    <title>https://github.com/vim-airline/vim-airline-themes</title>
+    <link href="https://github.com/vim-airline/vim-airline-themes" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A collection of themes for vim-airline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1738022400</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wellle/targets.vim#1738022400</id>
+    <title>https://github.com/wellle/targets.vim</title>
+    <link href="https://github.com/wellle/targets.vim" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Vim plugin that provides additional text objects</content>
+  </entry>
+</feed>

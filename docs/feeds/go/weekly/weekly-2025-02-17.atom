@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1739750400</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1739750400</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1739750400</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1739750400</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coreybutler/nvm-windows#1739750400</id>
+    <title>https://github.com/coreybutler/nvm-windows</title>
+    <link href="https://github.com/coreybutler/nvm-windows" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A node.js version management utility for Windows. Ironically written in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1739750400</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastenhealth/fasten-onprem#1739750400</id>
+    <title>https://github.com/fastenhealth/fasten-onprem</title>
+    <link href="https://github.com/fastenhealth/fasten-onprem" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Fasten is an open-source, self-hosted, personal/family electronic medical record aggregator, designed to integrate with 100,000's of insurances/hospitals/clinics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1739750400</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-kratos/kratos#1739750400</id>
+    <title>https://github.com/go-kratos/kratos</title>
+    <link href="https://github.com/go-kratos/kratos" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Your ultimate Go microservices framework for the cloud-native era.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1739750400</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1739750400</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1739750400</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/devpod#1739750400</id>
+    <title>https://github.com/loft-sh/devpod</title>
+    <link href="https://github.com/loft-sh/devpod" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1739750400</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/tidb#1739750400</id>
+    <title>https://github.com/pingcap/tidb</title>
+    <link href="https://github.com/pingcap/tidb" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pressly/goose#1739750400</id>
+    <title>https://github.com/pressly/goose</title>
+    <link href="https://github.com/pressly/goose" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A database migration tool. Supports SQL migrations and Go functions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ray-project/kuberay#1739750400</id>
+    <title>https://github.com/ray-project/kuberay</title>
+    <link href="https://github.com/ray-project/kuberay" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A toolkit to run Ray applications on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/go-redis#1739750400</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Redis Go client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sashabaranov/go-openai#1739750400</id>
+    <title>https://github.com/sashabaranov/go-openai</title>
+    <link href="https://github.com/sashabaranov/go-openai" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swaggo/swag#1739750400</id>
+    <title>https://github.com/swaggo/swag</title>
+    <link href="https://github.com/swaggo/swag" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Automatically generate RESTful API documentation with Swagger 2.0 for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/v2fly/v2ray-core#1739750400</id>
+    <title>https://github.com/v2fly/v2ray-core</title>
+    <link href="https://github.com/v2fly/v2ray-core" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">A platform for building proxies to bypass network restrictions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vitessio/vitess#1739750400</id>
+    <title>https://github.com/vitessio/vitess</title>
+    <link href="https://github.com/vitessio/vitess" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Vitess is a database clustering system for horizontal scaling of MySQL.</content>
+  </entry>
+</feed>

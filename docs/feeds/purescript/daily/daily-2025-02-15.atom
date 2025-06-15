@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/purescript/daily.atom</id>
+  <title>GitHub Trending - purescript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/purescript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nammayatri/nammayatri#1739577600</id>
+    <title>https://github.com/nammayatri/nammayatri</title>
+    <link href="https://github.com/nammayatri/nammayatri" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A Direct-to-Driver open mobility platform powering the next-generation of mobility applications in India.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-free#1739577600</id>
+    <title>https://github.com/purescript/purescript-free</title>
+    <link href="https://github.com/purescript/purescript-free" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Free monads, Cofree comonads, Yoneda and Coyoneda functors, and the Trampoline monad.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-lists#1739577600</id>
+    <title>https://github.com/purescript/purescript-lists</title>
+    <link href="https://github.com/purescript/purescript-lists" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Linked Lists</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-profunctor#1739577600</id>
+    <title>https://github.com/purescript/purescript-profunctor</title>
+    <link href="https://github.com/purescript/purescript-profunctor" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Profunctor type classes and data structures</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-transformers#1739577600</id>
+    <title>https://github.com/purescript/purescript-transformers</title>
+    <link href="https://github.com/purescript/purescript-transformers" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Monad and comonad transformers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript-typelevel-prelude#1739577600</id>
+    <title>https://github.com/purescript/purescript-typelevel-prelude</title>
+    <link href="https://github.com/purescript/purescript-typelevel-prelude" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Types and kinds for basic type-level programming</content>
+  </entry>
+</feed>

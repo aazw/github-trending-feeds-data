@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CopilotC-Nvim/CopilotChat.nvim#1740009600</id>
+    <title>https://github.com/CopilotC-Nvim/CopilotChat.nvim</title>
+    <link href="https://github.com/CopilotC-Nvim/CopilotChat.nvim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Chat with GitHub Copilot in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/L3MON4D3/LuaSnip#1740009600</id>
+    <title>https://github.com/L3MON4D3/LuaSnip</title>
+    <link href="https://github.com/L3MON4D3/LuaSnip" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Snippet Engine for Neovim written in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PathOfBuildingCommunity/PathOfBuilding#1740009600</id>
+    <title>https://github.com/PathOfBuildingCommunity/PathOfBuilding</title>
+    <link href="https://github.com/PathOfBuildingCommunity/PathOfBuilding" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Offline build planner for Path of Exile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1740009600</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThePrimeagen/refactoring.nvim#1740009600</id>
+    <title>https://github.com/ThePrimeagen/refactoring.nvim</title>
+    <link href="https://github.com/ThePrimeagen/refactoring.nvim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The Refactoring library based off the Refactoring book by Martin Fowler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/apisix#1740009600</id>
+    <title>https://github.com/apache/apisix</title>
+    <link href="https://github.com/apache/apisix" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The Cloud-Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danymat/neogen#1740009600</id>
+    <title>https://github.com/danymat/neogen</title>
+    <link href="https://github.com/danymat/neogen" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A better annotation generator. Supports multiple languages and annotation conventions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1740009600</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/snacks.nvim#1740009600</id>
+    <title>https://github.com/folke/snacks.nvim</title>
+    <link href="https://github.com/folke/snacks.nvim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">🍿 A collection of QoL plugins for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1740009600</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iDvel/rime-ice#1740009600</id>
+    <title>https://github.com/iDvel/rime-ice</title>
+    <link href="https://github.com/iDvel/rime-ice" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Rime 配置：雾凇拼音 | 长期维护的简体词库</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linkease/istore#1740009600</id>
+    <title>https://github.com/linkease/istore</title>
+    <link href="https://github.com/linkease/istore" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-lint#1740009600</id>
+    <title>https://github.com/mfussenegger/nvim-lint</title>
+    <link href="https://github.com/mfussenegger/nvim-lint" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1740009600</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1740009600</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pwntester/octo.nvim#1740009600</id>
+    <title>https://github.com/pwntester/octo.nvim</title>
+    <link href="https://github.com/pwntester/octo.nvim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Edit and review GitHub issues and pull requests from the comfort of your favorite editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/saecki/crates.nvim#1740009600</id>
+    <title>https://github.com/saecki/crates.nvim</title>
+    <link href="https://github.com/saecki/crates.nvim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A neovim plugin that helps managing crates.io dependencies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/windwp/nvim-ts-autotag#1740009600</id>
+    <title>https://github.com/windwp/nvim-ts-autotag</title>
+    <link href="https://github.com/windwp/nvim-ts-autotag" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Use treesitter to auto close and auto rename html tag</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmake-io/xmake#1740009600</id>
+    <title>https://github.com/xmake-io/xmake</title>
+    <link href="https://github.com/xmake-io/xmake" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">🔥 A cross-platform build utility based on Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1740009600</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

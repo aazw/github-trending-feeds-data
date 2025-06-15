@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-29T11:14:57+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/qdm12/gluetun#1735470897</id>
+    <title>https://github.com/qdm12/gluetun</title>
+    <link href="https://github.com/qdm12/gluetun" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdm12/ddns-updater#1735470897</id>
+    <title>https://github.com/qdm12/ddns-updater</title>
+    <link href="https://github.com/qdm12/ddns-updater" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Container to update DNS records periodically with WebUI for many DNS providers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AnalogJ/scrutiny#1735470897</id>
+    <title>https://github.com/AnalogJ/scrutiny</title>
+    <link href="https://github.com/AnalogJ/scrutiny" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Hard Drive S.M.A.R.T Monitoring, Historical Trends &amp; Real World Failure Thresholds</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1735470897</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autobrr/autobrr#1735470897</id>
+    <title>https://github.com/autobrr/autobrr</title>
+    <link href="https://github.com/autobrr/autobrr" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Modern, easy to use download automation for torrents and usenet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sundowndev/phoneinfoga#1735470897</id>
+    <title>https://github.com/sundowndev/phoneinfoga</title>
+    <link href="https://github.com/sundowndev/phoneinfoga" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Information gathering framework for phone numbers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1735470897</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1735470897</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flyteorg/flyte#1735470897</id>
+    <title>https://github.com/flyteorg/flyte</title>
+    <link href="https://github.com/flyteorg/flyte" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Scalable and flexible workflow orchestration platform that seamlessly unifies data, ML and analytics stacks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/subfinder#1735470897</id>
+    <title>https://github.com/projectdiscovery/subfinder</title>
+    <link href="https://github.com/projectdiscovery/subfinder" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Fast passive subdomain enumeration tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1735470897</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1735470897</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iam-veeramalla/observability-zero-to-hero#1735470897</id>
+    <title>https://github.com/iam-veeramalla/observability-zero-to-hero</title>
+    <link href="https://github.com/iam-veeramalla/observability-zero-to-hero" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Repo for learning observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/encoredev/encore#1735470897</id>
+    <title>https://github.com/encoredev/encore</title>
+    <link href="https://github.com/encoredev/encore" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Open Source Development Platform for building robust type-safe distributed systems with declarative infrastructure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prysmaticlabs/prysm#1735470897</id>
+    <title>https://github.com/prysmaticlabs/prysm</title>
+    <link href="https://github.com/prysmaticlabs/prysm" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Go implementation of Ethereum proof of stake</content>
+  </entry>
+  <entry>
+    <id>https://github.com/weaviate/weaviate#1735470897</id>
+    <title>https://github.com/weaviate/weaviate</title>
+    <link href="https://github.com/weaviate/weaviate" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/katana#1735470897</id>
+    <title>https://github.com/projectdiscovery/katana</title>
+    <link href="https://github.com/projectdiscovery/katana" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">A next-generation crawling and spidering framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1735470897</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FiloSottile/age#1735470897</id>
+    <title>https://github.com/FiloSottile/age</title>
+    <link href="https://github.com/FiloSottile/age" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cadence-workflow/cadence#1735470897</id>
+    <title>https://github.com/cadence-workflow/cadence</title>
+    <link href="https://github.com/cadence-workflow/cadence" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/a-h/templ#1735470897</id>
+    <title>https://github.com/a-h/templ</title>
+    <link href="https://github.com/a-h/templ" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">A language for writing HTML user interfaces in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1735470897</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1735470897</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2024-12-29T11:14:57+00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+</feed>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/koreader/koreader#1737331200</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1737331200</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PathOfBuildingCommunity/PathOfBuilding#1737331200</id>
+    <title>https://github.com/PathOfBuildingCommunity/PathOfBuilding</title>
+    <link href="https://github.com/PathOfBuildingCommunity/PathOfBuilding" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Offline build planner for Path of Exile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-lint#1737331200</id>
+    <title>https://github.com/mfussenegger/nvim-lint</title>
+    <link href="https://github.com/mfussenegger/nvim-lint" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/williamboman/mason.nvim#1737331200</id>
+    <title>https://github.com/williamboman/mason.nvim</title>
+    <link href="https://github.com/williamboman/mason.nvim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThePrimeagen/harpoon#1737331200</id>
+    <title>https://github.com/ThePrimeagen/harpoon</title>
+    <link href="https://github.com/ThePrimeagen/harpoon" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1737331200</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neorg/neorg#1737331200</id>
+    <title>https://github.com/nvim-neorg/neorg</title>
+    <link href="https://github.com/nvim-neorg/neorg" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Modernity meets insane extensibility. The future of organizing your life in Neovim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbyuki/one-small-step-for-vimkind#1737331200</id>
+    <title>https://github.com/jbyuki/one-small-step-for-vimkind</title>
+    <link href="https://github.com/jbyuki/one-small-step-for-vimkind" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Debug adapter for Neovim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/flash.nvim#1737331200</id>
+    <title>https://github.com/folke/flash.nvim</title>
+    <link href="https://github.com/folke/flash.nvim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Navigate your code with search labels, enhanced character motions and Treesitter integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1737331200</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rcarriga/nvim-dap-ui#1737331200</id>
+    <title>https://github.com/rcarriga/nvim-dap-ui</title>
+    <link href="https://github.com/rcarriga/nvim-dap-ui" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A UI for nvim-dap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josean-dev/dev-environment-files#1737331200</id>
+    <title>https://github.com/josean-dev/dev-environment-files</title>
+    <link href="https://github.com/josean-dev/dev-environment-files" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/norcalli/nvim-colorizer.lua#1737331200</id>
+    <title>https://github.com/norcalli/nvim-colorizer.lua</title>
+    <link href="https://github.com/norcalli/nvim-colorizer.lua" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The fastest Neovim colorizer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrcjkb/rustaceanvim#1737331200</id>
+    <title>https://github.com/mrcjkb/rustaceanvim</title>
+    <link href="https://github.com/mrcjkb/rustaceanvim" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
+  </entry>
+</feed>

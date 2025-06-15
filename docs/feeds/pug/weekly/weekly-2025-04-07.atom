@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pug/weekly.atom</id>
+  <title>GitHub Trending - pug (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pug/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-agency#1743984000</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-agency</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-agency" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">A one page HTML theme for agencies created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-resume#1743984000</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-resume</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-resume" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">A Bootstrap 4 resume/CV theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phonegap/phonegap-docs#1743984000</id>
+    <title>https://github.com/phonegap/phonegap-docs</title>
+    <link href="https://github.com/phonegap/phonegap-docs" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">PhoneGap Documentation</content>
+  </entry>
+</feed>

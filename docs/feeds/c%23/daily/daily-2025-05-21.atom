@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c%23/daily.atom</id>
+  <title>GitHub Trending - c%23 (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c%23/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk-for-net#1747785600</id>
+    <title>https://github.com/Azure/azure-sdk-for-net</title>
+    <link href="https://github.com/Azure/azure-sdk-for-net" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Cysharp/ZLinq#1747785600</id>
+    <title>https://github.com/Cysharp/ZLinq</title>
+    <link href="https://github.com/Cysharp/ZLinq" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DevToys-app/DevToys#1747785600</id>
+    <title>https://github.com/DevToys-app/DevToys</title>
+    <link href="https://github.com/DevToys-app/DevToys" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">A Swiss Army knife for developers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HangfireIO/Hangfire#1747785600</id>
+    <title>https://github.com/HangfireIO/Hangfire</title>
+    <link href="https://github.com/HangfireIO/Hangfire" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">An easy way to perform background job processing in .NET and .NET Core applications. No Windows Service or separate process required</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MessagePack-CSharp/MessagePack-CSharp#1747785600</id>
+    <title>https://github.com/MessagePack-CSharp/MessagePack-CSharp</title>
+    <link href="https://github.com/MessagePack-CSharp/MessagePack-CSharp" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abpframework/abp#1747785600</id>
+    <title>https://github.com/abpframework/abp</title>
+    <link href="https://github.com/abpframework/abp" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/runner#1747785600</id>
+    <title>https://github.com/actions/runner</title>
+    <link href="https://github.com/actions/runner" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">The Runner for GitHub Actions 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clawsoftware/clawPDF#1747785600</id>
+    <title>https://github.com/clawsoftware/clawPDF</title>
+    <link href="https://github.com/clawsoftware/clawPDF" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Open Source Virtual (Network) Printer for Windows that allows you to create PDFs, OCR text, and print images, with advanced features usually available only in enterprise solutions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/aspnetcore#1747785600</id>
+    <title>https://github.com/dotnet/aspnetcore</title>
+    <link href="https://github.com/dotnet/aspnetcore" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/maui#1747785600</id>
+    <title>https://github.com/dotnet/maui</title>
+    <link href="https://github.com/dotnet/maui" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/roslyn#1747785600</id>
+    <title>https://github.com/dotnet/roslyn</title>
+    <link href="https://github.com/dotnet/roslyn" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duplicati/duplicati#1747785600</id>
+    <title>https://github.com/duplicati/duplicati</title>
+    <link href="https://github.com/duplicati/duplicati" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Store securely encrypted backups in the cloud!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elsa-workflows/elsa-core#1747785600</id>
+    <title>https://github.com/elsa-workflows/elsa-core</title>
+    <link href="https://github.com/elsa-workflows/elsa-core" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">A .NET workflows library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huiyadanli/RevokeMsgPatcher#1747785600</id>
+    <title>https://github.com/huiyadanli/RevokeMsgPatcher</title>
+    <link href="https://github.com/huiyadanli/RevokeMsgPatcher" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）</content>
+  </entry>
+  <entry>
+    <id>https://github.com/icsharpcode/ILSpy#1747785600</id>
+    <title>https://github.com/icsharpcode/ILSpy</title>
+    <link href="https://github.com/icsharpcode/ILSpy" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">.NET Decompiler with support for PDB generation, ReadyToRun, Metadata (&amp;more) - cross-platform!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/Generative-AI-for-beginners-dotnet#1747785600</id>
+    <title>https://github.com/microsoft/Generative-AI-for-beginners-dotnet</title>
+    <link href="https://github.com/microsoft/Generative-AI-for-beginners-dotnet" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Five lessons, learn how to really apply AI to your .NET Applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/PowerToys#1747785600</id>
+    <title>https://github.com/microsoft/PowerToys</title>
+    <link href="https://github.com/microsoft/PowerToys" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Windows system utilities to maximize productivity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/perfview#1747785600</id>
+    <title>https://github.com/microsoft/perfview</title>
+    <link href="https://github.com/microsoft/perfview" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">PerfView is a CPU and memory performance-analysis tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/semantic-kernel#1747785600</id>
+    <title>https://github.com/microsoft/semantic-kernel</title>
+    <link href="https://github.com/microsoft/semantic-kernel" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Integrate cutting-edge LLM technology quickly and easily into your apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mob-sakai/UIEffect#1747785600</id>
+    <title>https://github.com/mob-sakai/UIEffect</title>
+    <link href="https://github.com/mob-sakai/UIEffect" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">UIEffect is an open-source package that allows you to intuitively apply rich UI effects directly from the Inspector or via code. Combine various filters, such as grayscale, blur, and dissolve, to decorate your UI with a unique visual style!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sourcegit-scm/sourcegit#1747785600</id>
+    <title>https://github.com/sourcegit-scm/sourcegit</title>
+    <link href="https://github.com/sourcegit-scm/sourcegit" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Windows/macOS/Linux GUI client for GIT users</content>
+  </entry>
+</feed>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-13T11:13:11+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/fortran-lang/stdlib#1736766791</id>
+    <title>https://github.com/fortran-lang/stdlib</title>
+    <link href="https://github.com/fortran-lang/stdlib" />
+    <updated>2025-01-13T11:13:11+00:00</updated>
+    <content type="text">Fortran Standard Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/E3SM-Project/E3SM#1736766791</id>
+    <title>https://github.com/E3SM-Project/E3SM</title>
+    <link href="https://github.com/E3SM-Project/E3SM" />
+    <updated>2025-01-13T11:13:11+00:00</updated>
+    <content type="text">Energy Exascale Earth System Model source code. NOTE: use "maint" branches for your work. Head of master is not validated.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Goddard-Fortran-Ecosystem/gFTL#1736766791</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/gFTL</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/gFTL" />
+    <updated>2025-01-13T11:13:11+00:00</updated>
+    <content type="text">Software containers for Fortran</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1736766791</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-01-13T11:13:11+00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom</id>
+  <title>GitHub Trending - ocaml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LPCIC/coq-elpi#1737849600</id>
+    <title>https://github.com/LPCIC/coq-elpi</title>
+    <link href="https://github.com/LPCIC/coq-elpi" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Coq plugin embedding elpi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chshersh/github-tui#1737849600</id>
+    <title>https://github.com/chshersh/github-tui</title>
+    <link href="https://github.com/chshersh/github-tui" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">🌒 A TUI for GitHub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cryspen/hax#1737849600</id>
+    <title>https://github.com/cryspen/hax</title>
+    <link href="https://github.com/cryspen/hax" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A Rust verification tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/infer#1737849600</id>
+    <title>https://github.com/facebook/infer</title>
+    <link href="https://github.com/facebook/infer" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A static analyzer for Java, C, C++, and Objective-C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocaml/flexdll#1737849600</id>
+    <title>https://github.com/ocaml/flexdll</title>
+    <link href="https://github.com/ocaml/flexdll" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">a dlopen-like API for Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocaml/ocaml#1737849600</id>
+    <title>https://github.com/ocaml/ocaml</title>
+    <link href="https://github.com/ocaml/ocaml" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">The core OCaml system: compilers, runtime system, base libraries</content>
+  </entry>
+</feed>

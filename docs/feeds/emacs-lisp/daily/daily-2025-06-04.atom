@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MatthewZMD/aidermacs#1748995200</id>
+    <title>https://github.com/MatthewZMD/aidermacs</title>
+    <link href="https://github.com/MatthewZMD/aidermacs" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">AI Pair Programming in Emacs with Aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphapapa/org-ql#1748995200</id>
+    <title>https://github.com/alphapapa/org-ql</title>
+    <link href="https://github.com/alphapapa/org-ql" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1748995200</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1748995200</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1748995200</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1748995200</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/treesit-fold#1748995200</id>
+    <title>https://github.com/emacs-tree-sitter/treesit-fold</title>
+    <link href="https://github.com/emacs-tree-sitter/treesit-fold" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Code folding using treesit.el</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/yasnippet#1748995200</id>
+    <title>https://github.com/joaotavora/yasnippet</title>
+    <link href="https://github.com/joaotavora/yasnippet" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">A template system for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1748995200</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lizqwerscott/mcp.el#1748995200</id>
+    <title>https://github.com/lizqwerscott/mcp.el</title>
+    <link href="https://github.com/lizqwerscott/mcp.el" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">An Mcp client inside Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mickeynp/combobulate#1748995200</id>
+    <title>https://github.com/mickeynp/combobulate</title>
+    <link href="https://github.com/mickeynp/combobulate" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Structured Editing and Navigation in Emacs with Tree-Sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/org-roam/org-roam#1748995200</id>
+    <title>https://github.com/org-roam/org-roam</title>
+    <link href="https://github.com/org-roam/org-roam" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Rudimentary Roam replica with Org-mode</content>
+  </entry>
+</feed>

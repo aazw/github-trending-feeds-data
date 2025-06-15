@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/css/daily.atom</id>
+  <title>GitHub Trending - css (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/css/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-10T11:10:40+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/picocss/pico#1736507440</id>
+    <title>https://github.com/picocss/pico</title>
+    <link href="https://github.com/picocss/pico" />
+    <updated>2025-01-10T11:10:40+00:00</updated>
+    <content type="text">Minimal CSS Framework for semantic HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simeydotme/pokemon-cards-css#1736507440</id>
+    <title>https://github.com/simeydotme/pokemon-cards-css</title>
+    <link href="https://github.com/simeydotme/pokemon-cards-css" />
+    <updated>2025-01-10T11:10:40+00:00</updated>
+    <content type="text">A collection of advanced CSS styles to create realistic-looking effects for the faces of Pokemon cards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/animate-css/animate.css#1736507440</id>
+    <title>https://github.com/animate-css/animate.css</title>
+    <link href="https://github.com/animate-css/animate.css" />
+    <updated>2025-01-10T11:10:40+00:00</updated>
+    <content type="text">🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/isocpp/CppCoreGuidelines#1736507440</id>
+    <title>https://github.com/isocpp/CppCoreGuidelines</title>
+    <link href="https://github.com/isocpp/CppCoreGuidelines" />
+    <updated>2025-01-10T11:10:40+00:00</updated>
+    <content type="text">The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PacktPublishing/Django-5-By-Example#1736507440</id>
+    <title>https://github.com/PacktPublishing/Django-5-By-Example</title>
+    <link href="https://github.com/PacktPublishing/Django-5-By-Example" />
+    <updated>2025-01-10T11:10:40+00:00</updated>
+    <content type="text">Django 5 By Example (5th Edition) published by Packt</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-petclinic#1736507440</id>
+    <title>https://github.com/spring-projects/spring-petclinic</title>
+    <link href="https://github.com/spring-projects/spring-petclinic" />
+    <updated>2025-01-10T11:10:40+00:00</updated>
+    <content type="text">A sample Spring-based application</content>
+  </entry>
+</feed>

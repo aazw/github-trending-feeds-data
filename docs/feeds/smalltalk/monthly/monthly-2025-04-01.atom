@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smalltalk/monthly.atom</id>
+  <title>GitHub Trending - smalltalk (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/j-brant/SmaCC#1743465600</id>
+    <title>https://github.com/j-brant/SmaCC</title>
+    <link href="https://github.com/j-brant/SmaCC" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/pharo-graphics/Bloc#1743465600</id>
+    <title>https://github.com/pharo-graphics/Bloc</title>
+    <link href="https://github.com/pharo-graphics/Bloc" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Low-level UI infrastructure &amp; framework for Pharo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pharo-graphics/Toplo#1743465600</id>
+    <title>https://github.com/pharo-graphics/Toplo</title>
+    <link href="https://github.com/pharo-graphics/Toplo" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A widget framework on top of Bloc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/svenvc/zinc#1743465600</id>
+    <title>https://github.com/svenvc/zinc</title>
+    <link href="https://github.com/svenvc/zinc" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Zinc HTTP Components is an open-source Smalltalk framework to deal with the HTTP networking protocol.</content>
+  </entry>
+</feed>

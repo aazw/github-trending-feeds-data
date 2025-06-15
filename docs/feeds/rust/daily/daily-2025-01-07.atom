@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-07T11:26:04+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/prefix-dev/pixi#1736249164</id>
+    <title>https://github.com/prefix-dev/pixi</title>
+    <link href="https://github.com/prefix-dev/pixi" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">Package management made easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sunface/rust-course#1736249164</id>
+    <title>https://github.com/sunface/rust-course</title>
+    <link href="https://github.com/sunface/rust-course" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">“连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1736249164</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-rust#1736249164</id>
+    <title>https://github.com/open-telemetry/opentelemetry-rust</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-rust" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">The Rust OpenTelemetry implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1736249164</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jito-foundation/jito-solana#1736249164</id>
+    <title>https://github.com/jito-foundation/jito-solana</title>
+    <link href="https://github.com/jito-foundation/jito-solana" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">Jito Foundation MEV Solana Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mufeedvh/code2prompt#1736249164</id>
+    <title>https://github.com/mufeedvh/code2prompt</title>
+    <link href="https://github.com/mufeedvh/code2prompt" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1736249164</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/windows-rs#1736249164</id>
+    <title>https://github.com/microsoft/windows-rs</title>
+    <link href="https://github.com/microsoft/windows-rs" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">Rust for Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1736249164</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1736249164</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1736249164</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juhaku/utoipa#1736249164</id>
+    <title>https://github.com/juhaku/utoipa</title>
+    <link href="https://github.com/juhaku/utoipa" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana-program-library#1736249164</id>
+    <title>https://github.com/solana-labs/solana-program-library</title>
+    <link href="https://github.com/solana-labs/solana-program-library" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">A collection of Solana programs maintained by Solana Labs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1736249164</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/mail-server#1736249164</id>
+    <title>https://github.com/stalwartlabs/mail-server</title>
+    <link href="https://github.com/stalwartlabs/mail-server" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/woodruffw/zizmor#1736249164</id>
+    <title>https://github.com/woodruffw/zizmor</title>
+    <link href="https://github.com/woodruffw/zizmor" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">A static analysis tool for GitHub Actions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Y2Z/monolith#1736249164</id>
+    <title>https://github.com/Y2Z/monolith</title>
+    <link href="https://github.com/Y2Z/monolith" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">⬛️ CLI tool for saving complete web pages as a single HTML file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loco-rs/loco#1736249164</id>
+    <title>https://github.com/loco-rs/loco</title>
+    <link href="https://github.com/loco-rs/loco" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">🚂 🦀 The one-person framework for Rust for side-projects and startups</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atuinsh/atuin#1736249164</id>
+    <title>https://github.com/atuinsh/atuin</title>
+    <link href="https://github.com/atuinsh/atuin" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">✨ Magical shell history</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradedb/paradedb#1736249164</id>
+    <title>https://github.com/paradedb/paradedb</title>
+    <link href="https://github.com/paradedb/paradedb" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">Postgres for Search and Analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Orange-OpenSource/hurl#1736249164</id>
+    <title>https://github.com/Orange-OpenSource/hurl</title>
+    <link href="https://github.com/Orange-OpenSource/hurl" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">Hurl, run and test HTTP requests with plain text.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1736249164</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-01-07T11:26:04+00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+</feed>

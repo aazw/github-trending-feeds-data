@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/1N3/Sn1per#1738800000</id>
+    <title>https://github.com/1N3/Sn1per</title>
+    <link href="https://github.com/1N3/Sn1per" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Attack Surface Management Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DaoCloud/public-image-mirror#1738800000</id>
+    <title>https://github.com/DaoCloud/public-image-mirror</title>
+    <link href="https://github.com/DaoCloud/public-image-mirror" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JamesTurland/JimsGarage#1738800000</id>
+    <title>https://github.com/JamesTurland/JimsGarage</title>
+    <link href="https://github.com/JamesTurland/JimsGarage" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Homelab Goodies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/docker-selenium#1738800000</id>
+    <title>https://github.com/SeleniumHQ/docker-selenium</title>
+    <link href="https://github.com/SeleniumHQ/docker-selenium" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acmesh-official/acme.sh#1738800000</id>
+    <title>https://github.com/acmesh-official/acme.sh</title>
+    <link href="https://github.com/acmesh-official/acme.sh" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/amazon-eks-ami#1738800000</id>
+    <title>https://github.com/awslabs/amazon-eks-ami</title>
+    <link href="https://github.com/awslabs/amazon-eks-ami" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Packer configuration for building a custom EKS AMI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/omakub#1738800000</id>
+    <title>https://github.com/basecamp/omakub</title>
+    <link href="https://github.com/basecamp/omakub" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Opinionated Ubuntu Setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bats-core/bats-core#1738800000</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1738800000</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1738800000</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1738800000</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/d3/d3#1738800000</id>
+    <title>https://github.com/d3/d3</title>
+    <link href="https://github.com/d3/d3" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Bring data to life with SVG, Canvas and HTML. 📊📈🎉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dockur/windows#1738800000</id>
+    <title>https://github.com/dockur/windows</title>
+    <link href="https://github.com/dockur/windows" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Windows inside a Docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hestiacp/hestiacp#1738800000</id>
+    <title>https://github.com/hestiacp/hestiacp</title>
+    <link href="https://github.com/hestiacp/hestiacp" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Hestia Control Panel | A lightweight and powerful control panel for the modern web.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1738800000</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ophub/amlogic-s9xxx-openwrt#1738800000</id>
+    <title>https://github.com/ophub/amlogic-s9xxx-openwrt</title>
+    <link href="https://github.com/ophub/amlogic-s9xxx-openwrt" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1738800000</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1738800000</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+</feed>

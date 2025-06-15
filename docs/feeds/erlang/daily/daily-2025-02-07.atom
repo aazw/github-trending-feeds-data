@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/apache/couchdb#1738886400</id>
+    <title>https://github.com/apache/couchdb</title>
+    <link href="https://github.com/apache/couchdb" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1738886400</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epgsql/epgsql#1738886400</id>
+    <title>https://github.com/epgsql/epgsql</title>
+    <link href="https://github.com/epgsql/epgsql" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Erlang PostgreSQL client library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1738886400</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-lager/lager#1738886400</id>
+    <title>https://github.com/erlang-lager/lager</title>
+    <link href="https://github.com/erlang-lager/lager" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A logging framework for Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1738886400</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1738886400</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esl/MongooseIM#1738886400</id>
+    <title>https://github.com/esl/MongooseIM</title>
+    <link href="https://github.com/esl/MongooseIM" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">MongooseIM is Erlang Solutions' robust, scalable and efficient XMPP server, aimed at large installations. Specifically designed for enterprise purposes, it is fault-tolerant and can utilise the resources of multiple clustered machines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jcomellas/getopt#1738886400</id>
+    <title>https://github.com/jcomellas/getopt</title>
+    <link href="https://github.com/jcomellas/getopt" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Erlang module to parse command line arguments using the GNU getopt syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1738886400</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1738886400</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1738886400</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1738886400</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/processone/ejabberd#1738886400</id>
+    <title>https://github.com/processone/ejabberd</title>
+    <link href="https://github.com/processone/ejabberd" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1738886400</id>
+    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
+    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Delayed Messaging for RabbitMQ</content>
+  </entry>
+  <entry>
+    <id>https://github.com/talentdeficit/jsx#1738886400</id>
+    <title>https://github.com/talentdeficit/jsx</title>
+    <link href="https://github.com/talentdeficit/jsx" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">an erlang application for consuming, producing and manipulating json. inspired by yajl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomas-abrahamsson/gpb#1738886400</id>
+    <title>https://github.com/tomas-abrahamsson/gpb</title>
+    <link href="https://github.com/tomas-abrahamsson/gpb" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">A Google Protobuf implementation for Erlang</content>
+  </entry>
+</feed>

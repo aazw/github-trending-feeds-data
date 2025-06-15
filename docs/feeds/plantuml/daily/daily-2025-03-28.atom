@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/plantuml/daily.atom</id>
+  <title>GitHub Trending - plantuml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/plantuml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/plantuml-stdlib/C4-PlantUML#1743120000</id>
+    <title>https://github.com/plantuml-stdlib/C4-PlantUML</title>
+    <link href="https://github.com/plantuml-stdlib/C4-PlantUML" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures</content>
+  </entry>
+</feed>

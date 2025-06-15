@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Quafadas/scautable#1742256000</id>
+    <title>https://github.com/Quafadas/scautable</title>
+    <link href="https://github.com/Quafadas/scautable" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Table utils, one line CSV imports - a table is a Iterator (or iterable) of a `Named Tuple` or `Product`</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1742256000</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/kyuubi#1742256000</id>
+    <title>https://github.com/apache/kyuubi</title>
+    <link href="https://github.com/apache/kyuubi" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/pekko#1742256000</id>
+    <title>https://github.com/apache/pekko</title>
+    <link href="https://github.com/apache/pekko" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Build highly concurrent, distributed, and resilient message-driven applications using Java/Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1742256000</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/camunda/feel-scala#1742256000</id>
+    <title>https://github.com/camunda/feel-scala</title>
+    <link href="https://github.com/camunda/feel-scala" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">FEEL parser and interpreter written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/rocket-chip#1742256000</id>
+    <title>https://github.com/chipsalliance/rocket-chip</title>
+    <link href="https://github.com/chipsalliance/rocket-chip" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Rocket Chip Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1742256000</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 2-4x faster than Gradle and 4-10x faster than Maven for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1742256000</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbucket/gitbucket#1742256000</id>
+    <title>https://github.com/gitbucket/gitbucket</title>
+    <link href="https://github.com/gitbucket/gitbucket" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joernio/joern#1742256000</id>
+    <title>https://github.com/joernio/joern</title>
+    <link href="https://github.com/joernio/joern" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1742256000</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nightscape/spark-excel#1742256000</id>
+    <title>https://github.com/nightscape/spark-excel</title>
+    <link href="https://github.com/nightscape/spark-excel" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">A Spark plugin for reading and writing Excel files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/playframework/playframework#1742256000</id>
+    <title>https://github.com/playframework/playframework</title>
+    <link href="https://github.com/playframework/playframework" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">The Community Maintained High Velocity Web Framework For Java and Scala.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rtyley/bfg-repo-cleaner#1742256000</id>
+    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
+    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbt/sbt#1742256000</id>
+    <title>https://github.com/sbt/sbt</title>
+    <link href="https://github.com/sbt/sbt" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">sbt, the interactive build tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1742256000</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/chipyard#1742256000</id>
+    <title>https://github.com/ucb-bar/chipyard</title>
+    <link href="https://github.com/ucb-bar/chipyard" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
+  </entry>
+</feed>

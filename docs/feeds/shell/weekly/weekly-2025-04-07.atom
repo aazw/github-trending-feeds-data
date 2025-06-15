@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/weekly.atom</id>
+  <title>GitHub Trending - shell (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/VSCodium/vscodium#1743984000</id>
+    <title>https://github.com/VSCodium/vscodium</title>
+    <link href="https://github.com/VSCodium/vscodium" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">binary releases of VS Code without MS branding/telemetry/licensing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluesky-social/pds#1743984000</id>
+    <title>https://github.com/bluesky-social/pds</title>
+    <link href="https://github.com/bluesky-social/pds" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Bluesky PDS (Personal Data Server) container image, compose file, and documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dockur/macos#1743984000</id>
+    <title>https://github.com/dockur/macos</title>
+    <link href="https://github.com/dockur/macos" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">macOS inside a Docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dockur/windows#1743984000</id>
+    <title>https://github.com/dockur/windows</title>
+    <link href="https://github.com/dockur/windows" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Windows inside a Docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dylanaraps/pure-bash-bible#1743984000</id>
+    <title>https://github.com/dylanaraps/pure-bash-bible</title>
+    <link href="https://github.com/dylanaraps/pure-bash-bible" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">📖 A collection of pure bash alternatives to external processes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gr33n37/gr33n37-ip-changer#1743984000</id>
+    <title>https://github.com/gr33n37/gr33n37-ip-changer</title>
+    <link href="https://github.com/gr33n37/gr33n37-ip-changer" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">tool used to change your IP every second your want</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inkonchain/node#1743984000</id>
+    <title>https://github.com/inkonchain/node</title>
+    <link href="https://github.com/inkonchain/node" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">How to run an Ink Node</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itzg/docker-minecraft-server#1743984000</id>
+    <title>https://github.com/itzg/docker-minecraft-server</title>
+    <link href="https://github.com/itzg/docker-minecraft-server" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1743984000</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n8n-io/n8n-hosting#1743984000</id>
+    <title>https://github.com/n8n-io/n8n-hosting</title>
+    <link href="https://github.com/n8n-io/n8n-hosting" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Example of self-hosting n8n in various environments like docker, kubernetes, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nelvko/clash-for-linux-install#1743984000</id>
+    <title>https://github.com/nelvko/clash-for-linux-install</title>
+    <link href="https://github.com/nelvko/clash-for-linux-install" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">😼 优雅地部署基于 clash/mihomo 的代理环境</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1743984000</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1743984000</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openshift/release#1743984000</id>
+    <title>https://github.com/openshift/release</title>
+    <link href="https://github.com/openshift/release" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Release tooling for OpenShift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tj/n#1743984000</id>
+    <title>https://github.com/tj/n</title>
+    <link href="https://github.com/tj/n" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Node version management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xubiaolin/docker-zerotier-planet#1743984000</id>
+    <title>https://github.com/xubiaolin/docker-zerotier-planet</title>
+    <link href="https://github.com/xubiaolin/docker-zerotier-planet" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">一分钟私有部署zerotier-planet服务</content>
+  </entry>
+</feed>

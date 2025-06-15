@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Trending - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/easymotion/vim-easymotion#1739750400</id>
+    <title>https://github.com/easymotion/vim-easymotion</title>
+    <link href="https://github.com/easymotion/vim-easymotion" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Vim motions on speed!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jiangmiao/auto-pairs#1739750400</id>
+    <title>https://github.com/jiangmiao/auto-pairs</title>
+    <link href="https://github.com/jiangmiao/auto-pairs" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Vim plugin, insert or delete brackets, parens, quotes in pair</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1739750400</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/machakann/vim-highlightedyank#1739750400</id>
+    <title>https://github.com/machakann/vim-highlightedyank</title>
+    <link href="https://github.com/machakann/vim-highlightedyank" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Make the yanked region apparent!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1739750400</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/octol/vim-cpp-enhanced-highlight#1739750400</id>
+    <title>https://github.com/octol/vim-cpp-enhanced-highlight</title>
+    <link href="https://github.com/octol/vim-cpp-enhanced-highlight" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Additional Vim syntax highlighting for C++ (including C++11/14/17)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1739750400</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbdchd/neoformat#1739750400</id>
+    <title>https://github.com/sbdchd/neoformat</title>
+    <link href="https://github.com/sbdchd/neoformat" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">✨ A (Neo)vim plugin for formatting code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomasr/molokai#1739750400</id>
+    <title>https://github.com/tomasr/molokai</title>
+    <link href="https://github.com/tomasr/molokai" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Molokai color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-pathogen#1739750400</id>
+    <title>https://github.com/tpope/vim-pathogen</title>
+    <link href="https://github.com/tpope/vim-pathogen" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">pathogen.vim: manage your runtimepath</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-vinegar#1739750400</id>
+    <title>https://github.com/tpope/vim-vinegar</title>
+    <link href="https://github.com/tpope/vim-vinegar" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">vinegar.vim: Combine with netrw to create a delicious salad dressing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1739750400</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

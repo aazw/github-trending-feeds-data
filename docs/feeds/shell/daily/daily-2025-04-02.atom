@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ImMALWARE/bash-warp-generator#1743552000</id>
+    <title>https://github.com/ImMALWARE/bash-warp-generator</title>
+    <link href="https://github.com/ImMALWARE/bash-warp-generator" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Генератор конфига Cloudflare WARP для AmneziaWG</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf-nodejs#1743552000</id>
+    <title>https://github.com/asdf-vm/asdf-nodejs</title>
+    <link href="https://github.com/asdf-vm/asdf-nodejs" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Node.js plugin for asdf version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker-mailserver/docker-mailserver#1743552000</id>
+    <title>https://github.com/docker-mailserver/docker-mailserver</title>
+    <link href="https://github.com/docker-mailserver/docker-mailserver" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dylanaraps/pure-bash-bible#1743552000</id>
+    <title>https://github.com/dylanaraps/pure-bash-bible</title>
+    <link href="https://github.com/dylanaraps/pure-bash-bible" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">📖 A collection of pure bash alternatives to external processes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/docker-otel-lgtm#1743552000</id>
+    <title>https://github.com/grafana/docker-otel-lgtm</title>
+    <link href="https://github.com/grafana/docker-otel-lgtm" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">OpenTelemetry backend in a Docker image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inkonchain/node#1743552000</id>
+    <title>https://github.com/inkonchain/node</title>
+    <link href="https://github.com/inkonchain/node" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">How to run an Ink Node</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1743552000</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner#1743552000</id>
+    <title>https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner</title>
+    <link href="https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Dynamic sub-dir volume provisioner on a remote NFS server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moovweb/gvm#1743552000</id>
+    <title>https://github.com/moovweb/gvm</title>
+    <link href="https://github.com/moovweb/gvm" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Go Version Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n8n-io/n8n-hosting#1743552000</id>
+    <title>https://github.com/n8n-io/n8n-hosting</title>
+    <link href="https://github.com/n8n-io/n8n-hosting" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Example of self-hosting n8n in various environments like docker, kubernetes, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1743552000</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1743552000</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1743552000</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tj/n#1743552000</id>
+    <title>https://github.com/tj/n</title>
+    <link href="https://github.com/tj/n" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Node version management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xubiaolin/docker-zerotier-planet#1743552000</id>
+    <title>https://github.com/xubiaolin/docker-zerotier-planet</title>
+    <link href="https://github.com/xubiaolin/docker-zerotier-planet" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">一分钟私有部署zerotier-planet服务</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1743552000</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+</feed>

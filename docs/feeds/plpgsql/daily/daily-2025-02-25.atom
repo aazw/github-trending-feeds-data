@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/plpgsql/daily.atom</id>
+  <title>GitHub Trending - plpgsql (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/plpgsql/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Thecosy/IceCMS#1740441600</id>
+    <title>https://github.com/Thecosy/IceCMS</title>
+    <link href="https://github.com/Thecosy/IceCMS" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">🌈冰激凌内容管理系统🍦,实现MacWK资源站，社区图片视频圈子CMS，支持网页端移动端小程序🌟适合做 资讯商城，社区论坛，聊天交友 社区，博客，圈子，论坛，图片，视频，社交。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TryGhost/node-sqlite3#1740441600</id>
+    <title>https://github.com/TryGhost/node-sqlite3</title>
+    <link href="https://github.com/TryGhost/node-sqlite3" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">SQLite3 bindings for Node.js</content>
+  </entry>
+  <entry>
+    <id>https://github.com/devrimgunduz/pagila#1740441600</id>
+    <title>https://github.com/devrimgunduz/pagila</title>
+    <link href="https://github.com/devrimgunduz/pagila" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">PostgreSQL Sample Database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openmaptiles/openmaptiles#1740441600</id>
+    <title>https://github.com/openmaptiles/openmaptiles</title>
+    <link href="https://github.com/openmaptiles/openmaptiles" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">OpenMapTiles Vector Tile Schema Implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pgpartman/pg_partman#1740441600</id>
+    <title>https://github.com/pgpartman/pg_partman</title>
+    <link href="https://github.com/pgpartman/pg_partman" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Partition management extension for PostgreSQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tembo-io/pgmq#1740441600</id>
+    <title>https://github.com/tembo-io/pgmq</title>
+    <link href="https://github.com/tembo-io/pgmq" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.</content>
+  </entry>
+</feed>

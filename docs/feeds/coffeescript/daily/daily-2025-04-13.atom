@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom</id>
+  <title>GitHub Trending - coffeescript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dropbox/zxcvbn#1744502400</id>
+    <title>https://github.com/dropbox/zxcvbn</title>
+    <link href="https://github.com/dropbox/zxcvbn" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Low-Budget Password Strength Estimation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fbsamples/graph-api-webhooks-samples#1744502400</id>
+    <title>https://github.com/fbsamples/graph-api-webhooks-samples</title>
+    <link href="https://github.com/fbsamples/graph-api-webhooks-samples" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">These are sample clients for Facebook's Graph API Webhooks and Instagram's Real-time Photo Updates API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oozcitak/xmlbuilder-js#1744502400</id>
+    <title>https://github.com/oozcitak/xmlbuilder-js</title>
+    <link href="https://github.com/oozcitak/xmlbuilder-js" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">An XML builder for node.js</content>
+  </entry>
+</feed>

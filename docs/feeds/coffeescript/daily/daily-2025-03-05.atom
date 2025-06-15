@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom</id>
+  <title>GitHub Trending - coffeescript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FelisCatus/SwitchyOmega#1741132800</id>
+    <title>https://github.com/FelisCatus/SwitchyOmega</title>
+    <link href="https://github.com/FelisCatus/SwitchyOmega" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">No longer maintained, see pinned issues</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Leonidas-from-XIV/node-xml2js#1741132800</id>
+    <title>https://github.com/Leonidas-from-XIV/node-xml2js</title>
+    <link href="https://github.com/Leonidas-from-XIV/node-xml2js" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">XML to JavaScript object converter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ccd0/4chan-x#1741132800</id>
+    <title>https://github.com/ccd0/4chan-x</title>
+    <link href="https://github.com/ccd0/4chan-x" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Adds various features to anonymous imageboards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dropbox/zxcvbn#1741132800</id>
+    <title>https://github.com/dropbox/zxcvbn</title>
+    <link href="https://github.com/dropbox/zxcvbn" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Low-Budget Password Strength Estimation</content>
+  </entry>
+</feed>

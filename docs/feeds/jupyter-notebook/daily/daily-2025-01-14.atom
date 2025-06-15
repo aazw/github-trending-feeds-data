@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-14T11:16:45+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SharifiZarchi/Introduction_to_Machine_Learning#1736853405</id>
+    <title>https://github.com/SharifiZarchi/Introduction_to_Machine_Learning</title>
+    <link href="https://github.com/SharifiZarchi/Introduction_to_Machine_Learning" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">Machine Learning Course, Sharif University of Technology</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-research/google-research#1736853405</id>
+    <title>https://github.com/google-research/google-research</title>
+    <link href="https://github.com/google-research/google-research" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">Google Research</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrdbourke/pytorch-deep-learning#1736853405</id>
+    <title>https://github.com/mrdbourke/pytorch-deep-learning</title>
+    <link href="https://github.com/mrdbourke/pytorch-deep-learning" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NielsRogge/Transformers-Tutorials#1736853405</id>
+    <title>https://github.com/NielsRogge/Transformers-Tutorials</title>
+    <link href="https://github.com/NielsRogge/Transformers-Tutorials" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">This repository contains demos I made with the Transformers library by HuggingFace.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastai/fastbook#1736853405</id>
+    <title>https://github.com/fastai/fastbook</title>
+    <link href="https://github.com/fastai/fastbook" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">The fastai book, published as Jupyter Notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-cookbook#1736853405</id>
+    <title>https://github.com/datawhalechina/llm-cookbook</title>
+    <link href="https://github.com/datawhalechina/llm-cookbook" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</content>
+  </entry>
+  <entry>
+    <id>https://github.com/embeddings-benchmark/mteb#1736853405</id>
+    <title>https://github.com/embeddings-benchmark/mteb</title>
+    <link href="https://github.com/embeddings-benchmark/mteb" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">MTEB: Massive Text Embedding Benchmark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain-academy#1736853405</id>
+    <title>https://github.com/langchain-ai/langchain-academy</title>
+    <link href="https://github.com/langchain-ai/langchain-academy" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/rasbt/machine-learning-book#1736853405</id>
+    <title>https://github.com/rasbt/machine-learning-book</title>
+    <link href="https://github.com/rasbt/machine-learning-book" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">Code Repository for Machine Learning with PyTorch and Scikit-Learn</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-universe#1736853405</id>
+    <title>https://github.com/datawhalechina/llm-universe</title>
+    <link href="https://github.com/datawhalechina/llm-universe" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/dinov2#1736853405</id>
+    <title>https://github.com/facebookresearch/dinov2</title>
+    <link href="https://github.com/facebookresearch/dinov2" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">PyTorch code and models for the DINOv2 self-supervised learning method.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-llama/llama-recipes#1736853405</id>
+    <title>https://github.com/meta-llama/llama-recipes</title>
+    <link href="https://github.com/meta-llama/llama-recipes" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">Scripts for fine-tuning Meta Llama with composable FSDP &amp; PEFT methods to cover single/multi-node GPUs. Supports default &amp; custom datasets for applications such as summarization and Q&amp;A. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment. Demo apps to showcase Meta Llama for WhatsApp &amp; Messenger.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tencentmusic/cube-studio#1736853405</id>
+    <title>https://github.com/tencentmusic/cube-studio</title>
+    <link href="https://github.com/tencentmusic/cube-studio" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，支持sso登录，多租户，大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU，边缘计算，serverless，标注平台，自动化标注，数据集管理，大模型微调，vllm大模型推理，llmops，私有知识库，AI模型应用商店，支持模型一键开发/推理/微调，支持国产cpu/gpu/npu芯片，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/spark/ray/volcano分布式</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/setfit#1736853405</id>
+    <title>https://github.com/huggingface/setfit</title>
+    <link href="https://github.com/huggingface/setfit" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">Efficient few-shot learning with Sentence Transformers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/generative-ai#1736853405</id>
+    <title>https://github.com/GoogleCloudPlatform/generative-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/generative-ai" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AI4Finance-Foundation/FinRL#1736853405</id>
+    <title>https://github.com/AI4Finance-Foundation/FinRL</title>
+    <link href="https://github.com/AI4Finance-Foundation/FinRL" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">FinRL: Financial Reinforcement Learning. 🔥</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1736853405</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vikhyat/moondream#1736853405</id>
+    <title>https://github.com/vikhyat/moondream</title>
+    <link href="https://github.com/vikhyat/moondream" />
+    <updated>2025-01-14T11:16:45+00:00</updated>
+    <content type="text">tiny vision language model</content>
+  </entry>
+</feed>

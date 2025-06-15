@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Fanael/rainbow-delimiters#1742342400</id>
+    <title>https://github.com/Fanael/rainbow-delimiters</title>
+    <link href="https://github.com/Fanael/rainbow-delimiters" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Emacs rainbow delimiters mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1742342400</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/auto-complete/popup-el#1742342400</id>
+    <title>https://github.com/auto-complete/popup-el</title>
+    <link href="https://github.com/auto-complete/popup-el" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Visual Popup Interface Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1742342400</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immerrr/lua-mode#1742342400</id>
+    <title>https://github.com/immerrr/lua-mode</title>
+    <link href="https://github.com/immerrr/lua-mode" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Emacs major mode for editing Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1742342400</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lewang/ws-butler#1742342400</id>
+    <title>https://github.com/lewang/ws-butler</title>
+    <link href="https://github.com/lewang/ws-butler" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Unobtrusively trim extraneous white-space *ONLY* in lines edited.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/forge#1742342400</id>
+    <title>https://github.com/magit/forge</title>
+    <link href="https://github.com/magit/forge" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Work with Git forges from the comfort of Magit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1742342400</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mickeynp/ligature.el#1742342400</id>
+    <title>https://github.com/mickeynp/ligature.el</title>
+    <link href="https://github.com/mickeynp/ligature.el" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Display typographical ligatures in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spotify/dockerfile-mode#1742342400</id>
+    <title>https://github.com/spotify/dockerfile-mode</title>
+    <link href="https://github.com/spotify/dockerfile-mode" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">An emacs mode for handling Dockerfiles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volrath/treepy.el#1742342400</id>
+    <title>https://github.com/volrath/treepy.el</title>
+    <link href="https://github.com/volrath/treepy.el" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Generic tree traversing tools for Emacs Lisp</content>
+  </entry>
+</feed>

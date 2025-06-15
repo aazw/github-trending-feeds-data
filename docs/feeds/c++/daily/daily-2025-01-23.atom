@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/TensorRT#1737590400</id>
+    <title>https://github.com/NVIDIA/TensorRT</title>
+    <link href="https://github.com/NVIDIA/TensorRT" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">NVIDIA® TensorRT™ is an SDK for high-performance deep learning inference on NVIDIA GPUs. This repository contains the open source components of TensorRT.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Neargye/magic_enum#1737590400</id>
+    <title>https://github.com/Neargye/magic_enum</title>
+    <link href="https://github.com/Neargye/magic_enum" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Static reflection for enums (to string, from string, iteration) for modern C++, work with any enum type without any macro or boilerplate code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/MNN#1737590400</id>
+    <title>https://github.com/alibaba/MNN</title>
+    <link href="https://github.com/alibaba/MNN" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/arrow#1737590400</id>
+    <title>https://github.com/apache/arrow</title>
+    <link href="https://github.com/apache/arrow" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catchorg/Catch2#1737590400</id>
+    <title>https://github.com/catchorg/Catch2</title>
+    <link href="https://github.com/catchorg/Catch2" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dmlc/xgboost#1737590400</id>
+    <title>https://github.com/dmlc/xgboost</title>
+    <link href="https://github.com/dmlc/xgboost" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C++ and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/envoy#1737590400</id>
+    <title>https://github.com/envoyproxy/envoy</title>
+    <link href="https://github.com/envoyproxy/envoy" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Cloud-native high-performance edge/middle/service proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react-native#1737590400</id>
+    <title>https://github.com/facebook/react-native</title>
+    <link href="https://github.com/facebook/react-native" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A framework for building native applications using React</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firebase/firebase-ios-sdk#1737590400</id>
+    <title>https://github.com/firebase/firebase-ios-sdk</title>
+    <link href="https://github.com/firebase/firebase-ios-sdk" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Firebase SDK for Apple App Development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggerganov/llama.cpp#1737590400</id>
+    <title>https://github.com/ggerganov/llama.cpp</title>
+    <link href="https://github.com/ggerganov/llama.cpp" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">LLM inference in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggerganov/whisper.cpp#1737590400</id>
+    <title>https://github.com/ggerganov/whisper.cpp</title>
+    <link href="https://github.com/ggerganov/whisper.cpp" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Port of OpenAI's Whisper model in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/googletest#1737590400</id>
+    <title>https://github.com/google/googletest</title>
+    <link href="https://github.com/google/googletest" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">GoogleTest - Google Testing and Mocking Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc#1737590400</id>
+    <title>https://github.com/grpc/grpc</title>
+    <link href="https://github.com/grpc/grpc" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manticoresoftware/manticoresearch#1737590400</id>
+    <title>https://github.com/manticoresoftware/manticoresearch</title>
+    <link href="https://github.com/manticoresoftware/manticoresearch" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Easy to use open source fast database for search | Good alternative to Elasticsearch now | Drop-in replacement for E in the ELK soon</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/LightGBM#1737590400</id>
+    <title>https://github.com/microsoft/LightGBM</title>
+    <link href="https://github.com/microsoft/LightGBM" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A fast, distributed, high performance gradient boosting (GBT, GBDT, GBRT, GBM or MART) framework based on decision tree algorithms, used for ranking, classification and many other machine learning tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nlohmann/json#1737590400</id>
+    <title>https://github.com/nlohmann/json</title>
+    <link href="https://github.com/nlohmann/json" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">JSON for Modern C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pybind/pybind11#1737590400</id>
+    <title>https://github.com/pybind/pybind11</title>
+    <link href="https://github.com/pybind/pybind11" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Seamless operability between C++11 and Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redpanda-data/redpanda#1737590400</id>
+    <title>https://github.com/redpanda-data/redpanda</title>
+    <link href="https://github.com/redpanda-data/redpanda" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Redpanda is a streaming data platform for developers. Kafka API compatible. 10x faster. No ZooKeeper. No JVM!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/risc0/risc0#1737590400</id>
+    <title>https://github.com/risc0/risc0</title>
+    <link href="https://github.com/risc0/risc0" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">RISC Zero is a zero-knowledge verifiable general computing platform based on zk-STARKs and the RISC-V microarchitecture.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-navigation/navigation2#1737590400</id>
+    <title>https://github.com/ros-navigation/navigation2</title>
+    <link href="https://github.com/ros-navigation/navigation2" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">ROS 2 Navigation Framework and System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadps4-emu/shadPS4#1737590400</id>
+    <title>https://github.com/shadps4-emu/shadPS4</title>
+    <link href="https://github.com/shadps4-emu/shadPS4" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">PlayStation 4 emulator for Windows, Linux and macOS written in C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftlang/swift#1737590400</id>
+    <title>https://github.com/swiftlang/swift</title>
+    <link href="https://github.com/swiftlang/swift" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">The Swift Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeek/zeek#1737590400</id>
+    <title>https://github.com/zeek/zeek</title>
+    <link href="https://github.com/zeek/zeek" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeux/meshoptimizer#1737590400</id>
+    <title>https://github.com/zeux/meshoptimizer</title>
+    <link href="https://github.com/zeux/meshoptimizer" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Mesh optimization library that makes meshes smaller and faster to render</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zhongyang219/TrafficMonitor#1737590400</id>
+    <title>https://github.com/zhongyang219/TrafficMonitor</title>
+    <link href="https://github.com/zhongyang219/TrafficMonitor" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">这是一个用于显示当前网速、CPU及内存利用率的桌面悬浮窗软件，并支持任务栏显示，支持更换皮肤。</content>
+  </entry>
+</feed>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/TheLartians/PackageProject.cmake#1738800000</id>
+    <title>https://github.com/TheLartians/PackageProject.cmake</title>
+    <link href="https://github.com/TheLartians/PackageProject.cmake" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">🏛️ Help other developers use your project. A CMake script for packaging C/C++ projects for simple project installation while employing best-practices for maximum compatibility.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheRobotStudio/SO-ARM100#1738800000</id>
+    <title>https://github.com/TheRobotStudio/SO-ARM100</title>
+    <link href="https://github.com/TheRobotStudio/SO-ARM100" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Standard Open Arm 100</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abdes/cryptopp-cmake#1738800000</id>
+    <title>https://github.com/abdes/cryptopp-cmake</title>
+    <link href="https://github.com/abdes/cryptopp-cmake" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">A modern CMake build project for Crypto++ (https://github.com/weidai11/cryptopp).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware_msgs#1738800000</id>
+    <title>https://github.com/autowarefoundation/autoware_msgs</title>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1738800000</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/boostorg/cmake#1738800000</id>
+    <title>https://github.com/boostorg/cmake</title>
+    <link href="https://github.com/boostorg/cmake" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">CMake support infrastructure Boost submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrl-umi3218/jrl-cmakemodules#1738800000</id>
+    <title>https://github.com/jrl-umi3218/jrl-cmakemodules</title>
+    <link href="https://github.com/jrl-umi3218/jrl-cmakemodules" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">CMake utility toolbox</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1738800000</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1738800000</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+</feed>

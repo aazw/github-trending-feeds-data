@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/raku/daily.atom</id>
+  <title>GitHub Trending - raku (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/raku/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Raku/nqp#1739059200</id>
+    <title>https://github.com/Raku/nqp</title>
+    <link href="https://github.com/Raku/nqp" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">NQP</content>
+  </entry>
+</feed>

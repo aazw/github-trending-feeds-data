@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FiloSottile/mkcert#1738281600</id>
+    <title>https://github.com/FiloSottile/mkcert</title>
+    <link href="https://github.com/FiloSottile/mkcert" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A simple zero-config tool to make locally trusted development certificates with any names you'd like.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abiosoft/colima#1738281600</id>
+    <title>https://github.com/abiosoft/colima</title>
+    <link href="https://github.com/abiosoft/colima" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Container runtimes on macOS (and Linux) with minimal setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1738281600</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bnb-chain/bsc#1738281600</id>
+    <title>https://github.com/bnb-chain/bsc</title>
+    <link href="https://github.com/bnb-chain/bsc" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A BNB Smart Chain client based on the go-ethereum fork</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cert-manager/cert-manager#1738281600</id>
+    <title>https://github.com/cert-manager/cert-manager</title>
+    <link href="https://github.com/cert-manager/cert-manager" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Automatically provision and manage TLS certificates in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crossplane/crossplane#1738281600</id>
+    <title>https://github.com/crossplane/crossplane</title>
+    <link href="https://github.com/crossplane/crossplane" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">The Cloud Native Control Plane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/distribution/distribution#1738281600</id>
+    <title>https://github.com/distribution/distribution</title>
+    <link href="https://github.com/distribution/distribution" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">The toolkit to pack, ship, store, and deliver container content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/go-ethereum#1738281600</id>
+    <title>https://github.com/ethereum/go-ethereum</title>
+    <link href="https://github.com/ethereum/go-ethereum" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Go implementation of the Ethereum protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluxcd/flux2#1738281600</id>
+    <title>https://github.com/fluxcd/flux2</title>
+    <link href="https://github.com/fluxcd/flux2" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-acme/lego#1738281600</id>
+    <title>https://github.com/go-acme/lego</title>
+    <link href="https://github.com/go-acme/lego" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Let's Encrypt/ACME client and library written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gitea/gitea#1738281600</id>
+    <title>https://github.com/go-gitea/gitea</title>
+    <link href="https://github.com/go-gitea/gitea" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/loki#1738281600</id>
+    <title>https://github.com/grafana/loki</title>
+    <link href="https://github.com/grafana/loki" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Like Prometheus, but for logs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/mimir#1738281600</id>
+    <title>https://github.com/grafana/mimir</title>
+    <link href="https://github.com/grafana/mimir" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1738281600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1738281600</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgretzky/evilginx2#1738281600</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kyverno/kyverno#1738281600</id>
+    <title>https://github.com/kyverno/kyverno</title>
+    <link href="https://github.com/kyverno/kyverno" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Cloud Native Policy Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meshery/meshery#1738281600</id>
+    <title>https://github.com/meshery/meshery</title>
+    <link href="https://github.com/meshery/meshery" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Meshery, the cloud native manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oauth2-proxy/oauth2-proxy#1738281600</id>
+    <title>https://github.com/oauth2-proxy/oauth2-proxy</title>
+    <link href="https://github.com/oauth2-proxy/oauth2-proxy" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738281600</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go-contrib#1738281600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go-contrib" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Collection of extensions for OpenTelemetry-Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/nuclei#1738281600</id>
+    <title>https://github.com/projectdiscovery/nuclei</title>
+    <link href="https://github.com/projectdiscovery/nuclei" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ray-project/kuberay#1738281600</id>
+    <title>https://github.com/ray-project/kuberay</title>
+    <link href="https://github.com/ray-project/kuberay" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A toolkit to run Ray applications on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stonith404/pocket-id#1738281600</id>
+    <title>https://github.com/stonith404/pocket-id</title>
+    <link href="https://github.com/stonith404/pocket-id" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.</content>
+  </entry>
+</feed>

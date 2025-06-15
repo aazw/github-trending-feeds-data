@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom</id>
+  <title>GitHub Trending - cmake (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-13T12:11:47+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/moveit/moveit_msgs#1736770307</id>
+    <title>https://github.com/moveit/moveit_msgs</title>
+    <link href="https://github.com/moveit/moveit_msgs" />
+    <updated>2025-01-13T12:11:47+00:00</updated>
+    <content type="text">ROS messages used by MoveIt</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leetal/ios-cmake#1736770307</id>
+    <title>https://github.com/leetal/ios-cmake</title>
+    <link href="https://github.com/leetal/ios-cmake" />
+    <updated>2025-01-13T12:11:47+00:00</updated>
+    <content type="text">A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1736770307</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-01-13T12:11:47+00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheLartians/ModernCppStarter#1736770307</id>
+    <title>https://github.com/TheLartians/ModernCppStarter</title>
+    <link href="https://github.com/TheLartians/ModernCppStarter" />
+    <updated>2025-01-13T12:11:47+00:00</updated>
+    <content type="text">🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MarkSchofield/WindowsToolchain#1736770307</id>
+    <title>https://github.com/MarkSchofield/WindowsToolchain</title>
+    <link href="https://github.com/MarkSchofield/WindowsToolchain" />
+    <updated>2025-01-13T12:11:47+00:00</updated>
+    <content type="text">A repository containing a CMake toolchain for using MSVC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1736770307</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-01-13T12:11:47+00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheRobotStudio/SO-ARM100#1736770307</id>
+    <title>https://github.com/TheRobotStudio/SO-ARM100</title>
+    <link href="https://github.com/TheRobotStudio/SO-ARM100" />
+    <updated>2025-01-13T12:11:47+00:00</updated>
+    <content type="text">Standard Open Arm 100</content>
+  </entry>
+</feed>

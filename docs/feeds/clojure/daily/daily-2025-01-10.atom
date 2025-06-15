@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom</id>
+  <title>GitHub Trending - clojure (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/clojure/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-10T11:09:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nubank/clj-github#1736507381</id>
+    <title>https://github.com/nubank/clj-github</title>
+    <link href="https://github.com/nubank/clj-github" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">A Clojure library for interacting with the github developer API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nubank/workspaces#1736507381</id>
+    <title>https://github.com/nubank/workspaces</title>
+    <link href="https://github.com/nubank/workspaces" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">Live development environment for Clojurescript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperfiddle/electric#1736507381</id>
+    <title>https://github.com/hyperfiddle/electric</title>
+    <link href="https://github.com/hyperfiddle/electric" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">Electric Clojure: full-stack differential dataflow for UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jepsen-io/jepsen#1736507381</id>
+    <title>https://github.com/jepsen-io/jepsen</title>
+    <link href="https://github.com/jepsen-io/jepsen" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">A framework for distributed systems verification, with fault injection</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elastic/es2unix#1736507381</id>
+    <title>https://github.com/elastic/es2unix</title>
+    <link href="https://github.com/elastic/es2unix" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">Command-line ES</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/status-mobile#1736507381</id>
+    <title>https://github.com/status-im/status-mobile</title>
+    <link href="https://github.com/status-im/status-mobile" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">a free (libre) open source, mobile OS for Ethereum</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nilenso/goose#1736507381</id>
+    <title>https://github.com/nilenso/goose</title>
+    <link href="https://github.com/nilenso/goose" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">A powerful background job processing library for Clojure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clj-kondo/clj-kondo#1736507381</id>
+    <title>https://github.com/clj-kondo/clj-kondo</title>
+    <link href="https://github.com/clj-kondo/clj-kondo" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">Static analyzer and linter for Clojure code that sparks joy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instantdb/instant#1736507381</id>
+    <title>https://github.com/instantdb/instant</title>
+    <link href="https://github.com/instantdb/instant" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cognitect-labs/test-runner#1736507381</id>
+    <title>https://github.com/cognitect-labs/test-runner</title>
+    <link href="https://github.com/cognitect-labs/test-runner" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">A test runner for clojure.test</content>
+  </entry>
+  <entry>
+    <id>https://github.com/logseq/logseq#1736507381</id>
+    <title>https://github.com/logseq/logseq</title>
+    <link href="https://github.com/logseq/logseq" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">A privacy-first, open-source platform for knowledge management and collaboration. Download link: http://github.com/logseq/logseq/releases. roadmap: http://trello.com/b/8txSM12G/roadmap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metabase/metabase#1736507381</id>
+    <title>https://github.com/metabase/metabase</title>
+    <link href="https://github.com/metabase/metabase" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋</content>
+  </entry>
+  <entry>
+    <id>https://github.com/penpot/penpot#1736507381</id>
+    <title>https://github.com/penpot/penpot</title>
+    <link href="https://github.com/penpot/penpot" />
+    <updated>2025-01-10T11:09:41+00:00</updated>
+    <content type="text">Penpot: The open-source design tool for design and code collaboration</content>
+  </entry>
+</feed>

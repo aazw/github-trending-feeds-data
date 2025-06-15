@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DioxusLabs/dioxus#1748304000</id>
+    <title>https://github.com/DioxusLabs/dioxus</title>
+    <link href="https://github.com/DioxusLabs/dioxus" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Fullstack app framework for web, desktop, mobile, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EasyTier/EasyTier#1748304000</id>
+    <title>https://github.com/EasyTier/EasyTier</title>
+    <link href="https://github.com/EasyTier/EasyTier" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">A simple, decentralized mesh VPN with WireGuard support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lagrange-Labs/deep-prove#1748304000</id>
+    <title>https://github.com/Lagrange-Labs/deep-prove</title>
+    <link href="https://github.com/Lagrange-Labs/deep-prove" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Framework to prove inference of ML models blazingly fast</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antinomyhq/forge#1748304000</id>
+    <title>https://github.com/antinomyhq/forge</title>
+    <link href="https://github.com/antinomyhq/forge" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-rs#1748304000</id>
+    <title>https://github.com/delta-io/delta-rs</title>
+    <link href="https://github.com/delta-io/delta-rs" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">A native Rust library for Delta Lake, with bindings into Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iced-rs/iced#1748304000</id>
+    <title>https://github.com/iced-rs/iced</title>
+    <link href="https://github.com/iced-rs/iced" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">A cross-platform GUI library for Rust, inspired by Elm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1748304000</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1748304000</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lance#1748304000</id>
+    <title>https://github.com/lancedb/lance</title>
+    <link href="https://github.com/lancedb/lance" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lapce/lapce#1748304000</id>
+    <title>https://github.com/lapce/lapce</title>
+    <link href="https://github.com/lapce/lapce" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Lightning-fast and Powerful Code Editor written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meilisearch/meilisearch#1748304000</id>
+    <title>https://github.com/meilisearch/meilisearch</title>
+    <link href="https://github.com/meilisearch/meilisearch" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/windows-rs#1748304000</id>
+    <title>https://github.com/microsoft/windows-rs</title>
+    <link href="https://github.com/microsoft/windows-rs" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Rust for Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openobserve/openobserve#1748304000</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1748304000</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1748304000</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/risingwavelabs/risingwave#1748304000</id>
+    <title>https://github.com/risingwavelabs/risingwave</title>
+    <link href="https://github.com/risingwavelabs/risingwave" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Stream processing and management platform.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1748304000</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana#1748304000</id>
+    <title>https://github.com/solana-labs/solana</title>
+    <link href="https://github.com/solana-labs/solana" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/stalwart#1748304000</id>
+    <title>https://github.com/stalwartlabs/stalwart</title>
+    <link href="https://github.com/stalwartlabs/stalwart" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1748304000</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1748304000</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1748304000</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+</feed>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/plpgsql/daily.atom</id>
+  <title>GitHub Trending - plpgsql (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/plpgsql/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/pgpartman/pg_partman#1743811200</id>
+    <title>https://github.com/pgpartman/pg_partman</title>
+    <link href="https://github.com/pgpartman/pg_partman" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Partition management extension for PostgreSQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/postgis/postgis#1743811200</id>
+    <title>https://github.com/postgis/postgis</title>
+    <link href="https://github.com/postgis/postgis" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">PostGIS spatial database extension to PostgreSQL [mirror]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tembo-io/pgmq#1743811200</id>
+    <title>https://github.com/tembo-io/pgmq</title>
+    <link href="https://github.com/tembo-io/pgmq" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/timescale/pgai#1743811200</id>
+    <title>https://github.com/timescale/pgai</title>
+    <link href="https://github.com/timescale/pgai" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL</content>
+  </entry>
+</feed>

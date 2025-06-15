@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rich-text-format/daily.atom</id>
+  <title>GitHub Trending - rich-text-format (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rich-text-format/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Maradonna90/NewGAN-Manager#1737763200</id>
+    <title>https://github.com/Maradonna90/NewGAN-Manager</title>
+    <link href="https://github.com/Maradonna90/NewGAN-Manager" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">A tool to generate and manage xml configs for the Newgen Facepack.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ckeditor/ckeditor4#1737763200</id>
+    <title>https://github.com/ckeditor/ckeditor4</title>
+    <link href="https://github.com/ckeditor/ckeditor4" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cncf/foundation#1737763200</id>
+    <title>https://github.com/cncf/foundation</title>
+    <link href="https://github.com/cncf/foundation" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">☁️♮🏛 This repo contains several documents related to the operation of the CNCF. File non-technical issues related to CNCF here.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nicehash/NiceHashMiner#1737763200</id>
+    <title>https://github.com/nicehash/NiceHashMiner</title>
+    <link href="https://github.com/nicehash/NiceHashMiner" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">NiceHash Miner</content>
+  </entry>
+</feed>

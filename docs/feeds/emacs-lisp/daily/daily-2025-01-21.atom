@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/karthink/gptel#1737417600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1737417600</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1737417600</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1737417600</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1737417600</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dgutov/diff-hl#1737417600</id>
+    <title>https://github.com/dgutov/diff-hl</title>
+    <link href="https://github.com/dgutov/diff-hl" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Emacs package for highlighting uncommitted changes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/manateelazycat/lsp-bridge#1737417600</id>
+    <title>https://github.com/manateelazycat/lsp-bridge</title>
+    <link href="https://github.com/manateelazycat/lsp-bridge" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">A blazingly fast LSP client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1737417600</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-mode#1737417600</id>
+    <title>https://github.com/haskell/haskell-mode</title>
+    <link href="https://github.com/haskell/haskell-mode" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Emacs mode for Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1737417600</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wolray/symbol-overlay#1737417600</id>
+    <title>https://github.com/wolray/symbol-overlay</title>
+    <link href="https://github.com/wolray/symbol-overlay" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Highlight symbols with keymap-enabled overlays</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-typescript/typescript.el#1737417600</id>
+    <title>https://github.com/emacs-typescript/typescript.el</title>
+    <link href="https://github.com/emacs-typescript/typescript.el" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">TypeScript-support for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atomontage/xterm-color#1737417600</id>
+    <title>https://github.com/atomontage/xterm-color</title>
+    <link href="https://github.com/atomontage/xterm-color" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">ANSI &amp; xterm-256 color text property translator for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1737417600</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/ts-fold#1737417600</id>
+    <title>https://github.com/emacs-tree-sitter/ts-fold</title>
+    <link href="https://github.com/emacs-tree-sitter/ts-fold" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Code-folding using tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clojure-emacs/cider#1737417600</id>
+    <title>https://github.com/clojure-emacs/cider</title>
+    <link href="https://github.com/clojure-emacs/cider" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">The Clojure Interactive Development Environment that Rocks for Emacs</content>
+  </entry>
+</feed>

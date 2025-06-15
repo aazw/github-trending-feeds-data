@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GitoxideLabs/gitoxide#1748649600</id>
+    <title>https://github.com/GitoxideLabs/gitoxide</title>
+    <link href="https://github.com/GitoxideLabs/gitoxide" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">An idiomatic, lean, fast &amp; safe pure Rust implementation of Git</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1748649600</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1748649600</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bottlerocket-os/bottlerocket#1748649600</id>
+    <title>https://github.com/bottlerocket-os/bottlerocket</title>
+    <link href="https://github.com/bottlerocket-os/bottlerocket" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">An operating system designed for hosting containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/pingora#1748649600</id>
+    <title>https://github.com/cloudflare/pingora</title>
+    <link href="https://github.com/cloudflare/pingora" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A library for building fast, reliable and evolvable network services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1748649600</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emilk/egui#1748649600</id>
+    <title>https://github.com/emilk/egui</title>
+    <link href="https://github.com/emilk/egui" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/buck2#1748649600</id>
+    <title>https://github.com/facebook/buck2</title>
+    <link href="https://github.com/facebook/buck2" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Build system, successor to Buck</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperium/tonic#1748649600</id>
+    <title>https://github.com/hyperium/tonic</title>
+    <link href="https://github.com/hyperium/tonic" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A native gRPC client &amp; server implementation with async/await support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1748649600</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxc-project/oxc#1748649600</id>
+    <title>https://github.com/oxc-project/oxc</title>
+    <link href="https://github.com/oxc-project/oxc" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">⚓ A collection of JavaScript tools written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/platformatic/php-node#1748649600</id>
+    <title>https://github.com/platformatic/php-node</title>
+    <link href="https://github.com/platformatic/php-node" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">PHP HTTP Request handler for Node.js</content>
+  </entry>
+  <entry>
+    <id>https://github.com/probe-rs/probe-rs#1748649600</id>
+    <title>https://github.com/probe-rs/probe-rs</title>
+    <link href="https://github.com/probe-rs/probe-rs" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1748649600</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/surrealdb/surrealdb#1748649600</id>
+    <title>https://github.com/surrealdb/surrealdb</title>
+    <link href="https://github.com/surrealdb/surrealdb" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A scalable, distributed, collaborative, document-graph database, for the realtime web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1748649600</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trynova/nova#1748649600</id>
+    <title>https://github.com/trynova/nova</title>
+    <link href="https://github.com/trynova/nova" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">JS engine lolz</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1748649600</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1748649600</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1748649600</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1748649600</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/verus-lang/verus#1748649600</id>
+    <title>https://github.com/verus-lang/verus</title>
+    <link href="https://github.com/verus-lang/verus" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Verified Rust for low-level systems code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1748649600</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

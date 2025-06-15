@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1738368000</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HerringtonDarkholme/yats.vim#1738368000</id>
+    <title>https://github.com/HerringtonDarkholme/yats.vim</title>
+    <link href="https://github.com/HerringtonDarkholme/yats.vim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1738368000</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1738368000</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1738368000</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ekalinin/Dockerfile.vim#1738368000</id>
+    <title>https://github.com/ekalinin/Dockerfile.vim</title>
+    <link href="https://github.com/ekalinin/Dockerfile.vim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Vim syntax file &amp; snippets for Docker's Dockerfile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1738368000</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1738368000</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1738368000</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1738368000</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1738368000</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1738368000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/othree/html5.vim#1738368000</id>
+    <title>https://github.com/othree/html5.vim</title>
+    <link href="https://github.com/othree/html5.vim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">HTML5 omnicomplete and syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/vim-lsp#1738368000</id>
+    <title>https://github.com/prabirshrestha/vim-lsp</title>
+    <link href="https://github.com/prabirshrestha/vim-lsp" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">async language server protocol plugin for vim and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1738368000</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-pathogen#1738368000</id>
+    <title>https://github.com/tpope/vim-pathogen</title>
+    <link href="https://github.com/tpope/vim-pathogen" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">pathogen.vim: manage your runtimepath</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1738368000</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aklt/plantuml-syntax#1747180800</id>
+    <title>https://github.com/aklt/plantuml-syntax</title>
+    <link href="https://github.com/aklt/plantuml-syntax" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">vim syntax file for plantuml</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1747180800</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1747180800</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1747180800</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1747180800</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1747180800</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1747180800</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1747180800</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justinmk/vim-sneak#1747180800</id>
+    <title>https://github.com/justinmk/vim-sneak</title>
+    <link href="https://github.com/justinmk/vim-sneak" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">The missing motion for Vim 👟</content>
+  </entry>
+  <entry>
+    <id>https://github.com/machakann/vim-highlightedyank#1747180800</id>
+    <title>https://github.com/machakann/vim-highlightedyank</title>
+    <link href="https://github.com/machakann/vim-highlightedyank" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Make the yanked region apparent!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mattn/emmet-vim#1747180800</id>
+    <title>https://github.com/mattn/emmet-vim</title>
+    <link href="https://github.com/mattn/emmet-vim" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">emmet for vim: http://emmet.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1747180800</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntpeters/vim-better-whitespace#1747180800</id>
+    <title>https://github.com/ntpeters/vim-better-whitespace</title>
+    <link href="https://github.com/ntpeters/vim-better-whitespace" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Better whitespace highlighting for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1747180800</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline#1747180800</id>
+    <title>https://github.com/vim-airline/vim-airline</title>
+    <link href="https://github.com/vim-airline/vim-airline" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">lean &amp; mean status/tabline for vim that's light as air</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1747180800</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/alibaba/higress#1743724800</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/grype#1743724800</id>
+    <title>https://github.com/anchore/grype</title>
+    <link href="https://github.com/anchore/grype" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A vulnerability scanner for container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1743724800</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1743724800</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-rollouts#1743724800</id>
+    <title>https://github.com/argoproj/argo-rollouts</title>
+    <link href="https://github.com/argoproj/argo-rollouts" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Progressive Delivery for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1743724800</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/distribution/distribution#1743724800</id>
+    <title>https://github.com/distribution/distribution</title>
+    <link href="https://github.com/distribution/distribution" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">The toolkit to pack, ship, store, and deliver container content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1743724800</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-delve/delve#1743724800</id>
+    <title>https://github.com/go-delve/delve</title>
+    <link href="https://github.com/go-delve/delve" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Delve is a debugger for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1743724800</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1743724800</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-azurerm#1743724800</id>
+    <title>https://github.com/hashicorp/terraform-provider-azurerm</title>
+    <link href="https://github.com/hashicorp/terraform-provider-azurerm" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Terraform provider for Azure Resource Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iawia002/lux#1743724800</id>
+    <title>https://github.com/iawia002/lux</title>
+    <link href="https://github.com/iawia002/lux" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">👾 Fast and simple video download library and CLI tool written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/istio/istio#1743724800</id>
+    <title>https://github.com/istio/istio</title>
+    <link href="https://github.com/istio/istio" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Connect, secure, control, and observe services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juanfont/headscale#1743724800</id>
+    <title>https://github.com/juanfont/headscale</title>
+    <link href="https://github.com/juanfont/headscale" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">An open source, self-hosted implementation of the Tailscale control server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kedacore/keda#1743724800</id>
+    <title>https://github.com/kedacore/keda</title>
+    <link href="https://github.com/kedacore/keda" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/autoscaler#1743724800</id>
+    <title>https://github.com/kubernetes/autoscaler</title>
+    <link href="https://github.com/kubernetes/autoscaler" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Autoscaling components for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/m1k1o/neko#1743724800</id>
+    <title>https://github.com/m1k1o/neko</title>
+    <link href="https://github.com/m1k1o/neko" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A self hosted virtual browser that runs in docker and uses WebRTC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/safing/portmaster#1743724800</id>
+    <title>https://github.com/safing/portmaster</title>
+    <link href="https://github.com/safing/portmaster" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">🏔 Love Freedom - ❌ Block Mass Surveillance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1743724800</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/fx#1743724800</id>
+    <title>https://github.com/uber-go/fx</title>
+    <link href="https://github.com/uber-go/fx" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A dependency injection based application framework for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/urfave/cli#1743724800</id>
+    <title>https://github.com/urfave/cli</title>
+    <link href="https://github.com/urfave/cli" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A simple, fast, and fun package for building command line apps in Go</content>
+  </entry>
+</feed>

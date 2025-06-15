@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/github/explore#1737331200</id>
+    <title>https://github.com/github/explore</title>
+    <link href="https://github.com/github/explore" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Community-curated topic and collection pages on GitHub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekyll/jekyll#1737331200</id>
+    <title>https://github.com/jekyll/jekyll</title>
+    <link href="https://github.com/jekyll/jekyll" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">🌐 Jekyll is a blog-aware static site generator in Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1737331200</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maybe-finance/maybe#1737331200</id>
+    <title>https://github.com/maybe-finance/maybe</title>
+    <link href="https://github.com/maybe-finance/maybe" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The OS for your personal finances</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spree/spree#1737331200</id>
+    <title>https://github.com/spree/spree</title>
+    <link href="https://github.com/spree/spree" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opf/openproject#1737331200</id>
+    <title>https://github.com/opf/openproject</title>
+    <link href="https://github.com/opf/openproject" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">OpenProject is the leading open source project management software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mastodon/mastodon#1737331200</id>
+    <title>https://github.com/mastodon/mastodon</title>
+    <link href="https://github.com/mastodon/mastodon" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Your self-hosted, globally interconnected microblogging community</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heartcombo/devise#1737331200</id>
+    <title>https://github.com/heartcombo/devise</title>
+    <link href="https://github.com/heartcombo/devise" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Flexible authentication solution for Rails with Warden.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheOdinProject/ruby-exercises#1737331200</id>
+    <title>https://github.com/TheOdinProject/ruby-exercises</title>
+    <link href="https://github.com/TheOdinProject/ruby-exercises" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/manyfold3d/manyfold#1737331200</id>
+    <title>https://github.com/manyfold3d/manyfold</title>
+    <link href="https://github.com/manyfold3d/manyfold" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A self-hosted digital asset manager for 3d print files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openstreetmap/openstreetmap-website#1737331200</id>
+    <title>https://github.com/openstreetmap/openstreetmap-website</title>
+    <link href="https://github.com/openstreetmap/openstreetmap-website" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The Rails application that powers OpenStreetMap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/d12frosted/homebrew-emacs-plus#1737331200</id>
+    <title>https://github.com/d12frosted/homebrew-emacs-plus</title>
+    <link href="https://github.com/d12frosted/homebrew-emacs-plus" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Emacs Plus formulae for the Homebrew package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubysec/ruby-advisory-db#1737331200</id>
+    <title>https://github.com/rubysec/ruby-advisory-db</title>
+    <link href="https://github.com/rubysec/ruby-advisory-db" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A database of vulnerable Ruby Gems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/net-pop#1737331200</id>
+    <title>https://github.com/ruby/net-pop</title>
+    <link href="https://github.com/ruby/net-pop" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">This library provides functionality for retrieving email via POP3, the Post Office Protocol version 3. For details of POP3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rails/rails-dom-testing#1737331200</id>
+    <title>https://github.com/rails/rails-dom-testing</title>
+    <link href="https://github.com/rails/rails-dom-testing" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Extracting DomAssertions and SelectorAssertions from ActionView.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wbailey/command_line_reporter#1737331200</id>
+    <title>https://github.com/wbailey/command_line_reporter</title>
+    <link href="https://github.com/wbailey/command_line_reporter" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A gem for making it easy to produce a report while a ruby script is executing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CocoaPods/Xcodeproj#1737331200</id>
+    <title>https://github.com/CocoaPods/Xcodeproj</title>
+    <link href="https://github.com/CocoaPods/Xcodeproj" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Create and modify Xcode projects from Ruby.</content>
+  </entry>
+</feed>

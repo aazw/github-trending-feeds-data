@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mlir/monthly.atom</id>
+  <title>GitHub Trending - mlir (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mlir/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-01T13:23:40+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/intel/intel-xpu-backend-for-triton#1735737820</id>
+    <title>https://github.com/intel/intel-xpu-backend-for-triton</title>
+    <link href="https://github.com/intel/intel-xpu-backend-for-triton" />
+    <updated>2025-01-01T13:23:40+00:00</updated>
+    <content type="text">OpenAI Triton backend for Intel® GPUs</content>
+  </entry>
+</feed>

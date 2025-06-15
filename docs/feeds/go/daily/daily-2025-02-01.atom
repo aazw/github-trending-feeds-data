@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FiloSottile/age#1738368000</id>
+    <title>https://github.com/FiloSottile/age</title>
+    <link href="https://github.com/FiloSottile/age" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JanDeDobbeleer/oh-my-posh#1738368000</id>
+    <title>https://github.com/JanDeDobbeleer/oh-my-posh</title>
+    <link href="https://github.com/JanDeDobbeleer/oh-my-posh" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The most customisable and low-latency cross platform/shell prompt renderer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nvidia-container-toolkit#1738368000</id>
+    <title>https://github.com/NVIDIA/nvidia-container-toolkit</title>
+    <link href="https://github.com/NVIDIA/nvidia-container-toolkit" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Build and run containers leveraging NVIDIA GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TwiN/gatus#1738368000</id>
+    <title>https://github.com/TwiN/gatus</title>
+    <link href="https://github.com/TwiN/gatus" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">⛑ Automated developer-oriented status page</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akuity/kargo#1738368000</id>
+    <title>https://github.com/akuity/kargo</title>
+    <link href="https://github.com/akuity/kargo" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Application lifecycle orchestration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1738368000</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1738368000</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/karpenter-provider-aws#1738368000</id>
+    <title>https://github.com/aws/karpenter-provider-aws</title>
+    <link href="https://github.com/aws/karpenter-provider-aws" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1738368000</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cli/cli#1738368000</id>
+    <title>https://github.com/cli/cli</title>
+    <link href="https://github.com/cli/cli" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">GitHub’s official command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/cloudflared#1738368000</id>
+    <title>https://github.com/cloudflare/cloudflared</title>
+    <link href="https://github.com/cloudflare/cloudflared" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Cloudflare Tunnel client (formerly Argo Tunnel)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1738368000</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/loki#1738368000</id>
+    <title>https://github.com/grafana/loki</title>
+    <link href="https://github.com/grafana/loki" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Like Prometheus, but for logs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1738368000</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1738368000</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgretzky/evilginx2#1738368000</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1738368000</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lightningnetwork/lnd#1738368000</id>
+    <title>https://github.com/lightningnetwork/lnd</title>
+    <link href="https://github.com/lightningnetwork/lnd" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Lightning Network Daemon ⚡️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738368000</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/nuclei#1738368000</id>
+    <title>https://github.com/projectdiscovery/nuclei</title>
+    <link href="https://github.com/projectdiscovery/nuclei" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Nuclei is a fast, customizable vulnerability scanner powered by the global security community and built on a simple YAML-based DSL, enabling collaboration to tackle trending vulnerabilities on the internet. It helps you find vulnerabilities in your applications, APIs, networks, DNS, and cloud configurations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/prometheus#1738368000</id>
+    <title>https://github.com/prometheus/prometheus</title>
+    <link href="https://github.com/prometheus/prometheus" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The Prometheus monitoring system and time series database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rancher/rancher#1738368000</id>
+    <title>https://github.com/rancher/rancher</title>
+    <link href="https://github.com/rancher/rancher" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Complete container management platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yusing/go-proxy#1738368000</id>
+    <title>https://github.com/yusing/go-proxy</title>
+    <link href="https://github.com/yusing/go-proxy" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Easy to use reverse proxy with docker integration</content>
+  </entry>
+</feed>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1740700800</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/domtronn/all-the-icons.el#1740700800</id>
+    <title>https://github.com/domtronn/all-the-icons.el</title>
+    <link href="https://github.com/domtronn/all-the-icons.el" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">A utility package to collect various Icon Fonts and propertize them within Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-dashboard/emacs-dashboard#1740700800</id>
+    <title>https://github.com/emacs-dashboard/emacs-dashboard</title>
+    <link href="https://github.com/emacs-dashboard/emacs-dashboard" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">An extensible emacs dashboard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1740700800</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1740700800</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1740700800</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1740700800</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/package-lint#1740700800</id>
+    <title>https://github.com/purcell/package-lint</title>
+    <link href="https://github.com/purcell/package-lint" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">A linting library for elisp package metadata</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons-completion#1740700800</id>
+    <title>https://github.com/rainstormstudio/nerd-icons-completion</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons-completion" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons-dired#1740700800</id>
+    <title>https://github.com/rainstormstudio/nerd-icons-dired</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons-dired" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/s-kostyaev/ellama#1740700800</id>
+    <title>https://github.com/s-kostyaev/ellama</title>
+    <link href="https://github.com/s-kostyaev/ellama" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Ellama is a tool for interacting with large language models from Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1740700800</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1740700800</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tumashu/posframe#1740700800</id>
+    <title>https://github.com/tumashu/posframe</title>
+    <link href="https://github.com/tumashu/posframe" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Pop a posframe (just a child-frame) at point, posframe is a **GNU ELPA** package!</content>
+  </entry>
+</feed>

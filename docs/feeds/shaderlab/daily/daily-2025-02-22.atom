@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shaderlab/daily.atom</id>
+  <title>GitHub Trending - shaderlab (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shaderlab/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/candycat1992/Unity_Shaders_Book#1740182400</id>
+    <title>https://github.com/candycat1992/Unity_Shaders_Book</title>
+    <link href="https://github.com/candycat1992/Unity_Shaders_Book" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">📖 书籍《Unity Shader入门精要》源代码</content>
+  </entry>
+  <entry>
+    <id>https://github.com/poiyomi/PoiyomiToonShader#1740182400</id>
+    <title>https://github.com/poiyomi/PoiyomiToonShader</title>
+    <link href="https://github.com/poiyomi/PoiyomiToonShader" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">A feature rich toon shader for unity and VR Chat</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project#1740182400</id>
+    <title>https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project</title>
+    <link href="https://github.com/unity3d-jp/UnityChanToonShaderVer2_Project" />
+    <updated>2025-02-22T00:00:00</updated>
+    <content type="text">UnityChanToonShaderVer2 Project / v.2.0.9 Release</content>
+  </entry>
+</feed>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1743465600</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-q-developer-cli#1743465600</id>
+    <title>https://github.com/aws/amazon-q-developer-cli</title>
+    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">✨ Add autocomplete and AI to your existing terminal on macOS &amp; Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/biomejs/biome#1743465600</id>
+    <title>https://github.com/biomejs/biome</title>
+    <link href="https://github.com/biomejs/biome" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dfinity/ic#1743465600</id>
+    <title>https://github.com/dfinity/ic</title>
+    <link href="https://github.com/dfinity/ic" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Internet Computer blockchain source: the client/replica software run by nodes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dora-rs/dora#1743465600</id>
+    <title>https://github.com/dora-rs/dora</title>
+    <link href="https://github.com/dora-rs/dora" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">DORA (Dataflow-Oriented Robotic Architecture) is middleware designed to streamline and simplify the creation of AI-based robotic applications. It offers low latency, composable, and distributed dataflow capabilities. Applications are modeled as directed graphs, also referred to as pipelines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1743465600</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdx/mise#1743465600</id>
+    <title>https://github.com/jdx/mise</title>
+    <link href="https://github.com/jdx/mise" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">dev tools, env vars, task runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jtroo/kanata#1743465600</id>
+    <title>https://github.com/jtroo/kanata</title>
+    <link href="https://github.com/jtroo/kanata" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Improve keyboard comfort and usability with advanced customization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1743465600</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/medialab/xan#1743465600</id>
+    <title>https://github.com/medialab/xan</title>
+    <link href="https://github.com/medialab/xan" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The CSV magician</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1743465600</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell#1743465600</id>
+    <title>https://github.com/nushell/nushell</title>
+    <link href="https://github.com/nushell/nushell" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A new type of shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-rust#1743465600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-rust</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-rust" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The Rust OpenTelemetry implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1743465600</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1743465600</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-foundation/anchor#1743465600</id>
+    <title>https://github.com/solana-foundation/anchor</title>
+    <link href="https://github.com/solana-foundation/anchor" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">⚓ Solana Sealevel Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase-community/postgres-language-server#1743465600</id>
+    <title>https://github.com/supabase-community/postgres-language-server</title>
+    <link href="https://github.com/supabase-community/postgres-language-server" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A Language Server for Postgres</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tursodatabase/limbo#1743465600</id>
+    <title>https://github.com/tursodatabase/limbo</title>
+    <link href="https://github.com/tursodatabase/limbo" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Limbo is a project to build the modern evolution of SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1743465600</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/visioncortex/vtracer#1743465600</id>
+    <title>https://github.com/visioncortex/vtracer</title>
+    <link href="https://github.com/visioncortex/vtracer" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Raster to Vector Graphics Converter</content>
+  </entry>
+</feed>

@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</id>
+  <title>GitHub Trending - nix (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NixOS/nixos-hardware#1746835200</id>
+    <title>https://github.com/NixOS/nixos-hardware</title>
+    <link href="https://github.com/NixOS/nixos-hardware" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">A collection of NixOS modules covering hardware quirks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1746835200</id>
+    <title>https://github.com/NixOS/nixpkgs</title>
+    <link href="https://github.com/NixOS/nixpkgs" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Nix Packages collection &amp; NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danth/stylix#1746835200</id>
+    <title>https://github.com/danth/stylix</title>
+    <link href="https://github.com/danth/stylix" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dustinlyons/nixos-config#1746835200</id>
+    <title>https://github.com/dustinlyons/nixos-config</title>
+    <link href="https://github.com/dustinlyons/nixos-config" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">General purpose Nix configuration for macOS / NixOS (with starter templates!)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fufexan/dotfiles#1746835200</id>
+    <title>https://github.com/fufexan/dotfiles</title>
+    <link href="https://github.com/fufexan/dotfiles" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">NixOS system config &amp; Home-Manager user config</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fufexan/nix-gaming#1746835200</id>
+    <title>https://github.com/fufexan/nix-gaming</title>
+    <link href="https://github.com/fufexan/nix-gaming" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Gaming on Nix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/home-manager#1746835200</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nixvim#1746835200</id>
+    <title>https://github.com/nix-community/nixvim</title>
+    <link href="https://github.com/nix-community/nixvim" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryan4yin/nixos-and-flakes-book#1746835200</id>
+    <title>https://github.com/ryan4yin/nixos-and-flakes-book</title>
+    <link href="https://github.com/ryan4yin/nixos-and-flakes-book" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">🛠️ ❤️ Want to know NixOS &amp; Flakes in detail? Looking for a beginner-friendly tutorial? Then you've come to the right place! 想要学习使用 NixOS 与 Flakes 吗？在寻找一份新手友好的教程？那你可来对地方了！</content>
+  </entry>
+</feed>

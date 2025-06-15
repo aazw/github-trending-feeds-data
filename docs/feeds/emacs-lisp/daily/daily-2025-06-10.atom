@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DarthFennec/highlight-indent-guides#1749513600</id>
+    <title>https://github.com/DarthFennec/highlight-indent-guides</title>
+    <link href="https://github.com/DarthFennec/highlight-indent-guides" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Emacs minor mode to highlight indentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MatthewZMD/aidermacs#1749513600</id>
+    <title>https://github.com/MatthewZMD/aidermacs</title>
+    <link href="https://github.com/MatthewZMD/aidermacs" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">AI Pair Programming in Emacs with Aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/avy#1749513600</id>
+    <title>https://github.com/abo-abo/avy</title>
+    <link href="https://github.com/abo-abo/avy" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Jump to things in Emacs tree-style</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1749513600</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/swiper#1749513600</id>
+    <title>https://github.com/abo-abo/swiper</title>
+    <link href="https://github.com/abo-abo/swiper" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Ivy - a generic completion frontend for Emacs, Swiper - isearch with an overview, and more. Oh, man!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphapapa/org-ql#1749513600</id>
+    <title>https://github.com/alphapapa/org-ql</title>
+    <link href="https://github.com/alphapapa/org-ql" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bbatsov/projectile#1749513600</id>
+    <title>https://github.com/bbatsov/projectile</title>
+    <link href="https://github.com/bbatsov/projectile" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Project Interaction Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clojure-emacs/cider#1749513600</id>
+    <title>https://github.com/clojure-emacs/cider</title>
+    <link href="https://github.com/clojure-emacs/cider" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">The Clojure Interactive Development Environment that Rocks for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1749513600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1749513600</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/tree-sitter-langs#1749513600</id>
+    <title>https://github.com/emacs-tree-sitter/tree-sitter-langs</title>
+    <link href="https://github.com/emacs-tree-sitter/tree-sitter-langs" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Language bundle for Emacs's tree-sitter package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/treesit-fold#1749513600</id>
+    <title>https://github.com/emacs-tree-sitter/treesit-fold</title>
+    <link href="https://github.com/emacs-tree-sitter/treesit-fold" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Code folding using treesit.el</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdtsmith/ultra-scroll#1749513600</id>
+    <title>https://github.com/jdtsmith/ultra-scroll</title>
+    <link href="https://github.com/jdtsmith/ultra-scroll" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">scroll Emacs like lightning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1749513600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/org-roam/org-roam#1749513600</id>
+    <title>https://github.com/org-roam/org-roam</title>
+    <link href="https://github.com/org-roam/org-roam" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Rudimentary Roam replica with Org-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/polymode/polymode#1749513600</id>
+    <title>https://github.com/polymode/polymode</title>
+    <link href="https://github.com/polymode/polymode" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Framework for Multiple Major Modes in Emacs (core library)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1749513600</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1749513600</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1749513600</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1749513600</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

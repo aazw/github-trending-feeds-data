@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/common-lisp/daily.atom</id>
+  <title>GitHub Trending - common-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/common-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-28T11:09:40+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/lem-project/lem#1735384180</id>
+    <title>https://github.com/lem-project/lem</title>
+    <link href="https://github.com/lem-project/lem" />
+    <updated>2024-12-28T11:09:40+00:00</updated>
+    <content type="text">Common Lisp editor/IDE with high expansibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atlas-engineer/nyxt#1735384180</id>
+    <title>https://github.com/atlas-engineer/nyxt</title>
+    <link href="https://github.com/atlas-engineer/nyxt" />
+    <updated>2024-12-28T11:09:40+00:00</updated>
+    <content type="text">Nyxt - the hacker's browser.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justinmeiners/srcweave#1735384180</id>
+    <title>https://github.com/justinmeiners/srcweave</title>
+    <link href="https://github.com/justinmeiners/srcweave" />
+    <updated>2024-12-28T11:09:40+00:00</updated>
+    <content type="text">A literate programming system for any language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hikettei/Caten#1735384180</id>
+    <title>https://github.com/hikettei/Caten</title>
+    <link href="https://github.com/hikettei/Caten" />
+    <updated>2024-12-28T11:09:40+00:00</updated>
+    <content type="text">[wip] Deep Learning Compiler based on Polyhedral Compiler, Light-weight IRs, and Optimizing Pattern Matcher.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dimitri/pgloader#1735384180</id>
+    <title>https://github.com/dimitri/pgloader</title>
+    <link href="https://github.com/dimitri/pgloader" />
+    <updated>2024-12-28T11:09:40+00:00</updated>
+    <content type="text">Migrate to PostgreSQL in a single command!</content>
+  </entry>
+</feed>

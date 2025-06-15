@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/spark-rapids#1748649600</id>
+    <title>https://github.com/NVIDIA/spark-rapids</title>
+    <link href="https://github.com/NVIDIA/spark-rapids" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Spark RAPIDS plugin - accelerate Apache Spark with GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenXiangShan/XiangShan#1748649600</id>
+    <title>https://github.com/OpenXiangShan/XiangShan</title>
+    <link href="https://github.com/OpenXiangShan/XiangShan" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Open-source high-performance RISC-V processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheHive-Project/TheHive#1748649600</id>
+    <title>https://github.com/TheHive-Project/TheHive</title>
+    <link href="https://github.com/TheHive-Project/TheHive" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">TheHive: a Scalable, Open Source and Free Security Incident Response Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akka/akka#1748649600</id>
+    <title>https://github.com/akka/akka</title>
+    <link href="https://github.com/akka/akka" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1748649600</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-livy#1748649600</id>
+    <title>https://github.com/apache/incubator-livy</title>
+    <link href="https://github.com/apache/incubator-livy" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/kyuubi#1748649600</id>
+    <title>https://github.com/apache/kyuubi</title>
+    <link href="https://github.com/apache/kyuubi" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1748649600</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/deequ#1748649600</id>
+    <title>https://github.com/awslabs/deequ</title>
+    <link href="https://github.com/awslabs/deequ" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Deequ is a library built on top of Apache Spark for defining "unit tests for data", which measure data quality in large datasets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/chisel#1748649600</id>
+    <title>https://github.com/chipsalliance/chisel</title>
+    <link href="https://github.com/chipsalliance/chisel" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Chisel: A Modern Hardware Design Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/rocket-chip#1748649600</id>
+    <title>https://github.com/chipsalliance/rocket-chip</title>
+    <link href="https://github.com/chipsalliance/rocket-chip" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Rocket Chip Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1748649600</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1748649600</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gatling/gatling#1748649600</id>
+    <title>https://github.com/gatling/gatling</title>
+    <link href="https://github.com/gatling/gatling" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Modern Load Testing as Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbucket/gitbucket#1748649600</id>
+    <title>https://github.com/gitbucket/gitbucket</title>
+    <link href="https://github.com/gitbucket/gitbucket" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joernio/joern#1748649600</id>
+    <title>https://github.com/joernio/joern</title>
+    <link href="https://github.com/joernio/joern" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1748649600</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala#1748649600</id>
+    <title>https://github.com/scala/scala</title>
+    <link href="https://github.com/scala/scala" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala3#1748649600</id>
+    <title>https://github.com/scala/scala3</title>
+    <link href="https://github.com/scala/scala3" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">The Scala 3 compiler, also known as Dotty.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1748649600</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yahoo/CMAK#1748649600</id>
+    <title>https://github.com/yahoo/CMAK</title>
+    <link href="https://github.com/yahoo/CMAK" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">CMAK is a tool for managing Apache Kafka clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zio/zio#1748649600</id>
+    <title>https://github.com/zio/zio</title>
+    <link href="https://github.com/zio/zio" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">ZIO — A type-safe, composable library for async and concurrent programming in Scala</content>
+  </entry>
+</feed>

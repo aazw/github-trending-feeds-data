@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom</id>
+  <title>GitHub Trending - java (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OpenAPITools/openapi-generator#1749600000</id>
+    <title>https://github.com/OpenAPITools/openapi-generator</title>
+    <link href="https://github.com/OpenAPITools/openapi-generator" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenLineage/OpenLineage#1749600000</id>
+    <title>https://github.com/OpenLineage/OpenLineage</title>
+    <link href="https://github.com/OpenLineage/OpenLineage" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">An Open Standard for lineage metadata collection</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenRefine/OpenRefine#1749600000</id>
+    <title>https://github.com/OpenRefine/OpenRefine</title>
+    <link href="https://github.com/OpenRefine/OpenRefine" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">OpenRefine is a free, open source power tool for working with messy data and improving it</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StarRocks/starrocks#1749600000</id>
+    <title>https://github.com/StarRocks/starrocks</title>
+    <link href="https://github.com/StarRocks/starrocks" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/spring-ai-alibaba#1749600000</id>
+    <title>https://github.com/alibaba/spring-ai-alibaba</title>
+    <link href="https://github.com/alibaba/spring-ai-alibaba" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Agentic AI Framework for Java Developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/cassandra#1749600000</id>
+    <title>https://github.com/apache/cassandra</title>
+    <link href="https://github.com/apache/cassandra" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Apache Cassandra®</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/cloudstack#1749600000</id>
+    <title>https://github.com/apache/cloudstack</title>
+    <link href="https://github.com/apache/cloudstack" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Apache CloudStack is an opensource Infrastructure as a Service (IaaS) cloud computing platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/doris#1749600000</id>
+    <title>https://github.com/apache/doris</title>
+    <link href="https://github.com/apache/doris" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Apache Doris is an easy-to-use, high performance and unified analytics database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/gravitino#1749600000</id>
+    <title>https://github.com/apache/gravitino</title>
+    <link href="https://github.com/apache/gravitino" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">World's most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/hadoop#1749600000</id>
+    <title>https://github.com/apache/hadoop</title>
+    <link href="https://github.com/apache/hadoop" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Apache Hadoop</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/hudi#1749600000</id>
+    <title>https://github.com/apache/hudi</title>
+    <link href="https://github.com/apache/hudi" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Upserts, Deletes And Incremental Processing on Big Data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/iceberg#1749600000</id>
+    <title>https://github.com/apache/iceberg</title>
+    <link href="https://github.com/apache/iceberg" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Apache Iceberg</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/kafka#1749600000</id>
+    <title>https://github.com/apache/kafka</title>
+    <link href="https://github.com/apache/kafka" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Mirror of Apache Kafka</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/paimon#1749600000</id>
+    <title>https://github.com/apache/paimon</title>
+    <link href="https://github.com/apache/paimon" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Apache Paimon is a lake format that enables building a Realtime Lakehouse Architecture with Flink and Spark for both streaming and batch operations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hkhcoder/vprofile-project#1749600000</id>
+    <title>https://github.com/hkhcoder/vprofile-project</title>
+    <link href="https://github.com/hkhcoder/vprofile-project" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/kestra-io/kestra#1749600000</id>
+    <title>https://github.com/kestra-io/kestra</title>
+    <link href="https://github.com/kestra-io/kestra" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">⚡ Workflow Automation Platform. Orchestrate &amp; Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelcontextprotocol/java-sdk#1749600000</id>
+    <title>https://github.com/modelcontextprotocol/java-sdk</title>
+    <link href="https://github.com/modelcontextprotocol/java-sdk" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netty/netty#1749600000</id>
+    <title>https://github.com/netty/netty</title>
+    <link href="https://github.com/netty/netty" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Netty project - an event-driven asynchronous network application framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/noties/Markwon#1749600000</id>
+    <title>https://github.com/noties/Markwon</title>
+    <link href="https://github.com/noties/Markwon" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Android markdown library (no WebView)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opensearch-project/OpenSearch#1749600000</id>
+    <title>https://github.com/opensearch-project/OpenSearch</title>
+    <link href="https://github.com/opensearch-project/OpenSearch" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">🔎 Open source distributed and RESTful search engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-ai#1749600000</id>
+    <title>https://github.com/spring-projects/spring-ai</title>
+    <link href="https://github.com/spring-projects/spring-ai" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">An Application Framework for AI Engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-ai-examples#1749600000</id>
+    <title>https://github.com/spring-projects/spring-ai-examples</title>
+    <link href="https://github.com/spring-projects/spring-ai-examples" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-security#1749600000</id>
+    <title>https://github.com/spring-projects/spring-security</title>
+    <link href="https://github.com/spring-projects/spring-security" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Spring Security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thingsboard/thingsboard#1749600000</id>
+    <title>https://github.com/thingsboard/thingsboard</title>
+    <link href="https://github.com/thingsboard/thingsboard" />
+    <updated>2025-06-11T00:00:00</updated>
+    <content type="text">Open-source IoT Platform - Device management, data collection, processing and visualization.</content>
+  </entry>
+</feed>

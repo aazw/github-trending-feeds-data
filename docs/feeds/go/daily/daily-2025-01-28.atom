@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbles#1738022400</id>
+    <title>https://github.com/charmbracelet/bubbles</title>
+    <link href="https://github.com/charmbracelet/bubbles" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">TUI components for Bubble Tea 🫧</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1738022400</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/daytonaio/daytona#1738022400</id>
+    <title>https://github.com/daytonaio/daytona</title>
+    <link href="https://github.com/daytonaio/daytona" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">The Open Source Dev Environment Manager.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/garethgeorge/backrest#1738022400</id>
+    <title>https://github.com/garethgeorge/backrest</title>
+    <link href="https://github.com/garethgeorge/backrest" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Backrest is a web UI and orchestrator for restic backup.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-migrate/migrate#1738022400</id>
+    <title>https://github.com/golang-migrate/migrate</title>
+    <link href="https://github.com/golang-migrate/migrate" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Database migrations. CLI and Golang library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/go-cmp#1738022400</id>
+    <title>https://github.com/google/go-cmp</title>
+    <link href="https://github.com/google/go-cmp" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Package for comparing Go values in tests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1738022400</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iam-veeramalla/observability-zero-to-hero#1738022400</id>
+    <title>https://github.com/iam-veeramalla/observability-zero-to-hero</title>
+    <link href="https://github.com/iam-veeramalla/observability-zero-to-hero" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Repo for learning observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1738022400</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1738022400</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kind#1738022400</id>
+    <title>https://github.com/kubernetes-sigs/kind</title>
+    <link href="https://github.com/kubernetes-sigs/kind" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Kubernetes IN Docker - local clusters for testing Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kubebuilder#1738022400</id>
+    <title>https://github.com/kubernetes-sigs/kubebuilder</title>
+    <link href="https://github.com/kubernetes-sigs/kubebuilder" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Kubebuilder - SDK for building Kubernetes APIs using CRDs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kube-state-metrics#1738022400</id>
+    <title>https://github.com/kubernetes/kube-state-metrics</title>
+    <link href="https://github.com/kubernetes/kube-state-metrics" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Add-on agent to generate and expose cluster-level metrics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/m1k1o/neko#1738022400</id>
+    <title>https://github.com/m1k1o/neko</title>
+    <link href="https://github.com/m1k1o/neko" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A self hosted virtual browser that runs in docker and uses WebRTC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1738022400</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738022400</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/katana#1738022400</id>
+    <title>https://github.com/projectdiscovery/katana</title>
+    <link href="https://github.com/projectdiscovery/katana" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A next-generation crawling and spidering framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus-operator/prometheus-operator#1738022400</id>
+    <title>https://github.com/prometheus-operator/prometheus-operator</title>
+    <link href="https://github.com/prometheus-operator/prometheus-operator" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Prometheus Operator creates/configures/manages Prometheus clusters atop Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redpanda-data/connect#1738022400</id>
+    <title>https://github.com/redpanda-data/connect</title>
+    <link href="https://github.com/redpanda-data/connect" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Fancy stream processing made operationally mundane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1738022400</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thanos-io/thanos#1738022400</id>
+    <title>https://github.com/thanos-io/thanos</title>
+    <link href="https://github.com/thanos-io/thanos" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1738022400</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wavetermdev/waveterm#1738022400</id>
+    <title>https://github.com/wavetermdev/waveterm</title>
+    <link href="https://github.com/wavetermdev/waveterm" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">An open-source, cross-platform terminal for seamless workflows</content>
+  </entry>
+</feed>

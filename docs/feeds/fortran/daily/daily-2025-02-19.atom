@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CFMIP/COSPv2.0#1739923200</id>
+    <title>https://github.com/CFMIP/COSPv2.0</title>
+    <link href="https://github.com/CFMIP/COSPv2.0" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">COSP - The CFMIP (Cloud Feedbacks Model Intercomparison Project) Observation Simulator Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GEOS-ESM/MAPL#1739923200</id>
+    <title>https://github.com/GEOS-ESM/MAPL</title>
+    <link href="https://github.com/GEOS-ESM/MAPL" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Goddard-Fortran-Ecosystem/fArgParse#1739923200</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/fArgParse</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/fArgParse" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Command line argument parsing for Fortran</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Goddard-Fortran-Ecosystem/gFTL#1739923200</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/gFTL</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/gFTL" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Software containers for Fortran</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MCSclimate/MCT#1739923200</id>
+    <title>https://github.com/MCSclimate/MCT</title>
+    <link href="https://github.com/MCSclimate/MCT" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Model Coupling Tookit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFAST/openfast#1739923200</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cp2k/cp2k#1739923200</id>
+    <title>https://github.com/cp2k/cp2k</title>
+    <link href="https://github.com/cp2k/cp2k" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Quantum chemistry and solid state physics software package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/earth-system-radiation/rte-rrtmgp#1739923200</id>
+    <title>https://github.com/earth-system-radiation/rte-rrtmgp</title>
+    <link href="https://github.com/earth-system-radiation/rte-rrtmgp" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1739923200</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/geoschem/geos-chem#1739923200</id>
+    <title>https://github.com/geoschem/geos-chem</title>
+    <link href="https://github.com/geoschem/geos-chem" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">GEOS-Chem "Science Codebase" repository. Contains GEOS-Chem science routines, run directory generation scripts, and interface code. This repository is used as a submodule within the GCClassic and GCHP wrappers, as well as in other modeling contexts (external ESMs).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grimme-lab/xtb#1739923200</id>
+    <title>https://github.com/grimme-lab/xtb</title>
+    <link href="https://github.com/grimme-lab/xtb" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">Semiempirical Extended Tight-Binding Program Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modern-fortran/neural-fortran#1739923200</id>
+    <title>https://github.com/modern-fortran/neural-fortran</title>
+    <link href="https://github.com/modern-fortran/neural-fortran" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">A parallel framework for deep learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1739923200</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-02-19T00:00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+</feed>

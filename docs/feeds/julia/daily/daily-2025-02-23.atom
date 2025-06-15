@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CliMA/ClimaCoupler.jl#1740268800</id>
+    <title>https://github.com/CliMA/ClimaCoupler.jl</title>
+    <link href="https://github.com/CliMA/ClimaCoupler.jl" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">ClimaCoupler: bringing atmosphere, land, and ocean together</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ITensor/ITensors.jl#1740268800</id>
+    <title>https://github.com/ITensor/ITensors.jl</title>
+    <link href="https://github.com/ITensor/ITensors.jl" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A Julia library for efficient tensor computations and tensor network calculations. ITensor is supported by the Simons Foundation's Flatiron Institute.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1740268800</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1740268800</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/ModelingToolkit.jl#1740268800</id>
+    <title>https://github.com/SciML/ModelingToolkit.jl</title>
+    <link href="https://github.com/SciML/ModelingToolkit.jl" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations</content>
+  </entry>
+</feed>

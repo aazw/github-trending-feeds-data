@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Lagrange-Labs/deep-prove#1748563200</id>
+    <title>https://github.com/Lagrange-Labs/deep-prove</title>
+    <link href="https://github.com/Lagrange-Labs/deep-prove" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">Framework to prove inference of ML models blazingly fast</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-q-developer-cli#1748563200</id>
+    <title>https://github.com/aws/amazon-q-developer-cli</title>
+    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">✨ Agentic chat experience in your terminal. Build applications using natural language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1748563200</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-convex/convex-backend#1748563200</id>
+    <title>https://github.com/get-convex/convex-backend</title>
+    <link href="https://github.com/get-convex/convex-backend" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">The open-source reactive database for app developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/tokenizers#1748563200</id>
+    <title>https://github.com/huggingface/tokenizers</title>
+    <link href="https://github.com/huggingface/tokenizers" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperlight-dev/hyperlight#1748563200</id>
+    <title>https://github.com/hyperlight-dev/hyperlight</title>
+    <link href="https://github.com/hyperlight-dev/hyperlight" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iced-rs/iced#1748563200</id>
+    <title>https://github.com/iced-rs/iced</title>
+    <link href="https://github.com/iced-rs/iced" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">A cross-platform GUI library for Rust, inspired by Elm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1748563200</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loco-rs/loco#1748563200</id>
+    <title>https://github.com/loco-rs/loco</title>
+    <link href="https://github.com/loco-rs/loco" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">🚂 🦀 The one-person framework for Rust for side-projects and startups</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1748563200</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1748563200</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1748563200</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/risingwavelabs/risingwave#1748563200</id>
+    <title>https://github.com/risingwavelabs/risingwave</title>
+    <link href="https://github.com/risingwavelabs/risingwave" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">Stream processing and management platform.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1748563200</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tari-project/tari#1748563200</id>
+    <title>https://github.com/tari-project/tari</title>
+    <link href="https://github.com/tari-project/tari" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">The Tari protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tokio#1748563200</id>
+    <title>https://github.com/tokio-rs/tokio</title>
+    <link href="https://github.com/tokio-rs/tokio" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1748563200</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1748563200</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-05-30T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+</feed>

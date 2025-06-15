@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haxe/daily.atom</id>
+  <title>GitHub Trending - haxe (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haxe/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CodenameCrew/CodenameEngine#1744588800</id>
+    <title>https://github.com/CodenameCrew/CodenameEngine</title>
+    <link href="https://github.com/CodenameCrew/CodenameEngine" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">awesome fnf engine :D</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FunkinCrew/Funkin#1744588800</id>
+    <title>https://github.com/FunkinCrew/Funkin</title>
+    <link href="https://github.com/FunkinCrew/Funkin" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">A rhythm game made with HaxeFlixel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FunkinCrew/funkin.assets#1744588800</id>
+    <title>https://github.com/FunkinCrew/funkin.assets</title>
+    <link href="https://github.com/FunkinCrew/funkin.assets" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/HaxeFoundation/haxe#1744588800</id>
+    <title>https://github.com/HaxeFoundation/haxe</title>
+    <link href="https://github.com/HaxeFoundation/haxe" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Haxe - The Cross-Platform Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Snirozu/Funkin-Psych-Online#1744588800</id>
+    <title>https://github.com/Snirozu/Funkin-Psych-Online</title>
+    <link href="https://github.com/Snirozu/Funkin-Psych-Online" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Psych Engine with Online Multiplayer</content>
+  </entry>
+</feed>

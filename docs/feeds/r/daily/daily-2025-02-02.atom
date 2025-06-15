@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/briatte/awesome-network-analysis#1738454400</id>
+    <title>https://github.com/briatte/awesome-network-analysis</title>
+    <link href="https://github.com/briatte/awesome-network-analysis" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">A curated list of awesome network analysis resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadley/r4ds#1738454400</id>
+    <title>https://github.com/hadley/r4ds</title>
+    <link href="https://github.com/hadley/r4ds" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">R for data science: a book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rdpeng/ProgrammingAssignment2#1738454400</id>
+    <title>https://github.com/rdpeng/ProgrammingAssignment2</title>
+    <link href="https://github.com/rdpeng/ProgrammingAssignment2" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Repository for Programming Assignment 2 for R Programming on Coursera</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/shiny#1738454400</id>
+    <title>https://github.com/rstudio/shiny</title>
+    <link href="https://github.com/rstudio/shiny" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Easy interactive web applications with R</content>
+  </entry>
+</feed>

@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom</id>
+  <title>GitHub Trending - verilog (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-13T11:31:03+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/alexforencich/verilog-ethernet#1736767863</id>
+    <title>https://github.com/alexforencich/verilog-ethernet</title>
+    <link href="https://github.com/alexforencich/verilog-ethernet" />
+    <updated>2025-01-13T11:31:03+00:00</updated>
+    <content type="text">Verilog Ethernet components for FPGA implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/efabless/caravel_user_project#1736767863</id>
+    <title>https://github.com/efabless/caravel_user_project</title>
+    <link href="https://github.com/efabless/caravel_user_project" />
+    <updated>2025-01-13T11:31:03+00:00</updated>
+    <content type="text">https://caravel-user-project.readthedocs.io</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/cheshire#1736767863</id>
+    <title>https://github.com/pulp-platform/cheshire</title>
+    <link href="https://github.com/pulp-platform/cheshire" />
+    <updated>2025-01-13T11:31:03+00:00</updated>
+    <content type="text">A minimal Linux-capable 64-bit RISC-V SoC built around CVA6</content>
+  </entry>
+  <entry>
+    <id>https://github.com/The-OpenROAD-Project/OpenROAD#1736767863</id>
+    <title>https://github.com/The-OpenROAD-Project/OpenROAD</title>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD" />
+    <updated>2025-01-13T11:31:03+00:00</updated>
+    <content type="text">OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vortexgpgpu/vortex#1736767863</id>
+    <title>https://github.com/vortexgpgpu/vortex</title>
+    <link href="https://github.com/vortexgpgpu/vortex" />
+    <updated>2025-01-13T11:31:03+00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

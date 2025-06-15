@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Trending - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/VundleVim/Vundle.vim#1748822400</id>
+    <title>https://github.com/VundleVim/Vundle.vim</title>
+    <link href="https://github.com/VundleVim/Vundle.vim" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Vundle, the plug-in manager for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aklt/plantuml-syntax#1748822400</id>
+    <title>https://github.com/aklt/plantuml-syntax</title>
+    <link href="https://github.com/aklt/plantuml-syntax" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">vim syntax file for plantuml</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1748822400</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1748822400</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatih/vim-go#1748822400</id>
+    <title>https://github.com/fatih/vim-go</title>
+    <link href="https://github.com/fatih/vim-go" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Go development plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1748822400</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/vim-jsonnet#1748822400</id>
+    <title>https://github.com/google/vim-jsonnet</title>
+    <link href="https://github.com/google/vim-jsonnet" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Jsonnet filetype plugin for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/seoul256.vim#1748822400</id>
+    <title>https://github.com/junegunn/seoul256.vim</title>
+    <link href="https://github.com/junegunn/seoul256.vim" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">🌳 Low-contrast Vim color scheme based on Seoul Colors</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kshenoy/vim-signature#1748822400</id>
+    <title>https://github.com/kshenoy/vim-signature</title>
+    <link href="https://github.com/kshenoy/vim-signature" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Plugin to toggle, display and navigate marks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lambdalisue/vim-fern#1748822400</id>
+    <title>https://github.com/lambdalisue/vim-fern</title>
+    <link href="https://github.com/lambdalisue/vim-fern" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">🌿 General purpose asynchronous tree viewer written in Pure Vim script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-galore#1748822400</id>
+    <title>https://github.com/mhinz/vim-galore</title>
+    <link href="https://github.com/mhinz/vim-galore" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">🎓 All things Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1748822400</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rhysd/git-messenger.vim#1748822400</id>
+    <title>https://github.com/rhysd/git-messenger.vim</title>
+    <link href="https://github.com/rhysd/git-messenger.vim" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Vim and Neovim plugin to reveal the commit messages under the cursor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1748822400</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1748822400</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1748822400</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1748822400</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1748822400</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1748822400</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voldikss/vim-floaterm#1748822400</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
+  </entry>
+</feed>

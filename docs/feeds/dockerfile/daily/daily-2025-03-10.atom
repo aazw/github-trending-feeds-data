@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-functions-docker#1741564800</id>
+    <title>https://github.com/Azure/azure-functions-docker</title>
+    <link href="https://github.com/Azure/azure-functions-docker" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">This repo contains the base Docker images for working with azure functions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CoolKit-Technologies/ha-addon#1741564800</id>
+    <title>https://github.com/CoolKit-Technologies/ha-addon</title>
+    <link href="https://github.com/CoolKit-Technologies/ha-addon" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/LinkedInLearning/data-engineering-with-data-build-tool-dbt-4458303#1741564800</id>
+    <title>https://github.com/LinkedInLearning/data-engineering-with-data-build-tool-dbt-4458303</title>
+    <link href="https://github.com/LinkedInLearning/data-engineering-with-data-build-tool-dbt-4458303" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">This is a code repository for the course Data Engineering with Data Build Tool (DBT).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LinkedInLearning/desafio-programacion-python-ciencia-datos-3080127#1741564800</id>
+    <title>https://github.com/LinkedInLearning/desafio-programacion-python-ciencia-datos-3080127</title>
+    <link href="https://github.com/LinkedInLearning/desafio-programacion-python-ciencia-datos-3080127" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1741564800</id>
+    <title>https://github.com/OWASP/wstg</title>
+    <link href="https://github.com/OWASP/wstg" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YanWenKun/ComfyUI-Docker#1741564800</id>
+    <title>https://github.com/YanWenKun/ComfyUI-Docker</title>
+    <link href="https://github.com/YanWenKun/ComfyUI-Docker" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/sagemaker-distribution#1741564800</id>
+    <title>https://github.com/aws/sagemaker-distribution</title>
+    <link href="https://github.com/aws/sagemaker-distribution" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A set of Docker images that include popular frameworks for machine learning, data science and visualization.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bufbuild/plugins#1741564800</id>
+    <title>https://github.com/bufbuild/plugins</title>
+    <link href="https://github.com/bufbuild/plugins" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Remote Protobuf plugins available on the BSR</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coollabsio/documentation-coolify#1741564800</id>
+    <title>https://github.com/coollabsio/documentation-coolify</title>
+    <link href="https://github.com/coollabsio/documentation-coolify" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Documentation for Coolify</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-buildtools-prereqs-docker#1741564800</id>
+    <title>https://github.com/dotnet/dotnet-buildtools-prereqs-docker</title>
+    <link href="https://github.com/dotnet/dotnet-buildtools-prereqs-docker" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Used to maintain the Docker images hosted at the mcr.microsoft.com/dotnet-buildtools/prereqs image repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laradock/laradock#1741564800</id>
+    <title>https://github.com/laradock/laradock</title>
+    <link href="https://github.com/laradock/laradock" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Full PHP development environment for Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-qbittorrent#1741564800</id>
+    <title>https://github.com/linuxserver/docker-qbittorrent</title>
+    <link href="https://github.com/linuxserver/docker-qbittorrent" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-swag#1741564800</id>
+    <title>https://github.com/linuxserver/docker-swag</title>
+    <link href="https://github.com/linuxserver/docker-swag" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/madMAx43v3r/chia-gigahorse#1741564800</id>
+    <title>https://github.com/madMAx43v3r/chia-gigahorse</title>
+    <link href="https://github.com/madMAx43v3r/chia-gigahorse" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mu_devops#1741564800</id>
+    <title>https://github.com/microsoft/mu_devops</title>
+    <link href="https://github.com/microsoft/mu_devops" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Project Mu Developer Operations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nodejs/docker-node#1741564800</id>
+    <title>https://github.com/nodejs/docker-node</title>
+    <link href="https://github.com/nodejs/docker-node" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Official Docker Image for Node.js 🐳 🐢 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openresty/docker-openresty#1741564800</id>
+    <title>https://github.com/openresty/docker-openresty</title>
+    <link href="https://github.com/openresty/docker-openresty" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Docker tooling for OpenResty</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxsecurity/megalinter#1741564800</id>
+    <title>https://github.com/oxsecurity/megalinter</title>
+    <link href="https://github.com/oxsecurity/megalinter" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sou6av/deploy-raganork#1741564800</id>
+    <title>https://github.com/sou6av/deploy-raganork</title>
+    <link href="https://github.com/sou6av/deploy-raganork" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/sprintcube/docker-compose-lamp#1741564800</id>
+    <title>https://github.com/sprintcube/docker-compose-lamp</title>
+    <link href="https://github.com/sprintcube/docker-compose-lamp" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A basic LAMP stack environment built using Docker Compose.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vulhub/vulhub#1741564800</id>
+    <title>https://github.com/vulhub/vulhub</title>
+    <link href="https://github.com/vulhub/vulhub" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
+  </entry>
+</feed>

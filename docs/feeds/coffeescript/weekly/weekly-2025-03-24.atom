@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coffeescript/weekly.atom</id>
+  <title>GitHub Trending - coffeescript (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dropbox/zxcvbn#1742774400</id>
+    <title>https://github.com/dropbox/zxcvbn</title>
+    <link href="https://github.com/dropbox/zxcvbn" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Low-Budget Password Strength Estimation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lucassus/angular-coffee-seed#1742774400</id>
+    <title>https://github.com/lucassus/angular-coffee-seed</title>
+    <link href="https://github.com/lucassus/angular-coffee-seed" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">AngularJS seed based on grunt JavaScript tasks runner and bower a package manager for the web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oozcitak/xmlbuilder-js#1742774400</id>
+    <title>https://github.com/oozcitak/xmlbuilder-js</title>
+    <link href="https://github.com/oozcitak/xmlbuilder-js" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">An XML builder for node.js</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slackapi/hubot-slack#1742774400</id>
+    <title>https://github.com/slackapi/hubot-slack</title>
+    <link href="https://github.com/slackapi/hubot-slack" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Slack Developer Kit for Hubot</content>
+  </entry>
+</feed>

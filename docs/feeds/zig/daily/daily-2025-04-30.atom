@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom</id>
+  <title>GitHub Trending - zig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Vexu/arocc#1745971200</id>
+    <title>https://github.com/Vexu/arocc</title>
+    <link href="https://github.com/Vexu/arocc" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">A modern fully featured C compiler.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fairyglade/ly#1745971200</id>
+    <title>https://github.com/fairyglade/ly</title>
+    <link href="https://github.com/fairyglade/ly" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">display manager with console UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karlseguin/http.zig#1745971200</id>
+    <title>https://github.com/karlseguin/http.zig</title>
+    <link href="https://github.com/karlseguin/http.zig" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">An HTTP/1.1 server for zig</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristoff-it/superhtml#1745971200</id>
+    <title>https://github.com/kristoff-it/superhtml</title>
+    <link href="https://github.com/kristoff-it/superhtml" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">HTML Language Server &amp; Templating Language Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristoff-it/zine#1745971200</id>
+    <title>https://github.com/kristoff-it/zine</title>
+    <link href="https://github.com/kristoff-it/zine" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Fast, Scalable, Flexible Static Site Generator (SSG)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neurocyte/flow#1745971200</id>
+    <title>https://github.com/neurocyte/flow</title>
+    <link href="https://github.com/neurocyte/flow" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Flow Control: a programmer's text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1745971200</id>
+    <title>https://github.com/oven-sh/bun</title>
+    <link href="https://github.com/oven-sh/bun" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pedropark99/zig-book#1745971200</id>
+    <title>https://github.com/pedropark99/zig-book</title>
+    <link href="https://github.com/pedropark99/zig-book" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">An open, technical and introductory book for the Zig programming language 📚📖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riverwm/river#1745971200</id>
+    <title>https://github.com/riverwm/river</title>
+    <link href="https://github.com/riverwm/river" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">[mirror] A dynamic tiling Wayland compositor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tigerbeetle/tigerbeetle#1745971200</id>
+    <title>https://github.com/tigerbeetle/tigerbeetle</title>
+    <link href="https://github.com/tigerbeetle/tigerbeetle" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">The financial transactions database designed for mission critical safety and performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig#1745971200</id>
+    <title>https://github.com/ziglang/zig</title>
+    <link href="https://github.com/ziglang/zig" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zigtools/zls#1745971200</id>
+    <title>https://github.com/zigtools/zls</title>
+    <link href="https://github.com/zigtools/zls" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">A Zig language server supporting Zig developers with features like autocomplete and goto definition</content>
+  </entry>
+</feed>

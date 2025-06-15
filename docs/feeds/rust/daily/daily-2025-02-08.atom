@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xPlaygrounds/rig#1738972800</id>
+    <title>https://github.com/0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1738972800</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1738972800</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/comprehensive-rust#1738972800</id>
+    <title>https://github.com/google/comprehensive-rust</title>
+    <link href="https://github.com/google/comprehensive-rust" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juhaku/utoipa#1738972800</id>
+    <title>https://github.com/juhaku/utoipa</title>
+    <link href="https://github.com/juhaku/utoipa" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/launchbadge/sqlx#1738972800</id>
+    <title>https://github.com/launchbadge/sqlx</title>
+    <link href="https://github.com/launchbadge/sqlx" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lumina-ai-inc/chunkr#1738972800</id>
+    <title>https://github.com/lumina-ai-inc/chunkr</title>
+    <link href="https://github.com/lumina-ai-inc/chunkr" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Vision model based document ingestion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mullvad/mullvadvpn-app#1738972800</id>
+    <title>https://github.com/mullvad/mullvadvpn-app</title>
+    <link href="https://github.com/mullvad/mullvadvpn-app" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The Mullvad VPN client app for desktop and mobile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n0-computer/iroh#1738972800</id>
+    <title>https://github.com/n0-computer/iroh</title>
+    <link href="https://github.com/n0-computer/iroh" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">peer-2-peer that just works</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxc-project/oxc#1738972800</id>
+    <title>https://github.com/oxc-project/oxc</title>
+    <link href="https://github.com/oxc-project/oxc" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">⚓ A collection of JavaScript tools written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1738972800</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quickwit-oss/tantivy#1738972800</id>
+    <title>https://github.com/quickwit-oss/tantivy</title>
+    <link href="https://github.com/quickwit-oss/tantivy" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/risingwavelabs/risingwave#1738972800</id>
+    <title>https://github.com/risingwavelabs/risingwave</title>
+    <link href="https://github.com/risingwavelabs/risingwave" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The event stream processing platform for developers. Unified experience for real-time data ingestion, stream processing, and low-latency serving. Best-in-class performance and cost-efficiency. Supports SQL and Python.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1738972800</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1738972800</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk-server#1738972800</id>
+    <title>https://github.com/rustdesk/rustdesk-server</title>
+    <link href="https://github.com/rustdesk/rustdesk-server" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">RustDesk Server Program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/succinctlabs/sp1#1738972800</id>
+    <title>https://github.com/succinctlabs/sp1</title>
+    <link href="https://github.com/succinctlabs/sp1" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The fastest, most feature-complete zkVM for developers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1738972800</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1738972800</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1738972800</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1738972800</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/rspack#1738972800</id>
+    <title>https://github.com/web-infra-dev/rspack</title>
+    <link href="https://github.com/web-infra-dev/rspack" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The fast Rust-based web bundler with webpack-compatible API 🦀️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1738972800</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom</id>
+  <title>GitHub Trending - bitbake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/" rel="alternate" />
+  <updated>2024-12-26T11:08:02+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/openembedded/meta-openembedded#1735211282</id>
+    <title>https://github.com/openembedded/meta-openembedded</title>
+    <link href="https://github.com/openembedded/meta-openembedded" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/rauc/meta-rauc#1735211282</id>
+    <title>https://github.com/rauc/meta-rauc</title>
+    <link href="https://github.com/rauc/meta-rauc" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">Yocto/Open Embedded meta layer for RAUC, the embedded Linux update framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OE4T/meta-tegra#1735211282</id>
+    <title>https://github.com/OE4T/meta-tegra</title>
+    <link href="https://github.com/OE4T/meta-tegra" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">BSP layer for NVIDIA Jetson platforms, based on L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kraj/meta-clang#1735211282</id>
+    <title>https://github.com/kraj/meta-clang</title>
+    <link href="https://github.com/kraj/meta-clang" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-embedded/meta-rust-bin#1735211282</id>
+    <title>https://github.com/rust-embedded/meta-rust-bin</title>
+    <link href="https://github.com/rust-embedded/meta-rust-bin" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbmc/openbmc#1735211282</id>
+    <title>https://github.com/openbmc/openbmc</title>
+    <link href="https://github.com/openbmc/openbmc" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">OpenBMC Distribution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/STMicroelectronics/meta-st-stm32mp#1735211282</id>
+    <title>https://github.com/STMicroelectronics/meta-st-stm32mp</title>
+    <link href="https://github.com/STMicroelectronics/meta-st-stm32mp" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">meta-st-stm32mp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-rust/meta-rust#1735211282</id>
+    <title>https://github.com/meta-rust/meta-rust</title>
+    <link href="https://github.com/meta-rust/meta-rust" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/openembedded-core#1735211282</id>
+    <title>https://github.com/openembedded/openembedded-core</title>
+    <link href="https://github.com/openembedded/openembedded-core" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mendersoftware/meta-mender#1735211282</id>
+    <title>https://github.com/mendersoftware/meta-mender</title>
+    <link href="https://github.com/mendersoftware/meta-mender" />
+    <updated>2024-12-26T11:08:02+00:00</updated>
+    <content type="text">Yocto Project meta layer for the Mender client</content>
+  </entry>
+</feed>

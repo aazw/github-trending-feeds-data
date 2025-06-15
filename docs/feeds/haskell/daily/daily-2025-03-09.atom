@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GaloisInc/flexdis86#1741478400</id>
+    <title>https://github.com/GaloisInc/flexdis86</title>
+    <link href="https://github.com/GaloisInc/flexdis86" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A library for disassembling x86-64 binaries.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node#1741478400</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1741478400</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augustss/MicroHs#1741478400</id>
+    <title>https://github.com/augustss/MicroHs</title>
+    <link href="https://github.com/augustss/MicroHs" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Haskell implemented with combinators</content>
+  </entry>
+  <entry>
+    <id>https://github.com/change-metrics/monocle#1741478400</id>
+    <title>https://github.com/change-metrics/monocle</title>
+    <link href="https://github.com/change-metrics/monocle" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fossas/fossa-cli#1741478400</id>
+    <title>https://github.com/fossas/fossa-cli</title>
+    <link href="https://github.com/fossas/fossa-cli" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Fast, portable and reliable dependency analysis for any codebase. Supports license &amp; vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell-suite/haskell-src-exts#1741478400</id>
+    <title>https://github.com/haskell-suite/haskell-src-exts</title>
+    <link href="https://github.com/haskell-suite/haskell-src-exts" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1741478400</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1741478400</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koka-lang/koka#1741478400</id>
+    <title>https://github.com/koka-lang/koka</title>
+    <link href="https://github.com/koka-lang/koka" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Koka language compiler and interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucsd-progsys/liquid-fixpoint#1741478400</id>
+    <title>https://github.com/ucsd-progsys/liquid-fixpoint</title>
+    <link href="https://github.com/ucsd-progsys/liquid-fixpoint" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Horn Clause Constraint Solving for Liquid Types</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unisonweb/unison#1741478400</id>
+    <title>https://github.com/unisonweb/unison</title>
+    <link href="https://github.com/unisonweb/unison" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A friendly programming language from the future</content>
+  </entry>
+</feed>

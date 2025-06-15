@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CliMA/ClimaAtmos.jl#1741305600</id>
+    <title>https://github.com/CliMA/ClimaAtmos.jl</title>
+    <link href="https://github.com/CliMA/ClimaAtmos.jl" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaDocs/Documenter.jl#1741305600</id>
+    <title>https://github.com/JuliaDocs/Documenter.jl</title>
+    <link href="https://github.com/JuliaDocs/Documenter.jl" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">A documentation generator for Julia.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaGPU/CUDA.jl#1741305600</id>
+    <title>https://github.com/JuliaGPU/CUDA.jl</title>
+    <link href="https://github.com/JuliaGPU/CUDA.jl" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">CUDA programming in Julia.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1741305600</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/NonlinearSolve.jl#1741305600</id>
+    <title>https://github.com/SciML/NonlinearSolve.jl</title>
+    <link href="https://github.com/SciML/NonlinearSolve.jl" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">High-performance and differentiation-enabled nonlinear solvers (Newton methods), bracketed rootfinding (bisection, Falsi), with sparsity and Newton-Krylov support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jump-dev/MathOptInterface.jl#1741305600</id>
+    <title>https://github.com/jump-dev/MathOptInterface.jl</title>
+    <link href="https://github.com/jump-dev/MathOptInterface.jl" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">A data structure for mathematical optimization problems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rafaqz/Rasters.jl#1741305600</id>
+    <title>https://github.com/rafaqz/Rasters.jl</title>
+    <link href="https://github.com/rafaqz/Rasters.jl" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Raster manipulation for the Julia language</content>
+  </entry>
+</feed>

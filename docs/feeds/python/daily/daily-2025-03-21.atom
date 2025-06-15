@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OpenBB-finance/OpenBB#1742515200</id>
+    <title>https://github.com/OpenBB-finance/OpenBB</title>
+    <link href="https://github.com/OpenBB-finance/OpenBB" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Investment Research for Everyone, Everywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hacksider/Deep-Live-Cam#1742515200</id>
+    <title>https://github.com/hacksider/Deep-Live-Cam</title>
+    <link href="https://github.com/hacksider/Deep-Live-Cam" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">real time face swap and one-click video deepfake with only a single image</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langflow-ai/langflow#1742515200</id>
+    <title>https://github.com/langflow-ai/langflow</title>
+    <link href="https://github.com/langflow-ai/langflow" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Langflow is a powerful tool for building and deploying AI-powered agents and workflows.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lastmile-ai/mcp-agent#1742515200</id>
+    <title>https://github.com/lastmile-ai/mcp-agent</title>
+    <link href="https://github.com/lastmile-ai/mcp-agent" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Build effective agents using Model Context Protocol and simple workflow patterns</content>
+  </entry>
+  <entry>
+    <id>https://github.com/localstack/localstack#1742515200</id>
+    <title>https://github.com/localstack/localstack</title>
+    <link href="https://github.com/localstack/localstack" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">💻 A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/markitdown#1742515200</id>
+    <title>https://github.com/microsoft/markitdown</title>
+    <link href="https://github.com/microsoft/markitdown" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Python tool for converting files and office documents to Markdown.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/qlib#1742515200</id>
+    <title>https://github.com/microsoft/qlib</title>
+    <link href="https://github.com/microsoft/qlib" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Qlib is an AI-oriented quantitative investment platform that aims to realize the potential, empower research, and create value using AI technologies in quantitative investment, from exploring ideas to implementing productions. Qlib supports diverse machine learning modeling paradigms. including supervised learning, market dynamics modeling, and RL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stanfordnlp/dspy#1742515200</id>
+    <title>https://github.com/stanfordnlp/dspy</title>
+    <link href="https://github.com/stanfordnlp/dspy" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">DSPy: The framework for programming—not prompting—language models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/vllm#1742515200</id>
+    <title>https://github.com/vllm-project/vllm</title>
+    <link href="https://github.com/vllm-project/vllm" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A high-throughput and memory-efficient inference and serving engine for LLMs</content>
+  </entry>
+</feed>

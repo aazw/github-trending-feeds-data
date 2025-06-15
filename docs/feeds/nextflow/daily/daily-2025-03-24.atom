@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom</id>
+  <title>GitHub Trending - nextflow (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nextflow-io/training#1742774400</id>
+    <title>https://github.com/nextflow-io/training</title>
+    <link href="https://github.com/nextflow-io/training" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Nextflow training material</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/atacseq#1742774400</id>
+    <title>https://github.com/nf-core/atacseq</title>
+    <link href="https://github.com/nf-core/atacseq" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">ATAC-seq peak-calling and QC analysis pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/bactmap#1742774400</id>
+    <title>https://github.com/nf-core/bactmap</title>
+    <link href="https://github.com/nf-core/bactmap" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">A mapping-based pipeline for creating a phylogeny from bacterial whole genome sequences</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/crisprseq#1742774400</id>
+    <title>https://github.com/nf-core/crisprseq</title>
+    <link href="https://github.com/nf-core/crisprseq" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">A pipeline for the analysis of CRISPR edited data. It allows the evaluation of the quality of gene editing experiments using targeted next generation sequencing (NGS) data (`targeted`) as well as the discovery of important genes from knock-out or activation CRISPR-Cas9 screens using CRISPR pooled DNA (`screening`).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/dualrnaseq#1742774400</id>
+    <title>https://github.com/nf-core/dualrnaseq</title>
+    <link href="https://github.com/nf-core/dualrnaseq" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Analysis of Dual RNA-seq data - an experimental method for interrogating host-pathogen interactions through simultaneous RNA-seq.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/modules#1742774400</id>
+    <title>https://github.com/nf-core/modules</title>
+    <link href="https://github.com/nf-core/modules" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Repository to host tool-specific module files for the Nextflow DSL2 community!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/multiplesequencealign#1742774400</id>
+    <title>https://github.com/nf-core/multiplesequencealign</title>
+    <link href="https://github.com/nf-core/multiplesequencealign" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">A pipeline to run and systematically evaluate Multiple Sequence Alignment (MSA) methods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/oncoanalyser#1742774400</id>
+    <title>https://github.com/nf-core/oncoanalyser</title>
+    <link href="https://github.com/nf-core/oncoanalyser" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">A comprehensive cancer DNA/RNA analysis and reporting pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/proteomicslfq#1742774400</id>
+    <title>https://github.com/nf-core/proteomicslfq</title>
+    <link href="https://github.com/nf-core/proteomicslfq" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Proteomics label-free quantification (LFQ) analysis pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/readsimulator#1742774400</id>
+    <title>https://github.com/nf-core/readsimulator</title>
+    <link href="https://github.com/nf-core/readsimulator" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">A pipeline to simulate sequencing reads, such as Amplicon, Target Capture, Metagenome, and Whole genome data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/sarek#1742774400</id>
+    <title>https://github.com/nf-core/sarek</title>
+    <link href="https://github.com/nf-core/sarek" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/scrnaseq#1742774400</id>
+    <title>https://github.com/nf-core/scrnaseq</title>
+    <link href="https://github.com/nf-core/scrnaseq" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Single-cell RNA-Seq pipeline for barcode-based protocols such as 10x, DropSeq or SmartSeq, offering a variety of aligners and empty-droplet detection</content>
+  </entry>
+</feed>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-29T11:12:51+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ferd/recon#1735470771</id>
+    <title>https://github.com/ferd/recon</title>
+    <link href="https://github.com/ferd/recon" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Collection of functions and scripts to debug Erlang in production.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/processone/ejabberd#1735470771</id>
+    <title>https://github.com/processone/ejabberd</title>
+    <link href="https://github.com/processone/ejabberd" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epgsql/epgsql#1735470771</id>
+    <title>https://github.com/epgsql/epgsql</title>
+    <link href="https://github.com/epgsql/epgsql" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Erlang PostgreSQL client library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dgiot/dgiot#1735470771</id>
+    <title>https://github.com/dgiot/dgiot</title>
+    <link href="https://github.com/dgiot/dgiot" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-ls/erlang_ls#1735470771</id>
+    <title>https://github.com/erlang-ls/erlang_ls</title>
+    <link href="https://github.com/erlang-ls/erlang_ls" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">The Erlang Language Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1735470771</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1735470771</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1735470771</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dnsimple/erldns#1735470771</id>
+    <title>https://github.com/dnsimple/erldns</title>
+    <link href="https://github.com/dnsimple/erldns" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">DNS server, in Erlang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/ranch#1735470771</id>
+    <title>https://github.com/ninenines/ranch</title>
+    <link href="https://github.com/ninenines/ranch" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Socket acceptor pool for TCP protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uwiger/gproc#1735470771</id>
+    <title>https://github.com/uwiger/gproc</title>
+    <link href="https://github.com/uwiger/gproc" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Extended process registry for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1735470771</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1735470771</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1735470771</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2024-12-29T11:12:51+00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+</feed>

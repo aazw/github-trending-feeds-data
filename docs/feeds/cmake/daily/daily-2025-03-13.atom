@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/TheRobotStudio/SO-ARM100#1741824000</id>
+    <title>https://github.com/TheRobotStudio/SO-ARM100</title>
+    <link href="https://github.com/TheRobotStudio/SO-ARM100" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Standard Open Arm 100</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ament/ament_cmake#1741824000</id>
+    <title>https://github.com/ament/ament_cmake</title>
+    <link href="https://github.com/ament/ament_cmake" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Supporting CMake packages for working with ament</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libbpf/libbpf-bootstrap#1741824000</id>
+    <title>https://github.com/libbpf/libbpf-bootstrap</title>
+    <link href="https://github.com/libbpf/libbpf-bootstrap" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Scaffolding for BPF application development with libbpf and BPF CO-RE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1741824000</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-planning/navigation_msgs#1741824000</id>
+    <title>https://github.com/ros-planning/navigation_msgs</title>
+    <link href="https://github.com/ros-planning/navigation_msgs" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Message packages required by the navigation stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1741824000</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+</feed>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/common-lisp/daily.atom</id>
+  <title>GitHub Trending - common-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/common-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/coalton-lang/coalton#1740528000</id>
+    <title>https://github.com/coalton-lang/coalton</title>
+    <link href="https://github.com/coalton-lang/coalton" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Coalton is an efficient, statically typed functional programming language that supercharges Common Lisp.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dimitri/pgloader#1740528000</id>
+    <title>https://github.com/dimitri/pgloader</title>
+    <link href="https://github.com/dimitri/pgloader" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Migrate to PostgreSQL in a single command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lem-project/lem#1740528000</id>
+    <title>https://github.com/lem-project/lem</title>
+    <link href="https://github.com/lem-project/lem" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Common Lisp editor/IDE with high expansibility</content>
+  </entry>
+  <entry>
+    <id>https://github.com/norvig/paip-lisp#1740528000</id>
+    <title>https://github.com/norvig/paip-lisp</title>
+    <link href="https://github.com/norvig/paip-lisp" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Lisp code for the textbook "Paradigms of Artificial Intelligence Programming"</content>
+  </entry>
+</feed>

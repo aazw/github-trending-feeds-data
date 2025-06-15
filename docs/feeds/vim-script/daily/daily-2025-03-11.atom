@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/HerringtonDarkholme/yats.vim#1741651200</id>
+    <title>https://github.com/HerringtonDarkholme/yats.vim</title>
+    <link href="https://github.com/HerringtonDarkholme/yats.vim" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Yet Another TypeScript Syntax: The most advanced TypeScript Syntax Highlighting in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/altercation/solarized#1741651200</id>
+    <title>https://github.com/altercation/solarized</title>
+    <link href="https://github.com/altercation/solarized" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1741651200</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/digitaltoad/vim-pug#1741651200</id>
+    <title>https://github.com/digitaltoad/vim-pug</title>
+    <link href="https://github.com/digitaltoad/vim-pug" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Vim Pug (formerly Jade) template engine syntax highlighting and indention</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dracula/vim#1741651200</id>
+    <title>https://github.com/dracula/vim</title>
+    <link href="https://github.com/dracula/vim" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">🧛🏻‍♂️ Dark theme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1741651200</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1741651200</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ludovicchabant/vim-gutentags#1741651200</id>
+    <title>https://github.com/ludovicchabant/vim-gutentags</title>
+    <link href="https://github.com/ludovicchabant/vim-gutentags" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A Vim plugin that manages your tag files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1741651200</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vim-indent-guides#1741651200</id>
+    <title>https://github.com/preservim/vim-indent-guides</title>
+    <link href="https://github.com/preservim/vim-indent-guides" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A Vim plugin for visually displaying indent levels in code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1741651200</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1741651200</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-sensible#1741651200</id>
+    <title>https://github.com/tpope/vim-sensible</title>
+    <link href="https://github.com/tpope/vim-sensible" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">sensible.vim: Defaults everyone can agree on</content>
+  </entry>
+  <entry>
+    <id>https://github.com/udalov/kotlin-vim#1741651200</id>
+    <title>https://github.com/udalov/kotlin-vim</title>
+    <link href="https://github.com/udalov/kotlin-vim" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1741651200</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wellle/targets.vim#1741651200</id>
+    <title>https://github.com/wellle/targets.vim</title>
+    <link href="https://github.com/wellle/targets.vim" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Vim plugin that provides additional text objects</content>
+  </entry>
+</feed>

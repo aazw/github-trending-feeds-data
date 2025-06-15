@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DaveGamble/cJSON#1748044800</id>
+    <title>https://github.com/DaveGamble/cJSON</title>
+    <link href="https://github.com/DaveGamble/cJSON" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Ultralightweight JSON parser in ANSI C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FreeRDP/FreeRDP#1748044800</id>
+    <title>https://github.com/FreeRDP/FreeRDP</title>
+    <link href="https://github.com/FreeRDP/FreeRDP" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">FreeRDP is a free remote desktop protocol library and clients</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Next-Flip/Momentum-Firmware#1748044800</id>
+    <title>https://github.com/Next-Flip/Momentum-Firmware</title>
+    <link href="https://github.com/Next-Flip/Momentum-Firmware" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">🐬 Feature-rich, stable and customizable Flipper Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/axboe/fio#1748044800</id>
+    <title>https://github.com/axboe/fio</title>
+    <link href="https://github.com/axboe/fio" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Flexible I/O Tester</content>
+  </entry>
+  <entry>
+    <id>https://github.com/betaflight/betaflight#1748044800</id>
+    <title>https://github.com/betaflight/betaflight</title>
+    <link href="https://github.com/betaflight/betaflight" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Open Source Flight Controller Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/confluentinc/librdkafka#1748044800</id>
+    <title>https://github.com/confluentinc/librdkafka</title>
+    <link href="https://github.com/confluentinc/librdkafka" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">The Apache Kafka C/C++ library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duixcom/Duix.Heygem#1748044800</id>
+    <title>https://github.com/duixcom/Duix.Heygem</title>
+    <link href="https://github.com/duixcom/Duix.Heygem" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluent-bit#1748044800</id>
+    <title>https://github.com/fluent/fluent-bit</title>
+    <link href="https://github.com/fluent/fluent-bit" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iNavFlight/inav#1748044800</id>
+    <title>https://github.com/iNavFlight/inav</title>
+    <link href="https://github.com/iNavFlight/inav" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">INAV: Navigation-enabled flight control software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libuv/libuv#1748044800</id>
+    <title>https://github.com/libuv/libuv</title>
+    <link href="https://github.com/libuv/libuv" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Cross-platform asynchronous I/O</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lz4/lz4#1748044800</id>
+    <title>https://github.com/lz4/lz4</title>
+    <link href="https://github.com/lz4/lz4" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Extremely Fast Compression algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mimalloc#1748044800</id>
+    <title>https://github.com/microsoft/mimalloc</title>
+    <link href="https://github.com/microsoft/mimalloc" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">mimalloc is a compact general purpose allocator with excellent performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/msquic#1748044800</id>
+    <title>https://github.com/microsoft/msquic</title>
+    <link href="https://github.com/microsoft/msquic" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Cross-platform, C implementation of the IETF QUIC protocol, exposed to C, C++, C# and Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nanopb/nanopb#1748044800</id>
+    <title>https://github.com/nanopb/nanopb</title>
+    <link href="https://github.com/nanopb/nanopb" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Protocol Buffers with small code size</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nrfconnect/sdk-nrf#1748044800</id>
+    <title>https://github.com/nrfconnect/sdk-nrf</title>
+    <link href="https://github.com/nrfconnect/sdk-nrf" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">nRF Connect SDK main repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-quantum-safe/liboqs#1748044800</id>
+    <title>https://github.com/open-quantum-safe/liboqs</title>
+    <link href="https://github.com/open-quantum-safe/liboqs" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">C library for prototyping and experimenting with quantum-resistant cryptography</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwrt/openwrt#1748044800</id>
+    <title>https://github.com/openwrt/openwrt</title>
+    <link href="https://github.com/openwrt/openwrt" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openzfs/zfs#1748044800</id>
+    <title>https://github.com/openzfs/zfs</title>
+    <link href="https://github.com/openzfs/zfs" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">OpenZFS on Linux and FreeBSD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/systemd/systemd#1748044800</id>
+    <title>https://github.com/systemd/systemd</title>
+    <link href="https://github.com/systemd/systemd" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">The systemd System and Service Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/torvalds/linux#1748044800</id>
+    <title>https://github.com/torvalds/linux</title>
+    <link href="https://github.com/torvalds/linux" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Linux kernel source tree</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vanilla-wiiu/vanilla#1748044800</id>
+    <title>https://github.com/vanilla-wiiu/vanilla</title>
+    <link href="https://github.com/vanilla-wiiu/vanilla" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/winsiderss/systeminformer#1748044800</id>
+    <title>https://github.com/winsiderss/systeminformer</title>
+    <link href="https://github.com/winsiderss/systeminformer" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware. Brought to you by Winsider Seminars &amp; Solutions, Inc. @ http://www.windows-internals.com</content>
+  </entry>
+</feed>

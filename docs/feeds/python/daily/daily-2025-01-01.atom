@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-01T11:23:37+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/stanford-oval/storm#1735730617</id>
+    <title>https://github.com/stanford-oval/storm</title>
+    <link href="https://github.com/stanford-oval/storm" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">An LLM-powered knowledge curation system that researches a topic and generates a full-length report with citations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/public-apis/public-apis#1735730617</id>
+    <title>https://github.com/public-apis/public-apis</title>
+    <link href="https://github.com/public-apis/public-apis" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">A collective list of free APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/intuitem/ciso-assistant-community#1735730617</id>
+    <title>https://github.com/intuitem/ciso-assistant-community</title>
+    <link href="https://github.com/intuitem/ciso-assistant-community" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">CISO Assistant is a one-stop-shop for GRC, covering Risk, AppSec and Audit Management and supporting +70 frameworks worldwide with auto-mapping: NIST CSF, ISO 27001, SOC2, CIS, PCI DSS, NIS2, CMMC, PSPF, GDPR, HIPAA, Essential Eight, NYDFS-500, DORA, NIST AI RMF, 800-53, 800-171, CyFun, CJIS, AirCyber, NCSC, ECC, SCF and so much more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/Kats#1735730617</id>
+    <title>https://github.com/facebookresearch/Kats</title>
+    <link href="https://github.com/facebookresearch/Kats" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/PromptWizard#1735730617</id>
+    <title>https://github.com/microsoft/PromptWizard</title>
+    <link href="https://github.com/microsoft/PromptWizard" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">Task-Aware Agent-driven Prompt Optimization Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crewAIInc/crewAI#1735730617</id>
+    <title>https://github.com/crewAIInc/crewAI</title>
+    <link href="https://github.com/crewAIInc/crewAI" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goauthentik/authentik#1735730617</id>
+    <title>https://github.com/goauthentik/authentik</title>
+    <link href="https://github.com/goauthentik/authentik" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">The authentication glue you need.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen-Agent#1735730617</id>
+    <title>https://github.com/QwenLM/Qwen-Agent</title>
+    <link href="https://github.com/QwenLM/Qwen-Agent" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">Agent framework and applications built upon Qwen&gt;=2.0, featuring Function Calling, Code Interpreter, RAG, and Chrome extension.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Byaidu/PDFMathTranslate#1735730617</id>
+    <title>https://github.com/Byaidu/PDFMathTranslate</title>
+    <link href="https://github.com/Byaidu/PDFMathTranslate" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RVC-Boss/GPT-SoVITS#1735730617</id>
+    <title>https://github.com/RVC-Boss/GPT-SoVITS</title>
+    <link href="https://github.com/RVC-Boss/GPT-SoVITS" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">1 min voice data can also be used to train a good TTS model! (few shot voice cloning)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pathwaycom/pathway#1735730617</id>
+    <title>https://github.com/pathwaycom/pathway</title>
+    <link href="https://github.com/pathwaycom/pathway" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">Python ETL framework for stream processing, real-time analytics, LLM pipelines, and RAG.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DrewThomasson/ebook2audiobook#1735730617</id>
+    <title>https://github.com/DrewThomasson/ebook2audiobook</title>
+    <link href="https://github.com/DrewThomasson/ebook2audiobook" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">Convert ebooks to audiobooks with chapters and metadata using dynamic AI models and voice cloning. Supports 1,107+ languages!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deepseek-ai/DeepSeek-Coder#1735730617</id>
+    <title>https://github.com/deepseek-ai/DeepSeek-Coder</title>
+    <link href="https://github.com/deepseek-ai/DeepSeek-Coder" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">DeepSeek Coder: Let the Code Write Itself</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytedance/monolith#1735730617</id>
+    <title>https://github.com/bytedance/monolith</title>
+    <link href="https://github.com/bytedance/monolith" />
+    <updated>2025-01-01T11:23:37+00:00</updated>
+    <content type="text">A Lightweight Recommendation System</content>
+  </entry>
+</feed>

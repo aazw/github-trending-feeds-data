@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BeaconCMS/beacon#1738627200</id>
+    <title>https://github.com/BeaconCMS/beacon</title>
+    <link href="https://github.com/BeaconCMS/beacon" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Open-source content management system (CMS) built with Phoenix LiveView. Faster render times to boost SEO performance, even for the most content-heavy pages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ExHammer/hammer-backend-redis#1738627200</id>
+    <title>https://github.com/ExHammer/hammer-backend-redis</title>
+    <link href="https://github.com/ExHammer/hammer-backend-redis" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A Redis backend for for the Hammer rate-limiter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GSA/Challenge_gov#1738627200</id>
+    <title>https://github.com/GSA/Challenge_gov</title>
+    <link href="https://github.com/GSA/Challenge_gov" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFn/lightning#1738627200</id>
+    <title>https://github.com/OpenFn/lightning</title>
+    <link href="https://github.com/OpenFn/lightning" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">OpenFn/Lightning ⚡️ is the newest version of the OpenFn DPG and provides a web UI to visually manage complex workflow automation projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitwalker/libcluster#1738627200</id>
+    <title>https://github.com/bitwalker/libcluster</title>
+    <link href="https://github.com/bitwalker/libcluster" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Automatic cluster formation/healing for Elixir applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1738627200</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1738627200</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Sync little subsets of your Postgres data into local apps and services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-ecto/ecto#1738627200</id>
+    <title>https://github.com/elixir-ecto/ecto</title>
+    <link href="https://github.com/elixir-ecto/ecto" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A toolkit for data mapping and language integrated query.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1738627200</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lsp/elixir-ls#1738627200</id>
+    <title>https://github.com/elixir-lsp/elixir-ls</title>
+    <link href="https://github.com/elixir-lsp/elixir-ls" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lsp/elixir_sense#1738627200</id>
+    <title>https://github.com/elixir-lsp/elixir_sense</title>
+    <link href="https://github.com/elixir-lsp/elixir_sense" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-protobuf/protobuf#1738627200</id>
+    <title>https://github.com/elixir-protobuf/protobuf</title>
+    <link href="https://github.com/elixir-protobuf/protobuf" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A pure Elixir implementation of Google Protobuf.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixirs/faker#1738627200</id>
+    <title>https://github.com/elixirs/faker</title>
+    <link href="https://github.com/elixirs/faker" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Faker is a pure Elixir library for generating fake data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joken-elixir/joken_jwks#1738627200</id>
+    <title>https://github.com/joken-elixir/joken_jwks</title>
+    <link href="https://github.com/joken-elixir/joken_jwks" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A Joken 2 hook for fetching the signer from a public JWKS url</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1738627200</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1738627200</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mtrudel/bandit#1738627200</id>
+    <title>https://github.com/mtrudel/bandit</title>
+    <link href="https://github.com/mtrudel/bandit" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Bandit is a pure Elixir HTTP server for Plug &amp; WebSock applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1738627200</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1738627200</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1738627200</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+</feed>

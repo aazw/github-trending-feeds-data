@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom</id>
+  <title>GitHub Trending - makefile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/PostgresApp/PostgresApp#1740614400</id>
+    <title>https://github.com/PostgresApp/PostgresApp</title>
+    <link href="https://github.com/PostgresApp/PostgresApp" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The easiest way to get started with PostgreSQL on the Mac</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/build-harness#1740614400</id>
+    <title>https://github.com/cloudposse/build-harness</title>
+    <link href="https://github.com/cloudposse/build-harness" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dbt-labs/dbt-utils#1740614400</id>
+    <title>https://github.com/dbt-labs/dbt-utils</title>
+    <link href="https://github.com/dbt-labs/dbt-utils" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Utility functions for dbt projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deepseek-ai/DeepSeek-LLM#1740614400</id>
+    <title>https://github.com/deepseek-ai/DeepSeek-LLM</title>
+    <link href="https://github.com/deepseek-ai/DeepSeek-LLM" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">DeepSeek LLM: Let there be answers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework#1740614400</id>
+    <title>https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</title>
+    <link href="https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The European Digital Identity Wallet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inpyjama/c-ninja-listings#1740614400</id>
+    <title>https://github.com/inpyjama/c-ninja-listings</title>
+    <link href="https://github.com/inpyjama/c-ninja-listings" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Lower level assembly and C baremetal programming on RISC-V CPUs. Source code listings from the C-Ninja, in Pyjama! book.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moul/http2curl#1740614400</id>
+    <title>https://github.com/moul/http2curl</title>
+    <link href="https://github.com/moul/http2curl" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">📐 Convert Golang's http.Request to CURL command line</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/erlang.mk#1740614400</id>
+    <title>https://github.com/ninenines/erlang.mk</title>
+    <link href="https://github.com/ninenines/erlang.mk" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">A build tool for Erlang that just works.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1740614400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulumi/pulumi-cloudflare#1740614400</id>
+    <title>https://github.com/pulumi/pulumi-cloudflare</title>
+    <link href="https://github.com/pulumi/pulumi-cloudflare" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Pulumi's Cloudflare package, providing multi-language infrastructure as code for Cloudflare</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulumi/pulumi-random#1740614400</id>
+    <title>https://github.com/pulumi/pulumi-random</title>
+    <link href="https://github.com/pulumi/pulumi-random" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">A Pulumi provider that safely enables randomness for resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raspberrypi/noobs#1740614400</id>
+    <title>https://github.com/raspberrypi/noobs</title>
+    <link href="https://github.com/raspberrypi/noobs" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuk7/ArchWSL#1740614400</id>
+    <title>https://github.com/yuk7/ArchWSL</title>
+    <link href="https://github.com/yuk7/ArchWSL" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">ArchLinux based WSL Distribution. Supports multiple install.</content>
+  </entry>
+</feed>

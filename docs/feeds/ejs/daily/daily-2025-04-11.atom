@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ejs/daily.atom</id>
+  <title>GitHub Trending - ejs (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ejs/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Fechin/reference#1744329600</id>
+    <title>https://github.com/Fechin/reference</title>
+    <link href="https://github.com/Fechin/reference" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">⭕ Share quick reference cheat sheet for developers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Ovi/DummyJSON#1744329600</id>
+    <title>https://github.com/Ovi/DummyJSON</title>
+    <link href="https://github.com/Ovi/DummyJSON" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">DummyJSON.com provides different types of REST Endpoints filled with JSON data which you can use in developing the frontend with your favorite framework and library without worrying about writing a backend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/haikus-for-codespaces#1744329600</id>
+    <title>https://github.com/github/haikus-for-codespaces</title>
+    <link href="https://github.com/github/haikus-for-codespaces" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

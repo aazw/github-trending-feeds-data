@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/browser-use/browser-use#1743465600</id>
+    <title>https://github.com/browser-use/browser-use</title>
+    <link href="https://github.com/browser-use/browser-use" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Make websites accessible for AI agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crewAIInc/crewAI#1743465600</id>
+    <title>https://github.com/crewAIInc/crewAI</title>
+    <link href="https://github.com/crewAIInc/crewAI" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jingyaogong/minimind#1743465600</id>
+    <title>https://github.com/jingyaogong/minimind</title>
+    <link href="https://github.com/jingyaogong/minimind" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🚀🚀 「大模型」2小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 2h!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jlowin/fastmcp#1743465600</id>
+    <title>https://github.com/jlowin/fastmcp</title>
+    <link href="https://github.com/jlowin/fastmcp" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The fast, Pythonic way to build Model Context Protocol servers 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lastmile-ai/mcp-agent#1743465600</id>
+    <title>https://github.com/lastmile-ai/mcp-agent</title>
+    <link href="https://github.com/lastmile-ai/mcp-agent" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Build effective agents using Model Context Protocol and simple workflow patterns</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leminlimez/Nugget#1743465600</id>
+    <title>https://github.com/leminlimez/Nugget</title>
+    <link href="https://github.com/leminlimez/Nugget" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Unlock the fullest potential of your device</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unclecode/crawl4ai#1743465600</id>
+    <title>https://github.com/unclecode/crawl4ai</title>
+    <link href="https://github.com/unclecode/crawl4ai" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN</content>
+  </entry>
+</feed>

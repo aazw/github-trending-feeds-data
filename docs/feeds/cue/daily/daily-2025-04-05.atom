@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cue/daily.atom</id>
+  <title>GitHub Trending - cue (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cue/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/hexlet-codebattle/codebattle#1743811200</id>
+    <title>https://github.com/hexlet-codebattle/codebattle</title>
+    <link href="https://github.com/hexlet-codebattle/codebattle" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Codebattle - Game for programmers, where you solved algorithmic problems with other players in real time. You can fight with other players in single player mode or join massive tournaments.</content>
+  </entry>
+</feed>

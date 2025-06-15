@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DNSCrypt/dnscrypt-proxy#1747872000</id>
+    <title>https://github.com/DNSCrypt/dnscrypt-proxy</title>
+    <link href="https://github.com/DNSCrypt/dnscrypt-proxy" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1747872000</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThreeDotsLabs/watermill#1747872000</id>
+    <title>https://github.com/ThreeDotsLabs/watermill</title>
+    <link href="https://github.com/ThreeDotsLabs/watermill" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Building event-driven applications the easy way in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/cfssl#1747872000</id>
+    <title>https://github.com/cloudflare/cfssl</title>
+    <link href="https://github.com/cloudflare/cfssl" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">CFSSL: Cloudflare's PKI and TLS toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/buildx#1747872000</id>
+    <title>https://github.com/docker/buildx</title>
+    <link href="https://github.com/docker/buildx" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Docker CLI plugin for extended build capabilities with BuildKit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/drakkan/sftpgo#1747872000</id>
+    <title>https://github.com/drakkan/sftpgo</title>
+    <link href="https://github.com/drakkan/sftpgo" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server - S3, Google Cloud Storage, Azure Blob</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1747872000</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1747872000</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/mimir#1747872000</id>
+    <title>https://github.com/grafana/mimir</title>
+    <link href="https://github.com/grafana/mimir" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1747872000</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keploy/keploy#1747872000</id>
+    <title>https://github.com/keploy/keploy</title>
+    <link href="https://github.com/keploy/keploy" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/metrics-server#1747872000</id>
+    <title>https://github.com/kubernetes-sigs/metrics-server</title>
+    <link href="https://github.com/kubernetes-sigs/metrics-server" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubevirt/kubevirt#1747872000</id>
+    <title>https://github.com/kubevirt/kubevirt</title>
+    <link href="https://github.com/kubevirt/kubevirt" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Kubernetes Virtualization API and runtime in order to define and manage virtual machines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1747872000</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelcontextprotocol/registry#1747872000</id>
+    <title>https://github.com/modelcontextprotocol/registry</title>
+    <link href="https://github.com/modelcontextprotocol/registry" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">A community driven registry service for Model Context Protocol (MCP) servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1747872000</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1747872000</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1747872000</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openimsdk/open-im-server#1747872000</id>
+    <title>https://github.com/openimsdk/open-im-server</title>
+    <link href="https://github.com/openimsdk/open-im-server" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">IM Chat ChatGPT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectcalico/calico#1747872000</id>
+    <title>https://github.com/projectcalico/calico</title>
+    <link href="https://github.com/projectcalico/calico" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Cloud native networking and network security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sigstore/cosign#1747872000</id>
+    <title>https://github.com/sigstore/cosign</title>
+    <link href="https://github.com/sigstore/cosign" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Code signing and transparency for containers and binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1747872000</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tulir/whatsmeow#1747872000</id>
+    <title>https://github.com/tulir/whatsmeow</title>
+    <link href="https://github.com/tulir/whatsmeow" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Go library for the WhatsApp web multidevice API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1747872000</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+</feed>

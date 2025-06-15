@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/systemverilog/weekly.atom</id>
+  <title>GitHub Trending - systemverilog (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/chipsalliance/Cores-VeeR-EL2#1741564800</id>
+    <title>https://github.com/chipsalliance/Cores-VeeR-EL2</title>
+    <link href="https://github.com/chipsalliance/Cores-VeeR-EL2" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">VeeR EL2 Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lowRISC/opentitan#1741564800</id>
+    <title>https://github.com/lowRISC/opentitan</title>
+    <link href="https://github.com/lowRISC/opentitan" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">OpenTitan: Open source silicon root of trust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cvw#1741564800</id>
+    <title>https://github.com/openhwgroup/cvw</title>
+    <link href="https://github.com/openhwgroup/cvw" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">CORE-V Wally is a configurable RISC-V Processor associated with RISC-V System-on-Chip Design textbook. Contains a 5-stage pipeline, support for A, B, C, D, F, M and Q extensions, and optional caches, BP, FPU, VM/MMU, AHB, RAMs, and peripherals.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/iDMA#1741564800</id>
+    <title>https://github.com/pulp-platform/iDMA</title>
+    <link href="https://github.com/pulp-platform/iDMA" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A modular, parametrizable, and highly flexible Data Movement Accelerator (DMA)</content>
+  </entry>
+</feed>

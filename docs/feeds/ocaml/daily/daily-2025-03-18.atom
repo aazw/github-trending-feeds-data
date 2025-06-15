@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom</id>
+  <title>GitHub Trending - ocaml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BinaryAnalysisPlatform/bap#1742256000</id>
+    <title>https://github.com/BinaryAnalysisPlatform/bap</title>
+    <link href="https://github.com/BinaryAnalysisPlatform/bap" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Binary Analysis Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MinaProtocol/mina#1742256000</id>
+    <title>https://github.com/MinaProtocol/mina</title>
+    <link href="https://github.com/MinaProtocol/mina" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/andrejbauer/plzoo#1742256000</id>
+    <title>https://github.com/andrejbauer/plzoo</title>
+    <link href="https://github.com/andrejbauer/plzoo" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Programming Languages Zoo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bcpierce00/unison#1742256000</id>
+    <title>https://github.com/bcpierce00/unison</title>
+    <link href="https://github.com/bcpierce00/unison" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Unison file synchronizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coq/coq#1742256000</id>
+    <title>https://github.com/coq/coq</title>
+    <link href="https://github.com/coq/coq" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/infer#1742256000</id>
+    <title>https://github.com/facebook/infer</title>
+    <link href="https://github.com/facebook/infer" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">A static analyzer for Java, C, C++, and Objective-C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocaml-flambda/flambda-backend#1742256000</id>
+    <title>https://github.com/ocaml-flambda/flambda-backend</title>
+    <link href="https://github.com/ocaml-flambda/flambda-backend" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">The Flambda backend project for OCaml</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocaml-ppx/ocamlformat#1742256000</id>
+    <title>https://github.com/ocaml-ppx/ocamlformat</title>
+    <link href="https://github.com/ocaml-ppx/ocamlformat" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Auto-formatter for OCaml code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocsigen/js_of_ocaml#1742256000</id>
+    <title>https://github.com/ocsigen/js_of_ocaml</title>
+    <link href="https://github.com/ocsigen/js_of_ocaml" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Compiler from OCaml to Javascript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/ocaml-tree-sitter-core#1742256000</id>
+    <title>https://github.com/semgrep/ocaml-tree-sitter-core</title>
+    <link href="https://github.com/semgrep/ocaml-tree-sitter-core" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">OCaml code generator and runtime library for handling typed tree-sitter CSTs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/semgrep#1742256000</id>
+    <title>https://github.com/semgrep/semgrep</title>
+    <link href="https://github.com/semgrep/semgrep" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/testo#1742256000</id>
+    <title>https://github.com/semgrep/testo</title>
+    <link href="https://github.com/semgrep/testo" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Test framework for OCaml</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terrateamio/terrateam#1742256000</id>
+    <title>https://github.com/terrateamio/terrateam</title>
+    <link href="https://github.com/terrateamio/terrateam" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi operations via pull requests.</content>
+  </entry>
+</feed>

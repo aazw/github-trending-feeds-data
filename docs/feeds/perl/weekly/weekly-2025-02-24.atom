@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/perl/weekly.atom</id>
+  <title>GitHub Trending - perl (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/perl/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AlDanial/cloc#1740355200</id>
+    <title>https://github.com/AlDanial/cloc</title>
+    <link href="https://github.com/AlDanial/cloc" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Ensembl/ensembl-compara#1740355200</id>
+    <title>https://github.com/Ensembl/ensembl-compara</title>
+    <link href="https://github.com/Ensembl/ensembl-compara" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">The Ensembl Compara Perl API and SQL schema</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpiderLabs/owasp-modsecurity-crs#1740355200</id>
+    <title>https://github.com/SpiderLabs/owasp-modsecurity-crs</title>
+    <link href="https://github.com/SpiderLabs/owasp-modsecurity-crs" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">OWASP ModSecurity Core Rule Set (CRS) Project (Official Repository)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adrienverge/openfortivpn#1740355200</id>
+    <title>https://github.com/adrienverge/openfortivpn</title>
+    <link href="https://github.com/adrienverge/openfortivpn" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Client for PPP+TLS VPN tunnel services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brendangregg/FlameGraph#1740355200</id>
+    <title>https://github.com/brendangregg/FlameGraph</title>
+    <link href="https://github.com/brendangregg/FlameGraph" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Stack trace visualizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/holzschu/a-shell#1740355200</id>
+    <title>https://github.com/holzschu/a-shell</title>
+    <link href="https://github.com/holzschu/a-shell" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">A terminal for iOS, with multiple windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inverse-inc/packetfence#1740355200</id>
+    <title>https://github.com/inverse-inc/packetfence</title>
+    <link href="https://github.com/inverse-inc/packetfence" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">PacketFence is a fully supported, trusted, Free and Open Source network access control (NAC) solution. Boasting an impressive feature set including a captive-portal for registration and remediation, centralized wired and wireless management, powerful BYOD management options, 802.1X support, layer-2 isolation of problematic devices; PacketFence c…</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lm-sensors/lm-sensors#1740355200</id>
+    <title>https://github.com/lm-sensors/lm-sensors</title>
+    <link href="https://github.com/lm-sensors/lm-sensors" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">lm-sensors repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quran/quran.com-images#1740355200</id>
+    <title>https://github.com/quran/quran.com-images</title>
+    <link href="https://github.com/quran/quran.com-images" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">images using fonts from King Fahed Complex / qurancomplex.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rjbs/Email-Sender#1740355200</id>
+    <title>https://github.com/rjbs/Email-Sender</title>
+    <link href="https://github.com/rjbs/Email-Sender" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">a perl library for sending email</content>
+  </entry>
+  <entry>
+    <id>https://github.com/so-fancy/diff-so-fancy#1740355200</id>
+    <title>https://github.com/so-fancy/diff-so-fancy</title>
+    <link href="https://github.com/so-fancy/diff-so-fancy" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sullo/nikto#1740355200</id>
+    <title>https://github.com/sullo/nikto</title>
+    <link href="https://github.com/sullo/nikto" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Nikto web server scanner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trinityrnaseq/trinityrnaseq#1740355200</id>
+    <title>https://github.com/trinityrnaseq/trinityrnaseq</title>
+    <link href="https://github.com/trinityrnaseq/trinityrnaseq" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">Trinity RNA-Seq de novo transcriptome assembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tseemann/prokka#1740355200</id>
+    <title>https://github.com/tseemann/prokka</title>
+    <link href="https://github.com/tseemann/prokka" />
+    <updated>2025-02-24T00:00:00</updated>
+    <content type="text">⚡ ♒ Rapid prokaryotic genome annotation</content>
+  </entry>
+</feed>

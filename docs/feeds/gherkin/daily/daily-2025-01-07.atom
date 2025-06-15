@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom</id>
+  <title>GitHub Trending - gherkin (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-07T11:13:39+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/wp-cli/wp-cli-bundle#1736248419</id>
+    <title>https://github.com/wp-cli/wp-cli-bundle</title>
+    <link href="https://github.com/wp-cli/wp-cli-bundle" />
+    <updated>2025-01-07T11:13:39+00:00</updated>
+    <content type="text">📦 WP-CLI package that bundles the framework with a set of common commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/i18n-command#1736248419</id>
+    <title>https://github.com/wp-cli/i18n-command</title>
+    <link href="https://github.com/wp-cli/i18n-command" />
+    <updated>2025-01-07T11:13:39+00:00</updated>
+    <content type="text">Provides internationalization tools for WordPress projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ac3cloud/ript#1736248419</id>
+    <title>https://github.com/ac3cloud/ript</title>
+    <link href="https://github.com/ac3cloud/ript" />
+    <updated>2025-01-07T11:13:39+00:00</updated>
+    <content type="text">Ript provides a clean Ruby DSL for describing firewall rules, and implements database migrations-like functionality for applying the rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sdkman/sdkman-cli#1736248419</id>
+    <title>https://github.com/sdkman/sdkman-cli</title>
+    <link href="https://github.com/sdkman/sdkman-cli" />
+    <updated>2025-01-07T11:13:39+00:00</updated>
+    <content type="text">The SDKMAN! Command Line Interface</content>
+  </entry>
+</feed>

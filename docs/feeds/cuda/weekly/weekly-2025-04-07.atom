@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cuda/weekly.atom</id>
+  <title>GitHub Trending - cuda (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cuda/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/HazyResearch/ThunderKittens#1743984000</id>
+    <title>https://github.com/HazyResearch/ThunderKittens</title>
+    <link href="https://github.com/HazyResearch/ThunderKittens" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Tile primitives for speedy kernels</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HigherOrderCO/HVM#1743984000</id>
+    <title>https://github.com/HigherOrderCO/HVM</title>
+    <link href="https://github.com/HigherOrderCO/HVM" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">A massively parallel, optimal functional runtime in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Infatoshi/cuda-course#1743984000</id>
+    <title>https://github.com/Infatoshi/cuda-course</title>
+    <link href="https://github.com/Infatoshi/cuda-course" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Liu-xiandong/How_to_optimize_in_GPU#1743984000</id>
+    <title>https://github.com/Liu-xiandong/How_to_optimize_in_GPU</title>
+    <link href="https://github.com/Liu-xiandong/How_to_optimize_in_GPU" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">This is a series of GPU optimization topics. Here we will introduce how to optimize the CUDA kernel in detail. I will introduce several basic kernel optimizations, including: elementwise, reduce, sgemv, sgemm, etc. The performance of these kernels is basically at or near the theoretical limit.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/AMGX#1743984000</id>
+    <title>https://github.com/NVIDIA/AMGX</title>
+    <link href="https://github.com/NVIDIA/AMGX" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Distributed multigrid linear solver library on GPU</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/CUDALibrarySamples#1743984000</id>
+    <title>https://github.com/NVIDIA/CUDALibrarySamples</title>
+    <link href="https://github.com/NVIDIA/CUDALibrarySamples" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">CUDA Library Samples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nvbench#1743984000</id>
+    <title>https://github.com/NVIDIA/nvbench</title>
+    <link href="https://github.com/NVIDIA/nvbench" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">CUDA Kernel Benchmarking Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVlabs/instant-ngp#1743984000</id>
+    <title>https://github.com/NVlabs/instant-ngp</title>
+    <link href="https://github.com/NVlabs/instant-ngp" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Instant neural graphics primitives: lightning fast NeRF and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flashinfer-ai/flashinfer#1743984000</id>
+    <title>https://github.com/flashinfer-ai/flashinfer</title>
+    <link href="https://github.com/flashinfer-ai/flashinfer" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">FlashInfer: Kernel Library for LLM Serving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/llm.c#1743984000</id>
+    <title>https://github.com/karpathy/llm.c</title>
+    <link href="https://github.com/karpathy/llm.c" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">LLM training in simple, raw C/CUDA</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mit-han-lab/nunchaku#1743984000</id>
+    <title>https://github.com/mit-han-lab/nunchaku</title>
+    <link href="https://github.com/mit-han-lab/nunchaku" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">[ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/cugraph#1743984000</id>
+    <title>https://github.com/rapidsai/cugraph</title>
+    <link href="https://github.com/rapidsai/cugraph" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">cuGraph - RAPIDS Graph Analytics Library</content>
+  </entry>
+</feed>

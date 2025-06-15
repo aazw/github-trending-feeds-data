@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vala/daily.atom</id>
+  <title>GitHub Trending - vala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-01T11:28:56+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cheesecakeufo/komorebi#1735730936</id>
+    <title>https://github.com/cheesecakeufo/komorebi</title>
+    <link href="https://github.com/cheesecakeufo/komorebi" />
+    <updated>2025-01-01T11:28:56+00:00</updated>
+    <content type="text">A beautiful and customizable wallpapers manager for Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ErikReider/SwayNotificationCenter#1735730936</id>
+    <title>https://github.com/ErikReider/SwayNotificationCenter</title>
+    <link href="https://github.com/ErikReider/SwayNotificationCenter" />
+    <updated>2025-01-01T11:28:56+00:00</updated>
+    <content type="text">A simple GTK based notification daemon for SwayWM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Aylur/astal#1735730936</id>
+    <title>https://github.com/Aylur/astal</title>
+    <link href="https://github.com/Aylur/astal" />
+    <updated>2025-01-01T11:28:56+00:00</updated>
+    <content type="text">Building blocks for creating custom desktop shells</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxmint/timeshift#1735730936</id>
+    <title>https://github.com/linuxmint/timeshift</title>
+    <link href="https://github.com/linuxmint/timeshift" />
+    <updated>2025-01-01T11:28:56+00:00</updated>
+    <content type="text">System restore tool for Linux. Creates filesystem snapshots using rsync+hardlinks, or BTRFS snapshots. Supports scheduled snapshots, multiple backup levels, and exclude filters. Snapshots can be restored while system is running or from Live CD/USB.</content>
+  </entry>
+</feed>

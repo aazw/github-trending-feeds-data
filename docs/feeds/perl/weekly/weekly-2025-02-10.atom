@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/perl/weekly.atom</id>
+  <title>GitHub Trending - perl (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/perl/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Ensembl/ensembl-compara#1739145600</id>
+    <title>https://github.com/Ensembl/ensembl-compara</title>
+    <link href="https://github.com/Ensembl/ensembl-compara" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">The Ensembl Compara Perl API and SQL schema</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Ensembl/ensembl-variation#1739145600</id>
+    <title>https://github.com/Ensembl/ensembl-variation</title>
+    <link href="https://github.com/Ensembl/ensembl-variation" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">The Ensembl Variation Perl API and SQL schema</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FelixKrueger/TrimGalore#1739145600</id>
+    <title>https://github.com/FelixKrueger/TrimGalore</title>
+    <link href="https://github.com/FelixKrueger/TrimGalore" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A wrapper around Cutadapt and FastQC to consistently apply adapter and quality trimming to FastQ files, with extra functionality for RRBS data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenKore/openkore#1739145600</id>
+    <title>https://github.com/OpenKore/openkore</title>
+    <link href="https://github.com/OpenKore/openkore" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A free/open source client and automation tool for Ragnarok Online</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Perl/perl5#1739145600</id>
+    <title>https://github.com/Perl/perl5</title>
+    <link href="https://github.com/Perl/perl5" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">🐪 The Perl programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adrienverge/openfortivpn#1739145600</id>
+    <title>https://github.com/adrienverge/openfortivpn</title>
+    <link href="https://github.com/adrienverge/openfortivpn" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Client for PPP+TLS VPN tunnel services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brendangregg/FlameGraph#1739145600</id>
+    <title>https://github.com/brendangregg/FlameGraph</title>
+    <link href="https://github.com/brendangregg/FlameGraph" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Stack trace visualizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/darold/pgbadger#1739145600</id>
+    <title>https://github.com/darold/pgbadger</title>
+    <link href="https://github.com/darold/pgbadger" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A fast PostgreSQL Log Analyzer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glpi-project/glpi-agent#1739145600</id>
+    <title>https://github.com/glpi-project/glpi-agent</title>
+    <link href="https://github.com/glpi-project/glpi-agent" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">GLPI Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libsdl-org/SDL_net#1739145600</id>
+    <title>https://github.com/libsdl-org/SDL_net</title>
+    <link href="https://github.com/libsdl-org/SDL_net" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A simple, cross-platform wrapper over TCP/IP sockets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocpi/ocpi#1739145600</id>
+    <title>https://github.com/ocpi/ocpi</title>
+    <link href="https://github.com/ocpi/ocpi" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">The Open Charge Point Interface (OCPI) allows for a scalable, automated roaming setup between Charge Point Operators and e-Mobility Service Providers. It supports authorisation, charge point information exchange (incl transaction events), charge detail record exchange and finally, the exchange of smart-charging commands between parties.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rjbs/Email-Sender#1739145600</id>
+    <title>https://github.com/rjbs/Email-Sender</title>
+    <link href="https://github.com/rjbs/Email-Sender" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">a perl library for sending email</content>
+  </entry>
+  <entry>
+    <id>https://github.com/so-fancy/diff-so-fancy#1739145600</id>
+    <title>https://github.com/so-fancy/diff-so-fancy</title>
+    <link href="https://github.com/so-fancy/diff-so-fancy" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Good-lookin' diffs. Actually… nah… The best-lookin' diffs. 🎉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sullo/nikto#1739145600</id>
+    <title>https://github.com/sullo/nikto</title>
+    <link href="https://github.com/sullo/nikto" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Nikto web server scanner</content>
+  </entry>
+</feed>

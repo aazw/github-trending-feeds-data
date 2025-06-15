@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BurntSushi/ripgrep#1740441600</id>
+    <title>https://github.com/BurntSushi/ripgrep</title>
+    <link href="https://github.com/BurntSushi/ripgrep" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeaQL/sea-orm#1740441600</id>
+    <title>https://github.com/SeaQL/sea-orm</title>
+    <link href="https://github.com/SeaQL/sea-orm" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">🐚 An async &amp; dynamic ORM for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/opendal#1740441600</id>
+    <title>https://github.com/apache/opendal</title>
+    <link href="https://github.com/apache/opendal" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Apache OpenDAL: One Layer, All Storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1740441600</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/biomejs/biome#1740441600</id>
+    <title>https://github.com/biomejs/biome</title>
+    <link href="https://github.com/biomejs/biome" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glzr-io/zebar#1740441600</id>
+    <title>https://github.com/glzr-io/zebar</title>
+    <link href="https://github.com/glzr-io/zebar" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1740441600</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1740441600</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/louis-e/arnis#1740441600</id>
+    <title>https://github.com/louis-e/arnis</title>
+    <link href="https://github.com/louis-e/arnis" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Generate any location from the real world in Minecraft Java Edition with a high level of detail.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/qsharp#1740441600</id>
+    <title>https://github.com/microsoft/qsharp</title>
+    <link href="https://github.com/microsoft/qsharp" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Azure Quantum Development Kit, including the Q# programming language, resource estimator, and Quantum Katas</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mozilla/sccache#1740441600</id>
+    <title>https://github.com/mozilla/sccache</title>
+    <link href="https://github.com/mozilla/sccache" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Sccache is a ccache-like tool. It is used as a compiler wrapper and avoids compilation when possible. Sccache has the capability to utilize caching in remote storage environments, including various cloud storage options, or alternatively, in local storage.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openobserve/openobserve#1740441600</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxc-project/oxc#1740441600</id>
+    <title>https://github.com/oxc-project/oxc</title>
+    <link href="https://github.com/oxc-project/oxc" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">⚓ A collection of JavaScript tools written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1740441600</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapiz1/rathole#1740441600</id>
+    <title>https://github.com/rapiz1/rathole</title>
+    <link href="https://github.com/rapiz1/rathole" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1740441600</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk-server#1740441600</id>
+    <title>https://github.com/rustdesk/rustdesk-server</title>
+    <link href="https://github.com/rustdesk/rustdesk-server" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">RustDesk Server Program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tikv/tikv#1740441600</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1740441600</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1740441600</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/rspack#1740441600</id>
+    <title>https://github.com/web-infra-dev/rspack</title>
+    <link href="https://github.com/web-infra-dev/rspack" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">The fast Rust-based web bundler with webpack-compatible API 🦀️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yshavit/mdq#1740441600</id>
+    <title>https://github.com/yshavit/mdq</title>
+    <link href="https://github.com/yshavit/mdq" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">like jq but for Markdown: find specific elements in a md doc</content>
+  </entry>
+</feed>

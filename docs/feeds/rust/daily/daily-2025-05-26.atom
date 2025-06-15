@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DioxusLabs/dioxus#1748217600</id>
+    <title>https://github.com/DioxusLabs/dioxus</title>
+    <link href="https://github.com/DioxusLabs/dioxus" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Fullstack app framework for web, desktop, mobile, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EasyTier/EasyTier#1748217600</id>
+    <title>https://github.com/EasyTier/EasyTier</title>
+    <link href="https://github.com/EasyTier/EasyTier" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A simple, decentralized mesh VPN with WireGuard support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alvr-org/ALVR#1748217600</id>
+    <title>https://github.com/alvr-org/ALVR</title>
+    <link href="https://github.com/alvr-org/ALVR" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Stream VR games from your PC to your headset via Wi-Fi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antinomyhq/forge#1748217600</id>
+    <title>https://github.com/antinomyhq/forge</title>
+    <link href="https://github.com/antinomyhq/forge" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elkowar/eww#1748217600</id>
+    <title>https://github.com/elkowar/eww</title>
+    <link href="https://github.com/elkowar/eww" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">ElKowars wacky widgets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/embassy-rs/embassy#1748217600</id>
+    <title>https://github.com/embassy-rs/embassy</title>
+    <link href="https://github.com/embassy-rs/embassy" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Modern embedded framework, using Rust and async.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eza-community/eza#1748217600</id>
+    <title>https://github.com/eza-community/eza</title>
+    <link href="https://github.com/eza-community/eza" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A modern alternative to ls</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fish-shell/fish-shell#1748217600</id>
+    <title>https://github.com/fish-shell/fish-shell</title>
+    <link href="https://github.com/fish-shell/fish-shell" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The user-friendly command line shell.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getzola/zola#1748217600</id>
+    <title>https://github.com/getzola/zola</title>
+    <link href="https://github.com/getzola/zola" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A fast static site generator in a single binary with everything built-in. https://www.getzola.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1748217600</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iced-rs/iced#1748217600</id>
+    <title>https://github.com/iced-rs/iced</title>
+    <link href="https://github.com/iced-rs/iced" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A cross-platform GUI library for Rust, inspired by Elm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1748217600</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lapce/lapce#1748217600</id>
+    <title>https://github.com/lapce/lapce</title>
+    <link href="https://github.com/lapce/lapce" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Lightning-fast and Powerful Code Editor written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1748217600</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/librespot-org/librespot#1748217600</id>
+    <title>https://github.com/librespot-org/librespot</title>
+    <link href="https://github.com/librespot-org/librespot" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Open Source Spotify client library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1748217600</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfontanini/presenterm#1748217600</id>
+    <title>https://github.com/mfontanini/presenterm</title>
+    <link href="https://github.com/mfontanini/presenterm" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A markdown terminal slideshow tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qarmin/czkawka#1748217600</id>
+    <title>https://github.com/qarmin/czkawka</title>
+    <link href="https://github.com/qarmin/czkawka" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Multi functional app to find duplicates, empty folders, similar images etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rcore-os/rCore-Tutorial-v3#1748217600</id>
+    <title>https://github.com/rcore-os/rCore-Tutorial-v3</title>
+    <link href="https://github.com/rcore-os/rCore-Tutorial-v3" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Let's write an OS which can run on RISC-V in Rust from scratch!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/stalwart#1748217600</id>
+    <title>https://github.com/stalwartlabs/stalwart</title>
+    <link href="https://github.com/stalwartlabs/stalwart" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1748217600</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1748217600</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1748217600</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wezterm/wezterm#1748217600</id>
+    <title>https://github.com/wezterm/wezterm</title>
+    <link href="https://github.com/wezterm/wezterm" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</content>
+  </entry>
+</feed>

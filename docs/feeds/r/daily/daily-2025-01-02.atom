@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:24:17+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/rstudio/rmarkdown#1735817057</id>
+    <title>https://github.com/rstudio/rmarkdown</title>
+    <link href="https://github.com/rstudio/rmarkdown" />
+    <updated>2025-01-02T11:24:17+00:00</updated>
+    <content type="text">Dynamic Documents for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ellmer#1735817057</id>
+    <title>https://github.com/tidyverse/ellmer</title>
+    <link href="https://github.com/tidyverse/ellmer" />
+    <updated>2025-01-02T11:24:17+00:00</updated>
+    <content type="text">Call LLM APIs from R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stuart-lab/signac#1735817057</id>
+    <title>https://github.com/stuart-lab/signac</title>
+    <link href="https://github.com/stuart-lab/signac" />
+    <updated>2025-01-02T11:24:17+00:00</updated>
+    <content type="text">R toolkit for the analysis of single-cell chromatin data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jokergoo/ComplexHeatmap#1735817057</id>
+    <title>https://github.com/jokergoo/ComplexHeatmap</title>
+    <link href="https://github.com/jokergoo/ComplexHeatmap" />
+    <updated>2025-01-02T11:24:17+00:00</updated>
+    <content type="text">Make Complex Heatmaps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swirldev/swirl_courses#1735817057</id>
+    <title>https://github.com/swirldev/swirl_courses</title>
+    <link href="https://github.com/swirldev/swirl_courses" />
+    <updated>2025-01-02T11:24:17+00:00</updated>
+    <content type="text">🎓 A collection of interactive courses for the swirl R package.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rdpeng/ProgrammingAssignment2#1735817057</id>
+    <title>https://github.com/rdpeng/ProgrammingAssignment2</title>
+    <link href="https://github.com/rdpeng/ProgrammingAssignment2" />
+    <updated>2025-01-02T11:24:17+00:00</updated>
+    <content type="text">Repository for Programming Assignment 2 for R Programming on Coursera</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rdatatable/data.table#1735817057</id>
+    <title>https://github.com/Rdatatable/data.table</title>
+    <link href="https://github.com/Rdatatable/data.table" />
+    <updated>2025-01-02T11:24:17+00:00</updated>
+    <content type="text">R's data.table package extends data.frame:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tylermorganwall/rayshader#1735817057</id>
+    <title>https://github.com/tylermorganwall/rayshader</title>
+    <link href="https://github.com/tylermorganwall/rayshader" />
+    <updated>2025-01-02T11:24:17+00:00</updated>
+    <content type="text">R Package for 2D and 3D mapping and data visualization</content>
+  </entry>
+</feed>

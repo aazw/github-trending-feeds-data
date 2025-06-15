@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nextflow/weekly.atom</id>
+  <title>GitHub Trending - nextflow (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nextflow/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nf-core/bamtofastq#1743379200</id>
+    <title>https://github.com/nf-core/bamtofastq</title>
+    <link href="https://github.com/nf-core/bamtofastq" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Converts bam or cram files to fastq format and does quality control.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/differentialabundance#1743379200</id>
+    <title>https://github.com/nf-core/differentialabundance</title>
+    <link href="https://github.com/nf-core/differentialabundance" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Differential abundance analysis for feature/ observation matrices from platforms such as RNA-seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/genomeassembler#1743379200</id>
+    <title>https://github.com/nf-core/genomeassembler</title>
+    <link href="https://github.com/nf-core/genomeassembler" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Assembly and scaffolding of haploid / unphased genomes from long ONT or PacBio HiFi reads</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/hlatyping#1743379200</id>
+    <title>https://github.com/nf-core/hlatyping</title>
+    <link href="https://github.com/nf-core/hlatyping" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Precision HLA typing from next-generation sequencing data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/isoseq#1743379200</id>
+    <title>https://github.com/nf-core/isoseq</title>
+    <link href="https://github.com/nf-core/isoseq" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Genome annotation with PacBio Iso-Seq. Takes raw subreads as input, generate Full Length Non Chemiric (FLNC) sequences and produce a bed annotation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/modules#1743379200</id>
+    <title>https://github.com/nf-core/modules</title>
+    <link href="https://github.com/nf-core/modules" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Repository to host tool-specific module files for the Nextflow DSL2 community!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/pangenome#1743379200</id>
+    <title>https://github.com/nf-core/pangenome</title>
+    <link href="https://github.com/nf-core/pangenome" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Renders a collection of sequences into a pangenome graph. https://doi.org/10.1093/bioinformatics/btae609.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/pathogensurveillance#1743379200</id>
+    <title>https://github.com/nf-core/pathogensurveillance</title>
+    <link href="https://github.com/nf-core/pathogensurveillance" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Surveillance of pathogens using population genomics and sequencing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/rnaseq#1743379200</id>
+    <title>https://github.com/nf-core/rnaseq</title>
+    <link href="https://github.com/nf-core/rnaseq" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">RNA sequencing analysis pipeline using STAR, RSEM, HISAT2 or Salmon with gene/isoform counts and extensive quality control.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/rnavar#1743379200</id>
+    <title>https://github.com/nf-core/rnavar</title>
+    <link href="https://github.com/nf-core/rnavar" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">gatk4 RNA variant calling pipeline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/sarek#1743379200</id>
+    <title>https://github.com/nf-core/sarek</title>
+    <link href="https://github.com/nf-core/sarek" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Analysis pipeline to detect germline or somatic variants (pre-processing, variant calling and annotation) from WGS / targeted sequencing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nf-core/taxprofiler#1743379200</id>
+    <title>https://github.com/nf-core/taxprofiler</title>
+    <link href="https://github.com/nf-core/taxprofiler" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Highly parallelised multi-taxonomic profiling of shotgun short- and long-read metagenomic data</content>
+  </entry>
+</feed>

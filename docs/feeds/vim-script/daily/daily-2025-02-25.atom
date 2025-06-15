@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndrewRadev/splitjoin.vim#1740441600</id>
+    <title>https://github.com/AndrewRadev/splitjoin.vim</title>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Switch between single-line and multiline forms of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MaxMEllon/vim-jsx-pretty#1740441600</id>
+    <title>https://github.com/MaxMEllon/vim-jsx-pretty</title>
+    <link href="https://github.com/MaxMEllon/vim-jsx-pretty" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">🔦 [Vim script] JSX and TSX syntax pretty highlighting for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Raimondi/delimitMate#1740441600</id>
+    <title>https://github.com/Raimondi/delimitMate</title>
+    <link href="https://github.com/Raimondi/delimitMate" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VundleVim/Vundle.vim#1740441600</id>
+    <title>https://github.com/VundleVim/Vundle.vim</title>
+    <link href="https://github.com/VundleVim/Vundle.vim" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Vundle, the plug-in manager for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1740441600</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatih/vim-go#1740441600</id>
+    <title>https://github.com/fatih/vim-go</title>
+    <link href="https://github.com/fatih/vim-go" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Go development plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jlanzarotta/bufexplorer#1740441600</id>
+    <title>https://github.com/jlanzarotta/bufexplorer</title>
+    <link href="https://github.com/jlanzarotta/bufexplorer" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">BufExplorer Plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1740441600</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1740441600</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1740441600</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1740441600</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1740441600</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-markdown#1740441600</id>
+    <title>https://github.com/tpope/vim-markdown</title>
+    <link href="https://github.com/tpope/vim-markdown" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Vim Markdown runtime files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-scriptease#1740441600</id>
+    <title>https://github.com/tpope/vim-scriptease</title>
+    <link href="https://github.com/tpope/vim-scriptease" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">scriptease.vim: A Vim plugin for Vim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/udalov/kotlin-vim#1740441600</id>
+    <title>https://github.com/udalov/kotlin-vim</title>
+    <link href="https://github.com/udalov/kotlin-vim" />
+    <updated>2025-02-25T00:00:00</updated>
+    <content type="text">Kotlin plugin for Vim. Featuring: syntax highlighting, basic indentation, Syntastic support</content>
+  </entry>
+</feed>

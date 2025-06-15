@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BeaconCMS/beacon#1742342400</id>
+    <title>https://github.com/BeaconCMS/beacon</title>
+    <link href="https://github.com/BeaconCMS/beacon" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Open-source Content Management System (CMS) built with Phoenix LiveView. Faster render times to boost SEO performance, even for the most content-heavy pages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1742342400</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bartblast/hologram#1742342400</id>
+    <title>https://github.com/bartblast/hologram</title>
+    <link href="https://github.com/bartblast/hologram" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Full stack isomorphic Elixir web framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1742342400</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brainlid/langchain#1742342400</id>
+    <title>https://github.com/brainlid/langchain</title>
+    <link href="https://github.com/brainlid/langchain" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1742342400</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1742342400</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Real-time sync for Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-ecto/ecto#1742342400</id>
+    <title>https://github.com/elixir-ecto/ecto</title>
+    <link href="https://github.com/elixir-ecto/ecto" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">A toolkit for data mapping and language integrated query.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1742342400</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixirs/faker#1742342400</id>
+    <title>https://github.com/elixirs/faker</title>
+    <link href="https://github.com/elixirs/faker" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Faker is a pure Elixir library for generating fake data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexpm/hex#1742342400</id>
+    <title>https://github.com/hexpm/hex</title>
+    <link href="https://github.com/hexpm/hex" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Package manager for the Erlang ecosystem.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntrepid8/ex_crypto#1742342400</id>
+    <title>https://github.com/ntrepid8/ex_crypto</title>
+    <link href="https://github.com/ntrepid8/ex_crypto" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Wrapper around the Erlang crypto module for Elixir.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1742342400</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1742342400</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1742342400</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rrrene/credo#1742342400</id>
+    <title>https://github.com/rrrene/credo</title>
+    <link href="https://github.com/rrrene/credo" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">A static code analysis tool for the Elixir language with a focus on code consistency and teaching.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/valpackett/httpotion#1742342400</id>
+    <title>https://github.com/valpackett/httpotion</title>
+    <link href="https://github.com/valpackett/httpotion" />
+    <updated>2025-03-19T00:00:00</updated>
+    <content type="text">[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please)</content>
+  </entry>
+</feed>

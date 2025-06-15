@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Fanael/edit-indirect#1737849600</id>
+    <title>https://github.com/Fanael/edit-indirect</title>
+    <link href="https://github.com/Fanael/edit-indirect" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Edit regions in separate buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/elisp-refs#1737849600</id>
+    <title>https://github.com/Wilfred/elisp-refs</title>
+    <link href="https://github.com/Wilfred/elisp-refs" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">semantic code search for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/helpful#1737849600</id>
+    <title>https://github.com/Wilfred/helpful</title>
+    <link href="https://github.com/Wilfred/helpful" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A better Emacs *help* buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dajva/rg.el#1737849600</id>
+    <title>https://github.com/dajva/rg.el</title>
+    <link href="https://github.com/dajva/rg.el" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Emacs search tool based on ripgrep</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1737849600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-compat/compat#1737849600</id>
+    <title>https://github.com/emacs-compat/compat</title>
+    <link href="https://github.com/emacs-compat/compat" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">COMPATibility Library for Emacs Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-mode#1737849600</id>
+    <title>https://github.com/haskell/haskell-mode</title>
+    <link href="https://github.com/haskell/haskell-mode" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Emacs mode for Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/justbur/emacs-which-key#1737849600</id>
+    <title>https://github.com/justbur/emacs-which-key</title>
+    <link href="https://github.com/justbur/emacs-which-key" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Emacs package that displays available keybindings in popup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jwiegley/emacs-async#1737849600</id>
+    <title>https://github.com/jwiegley/emacs-async</title>
+    <link href="https://github.com/jwiegley/emacs-async" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Simple library for asynchronous processing in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1737849600</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/straight.el#1737849600</id>
+    <title>https://github.com/radian-software/straight.el</title>
+    <link href="https://github.com/radian-software/straight.el" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">🍀 Next-generation, purely functional package manager for the Emacs hacker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons.el#1737849600</id>
+    <title>https://github.com/rainstormstudio/nerd-icons.el</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons.el" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/rejeep/f.el#1737849600</id>
+    <title>https://github.com/rejeep/f.el</title>
+    <link href="https://github.com/rejeep/f.el" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Modern API for working with files and directories in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rmuslimov/browse-at-remote#1737849600</id>
+    <title>https://github.com/rmuslimov/browse-at-remote</title>
+    <link href="https://github.com/rmuslimov/browse-at-remote" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Browse target page on github/bitbucket from emacs buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seagle0128/doom-modeline#1737849600</id>
+    <title>https://github.com/seagle0128/doom-modeline</title>
+    <link href="https://github.com/seagle0128/doom-modeline" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A fancy and fast mode-line inspired by minimalism design.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1737849600</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

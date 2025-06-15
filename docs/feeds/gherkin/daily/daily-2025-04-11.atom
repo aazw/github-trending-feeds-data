@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom</id>
+  <title>GitHub Trending - gherkin (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ac3cloud/ript#1744329600</id>
+    <title>https://github.com/ac3cloud/ript</title>
+    <link href="https://github.com/ac3cloud/ript" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Ript provides a clean Ruby DSL for describing firewall rules, and implements database migrations-like functionality for applying the rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scality/Zenko#1744329600</id>
+    <title>https://github.com/scality/Zenko</title>
+    <link href="https://github.com/scality/Zenko" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Zenko is the open source multi-cloud data controller: own and keep control of your data on any cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sdkman/sdkman-cli#1744329600</id>
+    <title>https://github.com/sdkman/sdkman-cli</title>
+    <link href="https://github.com/sdkman/sdkman-cli" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">The SDKMAN! Command Line Interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wp-cli/scaffold-command#1744329600</id>
+    <title>https://github.com/wp-cli/scaffold-command</title>
+    <link href="https://github.com/wp-cli/scaffold-command" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Generates code for post types, taxonomies, blocks, plugins, child themes, etc.</content>
+  </entry>
+</feed>

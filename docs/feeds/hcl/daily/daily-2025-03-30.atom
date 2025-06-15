@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1743292800</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1743292800</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cattle-ops/terraform-aws-gitlab-runner#1743292800</id>
+    <title>https://github.com/cattle-ops/terraform-aws-gitlab-runner</title>
+    <link href="https://github.com/cattle-ops/terraform-aws-gitlab-runner" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Terraform module for AWS GitLab runners on ec2 (spot) instances</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-config#1743292800</id>
+    <title>https://github.com/cloudposse/terraform-aws-config</title>
+    <link href="https://github.com/cloudposse/terraform-aws-config" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">This module configures AWS Config, a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task#1743292800</id>
+    <title>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-alb-service-task" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Terraform module which implements an ECS service which exposes a web service via ALB.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ecs-cluster#1743292800</id>
+    <title>https://github.com/cloudposse/terraform-aws-ecs-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-cluster" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Terraform module for provisioning an ECS cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1743292800</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc#1743292800</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Terraform Module that defines a VPC with public/private subnets across multiple AZs with Internet Gateways</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1743292800</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/semgrep-rules#1743292800</id>
+    <title>https://github.com/semgrep/semgrep-rules</title>
+    <link href="https://github.com/semgrep/semgrep-rules" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-composer#1743292800</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-composer</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-composer" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Manages Cloud Composer v1 and v2 along with option to manage networking</content>
+  </entry>
+</feed>

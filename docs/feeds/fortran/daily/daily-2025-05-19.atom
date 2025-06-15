@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CICE-Consortium/Icepack#1747612800</id>
+    <title>https://github.com/CICE-Consortium/Icepack</title>
+    <link href="https://github.com/CICE-Consortium/Icepack" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Development repository for sea-ice column physics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/E3SM-Project/E3SM#1747612800</id>
+    <title>https://github.com/E3SM-Project/E3SM</title>
+    <link href="https://github.com/E3SM-Project/E3SM" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Energy Exascale Earth System Model source code. NOTE: use "maint" branches for your work. Head of master is not validated.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MFlowCode/MFC#1747612800</id>
+    <title>https://github.com/MFlowCode/MFC</title>
+    <link href="https://github.com/MFlowCode/MFC" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Exascale simulation of multiphase/physics fluid dynamics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/earth-system-radiation/rte-rrtmgp#1747612800</id>
+    <title>https://github.com/earth-system-radiation/rte-rrtmgp</title>
+    <link href="https://github.com/earth-system-radiation/rte-rrtmgp" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firemodels/fds#1747612800</id>
+    <title>https://github.com/firemodels/fds</title>
+    <link href="https://github.com/firemodels/fds" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Fire Dynamics Simulator</content>
+  </entry>
+</feed>

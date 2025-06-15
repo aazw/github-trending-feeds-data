@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Phineas/lanyard#1748044800</id>
+    <title>https://github.com/Phineas/lanyard</title>
+    <link href="https://github.com/Phineas/lanyard" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/anoma#1748044800</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1748044800</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitwalker/timex#1748044800</id>
+    <title>https://github.com/bitwalker/timex</title>
+    <link href="https://github.com/bitwalker/timex" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">A complete date/time library for Elixir projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1748044800</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brainlid/langchain#1748044800</id>
+    <title>https://github.com/brainlid/langchain</title>
+    <link href="https://github.com/brainlid/langchain" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwalk/hermes-mcp#1748044800</id>
+    <title>https://github.com/cloudwalk/hermes-mcp</title>
+    <link href="https://github.com/cloudwalk/hermes-mcp" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Elixir Model Context Protocol (MCP) SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/commanded/eventstore#1748044800</id>
+    <title>https://github.com/commanded/eventstore</title>
+    <link href="https://github.com/commanded/eventstore" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Event store using PostgreSQL for persistence</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1748044800</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1748044800</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Real-time sync for Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1748044800</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixirs/faker#1748044800</id>
+    <title>https://github.com/elixirs/faker</title>
+    <link href="https://github.com/elixirs/faker" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Faker is a pure Elixir library for generating fake data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1748044800</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexlet-codebattle/codebattle#1748044800</id>
+    <title>https://github.com/hexlet-codebattle/codebattle</title>
+    <link href="https://github.com/hexlet-codebattle/codebattle" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Codebattle - Game for programmers, where you solved algorithmic problems with other players in real time. You can fight with other players in single player mode or join massive tournaments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livebook-dev/livebook#1748044800</id>
+    <title>https://github.com/livebook-dev/livebook</title>
+    <link href="https://github.com/livebook-dev/livebook" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Automate code &amp; data workflows with interactive Elixir notebooks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1748044800</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1748044800</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/software-mansion/live-debugger#1748044800</id>
+    <title>https://github.com/software-mansion/live-debugger</title>
+    <link href="https://github.com/software-mansion/live-debugger" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Tool for debugging LiveView applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1748044800</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+</feed>

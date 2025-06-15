@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/liquid/daily.atom</id>
+  <title>GitHub Trending - liquid (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/liquid/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Shopify/dawn#1747267200</id>
+    <title>https://github.com/Shopify/dawn</title>
+    <link href="https://github.com/Shopify/dawn" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TrellisCommerce/shopify-tailwind-starter-base#1747267200</id>
+    <title>https://github.com/TrellisCommerce/shopify-tailwind-starter-base</title>
+    <link href="https://github.com/TrellisCommerce/shopify-tailwind-starter-base" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Shopify Dawn theme with Tailwind CSS &amp; Prettier integrations</content>
+  </entry>
+</feed>

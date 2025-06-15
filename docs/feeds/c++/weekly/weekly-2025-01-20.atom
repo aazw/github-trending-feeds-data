@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/weekly.atom</id>
+  <title>GitHub Trending - c++ (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ton-blockchain/ton#1737331200</id>
+    <title>https://github.com/ton-blockchain/ton</title>
+    <link href="https://github.com/ton-blockchain/ton" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Main TON monorepo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/folly#1737331200</id>
+    <title>https://github.com/facebook/folly</title>
+    <link href="https://github.com/facebook/folly" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">An open-source C++ library developed and used at Facebook.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kevmo314/scuda#1737331200</id>
+    <title>https://github.com/kevmo314/scuda</title>
+    <link href="https://github.com/kevmo314/scuda" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">SCUDA is a GPU over IP bridge allowing GPUs on remote machines to be attached to CPU-only machines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react-native#1737331200</id>
+    <title>https://github.com/facebook/react-native</title>
+    <link href="https://github.com/facebook/react-native" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A framework for building native applications using React</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protocolbuffers/protobuf#1737331200</id>
+    <title>https://github.com/protocolbuffers/protobuf</title>
+    <link href="https://github.com/protocolbuffers/protobuf" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Protocol Buffers - Google's data interchange format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yhirose/cpp-httplib#1737331200</id>
+    <title>https://github.com/yhirose/cpp-httplib</title>
+    <link href="https://github.com/yhirose/cpp-httplib" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A C++ header-only HTTP/HTTPS server and client library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/borglab/gtsam#1737331200</id>
+    <title>https://github.com/borglab/gtsam</title>
+    <link href="https://github.com/borglab/gtsam" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">GTSAM is a library of C++ classes that implement smoothing and mapping (SAM) in robotics and vision, using factor graphs and Bayes networks as the underlying computing paradigm rather than sparse matrices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/niedev/RTranslator#1737331200</id>
+    <title>https://github.com/niedev/RTranslator</title>
+    <link href="https://github.com/niedev/RTranslator" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Open source real-time translation app for Android that runs locally</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k2-fsa/sherpa-onnx#1737331200</id>
+    <title>https://github.com/k2-fsa/sherpa-onnx</title>
+    <link href="https://github.com/k2-fsa/sherpa-onnx" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Speech-to-text, text-to-speech, speaker diarization, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, C/C++, Python, Kotlin, C#, Go, NodeJS, Java, Swift, Dart, JavaScript, Flutter, Object Pascal, Lazarus, Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lich0821/WeChatFerry#1737331200</id>
+    <title>https://github.com/lich0821/WeChatFerry</title>
+    <link href="https://github.com/lich0821/WeChatFerry" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/googletest#1737331200</id>
+    <title>https://github.com/google/googletest</title>
+    <link href="https://github.com/google/googletest" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">GoogleTest - Google Testing and Mocking Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gem5/gem5#1737331200</id>
+    <title>https://github.com/gem5/gem5</title>
+    <link href="https://github.com/gem5/gem5" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The official repository for the gem5 computer-system architecture simulator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/libphonenumber#1737331200</id>
+    <title>https://github.com/google/libphonenumber</title>
+    <link href="https://github.com/google/libphonenumber" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dalathegreat/Battery-Emulator#1737331200</id>
+    <title>https://github.com/dalathegreat/Battery-Emulator</title>
+    <link href="https://github.com/dalathegreat/Battery-Emulator" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">This revolutionary software enables EV battery packs to be easily reused for stationary storage in combination with solar inverters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electron/electron#1737331200</id>
+    <title>https://github.com/electron/electron</title>
+    <link href="https://github.com/electron/electron" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Build cross-platform desktop apps with JavaScript, HTML, and CSS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencv/opencv#1737331200</id>
+    <title>https://github.com/opencv/opencv</title>
+    <link href="https://github.com/opencv/opencv" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Open Source Computer Vision Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ClassicOldSong/Apollo#1737331200</id>
+    <title>https://github.com/ClassicOldSong/Apollo</title>
+    <link href="https://github.com/ClassicOldSong/Apollo" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Sunshine fork - The easiest way to stream with the native resolution of your client device</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftlang/swift#1737331200</id>
+    <title>https://github.com/swiftlang/swift</title>
+    <link href="https://github.com/swiftlang/swift" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The Swift Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/faiss#1737331200</id>
+    <title>https://github.com/facebookresearch/faiss</title>
+    <link href="https://github.com/facebookresearch/faiss" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A library for efficient similarity search and clustering of dense vectors.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorflow/tensorflow#1737331200</id>
+    <title>https://github.com/tensorflow/tensorflow</title>
+    <link href="https://github.com/tensorflow/tensorflow" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">An Open Source Machine Learning Framework for Everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wazuh/wazuh#1737331200</id>
+    <title>https://github.com/wazuh/wazuh</title>
+    <link href="https://github.com/wazuh/wazuh" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/project-chip/connectedhomeip#1737331200</id>
+    <title>https://github.com/project-chip/connectedhomeip</title>
+    <link href="https://github.com/project-chip/connectedhomeip" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AutoHotkey/AutoHotkey#1737331200</id>
+    <title>https://github.com/AutoHotkey/AutoHotkey</title>
+    <link href="https://github.com/AutoHotkey/AutoHotkey" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">AutoHotkey - macro-creation and automation-oriented scripting utility for Windows.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/microsoft-ui-xaml#1737331200</id>
+    <title>https://github.com/microsoft/microsoft-ui-xaml</title>
+    <link href="https://github.com/microsoft/microsoft-ui-xaml" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">WinUI: a modern UI framework with a rich set of controls and styles to build dynamic and high-performing Windows applications.</content>
+  </entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom</id>
+  <title>GitHub Trending - cmake (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1738540800</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abdes/cryptopp-cmake#1738540800</id>
+    <title>https://github.com/abdes/cryptopp-cmake</title>
+    <link href="https://github.com/abdes/cryptopp-cmake" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A modern CMake build project for Crypto++ (https://github.com/weidai11/cryptopp).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware_msgs#1738540800</id>
+    <title>https://github.com/autowarefoundation/autoware_msgs</title>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/corrosion-rs/corrosion#1738540800</id>
+    <title>https://github.com/corrosion-rs/corrosion</title>
+    <link href="https://github.com/corrosion-rs/corrosion" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Marrying Rust and CMake - Easy Rust and C/C++ Integration!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/ecbuild#1738540800</id>
+    <title>https://github.com/ecmwf/ecbuild</title>
+    <link href="https://github.com/ecmwf/ecbuild" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-planning/navigation_msgs#1738540800</id>
+    <title>https://github.com/ros-planning/navigation_msgs</title>
+    <link href="https://github.com/ros-planning/navigation_msgs" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Message packages required by the navigation stack</content>
+  </entry>
+</feed>

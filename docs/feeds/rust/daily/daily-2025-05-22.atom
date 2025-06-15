@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Automattic/harper#1747872000</id>
+    <title>https://github.com/Automattic/harper</title>
+    <link href="https://github.com/Automattic/harper" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Offline, privacy-first grammar checker. Fast, open-source, Rust-powered</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1747872000</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Orange-OpenSource/hurl#1747872000</id>
+    <title>https://github.com/Orange-OpenSource/hurl</title>
+    <link href="https://github.com/Orange-OpenSource/hurl" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Hurl, run and test HTTP requests with plain text.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheAlgorithms/Rust#1747872000</id>
+    <title>https://github.com/TheAlgorithms/Rust</title>
+    <link href="https://github.com/TheAlgorithms/Rust" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">All Algorithms implemented in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/arrow-rs#1747872000</id>
+    <title>https://github.com/apache/arrow-rs</title>
+    <link href="https://github.com/apache/arrow-rs" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Official Rust implementation of Apache Arrow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bee-san/RustScan#1747872000</id>
+    <title>https://github.com/bee-san/RustScan</title>
+    <link href="https://github.com/bee-san/RustScan" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">🤖 The Modern Port Scanner 🤖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/block/goose#1747872000</id>
+    <title>https://github.com/block/goose</title>
+    <link href="https://github.com/block/goose" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/tokenizers#1747872000</id>
+    <title>https://github.com/huggingface/tokenizers</title>
+    <link href="https://github.com/huggingface/tokenizers" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelcontextprotocol/rust-sdk#1747872000</id>
+    <title>https://github.com/modelcontextprotocol/rust-sdk</title>
+    <link href="https://github.com/modelcontextprotocol/rust-sdk" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">The official Rust SDK for the Model Context Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-windowing/winit#1747872000</id>
+    <title>https://github.com/rust-windowing/winit</title>
+    <link href="https://github.com/rust-windowing/winit" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Window handling library in pure Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stellar/soroban-example-dapp#1747872000</id>
+    <title>https://github.com/stellar/soroban-example-dapp</title>
+    <link href="https://github.com/stellar/soroban-example-dapp" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">End-to-End Example Soroban Dapp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swc-project/swc#1747872000</id>
+    <title>https://github.com/swc-project/swc</title>
+    <link href="https://github.com/swc-project/swc" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Rust-based platform for the Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/plugins-workspace#1747872000</id>
+    <title>https://github.com/tauri-apps/plugins-workspace</title>
+    <link href="https://github.com/tauri-apps/plugins-workspace" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">All of the official Tauri plugins in one place!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tikv/tikv#1747872000</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1747872000</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wasmerio/wasmer#1747872000</id>
+    <title>https://github.com/wasmerio/wasmer</title>
+    <link href="https://github.com/wasmerio/wasmer" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">🚀 Fast, secure, lightweight containers based on WebAssembly</content>
+  </entry>
+</feed>

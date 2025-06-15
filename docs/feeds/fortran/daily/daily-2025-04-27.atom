@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/E3SM-Project/E3SM#1745712000</id>
+    <title>https://github.com/E3SM-Project/E3SM</title>
+    <link href="https://github.com/E3SM-Project/E3SM" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Energy Exascale Earth System Model source code. NOTE: use "maint" branches for your work. Head of master is not validated.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ESCOMP/CTSM#1745712000</id>
+    <title>https://github.com/ESCOMP/CTSM</title>
+    <link href="https://github.com/ESCOMP/CTSM" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Community Terrestrial Systems Model (includes the Community Land Model of CESM)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MCSclimate/MCT#1745712000</id>
+    <title>https://github.com/MCSclimate/MCT</title>
+    <link href="https://github.com/MCSclimate/MCT" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Model Coupling Tookit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/earth-system-radiation/rte-rrtmgp#1745712000</id>
+    <title>https://github.com/earth-system-radiation/rte-rrtmgp</title>
+    <link href="https://github.com/earth-system-radiation/rte-rrtmgp" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">RTE+RRTMGP is a set of codes for computing radiative fluxes in planetary atmospheres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1745712000</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1745712000</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+</feed>

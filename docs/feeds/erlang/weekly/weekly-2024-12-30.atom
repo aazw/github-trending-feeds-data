@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/weekly.atom</id>
+  <title>GitHub Trending - erlang (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-30T12:13:50+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tomas-abrahamsson/gpb#1735560830</id>
+    <title>https://github.com/tomas-abrahamsson/gpb</title>
+    <link href="https://github.com/tomas-abrahamsson/gpb" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">A Google Protobuf implementation for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/proper-testing/proper#1735560830</id>
+    <title>https://github.com/proper-testing/proper</title>
+    <link href="https://github.com/proper-testing/proper" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">PropEr: a QuickCheck-inspired property-based testing tool for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kafka4beam/brod#1735560830</id>
+    <title>https://github.com/kafka4beam/brod</title>
+    <link href="https://github.com/kafka4beam/brod" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">Apache Kafka client library for Erlang/Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/couchdb#1735560830</id>
+    <title>https://github.com/apache/couchdb</title>
+    <link href="https://github.com/apache/couchdb" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">Seamless multi-master syncing database with an intuitive HTTP/JSON API, designed for reliability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josefs/Gradualizer#1735560830</id>
+    <title>https://github.com/josefs/Gradualizer</title>
+    <link href="https://github.com/josefs/Gradualizer" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">A Gradual type system for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1735560830</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-ls/erlang_ls#1735560830</id>
+    <title>https://github.com/erlang-ls/erlang_ls</title>
+    <link href="https://github.com/erlang-ls/erlang_ls" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">The Erlang Language Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1735560830</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqtt#1735560830</id>
+    <title>https://github.com/emqx/emqtt</title>
+    <link href="https://github.com/emqx/emqtt" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">Erlang MQTT 5.0 Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1735560830</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1735560830</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dgiot/dgiot#1735560830</id>
+    <title>https://github.com/dgiot/dgiot</title>
+    <link href="https://github.com/dgiot/dgiot" />
+    <updated>2024-12-30T12:13:50+00:00</updated>
+    <content type="text">Open source platform for iot , 6 min Quick Deployment,10M devices connection,Carrier level Stability;物联网开源平台,6分钟快速部署,千万级承载,电信级稳定性. Low code for Object model-Rule Engine-Data Channel-Configuration Page; Fully open source, Multi industrial protocols are compatible.物模型-规则引擎-数据通道-组态页面全流程零代码开发、全业务全链路模拟压测、前后端完全开源、多行业工业协议兼容。QQ群:346566935</content>
+  </entry>
+</feed>

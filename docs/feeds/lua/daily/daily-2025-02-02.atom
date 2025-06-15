@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Courseplay/Courseplay_FS25#1738454400</id>
+    <title>https://github.com/Courseplay/Courseplay_FS25</title>
+    <link href="https://github.com/Courseplay/Courseplay_FS25" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Courseplay for Farming Simulator 2025</content>
+  </entry>
+  <entry>
+    <id>https://github.com/David-Kunz/gen.nvim#1738454400</id>
+    <title>https://github.com/David-Kunz/gen.nvim</title>
+    <link href="https://github.com/David-Kunz/gen.nvim" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Neovim plugin to generate text using LLMs with customizable prompts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EdenEast/nightfox.nvim#1738454400</id>
+    <title>https://github.com/EdenEast/nightfox.nvim</title>
+    <link href="https://github.com/EdenEast/nightfox.nvim" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kong/kong#1738454400</id>
+    <title>https://github.com/Kong/kong</title>
+    <link href="https://github.com/Kong/kong" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1738454400</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MathIsFun0/Cryptid#1738454400</id>
+    <title>https://github.com/MathIsFun0/Cryptid</title>
+    <link href="https://github.com/MathIsFun0/Cryptid" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">An unbalanced Balatro mod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/noice.nvim#1738454400</id>
+    <title>https://github.com/folke/noice.nvim</title>
+    <link href="https://github.com/folke/noice.nvim" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1738454400</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hrsh7th/nvim-cmp#1738454400</id>
+    <title>https://github.com/hrsh7th/nvim-cmp</title>
+    <link href="https://github.com/hrsh7th/nvim-cmp" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">A completion plugin for neovim coded in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1738454400</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntop/ntopng#1738454400</id>
+    <title>https://github.com/ntop/ntopng</title>
+    <link href="https://github.com/ntop/ntopng" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Web-based Traffic and Security Network Traffic Monitoring</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1738454400</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-telescope/telescope.nvim#1738454400</id>
+    <title>https://github.com/nvim-telescope/telescope.nvim</title>
+    <link href="https://github.com/nvim-telescope/telescope.nvim" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Find, Filter, Preview, Pick. All lua, all the time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/williamboman/mason-lspconfig.nvim#1738454400</id>
+    <title>https://github.com/williamboman/mason-lspconfig.nvim</title>
+    <link href="https://github.com/williamboman/mason-lspconfig.nvim" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text">Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xiaorouji/openwrt-passwall#1738454400</id>
+    <title>https://github.com/xiaorouji/openwrt-passwall</title>
+    <link href="https://github.com/xiaorouji/openwrt-passwall" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/xiaorouji/openwrt-passwall2#1738454400</id>
+    <title>https://github.com/xiaorouji/openwrt-passwall2</title>
+    <link href="https://github.com/xiaorouji/openwrt-passwall2" />
+    <updated>2025-02-02T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

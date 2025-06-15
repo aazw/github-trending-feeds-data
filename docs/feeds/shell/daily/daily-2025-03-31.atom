@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JamesTurland/JimsGarage#1743379200</id>
+    <title>https://github.com/JamesTurland/JimsGarage</title>
+    <link href="https://github.com/JamesTurland/JimsGarage" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Homelab Goodies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LinuxDroidMaster/Termux-Desktops#1743379200</id>
+    <title>https://github.com/LinuxDroidMaster/Termux-Desktops</title>
+    <link href="https://github.com/LinuxDroidMaster/Termux-Desktops" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Collection of scripts to launch Desktops with audio in Termux X11 and how to use hardware acceleration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/ROCm#1743379200</id>
+    <title>https://github.com/ROCm/ROCm</title>
+    <link href="https://github.com/ROCm/ROCm" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">AMD ROCm™ Software - GitHub Home</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RROrg/rr#1743379200</id>
+    <title>https://github.com/RROrg/rr</title>
+    <link href="https://github.com/RROrg/rr" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Redpill Recovery (arpl-i18n)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YanG-1989/m3u#1743379200</id>
+    <title>https://github.com/YanG-1989/m3u</title>
+    <link href="https://github.com/YanG-1989/m3u" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">直播源</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adi1090x/rofi#1743379200</id>
+    <title>https://github.com/adi1090x/rofi</title>
+    <link href="https://github.com/adi1090x/rofi" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A huge collection of Rofi based custom Applets, Launchers &amp; Powermenus.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/omakub#1743379200</id>
+    <title>https://github.com/basecamp/omakub</title>
+    <link href="https://github.com/basecamp/omakub" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Opinionated Ubuntu Setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker-mailserver/docker-mailserver#1743379200</id>
+    <title>https://github.com/docker-mailserver/docker-mailserver</title>
+    <link href="https://github.com/docker-mailserver/docker-mailserver" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inkonchain/node#1743379200</id>
+    <title>https://github.com/inkonchain/node</title>
+    <link href="https://github.com/inkonchain/node" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">How to run an Ink Node</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mylinuxforwork/dotfiles#1743379200</id>
+    <title>https://github.com/mylinuxforwork/dotfiles</title>
+    <link href="https://github.com/mylinuxforwork/dotfiles" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nextcloud/docker#1743379200</id>
+    <title>https://github.com/nextcloud/docker</title>
+    <link href="https://github.com/nextcloud/docker" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">⛴ Docker image of Nextcloud</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1743379200</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ophub/amlogic-s9xxx-openwrt#1743379200</id>
+    <title>https://github.com/ophub/amlogic-s9xxx-openwrt</title>
+    <link href="https://github.com/ophub/amlogic-s9xxx-openwrt" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pi-hole/docker-pi-hole#1743379200</id>
+    <title>https://github.com/pi-hole/docker-pi-hole</title>
+    <link href="https://github.com/pi-hole/docker-pi-hole" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Pi-hole in a docker container</content>
+  </entry>
+  <entry>
+    <id>https://github.com/samsesh/SocialBox-Termux#1743379200</id>
+    <title>https://github.com/samsesh/SocialBox-Termux</title>
+    <link href="https://github.com/samsesh/SocialBox-Termux" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">SocialBox is a Bruteforce Attack Framework [ Facebook , Gmail , Instagram ,Twitter ] , Coded By Belahsan Ouerghi Edit By samsesh for termux on android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sickcodes/Docker-OSX#1743379200</id>
+    <title>https://github.com/sickcodes/Docker-OSX</title>
+    <link href="https://github.com/sickcodes/Docker-OSX" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/termux/termux-packages#1743379200</id>
+    <title>https://github.com/termux/termux-packages</title>
+    <link href="https://github.com/termux/termux-packages" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A package build system for Termux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/void-linux/void-packages#1743379200</id>
+    <title>https://github.com/void-linux/void-packages</title>
+    <link href="https://github.com/void-linux/void-packages" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">The Void source packages collection</content>
+  </entry>
+</feed>

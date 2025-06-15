@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-aks#1747180800</id>
+    <title>https://github.com/Azure/terraform-azurerm-aks</title>
+    <link href="https://github.com/Azure/terraform-azurerm-aks" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Terraform Module for deploying an AKS cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-caf-enterprise-scale#1747180800</id>
+    <title>https://github.com/Azure/terraform-azurerm-caf-enterprise-scale</title>
+    <link href="https://github.com/Azure/terraform-azurerm-caf-enterprise-scale" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Azure landing zones Terraform module</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1747180800</id>
+    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cluster-toolkit#1747180800</id>
+    <title>https://github.com/GoogleCloudPlatform/cluster-toolkit</title>
+    <link href="https://github.com/GoogleCloudPlatform/cluster-toolkit" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Cluster Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1747180800</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1747180800</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-mwaa#1747180800</id>
+    <title>https://github.com/cloudposse/terraform-aws-mwaa</title>
+    <link href="https://github.com/cloudposse/terraform-aws-mwaa" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Terraform module to provision Amazon Managed Workflows for Apache Airflow (MWAA)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-s3-log-storage#1747180800</id>
+    <title>https://github.com/cloudposse/terraform-aws-s3-log-storage</title>
+    <link href="https://github.com/cloudposse/terraform-aws-s3-log-storage" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1747180800</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1747180800</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-iam#1747180800</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-iam</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-iam" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Terraform module to create AWS IAM resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-lambda#1747180800</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-lambda</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-vpc#1747180800</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-vpc</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-vpc" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Terraform module to create AWS VPC resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine#1747180800</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">Configures opinionated GKE clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zealvora/terraform-beginner-to-advanced-resource#1747180800</id>
+    <title>https://github.com/zealvora/terraform-beginner-to-advanced-resource</title>
+    <link href="https://github.com/zealvora/terraform-beginner-to-advanced-resource" />
+    <updated>2025-05-14T00:00:00</updated>
+    <content type="text">HashiCorp Certified Terraform Associate 2025</content>
+  </entry>
+</feed>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/containerd/containerd#1739232000</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1739232000</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gitea/gitea#1739232000</id>
+    <title>https://github.com/go-gitea/gitea</title>
+    <link href="https://github.com/go-gitea/gitea" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-kratos/kratos#1739232000</id>
+    <title>https://github.com/go-kratos/kratos</title>
+    <link href="https://github.com/go-kratos/kratos" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Your ultimate Go microservices framework for the cloud-native era.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1739232000</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperledger/fabric#1739232000</id>
+    <title>https://github.com/hyperledger/fabric</title>
+    <link href="https://github.com/hyperledger/fabric" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kubebuilder#1739232000</id>
+    <title>https://github.com/kubernetes-sigs/kubebuilder</title>
+    <link href="https://github.com/kubernetes-sigs/kubebuilder" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Kubebuilder - SDK for building Kubernetes APIs using CRDs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kustomize#1739232000</id>
+    <title>https://github.com/kubernetes-sigs/kustomize</title>
+    <link href="https://github.com/kubernetes-sigs/kustomize" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Customization of kubernetes YAML configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/client-go#1739232000</id>
+    <title>https://github.com/kubernetes/client-go</title>
+    <link href="https://github.com/kubernetes/client-go" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Go client for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1739232000</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lib/pq#1739232000</id>
+    <title>https://github.com/lib/pq</title>
+    <link href="https://github.com/lib/pq" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Pure Go Postgres driver for database/sql</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/devpod#1739232000</id>
+    <title>https://github.com/loft-sh/devpod</title>
+    <link href="https://github.com/loft-sh/devpod" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/m1k1o/neko#1739232000</id>
+    <title>https://github.com/m1k1o/neko</title>
+    <link href="https://github.com/m1k1o/neko" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">A self hosted virtual browser that runs in docker and uses WebRTC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1739232000</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1739232000</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1739232000</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openimsdk/open-im-server#1739232000</id>
+    <title>https://github.com/openimsdk/open-im-server</title>
+    <link href="https://github.com/openimsdk/open-im-server" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">IM Chat ChatGPT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ray-project/kuberay#1739232000</id>
+    <title>https://github.com/ray-project/kuberay</title>
+    <link href="https://github.com/ray-project/kuberay" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">A toolkit to run Ray applications on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/go-redis#1739232000</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Redis Go client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rs/zerolog#1739232000</id>
+    <title>https://github.com/rs/zerolog</title>
+    <link href="https://github.com/rs/zerolog" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Zero Allocation JSON Logger</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1739232000</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swaggo/swag#1739232000</id>
+    <title>https://github.com/swaggo/swag</title>
+    <link href="https://github.com/swaggo/swag" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Automatically generate RESTful API documentation with Swagger 2.0 for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/techschool/simplebank#1739232000</id>
+    <title>https://github.com/techschool/simplebank</title>
+    <link href="https://github.com/techschool/simplebank" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Backend master class: build a simple bank service in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/v2rayA/v2rayA#1739232000</id>
+    <title>https://github.com/v2rayA/v2rayA</title>
+    <link href="https://github.com/v2rayA/v2rayA" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">A web GUI client of Project V which supports VMess, VLESS, SS, SSR, Trojan, Tuic and Juicity protocols. 🚀</content>
+  </entry>
+</feed>

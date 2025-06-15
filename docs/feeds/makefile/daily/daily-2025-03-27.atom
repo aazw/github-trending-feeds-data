@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom</id>
+  <title>GitHub Trending - makefile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/HaveAGitGat/Tdarr#1743033600</id>
+    <title>https://github.com/HaveAGitGat/Tdarr</title>
+    <link href="https://github.com/HaveAGitGat/Tdarr" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux &amp; Docker)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCKNIX/distribution#1743033600</id>
+    <title>https://github.com/ROCKNIX/distribution</title>
+    <link href="https://github.com/ROCKNIX/distribution" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/container-storage-interface/spec#1743033600</id>
+    <title>https://github.com/container-storage-interface/spec</title>
+    <link href="https://github.com/container-storage-interface/spec" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Container Storage Interface (CSI) Specification.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dbt-labs/dbt-utils#1743033600</id>
+    <title>https://github.com/dbt-labs/dbt-utils</title>
+    <link href="https://github.com/dbt-labs/dbt-utils" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Utility functions for dbt projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deepseek-ai/DeepSeek-LLM#1743033600</id>
+    <title>https://github.com/deepseek-ai/DeepSeek-LLM</title>
+    <link href="https://github.com/deepseek-ai/DeepSeek-LLM" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">DeepSeek LLM: Let there be answers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework#1743033600</id>
+    <title>https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework</title>
+    <link href="https://github.com/eu-digital-identity-wallet/eudi-doc-architecture-and-reference-framework" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The European Digital Identity Wallet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foostan/crkbd#1743033600</id>
+    <title>https://github.com/foostan/crkbd</title>
+    <link href="https://github.com/foostan/crkbd" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-standards/project-layout#1743033600</id>
+    <title>https://github.com/golang-standards/project-layout</title>
+    <link href="https://github.com/golang-standards/project-layout" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Standard Go Project Layout</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto#1743033600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">OpenTelemetry protocol (OTLP) specification and Protobuf definitions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1743033600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-specification#1743033600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-specification</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-specification" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Specifications for OpenTelemetry</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwrt/packages#1743033600</id>
+    <title>https://github.com/openwrt/packages</title>
+    <link href="https://github.com/openwrt/packages" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Community maintained packages for OpenWrt. Documentation for submitting pull requests is in CONTRIBUTING.md</content>
+  </entry>
+  <entry>
+    <id>https://github.com/richfelker/musl-cross-make#1743033600</id>
+    <title>https://github.com/richfelker/musl-cross-make</title>
+    <link href="https://github.com/richfelker/musl-cross-make" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Simple makefile-based build for musl cross compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twilio/twilio-oai#1743033600</id>
+    <title>https://github.com/twilio/twilio-oai</title>
+    <link href="https://github.com/twilio/twilio-oai" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The Twilio OpenAPI Specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/guide#1743033600</id>
+    <title>https://github.com/uber-go/guide</title>
+    <link href="https://github.com/uber-go/guide" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">The Uber Go Style Guide.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/upbound/build#1743033600</id>
+    <title>https://github.com/upbound/build</title>
+    <link href="https://github.com/upbound/build" />
+    <updated>2025-03-27T00:00:00</updated>
+    <content type="text">Upbound build and CI scripts</content>
+  </entry>
+</feed>

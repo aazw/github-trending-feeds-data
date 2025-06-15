@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GitoxideLabs/gitoxide#1737849600</id>
+    <title>https://github.com/GitoxideLabs/gitoxide</title>
+    <link href="https://github.com/GitoxideLabs/gitoxide" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">An idiomatic, lean, fast &amp; safe pure Rust implementation of Git</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XAMPPRocky/tokei#1737849600</id>
+    <title>https://github.com/XAMPPRocky/tokei</title>
+    <link href="https://github.com/XAMPPRocky/tokei" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Count your code, quickly.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1737849600</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1737849600</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/davidlattimore/wild#1737849600</id>
+    <title>https://github.com/davidlattimore/wild</title>
+    <link href="https://github.com/davidlattimore/wild" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A very fast linker for Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1737849600</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1737849600</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1737849600</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/louis-e/arnis#1737849600</id>
+    <title>https://github.com/louis-e/arnis</title>
+    <link href="https://github.com/louis-e/arnis" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Generate any location from the real world in Minecraft Java Edition with a high level of detail.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell#1737849600</id>
+    <title>https://github.com/nushell/nushell</title>
+    <link href="https://github.com/nushell/nushell" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A new type of shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1737849600</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raydium-io/raydium-amm#1737849600</id>
+    <title>https://github.com/raydium-io/raydium-amm</title>
+    <link href="https://github.com/raydium-io/raydium-amm" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Constant product AMM integrated with the OpenBook CLOB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raydium-io/raydium-clmm#1737849600</id>
+    <title>https://github.com/raydium-io/raydium-clmm</title>
+    <link href="https://github.com/raydium-io/raydium-clmm" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Open-Source Concentrated Liquidity Market Maker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/cargo#1737849600</id>
+    <title>https://github.com/rust-lang/cargo</title>
+    <link href="https://github.com/rust-lang/cargo" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">The Rust package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust#1737849600</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1737849600</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/succinctlabs/sp1#1737849600</id>
+    <title>https://github.com/succinctlabs/sp1</title>
+    <link href="https://github.com/succinctlabs/sp1" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">The fastest, most feature-complete zkVM for developers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tokio#1737849600</id>
+    <title>https://github.com/tokio-rs/tokio</title>
+    <link href="https://github.com/tokio-rs/tokio" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1737849600</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1737849600</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zellij-org/zellij#1737849600</id>
+    <title>https://github.com/zellij-org/zellij</title>
+    <link href="https://github.com/zellij-org/zellij" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A terminal workspace with batteries included</content>
+  </entry>
+</feed>

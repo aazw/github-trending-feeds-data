@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MatthewZMD/aidermacs#1748217600</id>
+    <title>https://github.com/MatthewZMD/aidermacs</title>
+    <link href="https://github.com/MatthewZMD/aidermacs" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">AI Pair Programming in Emacs with Aider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abo-abo/hydra#1748217600</id>
+    <title>https://github.com/abo-abo/hydra</title>
+    <link href="https://github.com/abo-abo/hydra" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">make Emacs bindings that stick around</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akermu/emacs-libvterm#1748217600</id>
+    <title>https://github.com/akermu/emacs-libvterm</title>
+    <link href="https://github.com/akermu/emacs-libvterm" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Emacs libvterm integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bbatsov/projectile#1748217600</id>
+    <title>https://github.com/bbatsov/projectile</title>
+    <link href="https://github.com/bbatsov/projectile" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Project Interaction Library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1748217600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1748217600</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1748217600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil-collection#1748217600</id>
+    <title>https://github.com/emacs-evil/evil-collection</title>
+    <link href="https://github.com/emacs-evil/evil-collection" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A set of keybindings for evil-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1748217600</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrblevin/markdown-mode#1748217600</id>
+    <title>https://github.com/jrblevin/markdown-mode</title>
+    <link href="https://github.com/jrblevin/markdown-mode" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Emacs Markdown Mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1748217600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lizqwerscott/mcp.el#1748217600</id>
+    <title>https://github.com/lizqwerscott/mcp.el</title>
+    <link href="https://github.com/lizqwerscott/mcp.el" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">An Mcp client inside Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1748217600</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1748217600</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milanglacier/minuet-ai.el#1748217600</id>
+    <title>https://github.com/milanglacier/minuet-ai.el</title>
+    <link href="https://github.com/milanglacier/minuet-ai.el" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">💃 Dance with LLM in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/polymode/polymode#1748217600</id>
+    <title>https://github.com/polymode/polymode</title>
+    <link href="https://github.com/polymode/polymode" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Framework for Multiple Major Modes in Emacs (core library)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons-dired#1748217600</id>
+    <title>https://github.com/rainstormstudio/nerd-icons-dired</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons-dired" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/xenodium/chatgpt-shell#1748217600</id>
+    <title>https://github.com/xenodium/chatgpt-shell</title>
+    <link href="https://github.com/xenodium/chatgpt-shell" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-16T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/amix/vimrc#1744761600</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cespare/vim-toml#1744761600</id>
+    <title>https://github.com/cespare/vim-toml</title>
+    <link href="https://github.com/cespare/vim-toml" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Vim syntax for TOML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chr4/nginx.vim#1744761600</id>
+    <title>https://github.com/chr4/nginx.vim</title>
+    <link href="https://github.com/chr4/nginx.vim" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Improved nginx vim plugin (incl. syntax highlighting)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gelguy/wilder.nvim#1744761600</id>
+    <title>https://github.com/gelguy/wilder.nvim</title>
+    <link href="https://github.com/gelguy/wilder.nvim" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">A more adventurous wildmenu</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1744761600</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1744761600</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jlanzarotta/bufexplorer#1744761600</id>
+    <title>https://github.com/jlanzarotta/bufexplorer</title>
+    <link href="https://github.com/jlanzarotta/bufexplorer" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">BufExplorer Plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1744761600</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kchmck/vim-coffee-script#1744761600</id>
+    <title>https://github.com/kchmck/vim-coffee-script</title>
+    <link href="https://github.com/kchmck/vim-coffee-script" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">CoffeeScript support for vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-ui#1744761600</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-ui</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Simple UI for https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1744761600</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-signify#1744761600</id>
+    <title>https://github.com/mhinz/vim-signify</title>
+    <link href="https://github.com/mhinz/vim-signify" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">➕ Show a diff using Vim its sign column.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1744761600</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdcommenter#1744761600</id>
+    <title>https://github.com/preservim/nerdcommenter</title>
+    <link href="https://github.com/preservim/nerdcommenter" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Vim plugin for intensely nerdy commenting powers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/puremourning/vimspector#1744761600</id>
+    <title>https://github.com/puremourning/vimspector</title>
+    <link href="https://github.com/puremourning/vimspector" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">vimspector - A multi-language debugging system for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1744761600</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-unimpaired#1744761600</id>
+    <title>https://github.com/tpope/vim-unimpaired</title>
+    <link href="https://github.com/tpope/vim-unimpaired" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">unimpaired.vim: Pairs of handy bracket mappings</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1744761600</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

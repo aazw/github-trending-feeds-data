@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Kong/kong#1746662400</id>
+    <title>https://github.com/Kong/kong</title>
+    <link href="https://github.com/Kong/kong" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1746662400</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/starter#1746662400</id>
+    <title>https://github.com/LazyVim/starter</title>
+    <link href="https://github.com/LazyVim/starter" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Starter template for LazyVim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NeogitOrg/neogit#1746662400</id>
+    <title>https://github.com/NeogitOrg/neogit</title>
+    <link href="https://github.com/NeogitOrg/neogit" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">An interactive and powerful Git interface for Neovim, inspired by Magit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim#1746662400</id>
+    <title>https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim</title>
+    <link href="https://github.com/WhoIsSethDaniel/mason-tool-installer.nvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Install and upgrade third party tools automatically</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/apisix#1746662400</id>
+    <title>https://github.com/apache/apisix</title>
+    <link href="https://github.com/apache/apisix" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">The Cloud-Native API Gateway and AI Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibhagwan/fzf-lua#1746662400</id>
+    <title>https://github.com/ibhagwan/fzf-lua</title>
+    <link href="https://github.com/ibhagwan/fzf-lua" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Improved fzf.vim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jitsi/docker-jitsi-meet#1746662400</id>
+    <title>https://github.com/jitsi/docker-jitsi-meet</title>
+    <link href="https://github.com/jitsi/docker-jitsi-meet" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Jitsi Meet on Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mason-org/mason-lspconfig.nvim#1746662400</id>
+    <title>https://github.com/mason-org/mason-lspconfig.nvim</title>
+    <link href="https://github.com/mason-org/mason-lspconfig.nvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mason-org/mason.nvim#1746662400</id>
+    <title>https://github.com/mason-org/mason.nvim</title>
+    <link href="https://github.com/mason-org/mason.nvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milanglacier/minuet-ai.nvim#1746662400</id>
+    <title>https://github.com/milanglacier/minuet-ai.nvim</title>
+    <link href="https://github.com/milanglacier/minuet-ai.nvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">💃 Dance with Intelligence in Your Code. Minuet offers code completion as-you-type from popular LLMs including OpenAI, Gemini, Claude, Ollama, Llama.cpp, Codestral, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrcjkb/rustaceanvim#1746662400</id>
+    <title>https://github.com/mrcjkb/rustaceanvim</title>
+    <link href="https://github.com/mrcjkb/rustaceanvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1746662400</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-java/nvim-java#1746662400</id>
+    <title>https://github.com/nvim-java/nvim-java</title>
+    <link href="https://github.com/nvim-java/nvim-java" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Painless Java in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1746662400</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neo-tree/neo-tree.nvim#1746662400</id>
+    <title>https://github.com/nvim-neo-tree/neo-tree.nvim</title>
+    <link href="https://github.com/nvim-neo-tree/neo-tree.nvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Neovim plugin to manage the file system and other tree like structures.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neotest/neotest#1746662400</id>
+    <title>https://github.com/nvim-neotest/neotest</title>
+    <link href="https://github.com/nvim-neotest/neotest" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">An extensible framework for interacting with tests within NeoVim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/olimorris/codecompanion.nvim#1746662400</id>
+    <title>https://github.com/olimorris/codecompanion.nvim</title>
+    <link href="https://github.com/olimorris/codecompanion.nvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">✨ AI-powered coding, seamlessly in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentibiabr/canary#1746662400</id>
+    <title>https://github.com/opentibiabr/canary</title>
+    <link href="https://github.com/opentibiabr/canary" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Canary Server 13.x for OpenTibia community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/quicker.nvim#1746662400</id>
+    <title>https://github.com/stevearc/quicker.nvim</title>
+    <link href="https://github.com/stevearc/quicker.nvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Improved UI and workflow for the Neovim quickfix</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1746662400</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

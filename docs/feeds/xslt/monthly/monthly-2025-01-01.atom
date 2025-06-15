@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/xslt/monthly.atom</id>
+  <title>GitHub Trending - xslt (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/xslt/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-01T13:36:44+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LOLBAS-Project/LOLBAS#1735738604</id>
+    <title>https://github.com/LOLBAS-Project/LOLBAS</title>
+    <link href="https://github.com/LOLBAS-Project/LOLBAS" />
+    <updated>2025-01-01T13:36:44+00:00</updated>
+    <content type="text">Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ConnectingEurope/eInvoicing-EN16931#1735738604</id>
+    <title>https://github.com/ConnectingEurope/eInvoicing-EN16931</title>
+    <link href="https://github.com/ConnectingEurope/eInvoicing-EN16931" />
+    <updated>2025-01-01T13:36:44+00:00</updated>
+    <content type="text">Validation artefacts for the European eInvoicing standard EN 16931</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ZUGFeRD/quba-viewer#1735738604</id>
+    <title>https://github.com/ZUGFeRD/quba-viewer</title>
+    <link href="https://github.com/ZUGFeRD/quba-viewer" />
+    <updated>2025-01-01T13:36:44+00:00</updated>
+    <content type="text">Quba is a viewer for electronic invoices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ZUGFeRD/mustangproject#1735738604</id>
+    <title>https://github.com/ZUGFeRD/mustangproject</title>
+    <link href="https://github.com/ZUGFeRD/mustangproject" />
+    <updated>2025-01-01T13:36:44+00:00</updated>
+    <content type="text">Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</content>
+  </entry>
+</feed>

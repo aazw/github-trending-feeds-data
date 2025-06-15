@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-01T11:25:21+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/quickwit-oss/tantivy#1735730721</id>
+    <title>https://github.com/quickwit-oss/tantivy</title>
+    <link href="https://github.com/quickwit-oss/tantivy" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperium/tonic#1735730721</id>
+    <title>https://github.com/hyperium/tonic</title>
+    <link href="https://github.com/hyperium/tonic" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">A native gRPC client &amp; server implementation with async/await support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-analyzer#1735730721</id>
+    <title>https://github.com/rust-lang/rust-analyzer</title>
+    <link href="https://github.com/rust-lang/rust-analyzer" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">A Rust compiler front-end for IDEs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fish-shell/fish-shell#1735730721</id>
+    <title>https://github.com/fish-shell/fish-shell</title>
+    <link href="https://github.com/fish-shell/fish-shell" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">The user-friendly command line shell.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Canop/broot#1735730721</id>
+    <title>https://github.com/Canop/broot</title>
+    <link href="https://github.com/Canop/broot" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">A new way to see and navigate directory trees : https://dystroy.org/broot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RustPython/RustPython#1735730721</id>
+    <title>https://github.com/RustPython/RustPython</title>
+    <link href="https://github.com/RustPython/RustPython" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">A Python Interpreter written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vosen/ZLUDA#1735730721</id>
+    <title>https://github.com/vosen/ZLUDA</title>
+    <link href="https://github.com/vosen/ZLUDA" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">CUDA on non-NVIDIA GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfontanini/presenterm#1735730721</id>
+    <title>https://github.com/mfontanini/presenterm</title>
+    <link href="https://github.com/mfontanini/presenterm" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">A markdown terminal slideshow tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Automattic/harper#1735730721</id>
+    <title>https://github.com/Automattic/harper</title>
+    <link href="https://github.com/Automattic/harper" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">The Grammar Checker for Developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1735730721</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dandavison/delta#1735730721</id>
+    <title>https://github.com/dandavison/delta</title>
+    <link href="https://github.com/dandavison/delta" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">A syntax-highlighting pager for git, diff, grep, and blame output</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/plugins-workspace#1735730721</id>
+    <title>https://github.com/tauri-apps/plugins-workspace</title>
+    <link href="https://github.com/tauri-apps/plugins-workspace" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">All of the official Tauri plugins in one place!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1735730721</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tokio#1735730721</id>
+    <title>https://github.com/tokio-rs/tokio</title>
+    <link href="https://github.com/tokio-rs/tokio" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/launchbadge/sqlx#1735730721</id>
+    <title>https://github.com/launchbadge/sqlx</title>
+    <link href="https://github.com/launchbadge/sqlx" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1735730721</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BurntSushi/ripgrep#1735730721</id>
+    <title>https://github.com/BurntSushi/ripgrep</title>
+    <link href="https://github.com/BurntSushi/ripgrep" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</content>
+  </entry>
+  <entry>
+    <id>https://github.com/embassy-rs/embassy#1735730721</id>
+    <title>https://github.com/embassy-rs/embassy</title>
+    <link href="https://github.com/embassy-rs/embassy" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">Modern embedded framework, using Rust and async.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/louis-e/arnis#1735730721</id>
+    <title>https://github.com/louis-e/arnis</title>
+    <link href="https://github.com/louis-e/arnis" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">Generate any location from the real world in Minecraft Java Edition with a high level of detail.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1735730721</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/quiche#1735730721</id>
+    <title>https://github.com/cloudflare/quiche</title>
+    <link href="https://github.com/cloudflare/quiche" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ajeetdsouza/zoxide#1735730721</id>
+    <title>https://github.com/ajeetdsouza/zoxide</title>
+    <link href="https://github.com/ajeetdsouza/zoxide" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">A smarter cd command. Supports all major shells.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0xPlaygrounds/rig#1735730721</id>
+    <title>https://github.com/0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig" />
+    <updated>2025-01-01T11:25:21+00:00</updated>
+    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+  </entry>
+</feed>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1738368000</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/themes#1738368000</id>
+    <title>https://github.com/doomemacs/themes</title>
+    <link href="https://github.com/doomemacs/themes" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A megapack of themes for GNU Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-compat/compat#1738368000</id>
+    <title>https://github.com/emacs-compat/compat</title>
+    <link href="https://github.com/emacs-compat/compat" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">COMPATibility Library for Emacs Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1738368000</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1738368000</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joodland/bm#1738368000</id>
+    <title>https://github.com/joodland/bm</title>
+    <link href="https://github.com/joodland/bm" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">bm.el -- Visual Bookmarks for GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mmontone/emacs-inspector#1738368000</id>
+    <title>https://github.com/mmontone/emacs-inspector</title>
+    <link href="https://github.com/mmontone/emacs-inspector" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Inspection tool for Emacs Lisp objects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/noctuid/general.el#1738368000</id>
+    <title>https://github.com/noctuid/general.el</title>
+    <link href="https://github.com/noctuid/general.el" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">More convenient key definitions in emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/org-roam/org-roam#1738368000</id>
+    <title>https://github.com/org-roam/org-roam</title>
+    <link href="https://github.com/org-roam/org-roam" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Rudimentary Roam replica with Org-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1738368000</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/s-kostyaev/ellama#1738368000</id>
+    <title>https://github.com/s-kostyaev/ellama</title>
+    <link href="https://github.com/s-kostyaev/ellama" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Ellama is a tool for interacting with large language models from Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1738368000</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

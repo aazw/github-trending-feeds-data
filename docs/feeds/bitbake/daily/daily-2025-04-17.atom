@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom</id>
+  <title>GitHub Trending - bitbake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Freescale/meta-freescale#1744848000</id>
+    <title>https://github.com/Freescale/meta-freescale</title>
+    <link href="https://github.com/Freescale/meta-freescale" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Layer containing NXP hardware support metadata</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OE4T/meta-tegra#1744848000</id>
+    <title>https://github.com/OE4T/meta-tegra</title>
+    <link href="https://github.com/OE4T/meta-tegra" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">BSP layer for NVIDIA Jetson platforms, based on L4T</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OSSystems/meta-browser#1744848000</id>
+    <title>https://github.com/OSSystems/meta-browser</title>
+    <link href="https://github.com/OSSystems/meta-browser" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Web Browsers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TimesysGit/meta-timesys#1744848000</id>
+    <title>https://github.com/TimesysGit/meta-timesys</title>
+    <link href="https://github.com/TimesysGit/meta-timesys" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Vulnerability management tool that provides Yocto SBOM generation and CVE Analysis of target images.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kraj/meta-clang#1744848000</id>
+    <title>https://github.com/kraj/meta-clang</title>
+    <link href="https://github.com/kraj/meta-clang" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linux4sam/meta-atmel#1744848000</id>
+    <title>https://github.com/linux4sam/meta-atmel</title>
+    <link href="https://github.com/linux4sam/meta-atmel" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto Project layer for for Microchip SoC (aka AT91)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-flutter/meta-flutter#1744848000</id>
+    <title>https://github.com/meta-flutter/meta-flutter</title>
+    <link href="https://github.com/meta-flutter/meta-flutter" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Google Flutter for Yocto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-qt5/meta-qt5#1744848000</id>
+    <title>https://github.com/meta-qt5/meta-qt5</title>
+    <link href="https://github.com/meta-qt5/meta-qt5" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">QT5 layer for openembedded</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-rust/meta-rust#1744848000</id>
+    <title>https://github.com/meta-rust/meta-rust</title>
+    <link href="https://github.com/meta-rust/meta-rust" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbmc/openbmc#1744848000</id>
+    <title>https://github.com/openbmc/openbmc</title>
+    <link href="https://github.com/openbmc/openbmc" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">OpenBMC Distribution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/meta-openembedded#1744848000</id>
+    <title>https://github.com/openembedded/meta-openembedded</title>
+    <link href="https://github.com/openembedded/meta-openembedded" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/openembedded-core#1744848000</id>
+    <title>https://github.com/openembedded/openembedded-core</title>
+    <link href="https://github.com/openembedded/openembedded-core" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-embedded/meta-rust-bin#1744848000</id>
+    <title>https://github.com/rust-embedded/meta-rust-bin</title>
+    <link href="https://github.com/rust-embedded/meta-rust-bin" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
+  </entry>
+</feed>

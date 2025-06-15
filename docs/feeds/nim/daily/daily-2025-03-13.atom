@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom</id>
+  <title>GitHub Trending - nim (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cheatfate/nimcrypto#1741824000</id>
+    <title>https://github.com/cheatfate/nimcrypto</title>
+    <link href="https://github.com/cheatfate/nimcrypto" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Nim cryptographic library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/Nim#1741824000</id>
+    <title>https://github.com/nim-lang/Nim</title>
+    <link href="https://github.com/nim-lang/Nim" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-stew#1741824000</id>
+    <title>https://github.com/status-im/nim-stew</title>
+    <link href="https://github.com/status-im/nim-stew" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-stint#1741824000</id>
+    <title>https://github.com/status-im/nim-stint</title>
+    <link href="https://github.com/status-im/nim-stint" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vacp2p/nim-libp2p#1741824000</id>
+    <title>https://github.com/vacp2p/nim-libp2p</title>
+    <link href="https://github.com/vacp2p/nim-libp2p" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">libp2p implementation in Nim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zedeus/nitter#1741824000</id>
+    <title>https://github.com/zedeus/nitter</title>
+    <link href="https://github.com/zedeus/nitter" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Alternative Twitter front-end</content>
+  </entry>
+</feed>

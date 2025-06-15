@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/kubectl-ai#1746489600</id>
+    <title>https://github.com/GoogleCloudPlatform/kubectl-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/kubectl-ai" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">AI powered Kubernetes Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-workflows#1746489600</id>
+    <title>https://github.com/argoproj/argo-workflows</title>
+    <link href="https://github.com/argoproj/argo-workflows" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Workflow Engine for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1746489600</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/skopeo#1746489600</id>
+    <title>https://github.com/containers/skopeo</title>
+    <link href="https://github.com/containers/skopeo" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Work with remote images registries - retrieving information, images, signing content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1746489600</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gabe565/ascii-movie#1746489600</id>
+    <title>https://github.com/gabe565/ascii-movie</title>
+    <link href="https://github.com/gabe565/ascii-movie" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Star Wars SSH + Telnet server written in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1746489600</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glanceapp/glance#1746489600</id>
+    <title>https://github.com/glanceapp/glance</title>
+    <link href="https://github.com/glanceapp/glance" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">A self-hosted dashboard that puts all your feeds in one place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1746489600</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/wire#1746489600</id>
+    <title>https://github.com/google/wire</title>
+    <link href="https://github.com/google/wire" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Compile-time Dependency Injection for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gosom/google-maps-scraper#1746489600</id>
+    <title>https://github.com/gosom/google-maps-scraper</title>
+    <link href="https://github.com/gosom/google-maps-scraper" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1746489600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-azurerm#1746489600</id>
+    <title>https://github.com/hashicorp/terraform-provider-azurerm</title>
+    <link href="https://github.com/hashicorp/terraform-provider-azurerm" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Terraform provider for Azure Resource Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1746489600</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heroiclabs/nakama#1746489600</id>
+    <title>https://github.com/heroiclabs/nakama</title>
+    <link href="https://github.com/heroiclabs/nakama" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Distributed server for social and realtime games and apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jmoiron/sqlx#1746489600</id>
+    <title>https://github.com/jmoiron/sqlx</title>
+    <link href="https://github.com/jmoiron/sqlx" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">general purpose extensions to golang's database/sql</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juanfont/headscale#1746489600</id>
+    <title>https://github.com/juanfont/headscale</title>
+    <link href="https://github.com/juanfont/headscale" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">An open source, self-hosted implementation of the Tailscale control server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/minikube#1746489600</id>
+    <title>https://github.com/kubernetes/minikube</title>
+    <link href="https://github.com/kubernetes/minikube" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Run Kubernetes locally</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oapi-codegen/oapi-codegen#1746489600</id>
+    <title>https://github.com/oapi-codegen/oapi-codegen</title>
+    <link href="https://github.com/oapi-codegen/oapi-codegen" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Generate Go client and server boilerplate from OpenAPI 3 specifications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/owncast/owncast#1746489600</id>
+    <title>https://github.com/owncast/owncast</title>
+    <link href="https://github.com/owncast/owncast" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Take control over your live stream video by running it yourself. Streaming + chat out of the box.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/naabu#1746489600</id>
+    <title>https://github.com/projectdiscovery/naabu</title>
+    <link href="https://github.com/projectdiscovery/naabu" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simulot/immich-go#1746489600</id>
+    <title>https://github.com/simulot/immich-go</title>
+    <link href="https://github.com/simulot/immich-go" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik#1746489600</id>
+    <title>https://github.com/traefik/traefik</title>
+    <link href="https://github.com/traefik/traefik" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">The Cloud Native Application Proxy</content>
+  </entry>
+</feed>

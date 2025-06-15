@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Cyan4973/xxHash#1741996800</id>
+    <title>https://github.com/Cyan4973/xxHash</title>
+    <link href="https://github.com/Cyan4973/xxHash" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Extremely fast non-cryptographic hash algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DaveGamble/cJSON#1741996800</id>
+    <title>https://github.com/DaveGamble/cJSON</title>
+    <link href="https://github.com/DaveGamble/cJSON" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Ultralightweight JSON parser in ANSI C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Klipper3d/klipper#1741996800</id>
+    <title>https://github.com/Klipper3d/klipper</title>
+    <link href="https://github.com/Klipper3d/klipper" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Klipper is a 3d-printer firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mbed-TLS/mbedtls#1741996800</id>
+    <title>https://github.com/Mbed-TLS/mbedtls</title>
+    <link href="https://github.com/Mbed-TLS/mbedtls" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/nuttx#1741996800</id>
+    <title>https://github.com/apache/nuttx</title>
+    <link href="https://github.com/apache/nuttx" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Apache NuttX is a mature, real-time embedded operating system (RTOS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arendst/Tasmota#1741996800</id>
+    <title>https://github.com/arendst/Tasmota</title>
+    <link href="https://github.com/arendst/Tasmota" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brunodev85/winlator#1741996800</id>
+    <title>https://github.com/brunodev85/winlator</title>
+    <link href="https://github.com/brunodev85/winlator" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Android application for running Windows applications with Wine and Box86/Box64</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwu/skynet#1741996800</id>
+    <title>https://github.com/cloudwu/skynet</title>
+    <link href="https://github.com/cloudwu/skynet" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A lightweight online game framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coturn/coturn#1741996800</id>
+    <title>https://github.com/coturn/coturn</title>
+    <link href="https://github.com/coturn/coturn" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">coturn TURN server project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-mosquitto/mosquitto#1741996800</id>
+    <title>https://github.com/eclipse-mosquitto/mosquitto</title>
+    <link href="https://github.com/eclipse-mosquitto/mosquitto" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Eclipse Mosquitto - An open source MQTT broker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-idf#1741996800</id>
+    <title>https://github.com/espressif/esp-idf</title>
+    <link href="https://github.com/espressif/esp-idf" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Espressif IoT Development Framework. Official development framework for Espressif SoCs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firedancer-io/firedancer#1741996800</id>
+    <title>https://github.com/firedancer-io/firedancer</title>
+    <link href="https://github.com/firedancer-io/firedancer" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Firedancer is Jump Crypto's Solana validator software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/freebsd/freebsd-src#1741996800</id>
+    <title>https://github.com/freebsd/freebsd-src</title>
+    <link href="https://github.com/freebsd/freebsd-src" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iovisor/bcc#1741996800</id>
+    <title>https://github.com/iovisor/bcc</title>
+    <link href="https://github.com/iovisor/bcc" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jqlang/jq#1741996800</id>
+    <title>https://github.com/jqlang/jq</title>
+    <link href="https://github.com/jqlang/jq" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Command-line JSON processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/littlefs-project/littlefs#1741996800</id>
+    <title>https://github.com/littlefs-project/littlefs</title>
+    <link href="https://github.com/littlefs-project/littlefs" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A little fail-safe filesystem designed for microcontrollers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwrt/openwrt#1741996800</id>
+    <title>https://github.com/openwrt/openwrt</title>
+    <link href="https://github.com/openwrt/openwrt" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/php/php-src#1741996800</id>
+    <title>https://github.com/php/php-src</title>
+    <link href="https://github.com/php/php-src" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">The PHP Interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pr3y/Bruce#1741996800</id>
+    <title>https://github.com/pr3y/Bruce</title>
+    <link href="https://github.com/pr3y/Bruce" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Predatory ESP32 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/systemd/systemd#1741996800</id>
+    <title>https://github.com/systemd/systemd</title>
+    <link href="https://github.com/systemd/systemd" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">The systemd System and Service Manager</content>
+  </entry>
+</feed>

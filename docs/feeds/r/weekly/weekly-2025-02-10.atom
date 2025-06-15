@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom</id>
+  <title>GitHub Trending - r (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Rdatatable/data.table#1739145600</id>
+    <title>https://github.com/Rdatatable/data.table</title>
+    <link href="https://github.com/Rdatatable/data.table" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">R's data.table package extends data.frame:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/benjjneb/dada2#1739145600</id>
+    <title>https://github.com/benjjneb/dada2</title>
+    <link href="https://github.com/benjjneb/dada2" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Accurate sample inference from amplicon data with single nucleotide resolution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1739145600</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joey711/phyloseq#1739145600</id>
+    <title>https://github.com/joey711/phyloseq</title>
+    <link href="https://github.com/joey711/phyloseq" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthik/wesanderson#1739145600</id>
+    <title>https://github.com/karthik/wesanderson</title>
+    <link href="https://github.com/karthik/wesanderson" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A Wes Anderson color palette for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plotly/plotly.R#1739145600</id>
+    <title>https://github.com/plotly/plotly.R</title>
+    <link href="https://github.com/plotly/plotly.R" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">An interactive graphing library for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/r-spatial/sf#1739145600</id>
+    <title>https://github.com/r-spatial/sf</title>
+    <link href="https://github.com/r-spatial/sf" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Simple Features for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rdpeng/ProgrammingAssignment2#1739145600</id>
+    <title>https://github.com/rdpeng/ProgrammingAssignment2</title>
+    <link href="https://github.com/rdpeng/ProgrammingAssignment2" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Repository for Programming Assignment 2 for R Programming on Coursera</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rmaia/pavo#1739145600</id>
+    <title>https://github.com/rmaia/pavo</title>
+    <link href="https://github.com/rmaia/pavo" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">tools for the analysis of color data in R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/shiny#1739145600</id>
+    <title>https://github.com/rstudio/shiny</title>
+    <link href="https://github.com/rstudio/shiny" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Easy interactive web applications with R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat#1739145600</id>
+    <title>https://github.com/satijalab/seurat</title>
+    <link href="https://github.com/satijalab/seurat" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">R toolkit for single cell genomics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqjin/CellChat#1739145600</id>
+    <title>https://github.com/sqjin/CellChat</title>
+    <link href="https://github.com/sqjin/CellChat" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stan-dev/rstan#1739145600</id>
+    <title>https://github.com/stan-dev/rstan</title>
+    <link href="https://github.com/stan-dev/rstan" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">RStan, the R interface to Stan</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ellmer#1739145600</id>
+    <title>https://github.com/tidyverse/ellmer</title>
+    <link href="https://github.com/tidyverse/ellmer" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Call LLM APIs from R</content>
+  </entry>
+</feed>

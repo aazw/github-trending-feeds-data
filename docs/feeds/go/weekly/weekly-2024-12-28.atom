@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-28T14:28:00+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cloudwego/hertz#1735396080</id>
+    <title>https://github.com/cloudwego/hertz</title>
+    <link href="https://github.com/cloudwego/hertz" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">Go HTTP framework with high-performance and strong-extensibility for building micro-services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ccfos/nightingale#1735396080</id>
+    <title>https://github.com/ccfos/nightingale</title>
+    <link href="https://github.com/ccfos/nightingale" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cli/cli#1735396080</id>
+    <title>https://github.com/cli/cli</title>
+    <link href="https://github.com/cli/cli" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">GitHub’s official command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1735396080</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1735396080</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moonD4rk/HackBrowserData#1735396080</id>
+    <title>https://github.com/moonD4rk/HackBrowserData</title>
+    <link href="https://github.com/moonD4rk/HackBrowserData" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgretzky/evilginx2#1735396080</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadow1ng/fscan#1735396080</id>
+    <title>https://github.com/shadow1ng/fscan</title>
+    <link href="https://github.com/shadow1ng/fscan" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">一款内网综合扫描工具，方便一键自动化、全方位漏扫扫描。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iawia002/lux#1735396080</id>
+    <title>https://github.com/iawia002/lux</title>
+    <link href="https://github.com/iawia002/lux" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">👾 Fast and simple video download library and CLI tool written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/auth#1735396080</id>
+    <title>https://github.com/supabase/auth</title>
+    <link href="https://github.com/supabase/auth" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">A JWT based API for managing users and issuing JWT tokens</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1735396080</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lionsoul2014/ip2region#1735396080</id>
+    <title>https://github.com/lionsoul2014/ip2region</title>
+    <link href="https://github.com/lionsoul2014/ip2region" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-kratos/kratos#1735396080</id>
+    <title>https://github.com/go-kratos/kratos</title>
+    <link href="https://github.com/go-kratos/kratos" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">Your ultimate Go microservices framework for the cloud-native era.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1735396080</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XIU2/CloudflareSpeedTest#1735396080</id>
+    <title>https://github.com/XIU2/CloudflareSpeedTest</title>
+    <link href="https://github.com/XIU2/CloudflareSpeedTest" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~</content>
+  </entry>
+  <entry>
+    <id>https://github.com/avelino/awesome-go#1735396080</id>
+    <title>https://github.com/avelino/awesome-go</title>
+    <link href="https://github.com/avelino/awesome-go" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">A curated list of awesome Go frameworks, libraries and software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gogs/gogs#1735396080</id>
+    <title>https://github.com/gogs/gogs</title>
+    <link href="https://github.com/gogs/gogs" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">Gogs is a painless self-hosted Git service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1735396080</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1735396080</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/navidrome/navidrome#1735396080</id>
+    <title>https://github.com/navidrome/navidrome</title>
+    <link href="https://github.com/navidrome/navidrome" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">🎧☁️ Your Personal Streaming Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IceWhaleTech/CasaOS#1735396080</id>
+    <title>https://github.com/IceWhaleTech/CasaOS</title>
+    <link href="https://github.com/IceWhaleTech/CasaOS" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/1Panel-dev/1Panel#1735396080</id>
+    <title>https://github.com/1Panel-dev/1Panel</title>
+    <link href="https://github.com/1Panel-dev/1Panel" />
+    <updated>2024-12-28T14:28:00+00:00</updated>
+    <content type="text">🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.</content>
+  </entry>
+</feed>

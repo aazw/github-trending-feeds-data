@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-db-sync#1746921600</id>
+    <title>https://github.com/IntersectMBO/cardano-db-sync</title>
+    <link href="https://github.com/IntersectMBO/cardano-db-sync" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">A component that follows the Cardano chain and stores blocks and transactions in PostgreSQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1746921600</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cardano-scaling/hydra#1746921600</id>
+    <title>https://github.com/cardano-scaling/hydra</title>
+    <link href="https://github.com/cardano-scaling/hydra" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Implementation of the Hydra Head protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/composewell/streamly#1746921600</id>
+    <title>https://github.com/composewell/streamly</title>
+    <link href="https://github.com/composewell/streamly" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">High performance, concurrent functional programming abstractions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/digitallyinduced/ihp#1746921600</id>
+    <title>https://github.com/digitallyinduced/ihp</title>
+    <link href="https://github.com/digitallyinduced/ihp" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">🔥 The fastest way to build type safe web apps. IHP is a new batteries-included web framework optimized for longterm productivity and programmer happiness</content>
+  </entry>
+  <entry>
+    <id>https://github.com/diku-dk/futhark#1746921600</id>
+    <title>https://github.com/diku-dk/futhark</title>
+    <link href="https://github.com/diku-dk/futhark" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">💥💻💥 A data-parallel functional programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1746921600</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1746921600</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1746921600</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/runtimeverification/haskell-backend#1746921600</id>
+    <title>https://github.com/runtimeverification/haskell-backend</title>
+    <link href="https://github.com/runtimeverification/haskell-backend" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">The symbolic execution engine powering the K Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidalcycles/Tidal#1746921600</id>
+    <title>https://github.com/tidalcycles/Tidal</title>
+    <link href="https://github.com/tidalcycles/Tidal" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Pattern language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucsd-progsys/liquid-fixpoint#1746921600</id>
+    <title>https://github.com/ucsd-progsys/liquid-fixpoint</title>
+    <link href="https://github.com/ucsd-progsys/liquid-fixpoint" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Horn Clause Constraint Solving for Liquid Types</content>
+  </entry>
+</feed>

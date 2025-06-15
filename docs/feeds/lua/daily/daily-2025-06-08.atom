@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1749340800</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PathOfBuildingCommunity/PathOfBuilding#1749340800</id>
+    <title>https://github.com/PathOfBuildingCommunity/PathOfBuilding</title>
+    <link href="https://github.com/PathOfBuildingCommunity/PathOfBuilding" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Offline build planner for Path of Exile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1749340800</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThePrimeagen/init.lua#1749340800</id>
+    <title>https://github.com/ThePrimeagen/init.lua</title>
+    <link href="https://github.com/ThePrimeagen/init.lua" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ThePrimeagen/vim-be-good#1749340800</id>
+    <title>https://github.com/ThePrimeagen/vim-be-good</title>
+    <link href="https://github.com/ThePrimeagen/vim-be-good" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">vim-be-good is a nvim plugin designed to make you better at Vim Movements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/beyond-all-reason/Beyond-All-Reason#1749340800</id>
+    <title>https://github.com/beyond-all-reason/Beyond-All-Reason</title>
+    <link href="https://github.com/beyond-all-reason/Beyond-All-Reason" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Main game repository for Beyond All Reason.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/nvim#1749340800</id>
+    <title>https://github.com/catppuccin/nvim</title>
+    <link href="https://github.com/catppuccin/nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🍨 Soothing pastel theme for (Neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1749340800</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greggh/claude-code.nvim#1749340800</id>
+    <title>https://github.com/greggh/claude-code.nvim</title>
+    <link href="https://github.com/greggh/claude-code.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Seamless integration between Claude Code AI assistant and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iDvel/rime-ice#1749340800</id>
+    <title>https://github.com/iDvel/rime-ice</title>
+    <link href="https://github.com/iDvel/rime-ice" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Rime 配置：雾凇拼音 | 长期维护的简体词库</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1749340800</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1749340800</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neo-tree/neo-tree.nvim#1749340800</id>
+    <title>https://github.com/nvim-neo-tree/neo-tree.nvim</title>
+    <link href="https://github.com/nvim-neo-tree/neo-tree.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Neovim plugin to manage the file system and other tree like structures.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neorg/neorg#1749340800</id>
+    <title>https://github.com/nvim-neorg/neorg</title>
+    <link href="https://github.com/nvim-neorg/neorg" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Modernity meets insane extensibility. The future of organizing your life in Neovim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/olimorris/codecompanion.nvim#1749340800</id>
+    <title>https://github.com/olimorris/codecompanion.nvim</title>
+    <link href="https://github.com/olimorris/codecompanion.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">✨ AI-powered coding, seamlessly in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentibiabr/canary#1749340800</id>
+    <title>https://github.com/opentibiabr/canary</title>
+    <link href="https://github.com/opentibiabr/canary" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Canary Server 14.x for OpenTibia community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sphamba/smear-cursor.nvim#1749340800</id>
+    <title>https://github.com/sphamba/smear-cursor.nvim</title>
+    <link href="https://github.com/sphamba/smear-cursor.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🌠 Neovim plugin to animate the cursor with a smear effect in all terminals</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typecraft-dev/dotfiles#1749340800</id>
+    <title>https://github.com/typecraft-dev/dotfiles</title>
+    <link href="https://github.com/typecraft-dev/dotfiles" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/xiaorouji/openwrt-passwall#1749340800</id>
+    <title>https://github.com/xiaorouji/openwrt-passwall</title>
+    <link href="https://github.com/xiaorouji/openwrt-passwall" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/xiaorouji/openwrt-passwall2#1749340800</id>
+    <title>https://github.com/xiaorouji/openwrt-passwall2</title>
+    <link href="https://github.com/xiaorouji/openwrt-passwall2" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1749340800</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

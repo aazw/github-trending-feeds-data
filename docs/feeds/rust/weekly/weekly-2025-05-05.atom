@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/EricLBuehler/mistral.rs#1746403200</id>
+    <title>https://github.com/EricLBuehler/mistral.rs</title>
+    <link href="https://github.com/EricLBuehler/mistral.rs" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Blazingly fast LLM inference.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LGFae/swww#1746403200</id>
+    <title>https://github.com/LGFae/swww</title>
+    <link href="https://github.com/LGFae/swww" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A Solution to your Wayland Wallpaper Woes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LGUG2Z/komorebi#1746403200</id>
+    <title>https://github.com/LGUG2Z/komorebi</title>
+    <link href="https://github.com/LGUG2Z/komorebi" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A tiling window manager for Windows 🍉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alacritty/alacritty#1746403200</id>
+    <title>https://github.com/alacritty/alacritty</title>
+    <link href="https://github.com/alacritty/alacritty" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A cross-platform, OpenGL terminal emulator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1746403200</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/iceberg-rust#1746403200</id>
+    <title>https://github.com/apache/iceberg-rust</title>
+    <link href="https://github.com/apache/iceberg-rust" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Apache Iceberg</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1746403200</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-q-developer-cli#1746403200</id>
+    <title>https://github.com/aws/amazon-q-developer-cli</title>
+    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">✨ Agentic AI experience in your terminal for building applications using natural language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1746403200</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/pingora#1746403200</id>
+    <title>https://github.com/cloudflare/pingora</title>
+    <link href="https://github.com/cloudflare/pingora" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A library for building fast, reliable and evolvable network services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1746403200</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ekzhang/bore#1746403200</id>
+    <title>https://github.com/ekzhang/bore</title>
+    <link href="https://github.com/ekzhang/bore" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">🕳 bore is a simple CLI tool for making tunnels to localhost</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elkowar/eww#1746403200</id>
+    <title>https://github.com/elkowar/eww</title>
+    <link href="https://github.com/elkowar/eww" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">ElKowars wacky widgets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdx/mise#1746403200</id>
+    <title>https://github.com/jdx/mise</title>
+    <link href="https://github.com/jdx/mise" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">dev tools, env vars, task runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1746403200</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1746403200</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lapce/lapce#1746403200</id>
+    <title>https://github.com/lapce/lapce</title>
+    <link href="https://github.com/lapce/lapce" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Lightning-fast and Powerful Code Editor written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1746403200</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust#1746403200</id>
+    <title>https://github.com/rust-lang/rust</title>
+    <link href="https://github.com/rust-lang/rust" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Empowering everyone to build reliable and efficient software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1746403200</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tracel-ai/burn#1746403200</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1746403200</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1746403200</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1746403200</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

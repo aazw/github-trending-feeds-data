@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coq/daily.atom</id>
+  <title>GitHub Trending - coq (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coq/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/formal-land/coq-of-rust#1741996800</id>
+    <title>https://github.com/formal-land/coq-of-rust</title>
+    <link href="https://github.com/formal-land/coq-of-rust" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Formal verification tool for Rust: check 100% of execution cases of your programs 🦀 to make applications with no bugs! ✈️ 🚀 ⚕️ 🏦</content>
+  </entry>
+</feed>

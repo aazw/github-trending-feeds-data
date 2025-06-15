@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1746748800</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DioxusLabs/dioxus#1746748800</id>
+    <title>https://github.com/DioxusLabs/dioxus</title>
+    <link href="https://github.com/DioxusLabs/dioxus" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Fullstack app framework for web, desktop, mobile, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/difftastic#1746748800</id>
+    <title>https://github.com/Wilfred/difftastic</title>
+    <link href="https://github.com/Wilfred/difftastic" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">a structural diff that understands syntax 🟥🟩</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1746748800</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1746748800</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1746748800</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/aws-lambda-web-adapter#1746748800</id>
+    <title>https://github.com/awslabs/aws-lambda-web-adapter</title>
+    <link href="https://github.com/awslabs/aws-lambda-web-adapter" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Run web applications on AWS Lambda</content>
+  </entry>
+  <entry>
+    <id>https://github.com/biomejs/biome#1746748800</id>
+    <title>https://github.com/biomejs/biome</title>
+    <link href="https://github.com/biomejs/biome" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/block/goose#1746748800</id>
+    <title>https://github.com/block/goose</title>
+    <link href="https://github.com/block/goose" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1746748800</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/longbridge/gpui-component#1746748800</id>
+    <title>https://github.com/longbridge/gpui-component</title>
+    <link href="https://github.com/longbridge/gpui-component" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">UI components for building fantastic desktop application by using GPUI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1746748800</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1746748800</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ratatui/ratatui#1746748800</id>
+    <title>https://github.com/ratatui/ratatui</title>
+    <link href="https://github.com/ratatui/ratatui" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tari-project/tari#1746748800</id>
+    <title>https://github.com/tari-project/tari</title>
+    <link href="https://github.com/tari-project/tari" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">The Tari protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1746748800</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1746748800</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trifectatechfoundation/sudo-rs#1746748800</id>
+    <title>https://github.com/trifectatechfoundation/sudo-rs</title>
+    <link href="https://github.com/trifectatechfoundation/sudo-rs" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A memory safe implementation of sudo and su.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/rspack#1746748800</id>
+    <title>https://github.com/web-infra-dev/rspack</title>
+    <link href="https://github.com/web-infra-dev/rspack" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">The fast Rust-based web bundler with webpack-compatible API 🦀️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1746748800</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

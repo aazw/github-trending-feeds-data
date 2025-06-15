@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/monthly.atom</id>
+  <title>GitHub Trending - go (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/abiosoft/colima#1738368000</id>
+    <title>https://github.com/abiosoft/colima</title>
+    <link href="https://github.com/abiosoft/colima" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Container runtimes on macOS (and Linux) with minimal setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/answer#1738368000</id>
+    <title>https://github.com/apache/answer</title>
+    <link href="https://github.com/apache/answer" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A Q&amp;A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1738368000</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1738368000</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/cloudnative-pg#1738368000</id>
+    <title>https://github.com/cloudnative-pg/cloudnative-pg</title>
+    <link href="https://github.com/cloudnative-pg/cloudnative-pg" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1738368000</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1738368000</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/optimism#1738368000</id>
+    <title>https://github.com/ethereum-optimism/optimism</title>
+    <link href="https://github.com/ethereum-optimism/optimism" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Optimism is Ethereum, scaled.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/external-secrets/external-secrets#1738368000</id>
+    <title>https://github.com/external-secrets/external-secrets</title>
+    <link href="https://github.com/external-secrets/external-secrets" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1738368000</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1738368000</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1738368000</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1738368000</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1738368000</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgretzky/evilginx2#1738368000</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1738368000</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/m1k1o/neko#1738368000</id>
+    <title>https://github.com/m1k1o/neko</title>
+    <link href="https://github.com/m1k1o/neko" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A self hosted virtual browser that runs in docker and uses WebRTC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1738368000</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738368000</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-go#1738368000</id>
+    <title>https://github.com/openai/openai-go</title>
+    <link href="https://github.com/openai/openai-go" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The official Go library for the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1738368000</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sundowndev/phoneinfoga#1738368000</id>
+    <title>https://github.com/sundowndev/phoneinfoga</title>
+    <link href="https://github.com/sundowndev/phoneinfoga" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Information gathering framework for phone numbers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik#1738368000</id>
+    <title>https://github.com/traefik/traefik</title>
+    <link href="https://github.com/traefik/traefik" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The Cloud Native Application Proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yorukot/superfile#1738368000</id>
+    <title>https://github.com/yorukot/superfile</title>
+    <link href="https://github.com/yorukot/superfile" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Pretty fancy and modern terminal file manager</content>
+  </entry>
+</feed>

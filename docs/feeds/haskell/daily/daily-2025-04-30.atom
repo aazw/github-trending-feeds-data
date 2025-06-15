@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IntersectMBO/ouroboros-network#1745971200</id>
+    <title>https://github.com/IntersectMBO/ouroboros-network</title>
+    <link href="https://github.com/IntersectMBO/ouroboros-network" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1745971200</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/juvix#1745971200</id>
+    <title>https://github.com/anoma/juvix</title>
+    <link href="https://github.com/anoma/juvix" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">A language for intent-centric and declarative decentralised applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cardano-scaling/hydra#1745971200</id>
+    <title>https://github.com/cardano-scaling/hydra</title>
+    <link href="https://github.com/cardano-scaling/hydra" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Implementation of the Hydra Head protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clash-lang/clash-compiler#1745971200</id>
+    <title>https://github.com/clash-lang/clash-compiler</title>
+    <link href="https://github.com/clash-lang/clash-compiler" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Haskell to VHDL/Verilog/SystemVerilog compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghc/ghc#1745971200</id>
+    <title>https://github.com/ghc/ghc</title>
+    <link href="https://github.com/ghc/ghc" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1745971200</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell-suite/haskell-src-exts#1745971200</id>
+    <title>https://github.com/haskell-suite/haskell-src-exts</title>
+    <link href="https://github.com/haskell-suite/haskell-src-exts" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1745971200</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1745971200</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maralorn/nix-output-monitor#1745971200</id>
+    <title>https://github.com/maralorn/nix-output-monitor</title>
+    <link href="https://github.com/maralorn/nix-output-monitor" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidalcycles/Tidal#1745971200</id>
+    <title>https://github.com/tidalcycles/Tidal</title>
+    <link href="https://github.com/tidalcycles/Tidal" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Pattern language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmonad/X11#1745971200</id>
+    <title>https://github.com/xmonad/X11</title>
+    <link href="https://github.com/xmonad/X11" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">A Haskell binding to the X11 graphics library.</content>
+  </entry>
+</feed>

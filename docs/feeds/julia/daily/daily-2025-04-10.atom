@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CliMA/Oceananigans.jl#1744243200</id>
+    <title>https://github.com/CliMA/Oceananigans.jl</title>
+    <link href="https://github.com/CliMA/Oceananigans.jl" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1744243200</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1744243200</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/Catalyst.jl#1744243200</id>
+    <title>https://github.com/SciML/Catalyst.jl</title>
+    <link href="https://github.com/SciML/Catalyst.jl" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Chemical reaction network and systems biology interface for scientific machine learning (SciML). High performance, GPU-parallelized, and O(1) solvers in open source software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/DataInterpolations.jl#1744243200</id>
+    <title>https://github.com/SciML/DataInterpolations.jl</title>
+    <link href="https://github.com/SciML/DataInterpolations.jl" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A library of data interpolation and smoothing functions</content>
+  </entry>
+</feed>

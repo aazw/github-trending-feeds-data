@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:14:09+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/jpillora/chisel#1735816449</id>
+    <title>https://github.com/jpillora/chisel</title>
+    <link href="https://github.com/jpillora/chisel" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">A fast TCP/UDP tunnel over HTTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencontainers/runc#1735816449</id>
+    <title>https://github.com/opencontainers/runc</title>
+    <link href="https://github.com/opencontainers/runc" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">CLI tool for spawning and running containers according to the OCI specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StackExchange/dnscontrol#1735816449</id>
+    <title>https://github.com/StackExchange/dnscontrol</title>
+    <link href="https://github.com/StackExchange/dnscontrol" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Infrastructure as code for DNS!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erigontech/erigon#1735816449</id>
+    <title>https://github.com/erigontech/erigon</title>
+    <link href="https://github.com/erigontech/erigon" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Ethereum implementation on the efficiency frontier https://docs.erigon.tech</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OJ/gobuster#1735816449</id>
+    <title>https://github.com/OJ/gobuster</title>
+    <link href="https://github.com/OJ/gobuster" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Directory/File, DNS and VHost busting tool written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/httpx#1735816449</id>
+    <title>https://github.com/projectdiscovery/httpx</title>
+    <link href="https://github.com/projectdiscovery/httpx" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1735816449</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sysadminsmedia/homebox#1735816449</id>
+    <title>https://github.com/sysadminsmedia/homebox</title>
+    <link href="https://github.com/sysadminsmedia/homebox" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">A continuation of HomeBox the inventory and organization system built for the Home User</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitfield/script#1735816449</id>
+    <title>https://github.com/bitfield/script</title>
+    <link href="https://github.com/bitfield/script" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Making it easy to write shell-like scripts in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/m1k1o/neko#1735816449</id>
+    <title>https://github.com/m1k1o/neko</title>
+    <link href="https://github.com/m1k1o/neko" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">A self hosted virtual browser that runs in docker and uses WebRTC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubevirt/kubevirt#1735816449</id>
+    <title>https://github.com/kubevirt/kubevirt</title>
+    <link href="https://github.com/kubevirt/kubevirt" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Kubernetes Virtualization API and runtime in order to define and manage virtual machines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apernet/hysteria#1735816449</id>
+    <title>https://github.com/apernet/hysteria</title>
+    <link href="https://github.com/apernet/hysteria" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Hysteria is a powerful, lightning fast and censorship resistant proxy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorilla/mux#1735816449</id>
+    <title>https://github.com/gorilla/mux</title>
+    <link href="https://github.com/gorilla/mux" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍</content>
+  </entry>
+  <entry>
+    <id>https://github.com/onsi/ginkgo#1735816449</id>
+    <title>https://github.com/onsi/ginkgo</title>
+    <link href="https://github.com/onsi/ginkgo" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">A Modern Testing Framework for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/subfinder#1735816449</id>
+    <title>https://github.com/projectdiscovery/subfinder</title>
+    <link href="https://github.com/projectdiscovery/subfinder" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Fast passive subdomain enumeration tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YouROK/TorrServer#1735816449</id>
+    <title>https://github.com/YouROK/TorrServer</title>
+    <link href="https://github.com/YouROK/TorrServer" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Torrent stream server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Melkeydev/go-blueprint#1735816449</id>
+    <title>https://github.com/Melkeydev/go-blueprint</title>
+    <link href="https://github.com/Melkeydev/go-blueprint" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Go-blueprint allows users to spin up a quick Go project using a popular framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/1Panel-dev/1Panel#1735816449</id>
+    <title>https://github.com/1Panel-dev/1Panel</title>
+    <link href="https://github.com/1Panel-dev/1Panel" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">🔥 Top-Rated Web-Based Linux Server Management Tool. 1Panel features an intuitive web interface that seamlessly integrates server management and monitoring, container management, database administration, website management, system backup and restoration, and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1735816449</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evcc-io/evcc#1735816449</id>
+    <title>https://github.com/evcc-io/evcc</title>
+    <link href="https://github.com/evcc-io/evcc" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Solar Charging ☀️🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1735816449</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-01-02T11:14:09+00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+</feed>

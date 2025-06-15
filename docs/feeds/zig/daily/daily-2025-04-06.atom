@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom</id>
+  <title>GitHub Trending - zig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Dr-Nekoma/lyceum#1743897600</id>
+    <title>https://github.com/Dr-Nekoma/lyceum</title>
+    <link href="https://github.com/Dr-Nekoma/lyceum" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">An MMO game written in Erlang (+ PostgreSQL) + Zig (+ Raylib)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/capy-ui/capy#1743897600</id>
+    <title>https://github.com/capy-ui/capy</title>
+    <link href="https://github.com/capy-ui/capy" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">💻Build one codebase and get native UI on Windows, Linux and Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fairyglade/ly#1743897600</id>
+    <title>https://github.com/fairyglade/ly</title>
+    <link href="https://github.com/fairyglade/ly" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">display manager with console UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexops/mach#1743897600</id>
+    <title>https://github.com/hexops/mach</title>
+    <link href="https://github.com/hexops/mach" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">zig game engine &amp; graphics toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristoff-it/superhtml#1743897600</id>
+    <title>https://github.com/kristoff-it/superhtml</title>
+    <link href="https://github.com/kristoff-it/superhtml" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">HTML Language Server &amp; Templating Language Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lightpanda-io/browser#1743897600</id>
+    <title>https://github.com/lightpanda-io/browser</title>
+    <link href="https://github.com/lightpanda-io/browser" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Lightpanda: the headless browser designed for AI and automation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1743897600</id>
+    <title>https://github.com/oven-sh/bun</title>
+    <link href="https://github.com/oven-sh/bun" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pedropark99/zig-book#1743897600</id>
+    <title>https://github.com/pedropark99/zig-book</title>
+    <link href="https://github.com/pedropark99/zig-book" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">An open, technical and introductory book for the Zig programming language 📚📖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tigerbeetle/tigerbeetle#1743897600</id>
+    <title>https://github.com/tigerbeetle/tigerbeetle</title>
+    <link href="https://github.com/tigerbeetle/tigerbeetle" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">The financial transactions database designed for mission critical safety and performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zig-gamedev/zmath#1743897600</id>
+    <title>https://github.com/zig-gamedev/zmath</title>
+    <link href="https://github.com/zig-gamedev/zmath" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">SIMD math library for Zig game developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zigimg/zigimg#1743897600</id>
+    <title>https://github.com/zigimg/zigimg</title>
+    <link href="https://github.com/zigimg/zigimg" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">Zig library for reading and writing different image formats</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig#1743897600</id>
+    <title>https://github.com/ziglang/zig</title>
+    <link href="https://github.com/ziglang/zig" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zigtools/zls#1743897600</id>
+    <title>https://github.com/zigtools/zls</title>
+    <link href="https://github.com/zigtools/zls" />
+    <updated>2025-04-06T00:00:00</updated>
+    <content type="text">A Zig language server supporting Zig developers with features like autocomplete and goto definition</content>
+  </entry>
+</feed>

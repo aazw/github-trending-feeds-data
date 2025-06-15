@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bikeshed/weekly.atom</id>
+  <title>GitHub Trending - bikeshed (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bikeshed/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/WICG/attribution-reporting-api#1741564800</id>
+    <title>https://github.com/WICG/attribution-reporting-api</title>
+    <link href="https://github.com/WICG/attribution-reporting-api" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Attribution Reporting API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WICG/first-party-sets#1741564800</id>
+    <title>https://github.com/WICG/first-party-sets</title>
+    <link href="https://github.com/WICG/first-party-sets" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/WICG/turtledove#1741564800</id>
+    <title>https://github.com/WICG/turtledove</title>
+    <link href="https://github.com/WICG/turtledove" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">TURTLEDOVE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gpuweb/gpuweb#1741564800</id>
+    <title>https://github.com/gpuweb/gpuweb</title>
+    <link href="https://github.com/gpuweb/gpuweb" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Where the GPU for the Web work happens!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/w3c/webappsec-permissions-policy#1741564800</id>
+    <title>https://github.com/w3c/webappsec-permissions-policy</title>
+    <link href="https://github.com/w3c/webappsec-permissions-policy" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A mechanism to selectively enable and disable browser features and APIs</content>
+  </entry>
+</feed>

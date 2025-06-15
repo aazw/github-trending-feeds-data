@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom</id>
+  <title>GitHub Trending - zig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NilsIrl/dockerc#1748822400</id>
+    <title>https://github.com/NilsIrl/dockerc</title>
+    <link href="https://github.com/NilsIrl/dockerc" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">container image to single executable compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/capy-ui/capy#1748822400</id>
+    <title>https://github.com/capy-ui/capy</title>
+    <link href="https://github.com/capy-ui/capy" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">💻Build one codebase and get native UI on Windows, Linux and Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghostty-org/ghostty#1748822400</id>
+    <title>https://github.com/ghostty-org/ghostty</title>
+    <link href="https://github.com/ghostty-org/ghostty" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexops/mach#1748822400</id>
+    <title>https://github.com/hexops/mach</title>
+    <link href="https://github.com/hexops/mach" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">zig game engine &amp; graphics toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mitchellh/libxev#1748822400</id>
+    <title>https://github.com/mitchellh/libxev</title>
+    <link href="https://github.com/mitchellh/libxev" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm + WASI. Available as both a Zig and C API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neurocyte/flow#1748822400</id>
+    <title>https://github.com/neurocyte/flow</title>
+    <link href="https://github.com/neurocyte/flow" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Flow Control: a programmer's text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1748822400</id>
+    <title>https://github.com/oven-sh/bun</title>
+    <link href="https://github.com/oven-sh/bun" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pedropark99/zig-book#1748822400</id>
+    <title>https://github.com/pedropark99/zig-book</title>
+    <link href="https://github.com/pedropark99/zig-book" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">An open, technical and introductory book for the Zig programming language 📚📖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riverwm/river#1748822400</id>
+    <title>https://github.com/riverwm/river</title>
+    <link href="https://github.com/riverwm/river" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">[mirror] A dynamic tiling Wayland compositor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tigerbeetle/tigerbeetle#1748822400</id>
+    <title>https://github.com/tigerbeetle/tigerbeetle</title>
+    <link href="https://github.com/tigerbeetle/tigerbeetle" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">The financial transactions database designed for mission critical safety and performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig#1748822400</id>
+    <title>https://github.com/ziglang/zig</title>
+    <link href="https://github.com/ziglang/zig" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zigtools/zls#1748822400</id>
+    <title>https://github.com/zigtools/zls</title>
+    <link href="https://github.com/zigtools/zls" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">A Zig language server supporting Zig developers with features like autocomplete and goto definition</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zml/zml#1748822400</id>
+    <title>https://github.com/zml/zml</title>
+    <link href="https://github.com/zml/zml" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</content>
+  </entry>
+</feed>

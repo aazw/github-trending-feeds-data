@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/terraform#1737936000</id>
+    <title>https://github.com/Azure/terraform</title>
+    <link href="https://github.com/Azure/terraform" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Source code for the Azure Marketplace Terraform development VM package.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine#1737936000</id>
+    <title>https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine</title>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform AVM module for virtual machines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudfront-cdn#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudfront-cdn</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-cdn" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform Module that implements a CloudFront Distribution (CDN) for a custom origin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform module to easily provision CloudFront CDN backed by an S3 origin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform module for creating alarms for tracking important changes and occurrences from cloudtrail.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ec2-autoscale-group#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-ec2-autoscale-group</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-autoscale-group" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform module to provision Auto Scaling Group and Launch Template on AWS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-alb-service-task" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform module which implements an ECS service which exposes a web service via ALB.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-efs#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-redis#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-redis</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-redis" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform module to provision an ElastiCache Redis Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticsearch#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticsearch</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticsearch" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform module to provision an Elasticsearch cluster with built-in integrations with Kibana and Logstash.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform module to provision AWS MSK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ses#1737936000</id>
+    <title>https://github.com/cloudposse/terraform-aws-ses</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ses" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Terraform module to provision Simple Email Service on AWS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/h3mmy/bloopySphere#1737936000</id>
+    <title>https://github.com/h3mmy/bloopySphere</title>
+    <link href="https://github.com/h3mmy/bloopySphere" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">My home cluster.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-aws-consul#1737936000</id>
+    <title>https://github.com/hashicorp/terraform-aws-consul</title>
+    <link href="https://github.com/hashicorp/terraform-aws-consul" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A Terraform Module for how to run Consul on AWS using Terraform and Packer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-vpn#1737936000</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-vpn</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-vpn" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Sets up a Cloud VPN gateway</content>
+  </entry>
+</feed>

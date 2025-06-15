@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/alibaba/higress#1746835200</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-workflows#1746835200</id>
+    <title>https://github.com/argoproj/argo-workflows</title>
+    <link href="https://github.com/argoproj/argo-workflows" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Workflow Engine for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1746835200</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crowdsecurity/crowdsec#1746835200</id>
+    <title>https://github.com/crowdsecurity/crowdsec</title>
+    <link href="https://github.com/crowdsecurity/crowdsec" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/compose#1746835200</id>
+    <title>https://github.com/docker/compose</title>
+    <link href="https://github.com/docker/compose" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Define and run multi-container applications with Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ehang-io/nps#1746835200</id>
+    <title>https://github.com/ehang-io/nps</title>
+    <link href="https://github.com/ehang-io/nps" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flipped-aurora/gin-vue-admin#1746835200</id>
+    <title>https://github.com/flipped-aurora/gin-vue-admin</title>
+    <link href="https://github.com/flipped-aurora/gin-vue-admin" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorilla/websocket#1746835200</id>
+    <title>https://github.com/gorilla/websocket</title>
+    <link href="https://github.com/gorilla/websocket" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1746835200</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k6#1746835200</id>
+    <title>https://github.com/grafana/k6</title>
+    <link href="https://github.com/grafana/k6" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">A modern load testing tool, using Go and JavaScript - https://k6.io</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1746835200</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1746835200</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k8sgpt-ai/k8sgpt#1746835200</id>
+    <title>https://github.com/k8sgpt-ai/k8sgpt</title>
+    <link href="https://github.com/k8sgpt-ai/k8sgpt" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Giving Kubernetes Superpowers to everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/gateway-api#1746835200</id>
+    <title>https://github.com/kubernetes-sigs/gateway-api</title>
+    <link href="https://github.com/kubernetes-sigs/gateway-api" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/autoscaler#1746835200</id>
+    <title>https://github.com/kubernetes/autoscaler</title>
+    <link href="https://github.com/kubernetes/autoscaler" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Autoscaling components for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubesphere/kubesphere#1746835200</id>
+    <title>https://github.com/kubesphere/kubesphere</title>
+    <link href="https://github.com/kubesphere/kubesphere" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minio/minio#1746835200</id>
+    <title>https://github.com/minio/minio</title>
+    <link href="https://github.com/minio/minio" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go-contrib#1746835200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go-contrib" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Collection of extensions for OpenTelemetry-Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/tidb#1746835200</id>
+    <title>https://github.com/pingcap/tidb</title>
+    <link href="https://github.com/pingcap/tidb" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">TiDB - the open-source, cloud-native, distributed SQL database designed for modern applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rs/zerolog#1746835200</id>
+    <title>https://github.com/rs/zerolog</title>
+    <link href="https://github.com/rs/zerolog" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Zero Allocation JSON Logger</content>
+  </entry>
+</feed>

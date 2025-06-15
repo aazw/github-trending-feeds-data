@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/" rel="alternate" />
+  <updated>2024-12-26T11:09:41+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/minecraft-linux/mcpelauncher-manifest#1735211381</id>
+    <title>https://github.com/minecraft-linux/mcpelauncher-manifest</title>
+    <link href="https://github.com/minecraft-linux/mcpelauncher-manifest" />
+    <updated>2024-12-26T11:09:41+00:00</updated>
+    <content type="text">The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libbpf/libbpf-bootstrap#1735211381</id>
+    <title>https://github.com/libbpf/libbpf-bootstrap</title>
+    <link href="https://github.com/libbpf/libbpf-bootstrap" />
+    <updated>2024-12-26T11:09:41+00:00</updated>
+    <content type="text">Scaffolding for BPF application development with libbpf and BPF CO-RE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1735211381</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2024-12-26T11:09:41+00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1735211381</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2024-12-26T11:09:41+00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+</feed>

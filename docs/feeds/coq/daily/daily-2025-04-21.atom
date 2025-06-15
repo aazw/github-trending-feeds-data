@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coq/daily.atom</id>
+  <title>GitHub Trending - coq (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coq/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/impermeable/coq-waterproof#1745193600</id>
+    <title>https://github.com/impermeable/coq-waterproof</title>
+    <link href="https://github.com/impermeable/coq-waterproof" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The Waterproof plugin for the Coq proof assistant allows you to write Coq proofs in a style that resembles handwritten mathematical proofs, designed to help university students with learning how to prove mathematical statements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mit-plv/coqutil#1745193600</id>
+    <title>https://github.com/mit-plv/coqutil</title>
+    <link href="https://github.com/mit-plv/coqutil" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Coq library for tactics, basic definitions, sets, maps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tchajed/coq-record-update#1745193600</id>
+    <title>https://github.com/tchajed/coq-record-update</title>
+    <link href="https://github.com/tchajed/coq-record-update" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Library to create Coq record update functions</content>
+  </entry>
+</feed>

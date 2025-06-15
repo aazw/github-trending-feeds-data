@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Trending - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndrewRadev/splitjoin.vim#1740960000</id>
+    <title>https://github.com/AndrewRadev/splitjoin.vim</title>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Switch between single-line and multiline forms of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1740960000</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chrisbra/csv.vim#1740960000</id>
+    <title>https://github.com/chrisbra/csv.vim</title>
+    <link href="https://github.com/chrisbra/csv.vim" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A Filetype plugin for csv files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1740960000</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jacoborus/tender.vim#1740960000</id>
+    <title>https://github.com/jacoborus/tender.vim</title>
+    <link href="https://github.com/jacoborus/tender.vim" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A 24bit colorscheme for Vim, Airline and Lightline</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joshdick/onedark.vim#1740960000</id>
+    <title>https://github.com/joshdick/onedark.vim</title>
+    <link href="https://github.com/joshdick/onedark.vim" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1740960000</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1740960000</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1740960000</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1740960000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1740960000</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1740960000</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-markdown#1740960000</id>
+    <title>https://github.com/tpope/vim-markdown</title>
+    <link href="https://github.com/tpope/vim-markdown" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Vim Markdown runtime files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rails#1740960000</id>
+    <title>https://github.com/tpope/vim-rails</title>
+    <link href="https://github.com/tpope/vim-rails" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">rails.vim: Ruby on Rails power tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1740960000</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

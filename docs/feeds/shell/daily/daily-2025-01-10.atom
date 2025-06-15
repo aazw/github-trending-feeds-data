@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-10T11:29:07+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ublue-os/bazzite#1736508547</id>
+    <title>https://github.com/ublue-os/bazzite</title>
+    <link href="https://github.com/ublue-os/bazzite" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">Bazzite is a cloud native image built upon Fedora Atomic Desktops that brings the best of Linux gaming to all of your devices - including your favorite handheld.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/amazon-eks-ami#1736508547</id>
+    <title>https://github.com/awslabs/amazon-eks-ami</title>
+    <link href="https://github.com/awslabs/amazon-eks-ami" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">Packer configuration for building a custom EKS AMI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haugene/docker-transmission-openvpn#1736508547</id>
+    <title>https://github.com/haugene/docker-transmission-openvpn</title>
+    <link href="https://github.com/haugene/docker-transmission-openvpn" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pyenv/pyenv-virtualenv#1736508547</id>
+    <title>https://github.com/pyenv/pyenv-virtualenv</title>
+    <link href="https://github.com/pyenv/pyenv-virtualenv" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">a pyenv plugin to manage virtualenv (a.k.a. python-virtualenv)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prasanthrangan/hyprdots#1736508547</id>
+    <title>https://github.com/prasanthrangan/hyprdots</title>
+    <link href="https://github.com/prasanthrangan/hyprdots" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">// Aesthetic, dynamic and minimal dots for Arch hyprland</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xubiaolin/docker-zerotier-planet#1736508547</id>
+    <title>https://github.com/xubiaolin/docker-zerotier-planet</title>
+    <link href="https://github.com/xubiaolin/docker-zerotier-planet" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">一分钟私有部署zerotier-planet服务</content>
+  </entry>
+  <entry>
+    <id>https://github.com/orbstack/orbstack#1736508547</id>
+    <title>https://github.com/orbstack/orbstack</title>
+    <link href="https://github.com/orbstack/orbstack" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">Fast, light, simple Docker containers &amp; Linux machines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/ROCm#1736508547</id>
+    <title>https://github.com/ROCm/ROCm</title>
+    <link href="https://github.com/ROCm/ROCm" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">AMD ROCm™ Software - GitHub Home</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1736508547</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/docker-selenium#1736508547</id>
+    <title>https://github.com/SeleniumHQ/docker-selenium</title>
+    <link href="https://github.com/SeleniumHQ/docker-selenium" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Docker, making it easier to perform browser automation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1736508547</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Security-Onion-Solutions/securityonion#1736508547</id>
+    <title>https://github.com/Security-Onion-Solutions/securityonion</title>
+    <link href="https://github.com/Security-Onion-Solutions/securityonion" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moovweb/gvm#1736508547</id>
+    <title>https://github.com/moovweb/gvm</title>
+    <link href="https://github.com/moovweb/gvm" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">Go Version Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1736508547</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/inkonchain/node#1736508547</id>
+    <title>https://github.com/inkonchain/node</title>
+    <link href="https://github.com/inkonchain/node" />
+    <updated>2025-01-10T11:29:07+00:00</updated>
+    <content type="text">How to run an Ink Node</content>
+  </entry>
+</feed>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/HKUDS/LightRAG#1744243200</id>
+    <title>https://github.com/HKUDS/LightRAG</title>
+    <link href="https://github.com/HKUDS/LightRAG" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">"LightRAG: Simple and Fast Retrieval-Augmented Generation"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/cuda-python#1744243200</id>
+    <title>https://github.com/NVIDIA/cuda-python</title>
+    <link href="https://github.com/NVIDIA/cuda-python" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">CUDA Python: Performance meets Productivity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/THUDM/CogVideo#1744243200</id>
+    <title>https://github.com/THUDM/CogVideo</title>
+    <link href="https://github.com/THUDM/CogVideo" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">text and image to video generation: CogVideoX (2024) and CogVideo (ICLR 2023)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crewAIInc/crewAI#1744243200</id>
+    <title>https://github.com/crewAIInc/crewAI</title>
+    <link href="https://github.com/crewAIInc/crewAI" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instructlab/instructlab#1744243200</id>
+    <title>https://github.com/instructlab/instructlab</title>
+    <link href="https://github.com/instructlab/instructlab" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">InstructLab Core package. Use this to chat with a model and execute the InstructLab workflow to train a model using custom taxonomy data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/markitdown#1744243200</id>
+    <title>https://github.com/microsoft/markitdown</title>
+    <link href="https://github.com/microsoft/markitdown" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Python tool for converting files and office documents to Markdown.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelscope/DiffSynth-Studio#1744243200</id>
+    <title>https://github.com/modelscope/DiffSynth-Studio</title>
+    <link href="https://github.com/modelscope/DiffSynth-Studio" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Enjoy the magic of Diffusion models!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelscope/FunASR#1744243200</id>
+    <title>https://github.com/modelscope/FunASR</title>
+    <link href="https://github.com/modelscope/FunASR" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A Fundamental End-to-End Speech Recognition Toolkit and Open Source SOTA Pretrained Models, Supporting Speech Recognition, Voice Activity Detection, Text Post-processing etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/whisper#1744243200</id>
+    <title>https://github.com/openai/whisper</title>
+    <link href="https://github.com/openai/whisper" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Robust Speech Recognition via Large-Scale Weak Supervision</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openedx/edx-platform#1744243200</id>
+    <title>https://github.com/openedx/edx-platform</title>
+    <link href="https://github.com/openedx/edx-platform" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">The Open edX LMS &amp; Studio, powering education sites around the world!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volcengine/verl#1744243200</id>
+    <title>https://github.com/volcengine/verl</title>
+    <link href="https://github.com/volcengine/verl" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">verl: Volcano Engine Reinforcement Learning for LLMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zhayujie/chatgpt-on-wechat#1744243200</id>
+    <title>https://github.com/zhayujie/chatgpt-on-wechat</title>
+    <link href="https://github.com/zhayujie/chatgpt-on-wechat" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">基于大模型搭建的聊天机器人，同时支持 微信公众号、企业微信应用、飞书、钉钉 等接入，可选择GPT3.5/GPT-4o/GPT-o1/ DeepSeek/Claude/文心一言/讯飞星火/通义千问/ Gemini/GLM-4/Claude/Kimi/LinkAI，能处理文本、语音和图片，访问操作系统和互联网，支持基于自有知识库进行定制企业智能客服。</content>
+  </entry>
+</feed>

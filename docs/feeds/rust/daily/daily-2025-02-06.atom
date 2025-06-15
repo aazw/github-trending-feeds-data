@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/PyO3/maturin#1738800000</id>
+    <title>https://github.com/PyO3/maturin</title>
+    <link href="https://github.com/PyO3/maturin" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PyO3/pyo3#1738800000</id>
+    <title>https://github.com/PyO3/pyo3</title>
+    <link href="https://github.com/PyO3/pyo3" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Rust bindings for the Python interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XAMPPRocky/tokei#1738800000</id>
+    <title>https://github.com/XAMPPRocky/tokei</title>
+    <link href="https://github.com/XAMPPRocky/tokei" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Count your code, quickly.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1738800000</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1738800000</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greenbone/openvas-scanner#1738800000</id>
+    <title>https://github.com/greenbone/openvas-scanner</title>
+    <link href="https://github.com/greenbone/openvas-scanner" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">This repository contains the scanner component for Greenbone Community Edition.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1738800000</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mufeedvh/code2prompt#1738800000</id>
+    <title>https://github.com/mufeedvh/code2prompt</title>
+    <link href="https://github.com/mufeedvh/code2prompt" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1738800000</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/roc-lang/roc#1738800000</id>
+    <title>https://github.com/roc-lang/roc</title>
+    <link href="https://github.com/roc-lang/roc" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">A fast, friendly, functional language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rpcpool/yellowstone-grpc#1738800000</id>
+    <title>https://github.com/rpcpool/yellowstone-grpc</title>
+    <link href="https://github.com/rpcpool/yellowstone-grpc" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">solana geyser grpc service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/miri#1738800000</id>
+    <title>https://github.com/rust-lang/miri</title>
+    <link href="https://github.com/rust-lang/miri" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">An interpreter for Rust's mid-level intermediate representation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1738800000</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk-server#1738800000</id>
+    <title>https://github.com/rustdesk/rustdesk-server</title>
+    <link href="https://github.com/rustdesk/rustdesk-server" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">RustDesk Server Program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/servo/servo#1738800000</id>
+    <title>https://github.com/servo/servo</title>
+    <link href="https://github.com/servo/servo" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slint-ui/slint#1738800000</id>
+    <title>https://github.com/slint-ui/slint</title>
+    <link href="https://github.com/slint-ui/slint" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana-program-library#1738800000</id>
+    <title>https://github.com/solana-labs/solana-program-library</title>
+    <link href="https://github.com/solana-labs/solana-program-library" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">A collection of Solana programs maintained by Solana Labs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tikv/tikv#1738800000</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tracing#1738800000</id>
+    <title>https://github.com/tokio-rs/tracing</title>
+    <link href="https://github.com/tokio-rs/tracing" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Application level tracing for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1738800000</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1738800000</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1738800000</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-02-06T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

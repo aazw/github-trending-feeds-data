@@ -1,0 +1,172 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T11:15:18+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1735298118</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1735298118</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1735298118</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gogs/gogs#1735298118</id>
+    <title>https://github.com/gogs/gogs</title>
+    <link href="https://github.com/gogs/gogs" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">Gogs is a painless self-hosted Git service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1735298118</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1735298118</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1735298118</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cashapp/cloner#1735298118</id>
+    <title>https://github.com/cashapp/cloner</title>
+    <link href="https://github.com/cashapp/cloner" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/getkin/kin-openapi#1735298118</id>
+    <title>https://github.com/getkin/kin-openapi</title>
+    <link href="https://github.com/getkin/kin-openapi" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hibiken/asynq#1735298118</id>
+    <title>https://github.com/hibiken/asynq</title>
+    <link href="https://github.com/hibiken/asynq" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">Simple, reliable, and efficient distributed task queue in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/go-redis#1735298118</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">Redis Go client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ccfos/nightingale#1735298118</id>
+    <title>https://github.com/ccfos/nightingale</title>
+    <link href="https://github.com/ccfos/nightingale" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">An all-in-one observability solution which aims to combine the advantages of Prometheus and Grafana. It manages alert rules and visualizes metrics, logs, traces in a beautiful web UI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-answer#1735298118</id>
+    <title>https://github.com/apache/incubator-answer</title>
+    <link href="https://github.com/apache/incubator-answer" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">A Q&amp;A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juanfont/headscale#1735298118</id>
+    <title>https://github.com/juanfont/headscale</title>
+    <link href="https://github.com/juanfont/headscale" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">An open source, self-hosted implementation of the Tailscale control server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shopspring/decimal#1735298118</id>
+    <title>https://github.com/shopspring/decimal</title>
+    <link href="https://github.com/shopspring/decimal" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">Arbitrary-precision fixed-point decimal numbers in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbletea#1735298118</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">A powerful little TUI framework 🏗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1735298118</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database designed to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1735298118</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaegertracing/jaeger#1735298118</id>
+    <title>https://github.com/jaegertracing/jaeger</title>
+    <link href="https://github.com/jaegertracing/jaeger" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">CNCF Jaeger, a Distributed Tracing Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flipped-aurora/gin-vue-admin#1735298118</id>
+    <title>https://github.com/flipped-aurora/gin-vue-admin</title>
+    <link href="https://github.com/flipped-aurora/gin-vue-admin" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AlexxIT/go2rtc#1735298118</id>
+    <title>https://github.com/AlexxIT/go2rtc</title>
+    <link href="https://github.com/AlexxIT/go2rtc" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1735298118</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IceWhaleTech/CasaOS#1735298118</id>
+    <title>https://github.com/IceWhaleTech/CasaOS</title>
+    <link href="https://github.com/IceWhaleTech/CasaOS" />
+    <updated>2024-12-27T11:15:18+00:00</updated>
+    <content type="text">CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.</content>
+  </entry>
+</feed>

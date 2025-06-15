@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pug/weekly.atom</id>
+  <title>GitHub Trending - pug (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pug/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/actions-workflow-samples#1739145600</id>
+    <title>https://github.com/Azure/actions-workflow-samples</title>
+    <link href="https://github.com/Azure/actions-workflow-samples" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Help developers to easily get started with GitHub Action workflows to deploy to Azure</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-resume#1739145600</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-resume</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-resume" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A Bootstrap 4 resume/CV theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/StartBootstrap/startbootstrap-sb-admin#1739145600</id>
+    <title>https://github.com/StartBootstrap/startbootstrap-sb-admin</title>
+    <link href="https://github.com/StartBootstrap/startbootstrap-sb-admin" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A free, open source, Bootstrap admin theme created by Start Bootstrap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anders94/blockchain-demo#1739145600</id>
+    <title>https://github.com/anders94/blockchain-demo</title>
+    <link href="https://github.com/anders94/blockchain-demo" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A web-based demonstration of blockchain concepts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nigelpoulton/TheK8sBook#1739145600</id>
+    <title>https://github.com/nigelpoulton/TheK8sBook</title>
+    <link href="https://github.com/nigelpoulton/TheK8sBook" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">YAML files for use with The Kubernetes Book</content>
+  </entry>
+</feed>

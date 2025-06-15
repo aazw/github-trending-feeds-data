@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-16T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/prometheus/alertmanager#1736985600</id>
+    <title>https://github.com/prometheus/alertmanager</title>
+    <link href="https://github.com/prometheus/alertmanager" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Prometheus Alertmanager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1736985600</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/loki#1736985600</id>
+    <title>https://github.com/grafana/loki</title>
+    <link href="https://github.com/grafana/loki" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Like Prometheus, but for logs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/expr-lang/expr#1736985600</id>
+    <title>https://github.com/expr-lang/expr</title>
+    <link href="https://github.com/expr-lang/expr" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Expression language and expression evaluation for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami-labs/sealed-secrets#1736985600</id>
+    <title>https://github.com/bitnami-labs/sealed-secrets</title>
+    <link href="https://github.com/bitnami-labs/sealed-secrets" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A Kubernetes controller and tool for one-way encrypted Secrets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swaggo/swag#1736985600</id>
+    <title>https://github.com/swaggo/swag</title>
+    <link href="https://github.com/swaggo/swag" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Automatically generate RESTful API documentation with Swagger 2.0 for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1736985600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TykTechnologies/tyk#1736985600</id>
+    <title>https://github.com/TykTechnologies/tyk</title>
+    <link href="https://github.com/TykTechnologies/tyk" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectcalico/calico#1736985600</id>
+    <title>https://github.com/projectcalico/calico</title>
+    <link href="https://github.com/projectcalico/calico" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Cloud native networking and network security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gorm/gorm#1736985600</id>
+    <title>https://github.com/go-gorm/gorm</title>
+    <link href="https://github.com/go-gorm/gorm" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The fantastic ORM library for Golang, aims to be developer friendly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/zap#1736985600</id>
+    <title>https://github.com/uber-go/zap</title>
+    <link href="https://github.com/uber-go/zap" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1736985600</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1736985600</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/valyala/fasthttp#1736985600</id>
+    <title>https://github.com/valyala/fasthttp</title>
+    <link href="https://github.com/valyala/fasthttp" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vmware-tanzu/velero#1736985600</id>
+    <title>https://github.com/vmware-tanzu/velero</title>
+    <link href="https://github.com/vmware-tanzu/velero" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Backup and migrate Kubernetes applications and their persistent volumes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1736985600</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/git-lfs/git-lfs#1736985600</id>
+    <title>https://github.com/git-lfs/git-lfs</title>
+    <link href="https://github.com/git-lfs/git-lfs" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Git extension for versioning large files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1736985600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1736985600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1736985600</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ariga/atlas#1736985600</id>
+    <title>https://github.com/ariga/atlas</title>
+    <link href="https://github.com/ariga/atlas" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Manage your database schema as code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1736985600</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1736985600</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1736985600</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/tempo#1736985600</id>
+    <title>https://github.com/grafana/tempo</title>
+    <link href="https://github.com/grafana/tempo" />
+    <updated>2025-01-16T00:00:00</updated>
+    <content type="text">Grafana Tempo is a high volume, minimal dependency distributed tracing backend.</content>
+  </entry>
+</feed>

@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1743120000</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1743120000</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1743120000</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1743120000</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cadence-workflow/cadence#1743120000</id>
+    <title>https://github.com/cadence-workflow/cadence</title>
+    <link href="https://github.com/cadence-workflow/cadence" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crossplane/crossplane#1743120000</id>
+    <title>https://github.com/crossplane/crossplane</title>
+    <link href="https://github.com/crossplane/crossplane" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The Cloud Native Control Plane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dolthub/dolt#1743120000</id>
+    <title>https://github.com/dolthub/dolt</title>
+    <link href="https://github.com/dolthub/dolt" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Dolt – Git for Data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1743120000</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gogs/gogs#1743120000</id>
+    <title>https://github.com/gogs/gogs</title>
+    <link href="https://github.com/gogs/gogs" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Gogs is a painless self-hosted Git service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gonum/gonum#1743120000</id>
+    <title>https://github.com/gonum/gonum</title>
+    <link href="https://github.com/gonum/gonum" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Gonum is a set of numeric libraries for the Go programming language. It contains libraries for matrices, statistics, optimization, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/mimir#1743120000</id>
+    <title>https://github.com/grafana/mimir</title>
+    <link href="https://github.com/grafana/mimir" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1743120000</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1743120000</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgateway-dev/kgateway#1743120000</id>
+    <title>https://github.com/kgateway-dev/kgateway</title>
+    <link href="https://github.com/kgateway-dev/kgateway" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The Cloud-Native API Gateway and AI Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1743120000</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mailhog/MailHog#1743120000</id>
+    <title>https://github.com/mailhog/MailHog</title>
+    <link href="https://github.com/mailhog/MailHog" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Web and API based SMTP testing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1743120000</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1743120000</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minio/minio#1743120000</id>
+    <title>https://github.com/minio/minio</title>
+    <link href="https://github.com/minio/minio" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1743120000</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulumi/pulumi-aws#1743120000</id>
+    <title>https://github.com/pulumi/pulumi-aws</title>
+    <link href="https://github.com/pulumi/pulumi-aws" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1743120000</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sundowndev/phoneinfoga#1743120000</id>
+    <title>https://github.com/sundowndev/phoneinfoga</title>
+    <link href="https://github.com/sundowndev/phoneinfoga" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Information gathering framework for phone numbers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zitadel/zitadel#1743120000</id>
+    <title>https://github.com/zitadel/zitadel</title>
+    <link href="https://github.com/zitadel/zitadel" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">ZITADEL - Identity infrastructure, simplified for you.</content>
+  </entry>
+</feed>

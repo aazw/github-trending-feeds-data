@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1742860800</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joshdick/onedark.vim#1742860800</id>
+    <title>https://github.com/joshdick/onedark.vim</title>
+    <link href="https://github.com/joshdick/onedark.vim" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1742860800</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kana/vim-textobj-user#1742860800</id>
+    <title>https://github.com/kana/vim-textobj-user</title>
+    <link href="https://github.com/kana/vim-textobj-user" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Vim plugin: Create your own text objects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mattn/emmet-vim#1742860800</id>
+    <title>https://github.com/mattn/emmet-vim</title>
+    <link href="https://github.com/mattn/emmet-vim" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">emmet for vim: http://emmet.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1742860800</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1742860800</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pangloss/vim-javascript#1742860800</id>
+    <title>https://github.com/pangloss/vim-javascript</title>
+    <link href="https://github.com/pangloss/vim-javascript" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Vastly improved Javascript indentation and syntax support in Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1742860800</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1742860800</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-abolish#1742860800</id>
+    <title>https://github.com/tpope/vim-abolish</title>
+    <link href="https://github.com/tpope/vim-abolish" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">abolish.vim: Work with several variants of a word at once</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-bundler#1742860800</id>
+    <title>https://github.com/tpope/vim-bundler</title>
+    <link href="https://github.com/tpope/vim-bundler" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">bundler.vim: Lightweight support for Ruby's Bundler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dispatch#1742860800</id>
+    <title>https://github.com/tpope/vim-dispatch</title>
+    <link href="https://github.com/tpope/vim-dispatch" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">dispatch.vim: Asynchronous build and test dispatcher</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-markdown#1742860800</id>
+    <title>https://github.com/tpope/vim-markdown</title>
+    <link href="https://github.com/tpope/vim-markdown" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Vim Markdown runtime files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-pathogen#1742860800</id>
+    <title>https://github.com/tpope/vim-pathogen</title>
+    <link href="https://github.com/tpope/vim-pathogen" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">pathogen.vim: manage your runtimepath</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-scriptease#1742860800</id>
+    <title>https://github.com/tpope/vim-scriptease</title>
+    <link href="https://github.com/tpope/vim-scriptease" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">scriptease.vim: A Vim plugin for Vim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wellle/targets.vim#1742860800</id>
+    <title>https://github.com/wellle/targets.vim</title>
+    <link href="https://github.com/wellle/targets.vim" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Vim plugin that provides additional text objects</content>
+  </entry>
+</feed>

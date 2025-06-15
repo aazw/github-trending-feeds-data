@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ComplianceAsCode/content#1742860800</id>
+    <title>https://github.com/ComplianceAsCode/content</title>
+    <link href="https://github.com/ComplianceAsCode/content" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Security automation content in SCAP, Bash, Ansible, and other formats</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RPi-Distro/pi-gen#1742860800</id>
+    <title>https://github.com/RPi-Distro/pi-gen</title>
+    <link href="https://github.com/RPi-Distro/pi-gen" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Tool used to create the official Raspberry Pi OS images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Steam-Headless/docker-steam-headless#1742860800</id>
+    <title>https://github.com/Steam-Headless/docker-steam-headless</title>
+    <link href="https://github.com/Steam-Headless/docker-steam-headless" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bats-core/bats-core#1742860800</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bin456789/reinstall#1742860800</id>
+    <title>https://github.com/bin456789/reinstall</title>
+    <link href="https://github.com/bin456789/reinstall" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">一键DD/重装脚本 (One-click reinstall OS on VPS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1742860800</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1742860800</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1742860800</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1742860800</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner#1742860800</id>
+    <title>https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner</title>
+    <link href="https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Dynamic sub-dir volume provisioner on a remote NFS server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1742860800</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1742860800</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openconfig/public#1742860800</id>
+    <title>https://github.com/openconfig/public</title>
+    <link href="https://github.com/openconfig/public" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Repository for publishing OpenConfig models, documentation, and other material for the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oracle/docker-images#1742860800</id>
+    <title>https://github.com/oracle/docker-images</title>
+    <link href="https://github.com/oracle/docker-images" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">Official source of container configurations, images, and examples for Oracle products and projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raspberrypi/rpi-image-gen#1742860800</id>
+    <title>https://github.com/raspberrypi/rpi-image-gen</title>
+    <link href="https://github.com/raspberrypi/rpi-image-gen" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">A tool to generate highly customised software images for Raspberry Pi devices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tclahr/uac#1742860800</id>
+    <title>https://github.com/tclahr/uac</title>
+    <link href="https://github.com/tclahr/uac" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">UAC is a powerful and extensible incident response tool designed for forensic investigators, security analysts, and IT professionals. It automates the collection of artifacts from a wide range of Unix-like systems, including AIX, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1742860800</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-03-25T00:00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+</feed>

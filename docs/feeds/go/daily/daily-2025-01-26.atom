@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OJ/gobuster#1737849600</id>
+    <title>https://github.com/OJ/gobuster</title>
+    <link href="https://github.com/OJ/gobuster" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Directory/File, DNS and VHost busting tool written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1737849600</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1737849600</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/authelia/authelia#1737849600</id>
+    <title>https://github.com/authelia/authelia</title>
+    <link href="https://github.com/authelia/authelia" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">The Single Sign-On Multi-Factor portal for web apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/burrowers/garble#1737849600</id>
+    <title>https://github.com/burrowers/garble</title>
+    <link href="https://github.com/burrowers/garble" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Obfuscate Go builds</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/cloudnative-pg#1737849600</id>
+    <title>https://github.com/cloudnative-pg/cloudnative-pg</title>
+    <link href="https://github.com/cloudnative-pg/cloudnative-pg" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1737849600</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dapr/dapr#1737849600</id>
+    <title>https://github.com/dapr/dapr</title>
+    <link href="https://github.com/dapr/dapr" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/optimism#1737849600</id>
+    <title>https://github.com/ethereum-optimism/optimism</title>
+    <link href="https://github.com/ethereum-optimism/optimism" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Optimism is Ethereum, scaled.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kubebuilder#1737849600</id>
+    <title>https://github.com/kubernetes-sigs/kubebuilder</title>
+    <link href="https://github.com/kubernetes-sigs/kubebuilder" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Kubebuilder - SDK for building Kubernetes APIs using CRDs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mk6i/retro-aim-server#1737849600</id>
+    <title>https://github.com/mk6i/retro-aim-server</title>
+    <link href="https://github.com/mk6i/retro-aim-server" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Open-source instant messaging server that makes classic AIM and ICQ clients work again.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1737849600</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencost/opencost#1737849600</id>
+    <title>https://github.com/opencost/opencost</title>
+    <link href="https://github.com/opencost/opencost" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Cost monitoring for Kubernetes workloads and cloud costs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentofu/opentofu#1737849600</id>
+    <title>https://github.com/opentofu/opentofu</title>
+    <link href="https://github.com/opentofu/opentofu" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">OpenTofu lets you declaratively manage your cloud infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketbase/pocketbase#1737849600</id>
+    <title>https://github.com/pocketbase/pocketbase</title>
+    <link href="https://github.com/pocketbase/pocketbase" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Open Source realtime backend in 1 file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1737849600</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sundowndev/phoneinfoga#1737849600</id>
+    <title>https://github.com/sundowndev/phoneinfoga</title>
+    <link href="https://github.com/sundowndev/phoneinfoga" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Information gathering framework for phone numbers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1737849600</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailscale/tailscale#1737849600</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1737849600</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wavetermdev/waveterm#1737849600</id>
+    <title>https://github.com/wavetermdev/waveterm</title>
+    <link href="https://github.com/wavetermdev/waveterm" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">An open-source, cross-platform terminal for seamless workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yassinebenaid/bunster#1737849600</id>
+    <title>https://github.com/yassinebenaid/bunster</title>
+    <link href="https://github.com/yassinebenaid/bunster" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Compile shell scripts to static binaries.</content>
+  </entry>
+</feed>

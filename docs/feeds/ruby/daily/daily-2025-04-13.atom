@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-core#1744502400</id>
+    <title>https://github.com/Homebrew/homebrew-core</title>
+    <link href="https://github.com/Homebrew/homebrew-core" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">🍻 Default formulae for the missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chatwoot/chatwoot#1744502400</id>
+    <title>https://github.com/chatwoot/chatwoot</title>
+    <link href="https://github.com/chatwoot/chatwoot" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudfoundry/bosh-linux-stemcell-builder#1744502400</id>
+    <title>https://github.com/cloudfoundry/bosh-linux-stemcell-builder</title>
+    <link href="https://github.com/cloudfoundry/bosh-linux-stemcell-builder" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">BOSH Ubuntu Linux stemcells</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudfoundry/uaa-release#1744502400</id>
+    <title>https://github.com/cloudfoundry/uaa-release</title>
+    <link href="https://github.com/cloudfoundry/uaa-release" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Bosh Release for the UAA</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dependabot/dependabot-core#1744502400</id>
+    <title>https://github.com/dependabot/dependabot-core</title>
+    <link href="https://github.com/dependabot/dependabot-core" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">🤖 Dependabot's core logic for creating update PRs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/forem/forem#1744502400</id>
+    <title>https://github.com/forem/forem</title>
+    <link href="https://github.com/forem/forem" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">For empowering community 🌱</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github-linguist/linguist#1744502400</id>
+    <title>https://github.com/github-linguist/linguist</title>
+    <link href="https://github.com/github-linguist/linguist" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Language Savant. If your repository's language is being reported incorrectly, send us a pull request!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vagrant#1744502400</id>
+    <title>https://github.com/hashicorp/vagrant</title>
+    <link href="https://github.com/hashicorp/vagrant" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Vagrant is a tool for building and distributing development environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huginn/huginn#1744502400</id>
+    <title>https://github.com/huginn/huginn</title>
+    <link href="https://github.com/huginn/huginn" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Create agents that monitor and act on your behalf. Your agents are standing by!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maybe-finance/maybe#1744502400</id>
+    <title>https://github.com/maybe-finance/maybe</title>
+    <link href="https://github.com/maybe-finance/maybe" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">The OS for your personal finances</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mojombo/chronic#1744502400</id>
+    <title>https://github.com/mojombo/chronic</title>
+    <link href="https://github.com/mojombo/chronic" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Chronic is a pure Ruby natural language date parser.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1744502400</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby#1744502400</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubysec/ruby-advisory-db#1744502400</id>
+    <title>https://github.com/rubysec/ruby-advisory-db</title>
+    <link href="https://github.com/rubysec/ruby-advisory-db" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">A database of vulnerable Ruby Gems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spree/spree#1744502400</id>
+    <title>https://github.com/spree/spree</title>
+    <link href="https://github.com/spree/spree" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
+  </entry>
+</feed>

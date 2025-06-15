@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smali/daily.atom</id>
+  <title>GitHub Trending - smali (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smali/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-10T11:29:32+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/phhusson/treble_experimentations#1736508572</id>
+    <title>https://github.com/phhusson/treble_experimentations</title>
+    <link href="https://github.com/phhusson/treble_experimentations" />
+    <updated>2025-01-10T11:29:32+00:00</updated>
+    <content type="text">Notes about tinkering with Android Project Treble</content>
+  </entry>
+</feed>

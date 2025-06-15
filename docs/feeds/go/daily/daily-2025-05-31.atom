@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1748649600</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aaPanel/BillionMail#1748649600</id>
+    <title>https://github.com/aaPanel/BillionMail</title>
+    <link href="https://github.com/aaPanel/BillionMail" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees. Join the discord: https://discord.gg/fD6rDkDV</content>
+  </entry>
+  <entry>
+    <id>https://github.com/adnanh/webhook#1748649600</id>
+    <title>https://github.com/adnanh/webhook</title>
+    <link href="https://github.com/adnanh/webhook" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">webhook is a lightweight incoming webhook server to run shell commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1748649600</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1748649600</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbletea#1748649600</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A powerful little TUI framework 🏗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cilium/cilium#1748649600</id>
+    <title>https://github.com/cilium/cilium</title>
+    <link href="https://github.com/cilium/cilium" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">eBPF-based Networking, Security, and Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erigontech/erigon#1748649600</id>
+    <title>https://github.com/erigontech/erigon</title>
+    <link href="https://github.com/erigontech/erigon" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Ethereum implementation on the efficiency frontier</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1748649600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hibiken/asynq#1748649600</id>
+    <title>https://github.com/hibiken/asynq</title>
+    <link href="https://github.com/hibiken/asynq" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Simple, reliable, and efficient distributed task queue in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1748649600</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1748649600</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/dashboard#1748649600</id>
+    <title>https://github.com/kubernetes/dashboard</title>
+    <link href="https://github.com/kubernetes/dashboard" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">General-purpose web UI for Kubernetes clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/enhancements#1748649600</id>
+    <title>https://github.com/kubernetes/enhancements</title>
+    <link href="https://github.com/kubernetes/enhancements" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Enhancements tracking repo for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/navidrome/navidrome#1748649600</id>
+    <title>https://github.com/navidrome/navidrome</title>
+    <link href="https://github.com/navidrome/navidrome" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">🎧☁️ Your Personal Streaming Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1748649600</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1748649600</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbao/openbao#1748649600</id>
+    <title>https://github.com/openbao/openbao</title>
+    <link href="https://github.com/openbao/openbao" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rancher/rancher#1748649600</id>
+    <title>https://github.com/rancher/rancher</title>
+    <link href="https://github.com/rancher/rancher" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Complete container management platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1748649600</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1748649600</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1748649600</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailscale/tailscale#1748649600</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usual2970/certimate#1748649600</id>
+    <title>https://github.com/usual2970/certimate</title>
+    <link href="https://github.com/usual2970/certimate" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.</content>
+  </entry>
+</feed>

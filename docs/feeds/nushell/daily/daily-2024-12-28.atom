@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nushell/daily.atom</id>
+  <title>GitHub Trending - nushell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nushell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-28T11:21:14+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nushell/nupm#1735384874</id>
+    <title>https://github.com/nushell/nupm</title>
+    <link href="https://github.com/nushell/nupm" />
+    <updated>2024-12-28T11:21:14+00:00</updated>
+    <content type="text">A manager for Nushell packages.</content>
+  </entry>
+</feed>

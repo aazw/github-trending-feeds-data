@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OffchainLabs/blockscout#1748995200</id>
+    <title>https://github.com/OffchainLabs/blockscout</title>
+    <link href="https://github.com/OffchainLabs/blockscout" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1748995200</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwalk/hermes-mcp#1748995200</id>
+    <title>https://github.com/cloudwalk/hermes-mcp</title>
+    <link href="https://github.com/cloudwalk/hermes-mcp" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Elixir Model Context Protocol (MCP) SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/commanded/eventstore#1748995200</id>
+    <title>https://github.com/commanded/eventstore</title>
+    <link href="https://github.com/commanded/eventstore" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Event store using PostgreSQL for persistence</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1748995200</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/phoenix_sync#1748995200</id>
+    <title>https://github.com/electric-sql/phoenix_sync</title>
+    <link href="https://github.com/electric-sql/phoenix_sync" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Real-time sync for Postgres-backed Phoenix applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-ecto/ecto#1748995200</id>
+    <title>https://github.com/elixir-ecto/ecto</title>
+    <link href="https://github.com/elixir-ecto/ecto" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">A toolkit for data mapping and language integrated query.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1748995200</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1748995200</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1748995200</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1748995200</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1748995200</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1748995200</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1748995200</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1748995200</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</content>
+  </entry>
+</feed>

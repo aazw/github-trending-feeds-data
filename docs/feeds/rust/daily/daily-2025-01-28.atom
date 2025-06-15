@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/XAMPPRocky/tokei#1738022400</id>
+    <title>https://github.com/XAMPPRocky/tokei</title>
+    <link href="https://github.com/XAMPPRocky/tokei" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Count your code, quickly.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anoma/namada#1738022400</id>
+    <title>https://github.com/anoma/namada</title>
+    <link href="https://github.com/anoma/namada" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1738022400</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1738022400</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1738022400</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-rs#1738022400</id>
+    <title>https://github.com/delta-io/delta-rs</title>
+    <link href="https://github.com/delta-io/delta-rs" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A native Rust library for Delta Lake, with bindings into Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hatoo/oha#1738022400</id>
+    <title>https://github.com/hatoo/oha</title>
+    <link href="https://github.com/hatoo/oha" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Ohayou(おはよう), HTTP load generator, inspired by rakyll/hey with tui animation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/tokenizers#1738022400</id>
+    <title>https://github.com/huggingface/tokenizers</title>
+    <link href="https://github.com/huggingface/tokenizers" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdx/mise#1738022400</id>
+    <title>https://github.com/jdx/mise</title>
+    <link href="https://github.com/jdx/mise" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">dev tools, env vars, task runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1738022400</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/katanemo/archgw#1738022400</id>
+    <title>https://github.com/katanemo/archgw</title>
+    <link href="https://github.com/katanemo/archgw" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Intelligent (edge and LLM) proxy for agents. Designed with fast ⚡️ LLMs for task routing, rich observability, and the seamless integration of prompts with your APIs for agentic tasks. Built by the contributors of Envoy proxy.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1738022400</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/matter-labs/zksync-era#1738022400</id>
+    <title>https://github.com/matter-labs/zksync-era</title>
+    <link href="https://github.com/matter-labs/zksync-era" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">zkSync era</content>
+  </entry>
+  <entry>
+    <id>https://github.com/noir-lang/noir#1738022400</id>
+    <title>https://github.com/noir-lang/noir</title>
+    <link href="https://github.com/noir-lang/noir" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Noir is a domain specific language for zero knowledge proofs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell#1738022400</id>
+    <title>https://github.com/nushell/nushell</title>
+    <link href="https://github.com/nushell/nushell" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">A new type of shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1738022400</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redlib-org/redlib#1738022400</id>
+    <title>https://github.com/redlib-org/redlib</title>
+    <link href="https://github.com/redlib-org/redlib" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Private front-end for Reddit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/signalapp/libsignal#1738022400</id>
+    <title>https://github.com/signalapp/libsignal</title>
+    <link href="https://github.com/signalapp/libsignal" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/succinctlabs/sp1#1738022400</id>
+    <title>https://github.com/succinctlabs/sp1</title>
+    <link href="https://github.com/succinctlabs/sp1" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">The fastest, most feature-complete zkVM for developers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1738022400</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1738022400</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vercel/turborepo#1738022400</id>
+    <title>https://github.com/vercel/turborepo</title>
+    <link href="https://github.com/vercel/turborepo" />
+    <updated>2025-01-28T00:00:00</updated>
+    <content type="text">Build system optimized for JavaScript and TypeScript, written in Rust</content>
+  </entry>
+</feed>

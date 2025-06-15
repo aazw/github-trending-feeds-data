@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom</id>
+  <title>GitHub Trending - groovy (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T11:14:36+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/geerlingguy/ansible-role-jenkins#1736162076</id>
+    <title>https://github.com/geerlingguy/ansible-role-jenkins</title>
+    <link href="https://github.com/geerlingguy/ansible-role-jenkins" />
+    <updated>2025-01-06T11:14:36+00:00</updated>
+    <content type="text">Ansible Role - Jenkins CI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/okta/okta-jwt-verifier-java#1736162076</id>
+    <title>https://github.com/okta/okta-jwt-verifier-java</title>
+    <link href="https://github.com/okta/okta-jwt-verifier-java" />
+    <updated>2025-01-06T11:14:36+00:00</updated>
+    <content type="text">okta-jwt-verifier-java</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grails/gorm-mongodb#1736162076</id>
+    <title>https://github.com/grails/gorm-mongodb</title>
+    <link href="https://github.com/grails/gorm-mongodb" />
+    <updated>2025-01-06T11:14:36+00:00</updated>
+    <content type="text">GORM for MongoDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bregman-arie/devops-resources#1736162076</id>
+    <title>https://github.com/bregman-arie/devops-resources</title>
+    <link href="https://github.com/bregman-arie/devops-resources" />
+    <updated>2025-01-06T11:14:36+00:00</updated>
+    <content type="text">DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gradle/gradle#1736162076</id>
+    <title>https://github.com/gradle/gradle</title>
+    <link href="https://github.com/gradle/gradle" />
+    <updated>2025-01-06T11:14:36+00:00</updated>
+    <content type="text">Adaptable, fast automation for all</content>
+  </entry>
+</feed>

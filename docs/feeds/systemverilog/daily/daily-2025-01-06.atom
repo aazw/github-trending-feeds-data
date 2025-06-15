@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom</id>
+  <title>GitHub Trending - systemverilog (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T11:28:03+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/chipsalliance/Cores-VeeR-EL2#1736162883</id>
+    <title>https://github.com/chipsalliance/Cores-VeeR-EL2</title>
+    <link href="https://github.com/chipsalliance/Cores-VeeR-EL2" />
+    <updated>2025-01-06T11:28:03+00:00</updated>
+    <content type="text">VeeR EL2 Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/axi#1736162883</id>
+    <title>https://github.com/pulp-platform/axi</title>
+    <link href="https://github.com/pulp-platform/axi" />
+    <updated>2025-01-06T11:28:03+00:00</updated>
+    <content type="text">AXI SystemVerilog synthesizable IP modules and verification infrastructure for high-performance on-chip communication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cv-hpdcache#1736162883</id>
+    <title>https://github.com/openhwgroup/cv-hpdcache</title>
+    <link href="https://github.com/openhwgroup/cv-hpdcache" />
+    <updated>2025-01-06T11:28:03+00:00</updated>
+    <content type="text">RTL sources of the High-Performance L1 Dcache (HPDcache) for OpenHW CV cores</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulp-platform/common_cells#1736162883</id>
+    <title>https://github.com/pulp-platform/common_cells</title>
+    <link href="https://github.com/pulp-platform/common_cells" />
+    <updated>2025-01-06T11:28:03+00:00</updated>
+    <content type="text">Common SystemVerilog components</content>
+  </entry>
+</feed>

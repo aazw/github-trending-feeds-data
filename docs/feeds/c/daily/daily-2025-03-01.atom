@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Mbed-TLS/mbedtls#1740787200</id>
+    <title>https://github.com/Mbed-TLS/mbedtls</title>
+    <link href="https://github.com/Mbed-TLS/mbedtls" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThrowTheSwitch/Unity#1740787200</id>
+    <title>https://github.com/ThrowTheSwitch/Unity</title>
+    <link href="https://github.com/ThrowTheSwitch/Unity" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Simple unit testing for C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arendst/Tasmota#1740787200</id>
+    <title>https://github.com/arendst/Tasmota</title>
+    <link href="https://github.com/arendst/Tasmota" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asg017/sqlite-vec#1740787200</id>
+    <title>https://github.com/asg017/sqlite-vec</title>
+    <link href="https://github.com/asg017/sqlite-vec" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A vector search SQLite extension that runs anywhere!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/axboe/liburing#1740787200</id>
+    <title>https://github.com/axboe/liburing</title>
+    <link href="https://github.com/axboe/liburing" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Library providing helpers for the Linux kernel io_uring support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brunodev85/winlator#1740787200</id>
+    <title>https://github.com/brunodev85/winlator</title>
+    <link href="https://github.com/brunodev85/winlator" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Android application for running Windows applications with Wine and Box86/Box64</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cesanta/mongoose#1740787200</id>
+    <title>https://github.com/cesanta/mongoose</title>
+    <link href="https://github.com/cesanta/mongoose" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Embedded TCP/IP network stack with embedded web server, Websocket, and MQTT client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coolsnowwolf/lede#1740787200</id>
+    <title>https://github.com/coolsnowwolf/lede</title>
+    <link href="https://github.com/coolsnowwolf/lede" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Lean's LEDE source</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coturn/coturn#1740787200</id>
+    <title>https://github.com/coturn/coturn</title>
+    <link href="https://github.com/coturn/coturn" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">coturn TURN server project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-mosquitto/mosquitto#1740787200</id>
+    <title>https://github.com/eclipse-mosquitto/mosquitto</title>
+    <link href="https://github.com/eclipse-mosquitto/mosquitto" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Eclipse Mosquitto - An open source MQTT broker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluent-bit#1740787200</id>
+    <title>https://github.com/fluent/fluent-bit</title>
+    <link href="https://github.com/fluent/fluent-bit" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hathach/tinyusb#1740787200</id>
+    <title>https://github.com/hathach/tinyusb</title>
+    <link href="https://github.com/hathach/tinyusb" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">An open source cross-platform USB stack for embedded system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iovisor/bcc#1740787200</id>
+    <title>https://github.com/iovisor/bcc</title>
+    <link href="https://github.com/iovisor/bcc" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jemalloc/jemalloc#1740787200</id>
+    <title>https://github.com/jemalloc/jemalloc</title>
+    <link href="https://github.com/jemalloc/jemalloc" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/libevent/libevent#1740787200</id>
+    <title>https://github.com/libevent/libevent</title>
+    <link href="https://github.com/libevent/libevent" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Event notification library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/littlefs-project/littlefs#1740787200</id>
+    <title>https://github.com/littlefs-project/littlefs</title>
+    <link href="https://github.com/littlefs-project/littlefs" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">A little fail-safe filesystem designed for microcontrollers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meetecho/janus-gateway#1740787200</id>
+    <title>https://github.com/meetecho/janus-gateway</title>
+    <link href="https://github.com/meetecho/janus-gateway" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">Janus WebRTC Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/micropython/micropython#1740787200</id>
+    <title>https://github.com/micropython/micropython</title>
+    <link href="https://github.com/micropython/micropython" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mimalloc#1740787200</id>
+    <title>https://github.com/microsoft/mimalloc</title>
+    <link href="https://github.com/microsoft/mimalloc" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">mimalloc is a compact general purpose allocator with excellent performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocoproject/poco#1740787200</id>
+    <title>https://github.com/pocoproject/poco</title>
+    <link href="https://github.com/pocoproject/poco" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">The POCO C++ Libraries are powerful cross-platform C++ libraries for building network- and internet-based applications that run on desktop, server, mobile, IoT, and embedded systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/signalwire/freeswitch#1740787200</id>
+    <title>https://github.com/signalwire/freeswitch</title>
+    <link href="https://github.com/signalwire/freeswitch" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/soedinglab/MMseqs2#1740787200</id>
+    <title>https://github.com/soedinglab/MMseqs2</title>
+    <link href="https://github.com/soedinglab/MMseqs2" />
+    <updated>2025-03-01T00:00:00</updated>
+    <content type="text">MMseqs2: ultra fast and sensitive search and clustering suite</content>
+  </entry>
+</feed>

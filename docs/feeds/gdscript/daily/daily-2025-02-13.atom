@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom</id>
+  <title>GitHub Trending - gdscript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BenjaTK/Gaea#1739404800</id>
+    <title>https://github.com/BenjaTK/Gaea</title>
+    <link href="https://github.com/BenjaTK/Gaea" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Procedural generation add-on for Godot 4.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HungryProton/scatter#1739404800</id>
+    <title>https://github.com/HungryProton/scatter</title>
+    <link href="https://github.com/HungryProton/scatter" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Godot engine addon to randomly fill an area with props or other scenes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/don-tnowe/godot-resources-as-sheets-plugin#1739404800</id>
+    <title>https://github.com/don-tnowe/godot-resources-as-sheets-plugin</title>
+    <link href="https://github.com/don-tnowe/godot-resources-as-sheets-plugin" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">I needed to edit many Resource files, so figured someone would too.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/git-learning-game/oh-my-git#1739404800</id>
+    <title>https://github.com/git-learning-game/oh-my-git</title>
+    <link href="https://github.com/git-learning-game/oh-my-git" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">An interactive Git learning game!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot-demo-projects#1739404800</id>
+    <title>https://github.com/godotengine/godot-demo-projects</title>
+    <link href="https://github.com/godotengine/godot-demo-projects" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Demonstration and Template Projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbrlabs/Lorien#1739404800</id>
+    <title>https://github.com/mbrlabs/Lorien</title>
+    <link href="https://github.com/mbrlabs/Lorien" />
+    <updated>2025-02-13T00:00:00</updated>
+    <content type="text">Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.</content>
+  </entry>
+</feed>

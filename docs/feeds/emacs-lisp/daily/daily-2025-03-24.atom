@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1742774400</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alphapapa/plz.el#1742774400</id>
+    <title>https://github.com/alphapapa/plz.el</title>
+    <link href="https://github.com/alphapapa/plz.el" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">An HTTP library for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1742774400</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1742774400</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1742774400</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iqbalansari/emacs-emojify#1742774400</id>
+    <title>https://github.com/iqbalansari/emacs-emojify</title>
+    <link href="https://github.com/iqbalansari/emacs-emojify" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Display emojis in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jacktasia/dumb-jump#1742774400</id>
+    <title>https://github.com/jacktasia/dumb-jump</title>
+    <link href="https://github.com/jacktasia/dumb-jump" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">an Emacs "jump to definition" package for 50+ languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joaotavora/breadcrumb#1742774400</id>
+    <title>https://github.com/joaotavora/breadcrumb</title>
+    <link href="https://github.com/joaotavora/breadcrumb" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Emacs headerline indication of where you are in a large project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kiwanami/emacs-deferred#1742774400</id>
+    <title>https://github.com/kiwanami/emacs-deferred</title>
+    <link href="https://github.com/kiwanami/emacs-deferred" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Simple asynchronous functions for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1742774400</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oantolin/embark#1742774400</id>
+    <title>https://github.com/oantolin/embark</title>
+    <link href="https://github.com/oantolin/embark" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Emacs Mini-Buffer Actions Rooted in Keymaps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust-mode#1742774400</id>
+    <title>https://github.com/rust-lang/rust-mode</title>
+    <link href="https://github.com/rust-lang/rust-mode" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Emacs configuration for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1742774400</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volrath/treepy.el#1742774400</id>
+    <title>https://github.com/volrath/treepy.el</title>
+    <link href="https://github.com/volrath/treepy.el" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Generic tree traversing tools for Emacs Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wolray/symbol-overlay#1742774400</id>
+    <title>https://github.com/wolray/symbol-overlay</title>
+    <link href="https://github.com/wolray/symbol-overlay" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Highlight symbols with keymap-enabled overlays</content>
+  </entry>
+</feed>

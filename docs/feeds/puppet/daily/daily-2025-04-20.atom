@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/puppet/daily.atom</id>
+  <title>GitHub Trending - puppet (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/puppet/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/puppet-datadog-agent#1745107200</id>
+    <title>https://github.com/DataDog/puppet-datadog-agent</title>
+    <link href="https://github.com/DataDog/puppet-datadog-agent" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Puppet module to install the Datadog agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/puppetlabs/puppetlabs-apache#1745107200</id>
+    <title>https://github.com/puppetlabs/puppetlabs-apache</title>
+    <link href="https://github.com/puppetlabs/puppetlabs-apache" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Puppet module for the Apache httpd server, maintained by Puppet, Inc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voxpupuli/puppet-prometheus#1745107200</id>
+    <title>https://github.com/voxpupuli/puppet-prometheus</title>
+    <link href="https://github.com/voxpupuli/puppet-prometheus" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Puppet module for prometheus</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wazuh/wazuh-puppet#1745107200</id>
+    <title>https://github.com/wazuh/wazuh-puppet</title>
+    <link href="https://github.com/wazuh/wazuh-puppet" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Wazuh - Puppet module</content>
+  </entry>
+</feed>

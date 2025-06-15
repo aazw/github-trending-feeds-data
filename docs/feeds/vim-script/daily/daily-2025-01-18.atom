@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1737158400</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1737158400</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1737158400</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rhysd/vim.wasm#1737158400</id>
+    <title>https://github.com/rhysd/vim.wasm</title>
+    <link href="https://github.com/rhysd/vim.wasm" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Vim editor ported to WebAssembly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1737158400</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1737158400</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1737158400</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1737158400</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1737158400</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-ui#1737158400</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-ui</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Simple UI for https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/gv.vim#1737158400</id>
+    <title>https://github.com/junegunn/gv.vim</title>
+    <link href="https://github.com/junegunn/gv.vim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">A git commit browser in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1737158400</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leafgarland/typescript-vim#1737158400</id>
+    <title>https://github.com/leafgarland/typescript-vim</title>
+    <link href="https://github.com/leafgarland/typescript-vim" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Typescript syntax files for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/sonokai#1737158400</id>
+    <title>https://github.com/sainnhe/sonokai</title>
+    <link href="https://github.com/sainnhe/sonokai" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">High Contrast &amp; Vivid Color Scheme based on Monokai Pro</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1737158400</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/vim-lsp#1737158400</id>
+    <title>https://github.com/prabirshrestha/vim-lsp</title>
+    <link href="https://github.com/prabirshrestha/vim-lsp" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">async language server protocol plugin for vim and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-galore#1737158400</id>
+    <title>https://github.com/mhinz/vim-galore</title>
+    <link href="https://github.com/mhinz/vim-galore" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">🎓 All things Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airblade/vim-rooter#1737158400</id>
+    <title>https://github.com/airblade/vim-rooter</title>
+    <link href="https://github.com/airblade/vim-rooter" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Changes Vim working directory to project root.</content>
+  </entry>
+</feed>

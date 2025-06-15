@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1749427200</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1749427200</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft#1749427200</id>
+    <title>https://github.com/anchore/syft</title>
+    <link href="https://github.com/anchore/syft" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/kube-bench#1749427200</id>
+    <title>https://github.com/aquasecurity/kube-bench</title>
+    <link href="https://github.com/aquasecurity/kube-bench" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1749427200</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudreve/Cloudreve#1749427200</id>
+    <title>https://github.com/cloudreve/Cloudreve</title>
+    <link href="https://github.com/cloudreve/Cloudreve" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🌩 Self-hosted file management and sharing system, supports multiple storage providers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/buildah#1749427200</id>
+    <title>https://github.com/containers/buildah</title>
+    <link href="https://github.com/containers/buildah" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A tool that facilitates building OCI images.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1749427200</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1749427200</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">An open-source runtime for composable workflows. Great for AI agents and CI/CD.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gofr-dev/gofr#1749427200</id>
+    <title>https://github.com/gofr-dev/gofr</title>
+    <link href="https://github.com/gofr-dev/gofr" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/osv-scanner#1749427200</id>
+    <title>https://github.com/google/osv-scanner</title>
+    <link href="https://github.com/google/osv-scanner" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Vulnerability scanner written in Go which uses the data provided by https://osv.dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/genai-toolbox#1749427200</id>
+    <title>https://github.com/googleapis/genai-toolbox</title>
+    <link href="https://github.com/googleapis/genai-toolbox" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">MCP Toolbox for Databases is an open source MCP server for databases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/go-genai#1749427200</id>
+    <title>https://github.com/googleapis/go-genai</title>
+    <link href="https://github.com/googleapis/go-genai" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1749427200</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1749427200</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1749427200</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/php/frankenphp#1749427200</id>
+    <title>https://github.com/php/frankenphp</title>
+    <link href="https://github.com/php/frankenphp" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🧟 The modern PHP app server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semaphoreui/semaphore#1749427200</id>
+    <title>https://github.com/semaphoreui/semaphore</title>
+    <link href="https://github.com/semaphoreui/semaphore" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1749427200</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tulir/whatsmeow#1749427200</id>
+    <title>https://github.com/tulir/whatsmeow</title>
+    <link href="https://github.com/tulir/whatsmeow" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Go library for the WhatsApp web multidevice API</content>
+  </entry>
+</feed>

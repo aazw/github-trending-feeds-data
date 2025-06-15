@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1741737600</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OmniSharp/omnisharp-vim#1741737600</id>
+    <title>https://github.com/OmniSharp/omnisharp-vim</title>
+    <link href="https://github.com/OmniSharp/omnisharp-vim" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Vim omnicompletion (intellisense) and more for C#</content>
+  </entry>
+  <entry>
+    <id>https://github.com/easymotion/vim-easymotion#1741737600</id>
+    <title>https://github.com/easymotion/vim-easymotion</title>
+    <link href="https://github.com/easymotion/vim-easymotion" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Vim motions on speed!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flazz/vim-colorschemes#1741737600</id>
+    <title>https://github.com/flazz/vim-colorschemes</title>
+    <link href="https://github.com/flazz/vim-colorschemes" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">one colorscheme pack to rule them all!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1741737600</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/vim-jsonnet#1741737600</id>
+    <title>https://github.com/google/vim-jsonnet</title>
+    <link href="https://github.com/google/vim-jsonnet" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Jsonnet filetype plugin for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jamessan/vim-gnupg#1741737600</id>
+    <title>https://github.com/jamessan/vim-gnupg</title>
+    <link href="https://github.com/jamessan/vim-gnupg" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">This script implements transparent editing of gpg encrypted files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vader.vim#1741737600</id>
+    <title>https://github.com/junegunn/vader.vim</title>
+    <link href="https://github.com/junegunn/vader.vim" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A simple Vimscript test framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1741737600</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neomake/neomake#1741737600</id>
+    <title>https://github.com/neomake/neomake</title>
+    <link href="https://github.com/neomake/neomake" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Asynchronous linting and make framework for Neovim/Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1741737600</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dispatch#1741737600</id>
+    <title>https://github.com/tpope/vim-dispatch</title>
+    <link href="https://github.com/tpope/vim-dispatch" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">dispatch.vim: Asynchronous build and test dispatcher</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-obsession#1741737600</id>
+    <title>https://github.com/tpope/vim-obsession</title>
+    <link href="https://github.com/tpope/vim-obsession" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">obsession.vim: continuously updated session files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-scriptease#1741737600</id>
+    <title>https://github.com/tpope/vim-scriptease</title>
+    <link href="https://github.com/tpope/vim-scriptease" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">scriptease.vim: A Vim plugin for Vim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1741737600</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1741737600</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

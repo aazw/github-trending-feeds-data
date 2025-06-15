@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-06T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndrewGuenther/fck-nat#1746489600</id>
+    <title>https://github.com/AndrewGuenther/fck-nat</title>
+    <link href="https://github.com/AndrewGuenther/fck-nat" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Feasible cost konfigurable NAT: An AWS NAT Instance AMI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1746489600</id>
+    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cluster-toolkit#1746489600</id>
+    <title>https://github.com/GoogleCloudPlatform/cluster-toolkit</title>
+    <link href="https://github.com/GoogleCloudPlatform/cluster-toolkit" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Cluster Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraform-google-alloy-db#1746489600</id>
+    <title>https://github.com/GoogleCloudPlatform/terraform-google-alloy-db</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraform-google-alloy-db" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Creates an Alloy DB instance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1746489600</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-control_tower_account_factory#1746489600</id>
+    <title>https://github.com/aws-ia/terraform-aws-control_tower_account_factory</title>
+    <link href="https://github.com/aws-ia/terraform-aws-control_tower_account_factory" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">AWS Control Tower Account Factory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-datadog-platform#1746489600</id>
+    <title>https://github.com/cloudposse/terraform-datadog-platform</title>
+    <link href="https://github.com/cloudposse/terraform-datadog-platform" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Terraform module to configure and provision Datadog monitors, custom RBAC roles with permissions, Datadog synthetic tests, Datadog child organizations, and other Datadog resources from a YAML configuration, complete with automated tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1746489600</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1746489600</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-lambda#1746489600</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-lambda</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-example-foundation#1746489600</id>
+    <title>https://github.com/terraform-google-modules/terraform-example-foundation</title>
+    <link href="https://github.com/terraform-google-modules/terraform-example-foundation" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Shows how the CFT modules can be composed to build a secure cloud foundation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-gcloud#1746489600</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-gcloud</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-gcloud" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Executes Google Cloud CLI commands within Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine#1746489600</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Configures opinionated GKE clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-vpn#1746489600</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-vpn</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-vpn" />
+    <updated>2025-05-06T00:00:00</updated>
+    <content type="text">Sets up a Cloud VPN gateway</content>
+  </entry>
+</feed>

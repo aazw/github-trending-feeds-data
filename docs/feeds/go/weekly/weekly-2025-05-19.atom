@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/datadog-agent#1747612800</id>
+    <title>https://github.com/DataDog/datadog-agent</title>
+    <link href="https://github.com/DataDog/datadog-agent" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Main repository for Datadog Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FiloSottile/mkcert#1747612800</id>
+    <title>https://github.com/FiloSottile/mkcert</title>
+    <link href="https://github.com/FiloSottile/mkcert" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">A simple zero-config tool to make locally trusted development certificates with any names you'd like.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1747612800</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1747612800</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1747612800</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/avelino/awesome-go#1747612800</id>
+    <title>https://github.com/avelino/awesome-go</title>
+    <link href="https://github.com/avelino/awesome-go" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">A curated list of awesome Go frameworks, libraries and software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1747612800</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1747612800</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/cloudflared#1747612800</id>
+    <title>https://github.com/cloudflare/cloudflared</title>
+    <link href="https://github.com/cloudflare/cloudflared" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Cloudflare Tunnel client (formerly Argo Tunnel)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/etcd-io/etcd#1747612800</id>
+    <title>https://github.com/etcd-io/etcd</title>
+    <link href="https://github.com/etcd-io/etcd" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Distributed reliable key-value store for the most critical data of a distributed system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1747612800</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goharbor/harbor#1747612800</id>
+    <title>https://github.com/goharbor/harbor</title>
+    <link href="https://github.com/goharbor/harbor" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">An open source trusted cloud native registry project that stores, signs, and scans content.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1747612800</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1747612800</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1747612800</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1747612800</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Configure external DNS servers dynamically from Kubernetes resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ltaoo/wx_channels_download#1747612800</id>
+    <title>https://github.com/ltaoo/wx_channels_download</title>
+    <link href="https://github.com/ltaoo/wx_channels_download" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">微信视频号下载器</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1747612800</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1747612800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1747612800</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qax-os/excelize#1747612800</id>
+    <title>https://github.com/qax-os/excelize</title>
+    <link href="https://github.com/qax-os/excelize" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/samber/lo#1747612800</id>
+    <title>https://github.com/samber/lo</title>
+    <link href="https://github.com/samber/lo" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">💥 A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thanos-io/thanos#1747612800</id>
+    <title>https://github.com/thanos-io/thanos</title>
+    <link href="https://github.com/thanos-io/thanos" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.</content>
+  </entry>
+</feed>

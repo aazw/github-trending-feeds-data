@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nushell/monthly.atom</id>
+  <title>GitHub Trending - nushell (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nushell/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/luccahuguet/yazelix#1738368000</id>
+    <title>https://github.com/luccahuguet/yazelix</title>
+    <link href="https://github.com/luccahuguet/yazelix" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">zellij, yazi and nushell adding a File Tree to Helix &amp; helix-friendly keybindigs for zellij</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell.github.io#1738368000</id>
+    <title>https://github.com/nushell/nushell.github.io</title>
+    <link href="https://github.com/nushell/nushell.github.io" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Nushell's main website, blog, book, and more</content>
+  </entry>
+</feed>

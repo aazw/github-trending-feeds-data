@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-11T11:15:46+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-cli#1736594146</id>
+    <title>https://github.com/IntersectMBO/cardano-cli</title>
+    <link href="https://github.com/IntersectMBO/cardano-cli" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/commercialhaskell/stack#1736594146</id>
+    <title>https://github.com/commercialhaskell/stack</title>
+    <link href="https://github.com/commercialhaskell/stack" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">The Haskell Tool Stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/diku-dk/futhark#1736594146</id>
+    <title>https://github.com/diku-dk/futhark</title>
+    <link href="https://github.com/diku-dk/futhark" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">💥💻💥 A data-parallel functional programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crytic/echidna#1736594146</id>
+    <title>https://github.com/crytic/echidna</title>
+    <link href="https://github.com/crytic/echidna" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">Ethereum smart contract fuzzer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/ouroboros-network#1736594146</id>
+    <title>https://github.com/IntersectMBO/ouroboros-network</title>
+    <link href="https://github.com/IntersectMBO/ouroboros-network" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">Specifications of network protocols and implementations of components running these protocols which support a family of Ouroboros Consesus protocols; the diffusion layer of the Cardano Node.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koka-lang/koka#1736594146</id>
+    <title>https://github.com/koka-lang/koka</title>
+    <link href="https://github.com/koka-lang/koka" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">Koka language compiler and interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1736594146</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/runtimeverification/haskell-backend#1736594146</id>
+    <title>https://github.com/runtimeverification/haskell-backend</title>
+    <link href="https://github.com/runtimeverification/haskell-backend" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">The symbolic execution engine powering the K Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1736594146</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1736594146</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1736594146</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-01-11T11:15:46+00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+</feed>

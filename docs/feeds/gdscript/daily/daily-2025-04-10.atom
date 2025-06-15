@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom</id>
+  <title>GitHub Trending - gdscript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Alexofp/BDCC#1744243200</id>
+    <title>https://github.com/Alexofp/BDCC</title>
+    <link href="https://github.com/Alexofp/BDCC" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Text based game about being a prisoner in a space prison with a lot of adult themes. Working title is Broken Dreams Correctional Center or BDCC for short. Test the latest version here: (could be unstable)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Orama-Interactive/Pixelorama#1744243200</id>
+    <title>https://github.com/Orama-Interactive/Pixelorama</title>
+    <link href="https://github.com/Orama-Interactive/Pixelorama" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Unleash your creativity with Pixelorama, a powerful and accessible open-source pixel art multitool. Whether you want to create sprites, tiles, animations, or just express yourself in the language of pixel art, this software will realize your pixel-perfect dreams with a vast toolbox of features. Available on Windows, Linux, macOS and the Web!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dialogic-godot/dialogic#1744243200</id>
+    <title>https://github.com/dialogic-godot/dialogic</title>
+    <link href="https://github.com/dialogic-godot/dialogic" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dreadpon/godot_spatial_gardener#1744243200</id>
+    <title>https://github.com/dreadpon/godot_spatial_gardener</title>
+    <link href="https://github.com/dreadpon/godot_spatial_gardener" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">A Godot plugin for painting plants and props on arbitrary 3D surfaces implemented in GDScript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbrlabs/Lorien#1744243200</id>
+    <title>https://github.com/mbrlabs/Lorien</title>
+    <link href="https://github.com/mbrlabs/Lorien" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Infinite canvas drawing/whiteboarding app for Windows, Linux and macOS. Made with Godot.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/poingstudios/godot-admob-plugin#1744243200</id>
+    <title>https://github.com/poingstudios/godot-admob-plugin</title>
+    <link href="https://github.com/poingstudios/godot-admob-plugin" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">This repository is for Godot's Addons to integrate natively AdMob to your Game Project without much configurations and directly inside Godot Editor!</content>
+  </entry>
+</feed>

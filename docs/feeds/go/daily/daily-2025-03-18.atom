@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DiceDB/dice#1742256000</id>
+    <title>https://github.com/DiceDB/dice</title>
+    <link href="https://github.com/DiceDB/dice" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-workflows#1742256000</id>
+    <title>https://github.com/argoproj/argo-workflows</title>
+    <link href="https://github.com/argoproj/argo-workflows" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Workflow Engine for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cilium/cilium#1742256000</id>
+    <title>https://github.com/cilium/cilium</title>
+    <link href="https://github.com/cilium/cilium" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">eBPF-based Networking, Security, and Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1742256000</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ehang-io/nps#1742256000</id>
+    <title>https://github.com/ehang-io/nps</title>
+    <link href="https://github.com/ehang-io/nps" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ent/ent#1742256000</id>
+    <title>https://github.com/ent/ent</title>
+    <link href="https://github.com/ent/ent" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">An entity framework for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/expr-lang/expr#1742256000</id>
+    <title>https://github.com/expr-lang/expr</title>
+    <link href="https://github.com/expr-lang/expr" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Expression language and expression evaluation for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1742256000</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glanceapp/glance#1742256000</id>
+    <title>https://github.com/glanceapp/glance</title>
+    <link href="https://github.com/glanceapp/glance" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">A self-hosted dashboard that puts all your feeds in one place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gofiber/fiber#1742256000</id>
+    <title>https://github.com/gofiber/fiber</title>
+    <link href="https://github.com/gofiber/fiber" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">⚡️ Express inspired web framework written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/osv-scanner#1742256000</id>
+    <title>https://github.com/google/osv-scanner</title>
+    <link href="https://github.com/google/osv-scanner" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Vulnerability scanner written in Go which uses the data provided by https://osv.dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1742256000</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorilla/websocket#1742256000</id>
+    <title>https://github.com/gorilla/websocket</title>
+    <link href="https://github.com/gorilla/websocket" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k6#1742256000</id>
+    <title>https://github.com/grafana/k6</title>
+    <link href="https://github.com/grafana/k6" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">A modern load testing tool, using Go and JavaScript - https://k6.io</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kedacore/keda#1742256000</id>
+    <title>https://github.com/kedacore/keda</title>
+    <link href="https://github.com/kedacore/keda" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1742256000</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/metrics-server#1742256000</id>
+    <title>https://github.com/kubernetes-sigs/metrics-server</title>
+    <link href="https://github.com/kubernetes-sigs/metrics-server" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1742256000</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metoro-io/mcp-golang#1742256000</id>
+    <title>https://github.com/metoro-io/mcp-golang</title>
+    <link href="https://github.com/metoro-io/mcp-golang" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go-contrib#1742256000</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go-contrib" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Collection of extensions for OpenTelemetry-Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-go#1742256000</id>
+    <title>https://github.com/openai/openai-go</title>
+    <link href="https://github.com/openai/openai-go" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">The official Go library for the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/prometheus#1742256000</id>
+    <title>https://github.com/prometheus/prometheus</title>
+    <link href="https://github.com/prometheus/prometheus" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">The Prometheus monitoring system and time series database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/viper#1742256000</id>
+    <title>https://github.com/spf13/viper</title>
+    <link href="https://github.com/spf13/viper" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Go configuration with fangs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1742256000</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vektra/mockery#1742256000</id>
+    <title>https://github.com/vektra/mockery</title>
+    <link href="https://github.com/vektra/mockery" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">A mock code autogenerator for Go</content>
+  </entry>
+</feed>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/benoitc/hackney#1743379200</id>
+    <title>https://github.com/benoitc/hackney</title>
+    <link href="https://github.com/benoitc/hackney" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">simple HTTP client in Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cbd/edis#1743379200</id>
+    <title>https://github.com/cbd/edis</title>
+    <link href="https://github.com/cbd/edis" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">An Erlang implementation of Redis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/couchbase/couchdb#1743379200</id>
+    <title>https://github.com/couchbase/couchdb</title>
+    <link href="https://github.com/couchbase/couchdb" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">CouchDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/devinus/poolboy#1743379200</id>
+    <title>https://github.com/devinus/poolboy</title>
+    <link href="https://github.com/devinus/poolboy" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A hunky Erlang worker pool factory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1743379200</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epgsql/epgsql#1743379200</id>
+    <title>https://github.com/epgsql/epgsql</title>
+    <link href="https://github.com/epgsql/epgsql" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Erlang PostgreSQL client library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-ls/erlang_ls#1743379200</id>
+    <title>https://github.com/erlang-ls/erlang_ls</title>
+    <link href="https://github.com/erlang-ls/erlang_ls" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">The Erlang Language Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1743379200</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1743379200</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gotthardp/lorawan-server#1743379200</id>
+    <title>https://github.com/gotthardp/lorawan-server</title>
+    <link href="https://github.com/gotthardp/lorawan-server" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Compact server for private LoRaWAN networks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1743379200</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1743379200</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/gun#1743379200</id>
+    <title>https://github.com/ninenines/gun</title>
+    <link href="https://github.com/ninenines/gun" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">HTTP/1.1, HTTP/2, Websocket client (and more) for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/ranch#1743379200</id>
+    <title>https://github.com/ninenines/ranch</title>
+    <link href="https://github.com/ninenines/ranch" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Socket acceptor pool for TCP protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/potatosalad/erlang-jose#1743379200</id>
+    <title>https://github.com/potatosalad/erlang-jose</title>
+    <link href="https://github.com/potatosalad/erlang-jose" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">JSON Object Signing and Encryption (JOSE) for Erlang and Elixir</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustyio/sync#1743379200</id>
+    <title>https://github.com/rustyio/sync</title>
+    <link href="https://github.com/rustyio/sync" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">On-the-fly recompiling and reloading in Erlang. Code without friction.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/willemdj/erlsom#1743379200</id>
+    <title>https://github.com/willemdj/erlsom</title>
+    <link href="https://github.com/willemdj/erlsom" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">XML parser for Erlang</content>
+  </entry>
+</feed>

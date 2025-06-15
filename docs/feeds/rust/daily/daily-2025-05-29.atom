@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Lagrange-Labs/deep-prove#1748476800</id>
+    <title>https://github.com/Lagrange-Labs/deep-prove</title>
+    <link href="https://github.com/Lagrange-Labs/deep-prove" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Framework to prove inference of ML models blazingly fast</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antinomyhq/forge#1748476800</id>
+    <title>https://github.com/antinomyhq/forge</title>
+    <link href="https://github.com/antinomyhq/forge" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aptos-labs/aptos-core#1748476800</id>
+    <title>https://github.com/aptos-labs/aptos-core</title>
+    <link href="https://github.com/aptos-labs/aptos-core" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atuinsh/atuin#1748476800</id>
+    <title>https://github.com/atuinsh/atuin</title>
+    <link href="https://github.com/atuinsh/atuin" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">✨ Magical shell history</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1748476800</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1748476800</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-rs#1748476800</id>
+    <title>https://github.com/delta-io/delta-rs</title>
+    <link href="https://github.com/delta-io/delta-rs" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">A native Rust library for Delta Lake, with bindings into Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1748476800</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-convex/convex-backend#1748476800</id>
+    <title>https://github.com/get-convex/convex-backend</title>
+    <link href="https://github.com/get-convex/convex-backend" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">The open-source reactive database for app developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/candle#1748476800</id>
+    <title>https://github.com/huggingface/candle</title>
+    <link href="https://github.com/huggingface/candle" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Minimalist ML framework for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1748476800</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1748476800</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1748476800</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1748476800</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1748476800</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1748476800</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seanmonstar/reqwest#1748476800</id>
+    <title>https://github.com/seanmonstar/reqwest</title>
+    <link href="https://github.com/seanmonstar/reqwest" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">An easy and powerful Rust HTTP Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/stalwart#1748476800</id>
+    <title>https://github.com/stalwartlabs/stalwart</title>
+    <link href="https://github.com/stalwartlabs/stalwart" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1748476800</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tikv/tikv#1748476800</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1748476800</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1748476800</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1748476800</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

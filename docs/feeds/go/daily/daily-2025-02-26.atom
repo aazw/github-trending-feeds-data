@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DiceDB/dice#1740528000</id>
+    <title>https://github.com/DiceDB/dice</title>
+    <link href="https://github.com/DiceDB/dice" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">DiceDB is an open-source in-memory reactive database with query subscriptions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Project-HAMi/HAMi#1740528000</id>
+    <title>https://github.com/Project-HAMi/HAMi</title>
+    <link href="https://github.com/Project-HAMi/HAMi" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Heterogeneous AI Computing Virtualization Middleware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1740528000</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-workflows#1740528000</id>
+    <title>https://github.com/argoproj/argo-workflows</title>
+    <link href="https://github.com/argoproj/argo-workflows" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Workflow Engine for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1740528000</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cosmos/cosmos-sdk#1740528000</id>
+    <title>https://github.com/cosmos/cosmos-sdk</title>
+    <link href="https://github.com/cosmos/cosmos-sdk" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">⛓️ A Framework for Building High Value Public Blockchains ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/optimism#1740528000</id>
+    <title>https://github.com/ethereum-optimism/optimism</title>
+    <link href="https://github.com/ethereum-optimism/optimism" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Optimism is Ethereum, scaled.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1740528000</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-migrate/migrate#1740528000</id>
+    <title>https://github.com/golang-migrate/migrate</title>
+    <link href="https://github.com/golang-migrate/migrate" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Database migrations. CLI and Golang library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1740528000</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1740528000</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1740528000</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1740528000</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1740528000</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livekit/livekit#1740528000</id>
+    <title>https://github.com/livekit/livekit</title>
+    <link href="https://github.com/livekit/livekit" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">End-to-end stack for WebRTC. SFU media server and SDKs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/devpod#1740528000</id>
+    <title>https://github.com/loft-sh/devpod</title>
+    <link href="https://github.com/loft-sh/devpod" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/vcluster#1740528000</id>
+    <title>https://github.com/loft-sh/vcluster</title>
+    <link href="https://github.com/loft-sh/vcluster" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metallb/metallb#1740528000</id>
+    <title>https://github.com/metallb/metallb</title>
+    <link href="https://github.com/metallb/metallb" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">A network load-balancer implementation for Kubernetes using standard routing protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1740528000</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/buildkit#1740528000</id>
+    <title>https://github.com/moby/buildkit</title>
+    <link href="https://github.com/moby/buildkit" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oauth2-proxy/oauth2-proxy#1740528000</id>
+    <title>https://github.com/oauth2-proxy/oauth2-proxy</title>
+    <link href="https://github.com/oauth2-proxy/oauth2-proxy" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/smallstep/certificates#1740528000</id>
+    <title>https://github.com/smallstep/certificates</title>
+    <link href="https://github.com/smallstep/certificates" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">🛡️ A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/viper#1740528000</id>
+    <title>https://github.com/spf13/viper</title>
+    <link href="https://github.com/spf13/viper" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Go configuration with fangs</content>
+  </entry>
+</feed>

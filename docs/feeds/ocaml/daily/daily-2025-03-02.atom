@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom</id>
+  <title>GitHub Trending - ocaml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/astrada/google-drive-ocamlfuse#1740873600</id>
+    <title>https://github.com/astrada/google-drive-ocamlfuse</title>
+    <link href="https://github.com/astrada/google-drive-ocamlfuse" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">FUSE filesystem over Google Drive</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/s2n-bignum#1740873600</id>
+    <title>https://github.com/awslabs/s2n-bignum</title>
+    <link href="https://github.com/awslabs/s2n-bignum" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/coq/coq#1740873600</id>
+    <title>https://github.com/coq/coq</title>
+    <link href="https://github.com/coq/coq" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/o1-labs/snarky#1740873600</id>
+    <title>https://github.com/o1-labs/snarky</title>
+    <link href="https://github.com/o1-labs/snarky" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">OCaml DSL for verifiable computation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocaml/opam#1740873600</id>
+    <title>https://github.com/ocaml/opam</title>
+    <link href="https://github.com/ocaml/opam" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.</content>
+  </entry>
+</feed>

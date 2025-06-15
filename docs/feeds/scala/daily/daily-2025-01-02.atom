@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-02T11:26:00+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ucb-bar/riscv-torture#1735817160</id>
+    <title>https://github.com/ucb-bar/riscv-torture</title>
+    <link href="https://github.com/ucb-bar/riscv-torture" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">RISC-V Torture Test</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scalameta/scalafmt#1735817160</id>
+    <title>https://github.com/scalameta/scalafmt</title>
+    <link href="https://github.com/scalameta/scalafmt" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Code formatter for Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1735817160</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/chisel-template#1735817160</id>
+    <title>https://github.com/chipsalliance/chisel-template</title>
+    <link href="https://github.com/chipsalliance/chisel-template" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">A template project for beginning new Chisel work</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scalacenter/scalafix#1735817160</id>
+    <title>https://github.com/scalacenter/scalafix</title>
+    <link href="https://github.com/scalacenter/scalafix" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Refactoring and linting tool for Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitcoin-s/bitcoin-s#1735817160</id>
+    <title>https://github.com/bitcoin-s/bitcoin-s</title>
+    <link href="https://github.com/bitcoin-s/bitcoin-s" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Bitcoin Implementation in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databrickslabs/remorph#1735817160</id>
+    <title>https://github.com/databrickslabs/remorph</title>
+    <link href="https://github.com/databrickslabs/remorph" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Accelerates migrations to Databricks by automating code conversion and migration validation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/enso-org/enso#1735817160</id>
+    <title>https://github.com/enso-org/enso</title>
+    <link href="https://github.com/enso-org/enso" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Enso Analytics is a self-service data prep and analysis platform designed for data teams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rtyley/bfg-repo-cleaner#1735817160</id>
+    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
+    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akka/akka#1735817160</id>
+    <title>https://github.com/akka/akka</title>
+    <link href="https://github.com/akka/akka" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1735817160</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheHive-Project/TheHive#1735817160</id>
+    <title>https://github.com/TheHive-Project/TheHive</title>
+    <link href="https://github.com/TheHive-Project/TheHive" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">TheHive: a Scalable, Open Source and Free Security Incident Response Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1735817160</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1735817160</id>
+    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
+    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Spark: The Definitive Guide's Code Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1735817160</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/cromwell#1735817160</id>
+    <title>https://github.com/broadinstitute/cromwell</title>
+    <link href="https://github.com/broadinstitute/cromwell" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Scientific workflow engine designed for simplicity &amp; scalability. Trivially transition between one off use cases to massive scale production environments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/digital-asset/daml#1735817160</id>
+    <title>https://github.com/digital-asset/daml</title>
+    <link href="https://github.com/digital-asset/daml" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">The Daml smart contract language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-livy#1735817160</id>
+    <title>https://github.com/apache/incubator-livy</title>
+    <link href="https://github.com/apache/incubator-livy" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wvlet/wvlet#1735817160</id>
+    <title>https://github.com/wvlet/wvlet</title>
+    <link href="https://github.com/wvlet/wvlet" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">A flow-style query language for SQL engines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbt/sbt#1735817160</id>
+    <title>https://github.com/sbt/sbt</title>
+    <link href="https://github.com/sbt/sbt" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">sbt, the interactive build tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenXiangShan/XiangShan#1735817160</id>
+    <title>https://github.com/OpenXiangShan/XiangShan</title>
+    <link href="https://github.com/OpenXiangShan/XiangShan" />
+    <updated>2025-01-02T11:26:00+00:00</updated>
+    <content type="text">Open-source high-performance RISC-V processor</content>
+  </entry>
+</feed>

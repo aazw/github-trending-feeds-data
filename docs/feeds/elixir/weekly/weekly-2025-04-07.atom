@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/weekly.atom</id>
+  <title>GitHub Trending - elixir (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/anoma/anoma#1743984000</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitwalker/timex#1743984000</id>
+    <title>https://github.com/bitwalker/timex</title>
+    <link href="https://github.com/bitwalker/timex" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">A complete date/time library for Elixir projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1743984000</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluzky/salad_ui#1743984000</id>
+    <title>https://github.com/bluzky/salad_ui</title>
+    <link href="https://github.com/bluzky/salad_ui" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Phoenix Liveview component library inspired by shadcn UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brainlid/langchain#1743984000</id>
+    <title>https://github.com/brainlid/langchain</title>
+    <link href="https://github.com/brainlid/langchain" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1743984000</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Real-time sync for Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-ecto/ecto#1743984000</id>
+    <title>https://github.com/elixir-ecto/ecto</title>
+    <link href="https://github.com/elixir-ecto/ecto" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">A toolkit for data mapping and language integrated query.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-ecto/ecto_sql#1743984000</id>
+    <title>https://github.com/elixir-ecto/ecto_sql</title>
+    <link href="https://github.com/elixir-ecto/ecto_sql" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">SQL-based adapters for Ecto and database migrations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1743984000</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-protobuf/protobuf#1743984000</id>
+    <title>https://github.com/elixir-protobuf/protobuf</title>
+    <link href="https://github.com/elixir-protobuf/protobuf" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">A pure Elixir implementation of Google Protobuf.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1743984000</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/liveview-native/live_view_native#1743984000</id>
+    <title>https://github.com/liveview-native/live_view_native</title>
+    <link href="https://github.com/liveview-native/live_view_native" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">A framework for building native applications with Phoenix LiveView</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1743984000</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1743984000</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1743984000</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sequinstream/sequin#1743984000</id>
+    <title>https://github.com/sequinstream/sequin</title>
+    <link href="https://github.com/sequinstream/sequin" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Postgres change data capture to streams and queues like Kafka, SQS, HTTP endpoints, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1743984000</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1743984000</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-04-07T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘</content>
+  </entry>
+</feed>

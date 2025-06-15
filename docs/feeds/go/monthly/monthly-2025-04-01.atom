@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/monthly.atom</id>
+  <title>GitHub Trending - go (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DiceDB/dice#1743465600</id>
+    <title>https://github.com/DiceDB/dice</title>
+    <link href="https://github.com/DiceDB/dice" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/higress#1743465600</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cgzirim/seek-tune#1743465600</id>
+    <title>https://github.com/cgzirim/seek-tune</title>
+    <link href="https://github.com/cgzirim/seek-tune" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An implementation of Shazam's song recognition algorithm.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1743465600</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flipped-aurora/gin-vue-admin#1743465600</id>
+    <title>https://github.com/flipped-aurora/gin-vue-admin</title>
+    <link href="https://github.com/flipped-aurora/gin-vue-admin" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glanceapp/glance#1743465600</id>
+    <title>https://github.com/glanceapp/glance</title>
+    <link href="https://github.com/glanceapp/glance" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A self-hosted dashboard that puts all your feeds in one place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-kratos/kratos#1743465600</id>
+    <title>https://github.com/go-kratos/kratos</title>
+    <link href="https://github.com/go-kratos/kratos" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Your ultimate Go microservices framework for the cloud-native era.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gofiber/fiber#1743465600</id>
+    <title>https://github.com/gofiber/fiber</title>
+    <link href="https://github.com/gofiber/fiber" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">⚡️ Express inspired web framework written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gogf/gf#1743465600</id>
+    <title>https://github.com/gogf/gf</title>
+    <link href="https://github.com/gogf/gf" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A powerful framework for faster, easier, and more efficient project development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1743465600</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1743465600</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1743465600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1743465600</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1743465600</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-sandbox#1743465600</id>
+    <title>https://github.com/langgenius/dify-sandbox</title>
+    <link href="https://github.com/langgenius/dify-sandbox" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A lightweight, fast, and secure code execution environment that supports multiple programming languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1743465600</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/navidrome/navidrome#1743465600</id>
+    <title>https://github.com/navidrome/navidrome</title>
+    <link href="https://github.com/navidrome/navidrome" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🎧☁️ Your Personal Streaming Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1743465600</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/viper#1743465600</id>
+    <title>https://github.com/spf13/viper</title>
+    <link href="https://github.com/spf13/viper" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Go configuration with fangs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1743465600</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tulir/whatsmeow#1743465600</id>
+    <title>https://github.com/tulir/whatsmeow</title>
+    <link href="https://github.com/tulir/whatsmeow" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">Go library for the WhatsApp web multidevice API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1743465600</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1743465600</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+</feed>

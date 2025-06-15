@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1742515200</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/VictoriaMetrics#1742515200</id>
+    <title>https://github.com/VictoriaMetrics/VictoriaMetrics</title>
+    <link href="https://github.com/VictoriaMetrics/VictoriaMetrics" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">VictoriaMetrics: fast, cost-effective monitoring solution and time series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/cloudnative-pg#1742515200</id>
+    <title>https://github.com/cloudnative-pg/cloudnative-pg</title>
+    <link href="https://github.com/cloudnative-pg/cloudnative-pg" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/hertz#1742515200</id>
+    <title>https://github.com/cloudwego/hertz</title>
+    <link href="https://github.com/cloudwego/hertz" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Go HTTP framework with high-performance and strong-extensibility for building micro-services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1742515200</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coreybutler/nvm-windows#1742515200</id>
+    <title>https://github.com/coreybutler/nvm-windows</title>
+    <link href="https://github.com/coreybutler/nvm-windows" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">A node.js version management utility for Windows. Ironically written in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-resty/resty#1742515200</id>
+    <title>https://github.com/go-resty/resty</title>
+    <link href="https://github.com/go-resty/resty" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Simple HTTP, REST, and SSE client library for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/osv-scanner#1742515200</id>
+    <title>https://github.com/google/osv-scanner</title>
+    <link href="https://github.com/google/osv-scanner" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Vulnerability scanner written in Go which uses the data provided by https://osv.dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/nomad#1742515200</id>
+    <title>https://github.com/hashicorp/nomad</title>
+    <link href="https://github.com/hashicorp/nomad" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1742515200</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1742515200</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubevirt/kubevirt#1742515200</id>
+    <title>https://github.com/kubevirt/kubevirt</title>
+    <link href="https://github.com/kubevirt/kubevirt" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Kubernetes Virtualization API and runtime in order to define and manage virtual machines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1742515200</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1742515200</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1742515200</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1742515200</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbao/openbao#1742515200</id>
+    <title>https://github.com/openbao/openbao</title>
+    <link href="https://github.com/openbao/openbao" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">OpenBao exists to provide a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulumi/pulumi-aws#1742515200</id>
+    <title>https://github.com/pulumi/pulumi-aws</title>
+    <link href="https://github.com/pulumi/pulumi-aws" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">An Amazon Web Services (AWS) Pulumi resource package, providing multi-language access to AWS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/go-redis#1742515200</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Redis Go client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rs/zerolog#1742515200</id>
+    <title>https://github.com/rs/zerolog</title>
+    <link href="https://github.com/rs/zerolog" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Zero Allocation JSON Logger</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shirou/gopsutil#1742515200</id>
+    <title>https://github.com/shirou/gopsutil</title>
+    <link href="https://github.com/shirou/gopsutil" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">psutil for golang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sinclairtarget/git-who#1742515200</id>
+    <title>https://github.com/sinclairtarget/git-who</title>
+    <link href="https://github.com/sinclairtarget/git-who" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Git blame for file trees</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidwall/gjson#1742515200</id>
+    <title>https://github.com/tidwall/gjson</title>
+    <link href="https://github.com/tidwall/gjson" />
+    <updated>2025-03-21T00:00:00</updated>
+    <content type="text">Get JSON values quickly - JSON parser for Go</content>
+  </entry>
+</feed>

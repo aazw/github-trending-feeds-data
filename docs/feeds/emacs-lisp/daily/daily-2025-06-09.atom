@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Alexander-Miller/treemacs#1749427200</id>
+    <title>https://github.com/Alexander-Miller/treemacs</title>
+    <link href="https://github.com/Alexander-Miller/treemacs" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Fuco1/dired-hacks#1749427200</id>
+    <title>https://github.com/Fuco1/dired-hacks</title>
+    <link href="https://github.com/Fuco1/dired-hacks" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Collection of useful dired additions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/elisp-refs#1749427200</id>
+    <title>https://github.com/Wilfred/elisp-refs</title>
+    <link href="https://github.com/Wilfred/elisp-refs" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">semantic code search for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/helpful#1749427200</id>
+    <title>https://github.com/Wilfred/helpful</title>
+    <link href="https://github.com/Wilfred/helpful" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A better Emacs *help* buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dgutov/diff-hl#1749427200</id>
+    <title>https://github.com/dgutov/diff-hl</title>
+    <link href="https://github.com/dgutov/diff-hl" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Emacs package for highlighting uncommitted changes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1749427200</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil-collection#1749427200</id>
+    <title>https://github.com/emacs-evil/evil-collection</title>
+    <link href="https://github.com/emacs-evil/evil-collection" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A set of keybindings for evil-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1749427200</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-php/php-mode#1749427200</id>
+    <title>https://github.com/emacs-php/php-mode</title>
+    <link href="https://github.com/emacs-php/php-mode" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A powerful and flexible Emacs major mode for editing PHP scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fxbois/web-mode#1749427200</id>
+    <title>https://github.com/fxbois/web-mode</title>
+    <link href="https://github.com/fxbois/web-mode" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">web template editing mode for emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1749427200</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kiwanami/emacs-deferred#1749427200</id>
+    <title>https://github.com/kiwanami/emacs-deferred</title>
+    <link href="https://github.com/kiwanami/emacs-deferred" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Simple asynchronous functions for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/transient#1749427200</id>
+    <title>https://github.com/magit/transient</title>
+    <link href="https://github.com/magit/transient" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Transient commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhayashi1120/Emacs-wgrep#1749427200</id>
+    <title>https://github.com/mhayashi1120/Emacs-wgrep</title>
+    <link href="https://github.com/mhayashi1120/Emacs-wgrep" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Writable grep buffer and apply the changes to files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/org-roam/org-roam#1749427200</id>
+    <title>https://github.com/org-roam/org-roam</title>
+    <link href="https://github.com/org-roam/org-roam" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Rudimentary Roam replica with Org-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/polymode/polymode#1749427200</id>
+    <title>https://github.com/polymode/polymode</title>
+    <link href="https://github.com/polymode/polymode" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Framework for Multiple Major Modes in Emacs (core library)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1749427200</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/exec-path-from-shell#1749427200</id>
+    <title>https://github.com/purcell/exec-path-from-shell</title>
+    <link href="https://github.com/purcell/exec-path-from-shell" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Make Emacs use the $PATH set up by the user's shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons-completion#1749427200</id>
+    <title>https://github.com/rainstormstudio/nerd-icons-completion</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons-completion" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons.el#1749427200</id>
+    <title>https://github.com/rainstormstudio/nerd-icons.el</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons.el" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/seagle0128/doom-modeline#1749427200</id>
+    <title>https://github.com/seagle0128/doom-modeline</title>
+    <link href="https://github.com/seagle0128/doom-modeline" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A fancy and fast mode-line inspired by minimalism design.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tkf/emacs-request#1749427200</id>
+    <title>https://github.com/tkf/emacs-request</title>
+    <link href="https://github.com/tkf/emacs-request" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Request.el -- Easy HTTP request for Emacs Lisp</content>
+  </entry>
+</feed>

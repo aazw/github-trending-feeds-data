@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Trending - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/amix/vimrc#1737936000</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1737936000</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kien/ctrlp.vim#1737936000</id>
+    <title>https://github.com/kien/ctrlp.vim</title>
+    <link href="https://github.com/kien/ctrlp.vim" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Fuzzy file, buffer, mru, tag, etc finder.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1737936000</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1737936000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1737936000</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fireplace#1737936000</id>
+    <title>https://github.com/tpope/vim-fireplace</title>
+    <link href="https://github.com/tpope/vim-fireplace" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">fireplace.vim: Clojure REPL support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1737936000</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rhubarb#1737936000</id>
+    <title>https://github.com/tpope/vim-rhubarb</title>
+    <link href="https://github.com/tpope/vim-rhubarb" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">rhubarb.vim: GitHub extension for fugitive.vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unblevable/quick-scope#1737936000</id>
+    <title>https://github.com/unblevable/quick-scope</title>
+    <link href="https://github.com/unblevable/quick-scope" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Lightning fast left-right movement in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1737936000</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+</feed>

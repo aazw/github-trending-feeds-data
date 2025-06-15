@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom</id>
+  <title>GitHub Trending - go (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1739145600</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1739145600</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1739145600</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1739145600</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1739145600</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/avelino/awesome-go#1739145600</id>
+    <title>https://github.com/avelino/awesome-go</title>
+    <link href="https://github.com/avelino/awesome-go" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A curated list of awesome Go frameworks, libraries and software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1739145600</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/berachain/beacon-kit#1739145600</id>
+    <title>https://github.com/berachain/beacon-kit</title>
+    <link href="https://github.com/berachain/beacon-kit" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A modular framework for building EVM consensus clients ⛵️✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/terraform-provider-cloudflare#1739145600</id>
+    <title>https://github.com/cloudflare/terraform-provider-cloudflare</title>
+    <link href="https://github.com/cloudflare/terraform-provider-cloudflare" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Cloudflare Terraform Provider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dlvhdr/gh-dash#1739145600</id>
+    <title>https://github.com/dlvhdr/gh-dash</title>
+    <link href="https://github.com/dlvhdr/gh-dash" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A beautiful CLI dashboard for GitHub 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evcc-io/evcc#1739145600</id>
+    <title>https://github.com/evcc-io/evcc</title>
+    <link href="https://github.com/evcc-io/evcc" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Solar Charging ☀️🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1739145600</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/nomad#1739145600</id>
+    <title>https://github.com/hashicorp/nomad</title>
+    <link href="https://github.com/hashicorp/nomad" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/istio/istio#1739145600</id>
+    <title>https://github.com/istio/istio</title>
+    <link href="https://github.com/istio/istio" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Connect, secure, control, and observe services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1739145600</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1739145600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1739145600</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ray-project/kuberay#1739145600</id>
+    <title>https://github.com/ray-project/kuberay</title>
+    <link href="https://github.com/ray-project/kuberay" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A toolkit to run Ray applications on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semaphoreui/semaphore#1739145600</id>
+    <title>https://github.com/semaphoreui/semaphore</title>
+    <link href="https://github.com/semaphoreui/semaphore" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmc/langchaingo#1739145600</id>
+    <title>https://github.com/tmc/langchaingo</title>
+    <link href="https://github.com/tmc/langchaingo" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">LangChain for Go, the easiest way to write LLM-based programs in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trustwallet/assets#1739145600</id>
+    <title>https://github.com/trustwallet/assets</title>
+    <link href="https://github.com/trustwallet/assets" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volcano-sh/volcano#1739145600</id>
+    <title>https://github.com/volcano-sh/volcano</title>
+    <link href="https://github.com/volcano-sh/volcano" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A Cloud Native Batch System (Project under CNCF)</content>
+  </entry>
+</feed>

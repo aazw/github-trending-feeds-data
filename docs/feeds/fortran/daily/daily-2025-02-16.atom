@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom</id>
+  <title>GitHub Trending - fortran (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-16T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Goddard-Fortran-Ecosystem/fArgParse#1739664000</id>
+    <title>https://github.com/Goddard-Fortran-Ecosystem/fArgParse</title>
+    <link href="https://github.com/Goddard-Fortran-Ecosystem/fArgParse" />
+    <updated>2025-02-16T00:00:00</updated>
+    <content type="text">Command line argument parsing for Fortran</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MCSclimate/MCT#1739664000</id>
+    <title>https://github.com/MCSclimate/MCT</title>
+    <link href="https://github.com/MCSclimate/MCT" />
+    <updated>2025-02-16T00:00:00</updated>
+    <content type="text">Model Coupling Tookit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NGEET/fates#1739664000</id>
+    <title>https://github.com/NGEET/fates</title>
+    <link href="https://github.com/NGEET/fates" />
+    <updated>2025-02-16T00:00:00</updated>
+    <content type="text">repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Unidata/netcdf-fortran#1739664000</id>
+    <title>https://github.com/Unidata/netcdf-fortran</title>
+    <link href="https://github.com/Unidata/netcdf-fortran" />
+    <updated>2025-02-16T00:00:00</updated>
+    <content type="text">Official GitHub repository for netCDF-Fortran libraries, which depend on the netCDF C library. Install the netCDF C library first.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esmf-org/esmf#1739664000</id>
+    <title>https://github.com/esmf-org/esmf</title>
+    <link href="https://github.com/esmf-org/esmf" />
+    <updated>2025-02-16T00:00:00</updated>
+    <content type="text">The Earth System Modeling Framework (ESMF) is a suite of software tools for developing high-performance, multi-component Earth science modeling applications.</content>
+  </entry>
+</feed>

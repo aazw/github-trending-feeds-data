@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1743120000</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EFForg/rayhunter#1743120000</id>
+    <title>https://github.com/EFForg/rayhunter</title>
+    <link href="https://github.com/EFForg/rayhunter" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Rust tool to detect cell site simulators on an orbic mobile hotspot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MaterializeInc/materialize#1743120000</id>
+    <title>https://github.com/MaterializeInc/materialize</title>
+    <link href="https://github.com/MaterializeInc/materialize" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Real-time Data Integration and Transformation: use SQL to transform, deliver, and act on fast-changing data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1743120000</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-q-developer-cli#1743120000</id>
+    <title>https://github.com/aws/amazon-q-developer-cli</title>
+    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">✨ Add autocomplete and AI to your existing terminal on macOS &amp; Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/block/goose#1743120000</id>
+    <title>https://github.com/block/goose</title>
+    <link href="https://github.com/block/goose" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1743120000</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1743120000</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperlight-dev/hyperlight#1743120000</id>
+    <title>https://github.com/hyperlight-dev/hyperlight</title>
+    <link href="https://github.com/hyperlight-dev/hyperlight" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Hyperlight is a lightweight Virtual Machine Manager (VMM) designed to be embedded within applications. It enables safe execution of untrusted code within micro virtual machines with very low latency and minimal overhead.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1743120000</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juhaku/utoipa#1743120000</id>
+    <title>https://github.com/juhaku/utoipa</title>
+    <link href="https://github.com/juhaku/utoipa" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1743120000</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kata-containers/kata-containers#1743120000</id>
+    <title>https://github.com/kata-containers/kata-containers</title>
+    <link href="https://github.com/kata-containers/kata-containers" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/medialab/xan#1743120000</id>
+    <title>https://github.com/medialab/xan</title>
+    <link href="https://github.com/medialab/xan" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The CSV magician</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mullvad/mullvadvpn-app#1743120000</id>
+    <title>https://github.com/mullvad/mullvadvpn-app</title>
+    <link href="https://github.com/mullvad/mullvadvpn-app" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The Mullvad VPN client app for desktop and mobile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1743120000</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1743120000</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1743120000</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk-server#1743120000</id>
+    <title>https://github.com/rustdesk/rustdesk-server</title>
+    <link href="https://github.com/rustdesk/rustdesk-server" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">RustDesk Server Program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/signalapp/libsignal#1743120000</id>
+    <title>https://github.com/signalapp/libsignal</title>
+    <link href="https://github.com/signalapp/libsignal" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Home to the Signal Protocol as well as other cryptographic primitives which make Signal possible.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/tauri#1743120000</id>
+    <title>https://github.com/tauri-apps/tauri</title>
+    <link href="https://github.com/tauri-apps/tauri" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1743120000</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/rspack#1743120000</id>
+    <title>https://github.com/web-infra-dev/rspack</title>
+    <link href="https://github.com/web-infra-dev/rspack" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The fast Rust-based web bundler with webpack-compatible API 🦀️</content>
+  </entry>
+</feed>

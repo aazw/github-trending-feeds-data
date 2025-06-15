@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk-for-go#1738713600</id>
+    <title>https://github.com/Azure/azure-sdk-for-go</title>
+    <link href="https://github.com/Azure/azure-sdk-for-go" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">This repository is for active development of the Azure SDK for Go. For consumers of the SDK we recommend visiting our public developer docs at:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1738713600</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1738713600</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core, with XTLS support. Fully compatible configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1738713600</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/asdf-vm/asdf#1738713600</id>
+    <title>https://github.com/asdf-vm/asdf</title>
+    <link href="https://github.com/asdf-vm/asdf" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Extendable version manager with support for Ruby, Node.js, Elixir, Erlang &amp; more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1738713600</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbletea#1738713600</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A powerful little TUI framework 🏗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1738713600</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containrrr/watchtower#1738713600</id>
+    <title>https://github.com/containrrr/watchtower</title>
+    <link href="https://github.com/containrrr/watchtower" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A process for automating Docker container base image updates.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/compose#1738713600</id>
+    <title>https://github.com/docker/compose</title>
+    <link href="https://github.com/docker/compose" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Define and run multi-container applications with Docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1738713600</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorilla/websocket#1738713600</id>
+    <title>https://github.com/gorilla/websocket</title>
+    <link href="https://github.com/gorilla/websocket" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Package gorilla/websocket is a fast, well-tested and widely used WebSocket implementation for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1738713600</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/istio/istio#1738713600</id>
+    <title>https://github.com/istio/istio</title>
+    <link href="https://github.com/istio/istio" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Connect, secure, control, and observe services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/client-go#1738713600</id>
+    <title>https://github.com/kubernetes/client-go</title>
+    <link href="https://github.com/kubernetes/client-go" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Go client for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1738713600</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/monasticacademy/httptap#1738713600</id>
+    <title>https://github.com/monasticacademy/httptap</title>
+    <link href="https://github.com/monasticacademy/httptap" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">View HTTP/HTTPS requests made by any Linux program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pressly/goose#1738713600</id>
+    <title>https://github.com/pressly/goose</title>
+    <link href="https://github.com/pressly/goose" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A database migration tool. Supports SQL migrations and Go functions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/client_golang#1738713600</id>
+    <title>https://github.com/prometheus/client_golang</title>
+    <link href="https://github.com/prometheus/client_golang" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Prometheus instrumentation library for Go applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1738713600</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1738713600</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1738713600</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sysadminsmedia/homebox#1738713600</id>
+    <title>https://github.com/sysadminsmedia/homebox</title>
+    <link href="https://github.com/sysadminsmedia/homebox" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A continuation of HomeBox the inventory and organization system built for the Home User</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik#1738713600</id>
+    <title>https://github.com/traefik/traefik</title>
+    <link href="https://github.com/traefik/traefik" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">The Cloud Native Application Proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1738713600</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+</feed>

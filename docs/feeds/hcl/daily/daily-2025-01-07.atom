@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-07T11:14:55+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-project-factory#1736248495</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-project-factory</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-project-factory" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-backup#1736248495</id>
+    <title>https://github.com/cloudposse/terraform-aws-backup</title>
+    <link href="https://github.com/cloudposse/terraform-aws-backup" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Terraform module to provision AWS Backup, a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services such as EBS volumes, RDS databases, DynamoDB tables, EFS file systems, and AWS Storage Gateway volumes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ecs-container-definition#1736248495</id>
+    <title>https://github.com/cloudposse/terraform-aws-ecs-container-definition</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-container-definition" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-container-vm#1736248495</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-container-vm</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-container-vm" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Deploys containers on Compute Engine instances</content>
+  </entry>
+  <entry>
+    <id>https://github.com/techiescamp/devops-projects#1736248495</id>
+    <title>https://github.com/techiescamp/devops-projects</title>
+    <link href="https://github.com/techiescamp/devops-projects" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1736248495</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/100daysofdevops/100daysofdevops#1736248495</id>
+    <title>https://github.com/100daysofdevops/100daysofdevops</title>
+    <link href="https://github.com/100daysofdevops/100daysofdevops" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1736248495</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-lambda#1736248495</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-lambda</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine#1736248495</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Configures opinionated GKE clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora#1736248495</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds-aurora" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Terraform module to create AWS RDS Aurora resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1736248495</id>
+    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-vpc#1736248495</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-vpc</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-vpc" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Terraform module to create AWS VPC resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1736248495</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2025-01-07T11:14:55+00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+</feed>

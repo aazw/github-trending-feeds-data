@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BurntSushi/ripgrep#1747094400</id>
+    <title>https://github.com/BurntSushi/ripgrep</title>
+    <link href="https://github.com/BurntSushi/ripgrep" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EasyTier/EasyTier#1747094400</id>
+    <title>https://github.com/EasyTier/EasyTier</title>
+    <link href="https://github.com/EasyTier/EasyTier" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">A simple, decentralized mesh VPN with WireGuard support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actix/actix-web#1747094400</id>
+    <title>https://github.com/actix/actix-web</title>
+    <link href="https://github.com/actix/actix-web" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bee-san/RustScan#1747094400</id>
+    <title>https://github.com/bee-san/RustScan</title>
+    <link href="https://github.com/bee-san/RustScan" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">🤖 The Modern Port Scanner 🤖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1747094400</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emilk/egui#1747094400</id>
+    <title>https://github.com/emilk/egui</title>
+    <link href="https://github.com/emilk/egui" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1747094400</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1747094400</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdx/mise#1747094400</id>
+    <title>https://github.com/jdx/mise</title>
+    <link href="https://github.com/jdx/mise" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">dev tools, env vars, task runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lance#1747094400</id>
+    <title>https://github.com/lancedb/lance</title>
+    <link href="https://github.com/lancedb/lance" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxc-project/oxc#1747094400</id>
+    <title>https://github.com/oxc-project/oxc</title>
+    <link href="https://github.com/oxc-project/oxc" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">⚓ A collection of JavaScript tools written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plabayo/rama#1747094400</id>
+    <title>https://github.com/plabayo/rama</title>
+    <link href="https://github.com/plabayo/rama" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">modular service framework to move and transform network packets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1747094400</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1747094400</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1747094400</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/tauri#1747094400</id>
+    <title>https://github.com/tauri-apps/tauri</title>
+    <link href="https://github.com/tauri-apps/tauri" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1747094400</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tikv/tikv#1747094400</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1747094400</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1747094400</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/rspack#1747094400</id>
+    <title>https://github.com/web-infra-dev/rspack</title>
+    <link href="https://github.com/web-infra-dev/rspack" />
+    <updated>2025-05-13T00:00:00</updated>
+    <content type="text">The fast Rust-based web bundler with webpack-compatible API 🦀️</content>
+  </entry>
+</feed>

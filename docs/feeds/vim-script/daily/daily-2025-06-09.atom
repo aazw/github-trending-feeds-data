@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/amix/vimrc#1749427200</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1749427200</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1749427200</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gelguy/wilder.nvim#1749427200</id>
+    <title>https://github.com/gelguy/wilder.nvim</title>
+    <link href="https://github.com/gelguy/wilder.nvim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A more adventurous wildmenu</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jiangmiao/auto-pairs#1749427200</id>
+    <title>https://github.com/jiangmiao/auto-pairs</title>
+    <link href="https://github.com/jiangmiao/auto-pairs" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Vim plugin, insert or delete brackets, parens, quotes in pair</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vader.vim#1749427200</id>
+    <title>https://github.com/junegunn/vader.vim</title>
+    <link href="https://github.com/junegunn/vader.vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A simple Vimscript test framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1749427200</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keith/swift.vim#1749427200</id>
+    <title>https://github.com/keith/swift.vim</title>
+    <link href="https://github.com/keith/swift.vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Vim runtime files for Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mattn/vim-gist#1749427200</id>
+    <title>https://github.com/mattn/vim-gist</title>
+    <link href="https://github.com/mattn/vim-gist" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Vim plugin for Gist</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moll/vim-bbye#1749427200</id>
+    <title>https://github.com/moll/vim-bbye</title>
+    <link href="https://github.com/moll/vim-bbye" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1749427200</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdcommenter#1749427200</id>
+    <title>https://github.com/preservim/nerdcommenter</title>
+    <link href="https://github.com/preservim/nerdcommenter" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Vim plugin for intensely nerdy commenting powers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prettier/vim-prettier#1749427200</id>
+    <title>https://github.com/prettier/vim-prettier</title>
+    <link href="https://github.com/prettier/vim-prettier" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A Vim plugin for Prettier</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust.vim#1749427200</id>
+    <title>https://github.com/rust-lang/rust.vim</title>
+    <link href="https://github.com/rust-lang/rust.vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Vim configuration for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1749427200</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1749427200</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbdchd/neoformat#1749427200</id>
+    <title>https://github.com/sbdchd/neoformat</title>
+    <link href="https://github.com/sbdchd/neoformat" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">✨ A (Neo)vim plugin for formatting code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1749427200</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1749427200</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/javascript/daily.atom</id>
+  <title>GitHub Trending - javascript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/javascript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/501351981/vue-office#1743465600</id>
+    <title>https://github.com/501351981/vue-office</title>
+    <link href="https://github.com/501351981/vue-office" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">支持word(.docx)、excel(.xlsx,.xls)、pdf、pptx等各类型office文件预览的vue组件集合，提供一站式office文件预览方案，支持vue2和3，也支持React等非Vue框架。Web-based pdf, excel, word, pptx preview library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HeyPuter/puter#1743465600</id>
+    <title>https://github.com/HeyPuter/puter</title>
+    <link href="https://github.com/HeyPuter/puter" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">🌐 The Internet OS! Free, Open-Source, and Self-Hostable.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NaiboWang/EasySpider#1743465600</id>
+    <title>https://github.com/NaiboWang/EasySpider</title>
+    <link href="https://github.com/NaiboWang/EasySpider" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/devlikeapro/waha#1743465600</id>
+    <title>https://github.com/devlikeapro/waha</title>
+    <link href="https://github.com/devlikeapro/waha" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">WAHA - WhatsApp HTTP API (REST API) that you can configure in a click! 3 engines: WEBJS (browser based), NOWEB (websocket nodejs), GOWS (websocket go)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/f/awesome-chatgpt-prompts#1743465600</id>
+    <title>https://github.com/f/awesome-chatgpt-prompts</title>
+    <link href="https://github.com/f/awesome-chatgpt-prompts" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/transformers.js#1743465600</id>
+    <title>https://github.com/huggingface/transformers.js</title>
+    <link href="https://github.com/huggingface/transformers.js" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-webui/open-webui#1743465600</id>
+    <title>https://github.com/open-webui/open-webui</title>
+    <link href="https://github.com/open-webui/open-webui" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">User-friendly AI Interface (Supports Ollama, OpenAI API, ...)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shaka-project/shaka-player#1743465600</id>
+    <title>https://github.com/shaka-project/shaka-player</title>
+    <link href="https://github.com/shaka-project/shaka-player" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">JavaScript player library / DASH &amp; HLS client / MSE-EME player</content>
+  </entry>
+  <entry>
+    <id>https://github.com/songquanpeng/one-api#1743465600</id>
+    <title>https://github.com/songquanpeng/one-api</title>
+    <link href="https://github.com/songquanpeng/one-api" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">LLM API 管理 &amp; 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management &amp; key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xnx3/translate#1743465600</id>
+    <title>https://github.com/xnx3/translate</title>
+    <link href="https://github.com/xnx3/translate" />
+    <updated>2025-04-01T00:00:00</updated>
+    <content type="text">AI i18n, Two lines of js realize automatic html translation. No need to change the page, no language configuration file, no API key, SEO friendly!</content>
+  </entry>
+</feed>

@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/weekly.atom</id>
+  <title>GitHub Trending - fortran (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GEOS-ESM/MAPL#1748217600</id>
+    <title>https://github.com/GEOS-ESM/MAPL</title>
+    <link href="https://github.com/GEOS-ESM/MAPL" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">MAPL is a foundation layer of the GEOS architecture, whose original purpose is to supplement the Earth System Modeling Framework (ESMF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaPackaging/Yggdrasil#1748217600</id>
+    <title>https://github.com/JuliaPackaging/Yggdrasil</title>
+    <link href="https://github.com/JuliaPackaging/Yggdrasil" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Collection of builder repositories for BinaryBuilder.jl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MCSclimate/MCT#1748217600</id>
+    <title>https://github.com/MCSclimate/MCT</title>
+    <link href="https://github.com/MCSclimate/MCT" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Model Coupling Tookit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NGEET/fates#1748217600</id>
+    <title>https://github.com/NGEET/fates</title>
+    <link href="https://github.com/NGEET/fates" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFAST/openfast#1748217600</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cp2k/cp2k#1748217600</id>
+    <title>https://github.com/cp2k/cp2k</title>
+    <link href="https://github.com/cp2k/cp2k" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Quantum chemistry and solid state physics software package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/fckit#1748217600</id>
+    <title>https://github.com/ecmwf/fckit</title>
+    <link href="https://github.com/ecmwf/fckit" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A Fortran toolkit for interoperating Fortran with C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firemodels/fds#1748217600</id>
+    <title>https://github.com/firemodels/fds</title>
+    <link href="https://github.com/firemodels/fds" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Fire Dynamics Simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grimme-lab/xtb#1748217600</id>
+    <title>https://github.com/grimme-lab/xtb</title>
+    <link href="https://github.com/grimme-lab/xtb" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Semiempirical Extended Tight-Binding Program Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1748217600</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+</feed>

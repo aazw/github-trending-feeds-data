@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1749513600</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1749513600</id>
+    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1749513600</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-acm-request-certificate#1749513600</id>
+    <title>https://github.com/cloudposse/terraform-aws-acm-request-certificate</title>
+    <link href="https://github.com/cloudposse/terraform-aws-acm-request-certificate" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Terraform module to request an ACM certificate for a domain name and create a CNAME record in the DNS zone to complete certificate validation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-alb#1749513600</id>
+    <title>https://github.com/cloudposse/terraform-aws-alb</title>
+    <link href="https://github.com/cloudposse/terraform-aws-alb" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Terraform module to provision a standard ALB for HTTP/HTTP traffic</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudfront-cdn#1749513600</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudfront-cdn</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-cdn" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Terraform Module that implements a CloudFront Distribution (CDN) for a custom origin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn#1749513600</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Terraform module to easily provision CloudFront CDN backed by an S3 origin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-codebuild#1749513600</id>
+    <title>https://github.com/cloudposse/terraform-aws-codebuild</title>
+    <link href="https://github.com/cloudposse/terraform-aws-codebuild" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Terraform Module to easily leverage AWS CodeBuild for Continuous Integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-redis#1749513600</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-redis</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-redis" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Terraform module to provision an ElastiCache Redis Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-s3-bucket#1749513600</id>
+    <title>https://github.com/cloudposse/terraform-aws-s3-bucket</title>
+    <link href="https://github.com/cloudposse/terraform-aws-s3-bucket" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-s3-log-storage#1749513600</id>
+    <title>https://github.com/cloudposse/terraform-aws-s3-log-storage</title>
+    <link href="https://github.com/cloudposse/terraform-aws-s3-log-storage" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1749513600</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1749513600</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-example-foundation#1749513600</id>
+    <title>https://github.com/terraform-google-modules/terraform-example-foundation</title>
+    <link href="https://github.com/terraform-google-modules/terraform-example-foundation" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Shows how the CFT modules can be composed to build a secure cloud foundation</content>
+  </entry>
+</feed>

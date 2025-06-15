@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cuda/daily.atom</id>
+  <title>GitHub Trending - cuda (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cuda/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Dao-AILab/causal-conv1d#1738108800</id>
+    <title>https://github.com/Dao-AILab/causal-conv1d</title>
+    <link href="https://github.com/Dao-AILab/causal-conv1d" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Causal depthwise conv1d in CUDA, with a PyTorch interface</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HazyResearch/ThunderKittens#1738108800</id>
+    <title>https://github.com/HazyResearch/ThunderKittens</title>
+    <link href="https://github.com/HazyResearch/ThunderKittens" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Tile primitives for speedy kernels</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/cub#1738108800</id>
+    <title>https://github.com/NVIDIA/cub</title>
+    <link href="https://github.com/NVIDIA/cub" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">[ARCHIVED] Cooperative primitives for CUDA C++. See https://github.com/NVIDIA/cccl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/nvbench#1738108800</id>
+    <title>https://github.com/NVIDIA/nvbench</title>
+    <link href="https://github.com/NVIDIA/nvbench" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">CUDA Kernel Benchmarking Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flashinfer-ai/flashinfer#1738108800</id>
+    <title>https://github.com/flashinfer-ai/flashinfer</title>
+    <link href="https://github.com/flashinfer-ai/flashinfer" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">FlashInfer: Kernel Library for LLM Serving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karpathy/llm.c#1738108800</id>
+    <title>https://github.com/karpathy/llm.c</title>
+    <link href="https://github.com/karpathy/llm.c" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">LLM training in simple, raw C/CUDA</content>
+  </entry>
+  <entry>
+    <id>https://github.com/matter-labs/era-bellman-cuda#1738108800</id>
+    <title>https://github.com/matter-labs/era-bellman-cuda</title>
+    <link href="https://github.com/matter-labs/era-bellman-cuda" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">A library implementing GPU-accelerated cryptographic functionality for the zkSync prover</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/cugraph#1738108800</id>
+    <title>https://github.com/rapidsai/cugraph</title>
+    <link href="https://github.com/rapidsai/cugraph" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">cuGraph - RAPIDS Graph Analytics Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapidsai/raft#1738108800</id>
+    <title>https://github.com/rapidsai/raft</title>
+    <link href="https://github.com/rapidsai/raft" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.</content>
+  </entry>
+</feed>

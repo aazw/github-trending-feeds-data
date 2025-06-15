@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nushell/daily.atom</id>
+  <title>GitHub Trending - nushell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nushell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/nushell/nu_scripts#1737936000</id>
+    <title>https://github.com/nushell/nu_scripts</title>
+    <link href="https://github.com/nushell/nu_scripts" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A place to share Nushell scripts with each other</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell.github.io#1737936000</id>
+    <title>https://github.com/nushell/nushell.github.io</title>
+    <link href="https://github.com/nushell/nushell.github.io" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Nushell's main website, blog, book, and more</content>
+  </entry>
+</feed>

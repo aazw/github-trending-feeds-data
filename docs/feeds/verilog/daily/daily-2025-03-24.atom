@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom</id>
+  <title>GitHub Trending - verilog (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/The-OpenROAD-Project/OpenROAD#1742774400</id>
+    <title>https://github.com/The-OpenROAD-Project/OpenROAD</title>
+    <link href="https://github.com/The-OpenROAD-Project/OpenROAD" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">OpenROAD's unified application implementing an RTL-to-GDS Flow. Documentation at https://openroad.readthedocs.io/en/latest/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YosysHQ/picorv32#1742774400</id>
+    <title>https://github.com/YosysHQ/picorv32</title>
+    <link href="https://github.com/YosysHQ/picorv32" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">PicoRV32 - A Size-Optimized RISC-V CPU</content>
+  </entry>
+  <entry>
+    <id>https://github.com/efabless/caravel_user_project#1742774400</id>
+    <title>https://github.com/efabless/caravel_user_project</title>
+    <link href="https://github.com/efabless/caravel_user_project" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">https://caravel-user-project.readthedocs.io</content>
+  </entry>
+</feed>

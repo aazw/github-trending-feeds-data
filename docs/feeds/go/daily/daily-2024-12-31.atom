@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-31T11:14:05+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1735643645</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/client-go#1735643645</id>
+    <title>https://github.com/kubernetes/client-go</title>
+    <link href="https://github.com/kubernetes/client-go" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Go client for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/subfinder#1735643645</id>
+    <title>https://github.com/projectdiscovery/subfinder</title>
+    <link href="https://github.com/projectdiscovery/subfinder" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Fast passive subdomain enumeration tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1735643645</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1735643645</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-jwt/jwt#1735643645</id>
+    <title>https://github.com/golang-jwt/jwt</title>
+    <link href="https://github.com/golang-jwt/jwt" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Go implementation of JSON Web Tokens (JWT).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/onsi/ginkgo#1735643645</id>
+    <title>https://github.com/onsi/ginkgo</title>
+    <link href="https://github.com/onsi/ginkgo" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">A Modern Testing Framework for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/casbin/casbin#1735643645</id>
+    <title>https://github.com/casbin/casbin</title>
+    <link href="https://github.com/casbin/casbin" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">An authorization library that supports access control models like ACL, RBAC, ABAC in Golang: https://discord.gg/S5UjpzGZjN</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1735643645</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-git/go-git#1735643645</id>
+    <title>https://github.com/go-git/go-git</title>
+    <link href="https://github.com/go-git/go-git" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">A highly extensible Git implementation in pure Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/loki#1735643645</id>
+    <title>https://github.com/grafana/loki</title>
+    <link href="https://github.com/grafana/loki" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Like Prometheus, but for logs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/autoscaler#1735643645</id>
+    <title>https://github.com/kubernetes/autoscaler</title>
+    <link href="https://github.com/kubernetes/autoscaler" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Autoscaling components for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swaggo/swag#1735643645</id>
+    <title>https://github.com/swaggo/swag</title>
+    <link href="https://github.com/swaggo/swag" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Automatically generate RESTful API documentation with Swagger 2.0 for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/restic/restic#1735643645</id>
+    <title>https://github.com/restic/restic</title>
+    <link href="https://github.com/restic/restic" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Fast, secure, efficient backup program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1735643645</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/grype#1735643645</id>
+    <title>https://github.com/anchore/grype</title>
+    <link href="https://github.com/anchore/grype" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">A vulnerability scanner for container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coreybutler/nvm-windows#1735643645</id>
+    <title>https://github.com/coreybutler/nvm-windows</title>
+    <link href="https://github.com/coreybutler/nvm-windows" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">A node.js version management utility for Windows. Ironically written in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1735643645</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1735643645</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/daytonaio/daytona#1735643645</id>
+    <title>https://github.com/daytonaio/daytona</title>
+    <link href="https://github.com/daytonaio/daytona" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">The Open Source Dev Environment Manager.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1735643645</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erigontech/erigon#1735643645</id>
+    <title>https://github.com/erigontech/erigon</title>
+    <link href="https://github.com/erigontech/erigon" />
+    <updated>2024-12-31T11:14:05+00:00</updated>
+    <content type="text">Ethereum implementation on the efficiency frontier https://docs.erigon.tech</content>
+  </entry>
+</feed>

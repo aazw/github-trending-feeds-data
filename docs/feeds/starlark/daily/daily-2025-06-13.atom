@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom</id>
+  <title>GitHub Trending - starlark (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/distroless#1749772800</id>
+    <title>https://github.com/GoogleContainerTools/distroless</title>
+    <link href="https://github.com/GoogleContainerTools/distroless" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aspect-build/rules_lint#1749772800</id>
+    <title>https://github.com/aspect-build/rules_lint</title>
+    <link href="https://github.com/aspect-build/rules_lint" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Run static analysis tools with Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/bazel-lib#1749772800</id>
+    <title>https://github.com/bazel-contrib/bazel-lib</title>
+    <link href="https://github.com/bazel-contrib/bazel-lib" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Common useful functions for writing BUILD files and Starlark macros/rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/rules_oci#1749772800</id>
+    <title>https://github.com/bazel-contrib/rules_oci</title>
+    <link href="https://github.com/bazel-contrib/rules_oci" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Bazel rules for building OCI containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/rules_python#1749772800</id>
+    <title>https://github.com/bazel-contrib/rules_python</title>
+    <link href="https://github.com/bazel-contrib/rules_python" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Bazel Python Rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-central-registry#1749772800</id>
+    <title>https://github.com/bazelbuild/bazel-central-registry</title>
+    <link href="https://github.com/bazelbuild/bazel-central-registry" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">The central registry of Bazel modules for the Bzlmod external dependency system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-skylib#1749772800</id>
+    <title>https://github.com/bazelbuild/bazel-skylib</title>
+    <link href="https://github.com/bazelbuild/bazel-skylib" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Common useful functions and rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/examples#1749772800</id>
+    <title>https://github.com/bazelbuild/examples</title>
+    <link href="https://github.com/bazelbuild/examples" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Examples for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_pkg#1749772800</id>
+    <title>https://github.com/bazelbuild/rules_pkg</title>
+    <link href="https://github.com/bazelbuild/rules_pkg" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Bazel rules for creating packages of many types (zip, tar, deb, rpm, ...)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethpandaops/ethereum-package#1749772800</id>
+    <title>https://github.com/ethpandaops/ethereum-package</title>
+    <link href="https://github.com/ethpandaops/ethereum-package" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">A Kurtosis package that deploys a private, portable, and modular Ethereum devnet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethpandaops/optimism-package#1749772800</id>
+    <title>https://github.com/ethpandaops/optimism-package</title>
+    <link href="https://github.com/ethpandaops/optimism-package" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">A kurtosis package for deploying an optimistic rollup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/cel-spec#1749772800</id>
+    <title>https://github.com/google/cel-spec</title>
+    <link href="https://github.com/google/cel-spec" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Common Expression Language -- specification and binary representation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/googleapis#1749772800</id>
+    <title>https://github.com/googleapis/googleapis</title>
+    <link href="https://github.com/googleapis/googleapis" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Public interface definitions of Google APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openconfig/gnoi#1749772800</id>
+    <title>https://github.com/openconfig/gnoi</title>
+    <link href="https://github.com/openconfig/gnoi" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rules-proto-grpc/rules_proto_grpc#1749772800</id>
+    <title>https://github.com/rules-proto-grpc/rules_proto_grpc</title>
+    <link href="https://github.com/rules-proto-grpc/rules_proto_grpc" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tilt-dev/tilt-extensions#1749772800</id>
+    <title>https://github.com/tilt-dev/tilt-extensions</title>
+    <link href="https://github.com/tilt-dev/tilt-extensions" />
+    <updated>2025-06-13T00:00:00</updated>
+    <content type="text">Extensions for Tilt</content>
+  </entry>
+</feed>

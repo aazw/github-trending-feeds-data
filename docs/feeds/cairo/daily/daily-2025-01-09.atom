@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cairo/daily.atom</id>
+  <title>GitHub Trending - cairo (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cairo/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-09T11:08:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/keep-starknet-strange/garaga#1736420928</id>
+    <title>https://github.com/keep-starknet-strange/garaga</title>
+    <link href="https://github.com/keep-starknet-strange/garaga" />
+    <updated>2025-01-09T11:08:48+00:00</updated>
+    <content type="text">State-of-the-art Elliptic Curve operations and SNARKS verification for Cairo &amp; Starknet 🐺.</content>
+  </entry>
+</feed>

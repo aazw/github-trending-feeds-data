@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/qml/daily.atom</id>
+  <title>GitHub Trending - qml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/qml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/catsout/wallpaper-engine-kde-plugin#1737936000</id>
+    <title>https://github.com/catsout/wallpaper-engine-kde-plugin</title>
+    <link href="https://github.com/catsout/wallpaper-engine-kde-plugin" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A kde wallpaper plugin integrating wallpaper engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/luisbocanegra/plasma-panel-colorizer#1737936000</id>
+    <title>https://github.com/luisbocanegra/plasma-panel-colorizer</title>
+    <link href="https://github.com/luisbocanegra/plasma-panel-colorizer" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Latte-Dock and WM status bar customization features for the default KDE Plasma panel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vinceliuice/WhiteSur-kde#1737936000</id>
+    <title>https://github.com/vinceliuice/WhiteSur-kde</title>
+    <link href="https://github.com/vinceliuice/WhiteSur-kde" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">MacOS big sur theme for kde plasma</content>
+  </entry>
+</feed>

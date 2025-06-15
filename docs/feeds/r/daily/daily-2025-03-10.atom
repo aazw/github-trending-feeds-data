@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MRCIEU/TwoSampleMR#1741564800</id>
+    <title>https://github.com/MRCIEU/TwoSampleMR</title>
+    <link href="https://github.com/MRCIEU/TwoSampleMR" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">R package for performing 2-sample MR using MR-Base database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1741564800</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ggplot2#1741564800</id>
+    <title>https://github.com/tidyverse/ggplot2</title>
+    <link href="https://github.com/tidyverse/ggplot2" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">An implementation of the Grammar of Graphics in R</content>
+  </entry>
+</feed>

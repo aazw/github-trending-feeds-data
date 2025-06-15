@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom</id>
+  <title>GitHub Trending - gdscript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-16T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GDQuest/learn-gdscript#1744761600</id>
+    <title>https://github.com/GDQuest/learn-gdscript</title>
+    <link href="https://github.com/GDQuest/learn-gdscript" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Learn Godot's GDScript programming language from zero, right in your browser, for free.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HungryProton/scatter#1744761600</id>
+    <title>https://github.com/HungryProton/scatter</title>
+    <link href="https://github.com/HungryProton/scatter" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Godot engine addon to randomly fill an area with props or other scenes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitbrain/beehave#1744761600</id>
+    <title>https://github.com/bitbrain/beehave</title>
+    <link href="https://github.com/bitbrain/beehave" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">🐝 behavior tree AI for Godot Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dialogic-godot/dialogic#1744761600</id>
+    <title>https://github.com/dialogic-godot/dialogic</title>
+    <link href="https://github.com/dialogic-godot/dialogic" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">💬 Create Dialogs, Visual Novels, RPGs, and manage Characters with Godot to create your Game!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot-demo-projects#1744761600</id>
+    <title>https://github.com/godotengine/godot-demo-projects</title>
+    <link href="https://github.com/godotengine/godot-demo-projects" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Demonstration and Template Projects</content>
+  </entry>
+</feed>

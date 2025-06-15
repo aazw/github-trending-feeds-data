@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pascal/daily.atom</id>
+  <title>GitHub Trending - pascal (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pascal/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FrankBijnen/ExifToolGui#1745280000</id>
+    <title>https://github.com/FrankBijnen/ExifToolGui</title>
+    <link href="https://github.com/FrankBijnen/ExifToolGui" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">A GUI for ExifTool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TES5Edit/TES5Edit#1745280000</id>
+    <title>https://github.com/TES5Edit/TES5Edit</title>
+    <link href="https://github.com/TES5Edit/TES5Edit" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">xEdit by Elminster; Updated and maintained by Sharlikran, Zilav, and Hlp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doublecmd/doublecmd#1745280000</id>
+    <title>https://github.com/doublecmd/doublecmd</title>
+    <link href="https://github.com/doublecmd/doublecmd" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Double Commander is a free cross platform open source file manager with two panels side by side.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nodemcu/nodemcu-flasher#1745280000</id>
+    <title>https://github.com/nodemcu/nodemcu-flasher</title>
+    <link href="https://github.com/nodemcu/nodemcu-flasher" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">A firmware Flash tool for nodemcu</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paolo-rossi/delphi-jose-jwt#1745280000</id>
+    <title>https://github.com/paolo-rossi/delphi-jose-jwt</title>
+    <link href="https://github.com/paolo-rossi/delphi-jose-jwt" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stascorp/rdpwrap#1745280000</id>
+    <title>https://github.com/stascorp/rdpwrap</title>
+    <link href="https://github.com/stascorp/rdpwrap" />
+    <updated>2025-04-22T00:00:00</updated>
+    <content type="text">RDP Wrapper Library</content>
+  </entry>
+</feed>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Arize-ai/phoenix#1743206400</id>
+    <title>https://github.com/Arize-ai/phoenix</title>
+    <link href="https://github.com/Arize-ai/phoenix" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">AI Observability &amp; Evaluation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/AI-Gateway#1743206400</id>
+    <title>https://github.com/Azure-Samples/AI-Gateway</title>
+    <link href="https://github.com/Azure-Samples/AI-Gateway" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">APIM ❤️ OpenAI - this repo contains a set of experiments on using GenAI capabilities of Azure API Management with Azure OpenAI and other services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azureml-examples#1743206400</id>
+    <title>https://github.com/Azure/azureml-examples</title>
+    <link href="https://github.com/Azure/azureml-examples" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Official community-driven Azure Machine Learning examples, tested with GitHub Actions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FoundationVision/VAR#1743206400</id>
+    <title>https://github.com/FoundationVision/VAR</title>
+    <link href="https://github.com/FoundationVision/VAR" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">[NeurIPS 2024 Best Paper][GPT beats diffusion🔥] [scaling laws in visual generation📈] Official impl. of "Visual Autoregressive Modeling: Scalable Image Generation via Next-Scale Prediction". An *ultra-simple, user-friendly yet state-of-the-art* codebase for autoregressive image generation!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IDEA-Research/Grounded-Segment-Anything#1743206400</id>
+    <title>https://github.com/IDEA-Research/Grounded-Segment-Anything</title>
+    <link href="https://github.com/IDEA-Research/Grounded-Segment-Anything" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Grounded SAM: Marrying Grounding DINO with Segment Anything &amp; Stable Diffusion &amp; Recognize Anything - Automatically Detect , Segment and Generate Anything</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NielsRogge/Transformers-Tutorials#1743206400</id>
+    <title>https://github.com/NielsRogge/Transformers-Tutorials</title>
+    <link href="https://github.com/NielsRogge/Transformers-Tutorials" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">This repository contains demos I made with the Transformers library by HuggingFace.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NirDiamant/GenAI_Agents#1743206400</id>
+    <title>https://github.com/NirDiamant/GenAI_Agents</title>
+    <link href="https://github.com/NirDiamant/GenAI_Agents" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-sagemaker-examples#1743206400</id>
+    <title>https://github.com/aws/amazon-sagemaker-examples</title>
+    <link href="https://github.com/aws/amazon-sagemaker-examples" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/causify-ai/kaizenflow#1743206400</id>
+    <title>https://github.com/causify-ai/kaizenflow</title>
+    <link href="https://github.com/causify-ai/kaizenflow" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">KaizenFlow is a framework for Bayesian reasoning and AI/ML stream computing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/causify-ai/tutorials#1743206400</id>
+    <title>https://github.com/causify-ai/tutorials</title>
+    <link href="https://github.com/causify-ai/tutorials" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Causify system tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/embeddings-benchmark/mteb#1743206400</id>
+    <title>https://github.com/embeddings-benchmark/mteb</title>
+    <link href="https://github.com/embeddings-benchmark/mteb" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">MTEB: Massive Text Embedding Benchmark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/segment-anything#1743206400</id>
+    <title>https://github.com/facebookresearch/segment-anything</title>
+    <link href="https://github.com/facebookresearch/segment-anything" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/community#1743206400</id>
+    <title>https://github.com/kubernetes/community</title>
+    <link href="https://github.com/kubernetes/community" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Kubernetes community content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain-academy#1743206400</id>
+    <title>https://github.com/langchain-ai/langchain-academy</title>
+    <link href="https://github.com/langchain-ai/langchain-academy" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/mrdbourke/pytorch-deep-learning#1743206400</id>
+    <title>https://github.com/mrdbourke/pytorch-deep-learning</title>
+    <link href="https://github.com/mrdbourke/pytorch-deep-learning" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Materials for the Learn PyTorch for Deep Learning: Zero to Mastery course.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/panaversity/learn-agentic-ai#1743206400</id>
+    <title>https://github.com/panaversity/learn-agentic-ai</title>
+    <link href="https://github.com/panaversity/learn-agentic-ai" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Learn Agentic AI using OpenAI Agents SDK, Memory, MCP, Knowledge Graphs, LangGraph, and Autogen</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python#1743206400</id>
+    <title>https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python</title>
+    <link href="https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.</content>
+  </entry>
+</feed>

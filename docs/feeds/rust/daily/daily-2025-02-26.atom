@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BurntSushi/ripgrep#1740528000</id>
+    <title>https://github.com/BurntSushi/ripgrep</title>
+    <link href="https://github.com/BurntSushi/ripgrep" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RustScan/RustScan#1740528000</id>
+    <title>https://github.com/RustScan/RustScan</title>
+    <link href="https://github.com/RustScan/RustScan" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">🤖 The Modern Port Scanner 🤖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wilfred/difftastic#1740528000</id>
+    <title>https://github.com/Wilfred/difftastic</title>
+    <link href="https://github.com/Wilfred/difftastic" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">a structural diff that understands syntax 🟥🟩</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1740528000</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/casey/just#1740528000</id>
+    <title>https://github.com/casey/just</title>
+    <link href="https://github.com/casey/just" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">🤖 Just a command runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1740528000</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/pingora#1740528000</id>
+    <title>https://github.com/cloudflare/pingora</title>
+    <link href="https://github.com/cloudflare/pingora" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">A library for building fast, reliable and evolvable network services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/quiche#1740528000</id>
+    <title>https://github.com/cloudflare/quiche</title>
+    <link href="https://github.com/cloudflare/quiche" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">🥧 Savoury implementation of the QUIC transport protocol and HTTP/3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dandavison/delta#1740528000</id>
+    <title>https://github.com/dandavison/delta</title>
+    <link href="https://github.com/dandavison/delta" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">A syntax-highlighting pager for git, diff, grep, and blame output</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/foundry#1740528000</id>
+    <title>https://github.com/foundry-rs/foundry</title>
+    <link href="https://github.com/foundry-rs/foundry" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1740528000</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1740528000</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lance#1740528000</id>
+    <title>https://github.com/lancedb/lance</title>
+    <link href="https://github.com/lancedb/lance" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1740528000</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meilisearch/meilisearch#1740528000</id>
+    <title>https://github.com/meilisearch/meilisearch</title>
+    <link href="https://github.com/meilisearch/meilisearch" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openobserve/openobserve#1740528000</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-bitcoin/rust-bitcoin#1740528000</id>
+    <title>https://github.com/rust-bitcoin/rust-bitcoin</title>
+    <link href="https://github.com/rust-bitcoin/rust-bitcoin" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Rust Bitcoin library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1740528000</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk-server#1740528000</id>
+    <title>https://github.com/rustdesk/rustdesk-server</title>
+    <link href="https://github.com/rustdesk/rustdesk-server" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">RustDesk Server Program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/mail-server#1740528000</id>
+    <title>https://github.com/stalwartlabs/mail-server</title>
+    <link href="https://github.com/stalwartlabs/mail-server" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1740528000</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1740528000</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wezterm/wezterm#1740528000</id>
+    <title>https://github.com/wezterm/wezterm</title>
+    <link href="https://github.com/wezterm/wezterm" />
+    <updated>2025-02-26T00:00:00</updated>
+    <content type="text">A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</content>
+  </entry>
+</feed>

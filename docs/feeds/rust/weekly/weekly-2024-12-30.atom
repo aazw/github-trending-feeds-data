@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-30T12:27:23+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Orange-OpenSource/hurl#1735561643</id>
+    <title>https://github.com/Orange-OpenSource/hurl</title>
+    <link href="https://github.com/Orange-OpenSource/hurl" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">Hurl, run and test HTTP requests with plain text.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ratatui/ratatui#1735561643</id>
+    <title>https://github.com/ratatui/ratatui</title>
+    <link href="https://github.com/ratatui/ratatui" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1735561643</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wez/wezterm#1735561643</id>
+    <title>https://github.com/wez/wezterm</title>
+    <link href="https://github.com/wez/wezterm" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1735561643</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1735561643</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AppFlowy-IO/AppFlowy-Cloud#1735561643</id>
+    <title>https://github.com/AppFlowy-IO/AppFlowy-Cloud</title>
+    <link href="https://github.com/AppFlowy-IO/AppFlowy-Cloud" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/risingwavelabs/risingwave#1735561643</id>
+    <title>https://github.com/risingwavelabs/risingwave</title>
+    <link href="https://github.com/risingwavelabs/risingwave" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">Best-in-class stream processing, analytics, and management. Perform continuous analytics, or build event-driven applications, real-time ETL pipelines, and feature stores in minutes. Unified streaming and batch. PostgreSQL compatible.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ajeetdsouza/zoxide#1735561643</id>
+    <title>https://github.com/ajeetdsouza/zoxide</title>
+    <link href="https://github.com/ajeetdsouza/zoxide" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">A smarter cd command. Supports all major shells.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1735561643</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slint-ui/slint#1735561643</id>
+    <title>https://github.com/slint-ui/slint</title>
+    <link href="https://github.com/slint-ui/slint" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modrinth/code#1735561643</id>
+    <title>https://github.com/modrinth/code</title>
+    <link href="https://github.com/modrinth/code" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">The Modrinth monorepo containing all code which powers Modrinth!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rivet-gg/rivet#1735561643</id>
+    <title>https://github.com/rivet-gg/rivet</title>
+    <link href="https://github.com/rivet-gg/rivet" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">🔩 Run and scale realtime applications with Rivet Actors.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0x192/universal-android-debloater#1735561643</id>
+    <title>https://github.com/0x192/universal-android-debloater</title>
+    <link href="https://github.com/0x192/universal-android-debloater" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1735561643</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sunface/rust-by-practice#1735561643</id>
+    <title>https://github.com/sunface/rust-by-practice</title>
+    <link href="https://github.com/sunface/rust-by-practice" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">Learning Rust By Practice, narrowing the gap between beginner and skilled-dev through challenging examples, exercises and projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qarmin/czkawka#1735561643</id>
+    <title>https://github.com/qarmin/czkawka</title>
+    <link href="https://github.com/qarmin/czkawka" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">Multi functional app to find duplicates, empty folders, similar images etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shadowsocks/shadowsocks-rust#1735561643</id>
+    <title>https://github.com/shadowsocks/shadowsocks-rust</title>
+    <link href="https://github.com/shadowsocks/shadowsocks-rust" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">A Rust port of shadowsocks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/0xPlaygrounds/rig#1735561643</id>
+    <title>https://github.com/0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1735561643</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eythaann/Seelen-UI#1735561643</id>
+    <title>https://github.com/eythaann/Seelen-UI</title>
+    <link href="https://github.com/eythaann/Seelen-UI" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">The Fully Customizable Desktop Environment for Windows 10/11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fish-shell/fish-shell#1735561643</id>
+    <title>https://github.com/fish-shell/fish-shell</title>
+    <link href="https://github.com/fish-shell/fish-shell" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">The user-friendly command line shell.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1735561643</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1735561643</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2024-12-30T12:27:23+00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+</feed>

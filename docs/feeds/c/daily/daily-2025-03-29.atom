@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AFLplusplus/AFLplusplus#1743206400</id>
+    <title>https://github.com/AFLplusplus/AFLplusplus</title>
+    <link href="https://github.com/AFLplusplus/AFLplusplus" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel &amp; redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Bodmer/TFT_eSPI#1743206400</id>
+    <title>https://github.com/Bodmer/TFT_eSPI</title>
+    <link href="https://github.com/Bodmer/TFT_eSPI" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Arduino and PlatformIO IDE compatible TFT library optimised for the Raspberry Pi Pico (RP2040), STM32, ESP8266 and ESP32 that supports different driver chips</content>
+  </entry>
+  <entry>
+    <id>https://github.com/FRRouting/frr#1743206400</id>
+    <title>https://github.com/FRRouting/frr</title>
+    <link href="https://github.com/FRRouting/frr" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">The FRRouting Protocol Suite</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Klipper3d/klipper#1743206400</id>
+    <title>https://github.com/Klipper3d/klipper</title>
+    <link href="https://github.com/Klipper3d/klipper" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Klipper is a 3d-printer firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RT-Thread/rt-thread#1743206400</id>
+    <title>https://github.com/RT-Thread/rt-thread</title>
+    <link href="https://github.com/RT-Thread/rt-thread" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">RT-Thread is an open source IoT Real-Time Operating System (RTOS).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/nuttx#1743206400</id>
+    <title>https://github.com/apache/nuttx</title>
+    <link href="https://github.com/apache/nuttx" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Apache NuttX is a mature, real-time embedded operating system (RTOS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/zstd#1743206400</id>
+    <title>https://github.com/facebook/zstd</title>
+    <link href="https://github.com/facebook/zstd" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Zstandard - Fast real-time compression algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libsdl-org/SDL#1743206400</id>
+    <title>https://github.com/libsdl-org/SDL</title>
+    <link href="https://github.com/libsdl-org/SDL" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Simple Directmedia Layer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lvgl/lvgl#1743206400</id>
+    <title>https://github.com/lvgl/lvgl</title>
+    <link href="https://github.com/lvgl/lvgl" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Embedded graphics library to create beautiful UIs for any MCU, MPU and display type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/madler/zlib#1743206400</id>
+    <title>https://github.com/madler/zlib</title>
+    <link href="https://github.com/madler/zlib" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">A massively spiffy yet delicately unobtrusive compression library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mimalloc#1743206400</id>
+    <title>https://github.com/microsoft/mimalloc</title>
+    <link href="https://github.com/microsoft/mimalloc" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">mimalloc is a compact general purpose allocator with excellent performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nrfconnect/sdk-nrf#1743206400</id>
+    <title>https://github.com/nrfconnect/sdk-nrf</title>
+    <link href="https://github.com/nrfconnect/sdk-nrf" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">nRF Connect SDK main repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-quantum-safe/liboqs#1743206400</id>
+    <title>https://github.com/open-quantum-safe/liboqs</title>
+    <link href="https://github.com/open-quantum-safe/liboqs" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">C library for prototyping and experimenting with quantum-resistant cryptography</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openssl/openssl#1743206400</id>
+    <title>https://github.com/openssl/openssl</title>
+    <link href="https://github.com/openssl/openssl" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">TLS/SSL and crypto library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openzfs/zfs#1743206400</id>
+    <title>https://github.com/openzfs/zfs</title>
+    <link href="https://github.com/openzfs/zfs" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">OpenZFS on Linux and FreeBSD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pr3y/Bruce#1743206400</id>
+    <title>https://github.com/pr3y/Bruce</title>
+    <link href="https://github.com/pr3y/Bruce" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Predatory ESP32 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zephyrproject-rtos/zephyr#1743206400</id>
+    <title>https://github.com/zephyrproject-rtos/zephyr</title>
+    <link href="https://github.com/zephyrproject-rtos/zephyr" />
+    <updated>2025-03-29T00:00:00</updated>
+    <content type="text">Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</content>
+  </entry>
+</feed>

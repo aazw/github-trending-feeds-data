@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom</id>
+  <title>GitHub Trending - makefile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cncf/people#1749513600</id>
+    <title>https://github.com/cncf/people</title>
+    <link href="https://github.com/cncf/people" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Stores the data that will populate the various people listings on cncf.io</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dbt-labs/dbt-utils#1749513600</id>
+    <title>https://github.com/dbt-labs/dbt-utils</title>
+    <link href="https://github.com/dbt-labs/dbt-utils" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Utility functions for dbt projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/freebsd/freebsd-ports#1749513600</id>
+    <title>https://github.com/freebsd/freebsd-ports</title>
+    <link href="https://github.com/freebsd/freebsd-ports" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">FreeBSD ports tree (read-only mirror)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-standards/project-layout#1749513600</id>
+    <title>https://github.com/golang-standards/project-layout</title>
+    <link href="https://github.com/golang-standards/project-layout" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Standard Go Project Layout</content>
+  </entry>
+  <entry>
+    <id>https://github.com/martinthomson/i-d-template#1749513600</id>
+    <title>https://github.com/martinthomson/i-d-template</title>
+    <link href="https://github.com/martinthomson/i-d-template" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A template for IETF internet draft git repositories</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/erlang.mk#1749513600</id>
+    <title>https://github.com/ninenines/erlang.mk</title>
+    <link href="https://github.com/ninenines/erlang.mk" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A build tool for Erlang that just works.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto#1749513600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">OpenTelemetry protocol (OTLP) specification and Protobuf definitions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1749513600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/procount/pinn#1749513600</id>
+    <title>https://github.com/procount/pinn</title>
+    <link href="https://github.com/procount/pinn" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">An enhanced Operating System installer for the Raspberry Pi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulumi/pulumi-random#1749513600</id>
+    <title>https://github.com/pulumi/pulumi-random</title>
+    <link href="https://github.com/pulumi/pulumi-random" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A Pulumi provider that safely enables randomness for resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sigstore/protobuf-specs#1749513600</id>
+    <title>https://github.com/sigstore/protobuf-specs</title>
+    <link href="https://github.com/sigstore/protobuf-specs" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Sigstore's Protocol Buffer specifications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teaxyz/white-paper#1749513600</id>
+    <title>https://github.com/teaxyz/white-paper</title>
+    <link href="https://github.com/teaxyz/white-paper" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">how will the protocol work?</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/guide#1749513600</id>
+    <title>https://github.com/uber-go/guide</title>
+    <link href="https://github.com/uber-go/guide" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">The Uber Go Style Guide.</content>
+  </entry>
+</feed>

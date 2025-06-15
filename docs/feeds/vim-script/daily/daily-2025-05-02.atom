@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndrewRadev/splitjoin.vim#1746144000</id>
+    <title>https://github.com/AndrewRadev/splitjoin.vim</title>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Switch between single-line and multiline forms of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airblade/vim-rooter#1746144000</id>
+    <title>https://github.com/airblade/vim-rooter</title>
+    <link href="https://github.com/airblade/vim-rooter" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Changes Vim working directory to project root.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1746144000</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1746144000</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cespare/vim-toml#1746144000</id>
+    <title>https://github.com/cespare/vim-toml</title>
+    <link href="https://github.com/cespare/vim-toml" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Vim syntax for TOML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chriskempson/base16-vim#1746144000</id>
+    <title>https://github.com/chriskempson/base16-vim</title>
+    <link href="https://github.com/chriskempson/base16-vim" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Base16 for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/copilot.vim#1746144000</id>
+    <title>https://github.com/github/copilot.vim</title>
+    <link href="https://github.com/github/copilot.vim" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Neovim plugin for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1746144000</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/liuchengxu/vim-which-key#1746144000</id>
+    <title>https://github.com/liuchengxu/vim-which-key</title>
+    <link href="https://github.com/liuchengxu/vim-which-key" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">🌷 Vim plugin that shows keybindings in popup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-startify#1746144000</id>
+    <title>https://github.com/mhinz/vim-startify</title>
+    <link href="https://github.com/mhinz/vim-startify" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">🔗 The fancy start screen for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1746144000</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1746144000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1746144000</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/vim-markdown#1746144000</id>
+    <title>https://github.com/preservim/vim-markdown</title>
+    <link href="https://github.com/preservim/vim-markdown" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Markdown Vim Mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1746144000</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-markdown#1746144000</id>
+    <title>https://github.com/tpope/vim-markdown</title>
+    <link href="https://github.com/tpope/vim-markdown" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Vim Markdown runtime files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-projectionist#1746144000</id>
+    <title>https://github.com/tpope/vim-projectionist</title>
+    <link href="https://github.com/tpope/vim-projectionist" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">projectionist.vim: Granular project configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-airline/vim-airline#1746144000</id>
+    <title>https://github.com/vim-airline/vim-airline</title>
+    <link href="https://github.com/vim-airline/vim-airline" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">lean &amp; mean status/tabline for vim that's light as air</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1746144000</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+</feed>

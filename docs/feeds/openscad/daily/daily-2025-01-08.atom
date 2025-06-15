@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/openscad/daily.atom</id>
+  <title>GitHub Trending - openscad (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/openscad/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-08T11:24:36+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/kennetek/gridfinity-rebuilt-openscad#1736335476</id>
+    <title>https://github.com/kennetek/gridfinity-rebuilt-openscad</title>
+    <link href="https://github.com/kennetek/gridfinity-rebuilt-openscad" />
+    <updated>2025-01-08T11:24:36+00:00</updated>
+    <content type="text">A ground-up rebuild of the stock gridfinity bins in OpenSCAD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ostat/gridfinity_extended_openscad#1736335476</id>
+    <title>https://github.com/ostat/gridfinity_extended_openscad</title>
+    <link href="https://github.com/ostat/gridfinity_extended_openscad" />
+    <updated>2025-01-08T11:24:36+00:00</updated>
+    <content type="text">Gridfinity Extended OpenSCAD Model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tompi/cheapino#1736335476</id>
+    <title>https://github.com/tompi/cheapino</title>
+    <link href="https://github.com/tompi/cheapino" />
+    <updated>2025-01-08T11:24:36+00:00</updated>
+    <content type="text">An affordable split 36 keys keyboard</content>
+  </entry>
+</feed>

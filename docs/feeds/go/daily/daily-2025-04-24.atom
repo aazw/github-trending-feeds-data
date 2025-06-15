@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/k8s-device-plugin#1745452800</id>
+    <title>https://github.com/NVIDIA/k8s-device-plugin</title>
+    <link href="https://github.com/NVIDIA/k8s-device-plugin" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">NVIDIA device plugin for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1745452800</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autokitteh/autokitteh#1745452800</id>
+    <title>https://github.com/autokitteh/autokitteh</title>
+    <link href="https://github.com/autokitteh/autokitteh" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Durable workflow automation in just a few lines of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1745452800</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1745452800</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evcc-io/evcc#1745452800</id>
+    <title>https://github.com/evcc-io/evcc</title>
+    <link href="https://github.com/evcc-io/evcc" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">solar charging ☀️🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1745452800</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golangci/golangci-lint#1745452800</id>
+    <title>https://github.com/golangci/golangci-lint</title>
+    <link href="https://github.com/golangci/golangci-lint" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Fast linters runner for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1745452800</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/packer#1745452800</id>
+    <title>https://github.com/hashicorp/packer</title>
+    <link href="https://github.com/hashicorp/packer" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1745452800</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-azurerm#1745452800</id>
+    <title>https://github.com/hashicorp/terraform-provider-azurerm</title>
+    <link href="https://github.com/hashicorp/terraform-provider-azurerm" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Terraform provider for Azure Resource Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/istio/istio#1745452800</id>
+    <title>https://github.com/istio/istio</title>
+    <link href="https://github.com/istio/istio" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Connect, secure, control, and observe services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k8sgpt-ai/k8sgpt#1745452800</id>
+    <title>https://github.com/k8sgpt-ai/k8sgpt</title>
+    <link href="https://github.com/k8sgpt-ai/k8sgpt" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Giving Kubernetes Superpowers to everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1745452800</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1745452800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketbase/pocketbase#1745452800</id>
+    <title>https://github.com/pocketbase/pocketbase</title>
+    <link href="https://github.com/pocketbase/pocketbase" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Open Source realtime backend in 1 file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/katana#1745452800</id>
+    <title>https://github.com/projectdiscovery/katana</title>
+    <link href="https://github.com/projectdiscovery/katana" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A next-generation crawling and spidering framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ray-project/kuberay#1745452800</id>
+    <title>https://github.com/ray-project/kuberay</title>
+    <link href="https://github.com/ray-project/kuberay" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A toolkit to run Ray applications on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stakater/Reloader#1745452800</id>
+    <title>https://github.com/stakater/Reloader</title>
+    <link href="https://github.com/stakater/Reloader" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1745452800</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yannh/kubeconform#1745452800</id>
+    <title>https://github.com/yannh/kubeconform</title>
+    <link href="https://github.com/yannh/kubeconform" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">A FAST Kubernetes manifests validator, with support for Custom Resources!</content>
+  </entry>
+</feed>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/18F/automated-testing-playbook#1740960000</id>
+    <title>https://github.com/18F/automated-testing-playbook</title>
+    <link href="https://github.com/18F/automated-testing-playbook" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A set of principles, practices, idioms, and strategies pertaining to automated software testing and its adoption</content>
+  </entry>
+  <entry>
+    <id>https://github.com/18F/identity-idp#1740960000</id>
+    <title>https://github.com/18F/identity-idp</title>
+    <link href="https://github.com/18F/identity-idp" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Login.gov Core App: Identity Provider (IdP)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/18F/identity-oidc-sinatra#1740960000</id>
+    <title>https://github.com/18F/identity-oidc-sinatra</title>
+    <link href="https://github.com/18F/identity-oidc-sinatra" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Example OpenID Connect relying party as a Sinatra app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/18F/jekyll_frontmatter_tests#1740960000</id>
+    <title>https://github.com/18F/jekyll_frontmatter_tests</title>
+    <link href="https://github.com/18F/jekyll_frontmatter_tests" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A Jekyll plugin to test frontmatter on posts and other documents in a Jekyll site.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/18F/jekyll_pages_api#1740960000</id>
+    <title>https://github.com/18F/jekyll_pages_api</title>
+    <link href="https://github.com/18F/jekyll_pages_api" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">a Jekyll Plugin that generates a JSON file with data for all the Pages in your Site</content>
+  </entry>
+  <entry>
+    <id>https://github.com/18F/open-source-guide#1740960000</id>
+    <title>https://github.com/18F/open-source-guide</title>
+    <link href="https://github.com/18F/open-source-guide" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">18F’s Style guide for open source project documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/homebrew-cask#1740960000</id>
+    <title>https://github.com/Homebrew/homebrew-cask</title>
+    <link href="https://github.com/Homebrew/homebrew-cask" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">🍻 A CLI workflow for the administration of macOS applications distributed as binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/choosealicense.com#1740960000</id>
+    <title>https://github.com/github/choosealicense.com</title>
+    <link href="https://github.com/github/choosealicense.com" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A site to provide non-judgmental guidance on choosing a license for your open source project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekyll/jekyll#1740960000</id>
+    <title>https://github.com/jekyll/jekyll</title>
+    <link href="https://github.com/jekyll/jekyll" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">🌐 Jekyll is a blog-aware static site generator in Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby#1740960000</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubysec/ruby-advisory-db#1740960000</id>
+    <title>https://github.com/rubysec/ruby-advisory-db</title>
+    <link href="https://github.com/rubysec/ruby-advisory-db" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">A database of vulnerable Ruby Gems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/varvet/pundit#1740960000</id>
+    <title>https://github.com/varvet/pundit</title>
+    <link href="https://github.com/varvet/pundit" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Minimal authorization through OO design and pure Ruby classes</content>
+  </entry>
+</feed>

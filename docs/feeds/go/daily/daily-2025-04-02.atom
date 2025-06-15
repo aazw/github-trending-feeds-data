@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SpecterOps/BloodHound#1743552000</id>
+    <title>https://github.com/SpecterOps/BloodHound</title>
+    <link href="https://github.com/SpecterOps/BloodHound" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Six Degrees of Domain Admin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/higress#1743552000</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1743552000</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1743552000</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-rollouts#1743552000</id>
+    <title>https://github.com/argoproj/argo-rollouts</title>
+    <link href="https://github.com/argoproj/argo-rollouts" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Progressive Delivery for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytebase/bytebase#1743552000</id>
+    <title>https://github.com/bytebase/bytebase</title>
+    <link href="https://github.com/bytebase/bytebase" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1743552000</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fsnotify/fsnotify#1743552000</id>
+    <title>https://github.com/fsnotify/fsnotify</title>
+    <link href="https://github.com/fsnotify/fsnotify" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Cross-platform filesystem notifications for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1743552000</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1743552000</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/infracost/infracost#1743552000</id>
+    <title>https://github.com/infracost/infracost</title>
+    <link href="https://github.com/infracost/infracost" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Cloud cost estimates for Terraform in pull requests💰📉 Shift FinOps Left!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1743552000</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3s-io/k3s#1743552000</id>
+    <title>https://github.com/k3s-io/k3s</title>
+    <link href="https://github.com/k3s-io/k3s" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Lightweight Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/vcluster#1743552000</id>
+    <title>https://github.com/loft-sh/vcluster</title>
+    <link href="https://github.com/loft-sh/vcluster" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nicocha30/ligolo-ng#1743552000</id>
+    <title>https://github.com/nicocha30/ligolo-ng</title>
+    <link href="https://github.com/nicocha30/ligolo-ng" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">An advanced, yet simple, tunneling/pivoting tool that uses a TUN interface.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pion/webrtc#1743552000</id>
+    <title>https://github.com/pion/webrtc</title>
+    <link href="https://github.com/pion/webrtc" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Pure Go implementation of the WebRTC API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sirupsen/logrus#1743552000</id>
+    <title>https://github.com/sirupsen/logrus</title>
+    <link href="https://github.com/sirupsen/logrus" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Structured, pluggable logging for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stakater/Reloader#1743552000</id>
+    <title>https://github.com/stakater/Reloader</title>
+    <link href="https://github.com/stakater/Reloader" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're using it!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1743552000</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik#1743552000</id>
+    <title>https://github.com/traefik/traefik</title>
+    <link href="https://github.com/traefik/traefik" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">The Cloud Native Application Proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tulir/whatsmeow#1743552000</id>
+    <title>https://github.com/tulir/whatsmeow</title>
+    <link href="https://github.com/tulir/whatsmeow" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">Go library for the WhatsApp web multidevice API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wgpsec/ENScan_GO#1743552000</id>
+    <title>https://github.com/wgpsec/ENScan_GO</title>
+    <link href="https://github.com/wgpsec/ENScan_GO" />
+    <updated>2025-04-02T00:00:00</updated>
+    <content type="text">一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入</content>
+  </entry>
+</feed>

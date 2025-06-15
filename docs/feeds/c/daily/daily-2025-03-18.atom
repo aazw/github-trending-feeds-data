@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Circuit-Digest/ESP-Drone#1742256000</id>
+    <title>https://github.com/Circuit-Digest/ESP-Drone</title>
+    <link href="https://github.com/Circuit-Digest/ESP-Drone" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/apache/nuttx#1742256000</id>
+    <title>https://github.com/apache/nuttx</title>
+    <link href="https://github.com/apache/nuttx" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">Apache NuttX is a mature, real-time embedded operating system (RTOS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arthenica/ffmpeg-kit#1742256000</id>
+    <title>https://github.com/arthenica/ffmpeg-kit</title>
+    <link href="https://github.com/arthenica/ffmpeg-kit" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">FFmpeg Kit for applications. Supports Android, Flutter, iOS, Linux, macOS, React Native and tvOS. Supersedes MobileFFmpeg, flutter_ffmpeg and react-native-ffmpeg.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iNavFlight/inav#1742256000</id>
+    <title>https://github.com/iNavFlight/inav</title>
+    <link href="https://github.com/iNavFlight/inav" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">INAV: Navigation-enabled flight control software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openwrt/openwrt#1742256000</id>
+    <title>https://github.com/openwrt/openwrt</title>
+    <link href="https://github.com/openwrt/openwrt" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv-collab/riscv-gnu-toolchain#1742256000</id>
+    <title>https://github.com/riscv-collab/riscv-gnu-toolchain</title>
+    <link href="https://github.com/riscv-collab/riscv-gnu-toolchain" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">GNU toolchain for RISC-V, including GCC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/valkey-io/valkey#1742256000</id>
+    <title>https://github.com/valkey-io/valkey</title>
+    <link href="https://github.com/valkey-io/valkey" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zlib-ng/zlib-ng#1742256000</id>
+    <title>https://github.com/zlib-ng/zlib-ng</title>
+    <link href="https://github.com/zlib-ng/zlib-ng" />
+    <updated>2025-03-18T00:00:00</updated>
+    <content type="text">zlib replacement with optimizations for "next generation" systems.</content>
+  </entry>
+</feed>

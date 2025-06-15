@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/EFForg/rayhunter#1741305600</id>
+    <title>https://github.com/EFForg/rayhunter</title>
+    <link href="https://github.com/EFForg/rayhunter" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Rust tool to detect cell site simulators on an orbic mobile hotspot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EricLBuehler/mistral.rs#1741305600</id>
+    <title>https://github.com/EricLBuehler/mistral.rs</title>
+    <link href="https://github.com/EricLBuehler/mistral.rs" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Blazingly fast LLM inference.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/sui#1741305600</id>
+    <title>https://github.com/MystenLabs/sui</title>
+    <link href="https://github.com/MystenLabs/sui" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1741305600</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aptos-labs/aptos-core#1741305600</id>
+    <title>https://github.com/aptos-labs/aptos-core</title>
+    <link href="https://github.com/aptos-labs/aptos-core" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1741305600</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1741305600</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1741305600</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1741305600</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gopher64/gopher64#1741305600</id>
+    <title>https://github.com/gopher64/gopher64</title>
+    <link href="https://github.com/gopher64/gopher64" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">N64 emulator written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1741305600</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kata-containers/kata-containers#1741305600</id>
+    <title>https://github.com/kata-containers/kata-containers</title>
+    <link href="https://github.com/kata-containers/kata-containers" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/librespot-org/librespot#1741305600</id>
+    <title>https://github.com/librespot-org/librespot</title>
+    <link href="https://github.com/librespot-org/librespot" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Open Source Spotify client library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1741305600</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1741305600</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-rust#1741305600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-rust</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-rust" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">The Rust OpenTelemetry implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradedb/paradedb#1741305600</id>
+    <title>https://github.com/paradedb/paradedb</title>
+    <link href="https://github.com/paradedb/paradedb" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Postgres for Search and Analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1741305600</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1741305600</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spaceandtimelabs/sxt-proof-of-sql#1741305600</id>
+    <title>https://github.com/spaceandtimelabs/sxt-proof-of-sql</title>
+    <link href="https://github.com/spaceandtimelabs/sxt-proof-of-sql" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">Space and Time | Proof of SQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1741305600</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1741305600</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/rspack#1741305600</id>
+    <title>https://github.com/web-infra-dev/rspack</title>
+    <link href="https://github.com/web-infra-dev/rspack" />
+    <updated>2025-03-07T00:00:00</updated>
+    <content type="text">The fast Rust-based web bundler with webpack-compatible API 🦀️</content>
+  </entry>
+</feed>

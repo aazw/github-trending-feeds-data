@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom</id>
+  <title>GitHub Trending - zig (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/zig/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Marco-Christiani/zigrad#1737676800</id>
+    <title>https://github.com/Marco-Christiani/zigrad</title>
+    <link href="https://github.com/Marco-Christiani/zigrad" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A deep learning framework built on an autograd engine with high level abstractions and low level control.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NilsIrl/dockerc#1737676800</id>
+    <title>https://github.com/NilsIrl/dockerc</title>
+    <link href="https://github.com/NilsIrl/dockerc" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">container image to single executable compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Not-Nik/raylib-zig#1737676800</id>
+    <title>https://github.com/Not-Nik/raylib-zig</title>
+    <link href="https://github.com/Not-Nik/raylib-zig" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Manually tweaked, auto-generated raylib bindings for zig. https://github.com/raysan5/raylib</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blackboardsh/electrobun#1737676800</id>
+    <title>https://github.com/blackboardsh/electrobun</title>
+    <link href="https://github.com/blackboardsh/electrobun" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Build ultra fast, tiny, and cross-platform desktop apps with Typescript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexops/mach#1737676800</id>
+    <title>https://github.com/hexops/mach</title>
+    <link href="https://github.com/hexops/mach" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">zig game engine &amp; graphics toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jetzig-framework/jetzig#1737676800</id>
+    <title>https://github.com/jetzig-framework/jetzig</title>
+    <link href="https://github.com/jetzig-framework/jetzig" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Jetzig is a web framework written in Zig</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristoff-it/zine#1737676800</id>
+    <title>https://github.com/kristoff-it/zine</title>
+    <link href="https://github.com/kristoff-it/zine" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Fast, Scalable, Flexible Static Site Generator (SSG)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/marler8997/zigup#1737676800</id>
+    <title>https://github.com/marler8997/zigup</title>
+    <link href="https://github.com/marler8997/zigup" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Download and manage zig compilers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neurocyte/flow#1737676800</id>
+    <title>https://github.com/neurocyte/flow</title>
+    <link href="https://github.com/neurocyte/flow" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Flow Control: a programmer's text editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oven-sh/bun#1737676800</id>
+    <title>https://github.com/oven-sh/bun</title>
+    <link href="https://github.com/oven-sh/bun" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pedropark99/zig-book#1737676800</id>
+    <title>https://github.com/pedropark99/zig-book</title>
+    <link href="https://github.com/pedropark99/zig-book" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">An open, technical and introductory book for the Zig programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prime31/zig-ecs#1737676800</id>
+    <title>https://github.com/prime31/zig-ecs</title>
+    <link href="https://github.com/prime31/zig-ecs" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/riverwm/river#1737676800</id>
+    <title>https://github.com/riverwm/river</title>
+    <link href="https://github.com/riverwm/river" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">[mirror] A dynamic tiling Wayland compositor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rockorager/libvaxis#1737676800</id>
+    <title>https://github.com/rockorager/libvaxis</title>
+    <link href="https://github.com/rockorager/libvaxis" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">a modern tui library written in zig</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig#1737676800</id>
+    <title>https://github.com/ziglang/zig</title>
+    <link href="https://github.com/ziglang/zig" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zml/zml#1737676800</id>
+    <title>https://github.com/zml/zml</title>
+    <link href="https://github.com/zml/zml" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Any model. Any hardware. Zero compromise. Built with @ziglang / @openxla / MLIR / @bazelbuild</content>
+  </entry>
+</feed>

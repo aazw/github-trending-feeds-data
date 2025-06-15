@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AppFlowy-IO/AppFlowy-Cloud#1738368000</id>
+    <title>https://github.com/AppFlowy-IO/AppFlowy-Cloud</title>
+    <link href="https://github.com/AppFlowy-IO/AppFlowy-Cloud" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BoundaryML/baml#1738368000</id>
+    <title>https://github.com/BoundaryML/baml</title>
+    <link href="https://github.com/BoundaryML/baml" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">BAML is a language that helps you get structured data from LLMs, with the best DX possible. Works with all languages. Check out the promptfiddle.com playground</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GyulyVGC/sniffnet#1738368000</id>
+    <title>https://github.com/GyulyVGC/sniffnet</title>
+    <link href="https://github.com/GyulyVGC/sniffnet" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Comfortably monitor your Internet traffic 🕵️‍♂️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/sui#1738368000</id>
+    <title>https://github.com/MystenLabs/sui</title>
+    <link href="https://github.com/MystenLabs/sui" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RustScan/RustScan#1738368000</id>
+    <title>https://github.com/RustScan/RustScan</title>
+    <link href="https://github.com/RustScan/RustScan" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">🤖 The Modern Port Scanner 🤖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1738368000</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1738368000</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/block/goose#1738368000</id>
+    <title>https://github.com/block/goose</title>
+    <link href="https://github.com/block/goose" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">an open-source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1738368000</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ekzhang/bore#1738368000</id>
+    <title>https://github.com/ekzhang/bore</title>
+    <link href="https://github.com/ekzhang/bore" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">🕳 bore is a simple CLI tool for making tunnels to localhost</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1738368000</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fish-shell/fish-shell#1738368000</id>
+    <title>https://github.com/fish-shell/fish-shell</title>
+    <link href="https://github.com/fish-shell/fish-shell" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The user-friendly command line shell.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/foundry#1738368000</id>
+    <title>https://github.com/foundry-rs/foundry</title>
+    <link href="https://github.com/foundry-rs/foundry" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/tokenizers#1738368000</id>
+    <title>https://github.com/huggingface/tokenizers</title>
+    <link href="https://github.com/huggingface/tokenizers" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">💥 Fast State-of-the-Art Tokenizers optimized for Research and Production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jito-foundation/jito-solana#1738368000</id>
+    <title>https://github.com/jito-foundation/jito-solana</title>
+    <link href="https://github.com/jito-foundation/jito-solana" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Jito Foundation MEV Solana Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1738368000</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1738368000</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/launchbadge/sqlx#1738368000</id>
+    <title>https://github.com/launchbadge/sqlx</title>
+    <link href="https://github.com/launchbadge/sqlx" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libp2p/rust-libp2p#1738368000</id>
+    <title>https://github.com/libp2p/rust-libp2p</title>
+    <link href="https://github.com/libp2p/rust-libp2p" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">The Rust Implementation of the libp2p networking stack.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rerun-io/rerun#1738368000</id>
+    <title>https://github.com/rerun-io/rerun</title>
+    <link href="https://github.com/rerun-io/rerun" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-random/rand#1738368000</id>
+    <title>https://github.com/rust-random/rand</title>
+    <link href="https://github.com/rust-random/rand" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A Rust library for random number generation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/servo/servo#1738368000</id>
+    <title>https://github.com/servo/servo</title>
+    <link href="https://github.com/servo/servo" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spaceandtimelabs/sxt-proof-of-sql#1738368000</id>
+    <title>https://github.com/spaceandtimelabs/sxt-proof-of-sql</title>
+    <link href="https://github.com/spaceandtimelabs/sxt-proof-of-sql" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Space and Time | Proof of SQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1738368000</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-07T11:12:08+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/karthink/gptel#1736248328</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1736248328</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1736248328</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purcell/emacs-reformatter#1736248328</id>
+    <title>https://github.com/purcell/emacs-reformatter</title>
+    <link href="https://github.com/purcell/emacs-reformatter" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Define commands which run reformatters on the current Emacs buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akermu/emacs-libvterm#1736248328</id>
+    <title>https://github.com/akermu/emacs-libvterm</title>
+    <link href="https://github.com/akermu/emacs-libvterm" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Emacs libvterm integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protesilaos/denote#1736248328</id>
+    <title>https://github.com/protesilaos/denote</title>
+    <link href="https://github.com/protesilaos/denote" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Simple notes for Emacs with an efficient file-naming scheme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-exwm/exwm#1736248328</id>
+    <title>https://github.com/emacs-exwm/exwm</title>
+    <link href="https://github.com/emacs-exwm/exwm" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Emacs X Window Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/forge#1736248328</id>
+    <title>https://github.com/magit/forge</title>
+    <link href="https://github.com/magit/forge" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Work with Git forges from the comfort of Magit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/org-roam/org-roam#1736248328</id>
+    <title>https://github.com/org-roam/org-roam</title>
+    <link href="https://github.com/org-roam/org-roam" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Rudimentary Roam replica with Org-mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CeleritasCelery/rune#1736248328</id>
+    <title>https://github.com/CeleritasCelery/rune</title>
+    <link href="https://github.com/CeleritasCelery/rune" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Rust VM for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xenodium/chatgpt-shell#1736248328</id>
+    <title>https://github.com/xenodium/chatgpt-shell</title>
+    <link href="https://github.com/xenodium/chatgpt-shell" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">A multi-llm Emacs shell (ChatGPT, Claude, Gemini, Kagi, Ollama, Perplexity) + editing integrations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1736248328</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qjcg/awesome-typst#1736248328</id>
+    <title>https://github.com/qjcg/awesome-typst</title>
+    <link href="https://github.com/qjcg/awesome-typst" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Awesome Typst Links</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1736248328</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1736248328</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-01-07T11:12:08+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+</feed>

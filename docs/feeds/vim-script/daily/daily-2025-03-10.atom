@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dracula/vim#1741564800</id>
+    <title>https://github.com/dracula/vim</title>
+    <link href="https://github.com/dracula/vim" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🧛🏻‍♂️ Dark theme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-vim#1741564800</id>
+    <title>https://github.com/editorconfig/editorconfig-vim</title>
+    <link href="https://github.com/editorconfig/editorconfig-vim" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">EditorConfig plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatih/vim-go#1741564800</id>
+    <title>https://github.com/fatih/vim-go</title>
+    <link href="https://github.com/fatih/vim-go" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Go development plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gergap/vim-ollama#1741564800</id>
+    <title>https://github.com/gergap/vim-ollama</title>
+    <link href="https://github.com/gergap/vim-ollama" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Vim plugin for integrating Ollama based LLM (large language models)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1741564800</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1741564800</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1741564800</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1741564800</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pangloss/vim-javascript#1741564800</id>
+    <title>https://github.com/pangloss/vim-javascript</title>
+    <link href="https://github.com/pangloss/vim-javascript" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Vastly improved Javascript indentation and syntax support in Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete-lsp.vim#1741564800</id>
+    <title>https://github.com/prabirshrestha/asyncomplete-lsp.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1741564800</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust.vim#1741564800</id>
+    <title>https://github.com/rust-lang/rust.vim</title>
+    <link href="https://github.com/rust-lang/rust.vim" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Vim configuration for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ryanoasis/vim-devicons#1741564800</id>
+    <title>https://github.com/ryanoasis/vim-devicons</title>
+    <link href="https://github.com/ryanoasis/vim-devicons" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1741564800</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1741564800</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1741564800</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1741564800</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+</feed>

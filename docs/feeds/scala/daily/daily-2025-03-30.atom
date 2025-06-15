@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/akka/akka#1743292800</id>
+    <title>https://github.com/akka/akka</title>
+    <link href="https://github.com/akka/akka" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-livy#1743292800</id>
+    <title>https://github.com/apache/incubator-livy</title>
+    <link href="https://github.com/apache/incubator-livy" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/kyuubi#1743292800</id>
+    <title>https://github.com/apache/kyuubi</title>
+    <link href="https://github.com/apache/kyuubi" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1743292800</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/chisel#1743292800</id>
+    <title>https://github.com/chipsalliance/chisel</title>
+    <link href="https://github.com/chipsalliance/chisel" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Chisel: A Modern Hardware Design Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/rocket-chip#1743292800</id>
+    <title>https://github.com/chipsalliance/rocket-chip</title>
+    <link href="https://github.com/chipsalliance/rocket-chip" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Rocket Chip Generator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta#1743292800</id>
+    <title>https://github.com/delta-io/delta</title>
+    <link href="https://github.com/delta-io/delta" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getkyo/kyo#1743292800</id>
+    <title>https://github.com/getkyo/kyo</title>
+    <link href="https://github.com/getkyo/kyo" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Toolkit for Scala Development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1743292800</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/SynapseML#1743292800</id>
+    <title>https://github.com/microsoft/SynapseML</title>
+    <link href="https://github.com/microsoft/SynapseML" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Simple and Distributed Machine Learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rcardin/yaes#1743292800</id>
+    <title>https://github.com/rcardin/yaes</title>
+    <link href="https://github.com/rcardin/yaes" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">An experimental effect system in Scala using capability passing style</content>
+  </entry>
+  <entry>
+    <id>https://github.com/snowplow-incubator/snowplow-micro#1743292800</id>
+    <title>https://github.com/snowplow-incubator/snowplow-micro</title>
+    <link href="https://github.com/snowplow-incubator/snowplow-micro" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text">Standalone application to automate testing of trackers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/berkeley-hardfloat#1743292800</id>
+    <title>https://github.com/ucb-bar/berkeley-hardfloat</title>
+    <link href="https://github.com/ucb-bar/berkeley-hardfloat" />
+    <updated>2025-03-30T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

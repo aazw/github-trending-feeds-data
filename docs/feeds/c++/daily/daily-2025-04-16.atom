@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-16T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IntelRealSense/librealsense#1744761600</id>
+    <title>https://github.com/IntelRealSense/librealsense</title>
+    <link href="https://github.com/IntelRealSense/librealsense" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Intel® RealSense™ SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/TensorRT-LLM#1744761600</id>
+    <title>https://github.com/NVIDIA/TensorRT-LLM</title>
+    <link href="https://github.com/NVIDIA/TensorRT-LLM" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PixarAnimationStudios/OpenUSD#1744761600</id>
+    <title>https://github.com/PixarAnimationStudios/OpenUSD</title>
+    <link href="https://github.com/PixarAnimationStudios/OpenUSD" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Universal Scene Description</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Zackriya-Solutions/meeting-minutes#1744761600</id>
+    <title>https://github.com/Zackriya-Solutions/meeting-minutes</title>
+    <link href="https://github.com/Zackriya-Solutions/meeting-minutes" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abseil/abseil-cpp#1744761600</id>
+    <title>https://github.com/abseil/abseil-cpp</title>
+    <link href="https://github.com/abseil/abseil-cpp" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Abseil Common Libraries (C++)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/colmap/colmap#1744761600</id>
+    <title>https://github.com/colmap/colmap</title>
+    <link href="https://github.com/colmap/colmap" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">COLMAP - Structure-from-Motion and Multi-View Stereo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/esphome/esphome#1744761600</id>
+    <title>https://github.com/esphome/esphome</title>
+    <link href="https://github.com/esphome/esphome" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/folly#1744761600</id>
+    <title>https://github.com/facebook/folly</title>
+    <link href="https://github.com/facebook/folly" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">An open-source C++ library developed and used at Facebook.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gabime/spdlog#1744761600</id>
+    <title>https://github.com/gabime/spdlog</title>
+    <link href="https://github.com/gabime/spdlog" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Fast C++ logging library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.cpp#1744761600</id>
+    <title>https://github.com/ggml-org/llama.cpp</title>
+    <link href="https://github.com/ggml-org/llama.cpp" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">LLM inference in C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/perfetto#1744761600</id>
+    <title>https://github.com/google/perfetto</title>
+    <link href="https://github.com/google/perfetto" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Performance instrumentation and tracing for Android, Linux and Chrome</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kuzudb/kuzu#1744761600</id>
+    <title>https://github.com/kuzudb/kuzu</title>
+    <link href="https://github.com/kuzudb/kuzu" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Embedded property graph database built for speed. Vector search and full-text search built in. Implements Cypher.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mamedev/mame#1744761600</id>
+    <title>https://github.com/mamedev/mame</title>
+    <link href="https://github.com/mamedev/mame" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">MAME</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/BitNet#1744761600</id>
+    <title>https://github.com/microsoft/BitNet</title>
+    <link href="https://github.com/microsoft/BitNet" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Official inference framework for 1-bit LLMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/niedev/RTranslator#1744761600</id>
+    <title>https://github.com/niedev/RTranslator</title>
+    <link href="https://github.com/niedev/RTranslator" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Open source real-time translation app for Android that runs locally</content>
+  </entry>
+  <entry>
+    <id>https://github.com/owasp-modsecurity/ModSecurity#1744761600</id>
+    <title>https://github.com/owasp-modsecurity/ModSecurity</title>
+    <link href="https://github.com/owasp-modsecurity/ModSecurity" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apache, IIS and Nginx. It has a robust event-based programming language which provides protection from a range of attacks against web applications and allows for HTTP traffic monitoring, logging and real-time analysis.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pybind/pybind11#1744761600</id>
+    <title>https://github.com/pybind/pybind11</title>
+    <link href="https://github.com/pybind/pybind11" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Seamless operability between C++11 and Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qgis/QGIS#1744761600</id>
+    <title>https://github.com/qgis/QGIS</title>
+    <link href="https://github.com/qgis/QGIS" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scylladb/scylladb#1744761600</id>
+    <title>https://github.com/scylladb/scylladb</title>
+    <link href="https://github.com/scylladb/scylladb" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">NoSQL data store using the Seastar framework, compatible with Apache Cassandra and Amazon DynamoDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tesseract-ocr/tesseract#1744761600</id>
+    <title>https://github.com/tesseract-ocr/tesseract</title>
+    <link href="https://github.com/tesseract-ocr/tesseract" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">Tesseract Open Source OCR Engine (main repository)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yhirose/cpp-httplib#1744761600</id>
+    <title>https://github.com/yhirose/cpp-httplib</title>
+    <link href="https://github.com/yhirose/cpp-httplib" />
+    <updated>2025-04-16T00:00:00</updated>
+    <content type="text">A C++ header-only HTTP/HTTPS server and client library</content>
+  </entry>
+</feed>

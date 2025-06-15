@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1741132800</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VundleVim/Vundle.vim#1741132800</id>
+    <title>https://github.com/VundleVim/Vundle.vim</title>
+    <link href="https://github.com/VundleVim/Vundle.vim" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Vundle, the plug-in manager for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1741132800</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1741132800</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jamessan/vim-gnupg#1741132800</id>
+    <title>https://github.com/jamessan/vim-gnupg</title>
+    <link href="https://github.com/jamessan/vim-gnupg" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">This script implements transparent editing of gpg encrypted files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1741132800</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mattn/vim-lsp-settings#1741132800</id>
+    <title>https://github.com/mattn/vim-lsp-settings</title>
+    <link href="https://github.com/mattn/vim-lsp-settings" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Auto configurations for Language Server for vim-lsp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1741132800</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mileszs/ack.vim#1741132800</id>
+    <title>https://github.com/mileszs/ack.vim</title>
+    <link href="https://github.com/mileszs/ack.vim" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Vim plugin for the Perl module / CLI script 'ack'</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ntpeters/vim-better-whitespace#1741132800</id>
+    <title>https://github.com/ntpeters/vim-better-whitespace</title>
+    <link href="https://github.com/ntpeters/vim-better-whitespace" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Better whitespace highlighting for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete-lsp.vim#1741132800</id>
+    <title>https://github.com/prabirshrestha/asyncomplete-lsp.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/vim-lsp#1741132800</id>
+    <title>https://github.com/prabirshrestha/vim-lsp</title>
+    <link href="https://github.com/prabirshrestha/vim-lsp" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">async language server protocol plugin for vim and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rodjek/vim-puppet#1741132800</id>
+    <title>https://github.com/rodjek/vim-puppet</title>
+    <link href="https://github.com/rodjek/vim-puppet" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Puppet niceties for your Vim setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust.vim#1741132800</id>
+    <title>https://github.com/rust-lang/rust.vim</title>
+    <link href="https://github.com/rust-lang/rust.vim" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Vim configuration for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sonph/onehalf#1741132800</id>
+    <title>https://github.com/sonph/onehalf</title>
+    <link href="https://github.com/sonph/onehalf" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Clean, vibrant and pleasing color schemes for Vim, Sublime Text, iTerm, gnome-terminal and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomasr/molokai#1741132800</id>
+    <title>https://github.com/tomasr/molokai</title>
+    <link href="https://github.com/tomasr/molokai" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Molokai color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomtom/tcomment_vim#1741132800</id>
+    <title>https://github.com/tomtom/tcomment_vim</title>
+    <link href="https://github.com/tomtom/tcomment_vim" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">An extensible &amp; universal comment vim-plugin that also handles embedded filetypes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1741132800</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1741132800</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1741132800</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+</feed>

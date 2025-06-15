@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/windsurf.vim#1744243200</id>
+    <title>https://github.com/Exafunction/windsurf.vim</title>
+    <link href="https://github.com/Exafunction/windsurf.vim" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MaxMEllon/vim-jsx-pretty#1744243200</id>
+    <title>https://github.com/MaxMEllon/vim-jsx-pretty</title>
+    <link href="https://github.com/MaxMEllon/vim-jsx-pretty" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">🔦 [Vim script] JSX and TSX syntax pretty highlighting for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ap/vim-buftabline#1744243200</id>
+    <title>https://github.com/ap/vim-buftabline</title>
+    <link href="https://github.com/ap/vim-buftabline" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Forget Vim tabs – now you can have buffer tabs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1744243200</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1744243200</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hrsh7th/vim-vsnip#1744243200</id>
+    <title>https://github.com/hrsh7th/vim-vsnip</title>
+    <link href="https://github.com/hrsh7th/vim-vsnip" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Snippet plugin for vim/nvim that supports LSP/VSCode's snippet format.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbranchaud/til#1744243200</id>
+    <title>https://github.com/jbranchaud/til</title>
+    <link href="https://github.com/jbranchaud/til" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">📝 Today I Learned</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jiangmiao/auto-pairs#1744243200</id>
+    <title>https://github.com/jiangmiao/auto-pairs</title>
+    <link href="https://github.com/jiangmiao/auto-pairs" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Vim plugin, insert or delete brackets, parens, quotes in pair</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-ui#1744243200</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-ui</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Simple UI for https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lambdalisue/vim-fern#1744243200</id>
+    <title>https://github.com/lambdalisue/vim-fern</title>
+    <link href="https://github.com/lambdalisue/vim-fern" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">🌿 General purpose asynchronous tree viewer written in Pure Vim script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1744243200</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-signify#1744243200</id>
+    <title>https://github.com/mhinz/vim-signify</title>
+    <link href="https://github.com/mhinz/vim-signify" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">➕ Show a diff using Vim its sign column.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1744243200</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-markdown#1744243200</id>
+    <title>https://github.com/tpope/vim-markdown</title>
+    <link href="https://github.com/tpope/vim-markdown" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Vim Markdown runtime files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-speeddating#1744243200</id>
+    <title>https://github.com/tpope/vim-speeddating</title>
+    <link href="https://github.com/tpope/vim-speeddating" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1744243200</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-04-10T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+</feed>

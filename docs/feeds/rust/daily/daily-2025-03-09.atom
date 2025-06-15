@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/EFForg/rayhunter#1741478400</id>
+    <title>https://github.com/EFForg/rayhunter</title>
+    <link href="https://github.com/EFForg/rayhunter" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Rust tool to detect cell site simulators on an orbic mobile hotspot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EricLBuehler/mistral.rs#1741478400</id>
+    <title>https://github.com/EricLBuehler/mistral.rs</title>
+    <link href="https://github.com/EricLBuehler/mistral.rs" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Blazingly fast LLM inference.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Y2Z/monolith#1741478400</id>
+    <title>https://github.com/Y2Z/monolith</title>
+    <link href="https://github.com/Y2Z/monolith" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">⬛️ CLI tool for saving complete web pages as a single HTML file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1741478400</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alacritty/alacritty#1741478400</id>
+    <title>https://github.com/alacritty/alacritty</title>
+    <link href="https://github.com/alacritty/alacritty" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A cross-platform, OpenGL terminal emulator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1741478400</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ast-grep/ast-grep#1741478400</id>
+    <title>https://github.com/ast-grep/ast-grep</title>
+    <link href="https://github.com/ast-grep/ast-grep" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">⚡A CLI tool for code structural search, lint and rewriting. Written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1741478400</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bee-san/RustScan#1741478400</id>
+    <title>https://github.com/bee-san/RustScan</title>
+    <link href="https://github.com/bee-san/RustScan" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">🤖 The Modern Port Scanner 🤖</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1741478400</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bincode-org/bincode#1741478400</id>
+    <title>https://github.com/bincode-org/bincode</title>
+    <link href="https://github.com/bincode-org/bincode" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A binary encoder / decoder implementation in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1741478400</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1741478400</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1741478400</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1741478400</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qarmin/czkawka#1741478400</id>
+    <title>https://github.com/qarmin/czkawka</title>
+    <link href="https://github.com/qarmin/czkawka" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Multi functional app to find duplicates, empty folders, similar images etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/book#1741478400</id>
+    <title>https://github.com/rust-lang/book</title>
+    <link href="https://github.com/rust-lang/book" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">The Rust Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/mdBook#1741478400</id>
+    <title>https://github.com/rust-lang/mdBook</title>
+    <link href="https://github.com/rust-lang/mdBook" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Create book from markdown files. Like Gitbook but implemented in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1741478400</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/tauri#1741478400</id>
+    <title>https://github.com/tauri-apps/tauri</title>
+    <link href="https://github.com/tauri-apps/tauri" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1741478400</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1741478400</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1741478400</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1741478400</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zellij-org/zellij#1741478400</id>
+    <title>https://github.com/zellij-org/zellij</title>
+    <link href="https://github.com/zellij-org/zellij" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A terminal workspace with batteries included</content>
+  </entry>
+</feed>

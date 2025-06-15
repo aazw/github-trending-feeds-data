@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom</id>
+  <title>GitHub Trending - makefile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LibreELEC/LibreELEC.tv#1741392000</id>
+    <title>https://github.com/LibreELEC/LibreELEC.tv</title>
+    <link href="https://github.com/LibreELEC/LibreELEC.tv" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Just enough OS for KODI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dbt-labs/dbt-utils#1741392000</id>
+    <title>https://github.com/dbt-labs/dbt-utils</title>
+    <link href="https://github.com/dbt-labs/dbt-utils" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Utility functions for dbt projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duckdb/extension-ci-tools#1741392000</id>
+    <title>https://github.com/duckdb/extension-ci-tools</title>
+    <link href="https://github.com/duckdb/extension-ci-tools" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Repository containing reusable workflows / actions for building DuckDB extensions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/freebsd/freebsd-ports#1741392000</id>
+    <title>https://github.com/freebsd/freebsd-ports</title>
+    <link href="https://github.com/freebsd/freebsd-ports" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">FreeBSD ports tree (read-only mirror)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-standards/project-layout#1741392000</id>
+    <title>https://github.com/golang-standards/project-layout</title>
+    <link href="https://github.com/golang-standards/project-layout" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Standard Go Project Layout</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto#1741392000</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">OpenTelemetry protocol (OTLP) specification and Protobuf definitions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto-go#1741392000</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto-go" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Generated code for OpenTelemetry protobuf data model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/raspberrypi/noobs#1741392000</id>
+    <title>https://github.com/raspberrypi/noobs</title>
+    <link href="https://github.com/raspberrypi/noobs" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">NOOBS (New Out Of Box Software) - An easy Operating System install manager for the Raspberry Pi</content>
+  </entry>
+</feed>

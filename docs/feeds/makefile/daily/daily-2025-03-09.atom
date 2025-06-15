@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom</id>
+  <title>GitHub Trending - makefile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/makefile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Xilinx/Vitis_Accel_Examples#1741478400</id>
+    <title>https://github.com/Xilinx/Vitis_Accel_Examples</title>
+    <link href="https://github.com/Xilinx/Vitis_Accel_Examples" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Vitis_Accel_Examples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/artis3n/ansible-role-tailscale#1741478400</id>
+    <title>https://github.com/artis3n/ansible-role-tailscale</title>
+    <link href="https://github.com/artis3n/ansible-role-tailscale" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Ansible role to install and configure a Tailscale node.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/build-harness#1741478400</id>
+    <title>https://github.com/cloudposse/build-harness</title>
+    <link href="https://github.com/cloudposse/build-harness" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Collection of Makefiles to facilitate building Golang projects, Dockerfiles, Helm charts, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foostan/crkbd#1741478400</id>
+    <title>https://github.com/foostan/crkbd</title>
+    <link href="https://github.com/foostan/crkbd" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-standards/project-layout#1741478400</id>
+    <title>https://github.com/golang-standards/project-layout</title>
+    <link href="https://github.com/golang-standards/project-layout" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Standard Go Project Layout</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immortalwrt/packages#1741478400</id>
+    <title>https://github.com/immortalwrt/packages</title>
+    <link href="https://github.com/immortalwrt/packages" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Community maintained packages for ImmortalWrt.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jobbole/awesome-python-cn#1741478400</id>
+    <title>https://github.com/jobbole/awesome-python-cn</title>
+    <link href="https://github.com/jobbole/awesome-python-cn" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/motioneye-project/motioneyeos#1741478400</id>
+    <title>https://github.com/motioneye-project/motioneyeos</title>
+    <link href="https://github.com/motioneye-project/motioneyeos" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A Video Surveillance OS For Single-board Computers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-proto#1741478400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-proto</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-proto" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">OpenTelemetry protocol (OTLP) specification and Protobuf definitions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulumi/pulumi-cloudflare#1741478400</id>
+    <title>https://github.com/pulumi/pulumi-cloudflare</title>
+    <link href="https://github.com/pulumi/pulumi-cloudflare" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">Pulumi's Cloudflare package, providing multi-language infrastructure as code for Cloudflare</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pulumi/pulumi-random#1741478400</id>
+    <title>https://github.com/pulumi/pulumi-random</title>
+    <link href="https://github.com/pulumi/pulumi-random" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A Pulumi provider that safely enables randomness for resources</content>
+  </entry>
+</feed>

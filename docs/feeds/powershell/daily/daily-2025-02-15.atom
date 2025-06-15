@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/powershell/daily.atom</id>
+  <title>GitHub Trending - powershell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/powershell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/azure-docs-json-samples#1739577600</id>
+    <title>https://github.com/Azure/azure-docs-json-samples</title>
+    <link href="https://github.com/Azure/azure-docs-json-samples" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Contains examples of JSON files that are included in Azure documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CubeCoders/AMPTemplates#1739577600</id>
+    <title>https://github.com/CubeCoders/AMPTemplates</title>
+    <link href="https://github.com/CubeCoders/AMPTemplates" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">For the AMP community to share Generic Module templates.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Micke-K/IntuneManagement#1739577600</id>
+    <title>https://github.com/Micke-K/IntuneManagement</title>
+    <link href="https://github.com/Micke-K/IntuneManagement" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Raphire/Win11Debloat#1739577600</id>
+    <title>https://github.com/Raphire/Win11Debloat</title>
+    <link href="https://github.com/Raphire/Win11Debloat" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A simple, easy to use PowerShell script to remove pre-installed apps from Windows, disable telemetry, remove Bing from Windows search as well as perform various other changes to declutter and improve your Windows experience. This script works for both Windows 10 and Windows 11.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Romanitho/Winget-AutoUpdate#1739577600</id>
+    <title>https://github.com/Romanitho/Winget-AutoUpdate</title>
+    <link href="https://github.com/Romanitho/Winget-AutoUpdate" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">WAU daily updates apps as system and notify connected users. (Allowlist and Blocklist support)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ScoopInstaller/Scoop#1739577600</id>
+    <title>https://github.com/ScoopInstaller/Scoop</title>
+    <link href="https://github.com/ScoopInstaller/Scoop" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A command-line installer for Windows.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/runner-images#1739577600</id>
+    <title>https://github.com/actions/runner-images</title>
+    <link href="https://github.com/actions/runner-images" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">GitHub Actions runner images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cisagov/ScubaGear#1739577600</id>
+    <title>https://github.com/cisagov/ScubaGear</title>
+    <link href="https://github.com/cisagov/ScubaGear" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Automation to assess the state of your M365 tenant against CISA's baselines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deevus/zed-windows-builds#1739577600</id>
+    <title>https://github.com/deevus/zed-windows-builds</title>
+    <link href="https://github.com/deevus/zed-windows-builds" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/core#1739577600</id>
+    <title>https://github.com/dotnet/core</title>
+    <link href="https://github.com/dotnet/core" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">.NET news, announcements, release notes, and more!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jamesstringerparsec/Easy-GPU-PV#1739577600</id>
+    <title>https://github.com/jamesstringerparsec/Easy-GPU-PV</title>
+    <link href="https://github.com/jamesstringerparsec/Easy-GPU-PV" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">A Project dedicated to making GPU Partitioning on Windows easier!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jenkinsci/docker#1739577600</id>
+    <title>https://github.com/jenkinsci/docker</title>
+    <link href="https://github.com/jenkinsci/docker" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Docker official jenkins repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/Microsoft365DSC#1739577600</id>
+    <title>https://github.com/microsoft/Microsoft365DSC</title>
+    <link href="https://github.com/microsoft/Microsoft365DSC" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Manages, configures, extracts and monitors Microsoft 365 tenant configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/winget-pkgs#1739577600</id>
+    <title>https://github.com/microsoft/winget-pkgs</title>
+    <link href="https://github.com/microsoft/winget-pkgs" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">The Microsoft community Windows Package Manager manifest repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoftgraph/microsoft-graph-docs-contrib#1739577600</id>
+    <title>https://github.com/microsoftgraph/microsoft-graph-docs-contrib</title>
+    <link href="https://github.com/microsoftgraph/microsoft-graph-docs-contrib" />
+    <updated>2025-02-15T00:00:00</updated>
+    <content type="text">Documentation for the Microsoft Graph REST API</content>
+  </entry>
+</feed>

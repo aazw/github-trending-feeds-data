@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/blt/port_compiler#1737590400</id>
+    <title>https://github.com/blt/port_compiler</title>
+    <link href="https://github.com/blt/port_compiler" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A rebar3 port compiler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cmullaparthi/ibrowse#1737590400</id>
+    <title>https://github.com/cmullaparthi/ibrowse</title>
+    <link href="https://github.com/cmullaparthi/ibrowse" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Erlang HTTP client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emqx/emqx#1737590400</id>
+    <title>https://github.com/emqx/emqx</title>
+    <link href="https://github.com/emqx/emqx" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">The most scalable open-source MQTT broker for IoT, IIoT, and connected vehicles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1737590400</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang-lager/lager#1737590400</id>
+    <title>https://github.com/erlang-lager/lager</title>
+    <link href="https://github.com/erlang-lager/lager" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A logging framework for Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1737590400</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/for-GET/jesse#1737590400</id>
+    <title>https://github.com/for-GET/jesse</title>
+    <link href="https://github.com/for-GET/jesse" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mochi/mochiweb#1737590400</id>
+    <title>https://github.com/mochi/mochiweb</title>
+    <link href="https://github.com/mochi/mochiweb" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">MochiWeb is an Erlang library for building lightweight HTTP servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowlib#1737590400</id>
+    <title>https://github.com/ninenines/cowlib</title>
+    <link href="https://github.com/ninenines/cowlib" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Support library for manipulating Web protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange#1737590400</id>
+    <title>https://github.com/rabbitmq/rabbitmq-delayed-message-exchange</title>
+    <link href="https://github.com/rabbitmq/rabbitmq-delayed-message-exchange" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Delayed Messaging for RabbitMQ</content>
+  </entry>
+</feed>

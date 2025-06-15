@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom</id>
+  <title>GitHub Trending - starlark (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xPolygon/kurtosis-cdk#1739145600</id>
+    <title>https://github.com/0xPolygon/kurtosis-cdk</title>
+    <link href="https://github.com/0xPolygon/kurtosis-cdk" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A Kurtosis package that deploys a private, portable, and modular Polygon CDK devnet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/distroless#1739145600</id>
+    <title>https://github.com/GoogleContainerTools/distroless</title>
+    <link href="https://github.com/GoogleContainerTools/distroless" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aspect-build/rules_ts#1739145600</id>
+    <title>https://github.com/aspect-build/rules_ts</title>
+    <link href="https://github.com/aspect-build/rules_ts" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Bazel rules for the `tsc` compiler from http://typescriptlang.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/rules_foreign_cc#1739145600</id>
+    <title>https://github.com/bazel-contrib/rules_foreign_cc</title>
+    <link href="https://github.com/bazel-contrib/rules_foreign_cc" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Build rules for interfacing with "foreign" (non-Bazel) build systems (CMake, configure-make, GNU Make, boost, ninja, Meson)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/apple_support#1739145600</id>
+    <title>https://github.com/bazelbuild/apple_support</title>
+    <link href="https://github.com/bazelbuild/apple_support" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Apple support for Bazel rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-skylib#1739145600</id>
+    <title>https://github.com/bazelbuild/bazel-skylib</title>
+    <link href="https://github.com/bazelbuild/bazel-skylib" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Common useful functions and rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_appengine#1739145600</id>
+    <title>https://github.com/bazelbuild/rules_appengine</title>
+    <link href="https://github.com/bazelbuild/rules_appengine" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">AppEngine rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_docker#1739145600</id>
+    <title>https://github.com/bazelbuild/rules_docker</title>
+    <link href="https://github.com/bazelbuild/rules_docker" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Rules for building and handling Docker images with Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_proto#1739145600</id>
+    <title>https://github.com/bazelbuild/rules_proto</title>
+    <link href="https://github.com/bazelbuild/rules_proto" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Protocol buffer rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_python#1739145600</id>
+    <title>https://github.com/bazelbuild/rules_python</title>
+    <link href="https://github.com/bazelbuild/rules_python" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Bazel Python Rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cncf/xds#1739145600</id>
+    <title>https://github.com/cncf/xds</title>
+    <link href="https://github.com/cncf/xds" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">xDS API Working Group</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethpandaops/ethereum-package#1739145600</id>
+    <title>https://github.com/ethpandaops/ethereum-package</title>
+    <link href="https://github.com/ethpandaops/ethereum-package" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A Kurtosis package that deploys a private, portable, and modular Ethereum devnet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/api-common-protos#1739145600</id>
+    <title>https://github.com/googleapis/api-common-protos</title>
+    <link href="https://github.com/googleapis/api-common-protos" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">A standard library for use in specifying protocol buffer APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/googleapis#1739145600</id>
+    <title>https://github.com/googleapis/googleapis</title>
+    <link href="https://github.com/googleapis/googleapis" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Public interface definitions of Google APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rules-proto-grpc/rules_proto_grpc#1739145600</id>
+    <title>https://github.com/rules-proto-grpc/rules_proto_grpc</title>
+    <link href="https://github.com/rules-proto-grpc/rules_proto_grpc" />
+    <updated>2025-02-10T00:00:00</updated>
+    <content type="text">Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets</content>
+  </entry>
+</feed>

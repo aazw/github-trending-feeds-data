@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom</id>
+  <title>GitHub Trending - erlang (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cbd/edis#1743811200</id>
+    <title>https://github.com/cbd/edis</title>
+    <link href="https://github.com/cbd/edis" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">An Erlang implementation of Redis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/couchbase/couchdb#1743811200</id>
+    <title>https://github.com/couchbase/couchdb</title>
+    <link href="https://github.com/couchbase/couchdb" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">CouchDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epgsql/epgsql#1743811200</id>
+    <title>https://github.com/epgsql/epgsql</title>
+    <link href="https://github.com/epgsql/epgsql" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Erlang PostgreSQL client library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eproxus/meck#1743811200</id>
+    <title>https://github.com/eproxus/meck</title>
+    <link href="https://github.com/eproxus/meck" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">A mocking library for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlang/otp#1743811200</id>
+    <title>https://github.com/erlang/otp</title>
+    <link href="https://github.com/erlang/otp" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Erlang/OTP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlware/relx#1743811200</id>
+    <title>https://github.com/erlware/relx</title>
+    <link href="https://github.com/erlware/relx" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Sane, simple release creation for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/erlydtl/erlydtl#1743811200</id>
+    <title>https://github.com/erlydtl/erlydtl</title>
+    <link href="https://github.com/erlydtl/erlydtl" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Django templates for Erlang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/for-GET/jesse#1743811200</id>
+    <title>https://github.com/for-GET/jesse</title>
+    <link href="https://github.com/for-GET/jesse" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">jesse (JSon Schema Erlang) is an implementation of a JSON Schema validator for Erlang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hexpm/hex_core#1743811200</id>
+    <title>https://github.com/hexpm/hex_core</title>
+    <link href="https://github.com/hexpm/hex_core" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Reference implementation of Hex specifications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kivra/restclient#1743811200</id>
+    <title>https://github.com/kivra/restclient</title>
+    <link href="https://github.com/kivra/restclient" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Erlang Rest Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/cowboy#1743811200</id>
+    <title>https://github.com/ninenines/cowboy</title>
+    <link href="https://github.com/ninenines/cowboy" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Small, fast, modern HTTP server for Erlang/OTP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ninenines/ranch#1743811200</id>
+    <title>https://github.com/ninenines/ranch</title>
+    <link href="https://github.com/ninenines/ranch" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">Socket acceptor pool for TCP protocols.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomas-abrahamsson/gpb#1743811200</id>
+    <title>https://github.com/tomas-abrahamsson/gpb</title>
+    <link href="https://github.com/tomas-abrahamsson/gpb" />
+    <updated>2025-04-05T00:00:00</updated>
+    <content type="text">A Google Protobuf implementation for Erlang</content>
+  </entry>
+</feed>

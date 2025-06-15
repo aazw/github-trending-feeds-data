@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GraphiteEditor/Graphite#1741651200</id>
+    <title>https://github.com/GraphiteEditor/Graphite</title>
+    <link href="https://github.com/GraphiteEditor/Graphite" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">2D vector &amp; raster editor that melds traditional layers &amp; tools with a modern node-based, non-destructive, procedural workflow.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1741651200</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1741651200</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1741651200</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atuinsh/atuin#1741651200</id>
+    <title>https://github.com/atuinsh/atuin</title>
+    <link href="https://github.com/atuinsh/atuin" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">✨ Magical shell history</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1741651200</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bincode-org/bincode#1741651200</id>
+    <title>https://github.com/bincode-org/bincode</title>
+    <link href="https://github.com/bincode-org/bincode" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A binary encoder / decoder implementation in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/casey/just#1741651200</id>
+    <title>https://github.com/casey/just</title>
+    <link href="https://github.com/casey/just" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">🤖 Just a command runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1741651200</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gleam-lang/gleam#1741651200</id>
+    <title>https://github.com/gleam-lang/gleam</title>
+    <link href="https://github.com/gleam-lang/gleam" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">⭐️ A friendly language for building type-safe, scalable systems!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1741651200</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1741651200</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juhaku/utoipa#1741651200</id>
+    <title>https://github.com/juhaku/utoipa</title>
+    <link href="https://github.com/juhaku/utoipa" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfontanini/presenterm#1741651200</id>
+    <title>https://github.com/mfontanini/presenterm</title>
+    <link href="https://github.com/mfontanini/presenterm" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">A markdown terminal slideshow tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/cryo#1741651200</id>
+    <title>https://github.com/paradigmxyz/cryo</title>
+    <link href="https://github.com/paradigmxyz/cryo" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">cryo is the easiest way to extract blockchain data to parquet, csv, json, or python dataframes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1741651200</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rustlings#1741651200</id>
+    <title>https://github.com/rust-lang/rustlings</title>
+    <link href="https://github.com/rust-lang/rustlings" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">🦀 Small exercises to get you used to reading and writing Rust code!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1741651200</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk-server#1741651200</id>
+    <title>https://github.com/rustdesk/rustdesk-server</title>
+    <link href="https://github.com/rustdesk/rustdesk-server" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">RustDesk Server Program</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1741651200</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1741651200</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+  <entry>
+    <id>https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display#1741651200</id>
+    <title>https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display</title>
+    <link href="https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display" />
+    <updated>2025-03-11T00:00:00</updated>
+    <content type="text">Building a community around a cheap ESP32 Display with a touch screen</content>
+  </entry>
+</feed>

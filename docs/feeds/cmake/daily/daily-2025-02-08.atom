@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1738972800</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware_msgs#1738972800</id>
+    <title>https://github.com/autowarefoundation/autoware_msgs</title>
+    <link href="https://github.com/autowarefoundation/autoware_msgs" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1738972800</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/ecbuild#1738972800</id>
+    <title>https://github.com/ecmwf/ecbuild</title>
+    <link href="https://github.com/ecmwf/ecbuild" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flathub/shared-modules#1738972800</id>
+    <title>https://github.com/flathub/shared-modules</title>
+    <link href="https://github.com/flathub/shared-modules" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Common Flatpak modules that can be used as a git submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1738972800</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-planning/navigation_msgs#1738972800</id>
+    <title>https://github.com/ros-planning/navigation_msgs</title>
+    <link href="https://github.com/ros-planning/navigation_msgs" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Message packages required by the navigation stack</content>
+  </entry>
+</feed>

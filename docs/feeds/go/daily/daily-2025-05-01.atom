@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/kubectl-ai#1746057600</id>
+    <title>https://github.com/GoogleCloudPlatform/kubectl-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/kubectl-ai" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">AI powered Kubernetes Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1746057600</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Tencent/AI-Infra-Guard#1746057600</id>
+    <title>https://github.com/Tencent/AI-Infra-Guard</title>
+    <link href="https://github.com/Tencent/AI-Infra-Guard" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A comprehensive, intelligent, easy-to-use, and lightweight AI Infrastructure Vulnerability Assessment and MCP Server Security Analysis Tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/actions/actions-runner-controller#1746057600</id>
+    <title>https://github.com/actions/actions-runner-controller</title>
+    <link href="https://github.com/actions/actions-runner-controller" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Kubernetes controller for GitHub Actions self-hosted runners</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft#1746057600</id>
+    <title>https://github.com/anchore/syft</title>
+    <link href="https://github.com/anchore/syft" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1746057600</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-workflows#1746057600</id>
+    <title>https://github.com/argoproj/argo-workflows</title>
+    <link href="https://github.com/argoproj/argo-workflows" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Workflow Engine for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/karpenter-provider-aws#1746057600</id>
+    <title>https://github.com/aws/karpenter-provider-aws</title>
+    <link href="https://github.com/aws/karpenter-provider-aws" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami-labs/sealed-secrets#1746057600</id>
+    <title>https://github.com/bitnami-labs/sealed-secrets</title>
+    <link href="https://github.com/bitnami-labs/sealed-secrets" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">A Kubernetes controller and tool for one-way encrypted Secrets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1746057600</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/external-secrets/external-secrets#1746057600</id>
+    <title>https://github.com/external-secrets/external-secrets</title>
+    <link href="https://github.com/external-secrets/external-secrets" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goreleaser/goreleaser#1746057600</id>
+    <title>https://github.com/goreleaser/goreleaser</title>
+    <link href="https://github.com/goreleaser/goreleaser" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Release engineering, simplified</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/pyroscope#1746057600</id>
+    <title>https://github.com/grafana/pyroscope</title>
+    <link href="https://github.com/grafana/pyroscope" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Continuous Profiling Platform. Debug performance issues down to a single line of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1746057600</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-google#1746057600</id>
+    <title>https://github.com/hashicorp/terraform-provider-google</title>
+    <link href="https://github.com/hashicorp/terraform-provider-google" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Terraform Provider for Google Cloud Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1746057600</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1746057600</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/knadh/listmonk#1746057600</id>
+    <title>https://github.com/knadh/listmonk</title>
+    <link href="https://github.com/knadh/listmonk" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kustomize#1746057600</id>
+    <title>https://github.com/kubernetes-sigs/kustomize</title>
+    <link href="https://github.com/kubernetes-sigs/kustomize" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Customization of kubernetes YAML configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/vcluster#1746057600</id>
+    <title>https://github.com/loft-sh/vcluster</title>
+    <link href="https://github.com/loft-sh/vcluster" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it offers better multi-tenancy and isolation than regular namespaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1746057600</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/runatlantis/atlantis#1746057600</id>
+    <title>https://github.com/runatlantis/atlantis</title>
+    <link href="https://github.com/runatlantis/atlantis" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Terraform Pull Request Automation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/segmentio/kafka-go#1746057600</id>
+    <title>https://github.com/segmentio/kafka-go</title>
+    <link href="https://github.com/segmentio/kafka-go" />
+    <updated>2025-05-01T00:00:00</updated>
+    <content type="text">Kafka library in Go</content>
+  </entry>
+</feed>

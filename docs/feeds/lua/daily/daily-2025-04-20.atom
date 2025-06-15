@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ThePrimeagen/vim-be-good#1745107200</id>
+    <title>https://github.com/ThePrimeagen/vim-be-good</title>
+    <link href="https://github.com/ThePrimeagen/vim-be-good" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">vim-be-good is a nvim plugin designed to make you better at Vim Movements.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/craftzdog/dotfiles-public#1745107200</id>
+    <title>https://github.com/craftzdog/dotfiles-public</title>
+    <link href="https://github.com/craftzdog/dotfiles-public" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">My personal dotfiles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1745107200</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1745107200</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/snacks.nvim#1745107200</id>
+    <title>https://github.com/folke/snacks.nvim</title>
+    <link href="https://github.com/folke/snacks.nvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">🍿 A collection of QoL plugins for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1745107200</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/which-key.nvim#1745107200</id>
+    <title>https://github.com/folke/which-key.nvim</title>
+    <link href="https://github.com/folke/which-key.nvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iDvel/rime-ice#1745107200</id>
+    <title>https://github.com/iDvel/rime-ice</title>
+    <link href="https://github.com/iDvel/rime-ice" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Rime 配置：雾凇拼音 | 长期维护的简体词库</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibhagwan/fzf-lua#1745107200</id>
+    <title>https://github.com/ibhagwan/fzf-lua</title>
+    <link href="https://github.com/ibhagwan/fzf-lua" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Improved fzf.vim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josean-dev/dev-environment-files#1745107200</id>
+    <title>https://github.com/josean-dev/dev-environment-files</title>
+    <link href="https://github.com/josean-dev/dev-environment-files" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/karb94/neoscroll.nvim#1745107200</id>
+    <title>https://github.com/karb94/neoscroll.nvim</title>
+    <link href="https://github.com/karb94/neoscroll.nvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Smooth scrolling neovim plugin written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1745107200</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kylechui/nvim-surround#1745107200</id>
+    <title>https://github.com/kylechui/nvim-surround</title>
+    <link href="https://github.com/kylechui/nvim-surround" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Add/change/delete surrounding delimiter pairs with ease. Written with ❤️ in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lewis6991/gitsigns.nvim#1745107200</id>
+    <title>https://github.com/lewis6991/gitsigns.nvim</title>
+    <link href="https://github.com/lewis6991/gitsigns.nvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Git integration for buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrcjkb/rustaceanvim#1745107200</id>
+    <title>https://github.com/mrcjkb/rustaceanvim</title>
+    <link href="https://github.com/mrcjkb/rustaceanvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1745107200</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/overextended/ox_inventory#1745107200</id>
+    <title>https://github.com/overextended/ox_inventory</title>
+    <link href="https://github.com/overextended/ox_inventory" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Slot-based inventory with metadata.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/overextended/ox_lib#1745107200</id>
+    <title>https://github.com/overextended/ox_lib</title>
+    <link href="https://github.com/overextended/ox_lib" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">A FiveM resource and script library for Lua and JS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/overextended/ox_target#1745107200</id>
+    <title>https://github.com/overextended/ox_target</title>
+    <link href="https://github.com/overextended/ox_target" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">Standalone "third-eye" targeting resource.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sphamba/smear-cursor.nvim#1745107200</id>
+    <title>https://github.com/sphamba/smear-cursor.nvim</title>
+    <link href="https://github.com/sphamba/smear-cursor.nvim" />
+    <updated>2025-04-20T00:00:00</updated>
+    <content type="text">🌠 Neovim plugin to animate the cursor with a smear effect in all terminals</content>
+  </entry>
+</feed>

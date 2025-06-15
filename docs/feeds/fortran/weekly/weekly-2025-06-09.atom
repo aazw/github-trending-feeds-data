@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/weekly.atom</id>
+  <title>GitHub Trending - fortran (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CICE-Consortium/Icepack#1749427200</id>
+    <title>https://github.com/CICE-Consortium/Icepack</title>
+    <link href="https://github.com/CICE-Consortium/Icepack" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Development repository for sea-ice column physics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NGEET/fates#1749427200</id>
+    <title>https://github.com/NGEET/fates</title>
+    <link href="https://github.com/NGEET/fates" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">repository for the Functionally Assembled Terrestrial Ecosystem Simulator (FATES)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NOAA-GFDL/FMS#1749427200</id>
+    <title>https://github.com/NOAA-GFDL/FMS</title>
+    <link href="https://github.com/NOAA-GFDL/FMS" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">GFDL's Flexible Modeling System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFAST/openfast#1749427200</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cp2k/cp2k#1749427200</id>
+    <title>https://github.com/cp2k/cp2k</title>
+    <link href="https://github.com/cp2k/cp2k" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Quantum chemistry and solid state physics software package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/fckit#1749427200</id>
+    <title>https://github.com/ecmwf/fckit</title>
+    <link href="https://github.com/ecmwf/fckit" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A Fortran toolkit for interoperating Fortran with C/C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grimme-lab/xtb#1749427200</id>
+    <title>https://github.com/grimme-lab/xtb</title>
+    <link href="https://github.com/grimme-lab/xtb" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Semiempirical Extended Tight-Binding Program Package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1749427200</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DaveGamble/cJSON#1744848000</id>
+    <title>https://github.com/DaveGamble/cJSON</title>
+    <link href="https://github.com/DaveGamble/cJSON" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Ultralightweight JSON parser in ANSI C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mbed-TLS/mbedtls#1744848000</id>
+    <title>https://github.com/Mbed-TLS/mbedtls</title>
+    <link href="https://github.com/Mbed-TLS/mbedtls" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThrowTheSwitch/Unity#1744848000</id>
+    <title>https://github.com/ThrowTheSwitch/Unity</title>
+    <link href="https://github.com/ThrowTheSwitch/Unity" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Simple unit testing for C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brunodev85/winlator#1744848000</id>
+    <title>https://github.com/brunodev85/winlator</title>
+    <link href="https://github.com/brunodev85/winlator" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Android application for running Windows applications with Wine and Box86/Box64</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cesanta/mongoose#1744848000</id>
+    <title>https://github.com/cesanta/mongoose</title>
+    <link href="https://github.com/cesanta/mongoose" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Embedded web server, with TCP/IP network stack, MQTT and Websocket</content>
+  </entry>
+  <entry>
+    <id>https://github.com/confluentinc/librdkafka#1744848000</id>
+    <title>https://github.com/confluentinc/librdkafka</title>
+    <link href="https://github.com/confluentinc/librdkafka" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">The Apache Kafka C/C++ library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluent-bit#1744848000</id>
+    <title>https://github.com/fluent/fluent-bit</title>
+    <link href="https://github.com/fluent/fluent-bit" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immortalwrt/immortalwrt#1744848000</id>
+    <title>https://github.com/immortalwrt/immortalwrt</title>
+    <link href="https://github.com/immortalwrt/immortalwrt" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">An opensource OpenWrt variant for mainland China users.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mimalloc#1744848000</id>
+    <title>https://github.com/microsoft/mimalloc</title>
+    <link href="https://github.com/microsoft/mimalloc" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">mimalloc is a compact general purpose allocator with excellent performance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netdata/netdata#1744848000</id>
+    <title>https://github.com/netdata/netdata</title>
+    <link href="https://github.com/netdata/netdata" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">X-Ray Vision for your infrastructure!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nrfconnect/sdk-nrf#1744848000</id>
+    <title>https://github.com/nrfconnect/sdk-nrf</title>
+    <link href="https://github.com/nrfconnect/sdk-nrf" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">nRF Connect SDK main repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open5gs/open5gs#1744848000</id>
+    <title>https://github.com/open5gs/open5gs</title>
+    <link href="https://github.com/open5gs/open5gs" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Open5GS is a C-language Open Source implementation for 5G Core and EPC, i.e. the core network of LTE/NR network (Release-17)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/robertdavidgraham/masscan#1744848000</id>
+    <title>https://github.com/robertdavidgraham/masscan</title>
+    <link href="https://github.com/robertdavidgraham/masscan" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/signalwire/freeswitch#1744848000</id>
+    <title>https://github.com/signalwire/freeswitch</title>
+    <link href="https://github.com/signalwire/freeswitch" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sonic-net/sonic-buildimage#1744848000</id>
+    <title>https://github.com/sonic-net/sonic-buildimage</title>
+    <link href="https://github.com/sonic-net/sonic-buildimage" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Scripts which perform an installable binary image build for SONiC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tianocore/edk2#1744848000</id>
+    <title>https://github.com/tianocore/edk2</title>
+    <link href="https://github.com/tianocore/edk2" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">EDK II</content>
+  </entry>
+  <entry>
+    <id>https://github.com/timescale/timescaledb#1744848000</id>
+    <title>https://github.com/timescale/timescaledb</title>
+    <link href="https://github.com/timescale/timescaledb" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">A time-series database for high-performance real-time analytics packaged as a Postgres extension</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zephyrproject-rtos/zephyr#1744848000</id>
+    <title>https://github.com/zephyrproject-rtos/zephyr</title>
+    <link href="https://github.com/zephyrproject-rtos/zephyr" />
+    <updated>2025-04-17T00:00:00</updated>
+    <content type="text">Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.</content>
+  </entry>
+</feed>

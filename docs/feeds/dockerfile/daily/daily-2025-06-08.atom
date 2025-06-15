@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Anduin2017/HowToCook#1749340800</id>
+    <title>https://github.com/Anduin2017/HowToCook</title>
+    <link href="https://github.com/Anduin2017/HowToCook" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">程序员在家做饭方法指南。Programmer's guide about how to cook at home (Simplified Chinese only).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YanWenKun/ComfyUI-Docker#1749340800</id>
+    <title>https://github.com/YanWenKun/ComfyUI-Docker</title>
+    <link href="https://github.com/YanWenKun/ComfyUI-Docker" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">🐳Dockerfile for 🎨ComfyUI. | 容器镜像与启动脚本</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexbelgium/hassio-addons#1749340800</id>
+    <title>https://github.com/alexbelgium/hassio-addons</title>
+    <link href="https://github.com/alexbelgium/hassio-addons" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">My homeassistant addons</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware#1749340800</id>
+    <title>https://github.com/autowarefoundation/autoware</title>
+    <link href="https://github.com/autowarefoundation/autoware" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Autoware - the world's leading open-source software project for autonomous driving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-buildtools-prereqs-docker#1749340800</id>
+    <title>https://github.com/dotnet/dotnet-buildtools-prereqs-docker</title>
+    <link href="https://github.com/dotnet/dotnet-buildtools-prereqs-docker" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Used to maintain the Docker images hosted at the mcr.microsoft.com/dotnet-buildtools/prereqs image repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-docker#1749340800</id>
+    <title>https://github.com/dotnet/dotnet-docker</title>
+    <link href="https://github.com/dotnet/dotnet-docker" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Official container images for .NET</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dunglas/symfony-docker#1749340800</id>
+    <title>https://github.com/dunglas/symfony-docker</title>
+    <link href="https://github.com/dunglas/symfony-docker" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heroku/go-getting-started#1749340800</id>
+    <title>https://github.com/heroku/go-getting-started</title>
+    <link href="https://github.com/heroku/go-getting-started" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Getting Started with Go on Heroku.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/contributor-playground#1749340800</id>
+    <title>https://github.com/kubernetes-sigs/contributor-playground</title>
+    <link href="https://github.com/kubernetes-sigs/contributor-playground" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/vulhub/vulhub#1749340800</id>
+    <title>https://github.com/vulhub/vulhub</title>
+    <link href="https://github.com/vulhub/vulhub" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
+  </entry>
+</feed>

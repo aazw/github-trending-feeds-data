@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom</id>
+  <title>GitHub Trending - r (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MRCIEU/TwoSampleMR#1745193600</id>
+    <title>https://github.com/MRCIEU/TwoSampleMR</title>
+    <link href="https://github.com/MRCIEU/TwoSampleMR" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">R package for performing 2-sample MR using MR-Base database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rdatatable/data.table#1745193600</id>
+    <title>https://github.com/Rdatatable/data.table</title>
+    <link href="https://github.com/Rdatatable/data.table" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">R's data.table package extends data.frame:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/benjjneb/dada2#1745193600</id>
+    <title>https://github.com/benjjneb/dada2</title>
+    <link href="https://github.com/benjjneb/dada2" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Accurate sample inference from amplicon data with single nucleotide resolution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1745193600</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chris-mcginnis-ucsf/DoubletFinder#1745193600</id>
+    <title>https://github.com/chris-mcginnis-ucsf/DoubletFinder</title>
+    <link href="https://github.com/chris-mcginnis-ucsf/DoubletFinder" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">R package for detecting doublets in single-cell RNA sequencing data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cole-trapnell-lab/monocle3#1745193600</id>
+    <title>https://github.com/cole-trapnell-lab/monocle3</title>
+    <link href="https://github.com/cole-trapnell-lab/monocle3" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/immunogenomics/harmony#1745193600</id>
+    <title>https://github.com/immunogenomics/harmony</title>
+    <link href="https://github.com/immunogenomics/harmony" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Fast, sensitive and accurate integration of single-cell data with Harmony</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthik/wesanderson#1745193600</id>
+    <title>https://github.com/karthik/wesanderson</title>
+    <link href="https://github.com/karthik/wesanderson" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A Wes Anderson color palette for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kassambara/survminer#1745193600</id>
+    <title>https://github.com/kassambara/survminer</title>
+    <link href="https://github.com/kassambara/survminer" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Survival Analysis and Visualization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prisma-flowdiagram/PRISMA2020#1745193600</id>
+    <title>https://github.com/prisma-flowdiagram/PRISMA2020</title>
+    <link href="https://github.com/prisma-flowdiagram/PRISMA2020" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Produce PRISMA-2020 compliant flow diagrams</content>
+  </entry>
+  <entry>
+    <id>https://github.com/r-spatial/sf#1745193600</id>
+    <title>https://github.com/r-spatial/sf</title>
+    <link href="https://github.com/r-spatial/sf" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Simple Features for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/renv#1745193600</id>
+    <title>https://github.com/rstudio/renv</title>
+    <link href="https://github.com/rstudio/renv" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">renv: Project environments for R.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat#1745193600</id>
+    <title>https://github.com/satijalab/seurat</title>
+    <link href="https://github.com/satijalab/seurat" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">R toolkit for single cell genomics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat-wrappers#1745193600</id>
+    <title>https://github.com/satijalab/seurat-wrappers</title>
+    <link href="https://github.com/satijalab/seurat-wrappers" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Community-provided extensions to Seurat</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqjin/CellChat#1745193600</id>
+    <title>https://github.com/sqjin/CellChat</title>
+    <link href="https://github.com/sqjin/CellChat" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stuart-lab/signac#1745193600</id>
+    <title>https://github.com/stuart-lab/signac</title>
+    <link href="https://github.com/stuart-lab/signac" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">R toolkit for the analysis of single-cell chromatin data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vegandevs/vegan#1745193600</id>
+    <title>https://github.com/vegandevs/vegan</title>
+    <link href="https://github.com/vegandevs/vegan" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">R package for community ecologists: popular ordination methods, ecological null models &amp; diversity analysis</content>
+  </entry>
+</feed>

@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/prolog/daily.atom</id>
+  <title>GitHub Trending - prolog (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/prolog/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/hackclub/OnBoard#1741478400</id>
+    <title>https://github.com/hackclub/OnBoard</title>
+    <link href="https://github.com/hackclub/OnBoard" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">💡 Join 1,000 teenagers and make your first PCB with a $100 grant!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nasa-jpl/open-source-rover#1741478400</id>
+    <title>https://github.com/nasa-jpl/open-source-rover</title>
+    <link href="https://github.com/nasa-jpl/open-source-rover" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">A build-it-yourself, 6-wheel rover based on the rovers on Mars!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terminusdb/terminusdb#1741478400</id>
+    <title>https://github.com/terminusdb/terminusdb</title>
+    <link href="https://github.com/terminusdb/terminusdb" />
+    <updated>2025-03-09T00:00:00</updated>
+    <content type="text">TerminusDB is a distributed database with a collaboration model</content>
+  </entry>
+</feed>

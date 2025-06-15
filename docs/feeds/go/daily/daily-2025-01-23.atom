@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1737590400</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MightyMoud/sidekick#1737590400</id>
+    <title>https://github.com/MightyMoud/sidekick</title>
+    <link href="https://github.com/MightyMoud/sidekick" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Bare metal to production ready in mins; your own fly server on your VPS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ahmetb/kubectx#1737590400</id>
+    <title>https://github.com/ahmetb/kubectx</title>
+    <link href="https://github.com/ahmetb/kubectx" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Faster way to switch between clusters and namespaces in kubectl</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-rollouts#1737590400</id>
+    <title>https://github.com/argoproj/argo-rollouts</title>
+    <link href="https://github.com/argoproj/argo-rollouts" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Progressive Delivery for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/karpenter-provider-aws#1737590400</id>
+    <title>https://github.com/aws/karpenter-provider-aws</title>
+    <link href="https://github.com/aws/karpenter-provider-aws" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crossplane/crossplane#1737590400</id>
+    <title>https://github.com/crossplane/crossplane</title>
+    <link href="https://github.com/crossplane/crossplane" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">The Cloud Native Control Plane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/superchain-registry#1737590400</id>
+    <title>https://github.com/ethereum-optimism/superchain-registry</title>
+    <link href="https://github.com/ethereum-optimism/superchain-registry" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1737590400</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsops/sops#1737590400</id>
+    <title>https://github.com/getsops/sops</title>
+    <link href="https://github.com/getsops/sops" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Simple and flexible tool for managing secrets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1737590400</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1737590400</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gorilla/mux#1737590400</id>
+    <title>https://github.com/gorilla/mux</title>
+    <link href="https://github.com/gorilla/mux" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1737590400</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1737590400</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1737590400</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1737590400</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kind#1737590400</id>
+    <title>https://github.com/kubernetes-sigs/kind</title>
+    <link href="https://github.com/kubernetes-sigs/kind" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Kubernetes IN Docker - local clusters for testing Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/autoscaler#1737590400</id>
+    <title>https://github.com/kubernetes/autoscaler</title>
+    <link href="https://github.com/kubernetes/autoscaler" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Autoscaling components for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1737590400</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1737590400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go-contrib#1737590400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go-contrib" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Collection of extensions for OpenTelemetry-Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencontainers/runc#1737590400</id>
+    <title>https://github.com/opencontainers/runc</title>
+    <link href="https://github.com/opencontainers/runc" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">CLI tool for spawning and running containers according to the OCI specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentofu/opentofu#1737590400</id>
+    <title>https://github.com/opentofu/opentofu</title>
+    <link href="https://github.com/opentofu/opentofu" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">OpenTofu lets you declaratively manage your cloud infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yorukot/superfile#1737590400</id>
+    <title>https://github.com/yorukot/superfile</title>
+    <link href="https://github.com/yorukot/superfile" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">Pretty fancy and modern terminal file manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1737590400</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2025-01-23T00:00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+</feed>

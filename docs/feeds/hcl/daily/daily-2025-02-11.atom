@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1739232000</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1739232000</id>
+    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1739232000</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-control_tower_account_factory#1739232000</id>
+    <title>https://github.com/aws-ia/terraform-aws-control_tower_account_factory</title>
+    <link href="https://github.com/aws-ia/terraform-aws-control_tower_account_factory" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">AWS Control Tower Account Factory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons#1739232000</id>
+    <title>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons</title>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints-addons" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Terraform module which provisions addons on Amazon EKS clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1739232000</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-backup#1739232000</id>
+    <title>https://github.com/cloudposse/terraform-aws-backup</title>
+    <link href="https://github.com/cloudposse/terraform-aws-backup" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Terraform module to provision AWS Backup, a fully managed backup service that makes it easy to centralize and automate the back up of data across AWS services such as EBS volumes, RDS databases, DynamoDB tables, EFS file systems, and AWS Storage Gateway volumes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-rds-cluster#1739232000</id>
+    <title>https://github.com/cloudposse/terraform-aws-rds-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-rds-cluster" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Terraform module to provision an RDS Aurora cluster for MySQL or Postgres</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-s3-bucket#1739232000</id>
+    <title>https://github.com/cloudposse/terraform-aws-s3-bucket</title>
+    <link href="https://github.com/cloudposse/terraform-aws-s3-bucket" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Terraform module that creates an S3 bucket with an optional IAM user for external CI/CD systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ministryofjustice/cloud-platform-environments#1739232000</id>
+    <title>https://github.com/ministryofjustice/cloud-platform-environments</title>
+    <link href="https://github.com/ministryofjustice/cloud-platform-environments" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Environment configuration for the Cloud Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1739232000</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-iam#1739232000</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-iam</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-iam" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Terraform module to create AWS IAM resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-lambda#1739232000</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-lambda</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora#1739232000</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-rds-aurora</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-rds-aurora" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Terraform module to create AWS RDS Aurora resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket#1739232000</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-s3-bucket</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-s3-bucket" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Terraform module to create AWS S3 resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-github-actions-runners#1739232000</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-github-actions-runners</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-github-actions-runners" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Creates self-hosted GitHub Actions Runners on Google Cloud</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine#1739232000</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text">Configures opinionated GKE clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zealvora/terraform-beginner-to-advanced-resource#1739232000</id>
+    <title>https://github.com/zealvora/terraform-beginner-to-advanced-resource</title>
+    <link href="https://github.com/zealvora/terraform-beginner-to-advanced-resource" />
+    <updated>2025-02-11T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Yggdroot/indentLine#1743724800</id>
+    <title>https://github.com/Yggdroot/indentLine</title>
+    <link href="https://github.com/Yggdroot/indentLine" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A vim plugin to display the indention levels with thin vertical lines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airblade/vim-rooter#1743724800</id>
+    <title>https://github.com/airblade/vim-rooter</title>
+    <link href="https://github.com/airblade/vim-rooter" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Changes Vim working directory to project root.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1743724800</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/augmentcode/augment.vim#1743724800</id>
+    <title>https://github.com/augmentcode/augment.vim</title>
+    <link href="https://github.com/augmentcode/augment.vim" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">AI-augmented development in Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1743724800</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1743724800</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kshenoy/vim-signature#1743724800</id>
+    <title>https://github.com/kshenoy/vim-signature</title>
+    <link href="https://github.com/kshenoy/vim-signature" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Plugin to toggle, display and navigate marks</content>
+  </entry>
+  <entry>
+    <id>https://github.com/liuchengxu/vim-which-key#1743724800</id>
+    <title>https://github.com/liuchengxu/vim-which-key</title>
+    <link href="https://github.com/liuchengxu/vim-which-key" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">🌷 Vim plugin that shows keybindings in popup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-startify#1743724800</id>
+    <title>https://github.com/mhinz/vim-startify</title>
+    <link href="https://github.com/mhinz/vim-startify" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">🔗 The fancy start screen for Vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdcommenter#1743724800</id>
+    <title>https://github.com/preservim/nerdcommenter</title>
+    <link href="https://github.com/preservim/nerdcommenter" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Vim plugin for intensely nerdy commenting powers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/preservim/nerdtree#1743724800</id>
+    <title>https://github.com/preservim/nerdtree</title>
+    <link href="https://github.com/preservim/nerdtree" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A tree explorer plugin for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rhysd/committia.vim#1743724800</id>
+    <title>https://github.com/rhysd/committia.vim</title>
+    <link href="https://github.com/rhysd/committia.vim" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">A Vim plugin for more pleasant editing on commit messages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-abolish#1743724800</id>
+    <title>https://github.com/tpope/vim-abolish</title>
+    <link href="https://github.com/tpope/vim-abolish" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">abolish.vim: Work with several variants of a word at once</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-bundler#1743724800</id>
+    <title>https://github.com/tpope/vim-bundler</title>
+    <link href="https://github.com/tpope/vim-bundler" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">bundler.vim: Lightweight support for Ruby's Bundler</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dispatch#1743724800</id>
+    <title>https://github.com/tpope/vim-dispatch</title>
+    <link href="https://github.com/tpope/vim-dispatch" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">dispatch.vim: Asynchronous build and test dispatcher</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-pathogen#1743724800</id>
+    <title>https://github.com/tpope/vim-pathogen</title>
+    <link href="https://github.com/tpope/vim-pathogen" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">pathogen.vim: manage your runtimepath</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-speeddating#1743724800</id>
+    <title>https://github.com/tpope/vim-speeddating</title>
+    <link href="https://github.com/tpope/vim-speeddating" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1743724800</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1743724800</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-04-04T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

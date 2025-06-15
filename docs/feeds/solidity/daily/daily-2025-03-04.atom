@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/solidity/daily.atom</id>
+  <title>GitHub Trending - solidity (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/solidity/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AmazingAng/WTF-Solidity#1741046400</id>
+    <title>https://github.com/AmazingAng/WTF-Solidity</title>
+    <link href="https://github.com/AmazingAng/WTF-Solidity" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">WTF Solidity 极简入门教程，供小白们使用。Now supports English! 官网: https://wtf.academy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Arachnid/solidity-stringutils#1741046400</id>
+    <title>https://github.com/Arachnid/solidity-stringutils</title>
+    <link href="https://github.com/Arachnid/solidity-stringutils" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Basic string utilities for Solidity</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Layr-Labs/eigenlayer-contracts#1741046400</id>
+    <title>https://github.com/Layr-Labs/eigenlayer-contracts</title>
+    <link href="https://github.com/Layr-Labs/eigenlayer-contracts" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/OpenZeppelin/openzeppelin-contracts#1741046400</id>
+    <title>https://github.com/OpenZeppelin/openzeppelin-contracts</title>
+    <link href="https://github.com/OpenZeppelin/openzeppelin-contracts" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">OpenZeppelin Contracts is a library for secure smart contract development.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PaulRBerg/prb-math#1741046400</id>
+    <title>https://github.com/PaulRBerg/prb-math</title>
+    <link href="https://github.com/PaulRBerg/prb-math" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Solidity library for advanced fixed-point math</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Uniswap/v2-periphery#1741046400</id>
+    <title>https://github.com/Uniswap/v2-periphery</title>
+    <link href="https://github.com/Uniswap/v2-periphery" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">🎚 Peripheral smart contracts for interacting with Uniswap V2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bgd-labs/aave-proposals-v3#1741046400</id>
+    <title>https://github.com/bgd-labs/aave-proposals-v3</title>
+    <link href="https://github.com/bgd-labs/aave-proposals-v3" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/ERCs#1741046400</id>
+    <title>https://github.com/ethereum/ERCs</title>
+    <link href="https://github.com/ethereum/ERCs" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">The Ethereum Request for Comment repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/foundry-rs/forge-std#1741046400</id>
+    <title>https://github.com/foundry-rs/forge-std</title>
+    <link href="https://github.com/foundry-rs/forge-std" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Forge Standard Library is a collection of helpful contracts for use with forge and foundry. It leverages forge's cheatcodes to make writing tests easier and faster, while improving the UX of cheatcodes. For more in-depth usage examples checkout the tests.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/l2beat/l2beat#1741046400</id>
+    <title>https://github.com/l2beat/l2beat</title>
+    <link href="https://github.com/l2beat/l2beat" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/semgrep-rules#1741046400</id>
+    <title>https://github.com/semgrep/semgrep-rules</title>
+    <link href="https://github.com/semgrep/semgrep-rules" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Semgrep rules registry</content>
+  </entry>
+</feed>

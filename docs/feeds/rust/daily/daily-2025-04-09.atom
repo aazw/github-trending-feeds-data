@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xlane/wechat-dump-rs#1744156800</id>
+    <title>https://github.com/0xlane/wechat-dump-rs</title>
+    <link href="https://github.com/0xlane/wechat-dump-rs" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AppFlowy-IO/AppFlowy-Cloud#1744156800</id>
+    <title>https://github.com/AppFlowy-IO/AppFlowy-Cloud</title>
+    <link href="https://github.com/AppFlowy-IO/AppFlowy-Cloud" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Eventual-Inc/Daft#1744156800</id>
+    <title>https://github.com/Eventual-Inc/Daft</title>
+    <link href="https://github.com/Eventual-Inc/Daft" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Distributed data engine for Python/SQL designed for the cloud, powered by Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TabbyML/tabby#1744156800</id>
+    <title>https://github.com/TabbyML/tabby</title>
+    <link href="https://github.com/TabbyML/tabby" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Self-hosted AI coding assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1744156800</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1744156800</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1744156800</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1744156800</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1744156800</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/katanemo/archgw#1744156800</id>
+    <title>https://github.com/katanemo/archgw</title>
+    <link href="https://github.com/katanemo/archgw" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lancedb#1744156800</id>
+    <title>https://github.com/lancedb/lancedb</title>
+    <link href="https://github.com/lancedb/lancedb" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1744156800</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lusingander/stu#1744156800</id>
+    <title>https://github.com/lusingander/stu</title>
+    <link href="https://github.com/lusingander/stu" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">TUI explorer application for Amazon S3 (AWS S3) 🪣</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neorocks/lux#1744156800</id>
+    <title>https://github.com/nvim-neorocks/lux</title>
+    <link href="https://github.com/nvim-neorocks/lux" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">A luxurious package manager for Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1744156800</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quickwit-oss/quickwit#1744156800</id>
+    <title>https://github.com/quickwit-oss/quickwit</title>
+    <link href="https://github.com/quickwit-oss/quickwit" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1744156800</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tikv/tikv#1744156800</id>
+    <title>https://github.com/tikv/tikv</title>
+    <link href="https://github.com/tikv/tikv" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Distributed transactional key-value database, originally created to complement TiDB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tokio#1744156800</id>
+    <title>https://github.com/tokio-rs/tokio</title>
+    <link href="https://github.com/tokio-rs/tokio" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1744156800</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zellij-org/zellij#1744156800</id>
+    <title>https://github.com/zellij-org/zellij</title>
+    <link href="https://github.com/zellij-org/zellij" />
+    <updated>2025-04-09T00:00:00</updated>
+    <content type="text">A terminal workspace with batteries included</content>
+  </entry>
+</feed>

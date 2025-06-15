@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GyulyVGC/sniffnet#1746662400</id>
+    <title>https://github.com/GyulyVGC/sniffnet</title>
+    <link href="https://github.com/GyulyVGC/sniffnet" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Comfortably monitor your Internet traffic 🕵️‍♂️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1746662400</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1746662400</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1746662400</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1746662400</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/biomejs/biome#1746662400</id>
+    <title>https://github.com/biomejs/biome</title>
+    <link href="https://github.com/biomejs/biome" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/casey/just#1746662400</id>
+    <title>https://github.com/casey/just</title>
+    <link href="https://github.com/casey/just" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">🤖 Just a command runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1746662400</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/launchbadge/sqlx#1746662400</id>
+    <title>https://github.com/launchbadge/sqlx</title>
+    <link href="https://github.com/launchbadge/sqlx" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/libp2p/rust-libp2p#1746662400</id>
+    <title>https://github.com/libp2p/rust-libp2p</title>
+    <link href="https://github.com/libp2p/rust-libp2p" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">The Rust Implementation of the libp2p networking stack.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/longbridge/gpui-component#1746662400</id>
+    <title>https://github.com/longbridge/gpui-component</title>
+    <link href="https://github.com/longbridge/gpui-component" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">UI components for building fantastic desktop application by using GPUI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moghtech/komodo#1746662400</id>
+    <title>https://github.com/moghtech/komodo</title>
+    <link href="https://github.com/moghtech/komodo" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">🦎 a tool to build and deploy software on many servers 🦎</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1746662400</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1746662400</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/reubeno/brush#1746662400</id>
+    <title>https://github.com/reubeno/brush</title>
+    <link href="https://github.com/reubeno/brush" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">bash/POSIX-compatible shell implemented in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-bitcoin/rust-bitcoin#1746662400</id>
+    <title>https://github.com/rust-bitcoin/rust-bitcoin</title>
+    <link href="https://github.com/rust-bitcoin/rust-bitcoin" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Rust Bitcoin library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-windowing/winit#1746662400</id>
+    <title>https://github.com/rust-windowing/winit</title>
+    <link href="https://github.com/rust-windowing/winit" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Window handling library in pure Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/plugins-workspace#1746662400</id>
+    <title>https://github.com/tauri-apps/plugins-workspace</title>
+    <link href="https://github.com/tauri-apps/plugins-workspace" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">All of the official Tauri plugins in one place!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trifectatechfoundation/sudo-rs#1746662400</id>
+    <title>https://github.com/trifectatechfoundation/sudo-rs</title>
+    <link href="https://github.com/trifectatechfoundation/sudo-rs" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">A memory safe implementation of sudo and su.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1746662400</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1746662400</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

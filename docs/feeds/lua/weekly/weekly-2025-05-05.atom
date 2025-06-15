@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/weekly.atom</id>
+  <title>GitHub Trending - lua (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/windsurf.nvim#1746403200</id>
+    <title>https://github.com/Exafunction/windsurf.nvim</title>
+    <link href="https://github.com/Exafunction/windsurf.nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A native neovim extension for Codeium</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntQuant/noita_entangled_worlds#1746403200</id>
+    <title>https://github.com/IntQuant/noita_entangled_worlds</title>
+    <link href="https://github.com/IntQuant/noita_entangled_worlds" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">True coop multiplayer mod for Noita.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/L3MON4D3/LuaSnip#1746403200</id>
+    <title>https://github.com/L3MON4D3/LuaSnip</title>
+    <link href="https://github.com/L3MON4D3/LuaSnip" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Snippet Engine for Neovim written in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/nvim#1746403200</id>
+    <title>https://github.com/catppuccin/nvim</title>
+    <link href="https://github.com/catppuccin/nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">🍨 Soothing pastel theme for (Neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1746403200</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/noice.nvim#1746403200</id>
+    <title>https://github.com/folke/noice.nvim</title>
+    <link href="https://github.com/folke/noice.nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">💥 Highly experimental plugin that completely replaces the UI for messages, cmdline and the popupmenu.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibhagwan/fzf-lua#1746403200</id>
+    <title>https://github.com/ibhagwan/fzf-lua</title>
+    <link href="https://github.com/ibhagwan/fzf-lua" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Improved fzf.vim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lewis6991/gitsigns.nvim#1746403200</id>
+    <title>https://github.com/lewis6991/gitsigns.nvim</title>
+    <link href="https://github.com/lewis6991/gitsigns.nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Git integration for buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-dap#1746403200</id>
+    <title>https://github.com/mfussenegger/nvim-dap</title>
+    <link href="https://github.com/mfussenegger/nvim-dap" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Debug Adapter Protocol client implementation for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikavilpas/yazi.nvim#1746403200</id>
+    <title>https://github.com/mikavilpas/yazi.nvim</title>
+    <link href="https://github.com/mikavilpas/yazi.nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A Neovim Plugin for the yazi terminal file manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1746403200</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1746403200</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-telescope/telescope.nvim#1746403200</id>
+    <title>https://github.com/nvim-telescope/telescope.nvim</title>
+    <link href="https://github.com/nvim-telescope/telescope.nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Find, Filter, Preview, Pick. All lua, all the time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-tree/nvim-web-devicons#1746403200</id>
+    <title>https://github.com/nvim-tree/nvim-web-devicons</title>
+    <link href="https://github.com/nvim-tree/nvim-web-devicons" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Provides Nerd Font icons (glyphs) for use by neovim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvimtools/none-ls.nvim#1746403200</id>
+    <title>https://github.com/nvimtools/none-ls.nvim</title>
+    <link href="https://github.com/nvimtools/none-ls.nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/olimorris/codecompanion.nvim#1746403200</id>
+    <title>https://github.com/olimorris/codecompanion.nvim</title>
+    <link href="https://github.com/olimorris/codecompanion.nvim" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">✨ AI-powered coding, seamlessly in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/overextended/ox_inventory#1746403200</id>
+    <title>https://github.com/overextended/ox_inventory</title>
+    <link href="https://github.com/overextended/ox_inventory" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Slot-based inventory with metadata.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/overextended/ox_lib#1746403200</id>
+    <title>https://github.com/overextended/ox_lib</title>
+    <link href="https://github.com/overextended/ox_lib" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A FiveM resource and script library for Lua and JS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/overextended/ox_target#1746403200</id>
+    <title>https://github.com/overextended/ox_target</title>
+    <link href="https://github.com/overextended/ox_target" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Standalone "third-eye" targeting resource.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pelican-eggs/eggs#1746403200</id>
+    <title>https://github.com/pelican-eggs/eggs</title>
+    <link href="https://github.com/pelican-eggs/eggs" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Service eggs for the pterodactyl panel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typecraft-dev/dotfiles#1746403200</id>
+    <title>https://github.com/typecraft-dev/dotfiles</title>
+    <link href="https://github.com/typecraft-dev/dotfiles" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

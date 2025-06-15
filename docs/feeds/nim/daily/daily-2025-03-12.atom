@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom</id>
+  <title>GitHub Trending - nim (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/crashappsec/chalk#1741737600</id>
+    <title>https://github.com/crashappsec/chalk</title>
+    <link href="https://github.com/crashappsec/chalk" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Chalk allows you to follow code from development, through builds and into production.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/guzba/zippy#1741737600</id>
+    <title>https://github.com/guzba/zippy</title>
+    <link href="https://github.com/guzba/zippy" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Pure Nim implementation of deflate, zlib, gzip and zip.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zedeus/nitter#1741737600</id>
+    <title>https://github.com/zedeus/nitter</title>
+    <link href="https://github.com/zedeus/nitter" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Alternative Twitter front-end</content>
+  </entry>
+</feed>

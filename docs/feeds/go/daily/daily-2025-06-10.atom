@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Project-HAMi/HAMi#1749513600</id>
+    <title>https://github.com/Project-HAMi/HAMi</title>
+    <link href="https://github.com/Project-HAMi/HAMi" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Heterogeneous AI Computing Virtualization Middleware(Project under CNCF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WireGuard/wireguard-go#1749513600</id>
+    <title>https://github.com/WireGuard/wireguard-go</title>
+    <link href="https://github.com/WireGuard/wireguard-go" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Mirror only. Official repository is at https://git.zx2c4.com/wireguard-go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1749513600</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abiosoft/colima#1749513600</id>
+    <title>https://github.com/abiosoft/colima</title>
+    <link href="https://github.com/abiosoft/colima" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Container runtimes on macOS (and Linux) with minimal setup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-rollouts#1749513600</id>
+    <title>https://github.com/argoproj/argo-rollouts</title>
+    <link href="https://github.com/argoproj/argo-rollouts" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Progressive Delivery for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1749513600</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/cli#1749513600</id>
+    <title>https://github.com/docker/cli</title>
+    <link href="https://github.com/docker/cli" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">The Docker CLI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/gateway#1749513600</id>
+    <title>https://github.com/envoyproxy/gateway</title>
+    <link href="https://github.com/envoyproxy/gateway" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fyne-io/fyne#1749513600</id>
+    <title>https://github.com/fyne-io/fyne</title>
+    <link href="https://github.com/fyne-io/fyne" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Cross platform GUI toolkit in Go inspired by Material Design</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-resty/resty#1749513600</id>
+    <title>https://github.com/go-resty/resty</title>
+    <link href="https://github.com/go-resty/resty" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Simple HTTP, REST, and SSE client library for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/client-go#1749513600</id>
+    <title>https://github.com/kubernetes/client-go</title>
+    <link href="https://github.com/kubernetes/client-go" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Go client for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livekit/livekit#1749513600</id>
+    <title>https://github.com/livekit/livekit</title>
+    <link href="https://github.com/livekit/livekit" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">End-to-end stack for WebRTC. SFU media server and SDKs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1749513600</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1749513600</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1749513600</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1749513600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1749513600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quic-go/quic-go#1749513600</id>
+    <title>https://github.com/quic-go/quic-go</title>
+    <link href="https://github.com/quic-go/quic-go" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A QUIC implementation in pure Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sashabaranov/go-openai#1749513600</id>
+    <title>https://github.com/sashabaranov/go-openai</title>
+    <link href="https://github.com/sashabaranov/go-openai" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/zap#1749513600</id>
+    <title>https://github.com/uber-go/zap</title>
+    <link href="https://github.com/uber-go/zap" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/volcano-sh/volcano#1749513600</id>
+    <title>https://github.com/volcano-sh/volcano</title>
+    <link href="https://github.com/volcano-sh/volcano" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A Cloud Native Batch System (Project under CNCF)</content>
+  </entry>
+</feed>

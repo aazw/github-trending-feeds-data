@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NixOS/nix-mode#1740873600</id>
+    <title>https://github.com/NixOS/nix-mode</title>
+    <link href="https://github.com/NixOS/nix-mode" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">An Emacs major mode for editing Nix expressions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alexluigit/dirvish#1740873600</id>
+    <title>https://github.com/alexluigit/dirvish</title>
+    <link href="https://github.com/alexluigit/dirvish" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">A polished Dired with batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1740873600</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1740873600</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-php/php-mode#1740873600</id>
+    <title>https://github.com/emacs-php/php-mode</title>
+    <link href="https://github.com/emacs-php/php-mode" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">A powerful and flexible Emacs major mode for editing PHP scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-tree-sitter/elisp-tree-sitter#1740873600</id>
+    <title>https://github.com/emacs-tree-sitter/elisp-tree-sitter</title>
+    <link href="https://github.com/emacs-tree-sitter/elisp-tree-sitter" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Emacs Lisp bindings for tree-sitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jacktasia/dumb-jump#1740873600</id>
+    <title>https://github.com/jacktasia/dumb-jump</title>
+    <link href="https://github.com/jacktasia/dumb-jump" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">an Emacs "jump to definition" package for 50+ languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1740873600</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magit/magit#1740873600</id>
+    <title>https://github.com/magit/magit</title>
+    <link href="https://github.com/magit/magit" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">It's Magit! A Git Porcelain inside Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/magnars/multiple-cursors.el#1740873600</id>
+    <title>https://github.com/magnars/multiple-cursors.el</title>
+    <link href="https://github.com/magnars/multiple-cursors.el" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Multiple cursors for emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1740873600</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nlamirault/gotest.el#1740873600</id>
+    <title>https://github.com/nlamirault/gotest.el</title>
+    <link href="https://github.com/nlamirault/gotest.el" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Emacs mode to go unit test command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/noctuid/general.el#1740873600</id>
+    <title>https://github.com/noctuid/general.el</title>
+    <link href="https://github.com/noctuid/general.el" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">More convenient key definitions in emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/radian-software/apheleia#1740873600</id>
+    <title>https://github.com/radian-software/apheleia</title>
+    <link href="https://github.com/radian-software/apheleia" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">🌷 Run code formatter on buffer contents without moving point, using RCS patches and dynamic programming.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/s-kostyaev/ellama#1740873600</id>
+    <title>https://github.com/s-kostyaev/ellama</title>
+    <link href="https://github.com/s-kostyaev/ellama" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">Ellama is a tool for interacting with large language models from Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1740873600</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1740873600</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-03-02T00:00:00</updated>
+    <content type="text">aider emacs plugin for https://github.com/paul-gauthier/aider</content>
+  </entry>
+</feed>

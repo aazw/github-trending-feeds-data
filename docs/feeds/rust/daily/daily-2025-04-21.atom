@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/RustPython/RustPython#1745193600</id>
+    <title>https://github.com/RustPython/RustPython</title>
+    <link href="https://github.com/RustPython/RustPython" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A Python Interpreter written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Skxxtz/sherlock#1745193600</id>
+    <title>https://github.com/Skxxtz/sherlock</title>
+    <link href="https://github.com/Skxxtz/sherlock" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A versatile application/command launcher for wayland. Built with rust and gtk4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TraceMachina/nativelink#1745193600</id>
+    <title>https://github.com/TraceMachina/nativelink</title>
+    <link href="https://github.com/TraceMachina/nativelink" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">NativeLink is an open source high-performance build cache and remote execution server, compatible with Bazel, Pants, Buck2, Reclient, and other RBE-compatible build systems. It offers drastically faster builds, reduced test flakiness, and support for specialized hardware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1745193600</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1745193600</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1745193600</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1745193600</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eza-community/eza#1745193600</id>
+    <title>https://github.com/eza-community/eza</title>
+    <link href="https://github.com/eza-community/eza" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A modern alternative to ls</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lapce/lapce#1745193600</id>
+    <title>https://github.com/lapce/lapce</title>
+    <link href="https://github.com/lapce/lapce" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Lightning-fast and Powerful Code Editor written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1745193600</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1745193600</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moghtech/komodo#1745193600</id>
+    <title>https://github.com/moghtech/komodo</title>
+    <link href="https://github.com/moghtech/komodo" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">🦎 a tool to build and deploy software on many servers 🦎</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nkaz001/hftbacktest#1745193600</id>
+    <title>https://github.com/nkaz001/hftbacktest</title>
+    <link href="https://github.com/nkaz001/hftbacktest" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A high frequency trading and market making backtesting and trading bot in Python and Rust, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books, with real-world crypto market-making examples for Binance Futures</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell#1745193600</id>
+    <title>https://github.com/nushell/nushell</title>
+    <link href="https://github.com/nushell/nushell" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A new type of shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ratatui/ratatui#1745193600</id>
+    <title>https://github.com/ratatui/ratatui</title>
+    <link href="https://github.com/ratatui/ratatui" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1745193600</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1745193600</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tracel-ai/burn#1745193600</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Burn is a new comprehensive dynamic Deep Learning Framework built using Rust with extreme flexibility, compute efficiency and portability as its primary goals.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unicode-org/icu4x#1745193600</id>
+    <title>https://github.com/unicode-org/icu4x</title>
+    <link href="https://github.com/unicode-org/icu4x" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Solving i18n for client-side and resource-constrained environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unionlabs/union#1745193600</id>
+    <title>https://github.com/unionlabs/union</title>
+    <link href="https://github.com/unionlabs/union" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The trust-minimized, zero-knowledge bridging protocol, designed for censorship resistance, extremely high security, and usage in decentralized finance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1745193600</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+</feed>

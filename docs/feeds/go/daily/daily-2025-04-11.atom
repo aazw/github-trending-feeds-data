@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FiloSottile/mkcert#1744329600</id>
+    <title>https://github.com/FiloSottile/mkcert</title>
+    <link href="https://github.com/FiloSottile/mkcert" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">A simple zero-config tool to make locally trusted development certificates with any names you'd like.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1744329600</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/k8s-device-plugin#1744329600</id>
+    <title>https://github.com/NVIDIA/k8s-device-plugin</title>
+    <link href="https://github.com/NVIDIA/k8s-device-plugin" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">NVIDIA device plugin for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1744329600</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1744329600</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/kitex#1744329600</id>
+    <title>https://github.com/cloudwego/kitex</title>
+    <link href="https://github.com/cloudwego/kitex" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Go RPC framework with high-performance and strong-extensibility for building micro-services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/skopeo#1744329600</id>
+    <title>https://github.com/containers/skopeo</title>
+    <link href="https://github.com/containers/skopeo" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Work with remote images registries - retrieving information, images, signing content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cosmos/cosmos-sdk#1744329600</id>
+    <title>https://github.com/cosmos/cosmos-sdk</title>
+    <link href="https://github.com/cosmos/cosmos-sdk" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">⛓️ A Framework for Building High Value Public Blockchains ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fsnotify/fsnotify#1744329600</id>
+    <title>https://github.com/fsnotify/fsnotify</title>
+    <link href="https://github.com/fsnotify/fsnotify" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Cross-platform filesystem notifications for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1744329600</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gitea/gitea#1744329600</id>
+    <title>https://github.com/go-gitea/gitea</title>
+    <link href="https://github.com/go-gitea/gitea" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-resty/resty#1744329600</id>
+    <title>https://github.com/go-resty/resty</title>
+    <link href="https://github.com/go-resty/resty" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Simple HTTP, REST, and SSE client library for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1744329600</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1744329600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1744329600</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krillinai/KrillinAI#1744329600</id>
+    <title>https://github.com/krillinai/KrillinAI</title>
+    <link href="https://github.com/krillinai/KrillinAI" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1744329600</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kube-state-metrics#1744329600</id>
+    <title>https://github.com/kubernetes/kube-state-metrics</title>
+    <link href="https://github.com/kubernetes/kube-state-metrics" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Add-on agent to generate and expose cluster-level metrics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labstack/echo#1744329600</id>
+    <title>https://github.com/labstack/echo</title>
+    <link href="https://github.com/labstack/echo" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">High performance, minimalist Go web framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seaweedfs/seaweedfs#1744329600</id>
+    <title>https://github.com/seaweedfs/seaweedfs</title>
+    <link href="https://github.com/seaweedfs/seaweedfs" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/zap#1744329600</id>
+    <title>https://github.com/uber-go/zap</title>
+    <link href="https://github.com/uber-go/zap" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vektra/mockery#1744329600</id>
+    <title>https://github.com/vektra/mockery</title>
+    <link href="https://github.com/vektra/mockery" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">A mock code autogenerator for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vitessio/vitess#1744329600</id>
+    <title>https://github.com/vitessio/vitess</title>
+    <link href="https://github.com/vitessio/vitess" />
+    <updated>2025-04-11T00:00:00</updated>
+    <content type="text">Vitess is a database clustering system for horizontal scaling of MySQL.</content>
+  </entry>
+</feed>

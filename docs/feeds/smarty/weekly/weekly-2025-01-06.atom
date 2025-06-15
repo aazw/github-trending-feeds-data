@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smarty/weekly.atom</id>
+  <title>GitHub Trending - smarty (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smarty/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T12:29:42+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/traefik/traefik-helm-chart#1736166582</id>
+    <title>https://github.com/traefik/traefik-helm-chart</title>
+    <link href="https://github.com/traefik/traefik-helm-chart" />
+    <updated>2025-01-06T12:29:42+00:00</updated>
+    <content type="text">Traefik Proxy Helm Chart</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/helm-charts#1736166582</id>
+    <title>https://github.com/grafana/helm-charts</title>
+    <link href="https://github.com/grafana/helm-charts" />
+    <updated>2025-01-06T12:29:42+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/nextcloud/helm#1736166582</id>
+    <title>https://github.com/nextcloud/helm</title>
+    <link href="https://github.com/nextcloud/helm" />
+    <updated>2025-01-06T12:29:42+00:00</updated>
+    <content type="text">A community maintained helm chart for deploying Nextcloud on Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wiz-sec/charts#1736166582</id>
+    <title>https://github.com/wiz-sec/charts</title>
+    <link href="https://github.com/wiz-sec/charts" />
+    <updated>2025-01-06T12:29:42+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/charts#1736166582</id>
+    <title>https://github.com/cloudnative-pg/charts</title>
+    <link href="https://github.com/cloudnative-pg/charts" />
+    <updated>2025-01-06T12:29:42+00:00</updated>
+    <content type="text">CloudNativePG Helm Charts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k8s-monitoring-helm#1736166582</id>
+    <title>https://github.com/grafana/k8s-monitoring-helm</title>
+    <link href="https://github.com/grafana/k8s-monitoring-helm" />
+    <updated>2025-01-06T12:29:42+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/supabase-community/supabase-kubernetes#1736166582</id>
+    <title>https://github.com/supabase-community/supabase-kubernetes</title>
+    <link href="https://github.com/supabase-community/supabase-kubernetes" />
+    <updated>2025-01-06T12:29:42+00:00</updated>
+    <content type="text">Helm 3 charts to deploy a Supabase on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/truecharts/public#1736166582</id>
+    <title>https://github.com/truecharts/public</title>
+    <link href="https://github.com/truecharts/public" />
+    <updated>2025-01-06T12:29:42+00:00</updated>
+    <content type="text">Community Helm Chart Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sidpalas/devops-directive-kubernetes-course#1736166582</id>
+    <title>https://github.com/sidpalas/devops-directive-kubernetes-course</title>
+    <link href="https://github.com/sidpalas/devops-directive-kubernetes-course" />
+    <updated>2025-01-06T12:29:42+00:00</updated>
+    <content type="text">This is the companion repo for the DevOps Directive "Kubernetes: Beginner to Pro" course!</content>
+  </entry>
+</feed>

@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bicep/daily.atom</id>
+  <title>GitHub Trending - bicep (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bicep/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure-Samples/aks-store-demo#1737849600</id>
+    <title>https://github.com/Azure-Samples/aks-store-demo</title>
+    <link href="https://github.com/Azure-Samples/aks-store-demo" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Sample microservices app for AKS demos, tutorials, and experiments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app#1737849600</id>
+    <title>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</title>
+    <link href="https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">A sample Express.js app using a MongoDB database to show how to host Node.js app in Azure App service using Azure Cosmos DB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/ALZ-Bicep#1737849600</id>
+    <title>https://github.com/Azure/ALZ-Bicep</title>
+    <link href="https://github.com/Azure/ALZ-Bicep" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">This repository contains the Azure Landing Zones (ALZ) Bicep modules that help deliver and deploy the Azure Landing Zone conceptual architecture in a modular approach. https://aka.ms/alz/docs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-quickstart-templates#1737849600</id>
+    <title>https://github.com/Azure/azure-quickstart-templates</title>
+    <link href="https://github.com/Azure/azure-quickstart-templates" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Azure Quickstart Templates</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/bicep#1737849600</id>
+    <title>https://github.com/Azure/bicep</title>
+    <link href="https://github.com/Azure/bicep" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Bicep is a declarative language for describing and deploying Azure resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/bicep-registry-modules#1737849600</id>
+    <title>https://github.com/Azure/bicep-registry-modules</title>
+    <link href="https://github.com/Azure/bicep-registry-modules" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Bicep registry modules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SonarSource/sonar-scanning-examples#1737849600</id>
+    <title>https://github.com/SonarSource/sonar-scanning-examples</title>
+    <link href="https://github.com/SonarSource/sonar-scanning-examples" />
+    <updated>2025-01-26T00:00:00</updated>
+    <content type="text">Shows how to use the Scanners</content>
+  </entry>
+</feed>

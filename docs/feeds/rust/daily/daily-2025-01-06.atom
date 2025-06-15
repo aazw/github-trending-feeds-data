@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T11:25:53+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1736162753</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-unofficial/awesome-rust#1736162753</id>
+    <title>https://github.com/rust-unofficial/awesome-rust</title>
+    <link href="https://github.com/rust-unofficial/awesome-rust" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">A curated list of Rust code and resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1736162753</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana#1736162753</id>
+    <title>https://github.com/solana-labs/solana</title>
+    <link href="https://github.com/solana-labs/solana" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Orange-OpenSource/hurl#1736162753</id>
+    <title>https://github.com/Orange-OpenSource/hurl</title>
+    <link href="https://github.com/Orange-OpenSource/hurl" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Hurl, run and test HTTP requests with plain text.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/slint-ui/slint#1736162753</id>
+    <title>https://github.com/slint-ui/slint</title>
+    <link href="https://github.com/slint-ui/slint" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Slint is a declarative GUI toolkit to build native user interfaces for Rust, C++, or JavaScript apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1736162753</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gfx-rs/wgpu#1736162753</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReFirmLabs/binwalk#1736162753</id>
+    <title>https://github.com/ReFirmLabs/binwalk</title>
+    <link href="https://github.com/ReFirmLabs/binwalk" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Firmware Analysis Tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheAlgorithms/Rust#1736162753</id>
+    <title>https://github.com/TheAlgorithms/Rust</title>
+    <link href="https://github.com/TheAlgorithms/Rust" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">All Algorithms implemented in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/girlbossceo/conduwuit#1736162753</id>
+    <title>https://github.com/girlbossceo/conduwuit</title>
+    <link href="https://github.com/girlbossceo/conduwuit" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">a very cool, featureful fork of conduit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-windowing/winit#1736162753</id>
+    <title>https://github.com/rust-windowing/winit</title>
+    <link href="https://github.com/rust-windowing/winit" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Window handling library in pure Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1736162753</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spaceandtimelabs/sxt-proof-of-sql#1736162753</id>
+    <title>https://github.com/spaceandtimelabs/sxt-proof-of-sql</title>
+    <link href="https://github.com/spaceandtimelabs/sxt-proof-of-sql" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Space and Time | Proof of SQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/louis-e/arnis#1736162753</id>
+    <title>https://github.com/louis-e/arnis</title>
+    <link href="https://github.com/louis-e/arnis" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Generate any location from the real world in Minecraft Java Edition with a high level of detail.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loco-rs/loco#1736162753</id>
+    <title>https://github.com/loco-rs/loco</title>
+    <link href="https://github.com/loco-rs/loco" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">🚂 🦀 The one-person framework for Rust for side-projects and startups</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfontanini/presenterm#1736162753</id>
+    <title>https://github.com/mfontanini/presenterm</title>
+    <link href="https://github.com/mfontanini/presenterm" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">A markdown terminal slideshow tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mufeedvh/code2prompt#1736162753</id>
+    <title>https://github.com/mufeedvh/code2prompt</title>
+    <link href="https://github.com/mufeedvh/code2prompt" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/sui#1736162753</id>
+    <title>https://github.com/MystenLabs/sui</title>
+    <link href="https://github.com/MystenLabs/sui" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Y2Z/monolith#1736162753</id>
+    <title>https://github.com/Y2Z/monolith</title>
+    <link href="https://github.com/Y2Z/monolith" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">⬛️ CLI tool for saving complete web pages as a single HTML file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getzola/zola#1736162753</id>
+    <title>https://github.com/getzola/zola</title>
+    <link href="https://github.com/getzola/zola" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">A fast static site generator in a single binary with everything built-in. https://www.getzola.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helix-editor/helix#1736162753</id>
+    <title>https://github.com/helix-editor/helix</title>
+    <link href="https://github.com/helix-editor/helix" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">A post-modern modal text editor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana-program-library#1736162753</id>
+    <title>https://github.com/solana-labs/solana-program-library</title>
+    <link href="https://github.com/solana-labs/solana-program-library" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">A collection of Solana programs maintained by Solana Labs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1736162753</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-01-06T11:25:53+00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+</feed>

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/swift/weekly.atom</id>
+  <title>GitHub Trending - swift (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/swift/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Alamofire/Alamofire#1748217600</id>
+    <title>https://github.com/Alamofire/Alamofire</title>
+    <link href="https://github.com/Alamofire/Alamofire" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Elegant HTTP Networking in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChartsOrg/Charts#1748217600</id>
+    <title>https://github.com/ChartsOrg/Charts</title>
+    <link href="https://github.com/ChartsOrg/Charts" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Beautiful charts for iOS/tvOS/OSX! The Apple side of the crossplatform MPAndroidChart.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DamascenoRafael/reminders-menubar#1748217600</id>
+    <title>https://github.com/DamascenoRafael/reminders-menubar</title>
+    <link href="https://github.com/DamascenoRafael/reminders-menubar" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Simple macOS menu bar application to view and interact with reminders. Developed with SwiftUI and using Apple Reminders as a source.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Moya/Moya#1748217600</id>
+    <title>https://github.com/Moya/Moya</title>
+    <link href="https://github.com/Moya/Moya" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Network abstraction layer written in Swift.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ReactiveX/RxSwift#1748217600</id>
+    <title>https://github.com/ReactiveX/RxSwift</title>
+    <link href="https://github.com/ReactiveX/RxSwift" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Reactive Programming in Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airbnb/lottie-ios#1748217600</id>
+    <title>https://github.com/airbnb/lottie-ios</title>
+    <link href="https://github.com/airbnb/lottie-ios" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">An iOS library to natively render After Effects vector animations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-collections#1748217600</id>
+    <title>https://github.com/apple/swift-collections</title>
+    <link href="https://github.com/apple/swift-collections" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Commonly used data structures for Swift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-nio#1748217600</id>
+    <title>https://github.com/apple/swift-nio</title>
+    <link href="https://github.com/apple/swift-nio" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Event-driven network application framework for high performance protocol servers &amp; clients, non-blocking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/CopilotForXcode#1748217600</id>
+    <title>https://github.com/github/CopilotForXcode</title>
+    <link href="https://github.com/github/CopilotForXcode" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Xcode extension for GitHub Copilot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/intitni/CopilotForXcode#1748217600</id>
+    <title>https://github.com/intitni/CopilotForXcode</title>
+    <link href="https://github.com/intitni/CopilotForXcode" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The first GitHub Copilot, Codeium and ChatGPT Xcode Source Editor Extension</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelcontextprotocol/swift-sdk#1748217600</id>
+    <title>https://github.com/modelcontextprotocol/swift-sdk</title>
+    <link href="https://github.com/modelcontextprotocol/swift-sdk" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The official Swift SDK for Model Context Protocol servers and clients. Maintained in collaboration with @loopwork-ai.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pointfreeco/swift-composable-architecture#1748217600</id>
+    <title>https://github.com/pointfreeco/swift-composable-architecture</title>
+    <link href="https://github.com/pointfreeco/swift-composable-architecture" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simibac/ConfettiSwiftUI#1748217600</id>
+    <title>https://github.com/simibac/ConfettiSwiftUI</title>
+    <link href="https://github.com/simibac/ConfettiSwiftUI" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">SwiftUI Package for Configurable Confetti Animation 🎉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/siteline/swiftui-introspect#1748217600</id>
+    <title>https://github.com/siteline/swiftui-introspect</title>
+    <link href="https://github.com/siteline/swiftui-introspect" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Introspect underlying UIKit/AppKit components from SwiftUI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swiftlang/swift-package-manager#1748217600</id>
+    <title>https://github.com/swiftlang/swift-package-manager</title>
+    <link href="https://github.com/swiftlang/swift-package-manager" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">The Package Manager for the Swift Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tuist/tuist#1748217600</id>
+    <title>https://github.com/tuist/tuist</title>
+    <link href="https://github.com/tuist/tuist" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Build better Swift apps faster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vapor/vapor#1748217600</id>
+    <title>https://github.com/vapor/vapor</title>
+    <link href="https://github.com/vapor/vapor" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">💧 A server-side Swift HTTP web framework.</content>
+  </entry>
+</feed>

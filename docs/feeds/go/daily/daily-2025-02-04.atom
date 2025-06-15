@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1738627200</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TykTechnologies/tyk#1738627200</id>
+    <title>https://github.com/TykTechnologies/tyk</title>
+    <link href="https://github.com/TykTechnologies/tyk" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1738627200</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1738627200</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1738627200</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/buildah#1738627200</id>
+    <title>https://github.com/containers/buildah</title>
+    <link href="https://github.com/containers/buildah" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A tool that facilitates building OCI images.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/skopeo#1738627200</id>
+    <title>https://github.com/containers/skopeo</title>
+    <link href="https://github.com/containers/skopeo" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Work with remote images registries - retrieving information, images, signing content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fyne-io/fyne#1738627200</id>
+    <title>https://github.com/fyne-io/fyne</title>
+    <link href="https://github.com/fyne-io/fyne" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Cross platform GUI toolkit in Go inspired by Material Design</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/cadvisor#1738627200</id>
+    <title>https://github.com/google/cadvisor</title>
+    <link href="https://github.com/google/cadvisor" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Analyzes resource usage and performance characteristics of running containers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1738627200</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/k6#1738627200</id>
+    <title>https://github.com/grafana/k6</title>
+    <link href="https://github.com/grafana/k6" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A modern load testing tool, using Go and JavaScript - https://k6.io</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1738627200</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackc/pgx#1738627200</id>
+    <title>https://github.com/jackc/pgx</title>
+    <link href="https://github.com/jackc/pgx" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">PostgreSQL driver and toolkit for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meshery/meshery#1738627200</id>
+    <title>https://github.com/meshery/meshery</title>
+    <link href="https://github.com/meshery/meshery" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Meshery, the cloud native manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikefarah/yq#1738627200</id>
+    <title>https://github.com/mikefarah/yq</title>
+    <link href="https://github.com/mikefarah/yq" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">yq is a portable command-line YAML, JSON, XML, CSV, TOML and properties processor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1738627200</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nevalang/neva#1738627200</id>
+    <title>https://github.com/nevalang/neva</title>
+    <link href="https://github.com/nevalang/neva" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">🌊 Next-generation programming language that solves programmers' problems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pressly/goose#1738627200</id>
+    <title>https://github.com/pressly/goose</title>
+    <link href="https://github.com/pressly/goose" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A database migration tool. Supports SQL migrations and Go functions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/naabu#1738627200</id>
+    <title>https://github.com/projectdiscovery/naabu</title>
+    <link href="https://github.com/projectdiscovery/naabu" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A fast port scanner written in go with a focus on reliability and simplicity. Designed to be used in combination with other tools for attack surface discovery in bug bounties and pentests</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1738627200</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1738627200</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-linters/tflint#1738627200</id>
+    <title>https://github.com/terraform-linters/tflint</title>
+    <link href="https://github.com/terraform-linters/tflint" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">A Pluggable Terraform Linter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmc/langchaingo#1738627200</id>
+    <title>https://github.com/tmc/langchaingo</title>
+    <link href="https://github.com/tmc/langchaingo" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">LangChain for Go, the easiest way to write LLM-based programs in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/traefik/traefik#1738627200</id>
+    <title>https://github.com/traefik/traefik</title>
+    <link href="https://github.com/traefik/traefik" />
+    <updated>2025-02-04T00:00:00</updated>
+    <content type="text">The Cloud Native Application Proxy</content>
+  </entry>
+</feed>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/jbengler/tidyplots#1737244800</id>
+    <title>https://github.com/jbengler/tidyplots</title>
+    <link href="https://github.com/jbengler/tidyplots" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Tidy Plots for Scientific Papers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rdatatable/data.table#1737244800</id>
+    <title>https://github.com/Rdatatable/data.table</title>
+    <link href="https://github.com/Rdatatable/data.table" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">R's data.table package extends data.frame:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadley/r4ds#1737244800</id>
+    <title>https://github.com/hadley/r4ds</title>
+    <link href="https://github.com/hadley/r4ds" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">R for data science: a book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vegandevs/vegan#1737244800</id>
+    <title>https://github.com/vegandevs/vegan</title>
+    <link href="https://github.com/vegandevs/vegan" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">R package for community ecologists: popular ordination methods, ecological null models &amp; diversity analysis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/r-lib/tree-sitter-r#1737244800</id>
+    <title>https://github.com/r-lib/tree-sitter-r</title>
+    <link href="https://github.com/r-lib/tree-sitter-r" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/kassambara/survminer#1737244800</id>
+    <title>https://github.com/kassambara/survminer</title>
+    <link href="https://github.com/kassambara/survminer" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Survival Analysis and Visualization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kassambara/ggpubr#1737244800</id>
+    <title>https://github.com/kassambara/ggpubr</title>
+    <link href="https://github.com/kassambara/ggpubr" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">'ggplot2' Based Publication Ready Plots</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rmcelreath/rethinking#1737244800</id>
+    <title>https://github.com/rmcelreath/rethinking</title>
+    <link href="https://github.com/rmcelreath/rethinking" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Statistical Rethinking course and book package</content>
+  </entry>
+</feed>

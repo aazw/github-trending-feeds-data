@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/L3MON4D3/LuaSnip#1743379200</id>
+    <title>https://github.com/L3MON4D3/LuaSnip</title>
+    <link href="https://github.com/L3MON4D3/LuaSnip" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Snippet Engine for Neovim written in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1743379200</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LuaLS/lua-language-server#1743379200</id>
+    <title>https://github.com/LuaLS/lua-language-server</title>
+    <link href="https://github.com/LuaLS/lua-language-server" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A language server that offers Lua language support - programmed in Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/nvim#1743379200</id>
+    <title>https://github.com/catppuccin/nvim</title>
+    <link href="https://github.com/catppuccin/nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">🍨 Soothing pastel theme for (Neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1743379200</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1743379200</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazydev.nvim#1743379200</id>
+    <title>https://github.com/folke/lazydev.nvim</title>
+    <link href="https://github.com/folke/lazydev.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Faster LuaLS setup for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1743379200</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ibhagwan/fzf-lua#1743379200</id>
+    <title>https://github.com/ibhagwan/fzf-lua</title>
+    <link href="https://github.com/ibhagwan/fzf-lua" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Improved fzf.vim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kevinhwang91/nvim-ufo#1743379200</id>
+    <title>https://github.com/kevinhwang91/nvim-ufo</title>
+    <link href="https://github.com/kevinhwang91/nvim-ufo" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Not UFO in the sky, but an ultra fold in Neovim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1743379200</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lewis6991/gitsigns.nvim#1743379200</id>
+    <title>https://github.com/lewis6991/gitsigns.nvim</title>
+    <link href="https://github.com/lewis6991/gitsigns.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Git integration for buffers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrcjkb/rustaceanvim#1743379200</id>
+    <title>https://github.com/mrcjkb/rustaceanvim</title>
+    <link href="https://github.com/mrcjkb/rustaceanvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">🦀 Supercharge your Rust experience in Neovim! A heavily modified fork of rust-tools.nvim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1743379200</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1743379200</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/plenary.nvim#1743379200</id>
+    <title>https://github.com/nvim-lua/plenary.nvim</title>
+    <link href="https://github.com/nvim-lua/plenary.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">plenary: full; complete; entire; absolute; unqualified. All the lua functions I don't want to write twice.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvimtools/none-ls.nvim#1743379200</id>
+    <title>https://github.com/nvimtools/none-ls.nvim</title>
+    <link href="https://github.com/nvimtools/none-ls.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">null-ls.nvim reloaded / Use Neovim as a language server to inject LSP diagnostics, code actions, and more via Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/overextended/ox_lib#1743379200</id>
+    <title>https://github.com/overextended/ox_lib</title>
+    <link href="https://github.com/overextended/ox_lib" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">A FiveM resource and script library for Lua and JS.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rafamadriz/friendly-snippets#1743379200</id>
+    <title>https://github.com/rafamadriz/friendly-snippets</title>
+    <link href="https://github.com/rafamadriz/friendly-snippets" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Set of preconfigured snippets for different languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rebelot/kanagawa.nvim#1743379200</id>
+    <title>https://github.com/rebelot/kanagawa.nvim</title>
+    <link href="https://github.com/rebelot/kanagawa.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sindrets/diffview.nvim#1743379200</id>
+    <title>https://github.com/sindrets/diffview.nvim</title>
+    <link href="https://github.com/sindrets/diffview.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Single tabpage interface for easily cycling through diffs for all modified files for any git rev.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/williamboman/mason-lspconfig.nvim#1743379200</id>
+    <title>https://github.com/williamboman/mason-lspconfig.nvim</title>
+    <link href="https://github.com/williamboman/mason-lspconfig.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Extension to mason.nvim that makes it easier to use lspconfig with mason.nvim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1743379200</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zbirenbaum/copilot.lua#1743379200</id>
+    <title>https://github.com/zbirenbaum/copilot.lua</title>
+    <link href="https://github.com/zbirenbaum/copilot.lua" />
+    <updated>2025-03-31T00:00:00</updated>
+    <content type="text">Fully featured &amp; enhanced replacement for copilot.vim complete with API for interacting with Github Copilot</content>
+  </entry>
+</feed>

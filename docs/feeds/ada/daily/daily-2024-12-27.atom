@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ada/daily.atom</id>
+  <title>GitHub Trending - ada (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ada/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T11:06:35+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdaCore/ada_language_server#1735297595</id>
+    <title>https://github.com/AdaCore/ada_language_server</title>
+    <link href="https://github.com/AdaCore/ada_language_server" />
+    <updated>2024-12-27T11:06:35+00:00</updated>
+    <content type="text">Server implementing the Microsoft Language Protocol for Ada and SPARK</content>
+  </entry>
+</feed>

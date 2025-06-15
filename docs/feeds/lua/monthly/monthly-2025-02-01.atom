@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/monthly.atom</id>
+  <title>GitHub Trending - lua (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/EdenEast/nightfox.nvim#1738368000</id>
+    <title>https://github.com/EdenEast/nightfox.nvim</title>
+    <link href="https://github.com/EdenEast/nightfox.nvim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">🦊A highly customizable theme for vim and neovim with support for lsp, treesitter and a variety of plugins.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1738368000</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MathIsFun0/Cryptid#1738368000</id>
+    <title>https://github.com/MathIsFun0/Cryptid</title>
+    <link href="https://github.com/MathIsFun0/Cryptid" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">An unbalanced Balatro mod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PathOfBuildingCommunity/PathOfBuilding#1738368000</id>
+    <title>https://github.com/PathOfBuildingCommunity/PathOfBuilding</title>
+    <link href="https://github.com/PathOfBuildingCommunity/PathOfBuilding" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Offline build planner for Path of Exile.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1738368000</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1738368000</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/which-key.nvim#1738368000</id>
+    <title>https://github.com/folke/which-key.nvim</title>
+    <link href="https://github.com/folke/which-key.nvim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koreader/koreader#1738368000</id>
+    <title>https://github.com/koreader/koreader</title>
+    <link href="https://github.com/koreader/koreader" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-lint#1738368000</id>
+    <title>https://github.com/mfussenegger/nvim-lint</title>
+    <link href="https://github.com/mfussenegger/nvim-lint" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1738368000</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1738368000</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neo-tree/neo-tree.nvim#1738368000</id>
+    <title>https://github.com/nvim-neo-tree/neo-tree.nvim</title>
+    <link href="https://github.com/nvim-neo-tree/neo-tree.nvim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Neovim plugin to manage the file system and other tree like structures.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-tree/nvim-tree.lua#1738368000</id>
+    <title>https://github.com/nvim-tree/nvim-tree.lua</title>
+    <link href="https://github.com/nvim-tree/nvim-tree.lua" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A file explorer tree for neovim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-tree/nvim-web-devicons#1738368000</id>
+    <title>https://github.com/nvim-tree/nvim-web-devicons</title>
+    <link href="https://github.com/nvim-tree/nvim-web-devicons" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Provides Nerd Font icons (glyphs) for use by neovim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rebelot/kanagawa.nvim#1738368000</id>
+    <title>https://github.com/rebelot/kanagawa.nvim</title>
+    <link href="https://github.com/rebelot/kanagawa.nvim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">NeoVim dark colorscheme inspired by the colors of the famous painting by Katsushika Hokusai.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/conform.nvim#1738368000</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/oil.nvim#1738368000</id>
+    <title>https://github.com/stevearc/oil.nvim</title>
+    <link href="https://github.com/stevearc/oil.nvim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Neovim file explorer: edit your filesystem like a buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1738368000</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+</feed>

@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/weekly.atom</id>
+  <title>GitHub Trending - elixir (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1742774400</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluzky/salad_ui#1742774400</id>
+    <title>https://github.com/bluzky/salad_ui</title>
+    <link href="https://github.com/bluzky/salad_ui" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Phoenix Liveview component library inspired by shadcn UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/commanded/eventstore#1742774400</id>
+    <title>https://github.com/commanded/eventstore</title>
+    <link href="https://github.com/commanded/eventstore" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Event store using PostgreSQL for persistence</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1742774400</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Real-time sync for Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lang/elixir#1742774400</id>
+    <title>https://github.com/elixir-lang/elixir</title>
+    <link href="https://github.com/elixir-lang/elixir" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Elixir is a dynamic, functional language for building scalable and maintainable applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fly-apps/live_beats#1742774400</id>
+    <title>https://github.com/fly-apps/live_beats</title>
+    <link href="https://github.com/fly-apps/live_beats" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/pentacent/keila#1742774400</id>
+    <title>https://github.com/pentacent/keila</title>
+    <link href="https://github.com/pentacent/keila" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Open Source Newsletter Tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phcurado/daisy_ui_components#1742774400</id>
+    <title>https://github.com/phcurado/daisy_ui_components</title>
+    <link href="https://github.com/phcurado/daisy_ui_components" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">🌼 Phoenix LiveView + DaisyUI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1742774400</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1742774400</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1742774400</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight (&lt; 1 KB) and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/supabase/realtime#1742774400</id>
+    <title>https://github.com/supabase/realtime</title>
+    <link href="https://github.com/supabase/realtime" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">Broadcast, Presence, and Postgres Changes via WebSockets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/valpackett/httpotion#1742774400</id>
+    <title>https://github.com/valpackett/httpotion</title>
+    <link href="https://github.com/valpackett/httpotion" />
+    <updated>2025-03-24T00:00:00</updated>
+    <content type="text">[Deprecated because ibrowse is not maintained] HTTP client for Elixir (use Tesla please)</content>
+  </entry>
+</feed>

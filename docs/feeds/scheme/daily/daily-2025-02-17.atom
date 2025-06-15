@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scheme/daily.atom</id>
+  <title>GitHub Trending - scheme (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scheme/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-17T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cisco/ChezScheme#1739750400</id>
+    <title>https://github.com/cisco/ChezScheme</title>
+    <link href="https://github.com/cisco/ChezScheme" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Chez Scheme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-treesitter/nvim-treesitter#1739750400</id>
+    <title>https://github.com/nvim-treesitter/nvim-treesitter</title>
+    <link href="https://github.com/nvim-treesitter/nvim-treesitter" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text">Nvim Treesitter configurations and abstraction layer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-treesitter/nvim-treesitter-textobjects#1739750400</id>
+    <title>https://github.com/nvim-treesitter/nvim-treesitter-textobjects</title>
+    <link href="https://github.com/nvim-treesitter/nvim-treesitter-textobjects" />
+    <updated>2025-02-17T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

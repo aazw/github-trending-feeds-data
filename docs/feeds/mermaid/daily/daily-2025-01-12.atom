@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/mermaid/daily.atom</id>
+  <title>GitHub Trending - mermaid (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/mermaid/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-12T11:18:23+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/v2fly/v2ray-examples#1736680703</id>
+    <title>https://github.com/v2fly/v2ray-examples</title>
+    <link href="https://github.com/v2fly/v2ray-examples" />
+    <updated>2025-01-12T11:18:23+00:00</updated>
+    <content type="text">v2ray-core 的模板们</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lifeparticle/Markdown-Cheatsheet#1736680703</id>
+    <title>https://github.com/lifeparticle/Markdown-Cheatsheet</title>
+    <link href="https://github.com/lifeparticle/Markdown-Cheatsheet" />
+    <updated>2025-01-12T11:18:23+00:00</updated>
+    <content type="text">🔖 The Ultimate Markdown Cheatsheet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/EntityFramework.Docs#1736680703</id>
+    <title>https://github.com/dotnet/EntityFramework.Docs</title>
+    <link href="https://github.com/dotnet/EntityFramework.Docs" />
+    <updated>2025-01-12T11:18:23+00:00</updated>
+    <content type="text">Documentation for Entity Framework Core and Entity Framework 6</content>
+  </entry>
+</feed>

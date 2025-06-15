@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-06T11:14:59+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1736162099</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-01-06T11:14:59+00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cashapp/hermit-packages#1736162099</id>
+    <title>https://github.com/cashapp/hermit-packages</title>
+    <link href="https://github.com/cashapp/hermit-packages" />
+    <updated>2025-01-06T11:14:59+00:00</updated>
+    <content type="text">Hermit manages isolated, self-bootstrapping sets of tools in software projects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms#1736162099</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms" />
+    <updated>2025-01-06T11:14:59+00:00</updated>
+    <content type="text">Terraform module for creating alarms for tracking important changes and occurrences from cloudtrail.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1736162099</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2025-01-06T11:14:59+00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster#1736162099</id>
+    <title>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster" />
+    <updated>2025-01-06T11:14:59+00:00</updated>
+    <content type="text">Terraform module to provision AWS MSK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/h3mmy/bloopySphere#1736162099</id>
+    <title>https://github.com/h3mmy/bloopySphere</title>
+    <link href="https://github.com/h3mmy/bloopySphere" />
+    <updated>2025-01-06T11:14:59+00:00</updated>
+    <content type="text">My home cluster.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-efs#1736162099</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2025-01-06T11:14:59+00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner#1736162099</id>
+    <title>https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner</title>
+    <link href="https://github.com/kube-hetzner/terraform-hcloud-kube-hetzner" />
+    <updated>2025-01-06T11:14:59+00:00</updated>
+    <content type="text">Optimized and Maintenance-free Kubernetes on Hetzner Cloud in one command!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1736162099</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-01-06T11:14:59+00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+</feed>

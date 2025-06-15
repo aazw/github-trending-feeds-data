@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/serverless-sample-app#1746835200</id>
+    <title>https://github.com/DataDog/serverless-sample-app</title>
+    <link href="https://github.com/DataDog/serverless-sample-app" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Explore Datadog's serverless observability features with this sample app.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cluster-toolkit#1746835200</id>
+    <title>https://github.com/GoogleCloudPlatform/cluster-toolkit</title>
+    <link href="https://github.com/GoogleCloudPlatform/cluster-toolkit" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Cluster Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-control_tower_account_factory#1746835200</id>
+    <title>https://github.com/aws-ia/terraform-aws-control_tower_account_factory</title>
+    <link href="https://github.com/aws-ia/terraform-aws-control_tower_account_factory" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">AWS Control Tower Account Factory</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-eks-blueprints#1746835200</id>
+    <title>https://github.com/aws-ia/terraform-aws-eks-blueprints</title>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Configure and deploy complete EKS clusters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons#1746835200</id>
+    <title>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons</title>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints-addons" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Terraform module which provisions addons on Amazon EKS clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1746835200</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-redis#1746835200</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-redis</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-redis" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Terraform module to provision an ElastiCache Redis Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-iam-system-user#1746835200</id>
+    <title>https://github.com/cloudposse/terraform-aws-iam-system-user</title>
+    <link href="https://github.com/cloudposse/terraform-aws-iam-system-user" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Terraform Module to Provision a Basic IAM System User Suitable for CI/CD Systems (E.g. TravisCI, CircleCI)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1746835200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1746835200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-lambda#1746835200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-lambda</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-vpc#1746835200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-vpc</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-vpc" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Terraform module to create AWS VPC resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine#1746835200</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Configures opinionated GKE clusters</content>
+  </entry>
+</feed>

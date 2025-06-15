@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DiceDB/dice#1742428800</id>
+    <title>https://github.com/DiceDB/dice</title>
+    <link href="https://github.com/DiceDB/dice" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TykTechnologies/tyk#1742428800</id>
+    <title>https://github.com/TykTechnologies/tyk</title>
+    <link href="https://github.com/TykTechnologies/tyk" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/answer#1742428800</id>
+    <title>https://github.com/apache/answer</title>
+    <link href="https://github.com/apache/answer" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A Q&amp;A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1742428800</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1742428800</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1742428800</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bnb-chain/bsc#1742428800</id>
+    <title>https://github.com/bnb-chain/bsc</title>
+    <link href="https://github.com/bnb-chain/bsc" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A BNB Smart Chain client based on the go-ethereum fork</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cli/cli#1742428800</id>
+    <title>https://github.com/cli/cli</title>
+    <link href="https://github.com/cli/cli" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">GitHub’s official command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/terraform-provider-cloudflare#1742428800</id>
+    <title>https://github.com/cloudflare/terraform-provider-cloudflare</title>
+    <link href="https://github.com/cloudflare/terraform-provider-cloudflare" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Cloudflare Terraform Provider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1742428800</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino-examples#1742428800</id>
+    <title>https://github.com/cloudwego/eino-examples</title>
+    <link href="https://github.com/cloudwego/eino-examples" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Examples and demonstrations for using the Eino framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1742428800</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/osv-scanner#1742428800</id>
+    <title>https://github.com/google/osv-scanner</title>
+    <link href="https://github.com/google/osv-scanner" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Vulnerability scanner written in Go which uses the data provided by https://osv.dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/alloy#1742428800</id>
+    <title>https://github.com/grafana/alloy</title>
+    <link href="https://github.com/grafana/alloy" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector distribution with programmable pipelines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1742428800</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keploy/keploy#1742428800</id>
+    <title>https://github.com/keploy/keploy</title>
+    <link href="https://github.com/keploy/keploy" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubesphere/kubesphere#1742428800</id>
+    <title>https://github.com/kubesphere/kubesphere</title>
+    <link href="https://github.com/kubesphere/kubesphere" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1742428800</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1742428800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go-contrib#1742428800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go-contrib" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Collection of extensions for OpenTelemetry-Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qax-os/excelize#1742428800</id>
+    <title>https://github.com/qax-os/excelize</title>
+    <link href="https://github.com/qax-os/excelize" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Go language library for reading and writing Microsoft Excel™ (XLAM / XLSM / XLSX / XLTM / XLTX) spreadsheets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/safing/portmaster#1742428800</id>
+    <title>https://github.com/safing/portmaster</title>
+    <link href="https://github.com/safing/portmaster" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">🏔 Love Freedom - ❌ Block Mass Surveillance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sinclairtarget/git-who#1742428800</id>
+    <title>https://github.com/sinclairtarget/git-who</title>
+    <link href="https://github.com/sinclairtarget/git-who" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Git blame for file trees</content>
+  </entry>
+</feed>

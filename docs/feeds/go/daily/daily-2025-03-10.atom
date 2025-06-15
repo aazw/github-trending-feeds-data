@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1741564800</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Calcium-Ion/new-api#1741564800</id>
+    <title>https://github.com/Calcium-Ion/new-api</title>
+    <link href="https://github.com/Calcium-Ion/new-api" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">AI模型接口管理与分发系统，支持将多种大模型转为OpenAI格式调用、支持Midjourney Proxy、Suno、Rerank，兼容易支付协议，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Jguer/yay#1741564800</id>
+    <title>https://github.com/Jguer/yay</title>
+    <link href="https://github.com/Jguer/yay" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Yet another Yogurt - An AUR Helper written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OJ/gobuster#1741564800</id>
+    <title>https://github.com/OJ/gobuster</title>
+    <link href="https://github.com/OJ/gobuster" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Directory/File, DNS and VHost busting tool written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alireza0/s-ui#1741564800</id>
+    <title>https://github.com/alireza0/s-ui</title>
+    <link href="https://github.com/alireza0/s-ui" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">An advanced Web Panel • Built for SagerNet/Sing-Box</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudreve/Cloudreve#1741564800</id>
+    <title>https://github.com/cloudreve/Cloudreve</title>
+    <link href="https://github.com/cloudreve/Cloudreve" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🌩支持多家云存储的云盘系统 (Self-hosted file management and sharing system, supports multiple storage providers)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cockroachdb/pebble#1741564800</id>
+    <title>https://github.com/cockroachdb/pebble</title>
+    <link href="https://github.com/cockroachdb/pebble" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">RocksDB/LevelDB inspired key-value database in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1741564800</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">An open-source runtime for composable workflows. Great for AI agents and CI/CD.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1741564800</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/filebrowser/filebrowser#1741564800</id>
+    <title>https://github.com/filebrowser/filebrowser</title>
+    <link href="https://github.com/filebrowser/filebrowser" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">📂 Web File Browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1741564800</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kopia/kopia#1741564800</id>
+    <title>https://github.com/kopia/kopia</title>
+    <link href="https://github.com/kopia/kopia" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kubebuilder#1741564800</id>
+    <title>https://github.com/kubernetes-sigs/kubebuilder</title>
+    <link href="https://github.com/kubernetes-sigs/kubebuilder" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Kubebuilder - SDK for building Kubernetes APIs using CRDs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/loft-sh/devpod#1741564800</id>
+    <title>https://github.com/loft-sh/devpod</title>
+    <link href="https://github.com/loft-sh/devpod" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1741564800</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/navidrome/navidrome#1741564800</id>
+    <title>https://github.com/navidrome/navidrome</title>
+    <link href="https://github.com/navidrome/navidrome" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🎧☁️ Your Personal Streaming Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1741564800</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/owncast/owncast#1741564800</id>
+    <title>https://github.com/owncast/owncast</title>
+    <link href="https://github.com/owncast/owncast" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Take control over your live stream video by running it yourself. Streaming + chat out of the box.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/httpx#1741564800</id>
+    <title>https://github.com/projectdiscovery/httpx</title>
+    <link href="https://github.com/projectdiscovery/httpx" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sundowndev/phoneinfoga#1741564800</id>
+    <title>https://github.com/sundowndev/phoneinfoga</title>
+    <link href="https://github.com/sundowndev/phoneinfoga" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Information gathering framework for phone numbers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1741564800</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailscale/tailscale#1741564800</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+</feed>

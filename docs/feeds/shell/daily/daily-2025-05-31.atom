@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DaoCloud/public-image-mirror#1748649600</id>
+    <title>https://github.com/DaoCloud/public-image-mirror</title>
+    <link href="https://github.com/DaoCloud/public-image-mirror" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MicrosoftDocs/azure-devops-docs#1748649600</id>
+    <title>https://github.com/MicrosoftDocs/azure-devops-docs</title>
+    <link href="https://github.com/MicrosoftDocs/azure-devops-docs" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">This repo is the home of the official Azure DevOps documentation for Microsoft. GitHub Issues filed in this repository should be for problems with the documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/ROCm#1748649600</id>
+    <title>https://github.com/ROCm/ROCm</title>
+    <link href="https://github.com/ROCm/ROCm" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">AMD ROCm™ Software - GitHub Home</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RPi-Distro/pi-gen#1748649600</id>
+    <title>https://github.com/RPi-Distro/pi-gen</title>
+    <link href="https://github.com/RPi-Distro/pi-gen" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Tool used to create the official Raspberry Pi OS images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonbabenko/pre-commit-terraform#1748649600</id>
+    <title>https://github.com/antonbabenko/pre-commit-terraform</title>
+    <link href="https://github.com/antonbabenko/pre-commit-terraform" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">pre-commit git hooks to take care of Terraform configurations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/git-secrets#1748649600</id>
+    <title>https://github.com/awslabs/git-secrets</title>
+    <link href="https://github.com/awslabs/git-secrets" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Prevents you from committing secrets and credentials into git repositories</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1748649600</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clangd/clangd#1748649600</id>
+    <title>https://github.com/clangd/clangd</title>
+    <link href="https://github.com/clangd/clangd" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">clangd language server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker-mailserver/docker-mailserver#1748649600</id>
+    <title>https://github.com/docker-mailserver/docker-mailserver</title>
+    <link href="https://github.com/docker-mailserver/docker-mailserver" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/oss-fuzz#1748649600</id>
+    <title>https://github.com/google/oss-fuzz</title>
+    <link href="https://github.com/google/oss-fuzz" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">OSS-Fuzz - continuous fuzzing for open source software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juewuy/ShellCrash#1748649600</id>
+    <title>https://github.com/juewuy/ShellCrash</title>
+    <link href="https://github.com/juewuy/ShellCrash" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Run sing-box/mihomo as client in shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nelvko/clash-for-linux-install#1748649600</id>
+    <title>https://github.com/nelvko/clash-for-linux-install</title>
+    <link href="https://github.com/nelvko/clash-for-linux-install" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">😼 优雅地部署基于 clash/mihomo 的代理环境</content>
+  </entry>
+  <entry>
+    <id>https://github.com/termux/termux-packages#1748649600</id>
+    <title>https://github.com/termux/termux-packages</title>
+    <link href="https://github.com/termux/termux-packages" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">A package build system for Termux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/winapps-org/winapps#1748649600</id>
+    <title>https://github.com/winapps-org/winapps</title>
+    <link href="https://github.com/winapps-org/winapps" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/winapps/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuaotian/go-cursor-help#1748649600</id>
+    <title>https://github.com/yuaotian/go-cursor-help</title>
+    <link href="https://github.com/yuaotian/go-cursor-help" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zabbix/zabbix-docker#1748649600</id>
+    <title>https://github.com/zabbix/zabbix-docker</title>
+    <link href="https://github.com/zabbix/zabbix-docker" />
+    <updated>2025-05-31T00:00:00</updated>
+    <content type="text">Official Zabbix Dockerfiles</content>
+  </entry>
+</feed>

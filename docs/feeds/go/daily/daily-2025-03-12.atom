@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/TykTechnologies/tyk#1741737600</id>
+    <title>https://github.com/TykTechnologies/tyk</title>
+    <link href="https://github.com/TykTechnologies/tyk" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Tyk Open Source API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/higress#1741737600</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-workflows#1741737600</id>
+    <title>https://github.com/argoproj/argo-workflows</title>
+    <link href="https://github.com/argoproj/argo-workflows" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Workflow Engine for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1741737600</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbletea#1741737600</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A powerful little TUI framework 🏗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coreybutler/nvm-windows#1741737600</id>
+    <title>https://github.com/coreybutler/nvm-windows</title>
+    <link href="https://github.com/coreybutler/nvm-windows" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A node.js version management utility for Windows. Ironically written in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/daeuniverse/dae#1741737600</id>
+    <title>https://github.com/daeuniverse/dae</title>
+    <link href="https://github.com/daeuniverse/dae" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">eBPF-based Linux high-performance transparent proxy solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derailed/k9s#1741737600</id>
+    <title>https://github.com/derailed/k9s</title>
+    <link href="https://github.com/derailed/k9s" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">🐶 Kubernetes CLI To Manage Your Clusters In Style!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1741737600</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-shiori/shiori#1741737600</id>
+    <title>https://github.com/go-shiori/shiori</title>
+    <link href="https://github.com/go-shiori/shiori" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Simple bookmark manager built with Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/pprof#1741737600</id>
+    <title>https://github.com/google/pprof</title>
+    <link href="https://github.com/google/pprof" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">pprof is a tool for visualization and analysis of profiling data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gophish/gophish#1741737600</id>
+    <title>https://github.com/gophish/gophish</title>
+    <link href="https://github.com/gophish/gophish" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Open-Source Phishing Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1741737600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaegertracing/jaeger#1741737600</id>
+    <title>https://github.com/jaegertracing/jaeger</title>
+    <link href="https://github.com/jaegertracing/jaeger" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">CNCF Jaeger, a Distributed Tracing Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kopia/kopia#1741737600</id>
+    <title>https://github.com/kopia/kopia</title>
+    <link href="https://github.com/kopia/kopia" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kubebuilder#1741737600</id>
+    <title>https://github.com/kubernetes-sigs/kubebuilder</title>
+    <link href="https://github.com/kubernetes-sigs/kubebuilder" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Kubebuilder - SDK for building Kubernetes APIs using CRDs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kustomize#1741737600</id>
+    <title>https://github.com/kubernetes-sigs/kustomize</title>
+    <link href="https://github.com/kubernetes-sigs/kustomize" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Customization of kubernetes YAML configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1741737600</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minio/minio#1741737600</id>
+    <title>https://github.com/minio/minio</title>
+    <link href="https://github.com/minio/minio" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1741737600</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ray-project/kuberay#1741737600</id>
+    <title>https://github.com/ray-project/kuberay</title>
+    <link href="https://github.com/ray-project/kuberay" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A toolkit to run Ray applications on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sashabaranov/go-openai#1741737600</id>
+    <title>https://github.com/sashabaranov/go-openai</title>
+    <link href="https://github.com/sashabaranov/go-openai" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">OpenAI ChatGPT, GPT-3, GPT-4, DALL·E, Whisper API wrapper for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmc/langchaingo#1741737600</id>
+    <title>https://github.com/tmc/langchaingo</title>
+    <link href="https://github.com/tmc/langchaingo" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">LangChain for Go, the easiest way to write LLM-based programs in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1741737600</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+</feed>

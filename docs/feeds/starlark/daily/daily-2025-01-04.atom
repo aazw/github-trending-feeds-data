@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom</id>
+  <title>GitHub Trending - starlark (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-04T11:28:45+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ethpandaops/ethereum-package#1735990125</id>
+    <title>https://github.com/ethpandaops/ethereum-package</title>
+    <link href="https://github.com/ethpandaops/ethereum-package" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">A Kurtosis package that deploys a private, portable, and modular Ethereum devnet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/rules_perl#1735990125</id>
+    <title>https://github.com/bazel-contrib/rules_perl</title>
+    <link href="https://github.com/bazel-contrib/rules_perl" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Perl rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rules-proto-grpc/rules_proto_grpc#1735990125</id>
+    <title>https://github.com/rules-proto-grpc/rules_proto_grpc</title>
+    <link href="https://github.com/rules-proto-grpc/rules_proto_grpc" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Bazel rules for building Protobuf and gRPC code and libraries from proto_library targets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_swift#1735990125</id>
+    <title>https://github.com/bazelbuild/rules_swift</title>
+    <link href="https://github.com/bazelbuild/rules_swift" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Bazel rules to build Swift on Apple and Linux platforms</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/api-common-protos#1735990125</id>
+    <title>https://github.com/googleapis/api-common-protos</title>
+    <link href="https://github.com/googleapis/api-common-protos" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">A standard library for use in specifying protocol buffer APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cncf/xds#1735990125</id>
+    <title>https://github.com/cncf/xds</title>
+    <link href="https://github.com/cncf/xds" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">xDS API Working Group</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/examples#1735990125</id>
+    <title>https://github.com/bazelbuild/examples</title>
+    <link href="https://github.com/bazelbuild/examples" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Examples for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pybind/pybind11_bazel#1735990125</id>
+    <title>https://github.com/pybind/pybind11_bazel</title>
+    <link href="https://github.com/pybind/pybind11_bazel" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Bazel wrapper around the pybind11 repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openconfig/gnsi#1735990125</id>
+    <title>https://github.com/openconfig/gnsi</title>
+    <link href="https://github.com/openconfig/gnsi" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ash2k/bazel-tools#1735990125</id>
+    <title>https://github.com/ash2k/bazel-tools</title>
+    <link href="https://github.com/ash2k/bazel-tools" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Reusable bits for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_python#1735990125</id>
+    <title>https://github.com/bazelbuild/rules_python</title>
+    <link href="https://github.com/bazelbuild/rules_python" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Bazel Python Rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tilt-dev/tilt-extensions#1735990125</id>
+    <title>https://github.com/tilt-dev/tilt-extensions</title>
+    <link href="https://github.com/tilt-dev/tilt-extensions" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Extensions for Tilt</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_proto#1735990125</id>
+    <title>https://github.com/bazelbuild/rules_proto</title>
+    <link href="https://github.com/bazelbuild/rules_proto" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Protocol buffer rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/distroless#1735990125</id>
+    <title>https://github.com/GoogleContainerTools/distroless</title>
+    <link href="https://github.com/GoogleContainerTools/distroless" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/cel-spec#1735990125</id>
+    <title>https://github.com/google/cel-spec</title>
+    <link href="https://github.com/google/cel-spec" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Common Expression Language -- specification and binary representation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_rust#1735990125</id>
+    <title>https://github.com/bazelbuild/rules_rust</title>
+    <link href="https://github.com/bazelbuild/rules_rust" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Rust rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/googleapis#1735990125</id>
+    <title>https://github.com/googleapis/googleapis</title>
+    <link href="https://github.com/googleapis/googleapis" />
+    <updated>2025-01-04T11:28:45+00:00</updated>
+    <content type="text">Public interface definitions of Google APIs.</content>
+  </entry>
+</feed>

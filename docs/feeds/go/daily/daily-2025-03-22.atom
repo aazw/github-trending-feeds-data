@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1742601600</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1742601600</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bnb-chain/bsc#1742601600</id>
+    <title>https://github.com/bnb-chain/bsc</title>
+    <link href="https://github.com/bnb-chain/bsc" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">A BNB Smart Chain client based on the go-ethereum fork</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/hertz#1742601600</id>
+    <title>https://github.com/cloudwego/hertz</title>
+    <link href="https://github.com/cloudwego/hertz" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Go HTTP framework with high-performance and strong-extensibility for building micro-services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elastic/beats#1742601600</id>
+    <title>https://github.com/elastic/beats</title>
+    <link href="https://github.com/elastic/beats" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">🐠 Beats - Lightweight shippers for Elasticsearch &amp; Logstash</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/gateway#1742601600</id>
+    <title>https://github.com/envoyproxy/gateway</title>
+    <link href="https://github.com/envoyproxy/gateway" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/go-ethereum#1742601600</id>
+    <title>https://github.com/ethereum/go-ethereum</title>
+    <link href="https://github.com/ethereum/go-ethereum" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Go implementation of the Ethereum protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flipped-aurora/gin-vue-admin#1742601600</id>
+    <title>https://github.com/flipped-aurora/gin-vue-admin</title>
+    <link href="https://github.com/flipped-aurora/gin-vue-admin" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">🚀Vite+Vue3+Gin拥有AI辅助的基础开发平台，支持TS和JS混用。它集成了JWT鉴权、权限管理、动态路由、显隐可控组件、分页封装、多点登录拦截、资源权限、上传下载、代码生成器、表单生成器和可配置的导入导出等开发必备功能。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-git/go-git#1742601600</id>
+    <title>https://github.com/go-git/go-git</title>
+    <link href="https://github.com/go-git/go-git" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">A highly extensible Git implementation in pure Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1742601600</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-resty/resty#1742601600</id>
+    <title>https://github.com/go-resty/resty</title>
+    <link href="https://github.com/go-resty/resty" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Simple HTTP, REST, and SSE client library for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-api-go-client#1742601600</id>
+    <title>https://github.com/googleapis/google-api-go-client</title>
+    <link href="https://github.com/googleapis/google-api-go-client" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Auto-generated Google APIs for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1742601600</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubevirt/kubevirt#1742601600</id>
+    <title>https://github.com/kubevirt/kubevirt</title>
+    <link href="https://github.com/kubevirt/kubevirt" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Kubernetes Virtualization API and runtime in order to define and manage virtual machines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/livekit/livekit#1742601600</id>
+    <title>https://github.com/livekit/livekit</title>
+    <link href="https://github.com/livekit/livekit" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">End-to-end stack for WebRTC. SFU media server and SDKs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1742601600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1742601600</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/go-redis#1742601600</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Redis Go client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seaweedfs/seaweedfs#1742601600</id>
+    <title>https://github.com/seaweedfs/seaweedfs</title>
+    <link href="https://github.com/seaweedfs/seaweedfs" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shirou/gopsutil#1742601600</id>
+    <title>https://github.com/shirou/gopsutil</title>
+    <link href="https://github.com/shirou/gopsutil" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">psutil for golang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sinclairtarget/git-who#1742601600</id>
+    <title>https://github.com/sinclairtarget/git-who</title>
+    <link href="https://github.com/sinclairtarget/git-who" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Git blame for file trees</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sirupsen/logrus#1742601600</id>
+    <title>https://github.com/sirupsen/logrus</title>
+    <link href="https://github.com/sirupsen/logrus" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">Structured, pluggable logging for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/fx#1742601600</id>
+    <title>https://github.com/uber-go/fx</title>
+    <link href="https://github.com/uber-go/fx" />
+    <updated>2025-03-22T00:00:00</updated>
+    <content type="text">A dependency injection based application framework for Go.</content>
+  </entry>
+</feed>

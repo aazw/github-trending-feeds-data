@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom</id>
+  <title>GitHub Trending - r (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/benjjneb/dada2#1744588800</id>
+    <title>https://github.com/benjjneb/dada2</title>
+    <link href="https://github.com/benjjneb/dada2" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Accurate sample inference from amplicon data with single nucleotide resolution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1744588800</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chris-mcginnis-ucsf/DoubletFinder#1744588800</id>
+    <title>https://github.com/chris-mcginnis-ucsf/DoubletFinder</title>
+    <link href="https://github.com/chris-mcginnis-ucsf/DoubletFinder" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">R package for detecting doublets in single-cell RNA sequencing data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadley/r4ds#1744588800</id>
+    <title>https://github.com/hadley/r4ds</title>
+    <link href="https://github.com/hadley/r4ds" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">R for data science: a book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/immunogenomics/harmony#1744588800</id>
+    <title>https://github.com/immunogenomics/harmony</title>
+    <link href="https://github.com/immunogenomics/harmony" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Fast, sensitive and accurate integration of single-cell data with Harmony</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kassambara/survminer#1744588800</id>
+    <title>https://github.com/kassambara/survminer</title>
+    <link href="https://github.com/kassambara/survminer" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Survival Analysis and Visualization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/r-spatial/sf#1744588800</id>
+    <title>https://github.com/r-spatial/sf</title>
+    <link href="https://github.com/r-spatial/sf" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Simple Features for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rmaia/pavo#1744588800</id>
+    <title>https://github.com/rmaia/pavo</title>
+    <link href="https://github.com/rmaia/pavo" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">tools for the analysis of color data in R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/rmarkdown#1744588800</id>
+    <title>https://github.com/rstudio/rmarkdown</title>
+    <link href="https://github.com/rstudio/rmarkdown" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Dynamic Documents for R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rstudio/shiny#1744588800</id>
+    <title>https://github.com/rstudio/shiny</title>
+    <link href="https://github.com/rstudio/shiny" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Easy interactive web applications with R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/satijalab/seurat#1744588800</id>
+    <title>https://github.com/satijalab/seurat</title>
+    <link href="https://github.com/satijalab/seurat" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">R toolkit for single cell genomics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqjin/CellChat#1744588800</id>
+    <title>https://github.com/sqjin/CellChat</title>
+    <link href="https://github.com/sqjin/CellChat" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">R toolkit for inference, visualization and analysis of cell-cell communication from single-cell data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stan-dev/rstan#1744588800</id>
+    <title>https://github.com/stan-dev/rstan</title>
+    <link href="https://github.com/stan-dev/rstan" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">RStan, the R interface to Stan</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stuart-lab/signac#1744588800</id>
+    <title>https://github.com/stuart-lab/signac</title>
+    <link href="https://github.com/stuart-lab/signac" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">R toolkit for the analysis of single-cell chromatin data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ellmer#1744588800</id>
+    <title>https://github.com/tidyverse/ellmer</title>
+    <link href="https://github.com/tidyverse/ellmer" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Call LLM APIs from R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidyverse/ggplot2#1744588800</id>
+    <title>https://github.com/tidyverse/ggplot2</title>
+    <link href="https://github.com/tidyverse/ggplot2" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">An implementation of the Grammar of Graphics in R</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vegandevs/vegan#1744588800</id>
+    <title>https://github.com/vegandevs/vegan</title>
+    <link href="https://github.com/vegandevs/vegan" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">R package for community ecologists: popular ordination methods, ecological null models &amp; diversity analysis</content>
+  </entry>
+</feed>

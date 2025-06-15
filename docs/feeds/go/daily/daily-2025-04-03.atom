@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/NVIDIA/gpu-operator#1743638400</id>
+    <title>https://github.com/NVIDIA/gpu-operator</title>
+    <link href="https://github.com/NVIDIA/gpu-operator" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">NVIDIA GPU Operator creates, configures, and manages GPUs in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SpecterOps/BloodHound#1743638400</id>
+    <title>https://github.com/SpecterOps/BloodHound</title>
+    <link href="https://github.com/SpecterOps/BloodHound" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Six Degrees of Domain Admin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/higress#1743638400</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-rollouts#1743638400</id>
+    <title>https://github.com/argoproj/argo-rollouts</title>
+    <link href="https://github.com/argoproj/argo-rollouts" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Progressive Delivery for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1743638400</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cert-manager/cert-manager#1743638400</id>
+    <title>https://github.com/cert-manager/cert-manager</title>
+    <link href="https://github.com/cert-manager/cert-manager" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Automatically provision and manage TLS certificates in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/gum#1743638400</id>
+    <title>https://github.com/charmbracelet/gum</title>
+    <link href="https://github.com/charmbracelet/gum" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A tool for glamorous shell scripts 🎀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1743638400</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1743638400</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1743638400</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1743638400</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k8sgpt-ai/k8sgpt#1743638400</id>
+    <title>https://github.com/k8sgpt-ai/k8sgpt</title>
+    <link href="https://github.com/k8sgpt-ai/k8sgpt" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Giving Kubernetes Superpowers to everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/autoscaler#1743638400</id>
+    <title>https://github.com/kubernetes/autoscaler</title>
+    <link href="https://github.com/kubernetes/autoscaler" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Autoscaling components for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/m1k1o/neko#1743638400</id>
+    <title>https://github.com/m1k1o/neko</title>
+    <link href="https://github.com/m1k1o/neko" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A self hosted virtual browser that runs in docker and uses WebRTC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1743638400</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1743638400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go-contrib#1743638400</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go-contrib" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Collection of extensions for OpenTelemetry-Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencontainers/image-spec#1743638400</id>
+    <title>https://github.com/opencontainers/image-spec</title>
+    <link href="https://github.com/opencontainers/image-spec" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">OCI Image Format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/node_exporter#1743638400</id>
+    <title>https://github.com/prometheus/node_exporter</title>
+    <link href="https://github.com/prometheus/node_exporter" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Exporter for machine metrics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/prometheus#1743638400</id>
+    <title>https://github.com/prometheus/prometheus</title>
+    <link href="https://github.com/prometheus/prometheus" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">The Prometheus monitoring system and time series database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1743638400</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/weaviate/weaviate#1743638400</id>
+    <title>https://github.com/weaviate/weaviate</title>
+    <link href="https://github.com/weaviate/weaviate" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wgpsec/ENScan_GO#1743638400</id>
+    <title>https://github.com/wgpsec/ENScan_GO</title>
+    <link href="https://github.com/wgpsec/ENScan_GO" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。支持MCP接入</content>
+  </entry>
+</feed>

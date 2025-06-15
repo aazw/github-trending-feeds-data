@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/weekly.atom</id>
+  <title>GitHub Trending - nix (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Frost-Phoenix/nixos-config#1738540800</id>
+    <title>https://github.com/Frost-Phoenix/nixos-config</title>
+    <link href="https://github.com/Frost-Phoenix/nixos-config" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">❄️ NixOs / Hyprland rice with Home-Manager ❄️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MarceColl/zen-browser-flake#1738540800</id>
+    <title>https://github.com/MarceColl/zen-browser-flake</title>
+    <link href="https://github.com/MarceColl/zen-browser-flake" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Nix Flake for the Zen Browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nix.dev#1738540800</id>
+    <title>https://github.com/NixOS/nix.dev</title>
+    <link href="https://github.com/NixOS/nix.dev" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Official documentation for getting things done with Nix.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixos-hardware#1738540800</id>
+    <title>https://github.com/NixOS/nixos-hardware</title>
+    <link href="https://github.com/NixOS/nixos-hardware" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A collection of NixOS modules covering hardware quirks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1738540800</id>
+    <title>https://github.com/NixOS/nixpkgs</title>
+    <link href="https://github.com/NixOS/nixpkgs" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Nix Packages collection &amp; NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SaumonNet/proxmox-nixos#1738540800</id>
+    <title>https://github.com/SaumonNet/proxmox-nixos</title>
+    <link href="https://github.com/SaumonNet/proxmox-nixos" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @JulienMalka]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astro/microvm.nix#1738540800</id>
+    <title>https://github.com/astro/microvm.nix</title>
+    <link href="https://github.com/astro/microvm.nix" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">NixOS MicroVMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cachix/devenv#1738540800</id>
+    <title>https://github.com/cachix/devenv</title>
+    <link href="https://github.com/cachix/devenv" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dustinlyons/nixos-config#1738540800</id>
+    <title>https://github.com/dustinlyons/nixos-config</title>
+    <link href="https://github.com/dustinlyons/nixos-config" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">General purpose Nix configuration for macOS / NixOS with starter templates + step-by-step guides ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/disko#1738540800</id>
+    <title>https://github.com/nix-community/disko</title>
+    <link href="https://github.com/nix-community/disko" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/home-manager#1738540800</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nix-on-droid#1738540800</id>
+    <title>https://github.com/nix-community/nix-on-droid</title>
+    <link href="https://github.com/nix-community/nix-on-droid" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Nix-enabled environment for your Android device. [maintainers=@t184256,@Gerschtli]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/nixvim#1738540800</id>
+    <title>https://github.com/nix-community/nixvim</title>
+    <link href="https://github.com/nix-community/nixvim" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @MattSturgeon, @khaneliman]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nixos-bsd/nixbsd#1738540800</id>
+    <title>https://github.com/nixos-bsd/nixbsd</title>
+    <link href="https://github.com/nixos-bsd/nixbsd" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">An unofficial NixOS fork with a FreeBSD kernel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/the-nix-way/dev-templates#1738540800</id>
+    <title>https://github.com/the-nix-way/dev-templates</title>
+    <link href="https://github.com/the-nix-way/dev-templates" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Dev environments for numerous languages based on Nix flakes [maintainer=@lucperkins]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpwrules/nixos-apple-silicon#1738540800</id>
+    <title>https://github.com/tpwrules/nixos-apple-silicon</title>
+    <link href="https://github.com/tpwrules/nixos-apple-silicon" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Resources to install NixOS bare metal on Apple Silicon Macs</content>
+  </entry>
+</feed>

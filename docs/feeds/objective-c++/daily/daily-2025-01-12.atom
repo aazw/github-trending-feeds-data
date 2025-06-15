@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/objective-c++/daily.atom</id>
+  <title>GitHub Trending - objective-c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-12T11:20:37+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/gree/unity-webview#1736680837</id>
+    <title>https://github.com/gree/unity-webview</title>
+    <link href="https://github.com/gree/unity-webview" />
+    <updated>2025-01-12T11:20:37+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/pocketsvg/PocketSVG#1736680837</id>
+    <title>https://github.com/pocketsvg/PocketSVG</title>
+    <link href="https://github.com/pocketsvg/PocketSVG" />
+    <updated>2025-01-12T11:20:37+00:00</updated>
+    <content type="text">Easily convert your SVG files into CGPaths, CAShapeLayers, and UIBezierPaths</content>
+  </entry>
+</feed>

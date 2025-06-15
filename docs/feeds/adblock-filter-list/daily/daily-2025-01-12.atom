@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/daily.atom</id>
+  <title>GitHub Trending - adblock-filter-list (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-12T11:06:10+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/jerryn70/GoodbyeAds#1736679970</id>
+    <title>https://github.com/jerryn70/GoodbyeAds</title>
+    <link href="https://github.com/jerryn70/GoodbyeAds" />
+    <updated>2025-01-12T11:06:10+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdguardFilters#1736679970</id>
+    <title>https://github.com/AdguardTeam/AdguardFilters</title>
+    <link href="https://github.com/AdguardTeam/AdguardFilters" />
+    <updated>2025-01-12T11:06:10+00:00</updated>
+    <content type="text">AdGuard Content Blocking Filters</content>
+  </entry>
+</feed>

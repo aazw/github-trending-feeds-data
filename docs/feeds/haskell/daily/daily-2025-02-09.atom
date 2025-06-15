@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GaloisInc/llvm-pretty#1739059200</id>
+    <title>https://github.com/GaloisInc/llvm-pretty</title>
+    <link href="https://github.com/GaloisInc/llvm-pretty" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">An llvm pretty printer inspired by the haskell llvm binding</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HigherOrderCO/Kind#1739059200</id>
+    <title>https://github.com/HigherOrderCO/Kind</title>
+    <link href="https://github.com/HigherOrderCO/Kind" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">A modern proof language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-ledger#1739059200</id>
+    <title>https://github.com/IntersectMBO/cardano-ledger</title>
+    <link href="https://github.com/IntersectMBO/cardano-ledger" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The ledger implementation and specifications of the Cardano blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/ouroboros-consensus#1739059200</id>
+    <title>https://github.com/IntersectMBO/ouroboros-consensus</title>
+    <link href="https://github.com/IntersectMBO/ouroboros-consensus" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Implementation of a Consensus Layer for the Ouroboros family of protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/plutus#1739059200</id>
+    <title>https://github.com/IntersectMBO/plutus</title>
+    <link href="https://github.com/IntersectMBO/plutus" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The Plutus language implementation and tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixfmt#1739059200</id>
+    <title>https://github.com/NixOS/nixfmt</title>
+    <link href="https://github.com/NixOS/nixfmt" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The official (but not yet stable) formatter for Nix code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1739059200</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/b3nj5m1n/xdg-ninja#1739059200</id>
+    <title>https://github.com/b3nj5m1n/xdg-ninja</title>
+    <link href="https://github.com/b3nj5m1n/xdg-ninja" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">A shell script which checks your $HOME for unwanted files and directories.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/commercialhaskell/stack#1739059200</id>
+    <title>https://github.com/commercialhaskell/stack</title>
+    <link href="https://github.com/commercialhaskell/stack" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The Haskell Tool Stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/composewell/streamly#1739059200</id>
+    <title>https://github.com/composewell/streamly</title>
+    <link href="https://github.com/composewell/streamly" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">High performance, concurrent functional programming abstractions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crytic/echidna#1739059200</id>
+    <title>https://github.com/crytic/echidna</title>
+    <link href="https://github.com/crytic/echidna" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Ethereum smart contract fuzzer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/cabal#1739059200</id>
+    <title>https://github.com/haskell/cabal</title>
+    <link href="https://github.com/haskell/cabal" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Official upstream development repository for Cabal and cabal-install</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1739059200</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1739059200</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1739059200</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1739059200</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mtolly/onyx#1739059200</id>
+    <title>https://github.com/mtolly/onyx</title>
+    <link href="https://github.com/mtolly/onyx" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games</content>
+  </entry>
+  <entry>
+    <id>https://github.com/runtimeverification/haskell-backend#1739059200</id>
+    <title>https://github.com/runtimeverification/haskell-backend</title>
+    <link href="https://github.com/runtimeverification/haskell-backend" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The symbolic execution engine powering the K Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucsd-progsys/liquid-fixpoint#1739059200</id>
+    <title>https://github.com/ucsd-progsys/liquid-fixpoint</title>
+    <link href="https://github.com/ucsd-progsys/liquid-fixpoint" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Horn Clause Constraint Solving for Liquid Types</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmonad/xmonad#1739059200</id>
+    <title>https://github.com/xmonad/xmonad</title>
+    <link href="https://github.com/xmonad/xmonad" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The core of xmonad, a small but functional ICCCM-compliant tiling window manager</content>
+  </entry>
+</feed>

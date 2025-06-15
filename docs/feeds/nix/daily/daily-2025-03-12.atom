@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</id>
+  <title>GitHub Trending - nix (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LnL7/nix-darwin#1741737600</id>
+    <title>https://github.com/LnL7/nix-darwin</title>
+    <link href="https://github.com/LnL7/nix-darwin" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">nix modules for darwin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nix.dev#1741737600</id>
+    <title>https://github.com/NixOS/nix.dev</title>
+    <link href="https://github.com/NixOS/nix.dev" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Official documentation for getting things done with Nix.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixpkgs#1741737600</id>
+    <title>https://github.com/NixOS/nixpkgs</title>
+    <link href="https://github.com/NixOS/nixpkgs" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Nix Packages collection &amp; NixOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cachix/devenv#1741737600</id>
+    <title>https://github.com/cachix/devenv</title>
+    <link href="https://github.com/cachix/devenv" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Fast, Declarative, Reproducible, and Composable Developer Environments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cardano-foundation/cardano-token-registry#1741737600</id>
+    <title>https://github.com/cardano-foundation/cardano-token-registry</title>
+    <link href="https://github.com/cardano-foundation/cardano-token-registry" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/disko#1741737600</id>
+    <title>https://github.com/nix-community/disko</title>
+    <link href="https://github.com/nix-community/disko" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Declarative disk partitioning and formatting using nix [maintainers=Lassulus Enzime iFreilicht Mic92 phaer]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/home-manager#1741737600</id>
+    <title>https://github.com/nix-community/home-manager</title>
+    <link href="https://github.com/nix-community/home-manager" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Manage a user environment using Nix [maintainer=@rycee]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nix-community/infra#1741737600</id>
+    <title>https://github.com/nix-community/infra</title>
+    <link href="https://github.com/nix-community/infra" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">nix-community infrastructure [maintainer=@zowoq]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxalica/rust-overlay#1741737600</id>
+    <title>https://github.com/oxalica/rust-overlay</title>
+    <link href="https://github.com/oxalica/rust-overlay" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Pure and reproducible nix overlay of binary distributed rust toolchains</content>
+  </entry>
+</feed>

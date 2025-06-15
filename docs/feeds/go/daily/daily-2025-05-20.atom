@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/akuity/kargo#1747699200</id>
+    <title>https://github.com/akuity/kargo</title>
+    <link href="https://github.com/akuity/kargo" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Application lifecycle orchestration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1747699200</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1747699200</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/optimism#1747699200</id>
+    <title>https://github.com/ethereum-optimism/optimism</title>
+    <link href="https://github.com/ethereum-optimism/optimism" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Optimism is Ethereum, scaled.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-resty/resty#1747699200</id>
+    <title>https://github.com/go-resty/resty</title>
+    <link href="https://github.com/go-resty/resty" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Simple HTTP, REST, and SSE client library for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1747699200</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helmfile/helmfile#1747699200</id>
+    <title>https://github.com/helmfile/helmfile</title>
+    <link href="https://github.com/helmfile/helmfile" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Declaratively deploy your Kubernetes manifests, Kustomize configs, and Charts as Helm releases. Generate all-in-one manifests for use with ArgoCD.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1747699200</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keploy/keploy#1747699200</id>
+    <title>https://github.com/keploy/keploy</title>
+    <link href="https://github.com/keploy/keploy" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1747699200</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1747699200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1747699200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-go#1747699200</id>
+    <title>https://github.com/openai/openai-go</title>
+    <link href="https://github.com/openai/openai-go" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">The official Go library for the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencontainers/runc#1747699200</id>
+    <title>https://github.com/opencontainers/runc</title>
+    <link href="https://github.com/opencontainers/runc" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">CLI tool for spawning and running containers according to the OCI specification</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentofu/opentofu#1747699200</id>
+    <title>https://github.com/opentofu/opentofu</title>
+    <link href="https://github.com/opentofu/opentofu" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">OpenTofu lets you declaratively manage your cloud infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plandex-ai/plandex#1747699200</id>
+    <title>https://github.com/plandex-ai/plandex</title>
+    <link href="https://github.com/plandex-ai/plandex" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Open source AI coding agent. Designed for large projects and real world tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectcalico/calico#1747699200</id>
+    <title>https://github.com/projectcalico/calico</title>
+    <link href="https://github.com/projectcalico/calico" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Cloud native networking and network security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/node_exporter#1747699200</id>
+    <title>https://github.com/prometheus/node_exporter</title>
+    <link href="https://github.com/prometheus/node_exporter" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Exporter for machine metrics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/robfig/cron#1747699200</id>
+    <title>https://github.com/robfig/cron</title>
+    <link href="https://github.com/robfig/cron" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">a cron library for go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swaggo/swag#1747699200</id>
+    <title>https://github.com/swaggo/swag</title>
+    <link href="https://github.com/swaggo/swag" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Automatically generate RESTful API documentation with Swagger 2.0 for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1747699200</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wavetermdev/waveterm#1747699200</id>
+    <title>https://github.com/wavetermdev/waveterm</title>
+    <link href="https://github.com/wavetermdev/waveterm" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">An open-source, cross-platform terminal for seamless workflows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zitadel/zitadel#1747699200</id>
+    <title>https://github.com/zitadel/zitadel</title>
+    <link href="https://github.com/zitadel/zitadel" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">ZITADEL - Identity infrastructure, simplified for you.</content>
+  </entry>
+</feed>

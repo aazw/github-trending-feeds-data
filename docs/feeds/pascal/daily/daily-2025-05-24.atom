@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pascal/daily.atom</id>
+  <title>GitHub Trending - pascal (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pascal/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FrankBijnen/ExifToolGui#1748044800</id>
+    <title>https://github.com/FrankBijnen/ExifToolGui</title>
+    <link href="https://github.com/FrankBijnen/ExifToolGui" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">A GUI for ExifTool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/UltraStar-Deluxe/USDX#1748044800</id>
+    <title>https://github.com/UltraStar-Deluxe/USDX</title>
+    <link href="https://github.com/UltraStar-Deluxe/USDX" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">The free and open source karaoke singing game UltraStar Deluxe, inspired by Sony SingStar™</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stascorp/rdpwrap#1748044800</id>
+    <title>https://github.com/stascorp/rdpwrap</title>
+    <link href="https://github.com/stascorp/rdpwrap" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">RDP Wrapper Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tarcode-apps/BatteryMode#1748044800</id>
+    <title>https://github.com/tarcode-apps/BatteryMode</title>
+    <link href="https://github.com/tarcode-apps/BatteryMode" />
+    <updated>2025-05-24T00:00:00</updated>
+    <content type="text">Windows Battery Indicator replacement</content>
+  </entry>
+</feed>

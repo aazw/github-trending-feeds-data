@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/HavocFramework/Havoc#1741132800</id>
+    <title>https://github.com/HavocFramework/Havoc</title>
+    <link href="https://github.com/HavocFramework/Havoc" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">The Havoc Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1741132800</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/podman#1741132800</id>
+    <title>https://github.com/containers/podman</title>
+    <link href="https://github.com/containers/podman" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Podman: A tool for managing OCI containers and pods.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dapr/dapr#1741132800</id>
+    <title>https://github.com/dapr/dapr</title>
+    <link href="https://github.com/dapr/dapr" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-kit/kit#1741132800</id>
+    <title>https://github.com/go-kit/kit</title>
+    <link href="https://github.com/go-kit/kit" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">A standard library for microservices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-jwt/jwt#1741132800</id>
+    <title>https://github.com/golang-jwt/jwt</title>
+    <link href="https://github.com/golang-jwt/jwt" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Go implementation of JSON Web Tokens (JWT).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/cadvisor#1741132800</id>
+    <title>https://github.com/google/cadvisor</title>
+    <link href="https://github.com/google/cadvisor" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Analyzes resource usage and performance characteristics of running containers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1741132800</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1741132800</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1741132800</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juanfont/headscale#1741132800</id>
+    <title>https://github.com/juanfont/headscale</title>
+    <link href="https://github.com/juanfont/headscale" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">An open source, self-hosted implementation of the Tailscale control server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k3s-io/k3s#1741132800</id>
+    <title>https://github.com/k3s-io/k3s</title>
+    <link href="https://github.com/k3s-io/k3s" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Lightweight Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labstack/echo#1741132800</id>
+    <title>https://github.com/labstack/echo</title>
+    <link href="https://github.com/labstack/echo" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">High performance, minimalist Go web framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-policy-agent/opa#1741132800</id>
+    <title>https://github.com/open-policy-agent/opa</title>
+    <link href="https://github.com/open-policy-agent/opa" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Open Policy Agent (OPA) is an open source, general-purpose policy engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1741132800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-go#1741132800</id>
+    <title>https://github.com/open-telemetry/opentelemetry-go</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-go" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">OpenTelemetry Go API and SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/client_golang#1741132800</id>
+    <title>https://github.com/prometheus/client_golang</title>
+    <link href="https://github.com/prometheus/client_golang" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Prometheus instrumentation library for Go applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/prometheus#1741132800</id>
+    <title>https://github.com/prometheus/prometheus</title>
+    <link href="https://github.com/prometheus/prometheus" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">The Prometheus monitoring system and time series database.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redis/go-redis#1741132800</id>
+    <title>https://github.com/redis/go-redis</title>
+    <link href="https://github.com/redis/go-redis" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Redis Go client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sirupsen/logrus#1741132800</id>
+    <title>https://github.com/sirupsen/logrus</title>
+    <link href="https://github.com/sirupsen/logrus" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">Structured, pluggable logging for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1741132800</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1741132800</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sysadminsmedia/homebox#1741132800</id>
+    <title>https://github.com/sysadminsmedia/homebox</title>
+    <link href="https://github.com/sysadminsmedia/homebox" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">A continuation of HomeBox the inventory and organization system built for the Home User</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1741132800</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2025-03-05T00:00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+</feed>

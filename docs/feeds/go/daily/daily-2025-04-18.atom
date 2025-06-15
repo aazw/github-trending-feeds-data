@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/1Panel-dev/1Panel#1744934400</id>
+    <title>https://github.com/1Panel-dev/1Panel</title>
+    <link href="https://github.com/1Panel-dev/1Panel" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-rollouts#1744934400</id>
+    <title>https://github.com/argoproj/argo-rollouts</title>
+    <link href="https://github.com/argoproj/argo-rollouts" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Progressive Delivery for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cert-manager/cert-manager#1744934400</id>
+    <title>https://github.com/cert-manager/cert-manager</title>
+    <link href="https://github.com/cert-manager/cert-manager" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Automatically provision and manage TLS certificates in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatedier/frp#1744934400</id>
+    <title>https://github.com/fatedier/frp</title>
+    <link href="https://github.com/fatedier/frp" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fyne-io/fyne#1744934400</id>
+    <title>https://github.com/fyne-io/fyne</title>
+    <link href="https://github.com/fyne-io/fyne" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Cross platform GUI toolkit in Go inspired by Material Design</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-acme/lego#1744934400</id>
+    <title>https://github.com/go-acme/lego</title>
+    <link href="https://github.com/go-acme/lego" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Let's Encrypt/ACME client and library written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-chi/chi#1744934400</id>
+    <title>https://github.com/go-chi/chi</title>
+    <link href="https://github.com/go-chi/chi" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">lightweight, idiomatic and composable router for building Go HTTP services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-gorm/gorm#1744934400</id>
+    <title>https://github.com/go-gorm/gorm</title>
+    <link href="https://github.com/go-gorm/gorm" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">The fantastic ORM library for Golang, aims to be developer friendly</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1744934400</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1744934400</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/minikube#1744934400</id>
+    <title>https://github.com/kubernetes/minikube</title>
+    <link href="https://github.com/kubernetes/minikube" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Run Kubernetes locally</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1744934400</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1744934400</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1744934400</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/navidrome/navidrome#1744934400</id>
+    <title>https://github.com/navidrome/navidrome</title>
+    <link href="https://github.com/navidrome/navidrome" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">🎧☁️ Your Personal Streaming Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1744934400</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1744934400</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/openai-go#1744934400</id>
+    <title>https://github.com/openai/openai-go</title>
+    <link href="https://github.com/openai/openai-go" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">The official Go library for the OpenAI API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentofu/opentofu#1744934400</id>
+    <title>https://github.com/opentofu/opentofu</title>
+    <link href="https://github.com/opentofu/opentofu" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">OpenTofu lets you declaratively manage your cloud infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plandex-ai/plandex#1744934400</id>
+    <title>https://github.com/plandex-ai/plandex</title>
+    <link href="https://github.com/plandex-ai/plandex" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Open source AI coding agent. Designed for large projects and real world tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shirou/gopsutil#1744934400</id>
+    <title>https://github.com/shirou/gopsutil</title>
+    <link href="https://github.com/shirou/gopsutil" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">psutil for golang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/temporalio/temporal#1744934400</id>
+    <title>https://github.com/temporalio/temporal</title>
+    <link href="https://github.com/temporalio/temporal" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Temporal service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1744934400</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-04-18T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+</feed>

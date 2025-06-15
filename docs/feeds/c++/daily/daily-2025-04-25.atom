@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AcademySoftwareFoundation/openvdb#1745539200</id>
+    <title>https://github.com/AcademySoftwareFoundation/openvdb</title>
+    <link href="https://github.com/AcademySoftwareFoundation/openvdb" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">OpenVDB - Sparse volume data structure and tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/BehaviorTree/BehaviorTree.CPP#1745539200</id>
+    <title>https://github.com/BehaviorTree/BehaviorTree.CPP</title>
+    <link href="https://github.com/BehaviorTree/BehaviorTree.CPP" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Behavior Trees Library in C++. Batteries included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ClickHouse/ClickHouse#1745539200</id>
+    <title>https://github.com/ClickHouse/ClickHouse</title>
+    <link href="https://github.com/ClickHouse/ClickHouse" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">ClickHouse® is a real-time analytics database management system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Project-OSRM/osrm-backend#1745539200</id>
+    <title>https://github.com/Project-OSRM/osrm-backend</title>
+    <link href="https://github.com/Project-OSRM/osrm-backend" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Open Source Routing Machine - C++ backend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/brpc#1745539200</id>
+    <title>https://github.com/apache/brpc</title>
+    <link href="https://github.com/apache/brpc" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".</content>
+  </entry>
+  <entry>
+    <id>https://github.com/colmap/colmap#1745539200</id>
+    <title>https://github.com/colmap/colmap</title>
+    <link href="https://github.com/colmap/colmap" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">COLMAP - Structure-from-Motion and Multi-View Stereo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duckdb/duckdb#1745539200</id>
+    <title>https://github.com/duckdb/duckdb</title>
+    <link href="https://github.com/duckdb/duckdb" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">DuckDB is an analytical in-process SQL database management system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/folly#1745539200</id>
+    <title>https://github.com/facebook/folly</title>
+    <link href="https://github.com/facebook/folly" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">An open-source C++ library developed and used at Facebook.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react-native#1745539200</id>
+    <title>https://github.com/facebook/react-native</title>
+    <link href="https://github.com/facebook/react-native" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">A framework for building native applications using React</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fmtlib/fmt#1745539200</id>
+    <title>https://github.com/fmtlib/fmt</title>
+    <link href="https://github.com/fmtlib/fmt" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">A modern formatting library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/googletest#1745539200</id>
+    <title>https://github.com/google/googletest</title>
+    <link href="https://github.com/google/googletest" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">GoogleTest - Google Testing and Mocking Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/perfetto#1745539200</id>
+    <title>https://github.com/google/perfetto</title>
+    <link href="https://github.com/google/perfetto" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Performance instrumentation and tracing for Android, Linux and Chrome</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k2-fsa/sherpa-onnx#1745539200</id>
+    <title>https://github.com/k2-fsa/sherpa-onnx</title>
+    <link href="https://github.com/k2-fsa/sherpa-onnx" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Speech-to-text, text-to-speech, speaker diarization, speech enhancement, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, x86_64 servers, websocket server/client, support 11 programming languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nlohmann/json#1745539200</id>
+    <title>https://github.com/nlohmann/json</title>
+    <link href="https://github.com/nlohmann/json" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">JSON for Modern C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pixie-io/pixie#1745539200</id>
+    <title>https://github.com/pixie-io/pixie</title>
+    <link href="https://github.com/pixie-io/pixie" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Instant Kubernetes-Native Application Observability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/project-chip/connectedhomeip#1745539200</id>
+    <title>https://github.com/project-chip/connectedhomeip</title>
+    <link href="https://github.com/project-chip/connectedhomeip" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standards Alliance.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pybind/pybind11#1745539200</id>
+    <title>https://github.com/pybind/pybind11</title>
+    <link href="https://github.com/pybind/pybind11" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Seamless operability between C++11 and Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorflow/tensorflow#1745539200</id>
+    <title>https://github.com/tensorflow/tensorflow</title>
+    <link href="https://github.com/tensorflow/tensorflow" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">An Open Source Machine Learning Framework for Everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tranek/GASDocumentation#1745539200</id>
+    <title>https://github.com/tranek/GASDocumentation</title>
+    <link href="https://github.com/tranek/GASDocumentation" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">My understanding of Unreal Engine 5's GameplayAbilitySystem plugin with a simple multiplayer sample project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unicode-org/icu#1745539200</id>
+    <title>https://github.com/unicode-org/icu</title>
+    <link href="https://github.com/unicode-org/icu" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">The home of the ICU project source code.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unitreerobotics/unitree_mujoco#1745539200</id>
+    <title>https://github.com/unitreerobotics/unitree_mujoco</title>
+    <link href="https://github.com/unitreerobotics/unitree_mujoco" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/valhalla/valhalla#1745539200</id>
+    <title>https://github.com/valhalla/valhalla</title>
+    <link href="https://github.com/valhalla/valhalla" />
+    <updated>2025-04-25T00:00:00</updated>
+    <content type="text">Open Source Routing Engine for OpenStreetMap</content>
+  </entry>
+</feed>

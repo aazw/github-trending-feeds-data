@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/datadog-agent#1747785600</id>
+    <title>https://github.com/DataDog/datadog-agent</title>
+    <link href="https://github.com/DataDog/datadog-agent" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Main repository for Datadog Agent</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TencentCloud/tencentcloud-sdk-go#1747785600</id>
+    <title>https://github.com/TencentCloud/tencentcloud-sdk-go</title>
+    <link href="https://github.com/TencentCloud/tencentcloud-sdk-go" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Tencent Cloud API 3.0 SDK for Golang</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThreeDotsLabs/watermill#1747785600</id>
+    <title>https://github.com/ThreeDotsLabs/watermill</title>
+    <link href="https://github.com/ThreeDotsLabs/watermill" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Building event-driven applications the easy way in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1747785600</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/skopeo#1747785600</id>
+    <title>https://github.com/containers/skopeo</title>
+    <link href="https://github.com/containers/skopeo" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Work with remote images registries - retrieving information, images, signing content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1747785600</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-aws#1747785600</id>
+    <title>https://github.com/hashicorp/terraform-provider-aws</title>
+    <link href="https://github.com/hashicorp/terraform-provider-aws" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">The AWS Provider enables Terraform to manage AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keploy/keploy#1747785600</id>
+    <title>https://github.com/keploy/keploy</title>
+    <link href="https://github.com/keploy/keploy" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kustomize#1747785600</id>
+    <title>https://github.com/kubernetes-sigs/kustomize</title>
+    <link href="https://github.com/kubernetes-sigs/kustomize" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Customization of kubernetes YAML configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/autoscaler#1747785600</id>
+    <title>https://github.com/kubernetes/autoscaler</title>
+    <link href="https://github.com/kubernetes/autoscaler" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Autoscaling components for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1747785600</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcphost#1747785600</id>
+    <title>https://github.com/mark3labs/mcphost</title>
+    <link href="https://github.com/mark3labs/mcphost" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/typescript-go#1747785600</id>
+    <title>https://github.com/microsoft/typescript-go</title>
+    <link href="https://github.com/microsoft/typescript-go" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Staging repo for development of native port of TypeScript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelcontextprotocol/registry#1747785600</id>
+    <title>https://github.com/modelcontextprotocol/registry</title>
+    <link href="https://github.com/modelcontextprotocol/registry" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">A community driven registry service for Model Context Protocol (MCP) servers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1747785600</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1747785600</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1747785600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectcalico/calico#1747785600</id>
+    <title>https://github.com/projectcalico/calico</title>
+    <link href="https://github.com/projectcalico/calico" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Cloud native networking and network security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/alertmanager#1747785600</id>
+    <title>https://github.com/prometheus/alertmanager</title>
+    <link href="https://github.com/prometheus/alertmanager" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Prometheus Alertmanager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rancher/rancher#1747785600</id>
+    <title>https://github.com/rancher/rancher</title>
+    <link href="https://github.com/rancher/rancher" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Complete container management platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1747785600</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+</feed>

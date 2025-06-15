@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Rdatatable/data.table#1740268800</id>
+    <title>https://github.com/Rdatatable/data.table</title>
+    <link href="https://github.com/Rdatatable/data.table" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">R's data.table package extends data.frame:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadley/r4ds#1740268800</id>
+    <title>https://github.com/hadley/r4ds</title>
+    <link href="https://github.com/hadley/r4ds" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">R for data science: a book</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prisma-flowdiagram/PRISMA2020#1740268800</id>
+    <title>https://github.com/prisma-flowdiagram/PRISMA2020</title>
+    <link href="https://github.com/prisma-flowdiagram/PRISMA2020" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Produce PRISMA-2020 compliant flow diagrams</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rdpeng/ProgrammingAssignment2#1740268800</id>
+    <title>https://github.com/rdpeng/ProgrammingAssignment2</title>
+    <link href="https://github.com/rdpeng/ProgrammingAssignment2" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Repository for Programming Assignment 2 for R Programming on Coursera</content>
+  </entry>
+</feed>

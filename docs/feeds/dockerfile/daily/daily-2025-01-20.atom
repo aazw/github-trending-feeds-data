@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/linuxserver/docker-webtop#1737331200</id>
+    <title>https://github.com/linuxserver/docker-webtop</title>
+    <link href="https://github.com/linuxserver/docker-webtop" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Ubuntu, Alpine, Arch, and Fedora based Webtop images, Linux in a web browser supporting popular desktop environments.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-wireguard#1737331200</id>
+    <title>https://github.com/linuxserver/docker-wireguard</title>
+    <link href="https://github.com/linuxserver/docker-wireguard" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1737331200</id>
+    <title>https://github.com/OWASP/wstg</title>
+    <link href="https://github.com/OWASP/wstg" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1737331200</id>
+    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
+    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxsecurity/megalinter#1737331200</id>
+    <title>https://github.com/oxsecurity/megalinter</title>
+    <link href="https://github.com/oxsecurity/megalinter" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-swag#1737331200</id>
+    <title>https://github.com/linuxserver/docker-swag</title>
+    <link href="https://github.com/linuxserver/docker-swag" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Nginx webserver and reverse proxy with php support and a built-in Certbot (Let's Encrypt) client. It also contains fail2ban for intrusion prevention.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nodejs/docker-node#1737331200</id>
+    <title>https://github.com/nodejs/docker-node</title>
+    <link href="https://github.com/nodejs/docker-node" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Official Docker Image for Node.js 🐳 🐢 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1737331200</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sytone/obsidian-remote#1737331200</id>
+    <title>https://github.com/sytone/obsidian-remote</title>
+    <link href="https://github.com/sytone/obsidian-remote" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Run Obsidian.md in a browser via a docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShell/PowerShell-Docker#1737331200</id>
+    <title>https://github.com/PowerShell/PowerShell-Docker</title>
+    <link href="https://github.com/PowerShell/PowerShell-Docker" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Repository for building PowerShell Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/P3TERX/Aria2-Pro-Docker#1737331200</id>
+    <title>https://github.com/P3TERX/Aria2-Pro-Docker</title>
+    <link href="https://github.com/P3TERX/Aria2-Pro-Docker" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Aria2 Pro | A perfect Aria2 Docker image | 更好用的 Aria2 Docker 容器镜像</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cross-rs/cross-toolchains#1737331200</id>
+    <title>https://github.com/cross-rs/cross-toolchains</title>
+    <link href="https://github.com/cross-rs/cross-toolchains" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Additional Dockerfiles and crosstool-ng config files to build additional toolchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/dotnet-framework-docker#1737331200</id>
+    <title>https://github.com/microsoft/dotnet-framework-docker</title>
+    <link href="https://github.com/microsoft/dotnet-framework-docker" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The repo for the official docker images for .NET Framework on Windows Server Core.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethibox/awesome-stacks#1737331200</id>
+    <title>https://github.com/ethibox/awesome-stacks</title>
+    <link href="https://github.com/ethibox/awesome-stacks" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Deploy 120+ open-source web apps with one Docker command</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jup-ag/jupiter-swap-api#1737331200</id>
+    <title>https://github.com/jup-ag/jupiter-swap-api</title>
+    <link href="https://github.com/jup-ag/jupiter-swap-api" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The jupiter swap api binary</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bufbuild/plugins#1737331200</id>
+    <title>https://github.com/bufbuild/plugins</title>
+    <link href="https://github.com/bufbuild/plugins" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Remote Protobuf plugins available on the BSR</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-docker#1737331200</id>
+    <title>https://github.com/dotnet/dotnet-docker</title>
+    <link href="https://github.com/dotnet/dotnet-docker" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Docker images for .NET and the .NET Tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv-docker-example#1737331200</id>
+    <title>https://github.com/astral-sh/uv-docker-example</title>
+    <link href="https://github.com/astral-sh/uv-docker-example" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">An example of using uv in Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mu_devops#1737331200</id>
+    <title>https://github.com/microsoft/mu_devops</title>
+    <link href="https://github.com/microsoft/mu_devops" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Project Mu Developer Operations</content>
+  </entry>
+</feed>

@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1747267200</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/VictoriaMetrics#1747267200</id>
+    <title>https://github.com/VictoriaMetrics/VictoriaMetrics</title>
+    <link href="https://github.com/VictoriaMetrics/VictoriaMetrics" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">VictoriaMetrics: fast, cost-effective monitoring solution and time series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft#1747267200</id>
+    <title>https://github.com/anchore/syft</title>
+    <link href="https://github.com/anchore/syft" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1747267200</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1747267200</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsops/sops#1747267200</id>
+    <title>https://github.com/getsops/sops</title>
+    <link href="https://github.com/getsops/sops" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Simple and flexible tool for managing secrets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1747267200</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1747267200</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-jwt/jwt#1747267200</id>
+    <title>https://github.com/golang-jwt/jwt</title>
+    <link href="https://github.com/golang-jwt/jwt" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Go implementation of JSON Web Tokens (JWT).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1747267200</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/golang-lru#1747267200</id>
+    <title>https://github.com/hashicorp/golang-lru</title>
+    <link href="https://github.com/hashicorp/golang-lru" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Golang LRU cache</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-provider-azurerm#1747267200</id>
+    <title>https://github.com/hashicorp/terraform-provider-azurerm</title>
+    <link href="https://github.com/hashicorp/terraform-provider-azurerm" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Terraform provider for Azure Resource Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1747267200</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1747267200</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jeessy2/ddns-go#1747267200</id>
+    <title>https://github.com/jeessy2/ddns-go</title>
+    <link href="https://github.com/jeessy2/ddns-go" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Simple and easy to use DDNS. Support Aliyun, Tencent Cloud, Dnspod, Cloudflare, Callback, Huawei Cloud, Baidu Cloud, Porkbun, GoDaddy, Namecheap, NameSilo...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1747267200</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Configure external DNS servers dynamically from Kubernetes resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/metrics-server#1747267200</id>
+    <title>https://github.com/kubernetes-sigs/metrics-server</title>
+    <link href="https://github.com/kubernetes-sigs/metrics-server" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kyverno/kyverno#1747267200</id>
+    <title>https://github.com/kyverno/kyverno</title>
+    <link href="https://github.com/kyverno/kyverno" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Cloud Native Policy Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lejianwen/rustdesk-api#1747267200</id>
+    <title>https://github.com/lejianwen/rustdesk-api</title>
+    <link href="https://github.com/lejianwen/rustdesk-api" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ltaoo/wx_channels_download#1747267200</id>
+    <title>https://github.com/ltaoo/wx_channels_download</title>
+    <link href="https://github.com/ltaoo/wx_channels_download" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">微信视频号下载器</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1747267200</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oauth2-proxy/oauth2-proxy#1747267200</id>
+    <title>https://github.com/oauth2-proxy/oauth2-proxy</title>
+    <link href="https://github.com/oauth2-proxy/oauth2-proxy" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">A reverse proxy that provides authentication with Google, Azure, OpenID Connect and many more identity providers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pdfcpu/pdfcpu#1747267200</id>
+    <title>https://github.com/pdfcpu/pdfcpu</title>
+    <link href="https://github.com/pdfcpu/pdfcpu" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">A PDF processor written in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plandex-ai/plandex#1747267200</id>
+    <title>https://github.com/plandex-ai/plandex</title>
+    <link href="https://github.com/plandex-ai/plandex" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Open source AI coding agent. Designed for large projects and real world tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thanos-io/thanos#1747267200</id>
+    <title>https://github.com/thanos-io/thanos</title>
+    <link href="https://github.com/thanos-io/thanos" />
+    <updated>2025-05-15T00:00:00</updated>
+    <content type="text">Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.</content>
+  </entry>
+</feed>

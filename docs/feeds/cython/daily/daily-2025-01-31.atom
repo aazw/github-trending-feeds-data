@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cython/daily.atom</id>
+  <title>GitHub Trending - cython (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cython/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-31T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MagicStack/uvloop#1738281600</id>
+    <title>https://github.com/MagicStack/uvloop</title>
+    <link href="https://github.com/MagicStack/uvloop" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Ultra fast asyncio event loop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TA-Lib/ta-lib-python#1738281600</id>
+    <title>https://github.com/TA-Lib/ta-lib-python</title>
+    <link href="https://github.com/TA-Lib/ta-lib-python" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">Python wrapper for TA-Lib (http://ta-lib.org/).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Unidata/netcdf4-python#1738281600</id>
+    <title>https://github.com/Unidata/netcdf4-python</title>
+    <link href="https://github.com/Unidata/netcdf4-python" />
+    <updated>2025-01-31T00:00:00</updated>
+    <content type="text">netcdf4-python: python/numpy interface to the netCDF C library</content>
+  </entry>
+</feed>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GhostWriters/DockSTARTer#1741564800</id>
+    <title>https://github.com/GhostWriters/DockSTARTer</title>
+    <link href="https://github.com/GhostWriters/DockSTARTer" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">DockSTARTer helps you get started with running apps in Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JamesTurland/JimsGarage#1741564800</id>
+    <title>https://github.com/JamesTurland/JimsGarage</title>
+    <link href="https://github.com/JamesTurland/JimsGarage" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Homelab Goodies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LondheShubham153/kubestarter#1741564800</id>
+    <title>https://github.com/LondheShubham153/kubestarter</title>
+    <link href="https://github.com/LondheShubham153/kubestarter" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">This is a Repository to get you started with Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VSCodium/vscodium#1741564800</id>
+    <title>https://github.com/VSCodium/vscodium</title>
+    <link href="https://github.com/VSCodium/vscodium" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">binary releases of VS Code without MS branding/telemetry/licensing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YanG-1989/m3u#1741564800</id>
+    <title>https://github.com/YanG-1989/m3u</title>
+    <link href="https://github.com/YanG-1989/m3u" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">直播源</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awesome-jellyfin/awesome-jellyfin#1741564800</id>
+    <title>https://github.com/awesome-jellyfin/awesome-jellyfin</title>
+    <link href="https://github.com/awesome-jellyfin/awesome-jellyfin" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A collection of awesome Jellyfin Plugins, Themes. Guides and Companion Software (Not affiliated with Jellyfin)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dockur/windows#1741564800</id>
+    <title>https://github.com/dockur/windows</title>
+    <link href="https://github.com/dockur/windows" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Windows inside a Docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frankiejun/serv00-play#1741564800</id>
+    <title>https://github.com/frankiejun/serv00-play</title>
+    <link href="https://github.com/frankiejun/serv00-play" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">serv00 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针 等, 自动化部署、批量保号、进程防杀、消息推送</content>
+  </entry>
+  <entry>
+    <id>https://github.com/home-assistant/addons#1741564800</id>
+    <title>https://github.com/home-assistant/addons</title>
+    <link href="https://github.com/home-assistant/addons" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">➕ Docker add-ons for Home Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n8n-io/n8n-hosting#1741564800</id>
+    <title>https://github.com/n8n-io/n8n-hosting</title>
+    <link href="https://github.com/n8n-io/n8n-hosting" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Example of self-hosting n8n in various environments like docker, kubernetes, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1741564800</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ophub/amlogic-s9xxx-openwrt#1741564800</id>
+    <title>https://github.com/ophub/amlogic-s9xxx-openwrt</title>
+    <link href="https://github.com/ophub/amlogic-s9xxx-openwrt" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Support for OpenWrt in Amlogic, Rockchip and Allwinner boxes. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pi-hole/docker-pi-hole#1741564800</id>
+    <title>https://github.com/pi-hole/docker-pi-hole</title>
+    <link href="https://github.com/pi-hole/docker-pi-hole" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Pi-hole in a docker container</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pi-hole/pi-hole#1741564800</id>
+    <title>https://github.com/pi-hole/pi-hole</title>
+    <link href="https://github.com/pi-hole/pi-hole" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A black hole for Internet advertisements</content>
+  </entry>
+  <entry>
+    <id>https://github.com/termux/termux-packages#1741564800</id>
+    <title>https://github.com/termux/termux-packages</title>
+    <link href="https://github.com/termux/termux-packages" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A package build system for Termux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/void-linux/void-packages#1741564800</id>
+    <title>https://github.com/void-linux/void-packages</title>
+    <link href="https://github.com/void-linux/void-packages" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The Void source packages collection</content>
+  </entry>
+</feed>

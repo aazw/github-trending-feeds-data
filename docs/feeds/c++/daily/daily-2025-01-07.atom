@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</id>
+  <title>GitHub Trending - c++ (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-07T11:08:31+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ceph/ceph#1736248111</id>
+    <title>https://github.com/ceph/ceph</title>
+    <link href="https://github.com/ceph/ceph" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Ceph is a distributed object, block, and file storage platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/cutlass#1736248111</id>
+    <title>https://github.com/NVIDIA/cutlass</title>
+    <link href="https://github.com/NVIDIA/cutlass" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">CUDA Templates for Linear Algebra Subroutines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mrousavy/react-native-mmkv#1736248111</id>
+    <title>https://github.com/mrousavy/react-native-mmkv</title>
+    <link href="https://github.com/mrousavy/react-native-mmkv" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">⚡️ The fastest key/value storage for React Native. ~30x faster than AsyncStorage!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/protocolbuffers/protobuf#1736248111</id>
+    <title>https://github.com/protocolbuffers/protobuf</title>
+    <link href="https://github.com/protocolbuffers/protobuf" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Protocol Buffers - Google's data interchange format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/react-native#1736248111</id>
+    <title>https://github.com/facebook/react-native</title>
+    <link href="https://github.com/facebook/react-native" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">A framework for building native applications using React</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/STL#1736248111</id>
+    <title>https://github.com/microsoft/STL</title>
+    <link href="https://github.com/microsoft/STL" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">MSVC's implementation of the C++ Standard Library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wazuh/wazuh#1736248111</id>
+    <title>https://github.com/wazuh/wazuh</title>
+    <link href="https://github.com/wazuh/wazuh" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LibreCAD/LibreCAD#1736248111</id>
+    <title>https://github.com/LibreCAD/LibreCAD</title>
+    <link href="https://github.com/LibreCAD/LibreCAD" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">LibreCAD is a cross-platform 2D CAD program written in C++17. It can read DXF/DWG files and can write DXF/PDF/SVG files. It supports point/line/circle/ellipse/parabola/spline primitives. The user interface is highly customizable, and has dozens of translations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lich0821/WeChatFerry#1736248111</id>
+    <title>https://github.com/lich0821/WeChatFerry</title>
+    <link href="https://github.com/lich0821/WeChatFerry" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">微信机器人底层框架，可接入Gemini、ChatGPT、ChatGLM、讯飞星火、Tigerbot等大模型。WeChat Robot Hook.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/MNN#1736248111</id>
+    <title>https://github.com/alibaba/MNN</title>
+    <link href="https://github.com/alibaba/MNN" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba</content>
+  </entry>
+  <entry>
+    <id>https://github.com/deskflow/deskflow#1736248111</id>
+    <title>https://github.com/deskflow/deskflow</title>
+    <link href="https://github.com/deskflow/deskflow" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/brpc#1736248111</id>
+    <title>https://github.com/apache/brpc</title>
+    <link href="https://github.com/apache/brpc" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">brpc is an Industrial-grade RPC framework using C++ Language, which is often used in high performance system such as Search, Storage, Machine learning, Advertisement, Recommendation etc. "brpc" means "better RPC".</content>
+  </entry>
+  <entry>
+    <id>https://github.com/envoyproxy/envoy#1736248111</id>
+    <title>https://github.com/envoyproxy/envoy</title>
+    <link href="https://github.com/envoyproxy/envoy" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Cloud-native high-performance edge/middle/service proxy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openxla/xla#1736248111</id>
+    <title>https://github.com/openxla/xla</title>
+    <link href="https://github.com/openxla/xla" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">A machine learning compiler for GPUs, CPUs, and ML accelerators</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PX4/PX4-Autopilot#1736248111</id>
+    <title>https://github.com/PX4/PX4-Autopilot</title>
+    <link href="https://github.com/PX4/PX4-Autopilot" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">PX4 Autopilot Software</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gabime/spdlog#1736248111</id>
+    <title>https://github.com/gabime/spdlog</title>
+    <link href="https://github.com/gabime/spdlog" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Fast C++ logging library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/faiss#1736248111</id>
+    <title>https://github.com/facebookresearch/faiss</title>
+    <link href="https://github.com/facebookresearch/faiss" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">A library for efficient similarity search and clustering of dense vectors.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/thrift#1736248111</id>
+    <title>https://github.com/apache/thrift</title>
+    <link href="https://github.com/apache/thrift" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Apache Thrift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LadybirdBrowser/ladybird#1736248111</id>
+    <title>https://github.com/LadybirdBrowser/ladybird</title>
+    <link href="https://github.com/LadybirdBrowser/ladybird" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Truly independent web browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitcoin/bitcoin#1736248111</id>
+    <title>https://github.com/bitcoin/bitcoin</title>
+    <link href="https://github.com/bitcoin/bitcoin" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Bitcoin Core integration/staging tree</content>
+  </entry>
+  <entry>
+    <id>https://github.com/srsran/srsRAN_Project#1736248111</id>
+    <title>https://github.com/srsran/srsRAN_Project</title>
+    <link href="https://github.com/srsran/srsRAN_Project" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Open source O-RAN 5G CU/DU solution from Software Radio Systems (SRS) https://docs.srsran.com/projects/project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/folly#1736248111</id>
+    <title>https://github.com/facebook/folly</title>
+    <link href="https://github.com/facebook/folly" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">An open-source C++ library developed and used at Facebook.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catchorg/Catch2#1736248111</id>
+    <title>https://github.com/catchorg/Catch2</title>
+    <link href="https://github.com/catchorg/Catch2" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firebase/firebase-ios-sdk#1736248111</id>
+    <title>https://github.com/firebase/firebase-ios-sdk</title>
+    <link href="https://github.com/firebase/firebase-ios-sdk" />
+    <updated>2025-01-07T11:08:31+00:00</updated>
+    <content type="text">Firebase SDK for Apple App Development</content>
+  </entry>
+</feed>

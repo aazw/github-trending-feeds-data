@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ArroyoSystems/arroyo#1744416000</id>
+    <title>https://github.com/ArroyoSystems/arroyo</title>
+    <link href="https://github.com/ArroyoSystems/arroyo" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Distributed stream processing engine in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rust-GPU/Rust-CUDA#1744416000</id>
+    <title>https://github.com/Rust-GPU/Rust-CUDA</title>
+    <link href="https://github.com/Rust-GPU/Rust-CUDA" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1744416000</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-q-developer-cli#1744416000</id>
+    <title>https://github.com/aws/amazon-q-developer-cli</title>
+    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">✨ Add autocomplete and AI to your existing terminal on macOS &amp; Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1744416000</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/pingora#1744416000</id>
+    <title>https://github.com/cloudflare/pingora</title>
+    <link href="https://github.com/cloudflare/pingora" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">A library for building fast, reliable and evolvable network services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1744416000</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-convex/convex-backend#1744416000</id>
+    <title>https://github.com/get-convex/convex-backend</title>
+    <link href="https://github.com/get-convex/convex-backend" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">The open-source reactive database for app developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gfx-rs/wgpu#1744416000</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1744416000</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iced-rs/iced#1744416000</id>
+    <title>https://github.com/iced-rs/iced</title>
+    <link href="https://github.com/iced-rs/iced" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">A cross-platform GUI library for Rust, inspired by Elm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1744416000</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/katanemo/archgw#1744416000</id>
+    <title>https://github.com/katanemo/archgw</title>
+    <link href="https://github.com/katanemo/archgw" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specifc tools, clarifying user inputs, unifying access and observability to any LLM - so you can build smarter and ship faster.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lancedb#1744416000</id>
+    <title>https://github.com/lancedb/lancedb</title>
+    <link href="https://github.com/lancedb/lancedb" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1744416000</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/servo/servo#1744416000</id>
+    <title>https://github.com/servo/servo</title>
+    <link href="https://github.com/servo/servo" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/solana-labs/solana-program-library#1744416000</id>
+    <title>https://github.com/solana-labs/solana-program-library</title>
+    <link href="https://github.com/solana-labs/solana-program-library" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">A collection of Solana programs maintained by Solana Labs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/plugins-workspace#1744416000</id>
+    <title>https://github.com/tauri-apps/plugins-workspace</title>
+    <link href="https://github.com/tauri-apps/plugins-workspace" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">All of the official Tauri plugins in one place!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tensorzero/tensorzero#1744416000</id>
+    <title>https://github.com/tensorzero/tensorzero</title>
+    <link href="https://github.com/tensorzero/tensorzero" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1744416000</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-04-12T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+</feed>

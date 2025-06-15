@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom</id>
+  <title>GitHub Trending - nim (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/nim/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cheatfate/nimcrypto#1741564800</id>
+    <title>https://github.com/cheatfate/nimcrypto</title>
+    <link href="https://github.com/cheatfate/nimcrypto" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Nim cryptographic library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nim-lang/nimble#1741564800</id>
+    <title>https://github.com/nim-lang/nimble</title>
+    <link href="https://github.com/nim-lang/nimble" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Package manager for the Nim programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-chronos#1741564800</id>
+    <title>https://github.com/status-im/nim-chronos</title>
+    <link href="https://github.com/status-im/nim-chronos" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Chronos - An efficient library for asynchronous programming</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-serialization#1741564800</id>
+    <title>https://github.com/status-im/nim-serialization</title>
+    <link href="https://github.com/status-im/nim-serialization" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A modern and extensible serialization framework for Nim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-stew#1741564800</id>
+    <title>https://github.com/status-im/nim-stew</title>
+    <link href="https://github.com/status-im/nim-stew" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">stew is collection of utilities, std library extensions and budding libraries that are frequently used at Status, but are too small to deserve their own git repository.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nim-stint#1741564800</id>
+    <title>https://github.com/status-im/nim-stint</title>
+    <link href="https://github.com/status-im/nim-stint" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Stack-based arbitrary-precision integers - Fast and portable with natural syntax for resource-restricted devices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/status-im/nimbus-eth2#1741564800</id>
+    <title>https://github.com/status-im/nimbus-eth2</title>
+    <link href="https://github.com/status-im/nimbus-eth2" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Nim implementation of the Ethereum Beacon Chain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zedeus/nitter#1741564800</id>
+    <title>https://github.com/zedeus/nitter</title>
+    <link href="https://github.com/zedeus/nitter" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Alternative Twitter front-end</content>
+  </entry>
+</feed>

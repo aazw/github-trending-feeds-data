@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/dd-trace-go#1741824000</id>
+    <title>https://github.com/DataDog/dd-trace-go</title>
+    <link href="https://github.com/DataDog/dd-trace-go" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Datadog Go Library including APM tracing, profiling, and security monitoring.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1741824000</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/VictoriaMetrics#1741824000</id>
+    <title>https://github.com/VictoriaMetrics/VictoriaMetrics</title>
+    <link href="https://github.com/VictoriaMetrics/VictoriaMetrics" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">VictoriaMetrics: fast, cost-effective monitoring solution and time series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1741824000</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dstotijn/hetty#1741824000</id>
+    <title>https://github.com/dstotijn/hetty</title>
+    <link href="https://github.com/dstotijn/hetty" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">An HTTP toolkit for security research.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gin-gonic/gin#1741824000</id>
+    <title>https://github.com/gin-gonic/gin</title>
+    <link href="https://github.com/gin-gonic/gin" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1741824000</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/glanceapp/glance#1741824000</id>
+    <title>https://github.com/glanceapp/glance</title>
+    <link href="https://github.com/glanceapp/glance" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">A self-hosted dashboard that puts all your feeds in one place</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goharbor/harbor#1741824000</id>
+    <title>https://github.com/goharbor/harbor</title>
+    <link href="https://github.com/goharbor/harbor" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">An open source trusted cloud native registry project that stores, signs, and scans content.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1741824000</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/pprof#1741824000</id>
+    <title>https://github.com/google/pprof</title>
+    <link href="https://github.com/google/pprof" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">pprof is a tool for visualization and analysis of profiling data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goravel/goravel#1741824000</id>
+    <title>https://github.com/goravel/goravel</title>
+    <link href="https://github.com/goravel/goravel" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">A Golang framework for web artisans. Tribute to Laravel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grafana/pyroscope#1741824000</id>
+    <title>https://github.com/grafana/pyroscope</title>
+    <link href="https://github.com/grafana/pyroscope" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Continuous Profiling Platform. Debug performance issues down to a single line of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1741824000</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1741824000</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/helm/helm#1741824000</id>
+    <title>https://github.com/helm/helm</title>
+    <link href="https://github.com/helm/helm" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">The Kubernetes Package Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/heroiclabs/nakama#1741824000</id>
+    <title>https://github.com/heroiclabs/nakama</title>
+    <link href="https://github.com/heroiclabs/nakama" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Distributed server for social and realtime games and apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/istio/istio#1741824000</id>
+    <title>https://github.com/istio/istio</title>
+    <link href="https://github.com/istio/istio" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Connect, secure, control, and observe services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-plugin-daemon#1741824000</id>
+    <title>https://github.com/langgenius/dify-plugin-daemon</title>
+    <link href="https://github.com/langgenius/dify-plugin-daemon" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-sandbox#1741824000</id>
+    <title>https://github.com/langgenius/dify-sandbox</title>
+    <link href="https://github.com/langgenius/dify-sandbox" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">A lightweight, fast, and secure code execution environment that supports multiple programming languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1741824000</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ray-project/kuberay#1741824000</id>
+    <title>https://github.com/ray-project/kuberay</title>
+    <link href="https://github.com/ray-project/kuberay" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">A toolkit to run Ray applications on Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vmware-tanzu/velero#1741824000</id>
+    <title>https://github.com/vmware-tanzu/velero</title>
+    <link href="https://github.com/vmware-tanzu/velero" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Backup and migrate Kubernetes applications and their persistent volumes</content>
+  </entry>
+</feed>

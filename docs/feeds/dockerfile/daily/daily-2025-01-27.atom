@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndreRH/hangover#1737936000</id>
+    <title>https://github.com/AndreRH/hangover</title>
+    <link href="https://github.com/AndreRH/hangover" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Hangover runs simple Win64 and Win32 applications on arm64 Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-functions-docker#1737936000</id>
+    <title>https://github.com/Azure/azure-functions-docker</title>
+    <link href="https://github.com/Azure/azure-functions-docker" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">This repo contains the base Docker images for working with azure functions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OWASP/wstg#1737936000</id>
+    <title>https://github.com/OWASP/wstg</title>
+    <link href="https://github.com/OWASP/wstg" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShell/PowerShell-Docker#1737936000</id>
+    <title>https://github.com/PowerShell/PowerShell-Docker</title>
+    <link href="https://github.com/PowerShell/PowerShell-Docker" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Repository for building PowerShell Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv-docker-example#1737936000</id>
+    <title>https://github.com/astral-sh/uv-docker-example</title>
+    <link href="https://github.com/astral-sh/uv-docker-example" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">An example of using uv in Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/autowarefoundation/autoware#1737936000</id>
+    <title>https://github.com/autowarefoundation/autoware</title>
+    <link href="https://github.com/autowarefoundation/autoware" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Autoware - the world's leading open-source software project for autonomous driving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/sagemaker-distribution#1737936000</id>
+    <title>https://github.com/aws/sagemaker-distribution</title>
+    <link href="https://github.com/aws/sagemaker-distribution" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">A set of Docker images that include popular frameworks for machine learning, data science and visualization.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/exaco/laravel-octane-dockerfile#1737936000</id>
+    <title>https://github.com/exaco/laravel-octane-dockerfile</title>
+    <link href="https://github.com/exaco/laravel-octane-dockerfile" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Production-ready Docker setup for Laravel Octane (FrankenPHP, Swoole, RoadRunner) powered web services and microservices. Done right.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iv-org/documentation#1737936000</id>
+    <title>https://github.com/iv-org/documentation</title>
+    <link href="https://github.com/iv-org/documentation" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">The official Invidious documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1737936000</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linuxserver/docker-wireguard#1737936000</id>
+    <title>https://github.com/linuxserver/docker-wireguard</title>
+    <link href="https://github.com/linuxserver/docker-wireguard" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/mattcurf/ollama-intel-gpu#1737936000</id>
+    <title>https://github.com/mattcurf/ollama-intel-gpu</title>
+    <link href="https://github.com/mattcurf/ollama-intel-gpu" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/mikeroyal/Self-Hosting-Guide#1737936000</id>
+    <title>https://github.com/mikeroyal/Self-Hosting-Guide</title>
+    <link href="https://github.com/mikeroyal/Self-Hosting-Guide" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxsecurity/megalinter#1737936000</id>
+    <title>https://github.com/oxsecurity/megalinter</title>
+    <link href="https://github.com/oxsecurity/megalinter" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text">🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yankils/Simple-DevOps-Project#1737936000</id>
+    <title>https://github.com/yankils/Simple-DevOps-Project</title>
+    <link href="https://github.com/yankils/Simple-DevOps-Project" />
+    <updated>2025-01-27T00:00:00</updated>
+    <content type="text" />
+  </entry>
+</feed>

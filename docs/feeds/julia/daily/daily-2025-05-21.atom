@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CliMA/ClimaOcean.jl#1747785600</id>
+    <title>https://github.com/CliMA/ClimaOcean.jl</title>
+    <link href="https://github.com/CliMA/ClimaOcean.jl" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">🌎 Regional-to-global coupled ocean and sea ice simulations based on Oceananigans.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EnzymeAD/Reactant.jl#1747785600</id>
+    <title>https://github.com/EnzymeAD/Reactant.jl</title>
+    <link href="https://github.com/EnzymeAD/Reactant.jl" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Optimize Julia Functions With MLIR and XLA for High-Performance Execution on CPU, GPU, TPU and more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaCI/PkgTemplates.jl#1747785600</id>
+    <title>https://github.com/JuliaCI/PkgTemplates.jl</title>
+    <link href="https://github.com/JuliaCI/PkgTemplates.jl" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">Create new Julia packages, the easy way</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1747785600</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1747785600</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/ModelingToolkit.jl#1747785600</id>
+    <title>https://github.com/SciML/ModelingToolkit.jl</title>
+    <link href="https://github.com/SciML/ModelingToolkit.jl" />
+    <updated>2025-05-21T00:00:00</updated>
+    <content type="text">An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations</content>
+  </entry>
+</feed>

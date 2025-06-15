@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c%23/daily.atom</id>
+  <title>GitHub Trending - c%23 (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c%23/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/2dust/v2rayN#1743638400</id>
+    <title>https://github.com/2dust/v2rayN</title>
+    <link href="https://github.com/2dust/v2rayN" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A GUI client for Windows, Linux and macOS, support Xray and sing-box and others</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-sdk-for-net#1743638400</id>
+    <title>https://github.com/Azure/azure-sdk-for-net</title>
+    <link href="https://github.com/Azure/azure-sdk-for-net" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DapperLib/Dapper#1743638400</id>
+    <title>https://github.com/DapperLib/Dapper</title>
+    <link href="https://github.com/DapperLib/Dapper" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Dapper - a simple object mapper for .Net</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JamesNK/Newtonsoft.Json#1743638400</id>
+    <title>https://github.com/JamesNK/Newtonsoft.Json</title>
+    <link href="https://github.com/JamesNK/Newtonsoft.Json" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Json.NET is a popular high-performance JSON framework for .NET</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PowerShell/PowerShell#1743638400</id>
+    <title>https://github.com/PowerShell/PowerShell</title>
+    <link href="https://github.com/PowerShell/PowerShell" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">PowerShell for every system!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/abpframework/abp#1743638400</id>
+    <title>https://github.com/abpframework/abp</title>
+    <link href="https://github.com/abpframework/abp" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Open-source web application framework for ASP.NET Core! Offers an opinionated architecture to build enterprise software solutions with best practices on top of the .NET. Provides the fundamental infrastructure, cross-cutting-concern implementations, startup templates, application modules, UI themes, tooling and documentation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielgerlag/workflow-core#1743638400</id>
+    <title>https://github.com/danielgerlag/workflow-core</title>
+    <link href="https://github.com/danielgerlag/workflow-core" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Lightweight workflow engine for .NET Standard</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dockersamples/example-voting-app#1743638400</id>
+    <title>https://github.com/dockersamples/example-voting-app</title>
+    <link href="https://github.com/dockersamples/example-voting-app" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Example distributed app composed of multiple containers for Docker, Compose, Swarm, and Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/AspNetCore.Docs#1743638400</id>
+    <title>https://github.com/dotnet/AspNetCore.Docs</title>
+    <link href="https://github.com/dotnet/AspNetCore.Docs" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Documentation for ASP.NET Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/aspire#1743638400</id>
+    <title>https://github.com/dotnet/aspire</title>
+    <link href="https://github.com/dotnet/aspire" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Tools, templates, and packages to accelerate building observable, production-ready apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/aspnetcore#1743638400</id>
+    <title>https://github.com/dotnet/aspnetcore</title>
+    <link href="https://github.com/dotnet/aspnetcore" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/efcore#1743638400</id>
+    <title>https://github.com/dotnet/efcore</title>
+    <link href="https://github.com/dotnet/efcore" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/maui#1743638400</id>
+    <title>https://github.com/dotnet/maui</title>
+    <link href="https://github.com/dotnet/maui" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">.NET MAUI is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/roslyn#1743638400</id>
+    <title>https://github.com/dotnet/roslyn</title>
+    <link href="https://github.com/dotnet/roslyn" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/runtime#1743638400</id>
+    <title>https://github.com/dotnet/runtime</title>
+    <link href="https://github.com/dotnet/runtime" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitextensions/gitextensions#1743638400</id>
+    <title>https://github.com/gitextensions/gitextensions</title>
+    <link href="https://github.com/gitextensions/gitextensions" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Git Extensions is a standalone UI tool for managing git repositories. It also integrates with Windows Explorer and Microsoft Visual Studio (2015/2017/2019).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huiyadanli/RevokeMsgPatcher#1743638400</id>
+    <title>https://github.com/huiyadanli/RevokeMsgPatcher</title>
+    <link href="https://github.com/huiyadanli/RevokeMsgPatcher" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jbogard/MediatR#1743638400</id>
+    <title>https://github.com/jbogard/MediatR</title>
+    <link href="https://github.com/jbogard/MediatR" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Simple, unambitious mediator implementation in .NET</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgrzybek/modular-monolith-with-ddd#1743638400</id>
+    <title>https://github.com/kgrzybek/modular-monolith-with-ddd</title>
+    <link href="https://github.com/kgrzybek/modular-monolith-with-ddd" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Full Modular Monolith application with Domain-Driven Design approach.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/PowerToys#1743638400</id>
+    <title>https://github.com/microsoft/PowerToys</title>
+    <link href="https://github.com/microsoft/PowerToys" />
+    <updated>2025-04-03T00:00:00</updated>
+    <content type="text">Windows system utilities to maximize productivity</content>
+  </entry>
+</feed>

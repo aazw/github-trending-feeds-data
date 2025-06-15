@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AbdBarho/stable-diffusion-webui-docker#1749340800</id>
+    <title>https://github.com/AbdBarho/stable-diffusion-webui-docker</title>
+    <link href="https://github.com/AbdBarho/stable-diffusion-webui-docker" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Easy Docker setup for Stable Diffusion with user-friendly UI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JaKooLit/Arch-Hyprland#1749340800</id>
+    <title>https://github.com/JaKooLit/Arch-Hyprland</title>
+    <link href="https://github.com/JaKooLit/Arch-Hyprland" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">For automated installation of Hyprland on Arch Linux or any Arch Linux-based distros</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen3#1749340800</id>
+    <title>https://github.com/QwenLM/Qwen3</title>
+    <link href="https://github.com/QwenLM/Qwen3" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RROrg/rr#1749340800</id>
+    <title>https://github.com/RROrg/rr</title>
+    <link href="https://github.com/RROrg/rr" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Redpill Recovery (arpl-i18n)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VSCodium/vscodium#1749340800</id>
+    <title>https://github.com/VSCodium/vscodium</title>
+    <link href="https://github.com/VSCodium/vscodium" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">binary releases of VS Code without MS branding/telemetry/licensing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/claude-code#1749340800</id>
+    <title>https://github.com/anthropics/claude-code</title>
+    <link href="https://github.com/anthropics/claude-code" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/catppuccin/tmux#1749340800</id>
+    <title>https://github.com/catppuccin/tmux</title>
+    <link href="https://github.com/catppuccin/tmux" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">💽 Soothing pastel theme for Tmux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itdoginfo/podkop#1749340800</id>
+    <title>https://github.com/itdoginfo/podkop</title>
+    <link href="https://github.com/itdoginfo/podkop" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Dev podkop</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itzg/docker-minecraft-server#1749340800</id>
+    <title>https://github.com/itzg/docker-minecraft-server</title>
+    <link href="https://github.com/itzg/docker-minecraft-server" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/j-hc/revanced-magisk-module#1749340800</id>
+    <title>https://github.com/j-hc/revanced-magisk-module</title>
+    <link href="https://github.com/j-hc/revanced-magisk-module" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Extensive ReVanced builder. Builds both modules and APKs. Updated daily.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1749340800</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pi-hole/docker-pi-hole#1749340800</id>
+    <title>https://github.com/pi-hole/docker-pi-hole</title>
+    <link href="https://github.com/pi-hole/docker-pi-hole" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">Pi-hole in a docker container</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pi-hole/pi-hole#1749340800</id>
+    <title>https://github.com/pi-hole/pi-hole</title>
+    <link href="https://github.com/pi-hole/pi-hole" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">A black hole for Internet advertisements</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuaotian/go-cursor-help#1749340800</id>
+    <title>https://github.com/yuaotian/go-cursor-help</title>
+    <link href="https://github.com/yuaotian/go-cursor-help" />
+    <updated>2025-06-08T00:00:00</updated>
+    <content type="text">解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.</content>
+  </entry>
+</feed>

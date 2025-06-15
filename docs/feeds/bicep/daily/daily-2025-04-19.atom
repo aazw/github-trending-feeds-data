@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bicep/daily.atom</id>
+  <title>GitHub Trending - bicep (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bicep/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure-Samples/azure-cache-redis-samples#1745020800</id>
+    <title>https://github.com/Azure-Samples/azure-cache-redis-samples</title>
+    <link href="https://github.com/Azure-Samples/azure-cache-redis-samples" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">This repository contains samples that demonstrate best practices and general recommendations to communicate with Azure Redis Cache Service caches from various Redis client frameworks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/get-started-with-ai-agents#1745020800</id>
+    <title>https://github.com/Azure-Samples/get-started-with-ai-agents</title>
+    <link href="https://github.com/Azure-Samples/get-started-with-ai-agents" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Basic sample for deploying AI agents web app with Azure AI Foundry and SDKs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/get-started-with-ai-chat#1745020800</id>
+    <title>https://github.com/Azure-Samples/get-started-with-ai-chat</title>
+    <link href="https://github.com/Azure-Samples/get-started-with-ai-chat" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Basic sample for deploying chat web apps with Azure AI Foundry and SDKs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app#1745020800</id>
+    <title>https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app</title>
+    <link href="https://github.com/Azure-Samples/msdocs-nodejs-mongodb-azure-sample-app" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">A sample Express.js app using a MongoDB database to show how to host Node.js app in Azure App service using Azure Cosmos DB</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-quickstart-templates#1745020800</id>
+    <title>https://github.com/Azure/azure-quickstart-templates</title>
+    <link href="https://github.com/Azure/azure-quickstart-templates" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Azure Quickstart Templates</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/bicep#1745020800</id>
+    <title>https://github.com/Azure/bicep</title>
+    <link href="https://github.com/Azure/bicep" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Bicep is a declarative language for describing and deploying Azure resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/bicep-registry-modules#1745020800</id>
+    <title>https://github.com/Azure/bicep-registry-modules</title>
+    <link href="https://github.com/Azure/bicep-registry-modules" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Bicep registry modules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop#1745020800</id>
+    <title>https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop</title>
+    <link href="https://github.com/microsoft/build-your-first-agent-with-azure-ai-agent-service-workshop" />
+    <updated>2025-04-19T00:00:00</updated>
+    <content type="text">Build your first agent with Azure AI Agent Service Workshop</content>
+  </entry>
+</feed>

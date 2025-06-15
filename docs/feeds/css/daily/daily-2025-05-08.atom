@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/css/daily.atom</id>
+  <title>GitHub Trending - css (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/css/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aws-samples/amplify-next-template#1746662400</id>
+    <title>https://github.com/aws-samples/amplify-next-template</title>
+    <link href="https://github.com/aws-samples/amplify-next-template" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">This is a Next.js starter for building a fullstack app with AWS Amplify.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/devicons/devicon#1746662400</id>
+    <title>https://github.com/devicons/devicon</title>
+    <link href="https://github.com/devicons/devicon" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">Set of icons representing programming languages, designing &amp; development tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elipapa/markdown-cv#1746662400</id>
+    <title>https://github.com/elipapa/markdown-cv</title>
+    <link href="https://github.com/elipapa/markdown-cv" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">a simple template to write your CV in a readable markdown file and use CSS to publish/print it.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/isocpp/CppCoreGuidelines#1746662400</id>
+    <title>https://github.com/isocpp/CppCoreGuidelines</title>
+    <link href="https://github.com/isocpp/CppCoreGuidelines" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdan/98.css#1746662400</id>
+    <title>https://github.com/jdan/98.css</title>
+    <link href="https://github.com/jdan/98.css" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">A design system for building faithful recreations of old UIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/primefaces/primereact#1746662400</id>
+    <title>https://github.com/primefaces/primereact</title>
+    <link href="https://github.com/primefaces/primereact" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">The Most Complete React UI Component Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/nomicon#1746662400</id>
+    <title>https://github.com/rust-lang/nomicon</title>
+    <link href="https://github.com/rust-lang/nomicon" />
+    <updated>2025-05-08T00:00:00</updated>
+    <content type="text">The Dark Arts of Advanced and Unsafe Rust Programming</content>
+  </entry>
+</feed>

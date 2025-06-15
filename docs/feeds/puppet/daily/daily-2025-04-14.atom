@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/puppet/daily.atom</id>
+  <title>GitHub Trending - puppet (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/puppet/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/voxpupuli/puppet-prometheus#1744588800</id>
+    <title>https://github.com/voxpupuli/puppet-prometheus</title>
+    <link href="https://github.com/voxpupuli/puppet-prometheus" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Puppet module for prometheus</content>
+  </entry>
+</feed>

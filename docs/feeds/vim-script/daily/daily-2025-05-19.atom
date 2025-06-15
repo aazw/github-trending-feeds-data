@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/VundleVim/Vundle.vim#1747612800</id>
+    <title>https://github.com/VundleVim/Vundle.vim</title>
+    <link href="https://github.com/VundleVim/Vundle.vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Vundle, the plug-in manager for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alvan/vim-closetag#1747612800</id>
+    <title>https://github.com/alvan/vim-closetag</title>
+    <link href="https://github.com/alvan/vim-closetag" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Auto close (X)HTML tags</content>
+  </entry>
+  <entry>
+    <id>https://github.com/andymass/vim-matchup#1747612800</id>
+    <title>https://github.com/andymass/vim-matchup</title>
+    <link href="https://github.com/andymass/vim-matchup" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1747612800</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derekhe/msfs2020-map-enhancement#1747612800</id>
+    <title>https://github.com/derekhe/msfs2020-map-enhancement</title>
+    <link href="https://github.com/derekhe/msfs2020-map-enhancement" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">MSFS2020 Map Enhancement</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1747612800</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/goyo.vim#1747612800</id>
+    <title>https://github.com/junegunn/goyo.vim</title>
+    <link href="https://github.com/junegunn/goyo.vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">🌷 Distraction-free writing in Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1747612800</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ludovicchabant/vim-gutentags#1747612800</id>
+    <title>https://github.com/ludovicchabant/vim-gutentags</title>
+    <link href="https://github.com/ludovicchabant/vim-gutentags" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">A Vim plugin that manages your tag files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1747612800</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1747612800</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1747612800</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1747612800</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stephpy/vim-yaml#1747612800</id>
+    <title>https://github.com/stephpy/vim-yaml</title>
+    <link href="https://github.com/stephpy/vim-yaml" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Override vim syntax for yaml files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tomtom/tcomment_vim#1747612800</id>
+    <title>https://github.com/tomtom/tcomment_vim</title>
+    <link href="https://github.com/tomtom/tcomment_vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">An extensible &amp; universal comment vim-plugin that also handles embedded filetypes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1747612800</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-sensible#1747612800</id>
+    <title>https://github.com/tpope/vim-sensible</title>
+    <link href="https://github.com/tpope/vim-sensible" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">sensible.vim: Defaults everyone can agree on</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-speeddating#1747612800</id>
+    <title>https://github.com/tpope/vim-speeddating</title>
+    <link href="https://github.com/tpope/vim-speeddating" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-surround#1747612800</id>
+    <title>https://github.com/tpope/vim-surround</title>
+    <link href="https://github.com/tpope/vim-surround" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">surround.vim: Delete/change/add parentheses/quotes/XML-tags/much more with ease</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1747612800</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vimwiki/vimwiki#1747612800</id>
+    <title>https://github.com/vimwiki/vimwiki</title>
+    <link href="https://github.com/vimwiki/vimwiki" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Personal Wiki for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wakatime/vim-wakatime#1747612800</id>
+    <title>https://github.com/wakatime/vim-wakatime</title>
+    <link href="https://github.com/wakatime/vim-wakatime" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Vim plugin for automatic time tracking and metrics generated from your programming activity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wellle/targets.vim#1747612800</id>
+    <title>https://github.com/wellle/targets.vim</title>
+    <link href="https://github.com/wellle/targets.vim" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Vim plugin that provides additional text objects</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CompVis/taming-transformers#1746835200</id>
+    <title>https://github.com/CompVis/taming-transformers</title>
+    <link href="https://github.com/CompVis/taming-transformers" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Taming Transformers for High-Resolution Image Synthesis</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/generative-ai#1746835200</id>
+    <title>https://github.com/GoogleCloudPlatform/generative-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/generative-ai" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/GenerativeAIExamples#1746835200</id>
+    <title>https://github.com/NVIDIA/GenerativeAIExamples</title>
+    <link href="https://github.com/NVIDIA/GenerativeAIExamples" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NirDiamant/GenAI_Agents#1746835200</id>
+    <title>https://github.com/NirDiamant/GenAI_Agents</title>
+    <link href="https://github.com/NirDiamant/GenAI_Agents" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">This repository provides tutorials and implementations for various Generative AI Agent techniques, from basic to advanced. It serves as a comprehensive guide for building intelligent, interactive AI systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen2.5-VL#1746835200</id>
+    <title>https://github.com/QwenLM/Qwen2.5-VL</title>
+    <link href="https://github.com/QwenLM/Qwen2.5-VL" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Qwen2.5-VL is the multimodal large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WongKinYiu/yolov7#1746835200</id>
+    <title>https://github.com/WongKinYiu/yolov7</title>
+    <link href="https://github.com/WongKinYiu/yolov7" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-universe#1746835200</id>
+    <title>https://github.com/datawhalechina/llm-universe</title>
+    <link href="https://github.com/datawhalechina/llm-universe" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llms-from-scratch-cn#1746835200</id>
+    <title>https://github.com/datawhalechina/llms-from-scratch-cn</title>
+    <link href="https://github.com/datawhalechina/llms-from-scratch-cn" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">仅需Python基础，从0构建大语言模型；从0逐步构建GLM4\Llama3\RWKV6， 深入理解大模型原理</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/self-llm#1746835200</id>
+    <title>https://github.com/datawhalechina/self-llm</title>
+    <link href="https://github.com/datawhalechina/self-llm" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/segment-anything#1746835200</id>
+    <title>https://github.com/facebookresearch/segment-anything</title>
+    <link href="https://github.com/facebookresearch/segment-anything" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-deepmind/gemma#1746835200</id>
+    <title>https://github.com/google-deepmind/gemma</title>
+    <link href="https://github.com/google-deepmind/gemma" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Gemma open-weight LLM library, from Google DeepMind</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hustvl/4DGaussians#1746835200</id>
+    <title>https://github.com/hustvl/4DGaussians</title>
+    <link href="https://github.com/hustvl/4DGaussians" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">[CVPR 2024] 4D Gaussian Splatting for Real-Time Dynamic Scene Rendering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/community#1746835200</id>
+    <title>https://github.com/kubernetes/community</title>
+    <link href="https://github.com/kubernetes/community" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Kubernetes community content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mlabonne/llm-course#1746835200</id>
+    <title>https://github.com/mlabonne/llm-course</title>
+    <link href="https://github.com/mlabonne/llm-course" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/onnx/models#1746835200</id>
+    <title>https://github.com/onnx/models</title>
+    <link href="https://github.com/onnx/models" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">A collection of pre-trained, state-of-the-art models in the ONNX format</content>
+  </entry>
+  <entry>
+    <id>https://github.com/panaversity/learn-agentic-ai#1746835200</id>
+    <title>https://github.com/panaversity/learn-agentic-ai</title>
+    <link href="https://github.com/panaversity/learn-agentic-ai" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Learn Agentic AI using Dapr Agentic Cloud Ascent (DACA) Design Pattern and Agent-Native Cloud Technologies: OpenAI Agents SDK, Memory, MCP, A2A, Knowledge Graphs, Dapr, Rancher Desktop, and Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/aibrix#1746835200</id>
+    <title>https://github.com/vllm-project/aibrix</title>
+    <link href="https://github.com/vllm-project/aibrix" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">Cost-efficient and pluggable Infrastructure components for GenAI inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wilsonfreitas/awesome-quant#1746835200</id>
+    <title>https://github.com/wilsonfreitas/awesome-quant</title>
+    <link href="https://github.com/wilsonfreitas/awesome-quant" />
+    <updated>2025-05-10T00:00:00</updated>
+    <content type="text">A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)</content>
+  </entry>
+</feed>

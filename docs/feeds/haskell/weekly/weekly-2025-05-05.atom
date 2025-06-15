@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/weekly.atom</id>
+  <title>GitHub Trending - haskell (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node#1746403200</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NixOS/nixfmt#1746403200</id>
+    <title>https://github.com/NixOS/nixfmt</title>
+    <link href="https://github.com/NixOS/nixfmt" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">The official (but not yet stable) formatter for Nix code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1746403200</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghc/ghc#1746403200</id>
+    <title>https://github.com/ghc/ghc</title>
+    <link href="https://github.com/ghc/ghc" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1746403200</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell-suite/haskell-src-exts#1746403200</id>
+    <title>https://github.com/haskell-suite/haskell-src-exts</title>
+    <link href="https://github.com/haskell-suite/haskell-src-exts" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Manipulating Haskell source: abstract syntax, lexer, parser, and pretty-printer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1746403200</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1746403200</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1746403200</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simplex-chat/simplexmq#1746403200</id>
+    <title>https://github.com/simplex-chat/simplexmq</title>
+    <link href="https://github.com/simplex-chat/simplexmq" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidalcycles/Tidal#1746403200</id>
+    <title>https://github.com/tidalcycles/Tidal</title>
+    <link href="https://github.com/tidalcycles/Tidal" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">Pattern language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unisonweb/unison#1746403200</id>
+    <title>https://github.com/unisonweb/unison</title>
+    <link href="https://github.com/unisonweb/unison" />
+    <updated>2025-05-05T00:00:00</updated>
+    <content type="text">A friendly programming language from the future</content>
+  </entry>
+</feed>

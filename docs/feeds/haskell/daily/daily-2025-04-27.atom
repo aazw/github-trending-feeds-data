@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GaloisInc/parameterized-utils#1745712000</id>
+    <title>https://github.com/GaloisInc/parameterized-utils</title>
+    <link href="https://github.com/GaloisInc/parameterized-utils" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">A set of utilities for using indexed types including containers, equality, and comparison.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PostgREST/postgrest#1745712000</id>
+    <title>https://github.com/PostgREST/postgrest</title>
+    <link href="https://github.com/PostgREST/postgrest" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">REST API for any Postgres database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/b3nj5m1n/xdg-ninja#1745712000</id>
+    <title>https://github.com/b3nj5m1n/xdg-ninja</title>
+    <link href="https://github.com/b3nj5m1n/xdg-ninja" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">A shell script which checks your $HOME for unwanted files and directories.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cardano-scaling/hydra#1745712000</id>
+    <title>https://github.com/cardano-scaling/hydra</title>
+    <link href="https://github.com/cardano-scaling/hydra" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Implementation of the Hydra Head protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghc/ghc#1745712000</id>
+    <title>https://github.com/ghc/ghc</title>
+    <link href="https://github.com/ghc/ghc" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Mirror of the Glasgow Haskell Compiler. Please submit issues and patches to GHC's Gitlab instance (https://gitlab.haskell.org/ghc/ghc). First time contributors are encouraged to get started with the newcomers info (https://gitlab.haskell.org/ghc/ghc/wikis/contributing).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1745712000</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1745712000</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1745712000</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1745712000</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/runtimeverification/haskell-backend#1745712000</id>
+    <title>https://github.com/runtimeverification/haskell-backend</title>
+    <link href="https://github.com/runtimeverification/haskell-backend" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">The symbolic execution engine powering the K Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simonmichael/hledger#1745712000</id>
+    <title>https://github.com/simonmichael/hledger</title>
+    <link href="https://github.com/simonmichael/hledger" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidalcycles/Tidal#1745712000</id>
+    <title>https://github.com/tidalcycles/Tidal</title>
+    <link href="https://github.com/tidalcycles/Tidal" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">Pattern language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unisonweb/unison#1745712000</id>
+    <title>https://github.com/unisonweb/unison</title>
+    <link href="https://github.com/unisonweb/unison" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">A friendly programming language from the future</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wireapp/wire-server#1745712000</id>
+    <title>https://github.com/wireapp/wire-server</title>
+    <link href="https://github.com/wireapp/wire-server" />
+    <updated>2025-04-27T00:00:00</updated>
+    <content type="text">🇪🇺 Wire back-end services</content>
+  </entry>
+</feed>

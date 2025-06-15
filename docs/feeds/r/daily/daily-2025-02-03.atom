@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CDCgov/wastewater-informed-covid-forecasting#1738540800</id>
+    <title>https://github.com/CDCgov/wastewater-informed-covid-forecasting</title>
+    <link href="https://github.com/CDCgov/wastewater-informed-covid-forecasting" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Wastewater-informed COVID-19 forecasting models submitted to the COVID-19 Forecast Hub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rdatatable/data.table#1738540800</id>
+    <title>https://github.com/Rdatatable/data.table</title>
+    <link href="https://github.com/Rdatatable/data.table" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">R's data.table package extends data.frame:</content>
+  </entry>
+  <entry>
+    <id>https://github.com/briatte/awesome-network-analysis#1738540800</id>
+    <title>https://github.com/briatte/awesome-network-analysis</title>
+    <link href="https://github.com/briatte/awesome-network-analysis" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A curated list of awesome network analysis resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qinwf/awesome-R#1738540800</id>
+    <title>https://github.com/qinwf/awesome-R</title>
+    <link href="https://github.com/qinwf/awesome-R" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">A curated list of awesome R packages, frameworks and software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/r-lib/devtools#1738540800</id>
+    <title>https://github.com/r-lib/devtools</title>
+    <link href="https://github.com/r-lib/devtools" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Tools to make an R developer's life easier</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rdpeng/ProgrammingAssignment2#1738540800</id>
+    <title>https://github.com/rdpeng/ProgrammingAssignment2</title>
+    <link href="https://github.com/rdpeng/ProgrammingAssignment2" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Repository for Programming Assignment 2 for R Programming on Coursera</content>
+  </entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom</id>
+  <title>GitHub Trending - gdscript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-10T11:14:10+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/bitwes/Gut#1736507650</id>
+    <title>https://github.com/bitwes/Gut</title>
+    <link href="https://github.com/bitwes/Gut" />
+    <updated>2025-01-10T11:14:10+00:00</updated>
+    <content type="text">Godot Unit Test. Unit testing tool for Godot Game Engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HungryProton/scatter#1736507650</id>
+    <title>https://github.com/HungryProton/scatter</title>
+    <link href="https://github.com/HungryProton/scatter" />
+    <updated>2025-01-10T11:14:10+00:00</updated>
+    <content type="text">Godot engine addon to randomly fill an area with props or other scenes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TokisanGames/Sky3D#1736507650</id>
+    <title>https://github.com/TokisanGames/Sky3D</title>
+    <link href="https://github.com/TokisanGames/Sky3D" />
+    <updated>2025-01-10T11:14:10+00:00</updated>
+    <content type="text">Atmospheric Day/Night Cycle for Godot 4</content>
+  </entry>
+  <entry>
+    <id>https://github.com/godotengine/godot-demo-projects#1736507650</id>
+    <title>https://github.com/godotengine/godot-demo-projects</title>
+    <link href="https://github.com/godotengine/godot-demo-projects" />
+    <updated>2025-01-10T11:14:10+00:00</updated>
+    <content type="text">Demonstration and Template Projects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nathanhoad/godot_dialogue_manager#1736507650</id>
+    <title>https://github.com/nathanhoad/godot_dialogue_manager</title>
+    <link href="https://github.com/nathanhoad/godot_dialogue_manager" />
+    <updated>2025-01-10T11:14:10+00:00</updated>
+    <content type="text">A powerful nonlinear dialogue system for Godot</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ShadowBlip/OpenGamepadUI#1736507650</id>
+    <title>https://github.com/ShadowBlip/OpenGamepadUI</title>
+    <link href="https://github.com/ShadowBlip/OpenGamepadUI" />
+    <updated>2025-01-10T11:14:10+00:00</updated>
+    <content type="text">Open source gamepad-native game launcher and overlay</content>
+  </entry>
+</feed>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom</id>
+  <title>GitHub Trending - cmake (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/TheLartians/ModernCppStarter#1740960000</id>
+    <title>https://github.com/TheLartians/ModernCppStarter</title>
+    <link href="https://github.com/TheLartians/ModernCppStarter" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">🚀 Kick-start your C++! A template for modern C++ projects using CMake, CI, code coverage, clang-format, reproducible dependency management and much more.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheRobotStudio/SO-ARM100#1740960000</id>
+    <title>https://github.com/TheRobotStudio/SO-ARM100</title>
+    <link href="https://github.com/TheRobotStudio/SO-ARM100" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Standard Open Arm 100</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ament/ament_cmake#1740960000</id>
+    <title>https://github.com/ament/ament_cmake</title>
+    <link href="https://github.com/ament/ament_cmake" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Supporting CMake packages for working with ament</content>
+  </entry>
+  <entry>
+    <id>https://github.com/arsenm/sanitizers-cmake#1740960000</id>
+    <title>https://github.com/arsenm/sanitizers-cmake</title>
+    <link href="https://github.com/arsenm/sanitizers-cmake" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">CMake modules to help use sanitizers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1740960000</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cpm-cmake/CPM.cmake#1740960000</id>
+    <title>https://github.com/cpm-cmake/CPM.cmake</title>
+    <link href="https://github.com/cpm-cmake/CPM.cmake" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-core-test#1740960000</id>
+    <title>https://github.com/editorconfig/editorconfig-core-test</title>
+    <link href="https://github.com/editorconfig/editorconfig-core-test" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Testings for EditorConfig Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1740960000</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/kvproto#1740960000</id>
+    <title>https://github.com/pingcap/kvproto</title>
+    <link href="https://github.com/pingcap/kvproto" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Protocol buffer files for TiKV</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-planning/navigation_msgs#1740960000</id>
+    <title>https://github.com/ros-planning/navigation_msgs</title>
+    <link href="https://github.com/ros-planning/navigation_msgs" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">Message packages required by the navigation stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shinchiro/mpv-winbuild-cmake#1740960000</id>
+    <title>https://github.com/shinchiro/mpv-winbuild-cmake</title>
+    <link href="https://github.com/shinchiro/mpv-winbuild-cmake" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">CMake-based MinGW-w64 Cross Toolchain</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1740960000</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-03-03T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+</feed>

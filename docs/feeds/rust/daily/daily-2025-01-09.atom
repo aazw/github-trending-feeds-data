@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-09T11:27:07+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/rustwasm/wasm-bindgen#1736422027</id>
+    <title>https://github.com/rustwasm/wasm-bindgen</title>
+    <link href="https://github.com/rustwasm/wasm-bindgen" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Facilitating high-level interactions between Wasm modules and JavaScript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apollographql/router#1736422027</id>
+    <title>https://github.com/apollographql/router</title>
+    <link href="https://github.com/apollographql/router" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">A configurable, high-performance routing runtime for Apollo Federation 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aptos-labs/aptos-core#1736422027</id>
+    <title>https://github.com/aptos-labs/aptos-core</title>
+    <link href="https://github.com/aptos-labs/aptos-core" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1736422027</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/ruff#1736422027</id>
+    <title>https://github.com/astral-sh/ruff</title>
+    <link href="https://github.com/astral-sh/ruff" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">An extremely fast Python linter and code formatter, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1736422027</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1736422027</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dfinity/ic#1736422027</id>
+    <title>https://github.com/dfinity/ic</title>
+    <link href="https://github.com/dfinity/ic" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Internet Computer blockchain source: the client/replica software run by nodes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databendlabs/databend#1736422027</id>
+    <title>https://github.com/databendlabs/databend</title>
+    <link href="https://github.com/databendlabs/databend" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 &amp; 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/a2x/cs2-dumper#1736422027</id>
+    <title>https://github.com/a2x/cs2-dumper</title>
+    <link href="https://github.com/a2x/cs2-dumper" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Counter-Strike: 2 Offset Dumper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/near/nearcore#1736422027</id>
+    <title>https://github.com/near/nearcore</title>
+    <link href="https://github.com/near/nearcore" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Reference client for NEAR Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/windows-rs#1736422027</id>
+    <title>https://github.com/microsoft/windows-rs</title>
+    <link href="https://github.com/microsoft/windows-rs" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Rust for Windows</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/bat#1736422027</id>
+    <title>https://github.com/sharkdp/bat</title>
+    <link href="https://github.com/sharkdp/bat" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">A cat(1) clone with wings.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1736422027</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1736422027</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/wry#1736422027</id>
+    <title>https://github.com/tauri-apps/wry</title>
+    <link href="https://github.com/tauri-apps/wry" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Cross-platform WebView library in Rust for Tauri.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1736422027</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1736422027</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mullvad/mullvadvpn-app#1736422027</id>
+    <title>https://github.com/mullvad/mullvadvpn-app</title>
+    <link href="https://github.com/mullvad/mullvadvpn-app" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">The Mullvad VPN client app for desktop and mobile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Orange-OpenSource/hurl#1736422027</id>
+    <title>https://github.com/Orange-OpenSource/hurl</title>
+    <link href="https://github.com/Orange-OpenSource/hurl" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Hurl, run and test HTTP requests with plain text.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chroma-core/chroma#1736422027</id>
+    <title>https://github.com/chroma-core/chroma</title>
+    <link href="https://github.com/chroma-core/chroma" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">the AI-native open-source embedding database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display#1736422027</id>
+    <title>https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display</title>
+    <link href="https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Building a community around a cheap ESP32 Display with a touch screen</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1736422027</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/servo/servo#1736422027</id>
+    <title>https://github.com/servo/servo</title>
+    <link href="https://github.com/servo/servo" />
+    <updated>2025-01-09T11:27:07+00:00</updated>
+    <content type="text">Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine</content>
+  </entry>
+</feed>

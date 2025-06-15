@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1740096000</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft#1740096000</id>
+    <title>https://github.com/anchore/syft</title>
+    <link href="https://github.com/anchore/syft" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/karpenter-provider-aws#1740096000</id>
+    <title>https://github.com/aws/karpenter-provider-aws</title>
+    <link href="https://github.com/aws/karpenter-provider-aws" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1740096000</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chaitin/SafeLine#1740096000</id>
+    <title>https://github.com/chaitin/SafeLine</title>
+    <link href="https://github.com/chaitin/SafeLine" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1740096000</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derailed/k9s#1740096000</id>
+    <title>https://github.com/derailed/k9s</title>
+    <link href="https://github.com/derailed/k9s" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">🐶 Kubernetes CLI To Manage Your Clusters In Style!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluxcd/flux2#1740096000</id>
+    <title>https://github.com/fluxcd/flux2</title>
+    <link href="https://github.com/fluxcd/flux2" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1740096000</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1740096000</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1740096000</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1740096000</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k8sgpt-ai/k8sgpt#1740096000</id>
+    <title>https://github.com/k8sgpt-ai/k8sgpt</title>
+    <link href="https://github.com/k8sgpt-ai/k8sgpt" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Giving Kubernetes Superpowers to everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keploy/keploy#1740096000</id>
+    <title>https://github.com/keploy/keploy</title>
+    <link href="https://github.com/keploy/keploy" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Unit and Integration Test generation for Developers. Generate tests and stubs for your application that actually work!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1740096000</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/test-infra#1740096000</id>
+    <title>https://github.com/kubernetes/test-infra</title>
+    <link href="https://github.com/kubernetes/test-infra" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Test infrastructure for the Kubernetes project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nektos/act#1740096000</id>
+    <title>https://github.com/nektos/act</title>
+    <link href="https://github.com/nektos/act" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Run your GitHub Actions locally 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1740096000</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/photoprism/photoprism#1740096000</id>
+    <title>https://github.com/photoprism/photoprism</title>
+    <link href="https://github.com/photoprism/photoprism" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">AI-Powered Photos App for the Decentralized Web 🌈💎✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/alertmanager#1740096000</id>
+    <title>https://github.com/prometheus/alertmanager</title>
+    <link href="https://github.com/prometheus/alertmanager" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Prometheus Alertmanager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/node_exporter#1740096000</id>
+    <title>https://github.com/prometheus/node_exporter</title>
+    <link href="https://github.com/prometheus/node_exporter" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Exporter for machine metrics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1740096000</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/subtrace/subtrace#1740096000</id>
+    <title>https://github.com/subtrace/subtrace</title>
+    <link href="https://github.com/subtrace/subtrace" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Wireshark for Docker containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1740096000</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-02-21T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+</feed>

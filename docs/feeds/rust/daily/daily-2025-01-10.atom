@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-10T11:28:29+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/neondatabase/neon#1736508509</id>
+    <title>https://github.com/neondatabase/neon</title>
+    <link href="https://github.com/neondatabase/neon" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/100-exercises-to-learn-rust#1736508509</id>
+    <title>https://github.com/mainmatter/100-exercises-to-learn-rust</title>
+    <link href="https://github.com/mainmatter/100-exercises-to-learn-rust" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">A self-paced course to learn Rust, one exercise at a time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kata-containers/kata-containers#1736508509</id>
+    <title>https://github.com/kata-containers/kata-containers</title>
+    <link href="https://github.com/kata-containers/kata-containers" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload isolation and security advantages of VMs. https://katacontainers.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/iceberg-rust#1736508509</id>
+    <title>https://github.com/apache/iceberg-rust</title>
+    <link href="https://github.com/apache/iceberg-rust" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Apache Iceberg</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EricLBuehler/mistral.rs#1736508509</id>
+    <title>https://github.com/EricLBuehler/mistral.rs</title>
+    <link href="https://github.com/EricLBuehler/mistral.rs" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Blazingly fast LLM inference.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quickwit-oss/quickwit#1736508509</id>
+    <title>https://github.com/quickwit-oss/quickwit</title>
+    <link href="https://github.com/quickwit-oss/quickwit" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Cloud-native search engine for observability. An open-source alternative to Datadog, Elasticsearch, Loki, and Tempo.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databendlabs/databend#1736508509</id>
+    <title>https://github.com/databendlabs/databend</title>
+    <link href="https://github.com/databendlabs/databend" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 &amp; 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prefix-dev/pixi#1736508509</id>
+    <title>https://github.com/prefix-dev/pixi</title>
+    <link href="https://github.com/prefix-dev/pixi" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Package management made easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustwasm/wasm-bindgen#1736508509</id>
+    <title>https://github.com/rustwasm/wasm-bindgen</title>
+    <link href="https://github.com/rustwasm/wasm-bindgen" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Facilitating high-level interactions between Wasm modules and JavaScript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/mail-server#1736508509</id>
+    <title>https://github.com/stalwartlabs/mail-server</title>
+    <link href="https://github.com/stalwartlabs/mail-server" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Secure &amp; Modern All-in-One Mail Server (IMAP, JMAP, POP3, SMTP)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/bat#1736508509</id>
+    <title>https://github.com/sharkdp/bat</title>
+    <link href="https://github.com/sharkdp/bat" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">A cat(1) clone with wings.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aptos-labs/aptos-core#1736508509</id>
+    <title>https://github.com/aptos-labs/aptos-core</title>
+    <link href="https://github.com/aptos-labs/aptos-core" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Aptos is a layer 1 blockchain built to support the widespread use of blockchain through better technology and user experience.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-convex/convex-backend#1736508509</id>
+    <title>https://github.com/get-convex/convex-backend</title>
+    <link href="https://github.com/get-convex/convex-backend" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">The Convex open-source backend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/influxdb#1736508509</id>
+    <title>https://github.com/influxdata/influxdb</title>
+    <link href="https://github.com/influxdata/influxdb" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Scalable datastore for metrics, events, and real-time analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/mountpoint-s3#1736508509</id>
+    <title>https://github.com/awslabs/mountpoint-s3</title>
+    <link href="https://github.com/awslabs/mountpoint-s3" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/sui#1736508509</id>
+    <title>https://github.com/MystenLabs/sui</title>
+    <link href="https://github.com/MystenLabs/sui" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mullvad/mullvadvpn-app#1736508509</id>
+    <title>https://github.com/mullvad/mullvadvpn-app</title>
+    <link href="https://github.com/mullvad/mullvadvpn-app" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">The Mullvad VPN client app for desktop and mobile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seanmonstar/reqwest#1736508509</id>
+    <title>https://github.com/seanmonstar/reqwest</title>
+    <link href="https://github.com/seanmonstar/reqwest" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">An easy and powerful Rust HTTP Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/greenbone/openvas-scanner#1736508509</id>
+    <title>https://github.com/greenbone/openvas-scanner</title>
+    <link href="https://github.com/greenbone/openvas-scanner" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">This repository contains the scanner component for Greenbone Community Edition.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n0-computer/iroh#1736508509</id>
+    <title>https://github.com/n0-computer/iroh</title>
+    <link href="https://github.com/n0-computer/iroh" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">peer-2-peer that just works</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1736508509</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Y2Z/monolith#1736508509</id>
+    <title>https://github.com/Y2Z/monolith</title>
+    <link href="https://github.com/Y2Z/monolith" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">⬛️ CLI tool for saving complete web pages as a single HTML file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/fd#1736508509</id>
+    <title>https://github.com/sharkdp/fd</title>
+    <link href="https://github.com/sharkdp/fd" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">A simple, fast and user-friendly alternative to 'find'</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sxyazi/yazi#1736508509</id>
+    <title>https://github.com/sxyazi/yazi</title>
+    <link href="https://github.com/sxyazi/yazi" />
+    <updated>2025-01-10T11:28:29+00:00</updated>
+    <content type="text">💥 Blazing fast terminal file manager written in Rust, based on async I/O.</content>
+  </entry>
+</feed>

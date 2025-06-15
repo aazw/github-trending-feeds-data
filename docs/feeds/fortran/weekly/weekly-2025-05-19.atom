@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/fortran/weekly.atom</id>
+  <title>GitHub Trending - fortran (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/E3SM-Project/E3SM#1747612800</id>
+    <title>https://github.com/E3SM-Project/E3SM</title>
+    <link href="https://github.com/E3SM-Project/E3SM" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Energy Exascale Earth System Model source code. NOTE: use "maint" branches for your work. Head of master is not validated.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MPAS-Dev/MPAS-Model#1747612800</id>
+    <title>https://github.com/MPAS-Dev/MPAS-Model</title>
+    <link href="https://github.com/MPAS-Dev/MPAS-Model" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Repository for MPAS models and shared framework releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NOAA-GFDL/FMS#1747612800</id>
+    <title>https://github.com/NOAA-GFDL/FMS</title>
+    <link href="https://github.com/NOAA-GFDL/FMS" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">GFDL's Flexible Modeling System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/OpenFAST/openfast#1747612800</id>
+    <title>https://github.com/OpenFAST/openfast</title>
+    <link href="https://github.com/OpenFAST/openfast" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Reference-LAPACK/lapack#1747612800</id>
+    <title>https://github.com/Reference-LAPACK/lapack</title>
+    <link href="https://github.com/Reference-LAPACK/lapack" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">LAPACK development repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cp2k/cp2k#1747612800</id>
+    <title>https://github.com/cp2k/cp2k</title>
+    <link href="https://github.com/cp2k/cp2k" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Quantum chemistry and solid state physics software package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firemodels/fds#1747612800</id>
+    <title>https://github.com/firemodels/fds</title>
+    <link href="https://github.com/firemodels/fds" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">Fire Dynamics Simulator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/wrf-model/WRF#1747612800</id>
+    <title>https://github.com/wrf-model/WRF</title>
+    <link href="https://github.com/wrf-model/WRF" />
+    <updated>2025-05-19T00:00:00</updated>
+    <content type="text">The official repository for the Weather Research and Forecasting (WRF) model</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2024-12-31T11:12:07+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/dominikh/go-mode.el#1735643527</id>
+    <title>https://github.com/dominikh/go-mode.el</title>
+    <link href="https://github.com/dominikh/go-mode.el" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">Emacs mode for the Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mmontone/emacs-inspector#1735643527</id>
+    <title>https://github.com/mmontone/emacs-inspector</title>
+    <link href="https://github.com/mmontone/emacs-inspector" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">Inspection tool for Emacs Lisp objects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1735643527</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-compat/compat#1735643527</id>
+    <title>https://github.com/emacs-compat/compat</title>
+    <link href="https://github.com/emacs-compat/compat" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">COMPATibility Library for Emacs Lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-emacs#1735643527</id>
+    <title>https://github.com/editorconfig/editorconfig-emacs</title>
+    <link href="https://github.com/editorconfig/editorconfig-emacs" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">EditorConfig plugin for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spotify/dockerfile-mode#1735643527</id>
+    <title>https://github.com/spotify/dockerfile-mode</title>
+    <link href="https://github.com/spotify/dockerfile-mode" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">An emacs mode for handling Dockerfiles</content>
+  </entry>
+  <entry>
+    <id>https://github.com/shapr/markovkeyboard#1735643527</id>
+    <title>https://github.com/shapr/markovkeyboard</title>
+    <link href="https://github.com/shapr/markovkeyboard" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">keyboard layout that changes by markov frequency</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rainstormstudio/nerd-icons.el#1735643527</id>
+    <title>https://github.com/rainstormstudio/nerd-icons.el</title>
+    <link href="https://github.com/rainstormstudio/nerd-icons.el" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-mode#1735643527</id>
+    <title>https://github.com/haskell/haskell-mode</title>
+    <link href="https://github.com/haskell/haskell-mode" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">Emacs mode for Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seagle0128/doom-modeline#1735643527</id>
+    <title>https://github.com/seagle0128/doom-modeline</title>
+    <link href="https://github.com/seagle0128/doom-modeline" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">A fancy and fast mode-line inspired by minimalism design.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/melpa/melpa#1735643527</id>
+    <title>https://github.com/melpa/melpa</title>
+    <link href="https://github.com/melpa/melpa" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">Recipes and build machinery for the biggest Emacs package repo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/millejoh/emacs-ipython-notebook#1735643527</id>
+    <title>https://github.com/millejoh/emacs-ipython-notebook</title>
+    <link href="https://github.com/millejoh/emacs-ipython-notebook" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">Jupyter notebook client in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rougier/nano-emacs#1735643527</id>
+    <title>https://github.com/rougier/nano-emacs</title>
+    <link href="https://github.com/rougier/nano-emacs" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">GNU Emacs / N Λ N O - Emacs made simple</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-lsp/lsp-mode#1735643527</id>
+    <title>https://github.com/emacs-lsp/lsp-mode</title>
+    <link href="https://github.com/emacs-lsp/lsp-mode" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">Emacs client/library for the Language Server Protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig-mode#1735643527</id>
+    <title>https://github.com/ziglang/zig-mode</title>
+    <link href="https://github.com/ziglang/zig-mode" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">Zig mode for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1735643527</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1735643527</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1735643527</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2024-12-31T11:12:07+00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+</feed>

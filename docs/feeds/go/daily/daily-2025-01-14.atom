@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-14T11:14:04+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/sirupsen/logrus#1736853244</id>
+    <title>https://github.com/sirupsen/logrus</title>
+    <link href="https://github.com/sirupsen/logrus" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Structured, pluggable logging for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1736853244</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zeromicro/go-zero#1736853244</id>
+    <title>https://github.com/zeromicro/go-zero</title>
+    <link href="https://github.com/zeromicro/go-zero" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">A cloud-native Go microservices framework with cli tool for productivity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fsnotify/fsnotify#1736853244</id>
+    <title>https://github.com/fsnotify/fsnotify</title>
+    <link href="https://github.com/fsnotify/fsnotify" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Cross-platform filesystem notifications for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1736853244</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cert-manager/cert-manager#1736853244</id>
+    <title>https://github.com/cert-manager/cert-manager</title>
+    <link href="https://github.com/cert-manager/cert-manager" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Automatically provision and manage TLS certificates in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-jwt/jwt#1736853244</id>
+    <title>https://github.com/golang-jwt/jwt</title>
+    <link href="https://github.com/golang-jwt/jwt" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Go implementation of JSON Web Tokens (JWT).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/HavocFramework/Havoc#1736853244</id>
+    <title>https://github.com/HavocFramework/Havoc</title>
+    <link href="https://github.com/HavocFramework/Havoc" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">The Havoc Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1736853244</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/testcontainers/testcontainers-go#1736853244</id>
+    <title>https://github.com/testcontainers/testcontainers-go</title>
+    <link href="https://github.com/testcontainers/testcontainers-go" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rclone/rclone#1736853244</id>
+    <title>https://github.com/rclone/rclone</title>
+    <link href="https://github.com/rclone/rclone" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">"rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/siderolabs/talos#1736853244</id>
+    <title>https://github.com/siderolabs/talos</title>
+    <link href="https://github.com/siderolabs/talos" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Talos Linux is a modern Linux distribution built for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VictoriaMetrics/VictoriaMetrics#1736853244</id>
+    <title>https://github.com/VictoriaMetrics/VictoriaMetrics</title>
+    <link href="https://github.com/VictoriaMetrics/VictoriaMetrics" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">VictoriaMetrics: fast, cost-effective monitoring solution and time series database</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/zap#1736853244</id>
+    <title>https://github.com/uber-go/zap</title>
+    <link href="https://github.com/uber-go/zap" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kgretzky/evilginx2#1736853244</id>
+    <title>https://github.com/kgretzky/evilginx2</title>
+    <link href="https://github.com/kgretzky/evilginx2" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Standalone man-in-the-middle attack framework used for phishing login credentials along with session cookies, allowing for the bypass of 2-factor authentication</content>
+  </entry>
+  <entry>
+    <id>https://github.com/authelia/authelia#1736853244</id>
+    <title>https://github.com/authelia/authelia</title>
+    <link href="https://github.com/authelia/authelia" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">The Single Sign-On Multi-Factor portal for web apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/binwiederhier/ntfy#1736853244</id>
+    <title>https://github.com/binwiederhier/ntfy</title>
+    <link href="https://github.com/binwiederhier/ntfy" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Send push notifications to your phone or desktop using PUT/POST</content>
+  </entry>
+  <entry>
+    <id>https://github.com/techschool/simplebank#1736853244</id>
+    <title>https://github.com/techschool/simplebank</title>
+    <link href="https://github.com/techschool/simplebank" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">Backend master class: build a simple bank service in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/urfave/cli#1736853244</id>
+    <title>https://github.com/urfave/cli</title>
+    <link href="https://github.com/urfave/cli" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">A simple, fast, and fun package for building command line apps in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-sdk-go-v2#1736853244</id>
+    <title>https://github.com/aws/aws-sdk-go-v2</title>
+    <link href="https://github.com/aws/aws-sdk-go-v2" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">AWS SDK for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cli/cli#1736853244</id>
+    <title>https://github.com/cli/cli</title>
+    <link href="https://github.com/cli/cli" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">GitHub’s official command line tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/answer#1736853244</id>
+    <title>https://github.com/apache/answer</title>
+    <link href="https://github.com/apache/answer" />
+    <updated>2025-01-14T11:14:04+00:00</updated>
+    <content type="text">A Q&amp;A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</content>
+  </entry>
+</feed>

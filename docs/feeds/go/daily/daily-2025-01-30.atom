@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aquasecurity/trivy#1738195200</id>
+    <title>https://github.com/aquasecurity/trivy</title>
+    <link href="https://github.com/aquasecurity/trivy" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/centrifugal/centrifugo#1738195200</id>
+    <title>https://github.com/centrifugal/centrifugo</title>
+    <link href="https://github.com/centrifugal/centrifugo" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Scalable real-time messaging server in a language-agnostic way. Self-hosted alternative to Pubnub, Pusher, Ably. Set up once and forever.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chainflag/eth-faucet#1738195200</id>
+    <title>https://github.com/chainflag/eth-faucet</title>
+    <link href="https://github.com/chainflag/eth-faucet" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Ether faucet server built with Go and Svelte.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/mods#1738195200</id>
+    <title>https://github.com/charmbracelet/mods</title>
+    <link href="https://github.com/charmbracelet/mods" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">AI on the command line</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/terraform-provider-cloudflare#1738195200</id>
+    <title>https://github.com/cloudflare/terraform-provider-cloudflare</title>
+    <link href="https://github.com/cloudflare/terraform-provider-cloudflare" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Cloudflare Terraform Provider</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1738195200</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsops/sops#1738195200</id>
+    <title>https://github.com/getsops/sops</title>
+    <link href="https://github.com/getsops/sops" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Simple and flexible tool for managing secrets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitleaks/gitleaks#1738195200</id>
+    <title>https://github.com/gitleaks/gitleaks</title>
+    <link href="https://github.com/gitleaks/gitleaks" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Find secrets with Gitleaks 🔑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1738195200</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iawia002/lux#1738195200</id>
+    <title>https://github.com/iawia002/lux</title>
+    <link href="https://github.com/iawia002/lux" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">👾 Fast and simple video download library and CLI tool written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1738195200</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lxc/incus#1738195200</id>
+    <title>https://github.com/lxc/incus</title>
+    <link href="https://github.com/lxc/incus" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Powerful system container and virtual machine manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1738195200</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1738195200</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-policy-agent/gatekeeper#1738195200</id>
+    <title>https://github.com/open-policy-agent/gatekeeper</title>
+    <link href="https://github.com/open-policy-agent/gatekeeper" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">🐊 Gatekeeper - Policy Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1738195200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-operator#1738195200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-operator</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-operator" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Kubernetes Operator for OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opencost/opencost#1738195200</id>
+    <title>https://github.com/opencost/opencost</title>
+    <link href="https://github.com/opencost/opencost" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Cost monitoring for Kubernetes workloads and cloud costs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pocketbase/pocketbase#1738195200</id>
+    <title>https://github.com/pocketbase/pocketbase</title>
+    <link href="https://github.com/pocketbase/pocketbase" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Open Source realtime backend in 1 file</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pressly/goose#1738195200</id>
+    <title>https://github.com/pressly/goose</title>
+    <link href="https://github.com/pressly/goose" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">A database migration tool. Supports SQL migrations and Go functions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectcalico/calico#1738195200</id>
+    <title>https://github.com/projectcalico/calico</title>
+    <link href="https://github.com/projectcalico/calico" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Cloud native networking and network security</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stonith404/pocket-id#1738195200</id>
+    <title>https://github.com/stonith404/pocket-id</title>
+    <link href="https://github.com/stonith404/pocket-id" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trufflesecurity/trufflehog#1738195200</id>
+    <title>https://github.com/trufflesecurity/trufflehog</title>
+    <link href="https://github.com/trufflesecurity/trufflehog" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Find, verify, and analyze leaked credentials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trustwallet/assets#1738195200</id>
+    <title>https://github.com/trustwallet/assets</title>
+    <link href="https://github.com/trustwallet/assets" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">A comprehensive, up-to-date collection of information about several thousands (!) of crypto tokens.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/zap#1738195200</id>
+    <title>https://github.com/uber-go/zap</title>
+    <link href="https://github.com/uber-go/zap" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+  </entry>
+</feed>

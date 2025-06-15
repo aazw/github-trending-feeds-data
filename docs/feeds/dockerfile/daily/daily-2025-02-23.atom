@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom</id>
+  <title>GitHub Trending - dockerfile (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/apache/apisix-docker#1740268800</id>
+    <title>https://github.com/apache/apisix-docker</title>
+    <link href="https://github.com/apache/apisix-docker" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">the docker for Apache APISIX</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv-docker-example#1740268800</id>
+    <title>https://github.com/astral-sh/uv-docker-example</title>
+    <link href="https://github.com/astral-sh/uv-docker-example" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">An example of using uv in Docker images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bufbuild/plugins#1740268800</id>
+    <title>https://github.com/bufbuild/plugins</title>
+    <link href="https://github.com/bufbuild/plugins" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Remote Protobuf plugins available on the BSR</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cross-rs/cross-toolchains#1740268800</id>
+    <title>https://github.com/cross-rs/cross-toolchains</title>
+    <link href="https://github.com/cross-rs/cross-toolchains" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Additional Dockerfiles and crosstool-ng config files to build additional toolchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker/scout-demo-service#1740268800</id>
+    <title>https://github.com/docker/scout-demo-service</title>
+    <link href="https://github.com/docker/scout-demo-service" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/dotnet/dotnet-docker#1740268800</id>
+    <title>https://github.com/dotnet/dotnet-docker</title>
+    <link href="https://github.com/dotnet/dotnet-docker" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Docker images for .NET and the .NET Tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dunglas/symfony-docker#1740268800</id>
+    <title>https://github.com/dunglas/symfony-docker</title>
+    <link href="https://github.com/dunglas/symfony-docker" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">A Docker-based installer and runtime for Symfony. Install: download and `docker compose up`.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goldbergyoni/nodebestpractices#1740268800</id>
+    <title>https://github.com/goldbergyoni/nodebestpractices</title>
+    <link href="https://github.com/goldbergyoni/nodebestpractices" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">✅ The Node.js best practices list (July 2024)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iv-org/documentation#1740268800</id>
+    <title>https://github.com/iv-org/documentation</title>
+    <link href="https://github.com/iv-org/documentation" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">The official Invidious documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jauderho/dockerfiles#1740268800</id>
+    <title>https://github.com/jauderho/dockerfiles</title>
+    <link href="https://github.com/jauderho/dockerfiles" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Dockerfiles of things</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laradock/laradock#1740268800</id>
+    <title>https://github.com/laradock/laradock</title>
+    <link href="https://github.com/laradock/laradock" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Full PHP development environment for Docker.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/mu_devops#1740268800</id>
+    <title>https://github.com/microsoft/mu_devops</title>
+    <link href="https://github.com/microsoft/mu_devops" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Project Mu Developer Operations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openresty/docker-openresty#1740268800</id>
+    <title>https://github.com/openresty/docker-openresty</title>
+    <link href="https://github.com/openresty/docker-openresty" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Docker tooling for OpenResty</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oxsecurity/megalinter#1740268800</id>
+    <title>https://github.com/oxsecurity/megalinter</title>
+    <link href="https://github.com/oxsecurity/megalinter" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vulhub/vulhub#1740268800</id>
+    <title>https://github.com/vulhub/vulhub</title>
+    <link href="https://github.com/vulhub/vulhub" />
+    <updated>2025-02-23T00:00:00</updated>
+    <content type="text">Pre-Built Vulnerable Environments Based on Docker-Compose</content>
+  </entry>
+</feed>

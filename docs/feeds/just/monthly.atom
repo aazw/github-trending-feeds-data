@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/just/monthly.atom</id>
+  <title>GitHub Trending - just (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/just/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/catppuccin/zed#1748736000</id>
+    <title>https://github.com/catppuccin/zed</title>
+    <link href="https://github.com/catppuccin/zed" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">🦀 Soothing pastel theme for Zed</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum-optimism/specs#1748736000</id>
+    <title>https://github.com/ethereum-optimism/specs</title>
+    <link href="https://github.com/ethereum-optimism/specs" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">OP Stack Specifications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pop-os/cosmic-epoch#1748736000</id>
+    <title>https://github.com/pop-os/cosmic-epoch</title>
+    <link href="https://github.com/pop-os/cosmic-epoch" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Next generation Cosmic desktop environment</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ublue-os/image-template#1748736000</id>
+    <title>https://github.com/ublue-os/image-template</title>
+    <link href="https://github.com/ublue-os/image-template" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Build your own custom Universal Blue Image!</content>
+  </entry>
+</feed>

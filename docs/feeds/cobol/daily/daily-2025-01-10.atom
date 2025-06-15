@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cobol/daily.atom</id>
+  <title>GitHub Trending - cobol (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cobol/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-10T11:09:53+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/openmainframeproject/cobol-programming-course#1736507393</id>
+    <title>https://github.com/openmainframeproject/cobol-programming-course</title>
+    <link href="https://github.com/openmainframeproject/cobol-programming-course" />
+    <updated>2025-01-10T11:09:53+00:00</updated>
+    <content type="text">Training materials and labs for a "Getting Started" level course on COBOL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meyfa/CobolCraft#1736507393</id>
+    <title>https://github.com/meyfa/CobolCraft</title>
+    <link href="https://github.com/meyfa/CobolCraft" />
+    <updated>2025-01-10T11:09:53+00:00</updated>
+    <content type="text">A Minecraft server written in COBOL</content>
+  </entry>
+</feed>

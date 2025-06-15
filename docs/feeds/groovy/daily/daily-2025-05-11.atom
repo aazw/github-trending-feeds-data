@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom</id>
+  <title>GitHub Trending - groovy (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-11T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/bregman-arie/devops-resources#1746921600</id>
+    <title>https://github.com/bregman-arie/devops-resources</title>
+    <link href="https://github.com/bregman-arie/devops-resources" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eclipse-openj9/openj9-docs#1746921600</id>
+    <title>https://github.com/eclipse-openj9/openj9-docs</title>
+    <link href="https://github.com/eclipse-openj9/openj9-docs" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Source repository for the Eclipse OpenJ9 user documentation, which should be viewed [online]https://www.eclipse.org/openj9/docs/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gradle/gradle#1746921600</id>
+    <title>https://github.com/gradle/gradle</title>
+    <link href="https://github.com/gradle/gradle" />
+    <updated>2025-05-11T00:00:00</updated>
+    <content type="text">Adaptable, fast automation for all</content>
+  </entry>
+</feed>

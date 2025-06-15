@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1742688000</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1742688000</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1742688000</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1742688000</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/cloudflared#1742688000</id>
+    <title>https://github.com/cloudflare/cloudflared</title>
+    <link href="https://github.com/cloudflare/cloudflared" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Cloudflare Tunnel client (formerly Argo Tunnel)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1742688000</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/daeuniverse/dae#1742688000</id>
+    <title>https://github.com/daeuniverse/dae</title>
+    <link href="https://github.com/daeuniverse/dae" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">eBPF-based Linux high-performance transparent proxy solution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1742688000</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethereum/go-ethereum#1742688000</id>
+    <title>https://github.com/ethereum/go-ethereum</title>
+    <link href="https://github.com/ethereum/go-ethereum" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Go implementation of the Ethereum protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evcc-io/evcc#1742688000</id>
+    <title>https://github.com/evcc-io/evcc</title>
+    <link href="https://github.com/evcc-io/evcc" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">solar charging ☀️🚘</content>
+  </entry>
+  <entry>
+    <id>https://github.com/garethgeorge/backrest#1742688000</id>
+    <title>https://github.com/garethgeorge/backrest</title>
+    <link href="https://github.com/garethgeorge/backrest" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Backrest is a web UI and orchestrator for restic backup.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1742688000</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jaegertracing/jaeger#1742688000</id>
+    <title>https://github.com/jaegertracing/jaeger</title>
+    <link href="https://github.com/jaegertracing/jaeger" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">CNCF Jaeger, a Distributed Tracing Platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kopia/kopia#1742688000</id>
+    <title>https://github.com/kopia/kopia</title>
+    <link href="https://github.com/kopia/kopia" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Cross-platform backup tool for Windows, macOS &amp; Linux with fast, incremental backups, client-side end-to-end encryption, compression and data deduplication. CLI and GUI included.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/ingress-nginx#1742688000</id>
+    <title>https://github.com/kubernetes/ingress-nginx</title>
+    <link href="https://github.com/kubernetes/ingress-nginx" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Ingress NGINX Controller for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lovelaze/nebula-sync#1742688000</id>
+    <title>https://github.com/lovelaze/nebula-sync</title>
+    <link href="https://github.com/lovelaze/nebula-sync" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Synchronize configuration of multiple Pi-hole v6.x instances.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1742688000</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plandex-ai/plandex#1742688000</id>
+    <title>https://github.com/plandex-ai/plandex</title>
+    <link href="https://github.com/plandex-ai/plandex" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Open source AI coding agent. Designed for large projects and real world tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/publicsuffix/list#1742688000</id>
+    <title>https://github.com/publicsuffix/list</title>
+    <link href="https://github.com/publicsuffix/list" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">The Public Suffix List</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simulot/immich-go#1742688000</id>
+    <title>https://github.com/simulot/immich-go</title>
+    <link href="https://github.com/simulot/immich-go" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">An alternative to the immich-CLI command that doesn't depend on nodejs installation. It tries its best for importing google photos takeout archives.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sundowndev/phoneinfoga#1742688000</id>
+    <title>https://github.com/sundowndev/phoneinfoga</title>
+    <link href="https://github.com/sundowndev/phoneinfoga" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Information gathering framework for phone numbers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twpayne/chezmoi#1742688000</id>
+    <title>https://github.com/twpayne/chezmoi</title>
+    <link href="https://github.com/twpayne/chezmoi" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Manage your dotfiles across multiple diverse machines, securely.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usual2970/certimate#1742688000</id>
+    <title>https://github.com/usual2970/certimate</title>
+    <link href="https://github.com/usual2970/certimate" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.</content>
+  </entry>
+</feed>

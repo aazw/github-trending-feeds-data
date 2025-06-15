@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndrewRadev/splitjoin.vim#1740614400</id>
+    <title>https://github.com/AndrewRadev/splitjoin.vim</title>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Switch between single-line and multiline forms of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1740614400</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Raimondi/delimitMate#1740614400</id>
+    <title>https://github.com/Raimondi/delimitMate</title>
+    <link href="https://github.com/Raimondi/delimitMate" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Vim plugin, provides insert mode auto-completion for quotes, parens, brackets, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1740614400</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1740614400</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-vim#1740614400</id>
+    <title>https://github.com/editorconfig/editorconfig-vim</title>
+    <link href="https://github.com/editorconfig/editorconfig-vim" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">EditorConfig plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1740614400</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kana/vim-textobj-user#1740614400</id>
+    <title>https://github.com/kana/vim-textobj-user</title>
+    <link href="https://github.com/kana/vim-textobj-user" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Vim plugin: Create your own text objects</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kchmck/vim-coffee-script#1740614400</id>
+    <title>https://github.com/kchmck/vim-coffee-script</title>
+    <link href="https://github.com/kchmck/vim-coffee-script" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">CoffeeScript support for vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kien/ctrlp.vim#1740614400</id>
+    <title>https://github.com/kien/ctrlp.vim</title>
+    <link href="https://github.com/kien/ctrlp.vim" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Fuzzy file, buffer, mru, tag, etc finder.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mxw/vim-jsx#1740614400</id>
+    <title>https://github.com/mxw/vim-jsx</title>
+    <link href="https://github.com/mxw/vim-jsx" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">React JSX syntax highlighting and indenting for vim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/vim-lsp#1740614400</id>
+    <title>https://github.com/prabirshrestha/vim-lsp</title>
+    <link href="https://github.com/prabirshrestha/vim-lsp" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">async language server protocol plugin for vim and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rakr/vim-one#1740614400</id>
+    <title>https://github.com/rakr/vim-one</title>
+    <link href="https://github.com/rakr/vim-one" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Adaptation of one-light and one-dark colorschemes for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust.vim#1740614400</id>
+    <title>https://github.com/rust-lang/rust.vim</title>
+    <link href="https://github.com/rust-lang/rust.vim" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Vim configuration for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stephpy/vim-yaml#1740614400</id>
+    <title>https://github.com/stephpy/vim-yaml</title>
+    <link href="https://github.com/stephpy/vim-yaml" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Override vim syntax for yaml files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-speeddating#1740614400</id>
+    <title>https://github.com/tpope/vim-speeddating</title>
+    <link href="https://github.com/tpope/vim-speeddating" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">speeddating.vim: use CTRL-A/CTRL-X to increment dates, times, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vital.vim#1740614400</id>
+    <title>https://github.com/vim-jp/vital.vim</title>
+    <link href="https://github.com/vim-jp/vital.vim" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">A comprehensive Vim utility functions for Vim plugins</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-ruby/vim-ruby#1740614400</id>
+    <title>https://github.com/vim-ruby/vim-ruby</title>
+    <link href="https://github.com/vim-ruby/vim-ruby" />
+    <updated>2025-02-27T00:00:00</updated>
+    <content type="text">Vim/Ruby Configuration Files</content>
+  </entry>
+</feed>

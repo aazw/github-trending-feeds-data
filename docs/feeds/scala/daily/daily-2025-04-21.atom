@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1745193600</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-livy#1745193600</id>
+    <title>https://github.com/apache/incubator-livy</title>
+    <link href="https://github.com/apache/incubator-livy" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Apache Livy is an open source REST interface for interacting with Apache Spark from anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/spark#1745193600</id>
+    <title>https://github.com/apache/spark</title>
+    <link href="https://github.com/apache/spark" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Apache Spark - A unified analytics engine for large-scale data processing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/chisel#1745193600</id>
+    <title>https://github.com/chipsalliance/chisel</title>
+    <link href="https://github.com/chipsalliance/chisel" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Chisel: A Modern Hardware Design Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/com-lihaoyi/mill#1745193600</id>
+    <title>https://github.com/com-lihaoyi/mill</title>
+    <link href="https://github.com/com-lihaoyi/mill" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Mill is a fast JVM build tool that supports Java, Scala, Kotlin and many other languages. 3-6x faster than Maven or Gradle for common workflows, Mill aims to make your project’s build process performant, maintainable, and flexible</content>
+  </entry>
+  <entry>
+    <id>https://github.com/digital-asset/daml#1745193600</id>
+    <title>https://github.com/digital-asset/daml</title>
+    <link href="https://github.com/digital-asset/daml" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The Daml smart contract language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1745193600</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nymanjens/quizmaster#1745193600</id>
+    <title>https://github.com/nymanjens/quizmaster</title>
+    <link href="https://github.com/nymanjens/quizmaster" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A web-app for conducting a quiz over the internet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/playframework/playframework#1745193600</id>
+    <title>https://github.com/playframework/playframework</title>
+    <link href="https://github.com/playframework/playframework" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The Community Maintained High Velocity Web Framework For Java and Scala.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1745193600</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/berkeley-hardfloat#1745193600</id>
+    <title>https://github.com/ucb-bar/berkeley-hardfloat</title>
+    <link href="https://github.com/ucb-bar/berkeley-hardfloat" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/chipyard#1745193600</id>
+    <title>https://github.com/ucb-bar/chipyard</title>
+    <link href="https://github.com/ucb-bar/chipyard" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/riscv-sodor#1745193600</id>
+    <title>https://github.com/ucb-bar/riscv-sodor</title>
+    <link href="https://github.com/ucb-bar/riscv-sodor" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">educational microarchitectures for risc-v isa</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/riscv-torture#1745193600</id>
+    <title>https://github.com/ucb-bar/riscv-torture</title>
+    <link href="https://github.com/ucb-bar/riscv-torture" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">RISC-V Torture Test</content>
+  </entry>
+</feed>

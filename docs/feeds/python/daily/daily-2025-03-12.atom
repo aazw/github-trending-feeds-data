@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/browser-use/browser-use#1741737600</id>
+    <title>https://github.com/browser-use/browser-use</title>
+    <link href="https://github.com/browser-use/browser-use" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Make websites accessible for AI agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/camel-ai/camel#1741737600</id>
+    <title>https://github.com/camel-ai/camel</title>
+    <link href="https://github.com/camel-ai/camel" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/comet-ml/opik#1741737600</id>
+    <title>https://github.com/comet-ml/opik</title>
+    <link href="https://github.com/comet-ml/opik" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/donnemartin/system-design-primer#1741737600</id>
+    <title>https://github.com/donnemartin/system-design-primer</title>
+    <link href="https://github.com/donnemartin/system-design-primer" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubeflow/pipelines#1741737600</id>
+    <title>https://github.com/kubeflow/pipelines</title>
+    <link href="https://github.com/kubeflow/pipelines" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Machine Learning Pipelines for Kubeflow</content>
+  </entry>
+  <entry>
+    <id>https://github.com/public-apis/public-apis#1741737600</id>
+    <title>https://github.com/public-apis/public-apis</title>
+    <link href="https://github.com/public-apis/public-apis" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">A collective list of free APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thalissonvs/pydoll#1741737600</id>
+    <title>https://github.com/thalissonvs/pydoll</title>
+    <link href="https://github.com/thalissonvs/pydoll" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vnpy/vnpy#1741737600</id>
+    <title>https://github.com/vnpy/vnpy</title>
+    <link href="https://github.com/vnpy/vnpy" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">基于Python的开源量化交易平台开发框架</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuruotong1/autoMate#1741737600</id>
+    <title>https://github.com/yuruotong1/autoMate</title>
+    <link href="https://github.com/yuruotong1/autoMate" />
+    <updated>2025-03-12T00:00:00</updated>
+    <content type="text">Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves</content>
+  </entry>
+</feed>

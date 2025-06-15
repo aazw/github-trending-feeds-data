@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-12T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AndrewRadev/splitjoin.vim#1747008000</id>
+    <title>https://github.com/AndrewRadev/splitjoin.vim</title>
+    <link href="https://github.com/AndrewRadev/splitjoin.vim" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Switch between single-line and multiline forms of code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1747008000</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dhruvasagar/vim-table-mode#1747008000</id>
+    <title>https://github.com/dhruvasagar/vim-table-mode</title>
+    <link href="https://github.com/dhruvasagar/vim-table-mode" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">VIM Table Mode for instant table creation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jamessan/vim-gnupg#1747008000</id>
+    <title>https://github.com/jamessan/vim-gnupg</title>
+    <link href="https://github.com/jamessan/vim-gnupg" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">This script implements transparent editing of gpg encrypted files.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf.vim#1747008000</id>
+    <title>https://github.com/junegunn/fzf.vim</title>
+    <link href="https://github.com/junegunn/fzf.vim" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">fzf ❤️ vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kaarmu/typst.vim#1747008000</id>
+    <title>https://github.com/kaarmu/typst.vim</title>
+    <link href="https://github.com/kaarmu/typst.vim" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Vim plugin for Typst</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mg979/vim-visual-multi#1747008000</id>
+    <title>https://github.com/mg979/vim-visual-multi</title>
+    <link href="https://github.com/mg979/vim-visual-multi" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Multiple cursors plugin for vim/neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mileszs/ack.vim#1747008000</id>
+    <title>https://github.com/mileszs/ack.vim</title>
+    <link href="https://github.com/mileszs/ack.vim" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Vim plugin for the Perl module / CLI script 'ack'</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1747008000</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/rust.vim#1747008000</id>
+    <title>https://github.com/rust-lang/rust.vim</title>
+    <link href="https://github.com/rust-lang/rust.vim" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Vim configuration for Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1747008000</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1747008000</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dadbod#1747008000</id>
+    <title>https://github.com/tpope/vim-dadbod</title>
+    <link href="https://github.com/tpope/vim-dadbod" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">dadbod.vim: Modern database interface for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1747008000</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-markdown#1747008000</id>
+    <title>https://github.com/tpope/vim-markdown</title>
+    <link href="https://github.com/tpope/vim-markdown" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Vim Markdown runtime files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rails#1747008000</id>
+    <title>https://github.com/tpope/vim-rails</title>
+    <link href="https://github.com/tpope/vim-rails" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">rails.vim: Ruby on Rails power tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rhubarb#1747008000</id>
+    <title>https://github.com/tpope/vim-rhubarb</title>
+    <link href="https://github.com/tpope/vim-rhubarb" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">rhubarb.vim: GitHub extension for fugitive.vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tyru/open-browser.vim#1747008000</id>
+    <title>https://github.com/tyru/open-browser.vim</title>
+    <link href="https://github.com/tyru/open-browser.vim" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Open URI with your favorite browser from your most favorite editor</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-test/vim-test#1747008000</id>
+    <title>https://github.com/vim-test/vim-test</title>
+    <link href="https://github.com/vim-test/vim-test" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">Run your tests at the speed of thought</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1747008000</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-05-12T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

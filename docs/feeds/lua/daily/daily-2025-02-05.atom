@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CopilotC-Nvim/CopilotChat.nvim#1738713600</id>
+    <title>https://github.com/CopilotC-Nvim/CopilotChat.nvim</title>
+    <link href="https://github.com/CopilotC-Nvim/CopilotChat.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Chat with GitHub Copilot in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kong/kong#1738713600</id>
+    <title>https://github.com/Kong/kong</title>
+    <link href="https://github.com/Kong/kong" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NeogitOrg/neogit#1738713600</id>
+    <title>https://github.com/NeogitOrg/neogit</title>
+    <link href="https://github.com/NeogitOrg/neogit" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">An interactive and powerful Git interface for Neovim, inspired by Magit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ThePrimeagen/init.lua#1738713600</id>
+    <title>https://github.com/ThePrimeagen/init.lua</title>
+    <link href="https://github.com/ThePrimeagen/init.lua" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/echasnovski/mini.nvim#1738713600</id>
+    <title>https://github.com/echasnovski/mini.nvim</title>
+    <link href="https://github.com/echasnovski/mini.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Library of 40+ independent Lua modules improving overall Neovim (version 0.8 and higher) experience with minimal effort</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epwalsh/obsidian.nvim#1738713600</id>
+    <title>https://github.com/epwalsh/obsidian.nvim</title>
+    <link href="https://github.com/epwalsh/obsidian.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Obsidian 🤝 Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/lazy.nvim#1738713600</id>
+    <title>https://github.com/folke/lazy.nvim</title>
+    <link href="https://github.com/folke/lazy.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">💤 A modern plugin manager for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/snacks.nvim#1738713600</id>
+    <title>https://github.com/folke/snacks.nvim</title>
+    <link href="https://github.com/folke/snacks.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">🍿 A collection of QoL plugins for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/tokyonight.nvim#1738713600</id>
+    <title>https://github.com/folke/tokyonight.nvim</title>
+    <link href="https://github.com/folke/tokyonight.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">🏙 A clean, dark Neovim theme written in Lua, with support for lsp, treesitter and lots of plugins. Includes additional themes for Kitty, Alacritty, iTerm and Fish.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/josean-dev/dev-environment-files#1738713600</id>
+    <title>https://github.com/josean-dev/dev-environment-files</title>
+    <link href="https://github.com/josean-dev/dev-environment-files" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/kdheepak/lazygit.nvim#1738713600</id>
+    <title>https://github.com/kdheepak/lazygit.nvim</title>
+    <link href="https://github.com/kdheepak/lazygit.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Plugin for calling lazygit from within neovim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-jdtls#1738713600</id>
+    <title>https://github.com/mfussenegger/nvim-jdtls</title>
+    <link href="https://github.com/mfussenegger/nvim-jdtls" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Extensions for the built-in LSP support in Neovim for eclipse.jdt.ls</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1738713600</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lua/kickstart.nvim#1738713600</id>
+    <title>https://github.com/nvim-lua/kickstart.nvim</title>
+    <link href="https://github.com/nvim-lua/kickstart.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A launch point for your personal nvim configuration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lualine/lualine.nvim#1738713600</id>
+    <title>https://github.com/nvim-lualine/lualine.nvim</title>
+    <link href="https://github.com/nvim-lualine/lualine.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A blazing fast and easy to configure neovim statusline plugin written in pure lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-neo-tree/neo-tree.nvim#1738713600</id>
+    <title>https://github.com/nvim-neo-tree/neo-tree.nvim</title>
+    <link href="https://github.com/nvim-neo-tree/neo-tree.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Neovim plugin to manage the file system and other tree like structures.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-tree/nvim-tree.lua#1738713600</id>
+    <title>https://github.com/nvim-tree/nvim-tree.lua</title>
+    <link href="https://github.com/nvim-tree/nvim-tree.lua" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A file explorer tree for neovim written in lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentibiabr/canary#1738713600</id>
+    <title>https://github.com/opentibiabr/canary</title>
+    <link href="https://github.com/opentibiabr/canary" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Canary Server 13.x for OpenTibia community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/overextended/ox_inventory#1738713600</id>
+    <title>https://github.com/overextended/ox_inventory</title>
+    <link href="https://github.com/overextended/ox_inventory" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Slot-based inventory with metadata.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/conform.nvim#1738713600</id>
+    <title>https://github.com/stevearc/conform.nvim</title>
+    <link href="https://github.com/stevearc/conform.nvim" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Lightweight yet powerful formatter plugin for Neovim</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/acmesh-official/acme.sh#1741046400</id>
+    <title>https://github.com/acmesh-official/acme.sh</title>
+    <link href="https://github.com/acmesh-official/acme.sh" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/amazon-eks-ami#1741046400</id>
+    <title>https://github.com/awslabs/amazon-eks-ami</title>
+    <link href="https://github.com/awslabs/amazon-eks-ami" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Packer configuration for building a custom EKS AMI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bin456789/reinstall#1741046400</id>
+    <title>https://github.com/bin456789/reinstall</title>
+    <link href="https://github.com/bin456789/reinstall" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">一键DD/重装脚本 (One-click reinstall OS on VPS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1741046400</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/docker-mailserver/docker-mailserver#1741046400</id>
+    <title>https://github.com/docker-mailserver/docker-mailserver</title>
+    <link href="https://github.com/docker-mailserver/docker-mailserver" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/itzg/docker-minecraft-server#1741046400</id>
+    <title>https://github.com/itzg/docker-minecraft-server</title>
+    <link href="https://github.com/itzg/docker-minecraft-server" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Docker image that provides a Minecraft Server for Java Edition that automatically downloads selected version at startup</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1741046400</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner#1741046400</id>
+    <title>https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner</title>
+    <link href="https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Dynamic sub-dir volume provisioner on a remote NFS server.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langgenius/dify-docs#1741046400</id>
+    <title>https://github.com/langgenius/dify-docs</title>
+    <link href="https://github.com/langgenius/dify-docs" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">The open-source repo for docs.dify.ai</content>
+  </entry>
+  <entry>
+    <id>https://github.com/monlor/docker-xiaoya#1741046400</id>
+    <title>https://github.com/monlor/docker-xiaoya</title>
+    <link href="https://github.com/monlor/docker-xiaoya" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">💡 Use Docker Compose to deploy Xiaoya services in a more elegant way, supports one-click deployment of Alist + Emby + Jellyfin, full-platform support, Linux/Windows/Mac/Synology, X86/Arm architecture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/n8n-io/n8n-hosting#1741046400</id>
+    <title>https://github.com/n8n-io/n8n-hosting</title>
+    <link href="https://github.com/n8n-io/n8n-hosting" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Example of self-hosting n8n in various environments like docker, kubernetes, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1741046400</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openconfig/public#1741046400</id>
+    <title>https://github.com/openconfig/public</title>
+    <link href="https://github.com/openconfig/public" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Repository for publishing OpenConfig models, documentation, and other material for the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openshift/release#1741046400</id>
+    <title>https://github.com/openshift/release</title>
+    <link href="https://github.com/openshift/release" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Release tooling for OpenShift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/romkatv/powerlevel10k#1741046400</id>
+    <title>https://github.com/romkatv/powerlevel10k</title>
+    <link href="https://github.com/romkatv/powerlevel10k" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">A Zsh theme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sabamdarif/termux-desktop#1741046400</id>
+    <title>https://github.com/sabamdarif/termux-desktop</title>
+    <link href="https://github.com/sabamdarif/termux-desktop" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1741046400</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1741046400</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-03-04T00:00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+</feed>

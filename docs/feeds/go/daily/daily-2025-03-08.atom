@@ -1,0 +1,187 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/aquasecurity/kube-bench#1741392000</id>
+    <title>https://github.com/aquasecurity/kube-bench</title>
+    <link href="https://github.com/aquasecurity/kube-bench" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudwego/eino#1741392000</id>
+    <title>https://github.com/cloudwego/eino</title>
+    <link href="https://github.com/cloudwego/eino" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">The ultimate LLM/AI application development framework in Golang.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/coder/coder#1741392000</id>
+    <title>https://github.com/coder/coder</title>
+    <link href="https://github.com/coder/coder" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Provision remote development environments via Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dagger/dagger#1741392000</id>
+    <title>https://github.com/dagger/dagger</title>
+    <link href="https://github.com/dagger/dagger" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">An open-source runtime for composable workflows. Great for AI agents and CI/CD.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1741392000</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/evrone/go-clean-template#1741392000</id>
+    <title>https://github.com/evrone/go-clean-template</title>
+    <link href="https://github.com/evrone/go-clean-template" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Clean Architecture template for Golang services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1741392000</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1741392000</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/pprof#1741392000</id>
+    <title>https://github.com/google/pprof</title>
+    <link href="https://github.com/google/pprof" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">pprof is a tool for visualization and analysis of profiling data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/genai-toolbox#1741392000</id>
+    <title>https://github.com/googleapis/genai-toolbox</title>
+    <link href="https://github.com/googleapis/genai-toolbox" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Gen AI Toolbox for Databases is an open source server that makes it easier to build Gen AI tools for interacting with databases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1741392000</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1741392000</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1741392000</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1741392000</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/influxdata/telegraf#1741392000</id>
+    <title>https://github.com/influxdata/telegraf</title>
+    <link href="https://github.com/influxdata/telegraf" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Agent for collecting, processing, aggregating, and writing metrics, logs, and other arbitrary data.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lightningnetwork/lnd#1741392000</id>
+    <title>https://github.com/lightningnetwork/lnd</title>
+    <link href="https://github.com/lightningnetwork/lnd" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Lightning Network Daemon ⚡️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mark3labs/mcp-go#1741392000</id>
+    <title>https://github.com/mark3labs/mcp-go</title>
+    <link href="https://github.com/mark3labs/mcp-go" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/moby#1741392000</id>
+    <title>https://github.com/moby/moby</title>
+    <link href="https://github.com/moby/moby" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1741392000</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1741392000</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/projectdiscovery/subfinder#1741392000</id>
+    <title>https://github.com/projectdiscovery/subfinder</title>
+    <link href="https://github.com/projectdiscovery/subfinder" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Fast passive subdomain enumeration tool.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tailscale/tailscale#1741392000</id>
+    <title>https://github.com/tailscale/tailscale</title>
+    <link href="https://github.com/tailscale/tailscale" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">The easiest, most secure way to use WireGuard and 2FA.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/mock#1741392000</id>
+    <title>https://github.com/uber-go/mock</title>
+    <link href="https://github.com/uber-go/mock" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">GoMock is a mocking framework for the Go programming language.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usual2970/certimate#1741392000</id>
+    <title>https://github.com/usual2970/certimate</title>
+    <link href="https://github.com/usual2970/certimate" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">开源的SSL证书管理工具，可以帮助你自动申请、部署SSL证书，并在证书即将过期时自动续期。An open-source SSL certificate management tool that helps you automatically apply for and deploy SSL certificates, as well as automatically renew them when they are about to expire.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/weaviate/weaviate#1741392000</id>
+    <title>https://github.com/weaviate/weaviate</title>
+    <link href="https://github.com/weaviate/weaviate" />
+    <updated>2025-03-08T00:00:00</updated>
+    <content type="text">Weaviate is an open-source vector database that stores both objects and vectors, allowing for the combination of vector search with structured filtering with the fault tolerance and scalability of a cloud-native database​.</content>
+  </entry>
+</feed>

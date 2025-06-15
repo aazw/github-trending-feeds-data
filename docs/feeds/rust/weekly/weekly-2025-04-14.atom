@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GreptimeTeam/greptimedb#1744588800</id>
+    <title>https://github.com/GreptimeTeam/greptimedb</title>
+    <link href="https://github.com/GreptimeTeam/greptimedb" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">An open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/sui#1744588800</id>
+    <title>https://github.com/MystenLabs/sui</title>
+    <link href="https://github.com/MystenLabs/sui" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rust-GPU/Rust-CUDA#1744588800</id>
+    <title>https://github.com/Rust-GPU/Rust-CUDA</title>
+    <link href="https://github.com/Rust-GPU/Rust-CUDA" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Schniz/fnm#1744588800</id>
+    <title>https://github.com/Schniz/fnm</title>
+    <link href="https://github.com/Schniz/fnm" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">🚀 Fast and simple Node.js version manager, built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TabbyML/tabby#1744588800</id>
+    <title>https://github.com/TabbyML/tabby</title>
+    <link href="https://github.com/TabbyML/tabby" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Self-hosted AI coding assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1744588800</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/clockworklabs/SpacetimeDB#1744588800</id>
+    <title>https://github.com/clockworklabs/SpacetimeDB</title>
+    <link href="https://github.com/clockworklabs/SpacetimeDB" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Multiplayer at the speed of light</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1744588800</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firecracker-microvm/firecracker#1744588800</id>
+    <title>https://github.com/firecracker-microvm/firecracker</title>
+    <link href="https://github.com/firecracker-microvm/firecracker" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Secure and fast microVMs for serverless computing.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-convex/convex-backend#1744588800</id>
+    <title>https://github.com/get-convex/convex-backend</title>
+    <link href="https://github.com/get-convex/convex-backend" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">The open-source reactive database for app developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gfx-rs/wgpu#1744588800</id>
+    <title>https://github.com/gfx-rs/wgpu</title>
+    <link href="https://github.com/gfx-rs/wgpu" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">A cross-platform, safe, pure-Rust graphics API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hyperium/tonic#1744588800</id>
+    <title>https://github.com/hyperium/tonic</title>
+    <link href="https://github.com/hyperium/tonic" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">A native gRPC client &amp; server implementation with async/await support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jj-vcs/jj#1744588800</id>
+    <title>https://github.com/jj-vcs/jj</title>
+    <link href="https://github.com/jj-vcs/jj" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">A Git-compatible VCS that is both simple and powerful</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lancedb/lancedb#1744588800</id>
+    <title>https://github.com/lancedb/lancedb</title>
+    <link href="https://github.com/lancedb/lancedb" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Developer-friendly, embedded retrieval engine for multimodal AI. Search More; Manage Less.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1744588800</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1744588800</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/swc-project/swc#1744588800</id>
+    <title>https://github.com/swc-project/swc</title>
+    <link href="https://github.com/swc-project/swc" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Rust-based platform for the Web</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/tokio#1744588800</id>
+    <title>https://github.com/tokio-rs/tokio</title>
+    <link href="https://github.com/tokio-rs/tokio" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tuananh/hyper-mcp#1744588800</id>
+    <title>https://github.com/tuananh/hyper-mcp</title>
+    <link href="https://github.com/tuananh/hyper-mcp" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">A fast, secure MCP server that extends its capabilities through WebAssembly plugins.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tursodatabase/limbo#1744588800</id>
+    <title>https://github.com/tursodatabase/limbo</title>
+    <link href="https://github.com/tursodatabase/limbo" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Limbo is a project to build the modern evolution of SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1744588800</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

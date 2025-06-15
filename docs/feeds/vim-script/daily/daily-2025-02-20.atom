@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1740009600</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VundleVim/Vundle.vim#1740009600</id>
+    <title>https://github.com/VundleVim/Vundle.vim</title>
+    <link href="https://github.com/VundleVim/Vundle.vim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Vundle, the plug-in manager for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/amix/vimrc#1740009600</id>
+    <title>https://github.com/amix/vimrc</title>
+    <link href="https://github.com/amix/vimrc" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The ultimate Vim configuration (vimrc)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1740009600</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dense-analysis/ale#1740009600</id>
+    <title>https://github.com/dense-analysis/ale</title>
+    <link href="https://github.com/dense-analysis/ale" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ggml-org/llama.vim#1740009600</id>
+    <title>https://github.com/ggml-org/llama.vim</title>
+    <link href="https://github.com/ggml-org/llama.vim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Vim plugin for LLM-assisted code/text completion</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-completion#1740009600</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-completion</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-completion" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Database autocompletion powered by https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moll/vim-bbye#1740009600</id>
+    <title>https://github.com/moll/vim-bbye</title>
+    <link href="https://github.com/moll/vim-bbye" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Delete buffers and close files in Vim without closing your windows or messing up your layout. Like Bclose.vim, but rewritten and well maintained.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neomake/neomake#1740009600</id>
+    <title>https://github.com/neomake/neomake</title>
+    <link href="https://github.com/neomake/neomake" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Asynchronous linting and make framework for Neovim/Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pearofducks/ansible-vim#1740009600</id>
+    <title>https://github.com/pearofducks/ansible-vim</title>
+    <link href="https://github.com/pearofducks/ansible-vim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A vim plugin for syntax highlighting Ansible's common filetypes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete-lsp.vim#1740009600</id>
+    <title>https://github.com/prabirshrestha/asyncomplete-lsp.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete.vim#1740009600</id>
+    <title>https://github.com/prabirshrestha/asyncomplete.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete.vim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">async completion in pure vim script for vim8 and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1740009600</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-fugitive#1740009600</id>
+    <title>https://github.com/tpope/vim-fugitive</title>
+    <link href="https://github.com/tpope/vim-fugitive" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">fugitive.vim: A Git wrapper so awesome, it should be illegal</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-rails#1740009600</id>
+    <title>https://github.com/tpope/vim-rails</title>
+    <link href="https://github.com/tpope/vim-rails" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">rails.vim: Ruby on Rails power tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1740009600</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-ruby/vim-ruby#1740009600</id>
+    <title>https://github.com/vim-ruby/vim-ruby</title>
+    <link href="https://github.com/vim-ruby/vim-ruby" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">Vim/Ruby Configuration Files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1740009600</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-02-20T00:00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+</feed>

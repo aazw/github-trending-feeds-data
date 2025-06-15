@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom</id>
+  <title>GitHub Trending - vim-script (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/christoomey/vim-tmux-navigator#1745798400</id>
+    <title>https://github.com/christoomey/vim-tmux-navigator</title>
+    <link href="https://github.com/christoomey/vim-tmux-navigator" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Seamless navigation between tmux panes and vim splits</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-vim#1745798400</id>
+    <title>https://github.com/editorconfig/editorconfig-vim</title>
+    <link href="https://github.com/editorconfig/editorconfig-vim" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">EditorConfig plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fatih/vim-go#1745798400</id>
+    <title>https://github.com/fatih/vim-go</title>
+    <link href="https://github.com/fatih/vim-go" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Go development plugin for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/vim-plug#1745798400</id>
+    <title>https://github.com/junegunn/vim-plug</title>
+    <link href="https://github.com/junegunn/vim-plug" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">🌺 Minimalist Vim Plugin Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lambdalisue/vim-fern#1745798400</id>
+    <title>https://github.com/lambdalisue/vim-fern</title>
+    <link href="https://github.com/lambdalisue/vim-fern" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">🌿 General purpose asynchronous tree viewer written in Pure Vim script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/machakann/vim-highlightedyank#1745798400</id>
+    <title>https://github.com/machakann/vim-highlightedyank</title>
+    <link href="https://github.com/machakann/vim-highlightedyank" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Make the yanked region apparent!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1745798400</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1745798400</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/othree/html5.vim#1745798400</id>
+    <title>https://github.com/othree/html5.vim</title>
+    <link href="https://github.com/othree/html5.vim" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">HTML5 omnicomplete and syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voldikss/vim-floaterm#1745798400</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
+  </entry>
+</feed>

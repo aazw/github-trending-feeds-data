@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shaderlab/weekly.atom</id>
+  <title>GitHub Trending - shaderlab (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shaderlab/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/poiyomi/PoiyomiToonShader#1749427200</id>
+    <title>https://github.com/poiyomi/PoiyomiToonShader</title>
+    <link href="https://github.com/poiyomi/PoiyomiToonShader" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">A feature rich toon shader for unity and VR Chat</content>
+  </entry>
+  <entry>
+    <id>https://github.com/soupday/cc_unity_tools_URP#1749427200</id>
+    <title>https://github.com/soupday/cc_unity_tools_URP</title>
+    <link href="https://github.com/soupday/cc_unity_tools_URP" />
+    <updated>2025-06-09T00:00:00</updated>
+    <content type="text">Package for importing and auto setup of Character Creator (3 &amp; 4) and iClone (7 &amp; 8) character exports for Unity URP Pipeline. Note: Development of the CC/iC Unity Tools has moved to a single version for all pipelines:</content>
+  </entry>
+</feed>

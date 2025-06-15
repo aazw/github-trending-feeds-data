@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/restructuredtext/daily.atom</id>
+  <title>GitHub Trending - restructuredtext (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/restructuredtext/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-26T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/godotengine/godot-docs#1748217600</id>
+    <title>https://github.com/godotengine/godot-docs</title>
+    <link href="https://github.com/godotengine/godot-docs" />
+    <updated>2025-05-26T00:00:00</updated>
+    <content type="text">Godot Engine official documentation</content>
+  </entry>
+</feed>

@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom</id>
+  <title>GitHub Trending - coffeescript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/coffeescript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/FelisCatus/SwitchyOmega#1738540800</id>
+    <title>https://github.com/FelisCatus/SwitchyOmega</title>
+    <link href="https://github.com/FelisCatus/SwitchyOmega" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">No longer maintained, see pinned issues</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atom/tabs#1738540800</id>
+    <title>https://github.com/atom/tabs</title>
+    <link href="https://github.com/atom/tabs" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Tabs in Atom</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ccd0/4chan-x#1738540800</id>
+    <title>https://github.com/ccd0/4chan-x</title>
+    <link href="https://github.com/ccd0/4chan-x" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Adds various features to anonymous imageboards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dropbox/zxcvbn#1738540800</id>
+    <title>https://github.com/dropbox/zxcvbn</title>
+    <link href="https://github.com/dropbox/zxcvbn" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Low-Budget Password Strength Estimation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fbsamples/graph-api-webhooks-samples#1738540800</id>
+    <title>https://github.com/fbsamples/graph-api-webhooks-samples</title>
+    <link href="https://github.com/fbsamples/graph-api-webhooks-samples" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">These are sample clients for Facebook's Graph API Webhooks and Instagram's Real-time Photo Updates API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oozcitak/xmlbuilder-js#1738540800</id>
+    <title>https://github.com/oozcitak/xmlbuilder-js</title>
+    <link href="https://github.com/oozcitak/xmlbuilder-js" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">An XML builder for node.js</content>
+  </entry>
+</feed>

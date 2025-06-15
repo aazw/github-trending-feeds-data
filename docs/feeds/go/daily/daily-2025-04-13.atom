@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AdguardTeam/AdGuardHome#1744502400</id>
+    <title>https://github.com/AdguardTeam/AdGuardHome</title>
+    <link href="https://github.com/AdguardTeam/AdGuardHome" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Network-wide ads &amp; trackers blocking DNS server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DiceDB/dice#1744502400</id>
+    <title>https://github.com/DiceDB/dice</title>
+    <link href="https://github.com/DiceDB/dice" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">DiceDB is an open-source, fast, reactive, in-memory database optimized for modern hardware.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SagerNet/sing-box#1744502400</id>
+    <title>https://github.com/SagerNet/sing-box</title>
+    <link href="https://github.com/SagerNet/sing-box" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">The universal proxy platform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XIU2/CloudflareSpeedTest#1744502400</id>
+    <title>https://github.com/XIU2/CloudflareSpeedTest</title>
+    <link href="https://github.com/XIU2/CloudflareSpeedTest" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP ！当然也支持其他 CDN / 网站 IP ~</content>
+  </entry>
+  <entry>
+    <id>https://github.com/authelia/authelia#1744502400</id>
+    <title>https://github.com/authelia/authelia</title>
+    <link href="https://github.com/authelia/authelia" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">The Single Sign-On Multi-Factor portal for web apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fyne-io/fyne#1744502400</id>
+    <title>https://github.com/fyne-io/fyne</title>
+    <link href="https://github.com/fyne-io/fyne" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Cross platform GUI toolkit in Go inspired by Material Design</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gofr-dev/gofr#1744502400</id>
+    <title>https://github.com/gofr-dev/gofr</title>
+    <link href="https://github.com/gofr-dev/gofr" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gohugoio/hugo#1744502400</id>
+    <title>https://github.com/gohugoio/hugo</title>
+    <link href="https://github.com/gohugoio/hugo" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">The world’s fastest framework for building websites.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/google-cloud-go#1744502400</id>
+    <title>https://github.com/googleapis/google-cloud-go</title>
+    <link href="https://github.com/googleapis/google-cloud-go" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Google Cloud Client Libraries for Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazygit#1744502400</id>
+    <title>https://github.com/jesseduffield/lazygit</title>
+    <link href="https://github.com/jesseduffield/lazygit" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">simple terminal UI for git commands</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juicedata/juicefs#1744502400</id>
+    <title>https://github.com/juicedata/juicefs</title>
+    <link href="https://github.com/juicedata/juicefs" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">JuiceFS is a distributed POSIX file system built on top of Redis and S3.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/keploy/keploy#1744502400</id>
+    <title>https://github.com/keploy/keploy</title>
+    <link href="https://github.com/keploy/keploy" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Unit, API &amp; Integration Testing Agent for Developers. Generate tests, mocks/stubs for your APIs that actually work!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/krillinai/KrillinAI#1744502400</id>
+    <title>https://github.com/krillinai/KrillinAI</title>
+    <link href="https://github.com/krillinai/KrillinAI" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minio/minio#1744502400</id>
+    <title>https://github.com/minio/minio</title>
+    <link href="https://github.com/minio/minio" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/navidrome/navidrome#1744502400</id>
+    <title>https://github.com/navidrome/navidrome</title>
+    <link href="https://github.com/navidrome/navidrome" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">🎧☁️ Your Personal Streaming Service</content>
+  </entry>
+  <entry>
+    <id>https://github.com/quic-go/quic-go#1744502400</id>
+    <title>https://github.com/quic-go/quic-go</title>
+    <link href="https://github.com/quic-go/quic-go" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">A QUIC implementation in pure Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1744502400</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/v2ray/v2ray-core#1744502400</id>
+    <title>https://github.com/v2ray/v2ray-core</title>
+    <link href="https://github.com/v2ray/v2ray-core" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">A platform for building proxies to bypass network restrictions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yorukot/superfile#1744502400</id>
+    <title>https://github.com/yorukot/superfile</title>
+    <link href="https://github.com/yorukot/superfile" />
+    <updated>2025-04-13T00:00:00</updated>
+    <content type="text">Pretty fancy and modern terminal file manager</content>
+  </entry>
+</feed>

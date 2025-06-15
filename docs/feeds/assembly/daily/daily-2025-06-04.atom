@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/assembly/daily.atom</id>
+  <title>GitHub Trending - assembly (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/assembly/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xAX/asm#1748995200</id>
+    <title>https://github.com/0xAX/asm</title>
+    <link href="https://github.com/0xAX/asm" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Learning assembly for Linux x86_64</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PRoX2011/x16-PRos#1748995200</id>
+    <title>https://github.com/PRoX2011/x16-PRos</title>
+    <link href="https://github.com/PRoX2011/x16-PRos" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Simple 16bit operating system writen in NASM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/MIOpen#1748995200</id>
+    <title>https://github.com/ROCm/MIOpen</title>
+    <link href="https://github.com/ROCm/MIOpen" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">AMD's Machine Intelligence Library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/hipBLASLt#1748995200</id>
+    <title>https://github.com/ROCm/hipBLASLt</title>
+    <link href="https://github.com/ROCm/hipBLASLt" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">hipBLASLt is a library that provides general matrix-matrix operations with a flexible API and extends functionalities beyond a traditional BLAS library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rangi42/polishedcrystal#1748995200</id>
+    <title>https://github.com/Rangi42/polishedcrystal</title>
+    <link href="https://github.com/Rangi42/polishedcrystal" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">An upgrade to Pokémon Crystal. Brings features and content up to date, and adds some original content.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-crypto#1748995200</id>
+    <title>https://github.com/apple/swift-crypto</title>
+    <link href="https://github.com/apple/swift-crypto" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Open-source implementation of a substantial portion of the API of Apple CryptoKit suitable for use on Linux platforms.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apple/swift-nio-ssl#1748995200</id>
+    <title>https://github.com/apple/swift-nio-ssl</title>
+    <link href="https://github.com/apple/swift-nio-ssl" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">TLS Support for SwiftNIO, based on BoringSSL.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-lc#1748995200</id>
+    <title>https://github.com/aws/aws-lc</title>
+    <link href="https://github.com/aws/aws-lc" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">AWS-LC is a general-purpose cryptographic library maintained by the AWS Cryptography team for AWS and their customers. It іs based on code from the Google BoringSSL project and the OpenSSL project.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/boostorg/context#1748995200</id>
+    <title>https://github.com/boostorg/context</title>
+    <link href="https://github.com/boostorg/context" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/espressif/esp-dl#1748995200</id>
+    <title>https://github.com/espressif/esp-dl</title>
+    <link href="https://github.com/espressif/esp-dl" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Espressif deep-learning library for AIoT applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/giaf/blasfeo#1748995200</id>
+    <title>https://github.com/giaf/blasfeo</title>
+    <link href="https://github.com/giaf/blasfeo" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Basic linear algebra subroutines for embedded optimization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netwide-assembler/nasm#1748995200</id>
+    <title>https://github.com/netwide-assembler/nasm</title>
+    <link href="https://github.com/netwide-assembler/nasm" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">A cross-platform x86 assembler with an Intel-like syntax</content>
+  </entry>
+  <entry>
+    <id>https://github.com/omerfaruk-aran/esphome_samsung_hvac_bus#1748995200</id>
+    <title>https://github.com/omerfaruk-aran/esphome_samsung_hvac_bus</title>
+    <link href="https://github.com/omerfaruk-aran/esphome_samsung_hvac_bus" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">ESPHome Samsung HVAC Integration is an ESPHome component that connects and controls Samsung HVAC units (air conditioners and heat pumps) via a hardware bus (F1/F2 lines). It supports both NASA and NonNASA protocols, enabling multisplit control, temperature monitoring, energy tracking, and real-time notifications, enhancing your smart home setup.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openhwgroup/cva6#1748995200</id>
+    <title>https://github.com/openhwgroup/cva6</title>
+    <link href="https://github.com/openhwgroup/cva6" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">The CORE-V CVA6 is an Application class 6-stage RISC-V CPU capable of booting Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pret/pokecrystal#1748995200</id>
+    <title>https://github.com/pret/pokecrystal</title>
+    <link href="https://github.com/pret/pokecrystal" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Disassembly of Pokémon Crystal</content>
+  </entry>
+</feed>

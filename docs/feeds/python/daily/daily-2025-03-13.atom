@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-13T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/AgentOps-AI/agentops#1741824000</id>
+    <title>https://github.com/AgentOps-AI/agentops</title>
+    <link href="https://github.com/AgentOps-AI/agentops" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including OpenAI Agents SDK, CrewAI, Langchain, Autogen, AG2, and CamelAI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Blaizzy/mlx-vlm#1741824000</id>
+    <title>https://github.com/Blaizzy/mlx-vlm</title>
+    <link href="https://github.com/Blaizzy/mlx-vlm" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/browser-use/browser-use#1741824000</id>
+    <title>https://github.com/browser-use/browser-use</title>
+    <link href="https://github.com/browser-use/browser-use" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Make websites accessible for AI agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/camel-ai/camel#1741824000</id>
+    <title>https://github.com/camel-ai/camel</title>
+    <link href="https://github.com/camel-ai/camel" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">🐫 CAMEL: Finding the Scaling Law of Agents. The first and the best multi-agent framework. https://www.camel-ai.org</content>
+  </entry>
+  <entry>
+    <id>https://github.com/comet-ml/opik#1741824000</id>
+    <title>https://github.com/comet-ml/opik</title>
+    <link href="https://github.com/comet-ml/opik" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/eosphoros-ai/DB-GPT#1741824000</id>
+    <title>https://github.com/eosphoros-ai/DB-GPT</title>
+    <link href="https://github.com/eosphoros-ai/DB-GPT" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/lerobot#1741824000</id>
+    <title>https://github.com/huggingface/lerobot</title>
+    <link href="https://github.com/huggingface/lerobot" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/RD-Agent#1741824000</id>
+    <title>https://github.com/microsoft/RD-Agent</title>
+    <link href="https://github.com/microsoft/RD-Agent" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Research and development (R&amp;D) is crucial for the enhancement of industrial productivity, especially in the AI era, where the core aspects of R&amp;D are mainly focused on data and models. We are committed to automating these high-value generic R&amp;D processes through our open source R&amp;D automation tool RD-Agent, which lets AI drive data-driven AI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/TRELLIS#1741824000</id>
+    <title>https://github.com/microsoft/TRELLIS</title>
+    <link href="https://github.com/microsoft/TRELLIS" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openai/swarm#1741824000</id>
+    <title>https://github.com/openai/swarm</title>
+    <link href="https://github.com/openai/swarm" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/public-apis/public-apis#1741824000</id>
+    <title>https://github.com/public-apis/public-apis</title>
+    <link href="https://github.com/public-apis/public-apis" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">A collective list of free APIs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/thalissonvs/pydoll#1741824000</id>
+    <title>https://github.com/thalissonvs/pydoll</title>
+    <link href="https://github.com/thalissonvs/pydoll" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Pydoll is a library for automating chromium-based browsers without a WebDriver, offering realistic interactions. It supports Python's asynchronous features, enhancing performance and enabling event capturing and simultaneous web scraping.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuruotong1/autoMate#1741824000</id>
+    <title>https://github.com/yuruotong1/autoMate</title>
+    <link href="https://github.com/yuruotong1/autoMate" />
+    <updated>2025-03-13T00:00:00</updated>
+    <content type="text">Like Manus, Computer Use Agent(CUA) and Omniparser, we are computer-using agents.AI-driven local automation assistant that uses natural language to make computers work by themselves</content>
+  </entry>
+</feed>

@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Orange-OpenSource/hurl#1747699200</id>
+    <title>https://github.com/Orange-OpenSource/hurl</title>
+    <link href="https://github.com/Orange-OpenSource/hurl" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Hurl, run and test HTTP requests with plain text.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1747699200</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alloy-rs/alloy#1747699200</id>
+    <title>https://github.com/alloy-rs/alloy</title>
+    <link href="https://github.com/alloy-rs/alloy" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Transports, Middleware, and Networks for the Alloy project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1747699200</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ekzhang/bore#1747699200</id>
+    <title>https://github.com/ekzhang/bore</title>
+    <link href="https://github.com/ekzhang/bore" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">🕳 bore is a simple CLI tool for making tunnels to localhost</content>
+  </entry>
+  <entry>
+    <id>https://github.com/epi052/feroxbuster#1747699200</id>
+    <title>https://github.com/epi052/feroxbuster</title>
+    <link href="https://github.com/epi052/feroxbuster" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">A fast, simple, recursive content discovery tool written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/pyrefly#1747699200</id>
+    <title>https://github.com/facebook/pyrefly</title>
+    <link href="https://github.com/facebook/pyrefly" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">A fast type checker and IDE for Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/text-embeddings-inference#1747699200</id>
+    <title>https://github.com/huggingface/text-embeddings-inference</title>
+    <link href="https://github.com/huggingface/text-embeddings-inference" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">A blazing fast inference solution for text embeddings models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jtroo/kanata#1747699200</id>
+    <title>https://github.com/jtroo/kanata</title>
+    <link href="https://github.com/jtroo/kanata" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Improve keyboard comfort and usability with advanced customization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/launchbadge/sqlx#1747699200</id>
+    <title>https://github.com/launchbadge/sqlx</title>
+    <link href="https://github.com/launchbadge/sqlx" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moghtech/komodo#1747699200</id>
+    <title>https://github.com/moghtech/komodo</title>
+    <link href="https://github.com/moghtech/komodo" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">🦎 a tool to build and deploy software on many servers 🦎</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-windowing/winit#1747699200</id>
+    <title>https://github.com/rust-windowing/winit</title>
+    <link href="https://github.com/rust-windowing/winit" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Window handling library in pure Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tursodatabase/limbo#1747699200</id>
+    <title>https://github.com/tursodatabase/limbo</title>
+    <link href="https://github.com/tursodatabase/limbo" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Limbo is a project to build the modern evolution of SQLite.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1747699200</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+</feed>

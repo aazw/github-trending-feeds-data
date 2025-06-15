@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/0xPlaygrounds/rig#1742428800</id>
+    <title>https://github.com/0xPlaygrounds/rig</title>
+    <link href="https://github.com/0xPlaygrounds/rig" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">⚙️🦀 Build portable, modular &amp; lightweight Fullstack Agents</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EricLBuehler/mistral.rs#1742428800</id>
+    <title>https://github.com/EricLBuehler/mistral.rs</title>
+    <link href="https://github.com/EricLBuehler/mistral.rs" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Blazingly fast LLM inference.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Rust-GPU/Rust-CUDA#1742428800</id>
+    <title>https://github.com/Rust-GPU/Rust-CUDA</title>
+    <link href="https://github.com/Rust-GPU/Rust-CUDA" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Ecosystem of libraries and tools for writing and executing fast GPU code fully in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1742428800</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/amazon-q-developer-cli#1742428800</id>
+    <title>https://github.com/aws/amazon-q-developer-cli</title>
+    <link href="https://github.com/aws/amazon-q-developer-cli" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Add autocomplete and AI to your existing terminal on macOS &amp; Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/block/goose#1742428800</id>
+    <title>https://github.com/block/goose</title>
+    <link href="https://github.com/block/goose" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dfinity/ic#1742428800</id>
+    <title>https://github.com/dfinity/ic</title>
+    <link href="https://github.com/dfinity/ic" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Internet Computer blockchain source: the client/replica software run by nodes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emmett-framework/granian#1742428800</id>
+    <title>https://github.com/emmett-framework/granian</title>
+    <link href="https://github.com/emmett-framework/granian" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A Rust HTTP server for Python applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gitbutlerapp/gitbutler#1742428800</id>
+    <title>https://github.com/gitbutlerapp/gitbutler</title>
+    <link href="https://github.com/gitbutlerapp/gitbutler" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1742428800</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nushell/nushell#1742428800</id>
+    <title>https://github.com/nushell/nushell</title>
+    <link href="https://github.com/nushell/nushell" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A new type of shell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradedb/paradedb#1742428800</id>
+    <title>https://github.com/paradedb/paradedb</title>
+    <link href="https://github.com/paradedb/paradedb" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Postgres for Search and Analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1742428800</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rerun-io/rerun#1742428800</id>
+    <title>https://github.com/rerun-io/rerun</title>
+    <link href="https://github.com/rerun-io/rerun" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Visualize streams of multimodal data. Free, fast, easy to use, and simple to integrate. Built in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/bat#1742428800</id>
+    <title>https://github.com/sharkdp/bat</title>
+    <link href="https://github.com/sharkdp/bat" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A cat(1) clone with wings.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/fd#1742428800</id>
+    <title>https://github.com/sharkdp/fd</title>
+    <link href="https://github.com/sharkdp/fd" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A simple, fast and user-friendly alternative to 'find'</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sharkdp/hyperfine#1742428800</id>
+    <title>https://github.com/sharkdp/hyperfine</title>
+    <link href="https://github.com/sharkdp/hyperfine" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A command-line benchmarking tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vectordotdev/vector#1742428800</id>
+    <title>https://github.com/vectordotdev/vector</title>
+    <link href="https://github.com/vectordotdev/vector" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A high-performance observability data pipeline.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1742428800</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zellij-org/zellij#1742428800</id>
+    <title>https://github.com/zellij-org/zellij</title>
+    <link href="https://github.com/zellij-org/zellij" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A terminal workspace with batteries included</content>
+  </entry>
+</feed>

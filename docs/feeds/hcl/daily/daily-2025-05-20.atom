@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric#1747699200</id>
+    <title>https://github.com/GoogleCloudPlatform/cloud-foundation-fabric</title>
+    <link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">End-to-end modular samples and landing zones toolkit for Terraform on GCP.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/cluster-toolkit#1747699200</id>
+    <title>https://github.com/GoogleCloudPlatform/cluster-toolkit</title>
+    <link href="https://github.com/GoogleCloudPlatform/cluster-toolkit" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Cluster Toolkit is an open-source software offered by Google Cloud which makes it easy for customers to deploy AI/ML and HPC environments on Google Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1747699200</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-eks-blueprints#1747699200</id>
+    <title>https://github.com/aws-ia/terraform-aws-eks-blueprints</title>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Configure and deploy complete EKS clusters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons#1747699200</id>
+    <title>https://github.com/aws-ia/terraform-aws-eks-blueprints-addons</title>
+    <link href="https://github.com/aws-ia/terraform-aws-eks-blueprints-addons" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Terraform module which provisions addons on Amazon EKS clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn#1747699200</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudfront-s3-cdn" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Terraform module to easily provision CloudFront CDN backed by an S3 origin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task#1747699200</id>
+    <title>https://github.com/cloudposse/terraform-aws-ecs-alb-service-task</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ecs-alb-service-task" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Terraform module which implements an ECS service which exposes a web service via ALB.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-s3-log-storage#1747699200</id>
+    <title>https://github.com/cloudposse/terraform-aws-s3-log-storage</title>
+    <link href="https://github.com/cloudposse/terraform-aws-s3-log-storage" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">This module creates an S3 bucket suitable for receiving logs from other AWS services such as S3, CloudFront, and CloudTrail</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ec2-instance#1747699200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ec2-instance</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ec2-instance" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Terraform module to create AWS EC2 instance(s) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-ecs#1747699200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-ecs</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-ecs" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Terraform module to create AWS ECS resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1747699200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-lambda#1747699200</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-lambda</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-lambda" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine#1747699200</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kubernetes-engine</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Configures opinionated GKE clusters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-sql-db#1747699200</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-sql-db</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-sql-db" />
+    <updated>2025-05-20T00:00:00</updated>
+    <content type="text">Creates a Cloud SQL database instance</content>
+  </entry>
+</feed>

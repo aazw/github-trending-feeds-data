@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom</id>
+  <title>GitHub Trending - smalltalk (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-23T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/feenkcom/gtoolkit#1742688000</id>
+    <title>https://github.com/feenkcom/gtoolkit</title>
+    <link href="https://github.com/feenkcom/gtoolkit" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Glamorous Toolkit is the Moldable Development environment. It empowers you to make systems explainable through experiences tailored for each problem.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pharo-contributions/OSSubprocess#1742688000</id>
+    <title>https://github.com/pharo-contributions/OSSubprocess</title>
+    <link href="https://github.com/pharo-contributions/OSSubprocess" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Forking Operating System Processes from within Pharo Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pharo-project/pharo#1742688000</id>
+    <title>https://github.com/pharo-project/pharo</title>
+    <link href="https://github.com/pharo-project/pharo" />
+    <updated>2025-03-23T00:00:00</updated>
+    <content type="text">Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.</content>
+  </entry>
+</feed>

@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom</id>
+  <title>GitHub Trending - starlark (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/distroless#1748736000</id>
+    <title>https://github.com/GoogleContainerTools/distroless</title>
+    <link href="https://github.com/GoogleContainerTools/distroless" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">🥑 Language focused docker images, minus the operating system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleContainerTools/rules_distroless#1748736000</id>
+    <title>https://github.com/GoogleContainerTools/rules_distroless</title>
+    <link href="https://github.com/GoogleContainerTools/rules_distroless" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/aspect-build/bazel-examples#1748736000</id>
+    <title>https://github.com/aspect-build/bazel-examples</title>
+    <link href="https://github.com/aspect-build/bazel-examples" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Bazel examples</content>
+  </entry>
+  <entry>
+    <id>https://github.com/atlassian/bazel-tools#1748736000</id>
+    <title>https://github.com/atlassian/bazel-tools</title>
+    <link href="https://github.com/atlassian/bazel-tools" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Reusable bits for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazel-contrib/rules_python#1748736000</id>
+    <title>https://github.com/bazel-contrib/rules_python</title>
+    <link href="https://github.com/bazel-contrib/rules_python" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Bazel Python Rules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-central-registry#1748736000</id>
+    <title>https://github.com/bazelbuild/bazel-central-registry</title>
+    <link href="https://github.com/bazelbuild/bazel-central-registry" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">The central registry of Bazel modules for the Bzlmod external dependency system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/bazel-skylib#1748736000</id>
+    <title>https://github.com/bazelbuild/bazel-skylib</title>
+    <link href="https://github.com/bazelbuild/bazel-skylib" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Common useful functions and rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/examples#1748736000</id>
+    <title>https://github.com/bazelbuild/examples</title>
+    <link href="https://github.com/bazelbuild/examples" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Examples for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_appengine#1748736000</id>
+    <title>https://github.com/bazelbuild/rules_appengine</title>
+    <link href="https://github.com/bazelbuild/rules_appengine" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">AppEngine rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_apple#1748736000</id>
+    <title>https://github.com/bazelbuild/rules_apple</title>
+    <link href="https://github.com/bazelbuild/rules_apple" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Bazel rules to build apps for Apple platforms.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_cc#1748736000</id>
+    <title>https://github.com/bazelbuild/rules_cc</title>
+    <link href="https://github.com/bazelbuild/rules_cc" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">C++ Rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bazelbuild/rules_proto#1748736000</id>
+    <title>https://github.com/bazelbuild/rules_proto</title>
+    <link href="https://github.com/bazelbuild/rules_proto" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Protocol buffer rules for Bazel</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ethpandaops/ethereum-package#1748736000</id>
+    <title>https://github.com/ethpandaops/ethereum-package</title>
+    <link href="https://github.com/ethpandaops/ethereum-package" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">A Kurtosis package that deploys a private, portable, and modular Ethereum devnet</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/api-common-protos#1748736000</id>
+    <title>https://github.com/googleapis/api-common-protos</title>
+    <link href="https://github.com/googleapis/api-common-protos" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">A standard library for use in specifying protocol buffer APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/googleapis/googleapis#1748736000</id>
+    <title>https://github.com/googleapis/googleapis</title>
+    <link href="https://github.com/googleapis/googleapis" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Public interface definitions of Google APIs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-proto#1748736000</id>
+    <title>https://github.com/grpc/grpc-proto</title>
+    <link href="https://github.com/grpc/grpc-proto" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jvolkman/rules_pycross#1748736000</id>
+    <title>https://github.com/jvolkman/rules_pycross</title>
+    <link href="https://github.com/jvolkman/rules_pycross" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">Bazel + Python rules for cross-platform external dependencies</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openconfig/gnoi#1748736000</id>
+    <title>https://github.com/openconfig/gnoi</title>
+    <link href="https://github.com/openconfig/gnoi" />
+    <updated>2025-06-01T00:00:00</updated>
+    <content type="text">gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.</content>
+  </entry>
+</feed>

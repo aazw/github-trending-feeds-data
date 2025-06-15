@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Melkeydev/go-blueprint#1740700800</id>
+    <title>https://github.com/Melkeydev/go-blueprint</title>
+    <link href="https://github.com/Melkeydev/go-blueprint" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Go-blueprint allows users to spin up a quick Go project using a popular framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/k8s-device-plugin#1740700800</id>
+    <title>https://github.com/NVIDIA/k8s-device-plugin</title>
+    <link href="https://github.com/NVIDIA/k8s-device-plugin" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">NVIDIA device plugin for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1740700800</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/charmbracelet/bubbletea#1740700800</id>
+    <title>https://github.com/charmbracelet/bubbletea</title>
+    <link href="https://github.com/charmbracelet/bubbletea" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">A powerful little TUI framework 🏗</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cosmos/cosmos-sdk#1740700800</id>
+    <title>https://github.com/cosmos/cosmos-sdk</title>
+    <link href="https://github.com/cosmos/cosmos-sdk" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">⛓️ A Framework for Building High Value Public Blockchains ✨</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dolthub/dolt#1740700800</id>
+    <title>https://github.com/dolthub/dolt</title>
+    <link href="https://github.com/dolthub/dolt" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Dolt – Git for Data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ent/ent#1740700800</id>
+    <title>https://github.com/ent/ent</title>
+    <link href="https://github.com/ent/ent" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">An entity framework for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/expr-lang/expr#1740700800</id>
+    <title>https://github.com/expr-lang/expr</title>
+    <link href="https://github.com/expr-lang/expr" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Expression language and expression evaluation for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsops/sops#1740700800</id>
+    <title>https://github.com/getsops/sops</title>
+    <link href="https://github.com/getsops/sops" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Simple and flexible tool for managing secrets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1740700800</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golangci/golangci-lint#1740700800</id>
+    <title>https://github.com/golangci/golangci-lint</title>
+    <link href="https://github.com/golangci/golangci-lint" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Fast linters runner for Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/pprof#1740700800</id>
+    <title>https://github.com/google/pprof</title>
+    <link href="https://github.com/google/pprof" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">pprof is a tool for visualization and analysis of profiling data</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goreleaser/goreleaser#1740700800</id>
+    <title>https://github.com/goreleaser/goreleaser</title>
+    <link href="https://github.com/goreleaser/goreleaser" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Release engineering, simplified</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform#1740700800</id>
+    <title>https://github.com/hashicorp/terraform</title>
+    <link href="https://github.com/hashicorp/terraform" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/milvus-io/milvus#1740700800</id>
+    <title>https://github.com/milvus-io/milvus</title>
+    <link href="https://github.com/milvus-io/milvus" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1740700800</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opentofu/opentofu#1740700800</id>
+    <title>https://github.com/opentofu/opentofu</title>
+    <link href="https://github.com/opentofu/opentofu" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">OpenTofu lets you declaratively manage your cloud infrastructure.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semaphoreui/semaphore#1740700800</id>
+    <title>https://github.com/semaphoreui/semaphore</title>
+    <link href="https://github.com/semaphoreui/semaphore" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Modern UI and powerful API for Ansible, Terraform, OpenTofu, PowerShell and other DevOps tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/usememos/memos#1740700800</id>
+    <title>https://github.com/usememos/memos</title>
+    <link href="https://github.com/usememos/memos" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zalando/postgres-operator#1740700800</id>
+    <title>https://github.com/zalando/postgres-operator</title>
+    <link href="https://github.com/zalando/postgres-operator" />
+    <updated>2025-02-28T00:00:00</updated>
+    <content type="text">Postgres operator creates and manages PostgreSQL clusters running in Kubernetes</content>
+  </entry>
+</feed>

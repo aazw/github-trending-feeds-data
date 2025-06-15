@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GitoxideLabs/gitoxide#1737676800</id>
+    <title>https://github.com/GitoxideLabs/gitoxide</title>
+    <link href="https://github.com/GitoxideLabs/gitoxide" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">An idiomatic, lean, fast &amp; safe pure Rust implementation of Git</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RustAudio/cpal#1737676800</id>
+    <title>https://github.com/RustAudio/cpal</title>
+    <link href="https://github.com/RustAudio/cpal" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Cross-platform audio I/O library in pure Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Schniz/fnm#1737676800</id>
+    <title>https://github.com/Schniz/fnm</title>
+    <link href="https://github.com/Schniz/fnm" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">🚀 Fast and simple Node.js version manager, built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1737676800</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astral-sh/uv#1737676800</id>
+    <title>https://github.com/astral-sh/uv</title>
+    <link href="https://github.com/astral-sh/uv" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">An extremely fast Python package and project manager, written in Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudflare/pingora#1737676800</id>
+    <title>https://github.com/cloudflare/pingora</title>
+    <link href="https://github.com/cloudflare/pingora" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A library for building fast, reliable and evolvable network services.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/denoland/deno#1737676800</id>
+    <title>https://github.com/denoland/deno</title>
+    <link href="https://github.com/denoland/deno" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A modern runtime for JavaScript and TypeScript.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jito-foundation/jito-solana#1737676800</id>
+    <title>https://github.com/jito-foundation/jito-solana</title>
+    <link href="https://github.com/jito-foundation/jito-solana" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Jito Foundation MEV Solana Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/linera-io/linera-protocol#1737676800</id>
+    <title>https://github.com/linera-io/linera-protocol</title>
+    <link href="https://github.com/linera-io/linera-protocol" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Main repository for the Linera protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openobserve/openobserve#1737676800</id>
+    <title>https://github.com/openobserve/openobserve</title>
+    <link href="https://github.com/openobserve/openobserve" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance, 🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paradigmxyz/reth#1737676800</id>
+    <title>https://github.com/paradigmxyz/reth</title>
+    <link href="https://github.com/paradigmxyz/reth" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Modular, contributor-friendly and blazing-fast implementation of the Ethereum protocol, in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/piotrostr/listen#1737676800</id>
+    <title>https://github.com/piotrostr/listen</title>
+    <link href="https://github.com/piotrostr/listen" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Solana Swiss Army Knife</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pola-rs/polars#1737676800</id>
+    <title>https://github.com/pola-rs/polars</title>
+    <link href="https://github.com/pola-rs/polars" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Dataframes powered by a multithreaded, vectorized query engine, written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prefix-dev/pixi#1737676800</id>
+    <title>https://github.com/prefix-dev/pixi</title>
+    <link href="https://github.com/prefix-dev/pixi" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Package management made easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qdrant/qdrant#1737676800</id>
+    <title>https://github.com/qdrant/qdrant</title>
+    <link href="https://github.com/qdrant/qdrant" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Qdrant - High-performance, massive-scale Vector Database and Vector Search Engine for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapiz1/rathole#1737676800</id>
+    <title>https://github.com/rapiz1/rathole</title>
+    <link href="https://github.com/rapiz1/rathole" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1737676800</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustls/rustls#1737676800</id>
+    <title>https://github.com/rustls/rustls</title>
+    <link href="https://github.com/rustls/rustls" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A modern TLS library in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seanmonstar/reqwest#1737676800</id>
+    <title>https://github.com/seanmonstar/reqwest</title>
+    <link href="https://github.com/seanmonstar/reqwest" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">An easy and powerful Rust HTTP Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1737676800</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/tauri#1737676800</id>
+    <title>https://github.com/tauri-apps/tauri</title>
+    <link href="https://github.com/tauri-apps/tauri" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/typst/typst#1737676800</id>
+    <title>https://github.com/typst/typst</title>
+    <link href="https://github.com/typst/typst" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">A new markup-based typesetting system that is powerful and easy to learn.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zed-industries/zed#1737676800</id>
+    <title>https://github.com/zed-industries/zed</title>
+    <link href="https://github.com/zed-industries/zed" />
+    <updated>2025-01-24T00:00:00</updated>
+    <content type="text">Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.</content>
+  </entry>
+</feed>

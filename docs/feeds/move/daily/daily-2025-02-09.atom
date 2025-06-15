@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/move/daily.atom</id>
+  <title>GitHub Trending - move (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/move/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/LayerZero-Labs/LayerZero-v2#1739059200</id>
+    <title>https://github.com/LayerZero-Labs/LayerZero-v2</title>
+    <link href="https://github.com/LayerZero-Labs/LayerZero-v2" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/deepbookv3#1739059200</id>
+    <title>https://github.com/MystenLabs/deepbookv3</title>
+    <link href="https://github.com/MystenLabs/deepbookv3" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Deepbook V3</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/move-book#1739059200</id>
+    <title>https://github.com/MystenLabs/move-book</title>
+    <link href="https://github.com/MystenLabs/move-book" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The Move Book and The Move Reference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/suins-contracts#1739059200</id>
+    <title>https://github.com/MystenLabs/suins-contracts</title>
+    <link href="https://github.com/MystenLabs/suins-contracts" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The SuiNS Smart Contracts &amp; Documentation repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/walrus-docs#1739059200</id>
+    <title>https://github.com/MystenLabs/walrus-docs</title>
+    <link href="https://github.com/MystenLabs/walrus-docs" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Documentation and examples for the Walrus decentralized storage system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/move-cn/letsmove#1739059200</id>
+    <title>https://github.com/move-cn/letsmove</title>
+    <link href="https://github.com/move-cn/letsmove" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/movementlabsxyz/movement#1739059200</id>
+    <title>https://github.com/movementlabsxyz/movement</title>
+    <link href="https://github.com/movementlabsxyz/movement" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">The Movement Network is a Move-based L2 on Ethereum.</content>
+  </entry>
+</feed>

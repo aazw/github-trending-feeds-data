@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DataDog/datadog-api-client-ruby#1746144000</id>
+    <title>https://github.com/DataDog/datadog-api-client-ruby</title>
+    <link href="https://github.com/DataDog/datadog-api-client-ruby" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Ruby client for the Datadog API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DataDog/dd-trace-rb#1746144000</id>
+    <title>https://github.com/DataDog/dd-trace-rb</title>
+    <link href="https://github.com/DataDog/dd-trace-rb" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Datadog Tracing Ruby Client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Freika/dawarich#1746144000</id>
+    <title>https://github.com/Freika/dawarich</title>
+    <link href="https://github.com/Freika/dawarich" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Self-hostable alternative to Google Location History (Google Maps Timeline)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Homebrew/brew#1746144000</id>
+    <title>https://github.com/Homebrew/brew</title>
+    <link href="https://github.com/Homebrew/brew" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">🍺 The missing package manager for macOS (or Linux)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/liquid#1746144000</id>
+    <title>https://github.com/Shopify/liquid</title>
+    <link href="https://github.com/Shopify/liquid" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Liquid markup language. Safe, customer facing template language for flexible web apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/activeadmin/activeadmin#1746144000</id>
+    <title>https://github.com/activeadmin/activeadmin</title>
+    <link href="https://github.com/activeadmin/activeadmin" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">The administration framework for Ruby on Rails applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/basecamp/kamal#1746144000</id>
+    <title>https://github.com/basecamp/kamal</title>
+    <link href="https://github.com/basecamp/kamal" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Deploy web apps anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chef/chef#1746144000</id>
+    <title>https://github.com/chef/chef</title>
+    <link href="https://github.com/chef/chef" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/d12frosted/homebrew-emacs-plus#1746144000</id>
+    <title>https://github.com/d12frosted/homebrew-emacs-plus</title>
+    <link href="https://github.com/d12frosted/homebrew-emacs-plus" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Emacs Plus formulae for the Homebrew package manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/department-of-veterans-affairs/vets-api#1746144000</id>
+    <title>https://github.com/department-of-veterans-affairs/vets-api</title>
+    <link href="https://github.com/department-of-veterans-affairs/vets-api" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">API powering VA.gov</content>
+  </entry>
+  <entry>
+    <id>https://github.com/faker-ruby/faker#1746144000</id>
+    <title>https://github.com/faker-ruby/faker</title>
+    <link href="https://github.com/faker-ruby/faker" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">A library for generating fake data such as names, addresses, and phone numbers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastlane/fastlane#1746144000</id>
+    <title>https://github.com/fastlane/fastlane</title>
+    <link href="https://github.com/fastlane/fastlane" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluentd#1746144000</id>
+    <title>https://github.com/fluent/fluentd</title>
+    <link href="https://github.com/fluent/fluentd" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Fluentd: Unified Logging Layer (project under CNCF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hotwired/turbo-rails#1746144000</id>
+    <title>https://github.com/hotwired/turbo-rails</title>
+    <link href="https://github.com/hotwired/turbo-rails" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Use Turbo in your Ruby on Rails app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/instructure/canvas-lms#1746144000</id>
+    <title>https://github.com/instructure/canvas-lms</title>
+    <link href="https://github.com/instructure/canvas-lms" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">The open LMS by Instructure, Inc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekyll/jekyll#1746144000</id>
+    <title>https://github.com/jekyll/jekyll</title>
+    <link href="https://github.com/jekyll/jekyll" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">🌐 Jekyll is a blog-aware static site generator in Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kilimchoi/engineering-blogs#1746144000</id>
+    <title>https://github.com/kilimchoi/engineering-blogs</title>
+    <link href="https://github.com/kilimchoi/engineering-blogs" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">A curated list of engineering blogs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maybe-finance/maybe#1746144000</id>
+    <title>https://github.com/maybe-finance/maybe</title>
+    <link href="https://github.com/maybe-finance/maybe" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">The personal finance app for everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opf/openproject#1746144000</id>
+    <title>https://github.com/opf/openproject</title>
+    <link href="https://github.com/opf/openproject" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">OpenProject is the leading open source project management software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rails/rails#1746144000</id>
+    <title>https://github.com/rails/rails</title>
+    <link href="https://github.com/rails/rails" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Ruby on Rails</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1746144000</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby#1746144000</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teamcapybara/capybara#1746144000</id>
+    <title>https://github.com/teamcapybara/capybara</title>
+    <link href="https://github.com/teamcapybara/capybara" />
+    <updated>2025-05-02T00:00:00</updated>
+    <content type="text">Acceptance test framework for web applications</content>
+  </entry>
+</feed>

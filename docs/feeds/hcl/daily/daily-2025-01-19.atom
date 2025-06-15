@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-19T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1737244800</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1737244800</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform module for creating alarms for tracking important changes and occurrences from cloudtrail.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-codebuild#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-codebuild</title>
+    <link href="https://github.com/cloudposse/terraform-aws-codebuild" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform Module to easily leverage AWS CodeBuild for Continuous Integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elastic-beanstalk-environment" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform module to provision an AWS Elastic Beanstalk Environment</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">S3 bucket with built in IAM policy to allow CloudTrail logs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-sso#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-sso</title>
+    <link href="https://github.com/cloudposse/terraform-aws-sso" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform module to configure AWS Single Sign-On (SSO)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-config#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-config</title>
+    <link href="https://github.com/cloudposse/terraform-aws-config" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">This module configures AWS Config, a service that enables you to assess, audit, and evaluate the configurations of your AWS resources.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster</title>
+    <link href="https://github.com/cloudposse/terraform-aws-msk-apache-kafka-cluster" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform module to provision AWS MSK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ec2-instance#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-ec2-instance</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ec2-instance" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform module for provisioning a general purpose EC2 host</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-vpc-peering#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-vpc-peering</title>
+    <link href="https://github.com/cloudposse/terraform-aws-vpc-peering" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform module to create a peering connection between two VPCs in the same AWS account.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-redis#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-redis</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-redis" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform module to provision an ElastiCache Redis Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example#1737244800</id>
+    <title>https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example</title>
+    <link href="https://github.com/gruntwork-io/terragrunt-infrastructure-modules-example" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">A repo used to show examples file/folder structures you can use with Terragrunt and Terraform</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-aws-consul#1737244800</id>
+    <title>https://github.com/hashicorp/terraform-aws-consul</title>
+    <link href="https://github.com/hashicorp/terraform-aws-consul" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">A Terraform Module for how to run Consul on AWS using Terraform and Packer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-alb#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-alb</title>
+    <link href="https://github.com/cloudposse/terraform-aws-alb" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform module to provision a standard ALB for HTTP/HTTP traffic</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-dynamic-subnets#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-dynamic-subnets</title>
+    <link href="https://github.com/cloudposse/terraform-aws-dynamic-subnets" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform module for public and private subnets provisioning in existing VPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-efs#1737244800</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2025-01-19T00:00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
+  </entry>
+</feed>

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom</id>
+  <title>GitHub Trending - tcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <updated>2024-12-27T11:31:11+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/macports/macports-base#1735299071</id>
+    <title>https://github.com/macports/macports-base</title>
+    <link href="https://github.com/macports/macports-base" />
+    <updated>2024-12-27T11:31:11+00:00</updated>
+    <content type="text">The MacPorts command-line client</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/device-tree-xlnx#1735299071</id>
+    <title>https://github.com/Xilinx/device-tree-xlnx</title>
+    <link href="https://github.com/Xilinx/device-tree-xlnx" />
+    <updated>2024-12-27T11:31:11+00:00</updated>
+    <content type="text">Linux device tree generator for the Xilinx SDK (Vivado &gt; 2014.1)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Digilent/digilent-xdc#1735299071</id>
+    <title>https://github.com/Digilent/digilent-xdc</title>
+    <link href="https://github.com/Digilent/digilent-xdc" />
+    <updated>2024-12-27T11:31:11+00:00</updated>
+    <content type="text">A collection of Master XDC files for Digilent FPGA and Zynq boards.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/macports/macports-ports#1735299071</id>
+    <title>https://github.com/macports/macports-ports</title>
+    <link href="https://github.com/macports/macports-ports" />
+    <updated>2024-12-27T11:31:11+00:00</updated>
+    <content type="text">The MacPorts ports tree</content>
+  </entry>
+</feed>

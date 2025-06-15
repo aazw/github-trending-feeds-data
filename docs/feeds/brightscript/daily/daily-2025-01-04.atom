@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/brightscript/daily.atom</id>
+  <title>GitHub Trending - brightscript (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/brightscript/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-04T11:08:22+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/rokudev/samples#1735988902</id>
+    <title>https://github.com/rokudev/samples</title>
+    <link href="https://github.com/rokudev/samples" />
+    <updated>2025-01-04T11:08:22+00:00</updated>
+    <content type="text">Collection of sample channels for side-loading on your Roku device</content>
+  </entry>
+</feed>

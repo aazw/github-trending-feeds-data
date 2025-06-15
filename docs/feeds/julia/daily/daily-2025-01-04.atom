@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-04T11:17:23+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/JuliaManifolds/Manopt.jl#1735989443</id>
+    <title>https://github.com/JuliaManifolds/Manopt.jl</title>
+    <link href="https://github.com/JuliaManifolds/Manopt.jl" />
+    <updated>2025-01-04T11:17:23+00:00</updated>
+    <content type="text">🏔️Manopt. jl – Optimization on Manifolds in Julia</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ClapeyronThermo/Clapeyron.jl#1735989443</id>
+    <title>https://github.com/ClapeyronThermo/Clapeyron.jl</title>
+    <link href="https://github.com/ClapeyronThermo/Clapeyron.jl" />
+    <updated>2025-01-04T11:17:23+00:00</updated>
+    <content type="text">Clapeyron provides a framework for the development and use of fluid-thermodynamic models, including SAFT, cubic, activity, multi-parameter, and COSMO-SAC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaDiff/ChainRules.jl#1735989443</id>
+    <title>https://github.com/JuliaDiff/ChainRules.jl</title>
+    <link href="https://github.com/JuliaDiff/ChainRules.jl" />
+    <updated>2025-01-04T11:17:23+00:00</updated>
+    <content type="text">forward and reverse mode automatic differentiation primitives for Julia Base + StdLibs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaMolSim/DFTK.jl#1735989443</id>
+    <title>https://github.com/JuliaMolSim/DFTK.jl</title>
+    <link href="https://github.com/JuliaMolSim/DFTK.jl" />
+    <updated>2025-01-04T11:17:23+00:00</updated>
+    <content type="text">Density-functional toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MakieOrg/Makie.jl#1735989443</id>
+    <title>https://github.com/MakieOrg/Makie.jl</title>
+    <link href="https://github.com/MakieOrg/Makie.jl" />
+    <updated>2025-01-04T11:17:23+00:00</updated>
+    <content type="text">Interactive data visualizations and plotting in Julia</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaAtmos.jl#1735989443</id>
+    <title>https://github.com/CliMA/ClimaAtmos.jl</title>
+    <link href="https://github.com/CliMA/ClimaAtmos.jl" />
+    <updated>2025-01-04T11:17:23+00:00</updated>
+    <content type="text">ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaPackaging/BinaryBuilder.jl#1735989443</id>
+    <title>https://github.com/JuliaPackaging/BinaryBuilder.jl</title>
+    <link href="https://github.com/JuliaPackaging/BinaryBuilder.jl" />
+    <updated>2025-01-04T11:17:23+00:00</updated>
+    <content type="text">Binary Dependency Builder for Julia</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1735989443</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-01-04T11:17:23+00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1735989443</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-01-04T11:17:23+00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+</feed>

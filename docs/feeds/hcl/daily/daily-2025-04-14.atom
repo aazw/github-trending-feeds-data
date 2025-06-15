@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-14T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine#1744588800</id>
+    <title>https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine</title>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-compute-virtualmachine" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Terraform AVM module for virtual machines</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault#1744588800</id>
+    <title>https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault</title>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Azure Verified Module for Key Vault</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount#1744588800</id>
+    <title>https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount</title>
+    <link href="https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">This Terraform module is designed to create Azure Storage Accounts and its related resources, including blob containers, queues, tables, and file shares. It also supports the creation of a storage account private endpoint which provides secure and direct connectivity to Azure Storage over a private network.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ChristianLempa/boilerplates#1744588800</id>
+    <title>https://github.com/ChristianLempa/boilerplates</title>
+    <link href="https://github.com/ChristianLempa/boilerplates" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">This is my personal template collection. Here you'll find templates, and configurations for various tools, and technologies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/btkrausen/hashicorp#1744588800</id>
+    <title>https://github.com/btkrausen/hashicorp</title>
+    <link href="https://github.com/btkrausen/hashicorp" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Random code for HashiCorp related projects, training, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1744588800</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-lambda-function#1744588800</id>
+    <title>https://github.com/cloudposse/terraform-aws-lambda-function</title>
+    <link href="https://github.com/cloudposse/terraform-aws-lambda-function" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">A module for launching Lambda Fuctions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-sso#1744588800</id>
+    <title>https://github.com/cloudposse/terraform-aws-sso</title>
+    <link href="https://github.com/cloudposse/terraform-aws-sso" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Terraform module to configure AWS Single Sign-On (SSO)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/semgrep-rules#1744588800</id>
+    <title>https://github.com/semgrep/semgrep-rules</title>
+    <link href="https://github.com/semgrep/semgrep-rules" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-aws-modules/terraform-aws-eks#1744588800</id>
+    <title>https://github.com/terraform-aws-modules/terraform-aws-eks</title>
+    <link href="https://github.com/terraform-aws-modules/terraform-aws-eks" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-folders#1744588800</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-folders</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-folders" />
+    <updated>2025-04-14T00:00:00</updated>
+    <content type="text">Creates several Google Cloud folders under the same parent</content>
+  </entry>
+</feed>

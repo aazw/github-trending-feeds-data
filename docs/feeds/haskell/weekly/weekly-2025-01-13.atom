@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/weekly.atom</id>
+  <title>GitHub Trending - haskell (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-13T12:17:12+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/brendanhay/amazonka#1736770632</id>
+    <title>https://github.com/brendanhay/amazonka</title>
+    <link href="https://github.com/brendanhay/amazonka" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">A comprehensive Amazon Web Services SDK for Haskell.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1736770632</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-cli#1736770632</id>
+    <title>https://github.com/IntersectMBO/cardano-cli</title>
+    <link href="https://github.com/IntersectMBO/cardano-cli" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">This repository contains sources for the command-line interface (CLI) tool for interacting with the Cardano blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1736770632</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kmonad/kmonad#1736770632</id>
+    <title>https://github.com/kmonad/kmonad</title>
+    <link href="https://github.com/kmonad/kmonad" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">An advanced keyboard manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simonmichael/hledger#1736770632</id>
+    <title>https://github.com/simonmichael/hledger</title>
+    <link href="https://github.com/simonmichael/hledger" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github/semantic#1736770632</id>
+    <title>https://github.com/github/semantic</title>
+    <link href="https://github.com/github/semantic" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">Parsing, analyzing, and comparing source code across many languages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lamdera/compiler#1736770632</id>
+    <title>https://github.com/lamdera/compiler</title>
+    <link href="https://github.com/lamdera/compiler" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/cabal#1736770632</id>
+    <title>https://github.com/haskell/cabal</title>
+    <link href="https://github.com/haskell/cabal" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">Official upstream development repository for Cabal and cabal-install</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koka-lang/koka#1736770632</id>
+    <title>https://github.com/koka-lang/koka</title>
+    <link href="https://github.com/koka-lang/koka" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">Koka language compiler and interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IntersectMBO/cardano-node#1736770632</id>
+    <title>https://github.com/IntersectMBO/cardano-node</title>
+    <link href="https://github.com/IntersectMBO/cardano-node" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">The core component that is used to participate in a Cardano decentralised blockchain.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koalaman/shellcheck#1736770632</id>
+    <title>https://github.com/koalaman/shellcheck</title>
+    <link href="https://github.com/koalaman/shellcheck" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">ShellCheck, a static analysis tool for shell scripts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1736770632</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-01-13T12:17:12+00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+</feed>

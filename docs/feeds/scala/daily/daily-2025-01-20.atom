@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom</id>
+  <title>GitHub Trending - scala (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/lichess-org/lila#1737331200</id>
+    <title>https://github.com/lichess-org/lila</title>
+    <link href="https://github.com/lichess-org/lila" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">♞ lichess.org: the forever free, adless and open source chess server ♞</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/chipyard#1737331200</id>
+    <title>https://github.com/ucb-bar/chipyard</title>
+    <link href="https://github.com/ucb-bar/chipyard" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rtyley/bfg-repo-cleaner#1737331200</id>
+    <title>https://github.com/rtyley/bfg-repo-cleaner</title>
+    <link href="https://github.com/rtyley/bfg-repo-cleaner" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/util#1737331200</id>
+    <title>https://github.com/twitter/util</title>
+    <link href="https://github.com/twitter/util" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Wonderful reusable code from Twitter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/broadinstitute/cromwell#1737331200</id>
+    <title>https://github.com/broadinstitute/cromwell</title>
+    <link href="https://github.com/broadinstitute/cromwell" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Scientific workflow engine designed for simplicity &amp; scalability. Trivially transition between one off use cases to massive scale production environments</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chipsalliance/chisel#1737331200</id>
+    <title>https://github.com/chipsalliance/chisel</title>
+    <link href="https://github.com/chipsalliance/chisel" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Chisel: A Modern Hardware Design Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/databricks/Spark-The-Definitive-Guide#1737331200</id>
+    <title>https://github.com/databricks/Spark-The-Definitive-Guide</title>
+    <link href="https://github.com/databricks/Spark-The-Definitive-Guide" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Spark: The Definitive Guide's Code Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/kyuubi#1737331200</id>
+    <title>https://github.com/apache/kyuubi</title>
+    <link href="https://github.com/apache/kyuubi" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbt/sbt#1737331200</id>
+    <title>https://github.com/sbt/sbt</title>
+    <link href="https://github.com/sbt/sbt" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">sbt, the interactive build tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/finagle#1737331200</id>
+    <title>https://github.com/twitter/finagle</title>
+    <link href="https://github.com/twitter/finagle" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">A fault tolerant, protocol-agnostic RPC system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/berkeley-hardfloat#1737331200</id>
+    <title>https://github.com/ucb-bar/berkeley-hardfloat</title>
+    <link href="https://github.com/ucb-bar/berkeley-hardfloat" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/digital-asset/daml#1737331200</id>
+    <title>https://github.com/digital-asset/daml</title>
+    <link href="https://github.com/digital-asset/daml" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The Daml smart contract language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbt/zinc#1737331200</id>
+    <title>https://github.com/sbt/zinc</title>
+    <link href="https://github.com/sbt/zinc" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Scala incremental compiler library, used by sbt and other build tools</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/incubator-gluten#1737331200</id>
+    <title>https://github.com/apache/incubator-gluten</title>
+    <link href="https://github.com/apache/incubator-gluten" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/twitter/the-algorithm#1737331200</id>
+    <title>https://github.com/twitter/the-algorithm</title>
+    <link href="https://github.com/twitter/the-algorithm" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Source code for Twitter's Recommendation Algorithm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/scala/scala3#1737331200</id>
+    <title>https://github.com/scala/scala3</title>
+    <link href="https://github.com/scala/scala3" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">The Scala 3 compiler, also known as Dotty.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/riscv-boom/riscv-boom#1737331200</id>
+    <title>https://github.com/riscv-boom/riscv-boom</title>
+    <link href="https://github.com/riscv-boom/riscv-boom" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">SonicBOOM: The Berkeley Out-of-Order Machine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/airbnb/chronon#1737331200</id>
+    <title>https://github.com/airbnb/chronon</title>
+    <link href="https://github.com/airbnb/chronon" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">Chronon is a data platform for serving for AI/ML applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucb-bar/riscv-torture#1737331200</id>
+    <title>https://github.com/ucb-bar/riscv-torture</title>
+    <link href="https://github.com/ucb-bar/riscv-torture" />
+    <updated>2025-01-20T00:00:00</updated>
+    <content type="text">RISC-V Torture Test</content>
+  </entry>
+</feed>

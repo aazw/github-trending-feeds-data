@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</id>
+  <title>GitHub Trending - hcl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-12T11:14:17+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-ssm-patch-manager#1736680457</id>
+    <title>https://github.com/cloudposse/terraform-aws-ssm-patch-manager</title>
+    <link href="https://github.com/cloudposse/terraform-aws-ssm-patch-manager" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">Terraform module to provision AWS SSM Patch Manager maintenance window tasks, targets, patch baseline, patch groups and an s3 bucket for storing patch task logs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-eks-fargate-profile#1736680457</id>
+    <title>https://github.com/cloudposse/terraform-aws-eks-fargate-profile</title>
+    <link href="https://github.com/cloudposse/terraform-aws-eks-fargate-profile" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">Terraform module to provision an EKS Fargate Profile</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-codebuild#1736680457</id>
+    <title>https://github.com/cloudposse/terraform-aws-codebuild</title>
+    <link href="https://github.com/cloudposse/terraform-aws-codebuild" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">Terraform Module to easily leverage AWS CodeBuild for Continuous Integration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms#1736680457</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-cloudwatch-alarms" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">Terraform module for creating alarms for tracking important changes and occurrences from cloudtrail.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/ACE#1736680457</id>
+    <title>https://github.com/NVIDIA/ACE</title>
+    <link href="https://github.com/NVIDIA/ACE" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">NVIDIA ACE samples, workflows, and resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-efs#1736680457</id>
+    <title>https://github.com/cloudposse/terraform-aws-efs</title>
+    <link href="https://github.com/cloudposse/terraform-aws-efs" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">Terraform Module to define an EFS Filesystem (aka NFS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-elasticache-memcached#1736680457</id>
+    <title>https://github.com/cloudposse/terraform-aws-elasticache-memcached</title>
+    <link href="https://github.com/cloudposse/terraform-aws-elasticache-memcached" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">Terraform Module for ElastiCache Memcached Cluster</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-kms#1736680457</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-kms</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-kms" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket#1736680457</id>
+    <title>https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket</title>
+    <link href="https://github.com/cloudposse/terraform-aws-cloudtrail-s3-bucket" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">S3 bucket with built in IAM policy to allow CloudTrail logs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/techiescamp/devops-projects#1736680457</id>
+    <title>https://github.com/techiescamp/devops-projects</title>
+    <link href="https://github.com/techiescamp/devops-projects" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">DevOps Real World Projects for Aspiring DevOps Engineers [Beginner to Advanced]</content>
+  </entry>
+  <entry>
+    <id>https://github.com/terraform-google-modules/terraform-google-composer#1736680457</id>
+    <title>https://github.com/terraform-google-modules/terraform-google-composer</title>
+    <link href="https://github.com/terraform-google-modules/terraform-google-composer" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">Manages Cloud Composer v1 and v2 along with option to manage networking</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/terraform-aws-consul#1736680457</id>
+    <title>https://github.com/hashicorp/terraform-aws-consul</title>
+    <link href="https://github.com/hashicorp/terraform-aws-consul" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">A Terraform Module for how to run Consul on AWS using Terraform and Packer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonputra/tutorials#1736680457</id>
+    <title>https://github.com/antonputra/tutorials</title>
+    <link href="https://github.com/antonputra/tutorials" />
+    <updated>2025-01-12T11:14:17+00:00</updated>
+    <content type="text">DevOps Tutorials</content>
+  </entry>
+</feed>

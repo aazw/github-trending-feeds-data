@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/weekly.atom</id>
+  <title>GitHub Trending - ruby (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CocoaPods/CocoaPods#1741564800</id>
+    <title>https://github.com/CocoaPods/CocoaPods</title>
+    <link href="https://github.com/CocoaPods/CocoaPods" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The Cocoa Dependency Manager.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/liquid#1741564800</id>
+    <title>https://github.com/Shopify/liquid</title>
+    <link href="https://github.com/Shopify/liquid" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Liquid markup language. Safe, customer facing template language for flexible web apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/ruby-lsp#1741564800</id>
+    <title>https://github.com/Shopify/ruby-lsp</title>
+    <link href="https://github.com/Shopify/ruby-lsp" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">An opinionated language server for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chef/chef#1741564800</id>
+    <title>https://github.com/chef/chef</title>
+    <link href="https://github.com/chef/chef" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/citation-style-language/styles#1741564800</id>
+    <title>https://github.com/citation-style-language/styles</title>
+    <link href="https://github.com/citation-style-language/styles" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Official repository for Citation Style Language (CSL) citation styles.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/discourse/discourse#1741564800</id>
+    <title>https://github.com/discourse/discourse</title>
+    <link href="https://github.com/discourse/discourse" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A platform for community discussion. Free, open, simple.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/faker-ruby/faker#1741564800</id>
+    <title>https://github.com/faker-ruby/faker</title>
+    <link href="https://github.com/faker-ruby/faker" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A library for generating fake data such as names, addresses, and phone numbers.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fastlane/fastlane#1741564800</id>
+    <title>https://github.com/fastlane/fastlane</title>
+    <link href="https://github.com/fastlane/fastlane" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🚀 The easiest way to automate building and releasing your iOS and Android apps</content>
+  </entry>
+  <entry>
+    <id>https://github.com/felixonmars/dnsmasq-china-list#1741564800</id>
+    <title>https://github.com/felixonmars/dnsmasq-china-list</title>
+    <link href="https://github.com/felixonmars/dnsmasq-china-list" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Chinese-specific configuration to improve your favorite DNS server. Best partner for chnroutes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flippercloud/flipper#1741564800</id>
+    <title>https://github.com/flippercloud/flipper</title>
+    <link href="https://github.com/flippercloud/flipper" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🐬 Beautiful, performant feature flags for Ruby.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hotwired/turbo-rails#1741564800</id>
+    <title>https://github.com/hotwired/turbo-rails</title>
+    <link href="https://github.com/hotwired/turbo-rails" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Use Turbo in your Ruby on Rails app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kilimchoi/engineering-blogs#1741564800</id>
+    <title>https://github.com/kilimchoi/engineering-blogs</title>
+    <link href="https://github.com/kilimchoi/engineering-blogs" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A curated list of engineering blogs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mastodon/mastodon#1741564800</id>
+    <title>https://github.com/mastodon/mastodon</title>
+    <link href="https://github.com/mastodon/mastodon" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Your self-hosted, globally interconnected microblogging community</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openstreetmap/openstreetmap-website#1741564800</id>
+    <title>https://github.com/openstreetmap/openstreetmap-website</title>
+    <link href="https://github.com/openstreetmap/openstreetmap-website" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The Rails application that powers OpenStreetMap</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pglombardo/PasswordPusher#1741564800</id>
+    <title>https://github.com/pglombardo/PasswordPusher</title>
+    <link href="https://github.com/pglombardo/PasswordPusher" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">🔐 Securely share sensitive information with automatic expiration &amp; deletion after a set number of views or duration. Track who, what and when with full audit logs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/postalserver/postal#1741564800</id>
+    <title>https://github.com/postalserver/postal</title>
+    <link href="https://github.com/postalserver/postal" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prawnpdf/prawn#1741564800</id>
+    <title>https://github.com/prawnpdf/prawn</title>
+    <link href="https://github.com/prawnpdf/prawn" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Fast, Nimble PDF Writer for Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rails/rails#1741564800</id>
+    <title>https://github.com/rails/rails</title>
+    <link href="https://github.com/rails/rails" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Ruby on Rails</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redmine/redmine#1741564800</id>
+    <title>https://github.com/redmine/redmine</title>
+    <link href="https://github.com/redmine/redmine" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Mirror of redmine code source - Official Subversion repository is at https://svn.redmine.org/redmine - contact: @vividtone or maeda (at) farend (dot) jp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby#1741564800</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teamcapybara/capybara#1741564800</id>
+    <title>https://github.com/teamcapybara/capybara</title>
+    <link href="https://github.com/teamcapybara/capybara" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Acceptance test framework for web applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/varvet/pundit#1741564800</id>
+    <title>https://github.com/varvet/pundit</title>
+    <link href="https://github.com/varvet/pundit" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Minimal authorization through OO design and pure Ruby classes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zammad/zammad#1741564800</id>
+    <title>https://github.com/zammad/zammad</title>
+    <link href="https://github.com/zammad/zammad" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Zammad is a web based open source helpdesk/customer support system</content>
+  </entry>
+</feed>

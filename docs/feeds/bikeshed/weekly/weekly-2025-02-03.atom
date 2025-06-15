@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bikeshed/weekly.atom</id>
+  <title>GitHub Trending - bikeshed (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bikeshed/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-03T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/WICG/turtledove#1738540800</id>
+    <title>https://github.com/WICG/turtledove</title>
+    <link href="https://github.com/WICG/turtledove" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">TURTLEDOVE</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gpuweb/gpuweb#1738540800</id>
+    <title>https://github.com/gpuweb/gpuweb</title>
+    <link href="https://github.com/gpuweb/gpuweb" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">Where the GPU for the Web work happens!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/patcg-individual-drafts/topics#1738540800</id>
+    <title>https://github.com/patcg-individual-drafts/topics</title>
+    <link href="https://github.com/patcg-individual-drafts/topics" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">The Topics API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/w3c/csswg-drafts#1738540800</id>
+    <title>https://github.com/w3c/csswg-drafts</title>
+    <link href="https://github.com/w3c/csswg-drafts" />
+    <updated>2025-02-03T00:00:00</updated>
+    <content type="text">CSS Working Group Editor Drafts</content>
+  </entry>
+</feed>

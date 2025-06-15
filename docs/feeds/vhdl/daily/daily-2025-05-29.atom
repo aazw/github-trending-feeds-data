@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vhdl/daily.atom</id>
+  <title>GitHub Trending - vhdl (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vhdl/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OSVVM/OSVVM#1748476800</id>
+    <title>https://github.com/OSVVM/OSVVM</title>
+    <link href="https://github.com/OSVVM/OSVVM" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">OSVVM Utility Library: AlertLogPkg, CoveragePkg, RandomPkg, ScoreboardGenericPkg, MemoryPkg, TbUtilPkg, TranscriptPkg, ...</content>
+  </entry>
+  <entry>
+    <id>https://github.com/VUnit/vunit#1748476800</id>
+    <title>https://github.com/VUnit/vunit</title>
+    <link href="https://github.com/VUnit/vunit" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">VUnit is a unit testing framework for VHDL/SystemVerilog</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chili-chips-ba/wireguard-fpga#1748476800</id>
+    <title>https://github.com/chili-chips-ba/wireguard-fpga</title>
+    <link href="https://github.com/chili-chips-ba/wireguard-fpga" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">Full-throttle, wire-speed hardware implementation of Wireguard VPN, using low-cost Artix7 FPGA with opensource toolchain. If you seek security and privacy, nothing is private in our codebase. Our door is wide open for backdoor scrutiny, be it related to RTL, embedded, build, bitstream or any other aspect of design and delivery package. Bujrum!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ghdl/ghdl#1748476800</id>
+    <title>https://github.com/ghdl/ghdl</title>
+    <link href="https://github.com/ghdl/ghdl" />
+    <updated>2025-05-29T00:00:00</updated>
+    <content type="text">VHDL 2008/93/87 simulator</content>
+  </entry>
+</feed>

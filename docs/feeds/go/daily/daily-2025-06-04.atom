@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-04T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/terraformer#1748995200</id>
+    <title>https://github.com/GoogleCloudPlatform/terraformer</title>
+    <link href="https://github.com/GoogleCloudPlatform/terraformer" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code</content>
+  </entry>
+  <entry>
+    <id>https://github.com/akuity/kargo#1748995200</id>
+    <title>https://github.com/akuity/kargo</title>
+    <link href="https://github.com/akuity/kargo" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Application lifecycle orchestration</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/higress#1748995200</id>
+    <title>https://github.com/alibaba/higress</title>
+    <link href="https://github.com/alibaba/higress" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">🤖 AI Gateway | AI Native API Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anchore/syft#1748995200</id>
+    <title>https://github.com/anchore/syft</title>
+    <link href="https://github.com/anchore/syft" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">CLI tool and library for generating a Software Bill of Materials from container images and filesystems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/answer#1748995200</id>
+    <title>https://github.com/apache/answer</title>
+    <link href="https://github.com/apache/answer" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">A Q&amp;A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Apache Answer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aquasecurity/kube-bench#1748995200</id>
+    <title>https://github.com/aquasecurity/kube-bench</title>
+    <link href="https://github.com/aquasecurity/kube-bench" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Checks whether Kubernetes is deployed according to security best practices as defined in the CIS Kubernetes Benchmark</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudreve/Cloudreve#1748995200</id>
+    <title>https://github.com/cloudreve/Cloudreve</title>
+    <link href="https://github.com/cloudreve/Cloudreve" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">🌩 Self-hosted file management and sharing system, supports multiple storage providers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fleetdm/fleet#1748995200</id>
+    <title>https://github.com/fleetdm/fleet</title>
+    <link href="https://github.com/fleetdm/fleet" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Open-source platform for IT, security, and infrastructure teams. (Linux, macOS, Chrome, Windows, cloud, data center)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gofr-dev/gofr#1748995200</id>
+    <title>https://github.com/gofr-dev/gofr</title>
+    <link href="https://github.com/gofr-dev/gofr" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">An opinionated GoLang framework for accelerated microservice development. Built in support for databases and observability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang-migrate/migrate#1748995200</id>
+    <title>https://github.com/golang-migrate/migrate</title>
+    <link href="https://github.com/golang-migrate/migrate" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Database migrations. CLI and Golang library.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/golang/go#1748995200</id>
+    <title>https://github.com/golang/go</title>
+    <link href="https://github.com/golang/go" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">The Go programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/gvisor#1748995200</id>
+    <title>https://github.com/google/gvisor</title>
+    <link href="https://github.com/google/gvisor" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Application Kernel for Containers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/osv-scanner#1748995200</id>
+    <title>https://github.com/google/osv-scanner</title>
+    <link href="https://github.com/google/osv-scanner" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Vulnerability scanner written in Go which uses the data provided by https://osv.dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gophish/gophish#1748995200</id>
+    <title>https://github.com/gophish/gophish</title>
+    <link href="https://github.com/gophish/gophish" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Open-Source Phishing Toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1748995200</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/gruntwork-io/terragrunt#1748995200</id>
+    <title>https://github.com/gruntwork-io/terragrunt</title>
+    <link href="https://github.com/gruntwork-io/terragrunt" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Terragrunt is a flexible orchestration tool that allows Infrastructure as Code written in OpenTofu/Terraform to scale.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langhuihui/monibuca#1748995200</id>
+    <title>https://github.com/langhuihui/monibuca</title>
+    <link href="https://github.com/langhuihui/monibuca" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">🧩 Monibuca is a Modularized, Extensible framework for building Streaming Server</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbirdio/netbird#1748995200</id>
+    <title>https://github.com/netbirdio/netbird</title>
+    <link href="https://github.com/netbirdio/netbird" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1748995200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector-contrib#1748995200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector-contrib" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Contrib repository for the OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syncthing/syncthing#1748995200</id>
+    <title>https://github.com/syncthing/syncthing</title>
+    <link href="https://github.com/syncthing/syncthing" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Open Source Continuous File Synchronization</content>
+  </entry>
+  <entry>
+    <id>https://github.com/temporalio/temporal#1748995200</id>
+    <title>https://github.com/temporalio/temporal</title>
+    <link href="https://github.com/temporalio/temporal" />
+    <updated>2025-06-04T00:00:00</updated>
+    <content type="text">Temporal service</content>
+  </entry>
+</feed>

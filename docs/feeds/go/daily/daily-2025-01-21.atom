@@ -1,0 +1,173 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/danielmiessler/fabric#1737417600</id>
+    <title>https://github.com/danielmiessler/fabric</title>
+    <link href="https://github.com/danielmiessler/fabric" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jesseduffield/lazydocker#1737417600</id>
+    <title>https://github.com/jesseduffield/lazydocker</title>
+    <link href="https://github.com/jesseduffield/lazydocker" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">The lazier way to manage everything docker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc/grpc-go#1737417600</id>
+    <title>https://github.com/grpc/grpc-go</title>
+    <link href="https://github.com/grpc/grpc-go" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">The Go language implementation of gRPC. HTTP/2 based RPC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/client-go#1737417600</id>
+    <title>https://github.com/kubernetes/client-go</title>
+    <link href="https://github.com/kubernetes/client-go" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Go client for Kubernetes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mudler/LocalAI#1737417600</id>
+    <title>https://github.com/mudler/LocalAI</title>
+    <link href="https://github.com/mudler/LocalAI" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">🤖 The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI, running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. Features: Generate Text, Audio, Video, Images, Voice Cloning, Distributed, P2P inference</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1737417600</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kueue#1737417600</id>
+    <title>https://github.com/kubernetes-sigs/kueue</title>
+    <link href="https://github.com/kubernetes-sigs/kueue" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Kubernetes-native Job Queueing</content>
+  </entry>
+  <entry>
+    <id>https://github.com/caddyserver/caddy#1737417600</id>
+    <title>https://github.com/caddyserver/caddy</title>
+    <link href="https://github.com/caddyserver/caddy" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/grpc-ecosystem/grpc-gateway#1737417600</id>
+    <title>https://github.com/grpc-ecosystem/grpc-gateway</title>
+    <link href="https://github.com/grpc-ecosystem/grpc-gateway" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">gRPC to JSON proxy generator following the gRPC HTTP spec</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/microservices-demo#1737417600</id>
+    <title>https://github.com/GoogleCloudPlatform/microservices-demo</title>
+    <link href="https://github.com/GoogleCloudPlatform/microservices-demo" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/distribution/distribution#1737417600</id>
+    <title>https://github.com/distribution/distribution</title>
+    <link href="https://github.com/distribution/distribution" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">The toolkit to pack, ship, store, and deliver container content</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moonD4rk/HackBrowserData#1737417600</id>
+    <title>https://github.com/moonD4rk/HackBrowserData</title>
+    <link href="https://github.com/moonD4rk/HackBrowserData" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Extract and decrypt browser data, supporting multiple data types, runnable on various operating systems (macOS, Windows, Linux).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-playground/validator#1737417600</id>
+    <title>https://github.com/go-playground/validator</title>
+    <link href="https://github.com/go-playground/validator" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">💯Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving</content>
+  </entry>
+  <entry>
+    <id>https://github.com/seaweedfs/seaweedfs#1737417600</id>
+    <title>https://github.com/seaweedfs/seaweedfs</title>
+    <link href="https://github.com/seaweedfs/seaweedfs" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">SeaweedFS is a fast distributed storage system for blobs, objects, files, and data lake, for billions of files! Blob store has O(1) disk seek, cloud tiering. Filer supports Cloud Drive, cross-DC active-active replication, Kubernetes, POSIX FUSE mount, S3 API, S3 Gateway, Hadoop, WebDAV, encryption, Erasure Coding.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/junegunn/fzf#1737417600</id>
+    <title>https://github.com/junegunn/fzf</title>
+    <link href="https://github.com/junegunn/fzf" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">🌸 A command-line fuzzy finder</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ffuf/ffuf#1737417600</id>
+    <title>https://github.com/ffuf/ffuf</title>
+    <link href="https://github.com/ffuf/ffuf" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Fast web fuzzer written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-collector#1737417600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-collector</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-collector" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj-labs/argocd-image-updater#1737417600</id>
+    <title>https://github.com/argoproj-labs/argocd-image-updater</title>
+    <link href="https://github.com/argoproj-labs/argocd-image-updater" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Automatic container image update for Argo CD</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minio/minio#1737417600</id>
+    <title>https://github.com/minio/minio</title>
+    <link href="https://github.com/minio/minio" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yorukot/superfile#1737417600</id>
+    <title>https://github.com/yorukot/superfile</title>
+    <link href="https://github.com/yorukot/superfile" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Pretty fancy and modern terminal file manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/osv-scanner#1737417600</id>
+    <title>https://github.com/google/osv-scanner</title>
+    <link href="https://github.com/google/osv-scanner" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Vulnerability scanner written in Go which uses the data provided by https://osv.dev</content>
+  </entry>
+  <entry>
+    <id>https://github.com/go-sql-driver/mysql#1737417600</id>
+    <title>https://github.com/go-sql-driver/mysql</title>
+    <link href="https://github.com/go-sql-driver/mysql" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Go MySQL Driver is a MySQL driver for Go's (golang) database/sql package</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tidwall/gjson#1737417600</id>
+    <title>https://github.com/tidwall/gjson</title>
+    <link href="https://github.com/tidwall/gjson" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Get JSON values quickly - JSON parser for Go</content>
+  </entry>
+</feed>

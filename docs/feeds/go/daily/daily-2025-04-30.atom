@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/kubectl-ai#1745971200</id>
+    <title>https://github.com/GoogleCloudPlatform/kubectl-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/kubectl-ai" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">AI powered Kubernetes Assistant</content>
+  </entry>
+  <entry>
+    <id>https://github.com/XTLS/Xray-core#1745971200</id>
+    <title>https://github.com/XTLS/Xray-core</title>
+    <link href="https://github.com/XTLS/Xray-core" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/argoproj/argo-workflows#1745971200</id>
+    <title>https://github.com/argoproj/argo-workflows</title>
+    <link href="https://github.com/argoproj/argo-workflows" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Workflow Engine for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluenviron/mediamtx#1745971200</id>
+    <title>https://github.com/bluenviron/mediamtx</title>
+    <link href="https://github.com/bluenviron/mediamtx" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bytedance/sonic#1745971200</id>
+    <title>https://github.com/bytedance/sonic</title>
+    <link href="https://github.com/bytedance/sonic" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">A blazingly fast JSON serializing &amp; deserializing library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cert-manager/cert-manager#1745971200</id>
+    <title>https://github.com/cert-manager/cert-manager</title>
+    <link href="https://github.com/cert-manager/cert-manager" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Automatically provision and manage TLS certificates in Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crossplane/crossplane#1745971200</id>
+    <title>https://github.com/crossplane/crossplane</title>
+    <link href="https://github.com/crossplane/crossplane" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">The Cloud Native Control Plane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ehang-io/nps#1745971200</id>
+    <title>https://github.com/ehang-io/nps</title>
+    <link href="https://github.com/ehang-io/nps" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">一款轻量级、高性能、功能强大的内网穿透代理服务器。支持tcp、udp、socks5、http等几乎所有流量转发，可用来访问内网网站、本地支付接口调试、ssh访问、远程桌面，内网dns解析、内网socks5代理等等……，并带有功能强大的web管理端。a lightweight, high-performance, powerful intranet penetration proxy server, with a powerful web management terminal.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/external-secrets/external-secrets#1745971200</id>
+    <title>https://github.com/external-secrets/external-secrets</title>
+    <link href="https://github.com/external-secrets/external-secrets" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault#1745971200</id>
+    <title>https://github.com/hashicorp/vault</title>
+    <link href="https://github.com/hashicorp/vault" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">A tool for secrets management, encryption as a service, and privileged access management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/henrygd/beszel#1745971200</id>
+    <title>https://github.com/henrygd/beszel</title>
+    <link href="https://github.com/henrygd/beszel" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Lightweight server monitoring hub with historical data, docker stats, and alerts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/aws-ebs-csi-driver#1745971200</id>
+    <title>https://github.com/kubernetes-sigs/aws-ebs-csi-driver</title>
+    <link href="https://github.com/kubernetes-sigs/aws-ebs-csi-driver" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">CSI driver for Amazon EBS https://aws.amazon.com/ebs/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/external-dns#1745971200</id>
+    <title>https://github.com/kubernetes-sigs/external-dns</title>
+    <link href="https://github.com/kubernetes-sigs/external-dns" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes-sigs/kustomize#1745971200</id>
+    <title>https://github.com/kubernetes-sigs/kustomize</title>
+    <link href="https://github.com/kubernetes-sigs/kustomize" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Customization of kubernetes YAML configurations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1745971200</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1745971200</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pion/webrtc#1745971200</id>
+    <title>https://github.com/pion/webrtc</title>
+    <link href="https://github.com/pion/webrtc" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Pure Go implementation of the WebRTC API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus/node_exporter#1745971200</id>
+    <title>https://github.com/prometheus/node_exporter</title>
+    <link href="https://github.com/prometheus/node_exporter" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Exporter for machine metrics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redpanda-data/connect#1745971200</id>
+    <title>https://github.com/redpanda-data/connect</title>
+    <link href="https://github.com/redpanda-data/connect" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Fancy stream processing made operationally mundane</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1745971200</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/temporalio/temporal#1745971200</id>
+    <title>https://github.com/temporalio/temporal</title>
+    <link href="https://github.com/temporalio/temporal" />
+    <updated>2025-04-30T00:00:00</updated>
+    <content type="text">Temporal service</content>
+  </entry>
+</feed>

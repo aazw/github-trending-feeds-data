@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</id>
+  <title>GitHub Trending - haskell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GaloisInc/flexdis86#1741564800</id>
+    <title>https://github.com/GaloisInc/flexdis86</title>
+    <link href="https://github.com/GaloisInc/flexdis86" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A library for disassembling x86-64 binaries.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/change-metrics/monocle#1741564800</id>
+    <title>https://github.com/change-metrics/monocle</title>
+    <link href="https://github.com/change-metrics/monocle" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Monocle helps teams and individual to better organize daily duties and to detect anomalies in the way changes are produced and reviewed.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fossas/fossa-cli#1741564800</id>
+    <title>https://github.com/fossas/fossa-cli</title>
+    <link href="https://github.com/fossas/fossa-cli" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Fast, portable and reliable dependency analysis for any codebase. Supports license &amp; vulnerability scanning for large monoliths. Language-agnostic; integrates with 20+ build systems.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/goldfirere/th-desugar#1741564800</id>
+    <title>https://github.com/goldfirere/th-desugar</title>
+    <link href="https://github.com/goldfirere/th-desugar" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Desugars Template Haskell abstract syntax to a simpler format without changing semantics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hadolint/hadolint#1741564800</id>
+    <title>https://github.com/hadolint/hadolint</title>
+    <link href="https://github.com/hadolint/hadolint" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Dockerfile linter, validate inline bash, written in Haskell</content>
+  </entry>
+  <entry>
+    <id>https://github.com/haskell/haskell-language-server#1741564800</id>
+    <title>https://github.com/haskell/haskell-language-server</title>
+    <link href="https://github.com/haskell/haskell-language-server" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Official haskell ide support via language server (LSP). Successor of ghcide &amp; haskell-ide-engine.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jgm/pandoc#1741564800</id>
+    <title>https://github.com/jgm/pandoc</title>
+    <link href="https://github.com/jgm/pandoc" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Universal markup converter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/koka-lang/koka#1741564800</id>
+    <title>https://github.com/koka-lang/koka</title>
+    <link href="https://github.com/koka-lang/koka" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Koka language compiler and interpreter</content>
+  </entry>
+  <entry>
+    <id>https://github.com/maralorn/nix-output-monitor#1741564800</id>
+    <title>https://github.com/maralorn/nix-output-monitor</title>
+    <link href="https://github.com/maralorn/nix-output-monitor" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/purescript/purescript#1741564800</id>
+    <title>https://github.com/purescript/purescript</title>
+    <link href="https://github.com/purescript/purescript" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A strongly-typed language that compiles to JavaScript</content>
+  </entry>
+  <entry>
+    <id>https://github.com/simplex-chat/simplexmq#1741564800</id>
+    <title>https://github.com/simplex-chat/simplexmq</title>
+    <link href="https://github.com/simplex-chat/simplexmq" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">⚙️ SimpleXMQ - A reference implementation of the SimpleX Messaging Protocol for simplex queues over public networks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ucsd-progsys/liquid-fixpoint#1741564800</id>
+    <title>https://github.com/ucsd-progsys/liquid-fixpoint</title>
+    <link href="https://github.com/ucsd-progsys/liquid-fixpoint" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">Horn Clause Constraint Solving for Liquid Types</content>
+  </entry>
+  <entry>
+    <id>https://github.com/unisonweb/unison#1741564800</id>
+    <title>https://github.com/unisonweb/unison</title>
+    <link href="https://github.com/unisonweb/unison" />
+    <updated>2025-03-10T00:00:00</updated>
+    <content type="text">A friendly programming language from the future</content>
+  </entry>
+</feed>

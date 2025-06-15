@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/gherkin/weekly.atom</id>
+  <title>GitHub Trending - gherkin (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/gherkin/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/sdkman/sdkman-cli#1748822400</id>
+    <title>https://github.com/sdkman/sdkman-cli</title>
+    <link href="https://github.com/sdkman/sdkman-cli" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">The SDKMAN! Command Line Interface</content>
+  </entry>
+</feed>

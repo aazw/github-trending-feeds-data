@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-30T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CISOfy/lynis#1738195200</id>
+    <title>https://github.com/CISOfy/lynis</title>
+    <link href="https://github.com/CISOfy/lynis" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MichaelCade/90DaysOfDevOps#1738195200</id>
+    <title>https://github.com/MichaelCade/90DaysOfDevOps</title>
+    <link href="https://github.com/MichaelCade/90DaysOfDevOps" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen2.5#1738195200</id>
+    <title>https://github.com/QwenLM/Qwen2.5</title>
+    <link href="https://github.com/QwenLM/Qwen2.5" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Qwen2.5 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/ROCm#1738195200</id>
+    <title>https://github.com/ROCm/ROCm</title>
+    <link href="https://github.com/ROCm/ROCm" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">AMD ROCm™ Software - GitHub Home</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SeleniumHQ/docker-selenium#1738195200</id>
+    <title>https://github.com/SeleniumHQ/docker-selenium</title>
+    <link href="https://github.com/SeleniumHQ/docker-selenium" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Provides a simple way to run Selenium Grid with Chrome, Firefox, and Edge using Container Platform, making it easier to perform browser automation at scale</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/aws-mwaa-local-runner#1738195200</id>
+    <title>https://github.com/aws/aws-mwaa-local-runner</title>
+    <link href="https://github.com/aws/aws-mwaa-local-runner" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">This repository provides a command line interface (CLI) utility that replicates an Amazon Managed Workflows for Apache Airflow (MWAA) environment locally.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/awslabs/amazon-eks-ami#1738195200</id>
+    <title>https://github.com/awslabs/amazon-eks-ami</title>
+    <link href="https://github.com/awslabs/amazon-eks-ami" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Packer configuration for building a custom EKS AMI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1738195200</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1738195200</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/confluentinc/confluent-kubernetes-examples#1738195200</id>
+    <title>https://github.com/confluentinc/confluent-kubernetes-examples</title>
+    <link href="https://github.com/confluentinc/confluent-kubernetes-examples" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Example scenario workflows for Confluent for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containers/ramalama#1738195200</id>
+    <title>https://github.com/containers/ramalama</title>
+    <link href="https://github.com/containers/ramalama" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">The goal of RamaLama is to make working with AI boring.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getlago/lago#1738195200</id>
+    <title>https://github.com/getlago/lago</title>
+    <link href="https://github.com/getlago/lago" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration &amp; Revenue analytics</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/shell-intune-samples#1738195200</id>
+    <title>https://github.com/microsoft/shell-intune-samples</title>
+    <link href="https://github.com/microsoft/shell-intune-samples" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Sample shell scripts for Intune admins.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/msys2/MINGW-packages#1738195200</id>
+    <title>https://github.com/msys2/MINGW-packages</title>
+    <link href="https://github.com/msys2/MINGW-packages" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Package scripts for MinGW-w64 targets to build under MSYS2.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mylinuxforwork/dotfiles#1738195200</id>
+    <title>https://github.com/mylinuxforwork/dotfiles</title>
+    <link href="https://github.com/mylinuxforwork/dotfiles" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1738195200</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmybash/oh-my-bash#1738195200</id>
+    <title>https://github.com/ohmybash/oh-my-bash</title>
+    <link href="https://github.com/ohmybash/oh-my-bash" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1738195200</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openshift/release#1738195200</id>
+    <title>https://github.com/openshift/release</title>
+    <link href="https://github.com/openshift/release" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Release tooling for OpenShift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tfutils/tfenv#1738195200</id>
+    <title>https://github.com/tfutils/tfenv</title>
+    <link href="https://github.com/tfutils/tfenv" />
+    <updated>2025-01-30T00:00:00</updated>
+    <content type="text">Terraform version manager</content>
+  </entry>
+</feed>

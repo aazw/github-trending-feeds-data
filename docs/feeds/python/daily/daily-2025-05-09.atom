@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom</id>
+  <title>GitHub Trending - python (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Blaizzy/mlx-audio#1746748800</id>
+    <title>https://github.com/Blaizzy/mlx-audio</title>
+    <link href="https://github.com/Blaizzy/mlx-audio" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Byaidu/PDFMathTranslate#1746748800</id>
+    <title>https://github.com/Byaidu/PDFMathTranslate</title>
+    <link href="https://github.com/Byaidu/PDFMathTranslate" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lightricks/ComfyUI-LTXVideo#1746748800</id>
+    <title>https://github.com/Lightricks/ComfyUI-LTXVideo</title>
+    <link href="https://github.com/Lightricks/ComfyUI-LTXVideo" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">LTX-Video Support for ComfyUI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lightricks/LTX-Video#1746748800</id>
+    <title>https://github.com/Lightricks/LTX-Video</title>
+    <link href="https://github.com/Lightricks/LTX-Video" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Official repository for LTX-Video</content>
+  </entry>
+  <entry>
+    <id>https://github.com/NVIDIA/NeMo#1746748800</id>
+    <title>https://github.com/NVIDIA/NeMo</title>
+    <link href="https://github.com/NVIDIA/NeMo" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PaddlePaddle/PaddleOCR#1746748800</id>
+    <title>https://github.com/PaddlePaddle/PaddleOCR</title>
+    <link href="https://github.com/PaddlePaddle/PaddleOCR" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Awesome multilingual OCR toolkits based on PaddlePaddle (practical ultra lightweight OCR system, support 80+ languages recognition, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bee-san/Ciphey#1746748800</id>
+    <title>https://github.com/bee-san/Ciphey</title>
+    <link href="https://github.com/bee-san/Ciphey" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">⚡ Automatically decrypt encryptions without knowing the key or cipher, decode encodings, and crack hashes ⚡</content>
+  </entry>
+  <entry>
+    <id>https://github.com/crewAIInc/crewAI#1746748800</id>
+    <title>https://github.com/crewAIInc/crewAI</title>
+    <link href="https://github.com/crewAIInc/crewAI" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/harry0703/MoneyPrinterTurbo#1746748800</id>
+    <title>https://github.com/harry0703/MoneyPrinterTurbo</title>
+    <link href="https://github.com/harry0703/MoneyPrinterTurbo" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langflow-ai/langflow#1746748800</id>
+    <title>https://github.com/langflow-ai/langflow</title>
+    <link href="https://github.com/langflow-ai/langflow" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Langflow is a powerful tool for building and deploying AI-powered agents and workflows.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/modelscope/ms-swift#1746748800</id>
+    <title>https://github.com/modelscope/ms-swift</title>
+    <link href="https://github.com/modelscope/ms-swift" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 500+ LLMs (Qwen3, Qwen3-MoE, Llama4, InternLM3, GLM4, Mistral, Yi1.5, DeepSeek-R1, ...) and 200+ MLLMs (Qwen2.5-VL, Qwen2.5-Omni, Qwen2-Audio, Ovis2, InternVL3, Llava, MiniCPM-V-2.6, GLM4v, Xcomposer2.5, DeepSeek-VL2, Phi4, GOT-OCR2, ...).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/naver/dust3r#1746748800</id>
+    <title>https://github.com/naver/dust3r</title>
+    <link href="https://github.com/naver/dust3r" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">DUSt3R: Geometric 3D Vision Made Easy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/netbox-community/devicetype-library#1746748800</id>
+    <title>https://github.com/netbox-community/devicetype-library</title>
+    <link href="https://github.com/netbox-community/devicetype-library" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A collection of community-sourced DeviceType definitions for import to NetBox</content>
+  </entry>
+  <entry>
+    <id>https://github.com/opendatalab/MinerU#1746748800</id>
+    <title>https://github.com/opendatalab/MinerU</title>
+    <link href="https://github.com/opendatalab/MinerU" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A high-quality tool for convert PDF to Markdown and JSON.一站式开源高质量数据提取工具，将PDF转换成Markdown和JSON格式。</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ultralytics/ultralytics#1746748800</id>
+    <title>https://github.com/ultralytics/ultralytics</title>
+    <link href="https://github.com/ultralytics/ultralytics" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Ultralytics YOLO11 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vllm-project/vllm#1746748800</id>
+    <title>https://github.com/vllm-project/vllm</title>
+    <link href="https://github.com/vllm-project/vllm" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">A high-throughput and memory-efficient inference and serving engine for LLMs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yeongpin/cursor-free-vip#1746748800</id>
+    <title>https://github.com/yeongpin/cursor-free-vip</title>
+    <link href="https://github.com/yeongpin/cursor-free-vip" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">[Support 0.49.x]（Reset Cursor AI MachineID &amp; Bypass Higher Token Limit） Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zauberzeug/nicegui#1746748800</id>
+    <title>https://github.com/zauberzeug/nicegui</title>
+    <link href="https://github.com/zauberzeug/nicegui" />
+    <updated>2025-05-09T00:00:00</updated>
+    <content type="text">Create web-based user interfaces with Python. The nice way.</content>
+  </entry>
+</feed>

@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1746576000</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MarkSchofield/WindowsToolchain#1746576000</id>
+    <title>https://github.com/MarkSchofield/WindowsToolchain</title>
+    <link href="https://github.com/MarkSchofield/WindowsToolchain" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">A repository containing a CMake toolchain for using MSVC</content>
+  </entry>
+  <entry>
+    <id>https://github.com/PX4/px4_msgs#1746576000</id>
+    <title>https://github.com/PX4/px4_msgs</title>
+    <link href="https://github.com/PX4/px4_msgs" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">ROS/ROS2 messages that match the uORB messages counterparts on the PX4 Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SergiusTheBest/FindWDK#1746576000</id>
+    <title>https://github.com/SergiusTheBest/FindWDK</title>
+    <link href="https://github.com/SergiusTheBest/FindWDK" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">CMake module for building drivers with Windows Development Kit (WDK)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1746576000</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ecmwf/ecbuild#1746576000</id>
+    <title>https://github.com/ecmwf/ecbuild</title>
+    <link href="https://github.com/ecmwf/ecbuild" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">A CMake-based build system, consisting of a collection of CMake macros and functions that ease the managing of software build systems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flathub/shared-modules#1746576000</id>
+    <title>https://github.com/flathub/shared-modules</title>
+    <link href="https://github.com/flathub/shared-modules" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">Common Flatpak modules that can be used as a git submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leetal/ios-cmake#1746576000</id>
+    <title>https://github.com/leetal/ios-cmake</title>
+    <link href="https://github.com/leetal/ios-cmake" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">A CMake toolchain file for iOS/iPadOS, visionOS, macOS, watchOS &amp; tvOS C/C++/Obj-C++ development</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1746576000</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/minecraft-linux/mcpelauncher-manifest#1746576000</id>
+    <title>https://github.com/minecraft-linux/mcpelauncher-manifest</title>
+    <link href="https://github.com/minecraft-linux/mcpelauncher-manifest" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">The main repository for the Linux and Mac OS Bedrock edition Minecraft launcher.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/steinbergmedia/vst3sdk#1746576000</id>
+    <title>https://github.com/steinbergmedia/vst3sdk</title>
+    <link href="https://github.com/steinbergmedia/vst3sdk" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">VST 3 Plug-In SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vector-of-bool/cmrc#1746576000</id>
+    <title>https://github.com/vector-of-bool/cmrc</title>
+    <link href="https://github.com/vector-of-bool/cmrc" />
+    <updated>2025-05-07T00:00:00</updated>
+    <content type="text">A Resource Compiler in a Single CMake Script</content>
+  </entry>
+</feed>

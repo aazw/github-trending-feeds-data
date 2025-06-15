@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</id>
+  <title>GitHub Trending - cmake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-24T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GEOS-ESM/GEOSgcm#1745452800</id>
+    <title>https://github.com/GEOS-ESM/GEOSgcm</title>
+    <link href="https://github.com/GEOS-ESM/GEOSgcm" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">GEOS Earth System Model GEOSgcm Fixture</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TheRobotStudio/SO-ARM100#1745452800</id>
+    <title>https://github.com/TheRobotStudio/SO-ARM100</title>
+    <link href="https://github.com/TheRobotStudio/SO-ARM100" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Standard Open Arm 100</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bilke/cmake-modules#1745452800</id>
+    <title>https://github.com/bilke/cmake-modules</title>
+    <link href="https://github.com/bilke/cmake-modules" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Additional CMake functionality. Most of the modules are from Ryan Pavlik (https://github.com/rpavlik/cmake-modules)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cpp-best-practices/cmake_template#1745452800</id>
+    <title>https://github.com/cpp-best-practices/cmake_template</title>
+    <link href="https://github.com/cpp-best-practices/cmake_template" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">CMake for C++ Best Practices</content>
+  </entry>
+  <entry>
+    <id>https://github.com/editorconfig/editorconfig-core-test#1745452800</id>
+    <title>https://github.com/editorconfig/editorconfig-core-test</title>
+    <link href="https://github.com/editorconfig/editorconfig-core-test" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Testings for EditorConfig Core</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flathub/shared-modules#1745452800</id>
+    <title>https://github.com/flathub/shared-modules</title>
+    <link href="https://github.com/flathub/shared-modules" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Common Flatpak modules that can be used as a git submodule</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrl-umi3218/jrl-cmakemodules#1745452800</id>
+    <title>https://github.com/jrl-umi3218/jrl-cmakemodules</title>
+    <link href="https://github.com/jrl-umi3218/jrl-cmakemodules" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">CMake utility toolbox</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/vcpkg#1745452800</id>
+    <title>https://github.com/microsoft/vcpkg</title>
+    <link href="https://github.com/microsoft/vcpkg" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">C++ Library Manager for Windows, Linux, and MacOS</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pingcap/kvproto#1745452800</id>
+    <title>https://github.com/pingcap/kvproto</title>
+    <link href="https://github.com/pingcap/kvproto" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Protocol buffer files for TiKV</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ros-planning/navigation_msgs#1745452800</id>
+    <title>https://github.com/ros-planning/navigation_msgs</title>
+    <link href="https://github.com/ros-planning/navigation_msgs" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Message packages required by the navigation stack</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ttroy50/cmake-examples#1745452800</id>
+    <title>https://github.com/ttroy50/cmake-examples</title>
+    <link href="https://github.com/ttroy50/cmake-examples" />
+    <updated>2025-04-24T00:00:00</updated>
+    <content type="text">Useful CMake Examples</content>
+  </entry>
+</feed>

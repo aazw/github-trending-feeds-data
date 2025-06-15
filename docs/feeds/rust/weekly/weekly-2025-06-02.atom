@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom</id>
+  <title>GitHub Trending - rust (weekly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/BurntSushi/ripgrep#1748822400</id>
+    <title>https://github.com/BurntSushi/ripgrep</title>
+    <link href="https://github.com/BurntSushi/ripgrep" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">ripgrep recursively searches directories for a regex pattern while respecting your gitignore</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EasyTier/EasyTier#1748822400</id>
+    <title>https://github.com/EasyTier/EasyTier</title>
+    <link href="https://github.com/EasyTier/EasyTier" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">A simple, decentralized mesh VPN with WireGuard support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Lagrange-Labs/deep-prove#1748822400</id>
+    <title>https://github.com/Lagrange-Labs/deep-prove</title>
+    <link href="https://github.com/Lagrange-Labs/deep-prove" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Framework to prove inference of ML models blazingly fast</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1748822400</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alvr-org/ALVR#1748822400</id>
+    <title>https://github.com/alvr-org/ALVR</title>
+    <link href="https://github.com/alvr-org/ALVR" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Stream VR games from your PC to your headset via Wi-Fi</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antinomyhq/forge#1748822400</id>
+    <title>https://github.com/antinomyhq/forge</title>
+    <link href="https://github.com/antinomyhq/forge" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dani-garcia/vaultwarden#1748822400</id>
+    <title>https://github.com/dani-garcia/vaultwarden</title>
+    <link href="https://github.com/dani-garcia/vaultwarden" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/delta-io/delta-rs#1748822400</id>
+    <title>https://github.com/delta-io/delta-rs</title>
+    <link href="https://github.com/delta-io/delta-rs" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">A native Rust library for Delta Lake, with bindings into Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/buck2#1748822400</id>
+    <title>https://github.com/facebook/buck2</title>
+    <link href="https://github.com/facebook/buck2" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Build system, successor to Buck</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/pyrefly#1748822400</id>
+    <title>https://github.com/facebook/pyrefly</title>
+    <link href="https://github.com/facebook/pyrefly" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">A fast type checker and IDE for Python</content>
+  </entry>
+  <entry>
+    <id>https://github.com/get-convex/convex-backend#1748822400</id>
+    <title>https://github.com/get-convex/convex-backend</title>
+    <link href="https://github.com/get-convex/convex-backend" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">The open-source reactive database for app developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfontanini/presenterm#1748822400</id>
+    <title>https://github.com/mfontanini/presenterm</title>
+    <link href="https://github.com/mfontanini/presenterm" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">A markdown terminal slideshow tool</content>
+  </entry>
+  <entry>
+    <id>https://github.com/paritytech/polkadot-sdk#1748822400</id>
+    <title>https://github.com/paritytech/polkadot-sdk</title>
+    <link href="https://github.com/paritytech/polkadot-sdk" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">The Parity Polkadot Blockchain SDK</content>
+  </entry>
+  <entry>
+    <id>https://github.com/probe-rs/probe-rs#1748822400</id>
+    <title>https://github.com/probe-rs/probe-rs</title>
+    <link href="https://github.com/probe-rs/probe-rs" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">A debugging toolset and library for debugging embedded ARM and RISC-V targets on a separate host</content>
+  </entry>
+  <entry>
+    <id>https://github.com/risingwavelabs/risingwave#1748822400</id>
+    <title>https://github.com/risingwavelabs/risingwave</title>
+    <link href="https://github.com/risingwavelabs/risingwave" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Stream processing and management platform.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rolldown/rolldown#1748822400</id>
+    <title>https://github.com/rolldown/rolldown</title>
+    <link href="https://github.com/rolldown/rolldown" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Fast Rust bundler for JavaScript/TypeScript with Rollup-compatible API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rustdesk/rustdesk#1748822400</id>
+    <title>https://github.com/rustdesk/rustdesk</title>
+    <link href="https://github.com/rustdesk/rustdesk" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stalwartlabs/stalwart#1748822400</id>
+    <title>https://github.com/stalwartlabs/stalwart</title>
+    <link href="https://github.com/stalwartlabs/stalwart" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tari-project/tari#1748822400</id>
+    <title>https://github.com/tari-project/tari</title>
+    <link href="https://github.com/tari-project/tari" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">The Tari protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tw93/Pake#1748822400</id>
+    <title>https://github.com/tw93/Pake</title>
+    <link href="https://github.com/tw93/Pake" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">🤱🏻 Turn any webpage into a desktop app with Rust. 🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uutils/coreutils#1748822400</id>
+    <title>https://github.com/uutils/coreutils</title>
+    <link href="https://github.com/uutils/coreutils" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Cross-platform Rust rewrite of the GNU coreutils</content>
+  </entry>
+</feed>

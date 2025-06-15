@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</id>
+  <title>GitHub Trending - rust (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/GreptimeTeam/greptimedb#1745798400</id>
+    <title>https://github.com/GreptimeTeam/greptimedb</title>
+    <link href="https://github.com/GreptimeTeam/greptimedb" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Open-source, cloud-native, unified observability database for metrics, logs and traces, supporting SQL/PromQL/Streaming. Available on GreptimeCloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/MystenLabs/sui#1745798400</id>
+    <title>https://github.com/MystenLabs/sui</title>
+    <link href="https://github.com/MystenLabs/sui" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/YaLTeR/niri#1745798400</id>
+    <title>https://github.com/YaLTeR/niri</title>
+    <link href="https://github.com/YaLTeR/niri" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A scrollable-tiling Wayland compositor.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alacritty/alacritty#1745798400</id>
+    <title>https://github.com/alacritty/alacritty</title>
+    <link href="https://github.com/alacritty/alacritty" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A cross-platform, OpenGL terminal emulator.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ankitects/anki#1745798400</id>
+    <title>https://github.com/ankitects/anki</title>
+    <link href="https://github.com/ankitects/anki" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Anki's shared backend and web components, and the Qt frontend</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/datafusion#1745798400</id>
+    <title>https://github.com/apache/datafusion</title>
+    <link href="https://github.com/apache/datafusion" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Apache DataFusion SQL Query Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bevyengine/bevy#1745798400</id>
+    <title>https://github.com/bevyengine/bevy</title>
+    <link href="https://github.com/bevyengine/bevy" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A refreshingly simple data-driven game engine built in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elkowar/eww#1745798400</id>
+    <title>https://github.com/elkowar/eww</title>
+    <link href="https://github.com/elkowar/eww" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">ElKowars wacky widgets</content>
+  </entry>
+  <entry>
+    <id>https://github.com/flxzt/rnote#1745798400</id>
+    <title>https://github.com/flxzt/rnote</title>
+    <link href="https://github.com/flxzt/rnote" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Sketch and take handwritten notes.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iced-rs/iced#1745798400</id>
+    <title>https://github.com/iced-rs/iced</title>
+    <link href="https://github.com/iced-rs/iced" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">A cross-platform GUI library for Rust, inspired by Elm</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jdx/mise#1745798400</id>
+    <title>https://github.com/jdx/mise</title>
+    <link href="https://github.com/jdx/mise" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">dev tools, env vars, task runner</content>
+  </entry>
+  <entry>
+    <id>https://github.com/juspay/hyperswitch#1745798400</id>
+    <title>https://github.com/juspay/hyperswitch</title>
+    <link href="https://github.com/juspay/hyperswitch" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">An open source payments switch written in Rust to make payments fast, reliable and affordable</content>
+  </entry>
+  <entry>
+    <id>https://github.com/lapce/lapce#1745798400</id>
+    <title>https://github.com/lapce/lapce</title>
+    <link href="https://github.com/lapce/lapce" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Lightning-fast and Powerful Code Editor written in Rust</content>
+  </entry>
+  <entry>
+    <id>https://github.com/leptos-rs/leptos#1745798400</id>
+    <title>https://github.com/leptos-rs/leptos</title>
+    <link href="https://github.com/leptos-rs/leptos" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Build fast web applications with Rust.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-lang/book#1745798400</id>
+    <title>https://github.com/rust-lang/book</title>
+    <link href="https://github.com/rust-lang/book" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">The Rust Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/starship/starship#1745798400</id>
+    <title>https://github.com/starship/starship</title>
+    <link href="https://github.com/starship/starship" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tauri-apps/tauri#1745798400</id>
+    <title>https://github.com/tauri-apps/tauri</title>
+    <link href="https://github.com/tauri-apps/tauri" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Build smaller, faster, and more secure desktop and mobile applications with a web frontend.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tokio-rs/axum#1745798400</id>
+    <title>https://github.com/tokio-rs/axum</title>
+    <link href="https://github.com/tokio-rs/axum" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Ergonomic and modular web framework built with Tokio, Tower, and Hyper</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tracel-ai/burn#1745798400</id>
+    <title>https://github.com/tracel-ai/burn</title>
+    <link href="https://github.com/tracel-ai/burn" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Burn is a next generation Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/web-infra-dev/rspack#1745798400</id>
+    <title>https://github.com/web-infra-dev/rspack</title>
+    <link href="https://github.com/web-infra-dev/rspack" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">The fast Rust-based web bundler with webpack-compatible API 🦀️</content>
+  </entry>
+  <entry>
+    <id>https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display#1745798400</id>
+    <title>https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display</title>
+    <link href="https://github.com/witnessmenow/ESP32-Cheap-Yellow-Display" />
+    <updated>2025-04-28T00:00:00</updated>
+    <content type="text">Building a community around a cheap ESP32 Display with a touch screen</content>
+  </entry>
+</feed>

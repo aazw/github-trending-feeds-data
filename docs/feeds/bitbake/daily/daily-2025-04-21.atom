@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom</id>
+  <title>GitHub Trending - bitbake (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/OSSystems/meta-browser#1745193600</id>
+    <title>https://github.com/OSSystems/meta-browser</title>
+    <link href="https://github.com/OSSystems/meta-browser" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto BSP layer for Web Browsers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TimesysGit/meta-timesys#1745193600</id>
+    <title>https://github.com/TimesysGit/meta-timesys</title>
+    <link href="https://github.com/TimesysGit/meta-timesys" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Vulnerability management tool that provides Yocto SBOM generation and CVE Analysis of target images.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Wind-River/meta-secure-core#1745193600</id>
+    <title>https://github.com/Wind-River/meta-secure-core</title>
+    <link href="https://github.com/Wind-River/meta-secure-core" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/meta-xilinx#1745193600</id>
+    <title>https://github.com/Xilinx/meta-xilinx</title>
+    <link href="https://github.com/Xilinx/meta-xilinx" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Collection of Yocto Project layers to enable AMD Xilinx products</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Xilinx/meta-xilinx-tools#1745193600</id>
+    <title>https://github.com/Xilinx/meta-xilinx-tools</title>
+    <link href="https://github.com/Xilinx/meta-xilinx-tools" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Yocto Project layer enables AMD Xilinx tools related metadata for MicroBlaze, Zynq, ZynqMP and Versal devices.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kraj/meta-clang#1745193600</id>
+    <title>https://github.com/kraj/meta-clang</title>
+    <link href="https://github.com/kraj/meta-clang" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Clang C/C++ cross compiler and runtime for OpenEmbedded/Yocto Project</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kraj/meta-openwrt#1745193600</id>
+    <title>https://github.com/kraj/meta-openwrt</title>
+    <link href="https://github.com/kraj/meta-openwrt" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">OE/Yocto metadata layer for OpenWRT</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mendersoftware/meta-mender-community#1745193600</id>
+    <title>https://github.com/mendersoftware/meta-mender-community</title>
+    <link href="https://github.com/mendersoftware/meta-mender-community" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Community supported Yocto Project layers (Board integrations) for Mender for different boards</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-qt5/meta-qt5#1745193600</id>
+    <title>https://github.com/meta-qt5/meta-qt5</title>
+    <link href="https://github.com/meta-qt5/meta-qt5" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">QT5 layer for openembedded</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meta-rust/meta-rust#1745193600</id>
+    <title>https://github.com/meta-rust/meta-rust</title>
+    <link href="https://github.com/meta-rust/meta-rust" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">OpenEmbedded/Yocto layer for Rust and Cargo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nxp-imx/meta-nxp-connectivity#1745193600</id>
+    <title>https://github.com/nxp-imx/meta-nxp-connectivity</title>
+    <link href="https://github.com/nxp-imx/meta-nxp-connectivity" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The layer files for integrate the Matter and OpenThread into i.MX Yocto Linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openbmc/openbmc#1745193600</id>
+    <title>https://github.com/openbmc/openbmc</title>
+    <link href="https://github.com/openbmc/openbmc" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">OpenBMC Distribution</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/meta-openembedded#1745193600</id>
+    <title>https://github.com/openembedded/meta-openembedded</title>
+    <link href="https://github.com/openembedded/meta-openembedded" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/openembedded/openembedded-core#1745193600</id>
+    <title>https://github.com/openembedded/openembedded-core</title>
+    <link href="https://github.com/openembedded/openembedded-core" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The official Git repository is at https://git.openembedded.org/openembedded-core/.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rust-embedded/meta-rust-bin#1745193600</id>
+    <title>https://github.com/rust-embedded/meta-rust-bin</title>
+    <link href="https://github.com/rust-embedded/meta-rust-bin" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Yocto layer for installing Rust toolchain from pre-built binaries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sbabic/meta-swupdate#1745193600</id>
+    <title>https://github.com/sbabic/meta-swupdate</title>
+    <link href="https://github.com/sbabic/meta-swupdate" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Yocto receipes to generate a swupdate rootfilesystem as initrd</content>
+  </entry>
+</feed>

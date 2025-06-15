@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-14T11:26:26+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/docker-mailserver/docker-mailserver#1736853986</id>
+    <title>https://github.com/docker-mailserver/docker-mailserver</title>
+    <link href="https://github.com/docker-mailserver/docker-mailserver" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hashicorp/vault-helm#1736853986</id>
+    <title>https://github.com/hashicorp/vault-helm</title>
+    <link href="https://github.com/hashicorp/vault-helm" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Helm chart to install Vault and other associated components.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bluesky-social/pds#1736853986</id>
+    <title>https://github.com/bluesky-social/pds</title>
+    <link href="https://github.com/bluesky-social/pds" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Bluesky PDS (Personal Data Server) container image, compose file, and documentation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bats-core/bats-core#1736853986</id>
+    <title>https://github.com/bats-core/bats-core</title>
+    <link href="https://github.com/bats-core/bats-core" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Bash Automated Testing System</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dokku/dokku#1736853986</id>
+    <title>https://github.com/dokku/dokku</title>
+    <link href="https://github.com/dokku/dokku" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">A docker-powered PaaS that helps you build and manage the lifecycle of applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/d3/d3#1736853986</id>
+    <title>https://github.com/d3/d3</title>
+    <link href="https://github.com/d3/d3" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Bring data to life with SVG, Canvas and HTML. 📊📈🎉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1736853986</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1736853986</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hcengineering/huly-selfhost#1736853986</id>
+    <title>https://github.com/hcengineering/huly-selfhost</title>
+    <link href="https://github.com/hcengineering/huly-selfhost" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Huly for Self Hosting</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bitnami/containers#1736853986</id>
+    <title>https://github.com/bitnami/containers</title>
+    <link href="https://github.com/bitnami/containers" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Bitnami container images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dockur/windows#1736853986</id>
+    <title>https://github.com/dockur/windows</title>
+    <link href="https://github.com/dockur/windows" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Windows inside a Docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1736853986</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mylinuxforwork/dotfiles#1736853986</id>
+    <title>https://github.com/mylinuxforwork/dotfiles</title>
+    <link href="https://github.com/mylinuxforwork/dotfiles" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">The ML4W Dotfiles for Hyprland - An advanced and full-featured configuration for the dynamic tiling window manager Hyprland including an easy to use installation script for Arch and Fedora based Linux distributions.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/frankiejun/serv00-play#1736853986</id>
+    <title>https://github.com/frankiejun/serv00-play</title>
+    <link href="https://github.com/frankiejun/serv00-play" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">serv00 上的一些应用，包括argo+vmess/vmess+ws/hy2/socks5/mtproto/alist/哪吒探针 等, 自动化部署、批量保号、进程防杀、消息推送</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kodekloudhub/certified-kubernetes-administrator-course#1736853986</id>
+    <title>https://github.com/kodekloudhub/certified-kubernetes-administrator-course</title>
+    <link href="https://github.com/kodekloudhub/certified-kubernetes-administrator-course" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Certified Kubernetes Administrator - CKA Course</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1736853986</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/termux/termux-packages#1736853986</id>
+    <title>https://github.com/termux/termux-packages</title>
+    <link href="https://github.com/termux/termux-packages" />
+    <updated>2025-01-14T11:26:26+00:00</updated>
+    <content type="text">A package build system for Termux.</content>
+  </entry>
+</feed>

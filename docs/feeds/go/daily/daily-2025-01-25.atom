@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</id>
+  <title>GitHub Trending - go (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-25T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/argoproj/argo-cd#1737763200</id>
+    <title>https://github.com/argoproj/argo-cd</title>
+    <link href="https://github.com/argoproj/argo-cd" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Declarative Continuous Deployment for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aws/karpenter-provider-aws#1737763200</id>
+    <title>https://github.com/aws/karpenter-provider-aws</title>
+    <link href="https://github.com/aws/karpenter-provider-aws" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Karpenter is a Kubernetes Node Autoscaler built for flexibility, performance, and simplicity.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cloudnative-pg/cloudnative-pg#1737763200</id>
+    <title>https://github.com/cloudnative-pg/cloudnative-pg</title>
+    <link href="https://github.com/cloudnative-pg/cloudnative-pg" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">CloudNativePG is a comprehensive platform designed to seamlessly manage PostgreSQL databases within Kubernetes environments, covering the entire operational lifecycle from initial deployment to ongoing maintenance</content>
+  </entry>
+  <entry>
+    <id>https://github.com/containerd/containerd#1737763200</id>
+    <title>https://github.com/containerd/containerd</title>
+    <link href="https://github.com/containerd/containerd" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">An open and reliable container runtime</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cubefs/cubefs#1737763200</id>
+    <title>https://github.com/cubefs/cubefs</title>
+    <link href="https://github.com/cubefs/cubefs" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">cloud-native distributed storage</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ffuf/ffuf#1737763200</id>
+    <title>https://github.com/ffuf/ffuf</title>
+    <link href="https://github.com/ffuf/ffuf" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Fast web fuzzer written in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/k8sgpt-ai/k8sgpt#1737763200</id>
+    <title>https://github.com/k8sgpt-ai/k8sgpt</title>
+    <link href="https://github.com/k8sgpt-ai/k8sgpt" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Giving Kubernetes Superpowers to everyone</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kubernetes/kubernetes#1737763200</id>
+    <title>https://github.com/kubernetes/kubernetes</title>
+    <link href="https://github.com/kubernetes/kubernetes" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Production-Grade Container Scheduling and Management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/labstack/echo#1737763200</id>
+    <title>https://github.com/labstack/echo</title>
+    <link href="https://github.com/labstack/echo" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">High performance, minimalist Go web framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/metallb/metallb#1737763200</id>
+    <title>https://github.com/metallb/metallb</title>
+    <link href="https://github.com/metallb/metallb" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">A network load-balancer implementation for Kubernetes using standard routing protocols</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mk6i/retro-aim-server#1737763200</id>
+    <title>https://github.com/mk6i/retro-aim-server</title>
+    <link href="https://github.com/mk6i/retro-aim-server" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Open-source instant messaging server that makes classic AIM and ICQ clients work again.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moby/buildkit#1737763200</id>
+    <title>https://github.com/moby/buildkit</title>
+    <link href="https://github.com/moby/buildkit" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nats-io/nats-server#1737763200</id>
+    <title>https://github.com/nats-io/nats-server</title>
+    <link href="https://github.com/nats-io/nats-server" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">High-Performance server for NATS.io, the cloud and edge native messaging system.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ollama/ollama#1737763200</id>
+    <title>https://github.com/ollama/ollama</title>
+    <link href="https://github.com/ollama/ollama" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Get up and running with Llama 3.3, Phi 4, Gemma 2, and other large language models.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-operator#1737763200</id>
+    <title>https://github.com/open-telemetry/opentelemetry-operator</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-operator" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Kubernetes Operator for OpenTelemetry Collector</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prometheus-community/postgres_exporter#1737763200</id>
+    <title>https://github.com/prometheus-community/postgres_exporter</title>
+    <link href="https://github.com/prometheus-community/postgres_exporter" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">A PostgreSQL metric exporter for Prometheus</content>
+  </entry>
+  <entry>
+    <id>https://github.com/putyy/res-downloader#1737763200</id>
+    <title>https://github.com/putyy/res-downloader</title>
+    <link href="https://github.com/putyy/res-downloader" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">视频号、小程序、抖音、快手、小红书、直播流、m3u8、酷狗、QQ音乐等常见网络资源下载!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spf13/cobra#1737763200</id>
+    <title>https://github.com/spf13/cobra</title>
+    <link href="https://github.com/spf13/cobra" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">A Commander for modern Go CLI interactions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stretchr/testify#1737763200</id>
+    <title>https://github.com/stretchr/testify</title>
+    <link href="https://github.com/stretchr/testify" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">A toolkit with common assertions and mocks that plays nicely with the standard library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmc/langchaingo#1737763200</id>
+    <title>https://github.com/tmc/langchaingo</title>
+    <link href="https://github.com/tmc/langchaingo" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">LangChain for Go, the easiest way to write LLM-based programs in Go</content>
+  </entry>
+  <entry>
+    <id>https://github.com/uber-go/zap#1737763200</id>
+    <title>https://github.com/uber-go/zap</title>
+    <link href="https://github.com/uber-go/zap" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Blazing fast, structured, leveled logging in Go.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yassinebenaid/bunster#1737763200</id>
+    <title>https://github.com/yassinebenaid/bunster</title>
+    <link href="https://github.com/yassinebenaid/bunster" />
+    <updated>2025-01-25T00:00:00</updated>
+    <content type="text">Compile shell scripts to static binaries.</content>
+  </entry>
+</feed>

@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</id>
+  <title>GitHub Trending - julia (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-08T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CliMA/ClimaAtmos.jl#1738972800</id>
+    <title>https://github.com/CliMA/ClimaAtmos.jl</title>
+    <link href="https://github.com/CliMA/ClimaAtmos.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">ClimaAtmos.jl is a library for building atmospheric circulation models that is designed from the outset to leverage data assimilation and machine learning tools. We welcome contributions!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/ClimaLand.jl#1738972800</id>
+    <title>https://github.com/CliMA/ClimaLand.jl</title>
+    <link href="https://github.com/CliMA/ClimaLand.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Clima's Land Model</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/CloudMicrophysics.jl#1738972800</id>
+    <title>https://github.com/CliMA/CloudMicrophysics.jl</title>
+    <link href="https://github.com/CliMA/CloudMicrophysics.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">A library of cloud microphysics parameterizations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CliMA/Oceananigans.jl#1738972800</id>
+    <title>https://github.com/CliMA/Oceananigans.jl</title>
+    <link href="https://github.com/CliMA/Oceananigans.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/EnzymeAD/Enzyme.jl#1738972800</id>
+    <title>https://github.com/EnzymeAD/Enzyme.jl</title>
+    <link href="https://github.com/EnzymeAD/Enzyme.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Julia bindings for the Enzyme automatic differentiator</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaArrays/BlockArrays.jl#1738972800</id>
+    <title>https://github.com/JuliaArrays/BlockArrays.jl</title>
+    <link href="https://github.com/JuliaArrays/BlockArrays.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">BlockArrays for Julia</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaGPU/CUDA.jl#1738972800</id>
+    <title>https://github.com/JuliaGPU/CUDA.jl</title>
+    <link href="https://github.com/JuliaGPU/CUDA.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">CUDA programming in Julia.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/julia#1738972800</id>
+    <title>https://github.com/JuliaLang/julia</title>
+    <link href="https://github.com/JuliaLang/julia" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The Julia Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaLang/www.julialang.org#1738972800</id>
+    <title>https://github.com/JuliaLang/www.julialang.org</title>
+    <link href="https://github.com/JuliaLang/www.julialang.org" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Julia Project website</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JuliaRegistries/General#1738972800</id>
+    <title>https://github.com/JuliaRegistries/General</title>
+    <link href="https://github.com/JuliaRegistries/General" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">The official registry of general Julia packages</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Nemocas/Nemo.jl#1738972800</id>
+    <title>https://github.com/Nemocas/Nemo.jl</title>
+    <link href="https://github.com/Nemocas/Nemo.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Julia bindings for the FLINT number theory C library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/DataInterpolations.jl#1738972800</id>
+    <title>https://github.com/SciML/DataInterpolations.jl</title>
+    <link href="https://github.com/SciML/DataInterpolations.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">A library of data interpolation and smoothing functions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SciML/ModelingToolkit.jl#1738972800</id>
+    <title>https://github.com/SciML/ModelingToolkit.jl</title>
+    <link href="https://github.com/SciML/ModelingToolkit.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">An acausal modeling framework for automatically parallelized scientific machine learning (SciML) in Julia. A computer algebra system for integrated symbolics for physics-informed machine learning and automated transformations of differential equations</content>
+  </entry>
+  <entry>
+    <id>https://github.com/TuringLang/DynamicPPL.jl#1738972800</id>
+    <title>https://github.com/TuringLang/DynamicPPL.jl</title>
+    <link href="https://github.com/TuringLang/DynamicPPL.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Implementation of domain-specific language (DSL) for dynamic probabilistic programming</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oscar-system/Oscar.jl#1738972800</id>
+    <title>https://github.com/oscar-system/Oscar.jl</title>
+    <link href="https://github.com/oscar-system/Oscar.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">A comprehensive open source computer algebra system for computations in algebra, geometry, and number theory.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/trixi-framework/Trixi.jl#1738972800</id>
+    <title>https://github.com/trixi-framework/Trixi.jl</title>
+    <link href="https://github.com/trixi-framework/Trixi.jl" />
+    <updated>2025-02-08T00:00:00</updated>
+    <content type="text">Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia</content>
+  </entry>
+</feed>

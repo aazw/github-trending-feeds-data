@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom</id>
+  <title>GitHub Trending - ocaml (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-05T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MinaProtocol/mina#1738713600</id>
+    <title>https://github.com/MinaProtocol/mina</title>
+    <link href="https://github.com/MinaProtocol/mina" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/astrada/google-drive-ocamlfuse#1738713600</id>
+    <title>https://github.com/astrada/google-drive-ocamlfuse</title>
+    <link href="https://github.com/astrada/google-drive-ocamlfuse" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">FUSE filesystem over Google Drive</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bcpierce00/unison#1738713600</id>
+    <title>https://github.com/bcpierce00/unison</title>
+    <link href="https://github.com/bcpierce00/unison" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Unison file synchronizer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/chshersh/github-tui#1738713600</id>
+    <title>https://github.com/chshersh/github-tui</title>
+    <link href="https://github.com/chshersh/github-tui" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">🌒 A TUI for GitHub</content>
+  </entry>
+  <entry>
+    <id>https://github.com/dfinity/motoko#1738713600</id>
+    <title>https://github.com/dfinity/motoko</title>
+    <link href="https://github.com/dfinity/motoko" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Simple high-level language for writing Internet Computer canisters</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/flow#1738713600</id>
+    <title>https://github.com/facebook/flow</title>
+    <link href="https://github.com/facebook/flow" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Adds static typing to JavaScript to improve developer productivity and code quality.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebook/infer#1738713600</id>
+    <title>https://github.com/facebook/infer</title>
+    <link href="https://github.com/facebook/infer" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">A static analyzer for Java, C, C++, and Objective-C</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocaml/ocaml#1738713600</id>
+    <title>https://github.com/ocaml/ocaml</title>
+    <link href="https://github.com/ocaml/ocaml" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">The core OCaml system: compilers, runtime system, base libraries</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ocaml/ocaml-lsp#1738713600</id>
+    <title>https://github.com/ocaml/ocaml-lsp</title>
+    <link href="https://github.com/ocaml/ocaml-lsp" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">OCaml Language Server Protocol implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/ocaml-tree-sitter-core#1738713600</id>
+    <title>https://github.com/semgrep/ocaml-tree-sitter-core</title>
+    <link href="https://github.com/semgrep/ocaml-tree-sitter-core" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">OCaml code generator and runtime library for handling typed tree-sitter CSTs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/semgrep/semgrep#1738713600</id>
+    <title>https://github.com/semgrep/semgrep</title>
+    <link href="https://github.com/semgrep/semgrep" />
+    <updated>2025-02-05T00:00:00</updated>
+    <content type="text">Lightweight static analysis for many languages. Find bug variants with patterns that look like source code.</content>
+  </entry>
+</feed>

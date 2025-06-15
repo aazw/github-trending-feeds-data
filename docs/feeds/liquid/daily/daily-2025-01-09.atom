@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/liquid/daily.atom</id>
+  <title>GitHub Trending - liquid (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/liquid/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-09T11:18:32+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/levxyca/diciotech#1736421512</id>
+    <title>https://github.com/levxyca/diciotech</title>
+    <link href="https://github.com/levxyca/diciotech" />
+    <updated>2025-01-09T11:18:32+00:00</updated>
+    <content type="text">O Diciotech é um dicionário tech online colaborativo, construído com HTML, SASS e JavaScript, e open source. Nossa missão é ajudar pessoas de todos os níveis a entenderem termos e conceitos relacionados à tecnologia de forma clara e simples.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/microsoft/FHIR-Converter#1736421512</id>
+    <title>https://github.com/microsoft/FHIR-Converter</title>
+    <link href="https://github.com/microsoft/FHIR-Converter" />
+    <updated>2025-01-09T11:18:32+00:00</updated>
+    <content type="text">Conversion utility to translate legacy data formats into FHIR</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mainmatter/gerust#1736421512</id>
+    <title>https://github.com/mainmatter/gerust</title>
+    <link href="https://github.com/mainmatter/gerust" />
+    <updated>2025-01-09T11:18:32+00:00</updated>
+    <content type="text">Gerust is a project generator for Rust backend projects. It takes care of the accidental complexity so you can stay focused on what matters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Shopify/dawn#1736421512</id>
+    <title>https://github.com/Shopify/dawn</title>
+    <link href="https://github.com/Shopify/dawn" />
+    <updated>2025-01-09T11:18:32+00:00</updated>
+    <content type="text">Shopify's first source available reference theme, with Online Store 2.0 features and performance built-in.</content>
+  </entry>
+</feed>

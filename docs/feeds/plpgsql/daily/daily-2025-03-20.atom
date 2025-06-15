@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/plpgsql/daily.atom</id>
+  <title>GitHub Trending - plpgsql (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/plpgsql/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-20T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Abstrct/Schemaverse#1742428800</id>
+    <title>https://github.com/Abstrct/Schemaverse</title>
+    <link href="https://github.com/Abstrct/Schemaverse" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">The Schemaverse is a space-based strategy game implemented entirely within a PostgreSQL database. Compete against other players using raw SQL commands to command your fleet. Or, if your PL/pgSQL-foo is strong, wield it to write AI and have your fleet command itself!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/digoal/blog#1742428800</id>
+    <title>https://github.com/digoal/blog</title>
+    <link href="https://github.com/digoal/blog" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Opensource,Database,AI,Business,Minds. git clone --depth 1 https://github.com/digoal/blog</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openmaptiles/openmaptiles#1742428800</id>
+    <title>https://github.com/openmaptiles/openmaptiles</title>
+    <link href="https://github.com/openmaptiles/openmaptiles" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">OpenMapTiles Vector Tile Schema Implementation</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pgpartman/pg_partman#1742428800</id>
+    <title>https://github.com/pgpartman/pg_partman</title>
+    <link href="https://github.com/pgpartman/pg_partman" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">Partition management extension for PostgreSQL</content>
+  </entry>
+  <entry>
+    <id>https://github.com/timescale/pgai#1742428800</id>
+    <title>https://github.com/timescale/pgai</title>
+    <link href="https://github.com/timescale/pgai" />
+    <updated>2025-03-20T00:00:00</updated>
+    <content type="text">A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL</content>
+  </entry>
+</feed>

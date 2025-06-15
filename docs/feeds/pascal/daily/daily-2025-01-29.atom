@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/pascal/daily.atom</id>
+  <title>GitHub Trending - pascal (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/pascal/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-29T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/IndySockets/Indy#1738108800</id>
+    <title>https://github.com/IndySockets/Indy</title>
+    <link href="https://github.com/IndySockets/Indy" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Indy - Internet Direct</content>
+  </entry>
+  <entry>
+    <id>https://github.com/cheat-engine/cheat-engine#1738108800</id>
+    <title>https://github.com/cheat-engine/cheat-engine</title>
+    <link href="https://github.com/cheat-engine/cheat-engine" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Cheat Engine. A development environment focused on modding</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doublecmd/doublecmd#1738108800</id>
+    <title>https://github.com/doublecmd/doublecmd</title>
+    <link href="https://github.com/doublecmd/doublecmd" />
+    <updated>2025-01-29T00:00:00</updated>
+    <content type="text">Double Commander is a free cross platform open source file manager with two panels side by side.</content>
+  </entry>
+</feed>

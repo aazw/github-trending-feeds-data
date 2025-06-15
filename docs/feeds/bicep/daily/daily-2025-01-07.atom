@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/bicep/daily.atom</id>
+  <title>GitHub Trending - bicep (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/bicep/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-07T11:07:48+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps#1736248068</id>
+    <title>https://github.com/Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps</title>
+    <link href="https://github.com/Azure-Samples/dotNET-Frontend-AB-Testing-on-Azure-Container-Apps" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">Demonstration of how ASP.NET Core developers can use Azure App Configuration's Feature Flags capabilities with Azure Container App revisions to A/B test front end apps.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/container-apps-jobs#1736248068</id>
+    <title>https://github.com/Azure-Samples/container-apps-jobs</title>
+    <link href="https://github.com/Azure-Samples/container-apps-jobs" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">This sample shows how to create Azure Container Apps Jobs via Azure CLI and Bicep and how to start and monitor these components.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps#1736248068</id>
+    <title>https://github.com/Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps</title>
+    <link href="https://github.com/Azure-Samples/dotNET-FrontEnd-to-BackEnd-on-Azure-Container-Apps" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">This repository demonstrates a typical front-end UI built with ASP.NET and a complementary back-end API.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/openai-chat-backend-fastapi#1736248068</id>
+    <title>https://github.com/Azure-Samples/openai-chat-backend-fastapi</title>
+    <link href="https://github.com/Azure-Samples/openai-chat-backend-fastapi" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">A backend for a chat application written in Python FastAPI framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/PetSpotR#1736248068</id>
+    <title>https://github.com/Azure-Samples/PetSpotR</title>
+    <link href="https://github.com/Azure-Samples/PetSpotR" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">Demo application that showcases a modern, cloud-native application</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/contoso-creative-writer#1736248068</id>
+    <title>https://github.com/Azure-Samples/contoso-creative-writer</title>
+    <link href="https://github.com/Azure-Samples/contoso-creative-writer" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">A creative writing multi-agent solution to help users write articles.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/github-copilot-resources/copilot-metrics-viewer#1736248068</id>
+    <title>https://github.com/github-copilot-resources/copilot-metrics-viewer</title>
+    <link href="https://github.com/github-copilot-resources/copilot-metrics-viewer" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">Tool to visualize the Copilot metrics provided via the Copilot Business Metrics API (current in public beta)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/SonarSource/sonar-scanning-examples#1736248068</id>
+    <title>https://github.com/SonarSource/sonar-scanning-examples</title>
+    <link href="https://github.com/SonarSource/sonar-scanning-examples" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">Shows how to use the Scanners</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/bicep#1736248068</id>
+    <title>https://github.com/Azure/bicep</title>
+    <link href="https://github.com/Azure/bicep" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">Bicep is a declarative language for describing and deploying Azure resources</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure-Samples/contoso-chat#1736248068</id>
+    <title>https://github.com/Azure-Samples/contoso-chat</title>
+    <link href="https://github.com/Azure-Samples/contoso-chat" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">This sample has the full End2End process of creating RAG application with Prompty and Azure AI Foundry. It includes GPT 3.5 Turbo LLM application code, evaluations, deployment automation with AZD CLI, GitHub actions for evaluation and deployment and intent mapping for multiple LLM task mapping.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/bicep-registry-modules#1736248068</id>
+    <title>https://github.com/Azure/bicep-registry-modules</title>
+    <link href="https://github.com/Azure/bicep-registry-modules" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">Bicep registry modules</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Azure/azure-quickstart-templates#1736248068</id>
+    <title>https://github.com/Azure/azure-quickstart-templates</title>
+    <link href="https://github.com/Azure/azure-quickstart-templates" />
+    <updated>2025-01-07T11:07:48+00:00</updated>
+    <content type="text">Azure Quickstart Templates</content>
+  </entry>
+</feed>

@@ -1,0 +1,152 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom</id>
+  <title>GitHub Trending - java (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/keycloak/keycloak#1737417600</id>
+    <title>https://github.com/keycloak/keycloak</title>
+    <link href="https://github.com/keycloak/keycloak" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Open Source Identity and Access Management For Modern Applications and Services</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Graylog2/graylog2-server#1737417600</id>
+    <title>https://github.com/Graylog2/graylog2-server</title>
+    <link href="https://github.com/Graylog2/graylog2-server" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Free and open log management</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CodePhiliaX/fastexcel#1737417600</id>
+    <title>https://github.com/CodePhiliaX/fastexcel</title>
+    <link href="https://github.com/CodePhiliaX/fastexcel" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">easyexcel作者最新升级版本， 快速、简洁、解决大文件内存溢出的java处理Excel工具</content>
+  </entry>
+  <entry>
+    <id>https://github.com/JabRef/jabref#1737417600</id>
+    <title>https://github.com/JabRef/jabref</title>
+    <link href="https://github.com/JabRef/jabref" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Graphical Java application for managing BibTeX and biblatex (.bib) databases</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/Sentinel#1737417600</id>
+    <title>https://github.com/alibaba/Sentinel</title>
+    <link href="https://github.com/alibaba/Sentinel" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">A powerful flow control component enabling reliability, resilience and monitoring for microservices. (面向云原生微服务的高可用流控防护组件)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jeremylong/DependencyCheck#1737417600</id>
+    <title>https://github.com/jeremylong/DependencyCheck</title>
+    <link href="https://github.com/jeremylong/DependencyCheck" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/testcontainers/testcontainers-java#1737417600</id>
+    <title>https://github.com/testcontainers/testcontainers-java</title>
+    <link href="https://github.com/testcontainers/testcontainers-java" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Testcontainers is a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/camunda/camunda-bpm-platform#1737417600</id>
+    <title>https://github.com/camunda/camunda-bpm-platform</title>
+    <link href="https://github.com/camunda/camunda-bpm-platform" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">C7 CE enters EOL in October 2025. Please check out C8 https://github.com/camunda/camunda – Flexible framework for workflow and decision automation with BPMN and DMN. Integration with Quarkus, Spring, Spring Boot, CDI.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elastic/elasticsearch#1737417600</id>
+    <title>https://github.com/elastic/elasticsearch</title>
+    <link href="https://github.com/elastic/elasticsearch" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Free and Open Source, Distributed, RESTful Search Engine</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-boot#1737417600</id>
+    <title>https://github.com/spring-projects/spring-boot</title>
+    <link href="https://github.com/spring-projects/spring-boot" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spring-projects/spring-ai#1737417600</id>
+    <title>https://github.com/spring-projects/spring-ai</title>
+    <link href="https://github.com/spring-projects/spring-ai" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">An Application Framework for AI Engineering</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/fineract#1737417600</id>
+    <title>https://github.com/apache/fineract</title>
+    <link href="https://github.com/apache/fineract" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Apache Fineract</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/flink#1737417600</id>
+    <title>https://github.com/apache/flink</title>
+    <link href="https://github.com/apache/flink" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Apache Flink</content>
+  </entry>
+  <entry>
+    <id>https://github.com/oracle/graal#1737417600</id>
+    <title>https://github.com/oracle/graal</title>
+    <link href="https://github.com/oracle/graal" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/alibaba/spring-ai-alibaba#1737417600</id>
+    <title>https://github.com/alibaba/spring-ai-alibaba</title>
+    <link href="https://github.com/alibaba/spring-ai-alibaba" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">An Application Framework for Java Developers</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hkhcoder/vprofile-project#1737417600</id>
+    <title>https://github.com/hkhcoder/vprofile-project</title>
+    <link href="https://github.com/hkhcoder/vprofile-project" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/Activiti/Activiti#1737417600</id>
+    <title>https://github.com/Activiti/Activiti</title>
+    <link href="https://github.com/Activiti/Activiti" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Activiti is a light-weight workflow and Business Process Management (BPM) Platform targeted at business people, developers and system admins. Its core is a super-fast and rock-solid BPMN 2 process engine for Java. It's open-source and distributed under the Apache license. Activiti runs in any Java application, on a server, on a cluster or in the…</content>
+  </entry>
+  <entry>
+    <id>https://github.com/androidx/media#1737417600</id>
+    <title>https://github.com/androidx/media</title>
+    <link href="https://github.com/androidx/media" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Jetpack Media3 support libraries for media use cases, including ExoPlayer, an extensible media player for Android</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Stirling-Tools/Stirling-PDF#1737417600</id>
+    <title>https://github.com/Stirling-Tools/Stirling-PDF</title>
+    <link href="https://github.com/Stirling-Tools/Stirling-PDF" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">#1 Locally hosted web application that allows you to perform various operations on PDF files</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/java-docs-samples#1737417600</id>
+    <title>https://github.com/GoogleCloudPlatform/java-docs-samples</title>
+    <link href="https://github.com/GoogleCloudPlatform/java-docs-samples" />
+    <updated>2025-01-21T00:00:00</updated>
+    <content type="text">Java and Kotlin Code samples used on cloud.google.com</content>
+  </entry>
+</feed>

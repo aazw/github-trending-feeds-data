@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</id>
+  <title>GitHub Trending - emacs-lisp (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-16T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/alphapapa/org-ql#1742083200</id>
+    <title>https://github.com/alphapapa/org-ql</title>
+    <link href="https://github.com/alphapapa/org-ql" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">A searching tool for Org-mode, including custom query languages, commands, saved searches and agenda-like views, etc.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/copilot-emacs/copilot.el#1742083200</id>
+    <title>https://github.com/copilot-emacs/copilot.el</title>
+    <link href="https://github.com/copilot-emacs/copilot.el" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">An unofficial Copilot plugin for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/doomemacs/doomemacs#1742083200</id>
+    <title>https://github.com/doomemacs/doomemacs</title>
+    <link href="https://github.com/doomemacs/doomemacs" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">An Emacs framework for the stubborn martian hacker</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-evil/evil#1742083200</id>
+    <title>https://github.com/emacs-evil/evil</title>
+    <link href="https://github.com/emacs-evil/evil" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">The extensible vi layer for Emacs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-helm/helm#1742083200</id>
+    <title>https://github.com/emacs-helm/helm</title>
+    <link href="https://github.com/emacs-helm/helm" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Emacs incremental completion and selection narrowing framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-mirror/emacs#1742083200</id>
+    <title>https://github.com/emacs-mirror/emacs</title>
+    <link href="https://github.com/emacs-mirror/emacs" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Mirror of GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/emacs-php/php-auto-yasnippets#1742083200</id>
+    <title>https://github.com/emacs-php/php-auto-yasnippets</title>
+    <link href="https://github.com/emacs-php/php-auto-yasnippets" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Dynamically Generated YASnippets for PHP Code in GNU Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iqbalansari/emacs-emojify#1742083200</id>
+    <title>https://github.com/iqbalansari/emacs-emojify</title>
+    <link href="https://github.com/iqbalansari/emacs-emojify" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Display emojis in Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jrblevin/markdown-mode#1742083200</id>
+    <title>https://github.com/jrblevin/markdown-mode</title>
+    <link href="https://github.com/jrblevin/markdown-mode" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Emacs Markdown Mode</content>
+  </entry>
+  <entry>
+    <id>https://github.com/karthink/gptel#1742083200</id>
+    <title>https://github.com/karthink/gptel</title>
+    <link href="https://github.com/karthink/gptel" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">A simple LLM client for Emacs</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kiwanami/emacs-deferred#1742083200</id>
+    <title>https://github.com/kiwanami/emacs-deferred</title>
+    <link href="https://github.com/kiwanami/emacs-deferred" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Simple asynchronous functions for emacs lisp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/meow-edit/meow#1742083200</id>
+    <title>https://github.com/meow-edit/meow</title>
+    <link href="https://github.com/meow-edit/meow" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Yet another modal editing on Emacs / 猫态编辑</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mmontone/emacs-inspector#1742083200</id>
+    <title>https://github.com/mmontone/emacs-inspector</title>
+    <link href="https://github.com/mmontone/emacs-inspector" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Inspection tool for Emacs Lisp objects.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/syl20bnr/spacemacs#1742083200</id>
+    <title>https://github.com/syl20bnr/spacemacs</title>
+    <link href="https://github.com/syl20bnr/spacemacs" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tninja/aider.el#1742083200</id>
+    <title>https://github.com/tninja/aider.el</title>
+    <link href="https://github.com/tninja/aider.el" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">Interact with Aider: AI pair programming made simple</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xenodium/chatgpt-shell#1742083200</id>
+    <title>https://github.com/xenodium/chatgpt-shell</title>
+    <link href="https://github.com/xenodium/chatgpt-shell" />
+    <updated>2025-03-16T00:00:00</updated>
+    <content type="text">A multi-llm Emacs shell (ChatGPT, Claude, DeepSeek, Gemini, Kagi, Ollama, Perplexity) + editing integrations</content>
+  </entry>
+</feed>

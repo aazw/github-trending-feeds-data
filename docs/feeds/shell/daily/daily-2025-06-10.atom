@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-10T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/MichaelCade/90DaysOfDevOps#1749513600</id>
+    <title>https://github.com/MichaelCade/90DaysOfDevOps</title>
+    <link href="https://github.com/MichaelCade/90DaysOfDevOps" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">This repository started out as a learning in public project for myself and has now become a structured learning map for many in the community. We have 3 years under our belt covering all things DevOps, including Principles, Processes, Tooling and Use Cases surrounding this vast topic.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/QwenLM/Qwen3#1749513600</id>
+    <title>https://github.com/QwenLM/Qwen3</title>
+    <link href="https://github.com/QwenLM/Qwen3" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Sergeydigl3/zapret-discord-youtube-linux#1749513600</id>
+    <title>https://github.com/Sergeydigl3/zapret-discord-youtube-linux</title>
+    <link href="https://github.com/Sergeydigl3/zapret-discord-youtube-linux" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">(NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acmesh-official/acme.sh#1749513600</id>
+    <title>https://github.com/acmesh-official/acme.sh</title>
+    <link href="https://github.com/acmesh-official/acme.sh" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/anthropics/claude-code#1749513600</id>
+    <title>https://github.com/anthropics/claude-code</title>
+    <link href="https://github.com/anthropics/claude-code" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/getsentry/self-hosted#1749513600</id>
+    <title>https://github.com/getsentry/self-hosted</title>
+    <link href="https://github.com/getsentry/self-hosted" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept</content>
+  </entry>
+  <entry>
+    <id>https://github.com/longhorn/longhorn#1749513600</id>
+    <title>https://github.com/longhorn/longhorn</title>
+    <link href="https://github.com/longhorn/longhorn" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Cloud-Native distributed storage built on and for Kubernetes</content>
+  </entry>
+  <entry>
+    <id>https://github.com/moovweb/gvm#1749513600</id>
+    <title>https://github.com/moovweb/gvm</title>
+    <link href="https://github.com/moovweb/gvm" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Go Version Manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1749513600</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ublue-os/bluefin#1749513600</id>
+    <title>https://github.com/ublue-os/bluefin</title>
+    <link href="https://github.com/ublue-os/bluefin" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">The next generation Linux workstation, designed for reliability, performance, and sustainability.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yhan219/navicat_reset_mac#1749513600</id>
+    <title>https://github.com/yhan219/navicat_reset_mac</title>
+    <link href="https://github.com/yhan219/navicat_reset_mac" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">navicat mac版无限重置试用期脚本 Navicat Mac Version Unlimited Trial Reset Script</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1749513600</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuaotian/go-cursor-help#1749513600</id>
+    <title>https://github.com/yuaotian/go-cursor-help</title>
+    <link href="https://github.com/yuaotian/go-cursor-help" />
+    <updated>2025-06-10T00:00:00</updated>
+    <content type="text">解决Cursor在免费订阅期间出现以下提示的问题: Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit. / Too many free trial accounts used on this machine.</content>
+  </entry>
+</feed>

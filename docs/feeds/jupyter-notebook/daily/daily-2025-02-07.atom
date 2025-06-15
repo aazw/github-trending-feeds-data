@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom</id>
+  <title>GitHub Trending - jupyter-notebook (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-07T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/CompVis/latent-diffusion#1738886400</id>
+    <title>https://github.com/CompVis/latent-diffusion</title>
+    <link href="https://github.com/CompVis/latent-diffusion" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">High-Resolution Image Synthesis with Latent Diffusion Models</content>
+  </entry>
+  <entry>
+    <id>https://github.com/GoogleCloudPlatform/generative-ai#1738886400</id>
+    <title>https://github.com/GoogleCloudPlatform/generative-ai</title>
+    <link href="https://github.com/GoogleCloudPlatform/generative-ai" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Sample code and notebooks for Generative AI on Google Cloud, with Gemini on Vertex AI</content>
+  </entry>
+  <entry>
+    <id>https://github.com/IDEA-Research/Grounded-SAM-2#1738886400</id>
+    <title>https://github.com/IDEA-Research/Grounded-SAM-2</title>
+    <link href="https://github.com/IDEA-Research/Grounded-SAM-2" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2</content>
+  </entry>
+  <entry>
+    <id>https://github.com/WongKinYiu/yolov7#1738886400</id>
+    <title>https://github.com/WongKinYiu/yolov7</title>
+    <link href="https://github.com/WongKinYiu/yolov7" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Implementation of paper - YOLOv7: Trainable bag-of-freebies sets new state-of-the-art for real-time object detectors</content>
+  </entry>
+  <entry>
+    <id>https://github.com/aimacode/aima-python#1738886400</id>
+    <title>https://github.com/aimacode/aima-python</title>
+    <link href="https://github.com/aimacode/aima-python" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/easy-rl#1738886400</id>
+    <title>https://github.com/datawhalechina/easy-rl</title>
+    <link href="https://github.com/datawhalechina/easy-rl" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">强化学习中文教程（蘑菇书🍄），在线阅读地址：https://datawhalechina.github.io/easy-rl/</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/llm-cookbook#1738886400</id>
+    <title>https://github.com/datawhalechina/llm-cookbook</title>
+    <link href="https://github.com/datawhalechina/llm-cookbook" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版</content>
+  </entry>
+  <entry>
+    <id>https://github.com/datawhalechina/self-llm#1738886400</id>
+    <title>https://github.com/datawhalechina/self-llm</title>
+    <link href="https://github.com/datawhalechina/self-llm" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程</content>
+  </entry>
+  <entry>
+    <id>https://github.com/facebookresearch/segment-anything#1738886400</id>
+    <title>https://github.com/facebookresearch/segment-anything</title>
+    <link href="https://github.com/facebookresearch/segment-anything" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google-gemini/cookbook#1738886400</id>
+    <title>https://github.com/google-gemini/cookbook</title>
+    <link href="https://github.com/google-gemini/cookbook" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Examples and guides for using the Gemini API</content>
+  </entry>
+  <entry>
+    <id>https://github.com/huggingface/blog#1738886400</id>
+    <title>https://github.com/huggingface/blog</title>
+    <link href="https://github.com/huggingface/blog" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Public repo for HF blog posts</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jackfrued/Python-100-Days#1738886400</id>
+    <title>https://github.com/jackfrued/Python-100-Days</title>
+    <link href="https://github.com/jackfrued/Python-100-Days" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">Python - 100天从新手到大师</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain#1738886400</id>
+    <title>https://github.com/langchain-ai/langchain</title>
+    <link href="https://github.com/langchain-ai/langchain" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">🦜🔗 Build context-aware reasoning applications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/langchain-ai/langchain-academy#1738886400</id>
+    <title>https://github.com/langchain-ai/langchain-academy</title>
+    <link href="https://github.com/langchain-ai/langchain-academy" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/openai/CLIP#1738886400</id>
+    <title>https://github.com/openai/CLIP</title>
+    <link href="https://github.com/openai/CLIP" />
+    <updated>2025-02-07T00:00:00</updated>
+    <content type="text">CLIP (Contrastive Language-Image Pretraining), Predict the most relevant text snippet given an image</content>
+  </entry>
+</feed>

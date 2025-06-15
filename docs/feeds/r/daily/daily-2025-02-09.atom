@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</id>
+  <title>GitHub Trending - r (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-09T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/broadinstitute/infercnv#1739059200</id>
+    <title>https://github.com/broadinstitute/infercnv</title>
+    <link href="https://github.com/broadinstitute/infercnv" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Inferring CNV from Single-Cell RNA-Seq</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prisma-flowdiagram/PRISMA2020#1739059200</id>
+    <title>https://github.com/prisma-flowdiagram/PRISMA2020</title>
+    <link href="https://github.com/prisma-flowdiagram/PRISMA2020" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">Produce PRISMA-2020 compliant flow diagrams</content>
+  </entry>
+  <entry>
+    <id>https://github.com/qinwf/awesome-R#1739059200</id>
+    <title>https://github.com/qinwf/awesome-R</title>
+    <link href="https://github.com/qinwf/awesome-R" />
+    <updated>2025-02-09T00:00:00</updated>
+    <content type="text">A curated list of awesome R packages, frameworks and software.</content>
+  </entry>
+</feed>

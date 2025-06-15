@@ -1,0 +1,117 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom</id>
+  <title>GitHub Trending - ruby (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-04-21T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/TheOdinProject/ruby-exercises#1745193600</id>
+    <title>https://github.com/TheOdinProject/ruby-exercises</title>
+    <link href="https://github.com/TheOdinProject/ruby-exercises" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/dependabot/dependabot-core#1745193600</id>
+    <title>https://github.com/dependabot/dependabot-core</title>
+    <link href="https://github.com/dependabot/dependabot-core" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">🤖 Dependabot's core logic for creating update PRs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/discourse/discourse#1745193600</id>
+    <title>https://github.com/discourse/discourse</title>
+    <link href="https://github.com/discourse/discourse" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A platform for community discussion. Free, open, simple.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/endoflife-date/endoflife.date#1745193600</id>
+    <title>https://github.com/endoflife-date/endoflife.date</title>
+    <link href="https://github.com/endoflife-date/endoflife.date" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Informative site with EoL dates of everything</content>
+  </entry>
+  <entry>
+    <id>https://github.com/fluent/fluentd#1745193600</id>
+    <title>https://github.com/fluent/fluentd</title>
+    <link href="https://github.com/fluent/fluentd" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Fluentd: Unified Logging Layer (project under CNCF)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/forem/forem#1745193600</id>
+    <title>https://github.com/forem/forem</title>
+    <link href="https://github.com/forem/forem" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">For empowering community 🌱</content>
+  </entry>
+  <entry>
+    <id>https://github.com/freeCodeCamp/devdocs#1745193600</id>
+    <title>https://github.com/freeCodeCamp/devdocs</title>
+    <link href="https://github.com/freeCodeCamp/devdocs" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">API Documentation Browser</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hotwired/turbo-rails#1745193600</id>
+    <title>https://github.com/hotwired/turbo-rails</title>
+    <link href="https://github.com/hotwired/turbo-rails" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Use Turbo in your Ruby on Rails app</content>
+  </entry>
+  <entry>
+    <id>https://github.com/jekyll/jekyll#1745193600</id>
+    <title>https://github.com/jekyll/jekyll</title>
+    <link href="https://github.com/jekyll/jekyll" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">🌐 Jekyll is a blog-aware static site generator in Ruby</content>
+  </entry>
+  <entry>
+    <id>https://github.com/open-telemetry/opentelemetry-ruby-contrib#1745193600</id>
+    <title>https://github.com/open-telemetry/opentelemetry-ruby-contrib</title>
+    <link href="https://github.com/open-telemetry/opentelemetry-ruby-contrib" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Contrib Packages for the OpenTelemetry Ruby API and SDK implementation.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rapid7/metasploit-framework#1745193600</id>
+    <title>https://github.com/rapid7/metasploit-framework</title>
+    <link href="https://github.com/rapid7/metasploit-framework" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Metasploit Framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ruby/ruby#1745193600</id>
+    <title>https://github.com/ruby/ruby</title>
+    <link href="https://github.com/ruby/ruby" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">The Ruby Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rubysec/ruby-advisory-db#1745193600</id>
+    <title>https://github.com/rubysec/ruby-advisory-db</title>
+    <link href="https://github.com/rubysec/ruby-advisory-db" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">A database of vulnerable Ruby Gems</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sinatra/sinatra#1745193600</id>
+    <title>https://github.com/sinatra/sinatra</title>
+    <link href="https://github.com/sinatra/sinatra" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">Classy web-development dressed in a DSL (official / canonical repo)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/spree/spree#1745193600</id>
+    <title>https://github.com/spree/spree</title>
+    <link href="https://github.com/spree/spree" />
+    <updated>2025-04-21T00:00:00</updated>
+    <content type="text">An open source eCommerce platform giving you full control and customizability. Modular and API-first. Multi-vendor, multi-tenant, multi-store, multi-currency, multi-language. Built using Ruby on Rails. Developed by @vendo-dev</content>
+  </entry>
+</feed>

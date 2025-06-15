@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/odin/monthly.atom</id>
+  <title>GitHub Trending - odin (monthly)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/odin/monthly.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-02-01T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/DanielGavin/ols#1738368000</id>
+    <title>https://github.com/DanielGavin/ols</title>
+    <link href="https://github.com/DanielGavin/ols" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Language server for Odin</content>
+  </entry>
+  <entry>
+    <id>https://github.com/laytan/odin-http#1738368000</id>
+    <title>https://github.com/laytan/odin-http</title>
+    <link href="https://github.com/laytan/odin-http" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">A HTTP/1.1 client/server implementation for Odin.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/odin-lang/Odin#1738368000</id>
+    <title>https://github.com/odin-lang/Odin</title>
+    <link href="https://github.com/odin-lang/Odin" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Odin Programming Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/odin-lang/examples#1738368000</id>
+    <title>https://github.com/odin-lang/examples</title>
+    <link href="https://github.com/odin-lang/examples" />
+    <updated>2025-02-01T00:00:00</updated>
+    <content type="text">Examples of idiomatic Odin code</content>
+  </entry>
+</feed>

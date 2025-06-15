@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom</id>
+  <title>GitHub Trending - smalltalk (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/smalltalk/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-06-02T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/SeasideSt/Seaside#1748822400</id>
+    <title>https://github.com/SeasideSt/Seaside</title>
+    <link href="https://github.com/SeasideSt/Seaside" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">The framework for developing sophisticated web applications in Smalltalk.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/feenkcom/gtoolkit#1748822400</id>
+    <title>https://github.com/feenkcom/gtoolkit</title>
+    <link href="https://github.com/feenkcom/gtoolkit" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Glamorous Toolkit is the Moldable Development Environment. It empowers you to make systems explainable through contextual micro tools.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pharo-contributions/OSSubprocess#1748822400</id>
+    <title>https://github.com/pharo-contributions/OSSubprocess</title>
+    <link href="https://github.com/pharo-contributions/OSSubprocess" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Forking Operating System Processes from within Pharo Language</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pharo-graphics/Bloc#1748822400</id>
+    <title>https://github.com/pharo-graphics/Bloc</title>
+    <link href="https://github.com/pharo-graphics/Bloc" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">Low-level UI infrastructure &amp; framework for Pharo</content>
+  </entry>
+  <entry>
+    <id>https://github.com/pharo-graphics/Toplo#1748822400</id>
+    <title>https://github.com/pharo-graphics/Toplo</title>
+    <link href="https://github.com/pharo-graphics/Toplo" />
+    <updated>2025-06-02T00:00:00</updated>
+    <content type="text">A widget framework on top of Bloc</content>
+  </entry>
+</feed>

@@ -1,0 +1,89 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</id>
+  <title>GitHub Trending - c (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-18T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/openssl/openssl#1737158400</id>
+    <title>https://github.com/openssl/openssl</title>
+    <link href="https://github.com/openssl/openssl" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">TLS/SSL and crypto library</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zmkfirmware/zmk#1737158400</id>
+    <title>https://github.com/zmkfirmware/zmk</title>
+    <link href="https://github.com/zmkfirmware/zmk" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">ZMK Firmware Repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Mbed-TLS/mbedtls#1737158400</id>
+    <title>https://github.com/Mbed-TLS/mbedtls</title>
+    <link href="https://github.com/Mbed-TLS/mbedtls" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hathach/tinyusb#1737158400</id>
+    <title>https://github.com/hathach/tinyusb</title>
+    <link href="https://github.com/hathach/tinyusb" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">An open source cross-platform USB stack for embedded system</content>
+  </entry>
+  <entry>
+    <id>https://github.com/iovisor/bcc#1737158400</id>
+    <title>https://github.com/iovisor/bcc</title>
+    <link href="https://github.com/iovisor/bcc" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/redcanaryco/atomic-red-team#1737158400</id>
+    <title>https://github.com/redcanaryco/atomic-red-team</title>
+    <link href="https://github.com/redcanaryco/atomic-red-team" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Small and highly portable detection tests based on MITRE's ATT&amp;CK.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sqlcipher/sqlcipher#1737158400</id>
+    <title>https://github.com/sqlcipher/sqlcipher</title>
+    <link href="https://github.com/sqlcipher/sqlcipher" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">SQLCipher is a standalone fork of SQLite that adds 256 bit AES encryption of database files and other security features.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/DarkFlippers/unleashed-firmware#1737158400</id>
+    <title>https://github.com/DarkFlippers/unleashed-firmware</title>
+    <link href="https://github.com/DarkFlippers/unleashed-firmware" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Flipper Zero Unleashed Firmware</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mit-pdos/xv6-riscv#1737158400</id>
+    <title>https://github.com/mit-pdos/xv6-riscv</title>
+    <link href="https://github.com/mit-pdos/xv6-riscv" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Xv6 for RISC-V</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Genymobile/scrcpy#1737158400</id>
+    <title>https://github.com/Genymobile/scrcpy</title>
+    <link href="https://github.com/Genymobile/scrcpy" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Display and control your Android device</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kokke/tiny-AES-c#1737158400</id>
+    <title>https://github.com/kokke/tiny-AES-c</title>
+    <link href="https://github.com/kokke/tiny-AES-c" />
+    <updated>2025-01-18T00:00:00</updated>
+    <content type="text">Small portable AES128/192/256 in C</content>
+  </entry>
+</feed>

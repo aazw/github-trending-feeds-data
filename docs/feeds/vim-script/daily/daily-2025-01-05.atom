@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</id>
+  <title>GitHub Trending - vim-script (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-01-05T11:31:32+00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/morhetz/gruvbox#1736076692</id>
+    <title>https://github.com/morhetz/gruvbox</title>
+    <link href="https://github.com/morhetz/gruvbox" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">Retro groove color scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete.vim#1736076692</id>
+    <title>https://github.com/prabirshrestha/asyncomplete.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete.vim" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">async completion in pure vim script for vim8 and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/asyncomplete-lsp.vim#1736076692</id>
+    <title>https://github.com/prabirshrestha/asyncomplete-lsp.vim</title>
+    <link href="https://github.com/prabirshrestha/asyncomplete-lsp.vim" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text" />
+  </entry>
+  <entry>
+    <id>https://github.com/vim-syntastic/syntastic#1736076692</id>
+    <title>https://github.com/vim-syntastic/syntastic</title>
+    <link href="https://github.com/vim-syntastic/syntastic" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">Syntax checking hacks for vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-abolish#1736076692</id>
+    <title>https://github.com/tpope/vim-abolish</title>
+    <link href="https://github.com/tpope/vim-abolish" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">abolish.vim: Work with several variants of a word at once</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim-jp/vimdoc-ja#1736076692</id>
+    <title>https://github.com/vim-jp/vimdoc-ja</title>
+    <link href="https://github.com/vim-jp/vimdoc-ja" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">A project which translate Vim documents into Japanese.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/prabirshrestha/async.vim#1736076692</id>
+    <title>https://github.com/prabirshrestha/async.vim</title>
+    <link href="https://github.com/prabirshrestha/async.vim" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">normalize async job control api for vim and neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tpope/vim-dispatch#1736076692</id>
+    <title>https://github.com/tpope/vim-dispatch</title>
+    <link href="https://github.com/tpope/vim-dispatch" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">dispatch.vim: Asynchronous build and test dispatcher</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mattn/vim-lsp-settings#1736076692</id>
+    <title>https://github.com/mattn/vim-lsp-settings</title>
+    <link href="https://github.com/mattn/vim-lsp-settings" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">Auto configurations for Language Server for vim-lsp</content>
+  </entry>
+  <entry>
+    <id>https://github.com/voldikss/vim-floaterm#1736076692</id>
+    <title>https://github.com/voldikss/vim-floaterm</title>
+    <link href="https://github.com/voldikss/vim-floaterm" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">💻 Terminal manager for (neo)vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mbbill/undotree#1736076692</id>
+    <title>https://github.com/mbbill/undotree</title>
+    <link href="https://github.com/mbbill/undotree" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">The undo history visualizer for VIM</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ziglang/zig.vim#1736076692</id>
+    <title>https://github.com/ziglang/zig.vim</title>
+    <link href="https://github.com/ziglang/zig.vim" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">Vim configuration for Zig</content>
+  </entry>
+  <entry>
+    <id>https://github.com/roxma/nvim-yarp#1736076692</id>
+    <title>https://github.com/roxma/nvim-yarp</title>
+    <link href="https://github.com/roxma/nvim-yarp" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">Yet Another Remote Plugin Framework for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/joshdick/onedark.vim#1736076692</id>
+    <title>https://github.com/joshdick/onedark.vim</title>
+    <link href="https://github.com/joshdick/onedark.vim" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">A dark Vim/Neovim color scheme inspired by Atom's One Dark syntax theme.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mhinz/vim-galore#1736076692</id>
+    <title>https://github.com/mhinz/vim-galore</title>
+    <link href="https://github.com/mhinz/vim-galore" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">🎓 All things Vim!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Exafunction/codeium.vim#1736076692</id>
+    <title>https://github.com/Exafunction/codeium.vim</title>
+    <link href="https://github.com/Exafunction/codeium.vim" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">Free, ultrafast Copilot alternative for Vim and Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kristijanhusak/vim-dadbod-ui#1736076692</id>
+    <title>https://github.com/kristijanhusak/vim-dadbod-ui</title>
+    <link href="https://github.com/kristijanhusak/vim-dadbod-ui" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">Simple UI for https://github.com/tpope/vim-dadbod</content>
+  </entry>
+  <entry>
+    <id>https://github.com/derekhe/msfs2020-map-enhancement#1736076692</id>
+    <title>https://github.com/derekhe/msfs2020-map-enhancement</title>
+    <link href="https://github.com/derekhe/msfs2020-map-enhancement" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">MSFS2020 Map Enhancement</content>
+  </entry>
+  <entry>
+    <id>https://github.com/vim/vim#1736076692</id>
+    <title>https://github.com/vim/vim</title>
+    <link href="https://github.com/vim/vim" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">The official Vim repository</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/neovim#1736076692</id>
+    <title>https://github.com/neovim/neovim</title>
+    <link href="https://github.com/neovim/neovim" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">Vim-fork focused on extensibility and usability</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/everforest#1736076692</id>
+    <title>https://github.com/sainnhe/everforest</title>
+    <link href="https://github.com/sainnhe/everforest" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">🌲 Comfortable &amp; Pleasant Color Scheme for Vim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/sainnhe/gruvbox-material#1736076692</id>
+    <title>https://github.com/sainnhe/gruvbox-material</title>
+    <link href="https://github.com/sainnhe/gruvbox-material" />
+    <updated>2025-01-05T11:31:32+00:00</updated>
+    <content type="text">Gruvbox with Material Palette</content>
+  </entry>
+</feed>

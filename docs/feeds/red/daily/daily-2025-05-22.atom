@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/red/daily.atom</id>
+  <title>GitHub Trending - red (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/red/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-22T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/red/red#1747872000</id>
+    <title>https://github.com/red/red</title>
+    <link href="https://github.com/red/red" />
+    <updated>2025-05-22T00:00:00</updated>
+    <content type="text">Red is a next-generation programming language strongly inspired by Rebol, but with a broader field of usage thanks to its native-code compiler, from system programming to high-level scripting and cross-platform reactive GUI, while providing modern support for concurrency, all in a zero-install, zero-config, single ~1MB file!</content>
+  </entry>
+</feed>

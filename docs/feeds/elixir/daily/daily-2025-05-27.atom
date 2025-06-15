@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom</id>
+  <title>GitHub Trending - elixir (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-05-27T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/anoma/anoma#1748304000</id>
+    <title>https://github.com/anoma/anoma</title>
+    <link href="https://github.com/anoma/anoma" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Reference implementation of Anoma</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/ash#1748304000</id>
+    <title>https://github.com/ash-project/ash</title>
+    <link href="https://github.com/ash-project/ash" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">A declarative, extensible framework for building Elixir applications.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ash-project/igniter#1748304000</id>
+    <title>https://github.com/ash-project/igniter</title>
+    <link href="https://github.com/ash-project/igniter" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">A code generation and project patching framework.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/blockscout/blockscout#1748304000</id>
+    <title>https://github.com/blockscout/blockscout</title>
+    <link href="https://github.com/blockscout/blockscout" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/brainlid/langchain#1748304000</id>
+    <title>https://github.com/brainlid/langchain</title>
+    <link href="https://github.com/brainlid/langchain" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Elixir implementation of a LangChain style framework that lets Elixir projects integrate with and leverage LLMs.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/duffelhq/paginator#1748304000</id>
+    <title>https://github.com/duffelhq/paginator</title>
+    <link href="https://github.com/duffelhq/paginator" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Cursor-based pagination for Elixir Ecto</content>
+  </entry>
+  <entry>
+    <id>https://github.com/electric-sql/electric#1748304000</id>
+    <title>https://github.com/electric-sql/electric</title>
+    <link href="https://github.com/electric-sql/electric" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Real-time sync for Postgres.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lsp/elixir-ls#1748304000</id>
+    <title>https://github.com/elixir-lsp/elixir-ls</title>
+    <link href="https://github.com/elixir-lsp/elixir-ls" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">A frontend-independent IDE "smartness" server for Elixir. Implements the "Language Server Protocol" standard and provides debugger support via the "Debug Adapter Protocol"</content>
+  </entry>
+  <entry>
+    <id>https://github.com/elixir-lsp/elixir_sense#1748304000</id>
+    <title>https://github.com/elixir-lsp/elixir_sense</title>
+    <link href="https://github.com/elixir-lsp/elixir_sense" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Provides context-aware information for code completion, documentation, go/jump to definition, signature info and more</content>
+  </entry>
+  <entry>
+    <id>https://github.com/firezone/firezone#1748304000</id>
+    <title>https://github.com/firezone/firezone</title>
+    <link href="https://github.com/firezone/firezone" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Enterprise-ready zero-trust access platform built on WireGuard®.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/kieraneglin/pinchflat#1748304000</id>
+    <title>https://github.com/kieraneglin/pinchflat</title>
+    <link href="https://github.com/kieraneglin/pinchflat" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Your next YouTube media manager</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix#1748304000</id>
+    <title>https://github.com/phoenixframework/phoenix</title>
+    <link href="https://github.com/phoenixframework/phoenix" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Peace of mind from prototype to production</content>
+  </entry>
+  <entry>
+    <id>https://github.com/phoenixframework/phoenix_live_view#1748304000</id>
+    <title>https://github.com/phoenixframework/phoenix_live_view</title>
+    <link href="https://github.com/phoenixframework/phoenix_live_view" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Rich, real-time user experiences with server-rendered HTML</content>
+  </entry>
+  <entry>
+    <id>https://github.com/plausible/analytics#1748304000</id>
+    <title>https://github.com/plausible/analytics</title>
+    <link href="https://github.com/plausible/analytics" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">Simple, open source, lightweight and privacy-friendly web analytics alternative to Google Analytics.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/team-alembic/ash_authentication#1748304000</id>
+    <title>https://github.com/team-alembic/ash_authentication</title>
+    <link href="https://github.com/team-alembic/ash_authentication" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">The Ash Authentication framework</content>
+  </entry>
+  <entry>
+    <id>https://github.com/teslamate-org/teslamate#1748304000</id>
+    <title>https://github.com/teslamate-org/teslamate</title>
+    <link href="https://github.com/teslamate-org/teslamate" />
+    <updated>2025-05-27T00:00:00</updated>
+    <content type="text">A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]</content>
+  </entry>
+</feed>

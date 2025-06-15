@@ -1,0 +1,138 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom</id>
+  <title>GitHub Trending - shell (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-15T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/Fmstrat/winapps#1741996800</id>
+    <title>https://github.com/Fmstrat/winapps</title>
+    <link href="https://github.com/Fmstrat/winapps" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ROCm/ROCm#1741996800</id>
+    <title>https://github.com/ROCm/ROCm</title>
+    <link href="https://github.com/ROCm/ROCm" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">AMD ROCm™ Software - GitHub Home</content>
+  </entry>
+  <entry>
+    <id>https://github.com/RPi-Distro/pi-gen#1741996800</id>
+    <title>https://github.com/RPi-Distro/pi-gen</title>
+    <link href="https://github.com/RPi-Distro/pi-gen" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Tool used to create the official Raspberry Pi OS images</content>
+  </entry>
+  <entry>
+    <id>https://github.com/acmesh-official/acme.sh#1741996800</id>
+    <title>https://github.com/acmesh-official/acme.sh</title>
+    <link href="https://github.com/acmesh-official/acme.sh" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A pure Unix shell script implementing ACME client protocol</content>
+  </entry>
+  <entry>
+    <id>https://github.com/antonbabenko/pre-commit-terraform#1741996800</id>
+    <title>https://github.com/antonbabenko/pre-commit-terraform</title>
+    <link href="https://github.com/antonbabenko/pre-commit-terraform" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">pre-commit git hooks to take care of Terraform configurations 🇺🇦</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bin456789/reinstall#1741996800</id>
+    <title>https://github.com/bin456789/reinstall</title>
+    <link href="https://github.com/bin456789/reinstall" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">一键DD/重装脚本 (One-click reinstall OS on VPS)</content>
+  </entry>
+  <entry>
+    <id>https://github.com/bioconda/bioconda-recipes#1741996800</id>
+    <title>https://github.com/bioconda/bioconda-recipes</title>
+    <link href="https://github.com/bioconda/bioconda-recipes" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Conda recipes for the bioconda channel.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/conda-forge/miniforge#1741996800</id>
+    <title>https://github.com/conda-forge/miniforge</title>
+    <link href="https://github.com/conda-forge/miniforge" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">A conda-forge distribution.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/d3/d3#1741996800</id>
+    <title>https://github.com/d3/d3</title>
+    <link href="https://github.com/d3/d3" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Bring data to life with SVG, Canvas and HTML. 📊📈🎉</content>
+  </entry>
+  <entry>
+    <id>https://github.com/geerlingguy/mac-dev-playbook#1741996800</id>
+    <title>https://github.com/geerlingguy/mac-dev-playbook</title>
+    <link href="https://github.com/geerlingguy/mac-dev-playbook" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Mac setup and configuration via Ansible.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/google/oss-fuzz#1741996800</id>
+    <title>https://github.com/google/oss-fuzz</title>
+    <link href="https://github.com/google/oss-fuzz" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">OSS-Fuzz - continuous fuzzing for open source software.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvm-sh/nvm#1741996800</id>
+    <title>https://github.com/nvm-sh/nvm</title>
+    <link href="https://github.com/nvm-sh/nvm" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ohmyzsh/ohmyzsh#1741996800</id>
+    <title>https://github.com/ohmyzsh/ohmyzsh</title>
+    <link href="https://github.com/ohmyzsh/ohmyzsh" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/openshift/release#1741996800</id>
+    <title>https://github.com/openshift/release</title>
+    <link href="https://github.com/openshift/release" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Release tooling for OpenShift</content>
+  </entry>
+  <entry>
+    <id>https://github.com/six2dez/reconftw#1741996800</id>
+    <title>https://github.com/six2dez/reconftw</title>
+    <link href="https://github.com/six2dez/reconftw" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">reconFTW is a tool designed to perform automated recon on a target domain by running the best set of tools to perform scanning and finding out vulnerabilities</content>
+  </entry>
+  <entry>
+    <id>https://github.com/tmux-plugins/tmux-resurrect#1741996800</id>
+    <title>https://github.com/tmux-plugins/tmux-resurrect</title>
+    <link href="https://github.com/tmux-plugins/tmux-resurrect" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">Persists tmux environment across system restarts.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/youngyangyang04/leetcode-master#1741996800</id>
+    <title>https://github.com/youngyangyang04/leetcode-master</title>
+    <link href="https://github.com/youngyangyang04/leetcode-master" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">《代码随想录》LeetCode 刷题攻略：200道经典题目刷题顺序，共60w字的详细图解，视频难点剖析，50余张思维导图，支持C++，Java，Python，Go，JavaScript等多语言版本，从此算法学习不再迷茫！🔥🔥 来看看，你会发现相见恨晚！🚀</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yuaotian/go-cursor-help#1741996800</id>
+    <title>https://github.com/yuaotian/go-cursor-help</title>
+    <link href="https://github.com/yuaotian/go-cursor-help" />
+    <updated>2025-03-15T00:00:00</updated>
+    <content type="text">解决Cursor在免费订阅期间出现以下提示的问题: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.</content>
+  </entry>
+</feed>

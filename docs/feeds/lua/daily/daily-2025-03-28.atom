@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='utf-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom</id>
+  <title>GitHub Trending - lua (daily)</title>
+  <link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self" />
+  <link href="https://aazw.github.io/github-trending-feeds/" rel="alternate" />
+  <icon>https://github.githubassets.com/favicons/favicon.svg</icon>
+  <updated>2025-03-28T00:00:00</updated>
+  <author>
+    <name>aazw</name>
+  </author>
+  <entry>
+    <id>https://github.com/3rd/image.nvim#1743120000</id>
+    <title>https://github.com/3rd/image.nvim</title>
+    <link href="https://github.com/3rd/image.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">🖼️ Bringing images to Neovim.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/AstroNvim/astrocommunity#1743120000</id>
+    <title>https://github.com/AstroNvim/astrocommunity</title>
+    <link href="https://github.com/AstroNvim/astrocommunity" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">A community repository of common plugin specifications</content>
+  </entry>
+  <entry>
+    <id>https://github.com/CopilotC-Nvim/CopilotChat.nvim#1743120000</id>
+    <title>https://github.com/CopilotC-Nvim/CopilotChat.nvim</title>
+    <link href="https://github.com/CopilotC-Nvim/CopilotChat.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Chat with GitHub Copilot in Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Kong/kong#1743120000</id>
+    <title>https://github.com/Kong/kong</title>
+    <link href="https://github.com/Kong/kong" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">🦍 The Cloud-Native API Gateway and AI Gateway.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/LazyVim/LazyVim#1743120000</id>
+    <title>https://github.com/LazyVim/LazyVim</title>
+    <link href="https://github.com/LazyVim/LazyVim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Neovim config for the lazy</content>
+  </entry>
+  <entry>
+    <id>https://github.com/Saghen/blink.cmp#1743120000</id>
+    <title>https://github.com/Saghen/blink.cmp</title>
+    <link href="https://github.com/Saghen/blink.cmp" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Performant, batteries-included completion plugin for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/apache/apisix#1743120000</id>
+    <title>https://github.com/apache/apisix</title>
+    <link href="https://github.com/apache/apisix" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">The Cloud-Native API Gateway and AI Gateway</content>
+  </entry>
+  <entry>
+    <id>https://github.com/ellisonleao/gruvbox.nvim#1743120000</id>
+    <title>https://github.com/ellisonleao/gruvbox.nvim</title>
+    <link href="https://github.com/ellisonleao/gruvbox.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Lua port of the most famous vim colorscheme</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/snacks.nvim#1743120000</id>
+    <title>https://github.com/folke/snacks.nvim</title>
+    <link href="https://github.com/folke/snacks.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">🍿 A collection of QoL plugins for Neovim</content>
+  </entry>
+  <entry>
+    <id>https://github.com/folke/which-key.nvim#1743120000</id>
+    <title>https://github.com/folke/which-key.nvim</title>
+    <link href="https://github.com/folke/which-key.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">💥 Create key bindings that stick. WhichKey helps you remember your Neovim keymaps, by showing available keybindings in a popup as you type.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/hrsh7th/nvim-cmp#1743120000</id>
+    <title>https://github.com/hrsh7th/nvim-cmp</title>
+    <link href="https://github.com/hrsh7th/nvim-cmp" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">A completion plugin for neovim coded in Lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/mfussenegger/nvim-lint#1743120000</id>
+    <title>https://github.com/mfussenegger/nvim-lint</title>
+    <link href="https://github.com/mfussenegger/nvim-lint" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">An asynchronous linter plugin for Neovim complementary to the built-in Language Server Protocol support.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/neovim/nvim-lspconfig#1743120000</id>
+    <title>https://github.com/neovim/nvim-lspconfig</title>
+    <link href="https://github.com/neovim/nvim-lspconfig" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Quickstart configs for Nvim LSP</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-lualine/lualine.nvim#1743120000</id>
+    <title>https://github.com/nvim-lualine/lualine.nvim</title>
+    <link href="https://github.com/nvim-lualine/lualine.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">A blazing fast and easy to configure neovim statusline plugin written in pure lua.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/nvim-telescope/telescope.nvim#1743120000</id>
+    <title>https://github.com/nvim-telescope/telescope.nvim</title>
+    <link href="https://github.com/nvim-telescope/telescope.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Find, Filter, Preview, Pick. All lua, all the time.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/rafamadriz/friendly-snippets#1743120000</id>
+    <title>https://github.com/rafamadriz/friendly-snippets</title>
+    <link href="https://github.com/rafamadriz/friendly-snippets" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Set of preconfigured snippets for different languages.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/stevearc/oil.nvim#1743120000</id>
+    <title>https://github.com/stevearc/oil.nvim</title>
+    <link href="https://github.com/stevearc/oil.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Neovim file explorer: edit your filesystem like a buffer</content>
+  </entry>
+  <entry>
+    <id>https://github.com/williamboman/mason.nvim#1743120000</id>
+    <title>https://github.com/williamboman/mason.nvim</title>
+    <link href="https://github.com/williamboman/mason.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.</content>
+  </entry>
+  <entry>
+    <id>https://github.com/xmake-io/xmake#1743120000</id>
+    <title>https://github.com/xmake-io/xmake</title>
+    <link href="https://github.com/xmake-io/xmake" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">🔥 A cross-platform build utility based on Lua</content>
+  </entry>
+  <entry>
+    <id>https://github.com/yetone/avante.nvim#1743120000</id>
+    <title>https://github.com/yetone/avante.nvim</title>
+    <link href="https://github.com/yetone/avante.nvim" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Use your Neovim like using Cursor AI IDE!</content>
+  </entry>
+  <entry>
+    <id>https://github.com/zbirenbaum/copilot.lua#1743120000</id>
+    <title>https://github.com/zbirenbaum/copilot.lua</title>
+    <link href="https://github.com/zbirenbaum/copilot.lua" />
+    <updated>2025-03-28T00:00:00</updated>
+    <content type="text">Fully featured &amp; enhanced replacement for copilot.vim complete with API for interacting with Github Copilot</content>
+  </entry>
+</feed>
