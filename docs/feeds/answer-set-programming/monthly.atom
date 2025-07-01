@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/answer-set-programming/monthly.atom</ns0:id>
+  <ns0:title>GitHub Trending - answer-set-programming (monthly)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/answer-set-programming/monthly.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2025-07-01T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:awslabs:amazon-timestream-tools:1751328000</ns0:id>
+    <ns0:title>awslabs/amazon-timestream-tools</ns0:title>
+    <ns0:link href="https://github.com/awslabs/amazon-timestream-tools"/>
+    <ns0:updated>2025-07-01T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/awslabs/amazon-timestream-tools"&gt;https://github.com/awslabs/amazon-timestream-tools&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; answer-set-programming&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Tools and utilities to enable loading data and building applications with Amazon Timestream.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

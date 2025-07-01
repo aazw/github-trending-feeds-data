@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/bibtex-style/monthly.atom</ns0:id>
+  <ns0:title>GitHub Trending - bibtex-style (monthly)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/bibtex-style/monthly.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2025-07-01T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:AndreyAkinshin:Russian-Phd-LaTeX-Dissertation-Template:1751328000</ns0:id>
+    <ns0:title>AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template</ns0:title>
+    <ns0:link href="https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template"/>
+    <ns0:updated>2025-07-01T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template"&gt;https://github.com/AndreyAkinshin/Russian-Phd-LaTeX-Dissertation-Template&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bibtex-style&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;LaTeX-template for russian Phd thesis&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
