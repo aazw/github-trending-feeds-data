@@ -1,0 +1,19 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": ["config:recommended", ":configMigration"],
+  "labels": ["Renovate"],
+  "prHourlyLimit": 0,
+  "prConcurrentLimit": 10,
+  "assignees": ["aazw"],
+  "customManagers": [],
+  "packageRules": [
+    {
+      "matchFileNames": [".devcontainer/**"],
+      "groupName": "devcontainer"
+    },
+    {
+      "matchFileNames": [".github/workflows/*.yaml"],
+      "groupName": "githubactions"
+    }
+  ]
+}

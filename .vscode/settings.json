@@ -1,0 +1,16 @@
+{
+  "editor.wordWrap": "off",
+  "[markdown]": {
+    "editor.wordWrap": "off"
+  },
+  "editor.formatOnSave": false,
+  "emeraldwalk.runonsave": {
+    "commands": [
+      {
+        // treefmt側でフォーマッタを選択する
+        "match": ".*",
+        "cmd": "treefmt \"${file}\""
+      }
+    ]
+  }
+}
