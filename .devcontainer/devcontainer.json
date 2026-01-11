@@ -1,6 +1,6 @@
 {
-  "name": "vsc-github-trending-feeds-data",
-  "image": "aazw/devcontainers-devbox-base:1",
+  "name": "vsc-github-trending-feeds-data-${localWorkspaceFolderBasename}-${devcontainerId}",
+  "image": "aazw/devcontainers-devbox-base:6",
   "features": {
     "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {
       "version": "latest",
@@ -23,9 +23,11 @@
       }
     }
   },
+  // "workspaceMount": "source=${localWorkspaceFolder}/..,target=/workspaces,type=bind,consistency=cached",
+  // "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
   "mounts": [
     {
-      "source": "${localWorkspaceFolder}/.claude",
+      "source": "${localWorkspaceFolder}/.claude-home-cache",
       "target": "/home/vscode/.claude",
       "type": "bind"
     }
@@ -39,8 +41,9 @@
   },
   "runArgs": [
     "--name",
-    "vsc-github-trending-feeds-data",
+    "vsc-github-trending-feeds-data-${localWorkspaceFolderBasename}-${devcontainerId}",
     "--add-host",
     "host.docker.internal:host-gateway"
-  ]
+  ],
+  "postAttachCommand": "task init"
 }
