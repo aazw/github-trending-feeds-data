@@ -14,8 +14,8 @@ tasks:
   remove_system_files:
     dir: "{{ .TASKFILE_DIR }}"
     cmds:
-      - find . -name ".DS_Store" -type f -delete -print
-      - find . -name "core" -type f -delete -print
+      - find . -path ./docs -prune -o -type f -name ".DS_Store" -print -exec rm -f {} +
+      - find . -path ./docs -prune -o -type f -name "core" -print -exec rm -f {} +
     silent: false
 
   init:
@@ -24,7 +24,7 @@ tasks:
       # remove system files
       - task remove_system_files
       # キャッシュクリア (skillsの読み込み時にcacheが悪さすることが多い)
-      - rm -rf ./.claude-home-cache/plugins/cache/*
+      - rm -rf ./.devcontainer/.state/claude/plugins/cache/*
     silent: false
 
   fmt:

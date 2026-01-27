@@ -16,8 +16,8 @@
     "**/.git": true,
     // devbox
     "**/.devbox": true,
-    // claude home
-    "**/.claude-home-cache": true,
+    // devcontainer caches
+    "**/.devcontainer/.state/**": true,
     // data
     "docs/**": true
   },
@@ -27,10 +27,8 @@
     "**/.git/**": true,
     // devbox
     "**/.devbox/**": true,
-    // claude
-    "**/.claude-home-cache/**": true,
-    // codex
-    "**/.codex/**": true,
+    // devcontainer caches
+    "**/.devcontainer/.state/**": true,
     // data
     "docs/**": true
   },
