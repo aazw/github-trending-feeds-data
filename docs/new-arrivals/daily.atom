@@ -5,152 +5,20 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/new-arrivals/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-08-29T00:19:03+00:00</ns0:updated>
+  <ns0:updated>2026-08-29T18:36:17+00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:cloudflare:security-audit-skill:1787961600</ns0:id>
-    <ns0:title>[javascript] cloudflare/security-audit-skill</ns0:title>
-    <ns0:link href="https://github.com/cloudflare/security-audit-skill"/>
+    <ns0:id>urn:github:omacom:omarchy:1787961600</ns0:id>
+    <ns0:title>[shell] omacom/omarchy</ns0:title>
+    <ns0:link href="https://github.com/omacom/omarchy"/>
     <ns0:updated>2026-08-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudflare/security-audit-skill"&gt;https://github.com/cloudflare/security-audit-skill&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; javascript&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/omacom/omarchy"&gt;https://github.com/omacom/omarchy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:ScalableCapital:scalable-cli:1787961600</ns0:id>
-    <ns0:title>[rust] ScalableCapital/scalable-cli</ns0:title>
-    <ns0:link href="https://github.com/ScalableCapital/scalable-cli"/>
-    <ns0:updated>2026-08-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ScalableCapital/scalable-cli"&gt;https://github.com/ScalableCapital/scalable-cli&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Scalable CLI&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:apachecn:sklearn-doc-zh:1787875200</ns0:id>
-    <ns0:title>[css] apachecn/sklearn-doc-zh</ns0:title>
-    <ns0:link href="https://github.com/apachecn/sklearn-doc-zh"/>
-    <ns0:updated>2026-08-28T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apachecn/sklearn-doc-zh"&gt;https://github.com/apachecn/sklearn-doc-zh&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; css&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;📖 [译] scikit-learn（sklearn） 中文文档&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:sunblaze-ucb:exploitgym:1787875200</ns0:id>
-    <ns0:title>[c] sunblaze-ucb/exploitgym</ns0:title>
-    <ns0:link href="https://github.com/sunblaze-ucb/exploitgym"/>
-    <ns0:updated>2026-08-28T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sunblaze-ucb/exploitgym"&gt;https://github.com/sunblaze-ucb/exploitgym&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;ExploitGym is a large-scale, realistic benchmark built from real-world vulnerabilities designed to evaluate AI agents' ability to develop exploits.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:MatixYo:ESP32-Plane-Radar:1787875200</ns0:id>
-    <ns0:title>[c++] MatixYo/ESP32-Plane-Radar</ns0:title>
-    <ns0:link href="https://github.com/MatixYo/ESP32-Plane-Radar"/>
-    <ns0:updated>2026-08-28T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MatixYo/ESP32-Plane-Radar"&gt;https://github.com/MatixYo/ESP32-Plane-Radar&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Open-source ESP32 firmware for a 1.28″ round display that shows live ADS-B aircraft around your location as a sonar-style plane radar.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:react:yoga:1787875200</ns0:id>
-    <ns0:title>[c++] react/yoga</ns0:title>
-    <ns0:link href="https://github.com/react/yoga"/>
-    <ns0:updated>2026-08-28T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/react/yoga"&gt;https://github.com/react/yoga&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Yoga is an embeddable layout engine targeting web standards.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:software-mansion:voyager:1787875200</ns0:id>
-    <ns0:title>[elixir] software-mansion/voyager</ns0:title>
-    <ns0:link href="https://github.com/software-mansion/voyager"/>
-    <ns0:updated>2026-08-28T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/software-mansion/voyager"&gt;https://github.com/software-mansion/voyager&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Observe, debug, and understand running BEAM systems&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:chr1sd:home-ops:1787961600</ns0:id>
-    <ns0:title>[yaml] chr1sd/home-ops</ns0:title>
-    <ns0:link href="https://github.com/chr1sd/home-ops"/>
-    <ns0:updated>2026-08-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chr1sd/home-ops"&gt;https://github.com/chr1sd/home-ops&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The k8s, GitOps humble home lab.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:swoole:typephp:1787961600</ns0:id>
-    <ns0:title>[php] swoole/typephp</ns0:title>
-    <ns0:link href="https://github.com/swoole/typephp"/>
-    <ns0:updated>2026-08-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/swoole/typephp"&gt;https://github.com/swoole/typephp&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Compile PHP to Native Binaries&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:marlboro-advance:mpvEx:1787961600</ns0:id>
-    <ns0:title>[kotlin] marlboro-advance/mpvEx</ns0:title>
-    <ns0:link href="https://github.com/marlboro-advance/mpvEx"/>
-    <ns0:updated>2026-08-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/marlboro-advance/mpvEx"&gt;https://github.com/marlboro-advance/mpvEx&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A beautiful media player for android, based on mpv-android and built with Jetpack Compose. Forked from mpvKt&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tailscale:tailcat:1787961600</ns0:id>
-    <ns0:title>[go] tailscale/tailcat</ns0:title>
-    <ns0:link href="https://github.com/tailscale/tailcat"/>
-    <ns0:updated>2026-08-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tailscale/tailcat"&gt;https://github.com/tailscale/tailcat&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;like netcat, but over Tailscale's data plane, without Tailscale's control plane&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:giwa-io:node:1787875200</ns0:id>
-    <ns0:title>[dockerfile] giwa-io/node</ns0:title>
-    <ns0:link href="https://github.com/giwa-io/node"/>
-    <ns0:updated>2026-08-28T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/giwa-io/node"&gt;https://github.com/giwa-io/node&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Everything required to run your own GIWA node&lt;/div&gt;
+&lt;div&gt;Beautiful, Modern &amp; Opinionated Linux&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
