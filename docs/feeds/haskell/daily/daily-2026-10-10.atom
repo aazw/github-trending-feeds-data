@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - haskell (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:PostgREST:postgrest:1791590400</ns0:id>
+    <ns0:title>PostgREST/postgrest</ns0:title>
+    <ns0:link href="https://github.com/PostgREST/postgrest"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PostgREST/postgrest"&gt;https://github.com/PostgREST/postgrest&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;REST API for any Postgres database&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:hadolint:hadolint:1791590400</ns0:id>
+    <ns0:title>hadolint/hadolint</ns0:title>
+    <ns0:link href="https://github.com/hadolint/hadolint"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hadolint/hadolint"&gt;https://github.com/hadolint/hadolint&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Dockerfile linter, validate inline bash, written in Haskell&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:haskell:cabal:1791590400</ns0:id>
+    <ns0:title>haskell/cabal</ns0:title>
+    <ns0:link href="https://github.com/haskell/cabal"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/haskell/cabal"&gt;https://github.com/haskell/cabal&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Official upstream development repository for Cabal and cabal-install&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:haskell:haskell-language-server:1791590400</ns0:id>
+    <ns0:title>haskell/haskell-language-server</ns0:title>
+    <ns0:link href="https://github.com/haskell/haskell-language-server"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/haskell/haskell-language-server"&gt;https://github.com/haskell/haskell-language-server&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Official Haskell IDE support via the language server protocol (LSP)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:hledgerorg:hledger:1791590400</ns0:id>
+    <ns0:title>hledgerorg/hledger</ns0:title>
+    <ns0:link href="https://github.com/hledgerorg/hledger"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hledgerorg/hledger"&gt;https://github.com/hledgerorg/hledger&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jgm:pandoc:1791590400</ns0:id>
+    <ns0:title>jgm/pandoc</ns0:title>
+    <ns0:link href="https://github.com/jgm/pandoc"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jgm/pandoc"&gt;https://github.com/jgm/pandoc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Universal markup converter&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:koalaman:shellcheck:1791590400</ns0:id>
+    <ns0:title>koalaman/shellcheck</ns0:title>
+    <ns0:link href="https://github.com/koalaman/shellcheck"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/koalaman/shellcheck"&gt;https://github.com/koalaman/shellcheck&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ShellCheck, a static analysis tool for shell scripts&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

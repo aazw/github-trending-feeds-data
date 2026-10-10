@@ -5,8 +5,20 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/sass/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-10T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:pradyunsg:furo:1791590400</ns0:id>
+    <ns0:title>pradyunsg/furo</ns0:title>
+    <ns0:link href="https://github.com/pradyunsg/furo"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pradyunsg/furo"&gt;https://github.com/pradyunsg/furo&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; sass&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A clean customizable documentation theme for Sphinx&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
 </ns0:feed>

@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/fortran/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-10T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:ElmerCSC:elmerfem:1791504000</ns0:id>
+    <ns0:id>urn:github:ElmerCSC:elmerfem:1791590400</ns0:id>
     <ns0:title>ElmerCSC/elmerfem</ns0:title>
     <ns0:link href="https://github.com/ElmerCSC/elmerfem"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ElmerCSC/elmerfem"&gt;https://github.com/ElmerCSC/elmerfem&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; fortran&lt;/div&gt;
@@ -22,10 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:OpenFAST:openfast:1791504000</ns0:id>
+    <ns0:id>urn:github:JuliaPackaging:Yggdrasil:1791590400</ns0:id>
+    <ns0:title>JuliaPackaging/Yggdrasil</ns0:title>
+    <ns0:link href="https://github.com/JuliaPackaging/Yggdrasil"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliaPackaging/Yggdrasil"&gt;https://github.com/JuliaPackaging/Yggdrasil&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; fortran&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Collection of builder repositories for BinaryBuilder.jl&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:OpenFAST:openfast:1791590400</ns0:id>
     <ns0:title>OpenFAST/openfast</ns0:title>
     <ns0:link href="https://github.com/OpenFAST/openfast"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenFAST/openfast"&gt;https://github.com/OpenFAST/openfast&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; fortran&lt;/div&gt;
@@ -34,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cp2k:cp2k:1791504000</ns0:id>
+    <ns0:id>urn:github:cp2k:cp2k:1791590400</ns0:id>
     <ns0:title>cp2k/cp2k</ns0:title>
     <ns0:link href="https://github.com/cp2k/cp2k"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cp2k/cp2k"&gt;https://github.com/cp2k/cp2k&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; fortran&lt;/div&gt;
@@ -46,27 +58,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:firemodels:fds:1791504000</ns0:id>
-    <ns0:title>firemodels/fds</ns0:title>
-    <ns0:link href="https://github.com/firemodels/fds"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:iterorganization:JOREK:1791590400</ns0:id>
+    <ns0:title>iterorganization/JOREK</ns0:title>
+    <ns0:link href="https://github.com/iterorganization/JOREK"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/firemodels/fds"&gt;https://github.com/firemodels/fds&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/iterorganization/JOREK"&gt;https://github.com/iterorganization/JOREK&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; fortran&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Fire Dynamics Simulator&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:wrf-model:WRF:1791504000</ns0:id>
-    <ns0:title>wrf-model/WRF</ns0:title>
-    <ns0:link href="https://github.com/wrf-model/WRF"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/wrf-model/WRF"&gt;https://github.com/wrf-model/WRF&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; fortran&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The official repository for the Weather Research and Forecasting (WRF) model&lt;/div&gt;
+&lt;div&gt;Non-linear extended fluid and hybrid fluid-kinetic code for simulations of transient events in magnetically confined fusion plasmas. Documentation Wiki: https://iterorganization.github.io/JOREK&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

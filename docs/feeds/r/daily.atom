@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-10T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:jinworks:CellChat:1791504000</ns0:id>
+    <ns0:id>urn:github:Rdatatable:data.table:1791590400</ns0:id>
+    <ns0:title>Rdatatable/data.table</ns0:title>
+    <ns0:link href="https://github.com/Rdatatable/data.table"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Rdatatable/data.table"&gt;https://github.com/Rdatatable/data.table&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;R's data.table package extends data.frame:&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jinworks:CellChat:1791590400</ns0:id>
     <ns0:title>jinworks/CellChat</ns0:title>
     <ns0:link href="https://github.com/jinworks/CellChat"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jinworks/CellChat"&gt;https://github.com/jinworks/CellChat&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
@@ -22,39 +34,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nflverse:nflverse-data:1791504000</ns0:id>
-    <ns0:title>nflverse/nflverse-data</ns0:title>
-    <ns0:link href="https://github.com/nflverse/nflverse-data"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nflverse/nflverse-data"&gt;https://github.com/nflverse/nflverse-data&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Automated nflverse data repository&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:satijalab:seurat:1791504000</ns0:id>
+    <ns0:id>urn:github:satijalab:seurat:1791590400</ns0:id>
     <ns0:title>satijalab/seurat</ns0:title>
     <ns0:link href="https://github.com/satijalab/seurat"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/satijalab/seurat"&gt;https://github.com/satijalab/seurat&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;R toolkit for single cell genomics&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:swirldev:swirl_courses:1791504000</ns0:id>
-    <ns0:title>swirldev/swirl_courses</ns0:title>
-    <ns0:link href="https://github.com/swirldev/swirl_courses"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/swirldev/swirl_courses"&gt;https://github.com/swirldev/swirl_courses&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;🎓 A collection of interactive courses for the swirl R package.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-10T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Freika:dawarich:1791504000</ns0:id>
+    <ns0:id>urn:github:Freika:dawarich:1791590400</ns0:id>
     <ns0:title>Freika/dawarich</ns0:title>
     <ns0:link href="https://github.com/Freika/dawarich"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Freika/dawarich"&gt;https://github.com/Freika/dawarich&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -22,22 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Homebrew:brew:1791504000</ns0:id>
-    <ns0:title>Homebrew/brew</ns0:title>
-    <ns0:link href="https://github.com/Homebrew/brew"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Homebrew:homebrew-cask:1791590400</ns0:id>
+    <ns0:title>Homebrew/homebrew-cask</ns0:title>
+    <ns0:link href="https://github.com/Homebrew/homebrew-cask"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Homebrew/brew"&gt;https://github.com/Homebrew/brew&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Homebrew/homebrew-cask"&gt;https://github.com/Homebrew/homebrew-cask&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;🍺 The Package Manager for Everywhere&lt;/div&gt;
+&lt;div&gt;🍻 Default casks (upstream binary packages) for the package manager for everywhere&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Homebrew:homebrew-core:1791504000</ns0:id>
+    <ns0:id>urn:github:Homebrew:homebrew-core:1791590400</ns0:id>
     <ns0:title>Homebrew/homebrew-core</ns0:title>
     <ns0:link href="https://github.com/Homebrew/homebrew-core"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Homebrew/homebrew-core"&gt;https://github.com/Homebrew/homebrew-core&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -46,10 +46,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:crmne:ruby_llm:1791504000</ns0:id>
+    <ns0:id>urn:github:Shopify:liquid:1791590400</ns0:id>
+    <ns0:title>Shopify/liquid</ns0:title>
+    <ns0:link href="https://github.com/Shopify/liquid"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Shopify/liquid"&gt;https://github.com/Shopify/liquid&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Liquid markup language. Safe, customer facing template language for flexible web apps.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:crmne:ruby_llm:1791590400</ns0:id>
     <ns0:title>crmne/ruby_llm</ns0:title>
     <ns0:link href="https://github.com/crmne/ruby_llm"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/crmne/ruby_llm"&gt;https://github.com/crmne/ruby_llm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -58,22 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dependabot:demo:1791504000</ns0:id>
-    <ns0:title>dependabot/demo</ns0:title>
-    <ns0:link href="https://github.com/dependabot/demo"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dependabot/demo"&gt;https://github.com/dependabot/demo&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;🤖 Fork me to try out Dependabot&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:discourse:discourse:1791504000</ns0:id>
+    <ns0:id>urn:github:discourse:discourse:1791590400</ns0:id>
     <ns0:title>discourse/discourse</ns0:title>
     <ns0:link href="https://github.com/discourse/discourse"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/discourse/discourse"&gt;https://github.com/discourse/discourse&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -82,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:docusealco:docuseal:1791504000</ns0:id>
+    <ns0:id>urn:github:docusealco:docuseal:1791590400</ns0:id>
     <ns0:title>docusealco/docuseal</ns0:title>
     <ns0:link href="https://github.com/docusealco/docuseal"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/docusealco/docuseal"&gt;https://github.com/docusealco/docuseal&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -94,46 +94,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:forem:forem:1791504000</ns0:id>
-    <ns0:title>forem/forem</ns0:title>
-    <ns0:link href="https://github.com/forem/forem"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:hackclub:hackatime:1791590400</ns0:id>
+    <ns0:title>hackclub/hackatime</ns0:title>
+    <ns0:link href="https://github.com/hackclub/hackatime"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/forem/forem"&gt;https://github.com/forem/forem&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hackclub/hackatime"&gt;https://github.com/hackclub/hackatime&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;For empowering community 🌱&lt;/div&gt;
+&lt;div&gt;Free, open source, WakaTime-compatible coding time tracker&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:gitlabhq:gitlabhq:1791504000</ns0:id>
-    <ns0:title>gitlabhq/gitlabhq</ns0:title>
-    <ns0:link href="https://github.com/gitlabhq/gitlabhq"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:mastodon:mastodon:1791590400</ns0:id>
+    <ns0:title>mastodon/mastodon</ns0:title>
+    <ns0:link href="https://github.com/mastodon/mastodon"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gitlabhq/gitlabhq"&gt;https://github.com/gitlabhq/gitlabhq&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mastodon/mastodon"&gt;https://github.com/mastodon/mastodon&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;GitLab CE Mirror | Please open new issues in our issue tracker on GitLab.com&lt;/div&gt;
+&lt;div&gt;Your self-hosted, globally interconnected microblogging community&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:matteocrippa:awesome-swift:1791504000</ns0:id>
-    <ns0:title>matteocrippa/awesome-swift</ns0:title>
-    <ns0:link href="https://github.com/matteocrippa/awesome-swift"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/matteocrippa/awesome-swift"&gt;https://github.com/matteocrippa/awesome-swift&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A collaborative list of awesome Swift libraries and resources. Feel free to contribute!&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:opf:openproject:1791504000</ns0:id>
+    <ns0:id>urn:github:opf:openproject:1791590400</ns0:id>
     <ns0:title>opf/openproject</ns0:title>
     <ns0:link href="https://github.com/opf/openproject"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opf/openproject"&gt;https://github.com/opf/openproject&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -142,10 +130,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rapid7:metasploit-framework:1791504000</ns0:id>
+    <ns0:id>urn:github:postalserver:postal:1791590400</ns0:id>
+    <ns0:title>postalserver/postal</ns0:title>
+    <ns0:link href="https://github.com/postalserver/postal"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/postalserver/postal"&gt;https://github.com/postalserver/postal&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:projectblacklight:spotlight:1791590400</ns0:id>
+    <ns0:title>projectblacklight/spotlight</ns0:title>
+    <ns0:link href="https://github.com/projectblacklight/spotlight"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/projectblacklight/spotlight"&gt;https://github.com/projectblacklight/spotlight&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Spotlight enables librarians, curators, and others who are responsible for digital collections to create attractive, feature-rich websites that highlight these collections.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rails:rails:1791590400</ns0:id>
+    <ns0:title>rails/rails</ns0:title>
+    <ns0:link href="https://github.com/rails/rails"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rails/rails"&gt;https://github.com/rails/rails&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Ruby on Rails&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rapid7:metasploit-framework:1791590400</ns0:id>
     <ns0:title>rapid7/metasploit-framework</ns0:title>
     <ns0:link href="https://github.com/rapid7/metasploit-framework"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rapid7/metasploit-framework"&gt;https://github.com/rapid7/metasploit-framework&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -154,34 +178,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:swombat:souls-house:1791504000</ns0:id>
-    <ns0:title>swombat/souls-house</ns0:title>
-    <ns0:link href="https://github.com/swombat/souls-house"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ruby:gem_rbs_collection:1791590400</ns0:id>
+    <ns0:title>ruby/gem_rbs_collection</ns0:title>
+    <ns0:link href="https://github.com/ruby/gem_rbs_collection"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/swombat/souls-house"&gt;https://github.com/swombat/souls-house&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruby/gem_rbs_collection"&gt;https://github.com/ruby/gem_rbs_collection&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A platform for hosting persistent AI agents that live, rather than stateless assistants that wake, perform, and vanish.&lt;/div&gt;
+&lt;div&gt;A collection of RBS for gems.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ubicloud:ubicloud:1791504000</ns0:id>
-    <ns0:title>ubicloud/ubicloud</ns0:title>
-    <ns0:link href="https://github.com/ubicloud/ubicloud"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ubicloud/ubicloud"&gt;https://github.com/ubicloud/ubicloud&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, K8s, AI inference, and IAM services.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:zammad:zammad:1791504000</ns0:id>
+    <ns0:id>urn:github:zammad:zammad:1791590400</ns0:id>
     <ns0:title>zammad/zammad</ns0:title>
     <ns0:link href="https://github.com/zammad/zammad"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zammad/zammad"&gt;https://github.com/zammad/zammad&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;

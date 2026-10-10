@@ -5,27 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-10T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:alphagov:govuk-infrastructure:1791504000</ns0:id>
-    <ns0:title>alphagov/govuk-infrastructure</ns0:title>
-    <ns0:link href="https://github.com/alphagov/govuk-infrastructure"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/alphagov/govuk-infrastructure"&gt;https://github.com/alphagov/govuk-infrastructure&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;This repository contains all the code and infrastructure to run the GOV.UK Platform. See https://github.com/alphagov/govuk-helm-charts for application config. Issues created in this repository are for all of GOV.UK Platform Engineering (not just infrastructure)..&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:cloudposse:terraform-aws-ecs-container-definition:1791504000</ns0:id>
+    <ns0:id>urn:github:cloudposse:terraform-aws-ecs-container-definition:1791590400</ns0:id>
     <ns0:title>cloudposse/terraform-aws-ecs-container-definition</ns0:title>
     <ns0:link href="https://github.com/cloudposse/terraform-aws-ecs-container-definition"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudposse/terraform-aws-ecs-container-definition"&gt;https://github.com/cloudposse/terraform-aws-ecs-container-definition&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -34,22 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cloudposse:terraform-aws-security-group:1791504000</ns0:id>
-    <ns0:title>cloudposse/terraform-aws-security-group</ns0:title>
-    <ns0:link href="https://github.com/cloudposse/terraform-aws-security-group"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudposse/terraform-aws-security-group"&gt;https://github.com/cloudposse/terraform-aws-security-group&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Terraform module to provision an AWS Security Group&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-ecs:1791504000</ns0:id>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-ecs:1791590400</ns0:id>
     <ns0:title>terraform-aws-modules/terraform-aws-ecs</ns0:title>
     <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-ecs"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-ecs"&gt;https://github.com/terraform-aws-modules/terraform-aws-ecs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -58,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-eventbridge:1791504000</ns0:id>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-eventbridge:1791590400</ns0:id>
     <ns0:title>terraform-aws-modules/terraform-aws-eventbridge</ns0:title>
     <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-eventbridge"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-eventbridge"&gt;https://github.com/terraform-aws-modules/terraform-aws-eventbridge&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -70,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-lambda:1791504000</ns0:id>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-lambda:1791590400</ns0:id>
     <ns0:title>terraform-aws-modules/terraform-aws-lambda</ns0:title>
     <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-lambda"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-lambda"&gt;https://github.com/terraform-aws-modules/terraform-aws-lambda&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -82,10 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-s3-bucket:1791504000</ns0:id>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-s3-bucket:1791590400</ns0:id>
     <ns0:title>terraform-aws-modules/terraform-aws-s3-bucket</ns0:title>
     <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-s3-bucket"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-s3-bucket"&gt;https://github.com/terraform-aws-modules/terraform-aws-s3-bucket&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -94,10 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-vpc:1791504000</ns0:id>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-vpc:1791590400</ns0:id>
     <ns0:title>terraform-aws-modules/terraform-aws-vpc</ns0:title>
     <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-vpc"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-vpc"&gt;https://github.com/terraform-aws-modules/terraform-aws-vpc&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -106,22 +82,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-google-modules:terraform-google-kubernetes-engine:1791504000</ns0:id>
-    <ns0:title>terraform-google-modules/terraform-google-kubernetes-engine</ns0:title>
-    <ns0:link href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:terraform-google-modules:terraform-google-iam:1791590400</ns0:id>
+    <ns0:title>terraform-google-modules/terraform-google-iam</ns0:title>
+    <ns0:link href="https://github.com/terraform-google-modules/terraform-google-iam"/>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-kubernetes-engine"&gt;https://github.com/terraform-google-modules/terraform-google-kubernetes-engine&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-iam"&gt;https://github.com/terraform-google-modules/terraform-google-iam&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Configures opinionated GKE clusters&lt;/div&gt;
+&lt;div&gt;Manages multiple IAM roles for resources on Google Cloud&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-google-modules:terraform-google-network:1791504000</ns0:id>
+    <ns0:id>urn:github:terraform-google-modules:terraform-google-network:1791590400</ns0:id>
     <ns0:title>terraform-google-modules/terraform-google-network</ns0:title>
     <ns0:link href="https://github.com/terraform-google-modules/terraform-google-network"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-network"&gt;https://github.com/terraform-google-modules/terraform-google-network&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -130,27 +106,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-google-modules:terraform-google-project-factory:1791504000</ns0:id>
+    <ns0:id>urn:github:terraform-google-modules:terraform-google-project-factory:1791590400</ns0:id>
     <ns0:title>terraform-google-modules/terraform-google-project-factory</ns0:title>
     <ns0:link href="https://github.com/terraform-google-modules/terraform-google-project-factory"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-project-factory"&gt;https://github.com/terraform-google-modules/terraform-google-project-factory&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:terraform-google-modules:terraform-google-service-accounts:1791504000</ns0:id>
-    <ns0:title>terraform-google-modules/terraform-google-service-accounts</ns0:title>
-    <ns0:link href="https://github.com/terraform-google-modules/terraform-google-service-accounts"/>
-    <ns0:updated>2026-10-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-service-accounts"&gt;https://github.com/terraform-google-modules/terraform-google-service-accounts&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Creates one or more service accounts and grants them basic roles&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
