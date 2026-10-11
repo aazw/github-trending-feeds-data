@@ -5,20 +5,44 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-11T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:google-coral:coralnpu:1791590400</ns0:id>
-    <ns0:title>google-coral/coralnpu</ns0:title>
-    <ns0:link href="https://github.com/google-coral/coralnpu"/>
-    <ns0:updated>2026-10-10T00:00:00</ns0:updated>
+    <ns0:id>urn:github:melpa:melpa:1791676800</ns0:id>
+    <ns0:title>melpa/melpa</ns0:title>
+    <ns0:link href="https://github.com/melpa/melpa"/>
+    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-coral/coralnpu"&gt;https://github.com/google-coral/coralnpu&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/melpa/melpa"&gt;https://github.com/melpa/melpa&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A machine learning accelerator core designed for energy-efficient AI at the edge.&lt;/div&gt;
+&lt;div&gt;Recipes and build machinery for the biggest Emacs package repo&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:syl20bnr:spacemacs:1791676800</ns0:id>
+    <ns0:title>syl20bnr/spacemacs</ns0:title>
+    <ns0:link href="https://github.com/syl20bnr/spacemacs"/>
+    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/syl20bnr/spacemacs"&gt;https://github.com/syl20bnr/spacemacs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:xenodium:agent-shell:1791676800</ns0:id>
+    <ns0:title>xenodium/agent-shell</ns0:title>
+    <ns0:link href="https://github.com/xenodium/agent-shell"/>
+    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xenodium/agent-shell"&gt;https://github.com/xenodium/agent-shell&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A native Emacs buffer to interact with LLM agents powered by ACP&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

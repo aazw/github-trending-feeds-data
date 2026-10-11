@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/rescript/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - rescript (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/rescript/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:rescript-lang:rescript:1791676800</ns0:id>
+    <ns0:title>rescript-lang/rescript</ns0:title>
+    <ns0:link href="https://github.com/rescript-lang/rescript"/>
+    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rescript-lang/rescript"&gt;https://github.com/rescript-lang/rescript&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

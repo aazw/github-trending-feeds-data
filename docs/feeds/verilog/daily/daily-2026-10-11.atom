@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - verilog (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:The-OpenROAD-Project:OpenROAD-flow-scripts:1791676800</ns0:id>
+    <ns0:title>The-OpenROAD-Project/OpenROAD-flow-scripts</ns0:title>
+    <ns0:link href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts"/>
+    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts"&gt;https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:YosysHQ:picorv32:1791676800</ns0:id>
+    <ns0:title>YosysHQ/picorv32</ns0:title>
+    <ns0:link href="https://github.com/YosysHQ/picorv32"/>
+    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/YosysHQ/picorv32"&gt;https://github.com/YosysHQ/picorv32&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;PicoRV32 - A Size-Optimized RISC-V CPU&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:sheldonucr:ucr-eecs168-lab:1791676800</ns0:id>
+    <ns0:title>sheldonucr/ucr-eecs168-lab</ns0:title>
+    <ns0:link href="https://github.com/sheldonucr/ucr-eecs168-lab"/>
+    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sheldonucr/ucr-eecs168-lab"&gt;https://github.com/sheldonucr/ucr-eecs168-lab&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The lab schedules for EECS168 at UC Riverside&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
