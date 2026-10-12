@@ -5,27 +5,87 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-12T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:acidanthera:OpenCorePkg:1791676800</ns0:id>
-    <ns0:title>acidanthera/OpenCorePkg</ns0:title>
-    <ns0:link href="https://github.com/acidanthera/OpenCorePkg"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:HarbourMasters:PaperBoat:1791763200</ns0:id>
+    <ns0:title>HarbourMasters/PaperBoat</ns0:title>
+    <ns0:link href="https://github.com/HarbourMasters/PaperBoat"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/acidanthera/OpenCorePkg"&gt;https://github.com/acidanthera/OpenCorePkg&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/HarbourMasters/PaperBoat"&gt;https://github.com/HarbourMasters/PaperBoat&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;OpenCore bootloader&lt;/div&gt;
+&lt;div&gt;Paper Mario 64 port based on the Paper Mario DX decompilation&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:duixcom:Duix-Avatar:1791676800</ns0:id>
+    <ns0:id>urn:github:SlickAmogus:silent-hill-decomp:1791763200</ns0:id>
+    <ns0:title>SlickAmogus/silent-hill-decomp</ns0:title>
+    <ns0:link href="https://github.com/SlickAmogus/silent-hill-decomp"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SlickAmogus/silent-hill-decomp"&gt;https://github.com/SlickAmogus/silent-hill-decomp&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:arendst:Tasmota:1791763200</ns0:id>
+    <ns0:title>arendst/Tasmota</ns0:title>
+    <ns0:link href="https://github.com/arendst/Tasmota"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/arendst/Tasmota"&gt;https://github.com/arendst/Tasmota&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:armel:uv-k1-k5v3-firmware-custom:1791763200</ns0:id>
+    <ns0:title>armel/uv-k1-k5v3-firmware-custom</ns0:title>
+    <ns0:link href="https://github.com/armel/uv-k1-k5v3-firmware-custom"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/armel/uv-k1-k5v3-firmware-custom"&gt;https://github.com/armel/uv-k1-k5v3-firmware-custom&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:brunodev85:winlator:1791763200</ns0:id>
+    <ns0:title>brunodev85/winlator</ns0:title>
+    <ns0:link href="https://github.com/brunodev85/winlator"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/brunodev85/winlator"&gt;https://github.com/brunodev85/winlator&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Android application for running Windows applications with Wine and Box86/Box64&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:capstone-engine:capstone:1791763200</ns0:id>
+    <ns0:title>capstone-engine/capstone</ns0:title>
+    <ns0:link href="https://github.com/capstone-engine/capstone"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/capstone-engine/capstone"&gt;https://github.com/capstone-engine/capstone&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:duixcom:Duix-Avatar:1791763200</ns0:id>
     <ns0:title>duixcom/Duix-Avatar</ns0:title>
     <ns0:link href="https://github.com/duixcom/Duix-Avatar"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/duixcom/Duix-Avatar"&gt;https://github.com/duixcom/Duix-Avatar&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
@@ -34,70 +94,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:libuv:libuv:1791676800</ns0:id>
-    <ns0:title>libuv/libuv</ns0:title>
-    <ns0:link href="https://github.com/libuv/libuv"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:libsdl-org:SDL:1791763200</ns0:id>
+    <ns0:title>libsdl-org/SDL</ns0:title>
+    <ns0:link href="https://github.com/libsdl-org/SDL"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/libuv/libuv"&gt;https://github.com/libuv/libuv&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/libsdl-org/SDL"&gt;https://github.com/libsdl-org/SDL&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Cross-platform asynchronous I/O&lt;/div&gt;
+&lt;div&gt;Simple DirectMedia Layer&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:lyssadev:Spotilol:1791676800</ns0:id>
-    <ns0:title>lyssadev/Spotilol</ns0:title>
-    <ns0:link href="https://github.com/lyssadev/Spotilol"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:mbm110:MSN-GUARD:1791763200</ns0:id>
+    <ns0:title>mbm110/MSN-GUARD</ns0:title>
+    <ns0:link href="https://github.com/mbm110/MSN-GUARD"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lyssadev/Spotilol"&gt;https://github.com/lyssadev/Spotilol&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mbm110/MSN-GUARD"&gt;https://github.com/mbm110/MSN-GUARD&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A android app that wraps Spotify's web player with built-in adblocker&lt;/div&gt;
+&lt;div&gt;High-performance Rust-powered Android VPN — Full-device tunneling via SHARD (Custom Protocol), MASQUE/HTTP-3, WireGuard, WARP-on-WARP, Psiphon, and Tor.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openssl:openssl:1791676800</ns0:id>
-    <ns0:title>openssl/openssl</ns0:title>
-    <ns0:link href="https://github.com/openssl/openssl"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:opa334:Dopamine:1791763200</ns0:id>
+    <ns0:title>opa334/Dopamine</ns0:title>
+    <ns0:link href="https://github.com/opa334/Dopamine"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openssl/openssl"&gt;https://github.com/openssl/openssl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opa334/Dopamine"&gt;https://github.com/opa334/Dopamine&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;General purpose TLS and crypto library&lt;/div&gt;
+&lt;div&gt;Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:radareorg:radare2:1791676800</ns0:id>
-    <ns0:title>radareorg/radare2</ns0:title>
-    <ns0:link href="https://github.com/radareorg/radare2"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/radareorg/radare2"&gt;https://github.com/radareorg/radare2&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;UNIX-like reverse engineering framework and command-line toolset&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:reactos:reactos:1791676800</ns0:id>
-    <ns0:title>reactos/reactos</ns0:title>
-    <ns0:link href="https://github.com/reactos/reactos"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/reactos/reactos"&gt;https://github.com/reactos/reactos&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A free Windows-compatible Operating System&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:rexglue:rexglue-sdk:1791676800</ns0:id>
+    <ns0:id>urn:github:rexglue:rexglue-sdk:1791763200</ns0:id>
     <ns0:title>rexglue/rexglue-sdk</ns0:title>
     <ns0:link href="https://github.com/rexglue/rexglue-sdk"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rexglue/rexglue-sdk"&gt;https://github.com/rexglue/rexglue-sdk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
@@ -106,39 +142,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sp00nznet:ps3recomp:1791676800</ns0:id>
-    <ns0:title>sp00nznet/ps3recomp</ns0:title>
-    <ns0:link href="https://github.com/sp00nznet/ps3recomp"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sp00nznet/ps3recomp"&gt;https://github.com/sp00nznet/ps3recomp&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Static recompilation runtime libraries for PlayStation 3 titles.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:sp00nznet:xboxrecomp:1791676800</ns0:id>
-    <ns0:title>sp00nznet/xboxrecomp</ns0:title>
-    <ns0:link href="https://github.com/sp00nznet/xboxrecomp"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sp00nznet/xboxrecomp"&gt;https://github.com/sp00nznet/xboxrecomp&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tarwin:tinyjsapp:1791676800</ns0:id>
+    <ns0:id>urn:github:tarwin:tinyjsapp:1791763200</ns0:id>
     <ns0:title>tarwin/tinyjsapp</ns0:title>
     <ns0:link href="https://github.com/tarwin/tinyjsapp"/>
-    <ns0:updated>2026-10-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tarwin/tinyjsapp"&gt;https://github.com/tarwin/tinyjsapp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Build native apps in JS. Backend, frontend. ~5Mb.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:willfaust:Madeira:1791763200</ns0:id>
+    <ns0:title>willfaust/Madeira</ns0:title>
+    <ns0:link href="https://github.com/willfaust/Madeira"/>
+    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/willfaust/Madeira"&gt;https://github.com/willfaust/Madeira&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
