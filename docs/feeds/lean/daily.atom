@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/lean/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-13T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:google-deepmind:formal-conjectures:1791763200</ns0:id>
+    <ns0:id>urn:github:anthropics:formal-math:1791849600</ns0:id>
+    <ns0:title>anthropics/formal-math</ns0:title>
+    <ns0:link href="https://github.com/anthropics/formal-math"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anthropics/formal-math"&gt;https://github.com/anthropics/formal-math&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:google-deepmind:formal-conjectures:1791849600</ns0:id>
     <ns0:title>google-deepmind/formal-conjectures</ns0:title>
     <ns0:link href="https://github.com/google-deepmind/formal-conjectures"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-deepmind/formal-conjectures"&gt;https://github.com/google-deepmind/formal-conjectures&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
@@ -22,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leanprover-community:batteries:1791763200</ns0:id>
+    <ns0:id>urn:github:leanprover-community:batteries:1791849600</ns0:id>
     <ns0:title>leanprover-community/batteries</ns0:title>
     <ns0:link href="https://github.com/leanprover-community/batteries"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover-community/batteries"&gt;https://github.com/leanprover-community/batteries&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
@@ -34,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leanprover-community:mathlib4:1791763200</ns0:id>
+    <ns0:id>urn:github:leanprover-community:mathlib4:1791849600</ns0:id>
     <ns0:title>leanprover-community/mathlib4</ns0:title>
     <ns0:link href="https://github.com/leanprover-community/mathlib4"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover-community/mathlib4"&gt;https://github.com/leanprover-community/mathlib4&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
@@ -46,27 +58,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leanprover:comparator:1791763200</ns0:id>
-    <ns0:title>leanprover/comparator</ns0:title>
-    <ns0:link href="https://github.com/leanprover/comparator"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover/comparator"&gt;https://github.com/leanprover/comparator&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:leanprover:cslib:1791763200</ns0:id>
+    <ns0:id>urn:github:leanprover:cslib:1791849600</ns0:id>
     <ns0:title>leanprover/cslib</ns0:title>
     <ns0:link href="https://github.com/leanprover/cslib"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover/cslib"&gt;https://github.com/leanprover/cslib&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;The Lean Computer Science Library (CSLib)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:leanprover:lean4:1791849600</ns0:id>
+    <ns0:title>leanprover/lean4</ns0:title>
+    <ns0:link href="https://github.com/leanprover/lean4"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover/lean4"&gt;https://github.com/leanprover/lean4&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Lean 4 programming language and theorem prover&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

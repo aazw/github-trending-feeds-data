@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/abap/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-13T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:abap2UI5:abap2UI5:1791763200</ns0:id>
+    <ns0:id>urn:github:SAP:code-pal-for-abap:1791849600</ns0:id>
+    <ns0:title>SAP/code-pal-for-abap</ns0:title>
+    <ns0:link href="https://github.com/SAP/code-pal-for-abap"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SAP/code-pal-for-abap"&gt;https://github.com/SAP/code-pal-for-abap&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; abap&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;code pal for ABAP is a highly configurable engine, fully integrated into the ABAP development framework ensuring Cloud’s built-in quality.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:abap2UI5:abap2UI5:1791849600</ns0:id>
     <ns0:title>abap2UI5/abap2UI5</ns0:title>
     <ns0:link href="https://github.com/abap2UI5/abap2UI5"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/abap2UI5/abap2UI5"&gt;https://github.com/abap2UI5/abap2UI5&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; abap&lt;/div&gt;

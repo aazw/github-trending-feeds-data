@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/mlir/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - mlir (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/mlir/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:google:heir:1791849600</ns0:id>
+    <ns0:title>google/heir</ns0:title>
+    <ns0:link href="https://github.com/google/heir"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/heir"&gt;https://github.com/google/heir&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mlir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The compiler for homomorphic encryption&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:triton-lang:triton:1791849600</ns0:id>
+    <ns0:title>triton-lang/triton</ns0:title>
+    <ns0:link href="https://github.com/triton-lang/triton"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/triton-lang/triton"&gt;https://github.com/triton-lang/triton&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mlir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Development repository for the Triton language and compiler&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:triton-lang:triton-ascend:1791849600</ns0:id>
+    <ns0:title>triton-lang/triton-ascend</ns0:title>
+    <ns0:link href="https://github.com/triton-lang/triton-ascend"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/triton-lang/triton-ascend"&gt;https://github.com/triton-lang/triton-ascend&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mlir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Triton language and compiler for Ascend NPU&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

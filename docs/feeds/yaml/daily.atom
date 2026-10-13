@@ -5,27 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-13T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:KSP-CKAN:NetKAN:1791763200</ns0:id>
-    <ns0:title>KSP-CKAN/NetKAN</ns0:title>
-    <ns0:link href="https://github.com/KSP-CKAN/NetKAN"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ProfMoo:home:1791849600</ns0:id>
+    <ns0:title>ProfMoo/home</ns0:title>
+    <ns0:link href="https://github.com/ProfMoo/home"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/KSP-CKAN/NetKAN"&gt;https://github.com/KSP-CKAN/NetKAN&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ProfMoo/home"&gt;https://github.com/ProfMoo/home&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Metadata files used by the NetKAN/CKAN indexer for KSP&lt;/div&gt;
+&lt;div&gt;My homelab baremetal-to-k8s media and "do anything" server. Codified and GitOpsified&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:aquaproj:aqua-registry:1791763200</ns0:id>
+    <ns0:id>urn:github:aquaproj:aqua-registry:1791849600</ns0:id>
     <ns0:title>aquaproj/aqua-registry</ns0:title>
     <ns0:link href="https://github.com/aquaproj/aqua-registry"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aquaproj/aqua-registry"&gt;https://github.com/aquaproj/aqua-registry&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
@@ -34,10 +34,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:stashapp:CommunityScrapers:1791763200</ns0:id>
+    <ns0:id>urn:github:mmalyska:home-ops:1791849600</ns0:id>
+    <ns0:title>mmalyska/home-ops</ns0:title>
+    <ns0:link href="https://github.com/mmalyska/home-ops"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mmalyska/home-ops"&gt;https://github.com/mmalyska/home-ops&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Repository for home infrastructure and monorepo for kubernetes cluster&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:stashapp:CommunityScrapers:1791849600</ns0:id>
     <ns0:title>stashapp/CommunityScrapers</ns0:title>
     <ns0:link href="https://github.com/stashapp/CommunityScrapers"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/stashapp/CommunityScrapers"&gt;https://github.com/stashapp/CommunityScrapers&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
@@ -46,15 +58,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:tyriis:home-ops:1791763200</ns0:id>
+    <ns0:id>urn:github:tyriis:home-ops:1791849600</ns0:id>
     <ns0:title>tyriis/home-ops</ns0:title>
     <ns0:link href="https://github.com/tyriis/home-ops"/>
-    <ns0:updated>2026-10-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tyriis/home-ops"&gt;https://github.com/tyriis/home-ops&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;IaC for my HomeLab kubernetes cluster resources with Flux&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:usnistgov:macos_security:1791849600</ns0:id>
+    <ns0:title>usnistgov/macos_security</ns0:title>
+    <ns0:link href="https://github.com/usnistgov/macos_security"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/usnistgov/macos_security"&gt;https://github.com/usnistgov/macos_security&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;macOS Security Compliance Project&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - vim-script (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:github:copilot.vim:1791849600</ns0:id>
+    <ns0:title>github/copilot.vim</ns0:title>
+    <ns0:link href="https://github.com/github/copilot.vim"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/copilot.vim"&gt;https://github.com/github/copilot.vim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Neovim plugin for GitHub Copilot&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:junegunn:vim-plug:1791849600</ns0:id>
+    <ns0:title>junegunn/vim-plug</ns0:title>
+    <ns0:link href="https://github.com/junegunn/vim-plug"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/junegunn/vim-plug"&gt;https://github.com/junegunn/vim-plug&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🌺 Minimalist Vim Plugin Manager&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:neovim:neovim:1791849600</ns0:id>
+    <ns0:title>neovim/neovim</ns0:title>
+    <ns0:link href="https://github.com/neovim/neovim"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/neovim/neovim"&gt;https://github.com/neovim/neovim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Vim-fork focused on extensibility and usability&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:tpope:vim-fugitive:1791849600</ns0:id>
+    <ns0:title>tpope/vim-fugitive</ns0:title>
+    <ns0:link href="https://github.com/tpope/vim-fugitive"/>
+    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tpope/vim-fugitive"&gt;https://github.com/tpope/vim-fugitive&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;fugitive.vim: A Git wrapper so awesome, it should be illegal&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
