@@ -5,15 +5,39 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/tcl/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-14T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:analogdevicesinc:hdl:1791849600</ns0:id>
+    <ns0:id>urn:github:Digilent:digilent-xdc:1791936000</ns0:id>
+    <ns0:title>Digilent/digilent-xdc</ns0:title>
+    <ns0:link href="https://github.com/Digilent/digilent-xdc"/>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Digilent/digilent-xdc"&gt;https://github.com/Digilent/digilent-xdc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; tcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A collection of Master XDC files for Digilent FPGA and Zynq boards.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Digilent:vivado-boards:1791936000</ns0:id>
+    <ns0:title>Digilent/vivado-boards</ns0:title>
+    <ns0:link href="https://github.com/Digilent/vivado-boards"/>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Digilent/vivado-boards"&gt;https://github.com/Digilent/vivado-boards&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; tcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:analogdevicesinc:hdl:1791936000</ns0:id>
     <ns0:title>analogdevicesinc/hdl</ns0:title>
     <ns0:link href="https://github.com/analogdevicesinc/hdl"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/analogdevicesinc/hdl"&gt;https://github.com/analogdevicesinc/hdl&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; tcl&lt;/div&gt;
@@ -22,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:macports:macports-base:1791849600</ns0:id>
+    <ns0:id>urn:github:macports:macports-base:1791936000</ns0:id>
     <ns0:title>macports/macports-base</ns0:title>
     <ns0:link href="https://github.com/macports/macports-base"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/macports/macports-base"&gt;https://github.com/macports/macports-base&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; tcl&lt;/div&gt;

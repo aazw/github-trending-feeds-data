@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/starlark/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-14T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:GoogleContainerTools:distroless:1791849600</ns0:id>
+    <ns0:id>urn:github:GoogleContainerTools:distroless:1791936000</ns0:id>
     <ns0:title>GoogleContainerTools/distroless</ns0:title>
     <ns0:link href="https://github.com/GoogleContainerTools/distroless"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GoogleContainerTools/distroless"&gt;https://github.com/GoogleContainerTools/distroless&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
@@ -22,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:bazel-contrib:rules_perl:1791849600</ns0:id>
+    <ns0:id>urn:github:bazel-contrib:rules_perl:1791936000</ns0:id>
     <ns0:title>bazel-contrib/rules_perl</ns0:title>
     <ns0:link href="https://github.com/bazel-contrib/rules_perl"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bazel-contrib/rules_perl"&gt;https://github.com/bazel-contrib/rules_perl&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
@@ -34,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:bazelbuild:bazel-central-registry:1791849600</ns0:id>
+    <ns0:id>urn:github:bazelbuild:bazel-central-registry:1791936000</ns0:id>
     <ns0:title>bazelbuild/bazel-central-registry</ns0:title>
     <ns0:link href="https://github.com/bazelbuild/bazel-central-registry"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bazelbuild/bazel-central-registry"&gt;https://github.com/bazelbuild/bazel-central-registry&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
@@ -46,10 +46,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cel-expr:cel-spec:1791849600</ns0:id>
+    <ns0:id>urn:github:bazelbuild:rules_rust:1791936000</ns0:id>
+    <ns0:title>bazelbuild/rules_rust</ns0:title>
+    <ns0:link href="https://github.com/bazelbuild/rules_rust"/>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bazelbuild/rules_rust"&gt;https://github.com/bazelbuild/rules_rust&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Rust rules for Bazel&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cel-expr:cel-spec:1791936000</ns0:id>
     <ns0:title>cel-expr/cel-spec</ns0:title>
     <ns0:link href="https://github.com/cel-expr/cel-spec"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cel-expr/cel-spec"&gt;https://github.com/cel-expr/cel-spec&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
@@ -58,10 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cncf:xds:1791849600</ns0:id>
+    <ns0:id>urn:github:cncf:xds:1791936000</ns0:id>
     <ns0:title>cncf/xds</ns0:title>
     <ns0:link href="https://github.com/cncf/xds"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cncf/xds"&gt;https://github.com/cncf/xds&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
@@ -70,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:eclipse-score:score:1791849600</ns0:id>
+    <ns0:id>urn:github:eclipse-score:score:1791936000</ns0:id>
     <ns0:title>eclipse-score/score</ns0:title>
     <ns0:link href="https://github.com/eclipse-score/score"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/eclipse-score/score"&gt;https://github.com/eclipse-score/score&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
@@ -82,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:googleapis:googleapis:1791849600</ns0:id>
+    <ns0:id>urn:github:googleapis:googleapis:1791936000</ns0:id>
     <ns0:title>googleapis/googleapis</ns0:title>
     <ns0:link href="https://github.com/googleapis/googleapis"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/googleapis/googleapis"&gt;https://github.com/googleapis/googleapis&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
@@ -94,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:immich-app:immich-charts:1791849600</ns0:id>
+    <ns0:id>urn:github:immich-app:immich-charts:1791936000</ns0:id>
     <ns0:title>immich-app/immich-charts</ns0:title>
     <ns0:link href="https://github.com/immich-app/immich-charts"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/immich-app/immich-charts"&gt;https://github.com/immich-app/immich-charts&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
@@ -106,10 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:uber:hermetic_cc_toolchain:1791849600</ns0:id>
+    <ns0:id>urn:github:uber:hermetic_cc_toolchain:1791936000</ns0:id>
     <ns0:title>uber/hermetic_cc_toolchain</ns0:title>
     <ns0:link href="https://github.com/uber/hermetic_cc_toolchain"/>
-    <ns0:updated>2026-10-13T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/uber/hermetic_cc_toolchain"&gt;https://github.com/uber/hermetic_cc_toolchain&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;

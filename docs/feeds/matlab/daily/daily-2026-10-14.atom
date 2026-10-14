@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - matlab (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/matlab/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:TadasBaltrusaitis:OpenFace:1791936000</ns0:id>
+    <ns0:title>TadasBaltrusaitis/OpenFace</ns0:title>
+    <ns0:link href="https://github.com/TadasBaltrusaitis/OpenFace"/>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TadasBaltrusaitis/OpenFace"&gt;https://github.com/TadasBaltrusaitis/OpenFace&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; matlab&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;OpenFace – a state-of-the art tool intended for facial landmark detection, head pose estimation, facial action unit recognition, and eye-gaze estimation.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:matlab:matlab-agentic-toolkit:1791936000</ns0:id>
+    <ns0:title>matlab/matlab-agentic-toolkit</ns0:title>
+    <ns0:link href="https://github.com/matlab/matlab-agentic-toolkit"/>
+    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/matlab/matlab-agentic-toolkit"&gt;https://github.com/matlab/matlab-agentic-toolkit&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; matlab&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The MATLAB Agentic Toolkit brings proven MATLAB capabilities to AI agents, making engineering and scientific workflows agent-ready.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
