@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - c (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:DaveGamble:cJSON:1792022400</ns0:id>
+    <ns0:title>DaveGamble/cJSON</ns0:title>
+    <ns0:link href="https://github.com/DaveGamble/cJSON"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DaveGamble/cJSON"&gt;https://github.com/DaveGamble/cJSON&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Ultralightweight JSON parser in ANSI C&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:FreeRTOS:FreeRTOS-Kernel:1792022400</ns0:id>
+    <ns0:title>FreeRTOS/FreeRTOS-Kernel</ns0:title>
+    <ns0:link href="https://github.com/FreeRTOS/FreeRTOS-Kernel"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FreeRTOS/FreeRTOS-Kernel"&gt;https://github.com/FreeRTOS/FreeRTOS-Kernel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:KernelSU-Next:KernelSU-Next:1792022400</ns0:id>
+    <ns0:title>KernelSU-Next/KernelSU-Next</ns0:title>
+    <ns0:link href="https://github.com/KernelSU-Next/KernelSU-Next"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/KernelSU-Next/KernelSU-Next"&gt;https://github.com/KernelSU-Next/KernelSU-Next&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An advanced Kernel based root solution for Android&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:capstone-engine:capstone:1792022400</ns0:id>
+    <ns0:title>capstone-engine/capstone</ns0:title>
+    <ns0:link href="https://github.com/capstone-engine/capstone"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/capstone-engine/capstone"&gt;https://github.com/capstone-engine/capstone&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:colbymchenry:codegraph:1792022400</ns0:id>
+    <ns0:title>colbymchenry/codegraph</ns0:title>
+    <ns0:link href="https://github.com/colbymchenry/codegraph"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/colbymchenry/codegraph"&gt;https://github.com/colbymchenry/codegraph&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:git:git:1792022400</ns0:id>
+    <ns0:title>git/git</ns0:title>
+    <ns0:link href="https://github.com/git/git"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/git/git"&gt;https://github.com/git/git&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Git Source Code Mirror - This is a publish-only repository but pull requests can be turned into patches to the mailing list via GitGitGadget (https://gitgitgadget.github.io/). Please follow Documentation/SubmittingPatches procedure for any of your improvements.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:lvgl:lvgl:1792022400</ns0:id>
+    <ns0:title>lvgl/lvgl</ns0:title>
+    <ns0:link href="https://github.com/lvgl/lvgl"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lvgl/lvgl"&gt;https://github.com/lvgl/lvgl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:lz4:lz4:1792022400</ns0:id>
+    <ns0:title>lz4/lz4</ns0:title>
+    <ns0:link href="https://github.com/lz4/lz4"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lz4/lz4"&gt;https://github.com/lz4/lz4&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Extremely Fast Compression algorithm&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:opa334:Dopamine:1792022400</ns0:id>
+    <ns0:title>opa334/Dopamine</ns0:title>
+    <ns0:link href="https://github.com/opa334/Dopamine"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opa334/Dopamine"&gt;https://github.com/opa334/Dopamine&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rizinorg:rizin:1792022400</ns0:id>
+    <ns0:title>rizinorg/rizin</ns0:title>
+    <ns0:link href="https://github.com/rizinorg/rizin"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rizinorg/rizin"&gt;https://github.com/rizinorg/rizin&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;UNIX-like reverse engineering framework and command-line toolset.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:sp00nznet:ps3recomp:1792022400</ns0:id>
+    <ns0:title>sp00nznet/ps3recomp</ns0:title>
+    <ns0:link href="https://github.com/sp00nznet/ps3recomp"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sp00nznet/ps3recomp"&gt;https://github.com/sp00nznet/ps3recomp&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Static recompilation runtime libraries for PlayStation 3 titles.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:zephyrproject-rtos:zephyr:1792022400</ns0:id>
+    <ns0:title>zephyrproject-rtos/zephyr</ns0:title>
+    <ns0:link href="https://github.com/zephyrproject-rtos/zephyr"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zephyrproject-rtos/zephyr"&gt;https://github.com/zephyrproject-rtos/zephyr&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

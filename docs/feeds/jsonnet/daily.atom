@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/jsonnet/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-15T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:argoproj:argocd-example-apps:1791936000</ns0:id>
+    <ns0:id>urn:github:argoproj:argocd-example-apps:1792022400</ns0:id>
     <ns0:title>argoproj/argocd-example-apps</ns0:title>
     <ns0:link href="https://github.com/argoproj/argocd-example-apps"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/argoproj/argocd-example-apps"&gt;https://github.com/argoproj/argocd-example-apps&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jsonnet&lt;/div&gt;
@@ -22,15 +22,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:prometheus-operator:kube-prometheus:1791936000</ns0:id>
+    <ns0:id>urn:github:prometheus-operator:kube-prometheus:1792022400</ns0:id>
     <ns0:title>prometheus-operator/kube-prometheus</ns0:title>
     <ns0:link href="https://github.com/prometheus-operator/kube-prometheus"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/prometheus-operator/kube-prometheus"&gt;https://github.com/prometheus-operator/kube-prometheus&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jsonnet&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Use Prometheus to monitor Kubernetes and applications running on Kubernetes&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:walnuts1018:infra:1792022400</ns0:id>
+    <ns0:title>walnuts1018/infra</ns0:title>
+    <ns0:link href="https://github.com/walnuts1018/infra"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/walnuts1018/infra"&gt;https://github.com/walnuts1018/infra&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jsonnet&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;自宅サーバーの構成管理&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

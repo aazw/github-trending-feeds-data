@@ -5,27 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-15T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Homebrew:brew:1791936000</ns0:id>
-    <ns0:title>Homebrew/brew</ns0:title>
-    <ns0:link href="https://github.com/Homebrew/brew"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Homebrew:homebrew-cask:1792022400</ns0:id>
+    <ns0:title>Homebrew/homebrew-cask</ns0:title>
+    <ns0:link href="https://github.com/Homebrew/homebrew-cask"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Homebrew/brew"&gt;https://github.com/Homebrew/brew&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Homebrew/homebrew-cask"&gt;https://github.com/Homebrew/homebrew-cask&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;🍺 The Package Manager for Everywhere&lt;/div&gt;
+&lt;div&gt;🍻 Default casks (upstream binary packages) for the package manager for everywhere&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Homebrew:homebrew-core:1791936000</ns0:id>
+    <ns0:id>urn:github:Homebrew:homebrew-core:1792022400</ns0:id>
     <ns0:title>Homebrew/homebrew-core</ns0:title>
     <ns0:link href="https://github.com/Homebrew/homebrew-core"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Homebrew/homebrew-core"&gt;https://github.com/Homebrew/homebrew-core&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -34,46 +34,70 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:capistrano:capistrano:1791936000</ns0:id>
-    <ns0:title>capistrano/capistrano</ns0:title>
-    <ns0:link href="https://github.com/capistrano/capistrano"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:id>urn:github:antiwork:gumroad:1792022400</ns0:id>
+    <ns0:title>antiwork/gumroad</ns0:title>
+    <ns0:link href="https://github.com/antiwork/gumroad"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/capistrano/capistrano"&gt;https://github.com/capistrano/capistrano&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/antiwork/gumroad"&gt;https://github.com/antiwork/gumroad&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A deployment automation tool built on Ruby, Rake, and SSH.&lt;/div&gt;
+&lt;div&gt;See what sticks&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:chef:chef:1791936000</ns0:id>
-    <ns0:title>chef/chef</ns0:title>
-    <ns0:link href="https://github.com/chef/chef"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:id>urn:github:basecamp:fizzy:1792022400</ns0:id>
+    <ns0:title>basecamp/fizzy</ns0:title>
+    <ns0:link href="https://github.com/basecamp/fizzy"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chef/chef"&gt;https://github.com/chef/chef&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/basecamp/fizzy"&gt;https://github.com/basecamp/fizzy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Chef Infra, a powerful automation platform that transforms infrastructure into code automating how infrastructure is configured, deployed and managed across any environment, at any scale&lt;/div&gt;
+&lt;div&gt;Kanban as it should be. Not as it has been.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cncf:gitdm:1791936000</ns0:id>
-    <ns0:title>cncf/gitdm</ns0:title>
-    <ns0:link href="https://github.com/cncf/gitdm"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:id>urn:github:chatwoot:chatwoot:1792022400</ns0:id>
+    <ns0:title>chatwoot/chatwoot</ns0:title>
+    <ns0:link href="https://github.com/chatwoot/chatwoot"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cncf/gitdm"&gt;https://github.com/cncf/gitdm&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chatwoot/chatwoot"&gt;https://github.com/chatwoot/chatwoot&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;📜Fork for tracking CNCF projects&lt;/div&gt;
+&lt;div&gt;Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:docusealco:docuseal:1791936000</ns0:id>
+    <ns0:id>urn:github:decidim:decidim:1792022400</ns0:id>
+    <ns0:title>decidim/decidim</ns0:title>
+    <ns0:link href="https://github.com/decidim/decidim"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/decidim/decidim"&gt;https://github.com/decidim/decidim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The participatory democracy framework. A generator and multiple gems made with Ruby on Rails&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:discourse:discourse:1792022400</ns0:id>
+    <ns0:title>discourse/discourse</ns0:title>
+    <ns0:link href="https://github.com/discourse/discourse"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/discourse/discourse"&gt;https://github.com/discourse/discourse&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A platform for community discussion. Free, open, simple.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:docusealco:docuseal:1792022400</ns0:id>
     <ns0:title>docusealco/docuseal</ns0:title>
     <ns0:link href="https://github.com/docusealco/docuseal"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/docusealco/docuseal"&gt;https://github.com/docusealco/docuseal&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -82,58 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:endoflife-date:endoflife.date:1791936000</ns0:id>
-    <ns0:title>endoflife-date/endoflife.date</ns0:title>
-    <ns0:link href="https://github.com/endoflife-date/endoflife.date"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/endoflife-date/endoflife.date"&gt;https://github.com/endoflife-date/endoflife.date&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Informative site with EoL dates of everything&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:forem:forem:1791936000</ns0:id>
-    <ns0:title>forem/forem</ns0:title>
-    <ns0:link href="https://github.com/forem/forem"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/forem/forem"&gt;https://github.com/forem/forem&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;For empowering community 🌱&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:github:explore:1791936000</ns0:id>
-    <ns0:title>github/explore</ns0:title>
-    <ns0:link href="https://github.com/github/explore"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/explore"&gt;https://github.com/github/explore&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Community-curated topic and collection pages on GitHub&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:heartcombo:devise:1791936000</ns0:id>
-    <ns0:title>heartcombo/devise</ns0:title>
-    <ns0:link href="https://github.com/heartcombo/devise"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/heartcombo/devise"&gt;https://github.com/heartcombo/devise&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Flexible authentication solution for Rails with Warden.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:jekyll:jekyll:1791936000</ns0:id>
+    <ns0:id>urn:github:jekyll:jekyll:1792022400</ns0:id>
     <ns0:title>jekyll/jekyll</ns0:title>
     <ns0:link href="https://github.com/jekyll/jekyll"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jekyll/jekyll"&gt;https://github.com/jekyll/jekyll&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -142,22 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mastodon:mastodon:1791936000</ns0:id>
-    <ns0:title>mastodon/mastodon</ns0:title>
-    <ns0:link href="https://github.com/mastodon/mastodon"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mastodon/mastodon"&gt;https://github.com/mastodon/mastodon&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Your self-hosted, globally interconnected microblogging community&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:openstreetmap:openstreetmap-website:1791936000</ns0:id>
+    <ns0:id>urn:github:openstreetmap:openstreetmap-website:1792022400</ns0:id>
     <ns0:title>openstreetmap/openstreetmap-website</ns0:title>
     <ns0:link href="https://github.com/openstreetmap/openstreetmap-website"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openstreetmap/openstreetmap-website"&gt;https://github.com/openstreetmap/openstreetmap-website&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -166,22 +130,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pglombardo:PasswordPusher:1791936000</ns0:id>
-    <ns0:title>pglombardo/PasswordPusher</ns0:title>
-    <ns0:link href="https://github.com/pglombardo/PasswordPusher"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:id>urn:github:orbitalindex:awesome-space:1792022400</ns0:id>
+    <ns0:title>orbitalindex/awesome-space</ns0:title>
+    <ns0:link href="https://github.com/orbitalindex/awesome-space"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pglombardo/PasswordPusher"&gt;https://github.com/pglombardo/PasswordPusher&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/orbitalindex/awesome-space"&gt;https://github.com/orbitalindex/awesome-space&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;🔐 Securely share sensitive information with automatic expiration &amp; deletion after a set number of views or duration. Track who, what and when with full audit logs.&lt;/div&gt;
+&lt;div&gt;🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rails:rails:1791936000</ns0:id>
+    <ns0:id>urn:github:rails:rails:1792022400</ns0:id>
     <ns0:title>rails/rails</ns0:title>
     <ns0:link href="https://github.com/rails/rails"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rails/rails"&gt;https://github.com/rails/rails&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -190,10 +154,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ruby:gem_rbs_collection:1791936000</ns0:id>
+    <ns0:id>urn:github:ruby:gem_rbs_collection:1792022400</ns0:id>
     <ns0:title>ruby/gem_rbs_collection</ns0:title>
     <ns0:link href="https://github.com/ruby/gem_rbs_collection"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruby/gem_rbs_collection"&gt;https://github.com/ruby/gem_rbs_collection&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -202,10 +166,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ruby:ruby:1791936000</ns0:id>
+    <ns0:id>urn:github:ruby:ruby:1792022400</ns0:id>
     <ns0:title>ruby/ruby</ns0:title>
     <ns0:link href="https://github.com/ruby/ruby"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruby/ruby"&gt;https://github.com/ruby/ruby&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -214,39 +178,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rubysec:ruby-advisory-db:1791936000</ns0:id>
+    <ns0:id>urn:github:ruby:rubygems:1792022400</ns0:id>
+    <ns0:title>ruby/rubygems</ns0:title>
+    <ns0:link href="https://github.com/ruby/rubygems"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruby/rubygems"&gt;https://github.com/ruby/rubygems&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Library packaging and distribution for Ruby.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rubysec:ruby-advisory-db:1792022400</ns0:id>
     <ns0:title>rubysec/ruby-advisory-db</ns0:title>
     <ns0:link href="https://github.com/rubysec/ruby-advisory-db"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rubysec/ruby-advisory-db"&gt;https://github.com/rubysec/ruby-advisory-db&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;A database of vulnerable Ruby Gems&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:spree:spree:1791936000</ns0:id>
-    <ns0:title>spree/spree</ns0:title>
-    <ns0:link href="https://github.com/spree/spree"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/spree/spree"&gt;https://github.com/spree/spree&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Open Source Platform for DTC, B2B Commerce, Marketplaces &amp; Omnichannel. REST APIs, TypeScript SDKs, and production-ready Next.js storefront. Self-host it. Own your data. No vendor lock-in. Zero platform fees.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:ytti:oxidized:1791936000</ns0:id>
-    <ns0:title>ytti/oxidized</ns0:title>
-    <ns0:link href="https://github.com/ytti/oxidized"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ytti/oxidized"&gt;https://github.com/ytti/oxidized&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Oxidized is a network device configuration backup tool. It's a RANCID replacement!&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/restructuredtext/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - restructuredtext (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/restructuredtext/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:godotengine:godot-docs:1792022400</ns0:id>
+    <ns0:title>godotengine/godot-docs</ns0:title>
+    <ns0:link href="https://github.com/godotengine/godot-docs"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/godotengine/godot-docs"&gt;https://github.com/godotengine/godot-docs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; restructuredtext&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Godot Engine official documentation&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:odoo:documentation:1792022400</ns0:id>
+    <ns0:title>odoo/documentation</ns0:title>
+    <ns0:link href="https://github.com/odoo/documentation"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/odoo/documentation"&gt;https://github.com/odoo/documentation&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; restructuredtext&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Odoo documentation sources&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

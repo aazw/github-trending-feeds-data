@@ -5,56 +5,32 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-15T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:ProfMoo:home:1791936000</ns0:id>
-    <ns0:title>ProfMoo/home</ns0:title>
-    <ns0:link href="https://github.com/ProfMoo/home"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:id>urn:github:GTFOBins:GTFOBins.github.io:1792022400</ns0:id>
+    <ns0:title>GTFOBins/GTFOBins.github.io</ns0:title>
+    <ns0:link href="https://github.com/GTFOBins/GTFOBins.github.io"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ProfMoo/home"&gt;https://github.com/ProfMoo/home&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GTFOBins/GTFOBins.github.io"&gt;https://github.com/GTFOBins/GTFOBins.github.io&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;My homelab baremetal-to-k8s media and "do anything" server. Codified and GitOpsified&lt;/div&gt;
+&lt;div&gt;GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ishioni:homelab-ops:1791936000</ns0:id>
-    <ns0:title>ishioni/homelab-ops</ns0:title>
-    <ns0:link href="https://github.com/ishioni/homelab-ops"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
+    <ns0:id>urn:github:joryirving:home-ops:1792022400</ns0:id>
+    <ns0:title>joryirving/home-ops</ns0:title>
+    <ns0:link href="https://github.com/joryirving/home-ops"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ishioni/homelab-ops"&gt;https://github.com/ishioni/homelab-ops&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/joryirving/home-ops"&gt;https://github.com/joryirving/home-ops&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Family-friendly HomeOps driven by Kubernetes and GitOps using Flux&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tyriis:home-ops:1791936000</ns0:id>
-    <ns0:title>tyriis/home-ops</ns0:title>
-    <ns0:link href="https://github.com/tyriis/home-ops"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tyriis/home-ops"&gt;https://github.com/tyriis/home-ops&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;IaC for my HomeLab kubernetes cluster resources with Flux&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:usnistgov:macos_security:1791936000</ns0:id>
-    <ns0:title>usnistgov/macos_security</ns0:title>
-    <ns0:link href="https://github.com/usnistgov/macos_security"/>
-    <ns0:updated>2026-10-14T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/usnistgov/macos_security"&gt;https://github.com/usnistgov/macos_security&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;macOS Security Compliance Project&lt;/div&gt;
+&lt;div&gt;Wife tolerated HomeOps driven by Kubernetes, and Gitops via Flux.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - cmake (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:microsoft:vcpkg:1792022400</ns0:id>
+    <ns0:title>microsoft/vcpkg</ns0:title>
+    <ns0:link href="https://github.com/microsoft/vcpkg"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/vcpkg"&gt;https://github.com/microsoft/vcpkg&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cmake&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:shinchiro:mpv-winbuild-cmake:1792022400</ns0:id>
+    <ns0:title>shinchiro/mpv-winbuild-cmake</ns0:title>
+    <ns0:link href="https://github.com/shinchiro/mpv-winbuild-cmake"/>
+    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/shinchiro/mpv-winbuild-cmake"&gt;https://github.com/shinchiro/mpv-winbuild-cmake&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cmake&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;CMake-based MinGW-w64 Cross Toolchain&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
