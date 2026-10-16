@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/solidity/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-16T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:OpenZeppelin:openzeppelin-contracts:1792022400</ns0:id>
+    <ns0:id>urn:github:OpenZeppelin:openzeppelin-contracts:1792108800</ns0:id>
     <ns0:title>OpenZeppelin/openzeppelin-contracts</ns0:title>
     <ns0:link href="https://github.com/OpenZeppelin/openzeppelin-contracts"/>
-    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenZeppelin/openzeppelin-contracts"&gt;https://github.com/OpenZeppelin/openzeppelin-contracts&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; solidity&lt;/div&gt;
@@ -22,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Vectorized:solady:1792022400</ns0:id>
+    <ns0:id>urn:github:Vectorized:solady:1792108800</ns0:id>
     <ns0:title>Vectorized/solady</ns0:title>
     <ns0:link href="https://github.com/Vectorized/solady"/>
-    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Vectorized/solady"&gt;https://github.com/Vectorized/solady&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; solidity&lt;/div&gt;
@@ -34,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:a16z:erc4626-tests:1792022400</ns0:id>
+    <ns0:id>urn:github:a16z:erc4626-tests:1792108800</ns0:id>
     <ns0:title>a16z/erc4626-tests</ns0:title>
     <ns0:link href="https://github.com/a16z/erc4626-tests"/>
-    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/a16z/erc4626-tests"&gt;https://github.com/a16z/erc4626-tests&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; solidity&lt;/div&gt;
@@ -46,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dapphub:ds-test:1792022400</ns0:id>
+    <ns0:id>urn:github:dapphub:ds-test:1792108800</ns0:id>
     <ns0:title>dapphub/ds-test</ns0:title>
     <ns0:link href="https://github.com/dapphub/ds-test"/>
-    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dapphub/ds-test"&gt;https://github.com/dapphub/ds-test&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; solidity&lt;/div&gt;
@@ -58,10 +58,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:foundry-rs:forge-std:1792022400</ns0:id>
+    <ns0:id>urn:github:ethereum:ERCs:1792108800</ns0:id>
+    <ns0:title>ethereum/ERCs</ns0:title>
+    <ns0:link href="https://github.com/ethereum/ERCs"/>
+    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ethereum/ERCs"&gt;https://github.com/ethereum/ERCs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; solidity&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Ethereum Request for Comment repository&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:foundry-rs:forge-std:1792108800</ns0:id>
     <ns0:title>foundry-rs/forge-std</ns0:title>
     <ns0:link href="https://github.com/foundry-rs/forge-std"/>
-    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/foundry-rs/forge-std"&gt;https://github.com/foundry-rs/forge-std&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; solidity&lt;/div&gt;
@@ -70,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:transmissions11:solmate:1792022400</ns0:id>
+    <ns0:id>urn:github:transmissions11:solmate:1792108800</ns0:id>
     <ns0:title>transmissions11/solmate</ns0:title>
     <ns0:link href="https://github.com/transmissions11/solmate"/>
-    <ns0:updated>2026-10-15T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/transmissions11/solmate"&gt;https://github.com/transmissions11/solmate&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; solidity&lt;/div&gt;
