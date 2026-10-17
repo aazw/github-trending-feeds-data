@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:MicrosoftDocs:windows-powershell-docs:1792108800</ns0:id>
+    <ns0:id>urn:github:MicrosoftDocs:windows-powershell-docs:1792195200</ns0:id>
     <ns0:title>MicrosoftDocs/windows-powershell-docs</ns0:title>
     <ns0:link href="https://github.com/MicrosoftDocs/windows-powershell-docs"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MicrosoftDocs/windows-powershell-docs"&gt;https://github.com/MicrosoftDocs/windows-powershell-docs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -22,22 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:TristanCage:CypherX:1792108800</ns0:id>
-    <ns0:title>TristanCage/CypherX</ns0:title>
-    <ns0:link href="https://github.com/TristanCage/CypherX"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TristanCage/CypherX"&gt;https://github.com/TristanCage/CypherX&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;CypherX Repository&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:autowarefoundation:autoware:1792108800</ns0:id>
+    <ns0:id>urn:github:autowarefoundation:autoware:1792195200</ns0:id>
     <ns0:title>autowarefoundation/autoware</ns0:title>
     <ns0:link href="https://github.com/autowarefoundation/autoware"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/autowarefoundation/autoware"&gt;https://github.com/autowarefoundation/autoware&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -46,10 +34,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:datawhalechina:vibe-vibe:1792108800</ns0:id>
+    <ns0:id>urn:github:aws-amplify:amplify-hosting:1792195200</ns0:id>
+    <ns0:title>aws-amplify/amplify-hosting</ns0:title>
+    <ns0:link href="https://github.com/aws-amplify/amplify-hosting"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aws-amplify/amplify-hosting"&gt;https://github.com/aws-amplify/amplify-hosting&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:datawhalechina:vibe-vibe:1792195200</ns0:id>
     <ns0:title>datawhalechina/vibe-vibe</ns0:title>
     <ns0:link href="https://github.com/datawhalechina/vibe-vibe"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/datawhalechina/vibe-vibe"&gt;https://github.com/datawhalechina/vibe-vibe&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -58,10 +58,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dotnet:dotnet-docker:1792108800</ns0:id>
+    <ns0:id>urn:github:docker-library:php:1792195200</ns0:id>
+    <ns0:title>docker-library/php</ns0:title>
+    <ns0:link href="https://github.com/docker-library/php"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/docker-library/php"&gt;https://github.com/docker-library/php&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Docker Official Image packaging for PHP&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:dotnet:dotnet-docker:1792195200</ns0:id>
     <ns0:title>dotnet/dotnet-docker</ns0:title>
     <ns0:link href="https://github.com/dotnet/dotnet-docker"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dotnet/dotnet-docker"&gt;https://github.com/dotnet/dotnet-docker&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -70,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:freeCodeCamp:rdb-alpha:1792108800</ns0:id>
+    <ns0:id>urn:github:freeCodeCamp:rdb-alpha:1792195200</ns0:id>
     <ns0:title>freeCodeCamp/rdb-alpha</ns0:title>
     <ns0:link href="https://github.com/freeCodeCamp/rdb-alpha"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/freeCodeCamp/rdb-alpha"&gt;https://github.com/freeCodeCamp/rdb-alpha&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -82,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:goldbergyoni:nodebestpractices:1792108800</ns0:id>
+    <ns0:id>urn:github:goldbergyoni:nodebestpractices:1792195200</ns0:id>
     <ns0:title>goldbergyoni/nodebestpractices</ns0:title>
     <ns0:link href="https://github.com/goldbergyoni/nodebestpractices"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/goldbergyoni/nodebestpractices"&gt;https://github.com/goldbergyoni/nodebestpractices&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -94,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:iggredible:Learn-Vim:1792108800</ns0:id>
+    <ns0:id>urn:github:iggredible:Learn-Vim:1792195200</ns0:id>
     <ns0:title>iggredible/Learn-Vim</ns0:title>
     <ns0:link href="https://github.com/iggredible/Learn-Vim"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/iggredible/Learn-Vim"&gt;https://github.com/iggredible/Learn-Vim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -106,22 +118,58 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:k8s-operatorhub:community-operators:1792108800</ns0:id>
-    <ns0:title>k8s-operatorhub/community-operators</ns0:title>
-    <ns0:link href="https://github.com/k8s-operatorhub/community-operators"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:jaywcjlove:reference:1792195200</ns0:id>
+    <ns0:title>jaywcjlove/reference</ns0:title>
+    <ns0:link href="https://github.com/jaywcjlove/reference"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/k8s-operatorhub/community-operators"&gt;https://github.com/k8s-operatorhub/community-operators&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jaywcjlove/reference"&gt;https://github.com/jaywcjlove/reference&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The canonical source for Kubernetes Operators that are published on OperatorHub.io and part of the default catalog of the Operator Lifecycle Manager.&lt;/div&gt;
+&lt;div&gt;面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:microsoft:vscode-remote-release:1792108800</ns0:id>
+    <ns0:id>urn:github:kagisearch:kagi-docs:1792195200</ns0:id>
+    <ns0:title>kagisearch/kagi-docs</ns0:title>
+    <ns0:link href="https://github.com/kagisearch/kagi-docs"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kagisearch/kagi-docs"&gt;https://github.com/kagisearch/kagi-docs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Documentation for products made by Kagi Inc&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:laradock:laradock:1792195200</ns0:id>
+    <ns0:title>laradock/laradock</ns0:title>
+    <ns0:link href="https://github.com/laradock/laradock"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/laradock/laradock"&gt;https://github.com/laradock/laradock&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:microsoft:mssql-docker:1792195200</ns0:id>
+    <ns0:title>microsoft/mssql-docker</ns0:title>
+    <ns0:link href="https://github.com/microsoft/mssql-docker"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/mssql-docker"&gt;https://github.com/microsoft/mssql-docker&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Official Microsoft repository for SQL Server in Docker resources&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:microsoft:vscode-remote-release:1792195200</ns0:id>
     <ns0:title>microsoft/vscode-remote-release</ns0:title>
     <ns0:link href="https://github.com/microsoft/vscode-remote-release"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/vscode-remote-release"&gt;https://github.com/microsoft/vscode-remote-release&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -130,10 +178,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mikeroyal:Self-Hosting-Guide:1792108800</ns0:id>
+    <ns0:id>urn:github:mikeroyal:Self-Hosting-Guide:1792195200</ns0:id>
     <ns0:title>mikeroyal/Self-Hosting-Guide</ns0:title>
     <ns0:link href="https://github.com/mikeroyal/Self-Hosting-Guide"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mikeroyal/Self-Hosting-Guide"&gt;https://github.com/mikeroyal/Self-Hosting-Guide&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -142,39 +190,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nodejs:docker-node:1792108800</ns0:id>
+    <ns0:id>urn:github:nodejs:docker-node:1792195200</ns0:id>
     <ns0:title>nodejs/docker-node</ns0:title>
     <ns0:link href="https://github.com/nodejs/docker-node"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nodejs/docker-node"&gt;https://github.com/nodejs/docker-node&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Official Docker Image for Node.js 🐳 🐢 🚀&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:openharmony:docs:1792108800</ns0:id>
-    <ns0:title>openharmony/docs</ns0:title>
-    <ns0:link href="https://github.com/openharmony/docs"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openharmony/docs"&gt;https://github.com/openharmony/docs&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;暂无描述&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:zabbix:zabbix-docker:1792108800</ns0:id>
-    <ns0:title>zabbix/zabbix-docker</ns0:title>
-    <ns0:link href="https://github.com/zabbix/zabbix-docker"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zabbix/zabbix-docker"&gt;https://github.com/zabbix/zabbix-docker&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Official Zabbix Dockerfiles&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

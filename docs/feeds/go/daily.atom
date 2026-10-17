@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Gentleman-Programming:engram:1792108800</ns0:id>
+    <ns0:id>urn:github:Gentleman-Programming:engram:1792195200</ns0:id>
     <ns0:title>Gentleman-Programming/engram</ns0:title>
     <ns0:link href="https://github.com/Gentleman-Programming/engram"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Gentleman-Programming/engram"&gt;https://github.com/Gentleman-Programming/engram&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -22,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:GoogleCloudPlatform:scion:1792108800</ns0:id>
+    <ns0:id>urn:github:GoogleCloudPlatform:scion:1792195200</ns0:id>
     <ns0:title>GoogleCloudPlatform/scion</ns0:title>
     <ns0:link href="https://github.com/GoogleCloudPlatform/scion"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GoogleCloudPlatform/scion"&gt;https://github.com/GoogleCloudPlatform/scion&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -34,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:JuliusBrussee:caveman:1792108800</ns0:id>
+    <ns0:id>urn:github:JuliusBrussee:caveman:1792195200</ns0:id>
     <ns0:title>JuliusBrussee/caveman</ns0:title>
     <ns0:link href="https://github.com/JuliusBrussee/caveman"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliusBrussee/caveman"&gt;https://github.com/JuliusBrussee/caveman&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -46,22 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Tencent:WeKnora:1792108800</ns0:id>
-    <ns0:title>Tencent/WeKnora</ns0:title>
-    <ns0:link href="https://github.com/Tencent/WeKnora"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Tencent/WeKnora"&gt;https://github.com/Tencent/WeKnora&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:Wei-Shaw:sub2api:1792108800</ns0:id>
+    <ns0:id>urn:github:Wei-Shaw:sub2api:1792195200</ns0:id>
     <ns0:title>Wei-Shaw/sub2api</ns0:title>
     <ns0:link href="https://github.com/Wei-Shaw/sub2api"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Wei-Shaw/sub2api"&gt;https://github.com/Wei-Shaw/sub2api&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -70,22 +58,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:bytebase:bytebase:1792108800</ns0:id>
-    <ns0:title>bytebase/bytebase</ns0:title>
-    <ns0:link href="https://github.com/bytebase/bytebase"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:argoproj:argo-cd:1792195200</ns0:id>
+    <ns0:title>argoproj/argo-cd</ns0:title>
+    <ns0:link href="https://github.com/argoproj/argo-cd"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bytebase/bytebase"&gt;https://github.com/bytebase/bytebase&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/argoproj/argo-cd"&gt;https://github.com/argoproj/argo-cd&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Database governance built for humans and agents — controlling changes and access across every major database.&lt;/div&gt;
+&lt;div&gt;Declarative Continuous Deployment for Kubernetes&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cilium:cilium:1792108800</ns0:id>
+    <ns0:id>urn:github:bia-pain-bache:BPB-Wizard:1792195200</ns0:id>
+    <ns0:title>bia-pain-bache/BPB-Wizard</ns0:title>
+    <ns0:link href="https://github.com/bia-pain-bache/BPB-Wizard"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bia-pain-bache/BPB-Wizard"&gt;https://github.com/bia-pain-bache/BPB-Wizard&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A wizard to facilitate BPB Panel deployment and management.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cilium:cilium:1792195200</ns0:id>
     <ns0:title>cilium/cilium</ns0:title>
     <ns0:link href="https://github.com/cilium/cilium"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cilium/cilium"&gt;https://github.com/cilium/cilium&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -94,10 +94,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:gitleaks:gitleaks:1792108800</ns0:id>
+    <ns0:id>urn:github:etcd-io:etcd:1792195200</ns0:id>
+    <ns0:title>etcd-io/etcd</ns0:title>
+    <ns0:link href="https://github.com/etcd-io/etcd"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/etcd-io/etcd"&gt;https://github.com/etcd-io/etcd&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Distributed reliable key-value store for the most critical data of a distributed system&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:gastownhall:beads:1792195200</ns0:id>
+    <ns0:title>gastownhall/beads</ns0:title>
+    <ns0:link href="https://github.com/gastownhall/beads"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gastownhall/beads"&gt;https://github.com/gastownhall/beads&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Beads - A memory upgrade for your coding agent&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:gitleaks:gitleaks:1792195200</ns0:id>
     <ns0:title>gitleaks/gitleaks</ns0:title>
     <ns0:link href="https://github.com/gitleaks/gitleaks"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gitleaks/gitleaks"&gt;https://github.com/gitleaks/gitleaks&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -106,22 +130,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:gotenberg:gotenberg:1792108800</ns0:id>
-    <ns0:title>gotenberg/gotenberg</ns0:title>
-    <ns0:link href="https://github.com/gotenberg/gotenberg"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:google:ax:1792195200</ns0:id>
+    <ns0:title>google/ax</ns0:title>
+    <ns0:link href="https://github.com/google/ax"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gotenberg/gotenberg"&gt;https://github.com/gotenberg/gotenberg&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/ax"&gt;https://github.com/google/ax&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A developer-friendly API for converting many document formats into PDF files, and more!&lt;/div&gt;
+&lt;div&gt;Google's open agentic orchestration runtime&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jasonxu114514:opencode2api:1792108800</ns0:id>
+    <ns0:id>urn:github:jasonxu114514:opencode2api:1792195200</ns0:id>
     <ns0:title>jasonxu114514/opencode2api</ns0:title>
     <ns0:link href="https://github.com/jasonxu114514/opencode2api"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jasonxu114514/opencode2api"&gt;https://github.com/jasonxu114514/opencode2api&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -130,22 +154,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:keploy:keploy:1792108800</ns0:id>
-    <ns0:title>keploy/keploy</ns0:title>
-    <ns0:link href="https://github.com/keploy/keploy"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:kubernetes-sigs:agent-sandbox:1792195200</ns0:id>
+    <ns0:title>kubernetes-sigs/agent-sandbox</ns0:title>
+    <ns0:link href="https://github.com/kubernetes-sigs/agent-sandbox"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/keploy/keploy"&gt;https://github.com/keploy/keploy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kubernetes-sigs/agent-sandbox"&gt;https://github.com/kubernetes-sigs/agent-sandbox&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Open-source platform for creating safe, isolated production sandboxes for API, integration, and E2E testing.&lt;/div&gt;
+&lt;div&gt;agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes and reinforcement learning (RL).&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:llm-d:llm-d-router:1792108800</ns0:id>
+    <ns0:id>urn:github:kubernetes:kubernetes:1792195200</ns0:id>
+    <ns0:title>kubernetes/kubernetes</ns0:title>
+    <ns0:link href="https://github.com/kubernetes/kubernetes"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kubernetes/kubernetes"&gt;https://github.com/kubernetes/kubernetes&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Production-Grade Container Scheduling and Management&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:llm-d:llm-d-router:1792195200</ns0:id>
     <ns0:title>llm-d/llm-d-router</ns0:title>
     <ns0:link href="https://github.com/llm-d/llm-d-router"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/llm-d/llm-d-router"&gt;https://github.com/llm-d/llm-d-router&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -154,82 +190,70 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:prometheus:node_exporter:1792108800</ns0:id>
-    <ns0:title>prometheus/node_exporter</ns0:title>
-    <ns0:link href="https://github.com/prometheus/node_exporter"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:microsoft:TypeScript:1792195200</ns0:id>
+    <ns0:title>microsoft/TypeScript</ns0:title>
+    <ns0:link href="https://github.com/microsoft/TypeScript"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/prometheus/node_exporter"&gt;https://github.com/prometheus/node_exporter&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/TypeScript"&gt;https://github.com/microsoft/TypeScript&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Exporter for machine metrics&lt;/div&gt;
+&lt;div&gt;TypeScript is a superset of JavaScript that compiles to clean JavaScript output.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rorkai:App-Store-Connect-CLI:1792108800</ns0:id>
-    <ns0:title>rorkai/App-Store-Connect-CLI</ns0:title>
-    <ns0:link href="https://github.com/rorkai/App-Store-Connect-CLI"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ollama:ollama:1792195200</ns0:id>
+    <ns0:title>ollama/ollama</ns0:title>
+    <ns0:link href="https://github.com/ollama/ollama"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rorkai/App-Store-Connect-CLI"&gt;https://github.com/rorkai/App-Store-Connect-CLI&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ollama/ollama"&gt;https://github.com/ollama/ollama&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more&lt;/div&gt;
+&lt;div&gt;Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:router-for-me:CLIProxyAPI:1792108800</ns0:id>
-    <ns0:title>router-for-me/CLIProxyAPI</ns0:title>
-    <ns0:link href="https://github.com/router-for-me/CLIProxyAPI"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:owncast:owncast:1792195200</ns0:id>
+    <ns0:title>owncast/owncast</ns0:title>
+    <ns0:link href="https://github.com/owncast/owncast"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/router-for-me/CLIProxyAPI"&gt;https://github.com/router-for-me/CLIProxyAPI&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/owncast/owncast"&gt;https://github.com/owncast/owncast&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Devin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API&lt;/div&gt;
+&lt;div&gt;Take control over your live stream video by running it yourself. Streaming + chat out of the box.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sipeed:picoclaw:1792108800</ns0:id>
-    <ns0:title>sipeed/picoclaw</ns0:title>
-    <ns0:link href="https://github.com/sipeed/picoclaw"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:pion:webrtc:1792195200</ns0:id>
+    <ns0:title>pion/webrtc</ns0:title>
+    <ns0:link href="https://github.com/pion/webrtc"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sipeed/picoclaw"&gt;https://github.com/sipeed/picoclaw&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pion/webrtc"&gt;https://github.com/pion/webrtc&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity&lt;/div&gt;
+&lt;div&gt;Pure Go implementation of the WebRTC API&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:skyhook-io:radar:1792108800</ns0:id>
-    <ns0:title>skyhook-io/radar</ns0:title>
-    <ns0:link href="https://github.com/skyhook-io/radar"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:spf13:cobra:1792195200</ns0:id>
+    <ns0:title>spf13/cobra</ns0:title>
+    <ns0:link href="https://github.com/spf13/cobra"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/skyhook-io/radar"&gt;https://github.com/skyhook-io/radar&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/spf13/cobra"&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.&lt;/div&gt;
+&lt;div&gt;A Commander for modern Go CLI interactions&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:tbphp:gpt-load:1792108800</ns0:id>
-    <ns0:title>tbphp/gpt-load</ns0:title>
-    <ns0:link href="https://github.com/tbphp/gpt-load"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tbphp/gpt-load"&gt;https://github.com/tbphp/gpt-load&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Self-hosted AI gateway for multi-channel, multi-credential setups — API keys and subscription accounts, scheduling, failover, request logs and usage. 自托管 AI 网关：多渠道多凭据统一接入，含密钥与订阅账号、调度容错、日志与用量。&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tristenlammi:Arrmada:1792108800</ns0:id>
+    <ns0:id>urn:github:tristenlammi:Arrmada:1792195200</ns0:id>
     <ns0:title>tristenlammi/Arrmada</ns0:title>
     <ns0:link href="https://github.com/tristenlammi/Arrmada"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tristenlammi/Arrmada"&gt;https://github.com/tristenlammi/Arrmada&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -238,27 +262,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:vxcontrol:pentagi:1792108800</ns0:id>
-    <ns0:title>vxcontrol/pentagi</ns0:title>
-    <ns0:link href="https://github.com/vxcontrol/pentagi"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:vshulcz:deja-vu:1792195200</ns0:id>
+    <ns0:title>vshulcz/deja-vu</ns0:title>
+    <ns0:link href="https://github.com/vshulcz/deja-vu"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vxcontrol/pentagi"&gt;https://github.com/vxcontrol/pentagi&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vshulcz/deja-vu"&gt;https://github.com/vshulcz/deja-vu&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Fully autonomous AI Agents system capable of performing complex penetration testing tasks&lt;/div&gt;
+&lt;div&gt;Coding agent memory for Claude Code, Codex, Cursor and 39 more, built from the session history already on your disk. Local search, MCP and hooks, no LLM, one Go binary.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:zeromicro:go-zero:1792108800</ns0:id>
-    <ns0:title>zeromicro/go-zero</ns0:title>
-    <ns0:link href="https://github.com/zeromicro/go-zero"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ygelfand:echolocal:1792195200</ns0:id>
+    <ns0:title>ygelfand/echolocal</ns0:title>
+    <ns0:link href="https://github.com/ygelfand/echolocal"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zeromicro/go-zero"&gt;https://github.com/zeromicro/go-zero&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ygelfand/echolocal"&gt;https://github.com/ygelfand/echolocal&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A cloud-native Go microservices framework with cli tool for productivity.&lt;/div&gt;
+&lt;div&gt;Turn an Amazon Echo Dot or Echo Show into a fully local Home Assistant voice satellite, media player, display and Bluetooth proxy. No Amazon, no cloud.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

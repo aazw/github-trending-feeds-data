@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Automattic:harper:1792108800</ns0:id>
+    <ns0:id>urn:github:Automattic:harper:1792195200</ns0:id>
     <ns0:title>Automattic/harper</ns0:title>
     <ns0:link href="https://github.com/Automattic/harper"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Automattic/harper"&gt;https://github.com/Automattic/harper&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -22,10 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ai-dynamo:dynamo:1792108800</ns0:id>
+    <ns0:id>urn:github:GCWing:OpenBitFun:1792195200</ns0:id>
+    <ns0:title>GCWing/OpenBitFun</ns0:title>
+    <ns0:link href="https://github.com/GCWing/OpenBitFun"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GCWing/OpenBitFun"&gt;https://github.com/GCWing/OpenBitFun&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ai-dynamo:dynamo:1792195200</ns0:id>
     <ns0:title>ai-dynamo/dynamo</ns0:title>
     <ns0:link href="https://github.com/ai-dynamo/dynamo"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ai-dynamo/dynamo"&gt;https://github.com/ai-dynamo/dynamo&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -34,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:akitaonrails:ai-memory:1792108800</ns0:id>
+    <ns0:id>urn:github:akitaonrails:ai-memory:1792195200</ns0:id>
     <ns0:title>akitaonrails/ai-memory</ns0:title>
     <ns0:link href="https://github.com/akitaonrails/ai-memory"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/akitaonrails/ai-memory"&gt;https://github.com/akitaonrails/ai-memory&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -46,34 +58,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cloud-hypervisor:cloud-hypervisor:1792108800</ns0:id>
-    <ns0:title>cloud-hypervisor/cloud-hypervisor</ns0:title>
-    <ns0:link href="https://github.com/cloud-hypervisor/cloud-hypervisor"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:foundry-rs:foundry:1792195200</ns0:id>
+    <ns0:title>foundry-rs/foundry</ns0:title>
+    <ns0:link href="https://github.com/foundry-rs/foundry"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloud-hypervisor/cloud-hypervisor"&gt;https://github.com/cloud-hypervisor/cloud-hypervisor&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/foundry-rs/foundry"&gt;https://github.com/foundry-rs/foundry&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.&lt;/div&gt;
+&lt;div&gt;Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:hydra-db:hydradb:1792108800</ns0:id>
-    <ns0:title>hydra-db/hydradb</ns0:title>
-    <ns0:link href="https://github.com/hydra-db/hydradb"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:jdx:mise:1792195200</ns0:id>
+    <ns0:title>jdx/mise</ns0:title>
+    <ns0:link href="https://github.com/jdx/mise"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hydra-db/hydradb"&gt;https://github.com/hydra-db/hydradb&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jdx/mise"&gt;https://github.com/jdx/mise&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;HydraDB - fast graph database on object storage&lt;/div&gt;
+&lt;div&gt;dev tools, env vars, task runner&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:magnitudedev:magnitude:1792108800</ns0:id>
+    <ns0:id>urn:github:maddada:Ghostex:1792195200</ns0:id>
+    <ns0:title>maddada/Ghostex</ns0:title>
+    <ns0:link href="https://github.com/maddada/Ghostex"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/maddada/Ghostex"&gt;https://github.com/maddada/Ghostex&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Best &amp; Most Powerful Native Agents Workspace. Fully Rust &amp; GPUI based. Mobile apps. 20+ agents. Ghostty.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:magnitudedev:magnitude:1792195200</ns0:id>
     <ns0:title>magnitudedev/magnitude</ns0:title>
     <ns0:link href="https://github.com/magnitudedev/magnitude"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/magnitudedev/magnitude"&gt;https://github.com/magnitudedev/magnitude&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -82,34 +106,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pollen-robotics:microduck:1792108800</ns0:id>
-    <ns0:title>pollen-robotics/microduck</ns0:title>
-    <ns0:link href="https://github.com/pollen-robotics/microduck"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:mixelpixx:Konnect:1792195200</ns0:id>
+    <ns0:title>mixelpixx/Konnect</ns0:title>
+    <ns0:link href="https://github.com/mixelpixx/Konnect"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pollen-robotics/microduck"&gt;https://github.com/pollen-robotics/microduck&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mixelpixx/Konnect"&gt;https://github.com/mixelpixx/Konnect&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A Tiny biped duck robot 🦆&lt;/div&gt;
+&lt;div&gt;AI-assisted PCB design for KiCAD 10. Native KiCAD plugin — a single Rust binary exposing 217 schematic, layout, routing, placement, design-review, and manufacturing tools to Claude, or the LLM of your choosing&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rtk-ai:rtk:1792108800</ns0:id>
-    <ns0:title>rtk-ai/rtk</ns0:title>
-    <ns0:link href="https://github.com/rtk-ai/rtk"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nautechsystems:nautilus_trader:1792195200</ns0:id>
+    <ns0:title>nautechsystems/nautilus_trader</ns0:title>
+    <ns0:link href="https://github.com/nautechsystems/nautilus_trader"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rtk-ai/rtk"&gt;https://github.com/rtk-ai/rtk&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nautechsystems/nautilus_trader"&gt;https://github.com/nautechsystems/nautilus_trader&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies&lt;/div&gt;
+&lt;div&gt;Production-grade Rust-native trading engine with deterministic event-driven architecture&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rustdesk:rustdesk:1792108800</ns0:id>
+    <ns0:id>urn:github:pydantic:monty:1792195200</ns0:id>
+    <ns0:title>pydantic/monty</ns0:title>
+    <ns0:link href="https://github.com/pydantic/monty"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pydantic/monty"&gt;https://github.com/pydantic/monty&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A secure Python sandbox, written in Rust, for code written by AI.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rustdesk:rustdesk:1792195200</ns0:id>
     <ns0:title>rustdesk/rustdesk</ns0:title>
     <ns0:link href="https://github.com/rustdesk/rustdesk"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rustdesk/rustdesk"&gt;https://github.com/rustdesk/rustdesk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -118,22 +154,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ruvnet:RuView:1792108800</ns0:id>
-    <ns0:title>ruvnet/RuView</ns0:title>
-    <ns0:link href="https://github.com/ruvnet/RuView"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:surrealdb:surrealdb:1792195200</ns0:id>
+    <ns0:title>surrealdb/surrealdb</ns0:title>
+    <ns0:link href="https://github.com/surrealdb/surrealdb"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruvnet/RuView"&gt;https://github.com/ruvnet/RuView&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/surrealdb/surrealdb"&gt;https://github.com/surrealdb/surrealdb&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.&lt;/div&gt;
+&lt;div&gt;A scalable, distributed, collaborative, document-graph database, for the realtime web&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:voidzero-dev:vite-plus:1792108800</ns0:id>
+    <ns0:id>urn:github:voidzero-dev:vite-plus:1792195200</ns0:id>
     <ns0:title>voidzero-dev/vite-plus</ns0:title>
     <ns0:link href="https://github.com/voidzero-dev/vite-plus"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/voidzero-dev/vite-plus"&gt;https://github.com/voidzero-dev/vite-plus&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -142,15 +178,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:xerj-org:xerj:1792108800</ns0:id>
+    <ns0:id>urn:github:xerj-org:xerj:1792195200</ns0:id>
     <ns0:title>xerj-org/xerj</ns0:title>
     <ns0:link href="https://github.com/xerj-org/xerj"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xerj-org/xerj"&gt;https://github.com/xerj-org/xerj&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:zed-industries:zed:1792195200</ns0:id>
+    <ns0:title>zed-industries/zed</ns0:title>
+    <ns0:link href="https://github.com/zed-industries/zed"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zed-industries/zed"&gt;https://github.com/zed-industries/zed&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

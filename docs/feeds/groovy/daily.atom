@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/groovy/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:apache:bigtop:1792108800</ns0:id>
+    <ns0:id>urn:github:apache:bigtop:1792195200</ns0:id>
     <ns0:title>apache/bigtop</ns0:title>
     <ns0:link href="https://github.com/apache/bigtop"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/bigtop"&gt;https://github.com/apache/bigtop&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; groovy&lt;/div&gt;
@@ -22,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:groovy:1792108800</ns0:id>
+    <ns0:id>urn:github:apache:groovy:1792195200</ns0:id>
     <ns0:title>apache/groovy</ns0:title>
     <ns0:link href="https://github.com/apache/groovy"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/groovy"&gt;https://github.com/apache/groovy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; groovy&lt;/div&gt;
@@ -34,22 +34,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:gradle:gradle:1792108800</ns0:id>
-    <ns0:title>gradle/gradle</ns0:title>
-    <ns0:link href="https://github.com/gradle/gradle"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nextflow-io:nextflow:1792195200</ns0:id>
+    <ns0:title>nextflow-io/nextflow</ns0:title>
+    <ns0:link href="https://github.com/nextflow-io/nextflow"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gradle/gradle"&gt;https://github.com/gradle/gradle&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nextflow-io/nextflow"&gt;https://github.com/nextflow-io/nextflow&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; groovy&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Adaptable, fast automation for all&lt;/div&gt;
+&lt;div&gt;A workflow language for data-driven computational pipelines&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rundeck:rundeck:1792108800</ns0:id>
+    <ns0:id>urn:github:openshift-eng:aos-cd-jobs:1792195200</ns0:id>
+    <ns0:title>openshift-eng/aos-cd-jobs</ns0:title>
+    <ns0:link href="https://github.com/openshift-eng/aos-cd-jobs"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openshift-eng/aos-cd-jobs"&gt;https://github.com/openshift-eng/aos-cd-jobs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; groovy&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rundeck:rundeck:1792195200</ns0:id>
     <ns0:title>rundeck/rundeck</ns0:title>
     <ns0:link href="https://github.com/rundeck/rundeck"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rundeck/rundeck"&gt;https://github.com/rundeck/rundeck&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; groovy&lt;/div&gt;

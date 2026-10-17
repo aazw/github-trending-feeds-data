@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/xslt/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:ZUGFeRD:mustangproject:1792108800</ns0:id>
+    <ns0:id>urn:github:LOLBAS-Project:LOLBAS:1792195200</ns0:id>
+    <ns0:title>LOLBAS-Project/LOLBAS</ns0:title>
+    <ns0:link href="https://github.com/LOLBAS-Project/LOLBAS"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LOLBAS-Project/LOLBAS"&gt;https://github.com/LOLBAS-Project/LOLBAS&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; xslt&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Living Off The Land Binaries And Scripts - (LOLBins and LOLScripts)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ZUGFeRD:mustangproject:1792195200</ns0:id>
     <ns0:title>ZUGFeRD/mustangproject</ns0:title>
     <ns0:link href="https://github.com/ZUGFeRD/mustangproject"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ZUGFeRD/mustangproject"&gt;https://github.com/ZUGFeRD/mustangproject&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; xslt&lt;/div&gt;
@@ -22,27 +34,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:briankavanaugh:APA-7th-Edition:1792108800</ns0:id>
+    <ns0:id>urn:github:briankavanaugh:APA-7th-Edition:1792195200</ns0:id>
     <ns0:title>briankavanaugh/APA-7th-Edition</ns0:title>
     <ns0:link href="https://github.com/briankavanaugh/APA-7th-Edition"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/briankavanaugh/APA-7th-Edition"&gt;https://github.com/briankavanaugh/APA-7th-Edition&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; xslt&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Microsoft Word XSD for generating APA 7th edition references&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:codingo:BibWord:1792108800</ns0:id>
-    <ns0:title>codingo/BibWord</ns0:title>
-    <ns0:link href="https://github.com/codingo/BibWord"/>
-    <ns0:updated>2026-10-16T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/codingo/BibWord"&gt;https://github.com/codingo/BibWord&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; xslt&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Microsoft Word and Bibliography Styles extender.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

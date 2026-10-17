@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - emacs-lisp (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:dakra:ghostel:1792195200</ns0:id>
+    <ns0:title>dakra/ghostel</ns0:title>
+    <ns0:link href="https://github.com/dakra/ghostel"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dakra/ghostel"&gt;https://github.com/dakra/ghostel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Terminal emulator powered by libghostty&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:doomemacs:core:1792195200</ns0:id>
+    <ns0:title>doomemacs/core</ns0:title>
+    <ns0:link href="https://github.com/doomemacs/core"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/doomemacs/core"&gt;https://github.com/doomemacs/core&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An Emacs framework for the stubborn martian hacker&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:emacs-lsp:lsp-mode:1792195200</ns0:id>
+    <ns0:title>emacs-lsp/lsp-mode</ns0:title>
+    <ns0:link href="https://github.com/emacs-lsp/lsp-mode"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/emacs-lsp/lsp-mode"&gt;https://github.com/emacs-lsp/lsp-mode&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Emacs client/library for the Language Server Protocol&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:emacs-mirror:emacs:1792195200</ns0:id>
+    <ns0:title>emacs-mirror/emacs</ns0:title>
+    <ns0:link href="https://github.com/emacs-mirror/emacs"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/emacs-mirror/emacs"&gt;https://github.com/emacs-mirror/emacs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Mirror of GNU Emacs&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:karthink:gptel:1792195200</ns0:id>
+    <ns0:title>karthink/gptel</ns0:title>
+    <ns0:link href="https://github.com/karthink/gptel"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/karthink/gptel"&gt;https://github.com/karthink/gptel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A simple, extensible LLM client for Emacs&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:melpa:melpa:1792195200</ns0:id>
+    <ns0:title>melpa/melpa</ns0:title>
+    <ns0:link href="https://github.com/melpa/melpa"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/melpa/melpa"&gt;https://github.com/melpa/melpa&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Recipes and build machinery for the biggest Emacs package repo&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:syl20bnr:spacemacs:1792195200</ns0:id>
+    <ns0:title>syl20bnr/spacemacs</ns0:title>
+    <ns0:link href="https://github.com/syl20bnr/spacemacs"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/syl20bnr/spacemacs"&gt;https://github.com/syl20bnr/spacemacs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:xenodium:agent-shell:1792195200</ns0:id>
+    <ns0:title>xenodium/agent-shell</ns0:title>
+    <ns0:link href="https://github.com/xenodium/agent-shell"/>
+    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xenodium/agent-shell"&gt;https://github.com/xenodium/agent-shell&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Brings your favorite AI agents to Emacs, keeping you at home: familiar buffers and bindings, no terminal emulation. Powered by ACP.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
