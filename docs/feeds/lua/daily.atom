@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Grokitach:Stalker_GAMMA:1792195200</ns0:id>
+    <ns0:id>urn:github:AndyHazz:bookshelf.koplugin:1792281600</ns0:id>
+    <ns0:title>AndyHazz/bookshelf.koplugin</ns0:title>
+    <ns0:link href="https://github.com/AndyHazz/bookshelf.koplugin"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AndyHazz/bookshelf.koplugin"&gt;https://github.com/AndyHazz/bookshelf.koplugin&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A nice looking home screen for KOReader. Lets you pick a book from your shelf and read it, with some customisation around the book preview info that's shown.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Grokitach:Stalker_GAMMA:1792281600</ns0:id>
     <ns0:title>Grokitach/Stalker_GAMMA</ns0:title>
     <ns0:link href="https://github.com/Grokitach/Stalker_GAMMA"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Grokitach/Stalker_GAMMA"&gt;https://github.com/Grokitach/Stalker_GAMMA&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
@@ -22,46 +34,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:LazyVim:LazyVim:1792195200</ns0:id>
-    <ns0:title>LazyVim/LazyVim</ns0:title>
-    <ns0:link href="https://github.com/LazyVim/LazyVim"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:LandSandBoat:server:1792281600</ns0:id>
+    <ns0:title>LandSandBoat/server</ns0:title>
+    <ns0:link href="https://github.com/LandSandBoat/server"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LazyVim/LazyVim"&gt;https://github.com/LazyVim/LazyVim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LandSandBoat/server"&gt;https://github.com/LandSandBoat/server&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Neovim config for the lazy&lt;/div&gt;
+&lt;div&gt;⛵ LandSandBoat - a server emulator for Final Fantasy XI&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:apisix:1792195200</ns0:id>
-    <ns0:title>apache/apisix</ns0:title>
-    <ns0:link href="https://github.com/apache/apisix"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Stephan-S:FS25_AutoDrive:1792281600</ns0:id>
+    <ns0:title>Stephan-S/FS25_AutoDrive</ns0:title>
+    <ns0:link href="https://github.com/Stephan-S/FS25_AutoDrive"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/apisix"&gt;https://github.com/apache/apisix&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Stephan-S/FS25_AutoDrive"&gt;https://github.com/Stephan-S/FS25_AutoDrive&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The Cloud-Native API Gateway and AI Gateway&lt;/div&gt;
+&lt;div&gt;FS25 version of the AutoDrive mod&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:b0o:SchemaStore.nvim:1792195200</ns0:id>
-    <ns0:title>b0o/SchemaStore.nvim</ns0:title>
-    <ns0:link href="https://github.com/b0o/SchemaStore.nvim"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:bryanthaboi:gen1recomp:1792281600</ns0:id>
+    <ns0:title>bryanthaboi/gen1recomp</ns0:title>
+    <ns0:link href="https://github.com/bryanthaboi/gen1recomp"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/b0o/SchemaStore.nvim"&gt;https://github.com/b0o/SchemaStore.nvim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bryanthaboi/gen1recomp"&gt;https://github.com/bryanthaboi/gen1recomp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;🛍 JSON schemas for Neovim&lt;/div&gt;
+&lt;div&gt;Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1, 2, and 3 Poke&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:forest0xia:dota2bot-OpenHyperAI:1792195200</ns0:id>
+    <ns0:id>urn:github:forest0xia:dota2bot-OpenHyperAI:1792281600</ns0:id>
     <ns0:title>forest0xia/dota2bot-OpenHyperAI</ns0:title>
     <ns0:link href="https://github.com/forest0xia/dota2bot-OpenHyperAI"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/forest0xia/dota2bot-OpenHyperAI"&gt;https://github.com/forest0xia/dota2bot-OpenHyperAI&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
@@ -70,22 +82,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ibhagwan:fzf-lua:1792195200</ns0:id>
-    <ns0:title>ibhagwan/fzf-lua</ns0:title>
-    <ns0:link href="https://github.com/ibhagwan/fzf-lua"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:koreader:koreader:1792281600</ns0:id>
+    <ns0:title>koreader/koreader</ns0:title>
+    <ns0:link href="https://github.com/koreader/koreader"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ibhagwan/fzf-lua"&gt;https://github.com/ibhagwan/fzf-lua&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/koreader/koreader"&gt;https://github.com/koreader/koreader&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Improved fzf.vim written in lua&lt;/div&gt;
+&lt;div&gt;An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:neovim:nvim-lspconfig:1792195200</ns0:id>
+    <ns0:id>urn:github:neovim:nvim-lspconfig:1792281600</ns0:id>
     <ns0:title>neovim/nvim-lspconfig</ns0:title>
     <ns0:link href="https://github.com/neovim/nvim-lspconfig"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/neovim/nvim-lspconfig"&gt;https://github.com/neovim/nvim-lspconfig&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
@@ -94,22 +106,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nickjvandyke:opencode.nvim:1792195200</ns0:id>
-    <ns0:title>nickjvandyke/opencode.nvim</ns0:title>
-    <ns0:link href="https://github.com/nickjvandyke/opencode.nvim"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nvim-lua:kickstart.nvim:1792281600</ns0:id>
+    <ns0:title>nvim-lua/kickstart.nvim</ns0:title>
+    <ns0:link href="https://github.com/nvim-lua/kickstart.nvim"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nickjvandyke/opencode.nvim"&gt;https://github.com/nickjvandyke/opencode.nvim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nvim-lua/kickstart.nvim"&gt;https://github.com/nvim-lua/kickstart.nvim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Neovim 🤝 OpenCode in the flow that you already know.&lt;/div&gt;
+&lt;div&gt;A launch point for your personal nvim configuration&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:olimorris:codecompanion.nvim:1792195200</ns0:id>
+    <ns0:id>urn:github:olimorris:codecompanion.nvim:1792281600</ns0:id>
     <ns0:title>olimorris/codecompanion.nvim</ns0:title>
     <ns0:link href="https://github.com/olimorris/codecompanion.nvim"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/olimorris/codecompanion.nvim"&gt;https://github.com/olimorris/codecompanion.nvim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
@@ -118,46 +130,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:opentibiabr:otclient:1792195200</ns0:id>
-    <ns0:title>opentibiabr/otclient</ns0:title>
-    <ns0:link href="https://github.com/opentibiabr/otclient"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:pterodactyl:game-eggs:1792281600</ns0:id>
+    <ns0:title>pterodactyl/game-eggs</ns0:title>
+    <ns0:link href="https://github.com/pterodactyl/game-eggs"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opentibiabr/otclient"&gt;https://github.com/opentibiabr/otclient&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pterodactyl/game-eggs"&gt;https://github.com/pterodactyl/game-eggs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize&lt;/div&gt;
+&lt;div&gt;Pterodactyl Game Eggs&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:overextended:ox_lib:1792195200</ns0:id>
-    <ns0:title>overextended/ox_lib</ns0:title>
-    <ns0:link href="https://github.com/overextended/ox_lib"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/overextended/ox_lib"&gt;https://github.com/overextended/ox_lib&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A FiveM resource and script library for Lua and JS.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:quadural:MoreRealistic_FS25:1792195200</ns0:id>
-    <ns0:title>quadural/MoreRealistic_FS25</ns0:title>
-    <ns0:link href="https://github.com/quadural/MoreRealistic_FS25"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/quadural/MoreRealistic_FS25"&gt;https://github.com/quadural/MoreRealistic_FS25&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;MoreRealistic Mod For Farming Simulator 25&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:rittermod:FS25_RealisticLivestockRM:1792195200</ns0:id>
+    <ns0:id>urn:github:rittermod:FS25_RealisticLivestockRM:1792281600</ns0:id>
     <ns0:title>rittermod/FS25_RealisticLivestockRM</ns0:title>
     <ns0:link href="https://github.com/rittermod/FS25_RealisticLivestockRM"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rittermod/FS25_RealisticLivestockRM"&gt;https://github.com/rittermod/FS25_RealisticLivestockRM&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
@@ -166,15 +154,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:xmake-io:xmake:1792195200</ns0:id>
-    <ns0:title>xmake-io/xmake</ns0:title>
-    <ns0:link href="https://github.com/xmake-io/xmake"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:stevearc:conform.nvim:1792281600</ns0:id>
+    <ns0:title>stevearc/conform.nvim</ns0:title>
+    <ns0:link href="https://github.com/stevearc/conform.nvim"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xmake-io/xmake"&gt;https://github.com/xmake-io/xmake&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/stevearc/conform.nvim"&gt;https://github.com/stevearc/conform.nvim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;🔥 A cross-platform build utility based on Lua&lt;/div&gt;
+&lt;div&gt;Lightweight yet powerful formatter plugin for Neovim&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:teal-language:tl:1792281600</ns0:id>
+    <ns0:title>teal-language/tl</ns0:title>
+    <ns0:link href="https://github.com/teal-language/tl"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/teal-language/tl"&gt;https://github.com/teal-language/tl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The compiler for Teal, a typed dialect of Lua&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

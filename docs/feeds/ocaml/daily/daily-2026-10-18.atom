@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - ocaml (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:AeneasVerif:aeneas:1792281600</ns0:id>
+    <ns0:title>AeneasVerif/aeneas</ns0:title>
+    <ns0:link href="https://github.com/AeneasVerif/aeneas"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AeneasVerif/aeneas"&gt;https://github.com/AeneasVerif/aeneas&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A verification toolchain for Rust programs&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ocaml:dune:1792281600</ns0:id>
+    <ns0:title>ocaml/dune</ns0:title>
+    <ns0:link href="https://github.com/ocaml/dune"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ocaml/dune"&gt;https://github.com/ocaml/dune&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A composable build system for OCaml.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ocaml:ocaml:1792281600</ns0:id>
+    <ns0:title>ocaml/ocaml</ns0:title>
+    <ns0:link href="https://github.com/ocaml/ocaml"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ocaml/ocaml"&gt;https://github.com/ocaml/ocaml&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The core OCaml system: compilers, runtime system, base libraries&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ocaml:opam:1792281600</ns0:id>
+    <ns0:title>ocaml/opam</ns0:title>
+    <ns0:link href="https://github.com/ocaml/opam"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ocaml/opam"&gt;https://github.com/ocaml/opam&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rocq-prover:rocq:1792281600</ns0:id>
+    <ns0:title>rocq-prover/rocq</ns0:title>
+    <ns0:link href="https://github.com/rocq-prover/rocq"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rocq-prover/rocq"&gt;https://github.com/rocq-prover/rocq&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Rocq Prover is an interactive theorem prover, or proof assistant. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:NixOS:nix.dev:1792195200</ns0:id>
+    <ns0:id>urn:github:NixOS:nix.dev:1792281600</ns0:id>
     <ns0:title>NixOS/nix.dev</ns0:title>
     <ns0:link href="https://github.com/NixOS/nix.dev"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nix.dev"&gt;https://github.com/NixOS/nix.dev&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -22,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:NixOS:nixos-hardware:1792195200</ns0:id>
+    <ns0:id>urn:github:NixOS:nixos-hardware:1792281600</ns0:id>
     <ns0:title>NixOS/nixos-hardware</ns0:title>
     <ns0:link href="https://github.com/NixOS/nixos-hardware"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nixos-hardware"&gt;https://github.com/NixOS/nixos-hardware&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -34,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:NixOS:nixpkgs:1792195200</ns0:id>
+    <ns0:id>urn:github:NixOS:nixpkgs:1792281600</ns0:id>
     <ns0:title>NixOS/nixpkgs</ns0:title>
     <ns0:link href="https://github.com/NixOS/nixpkgs"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nixpkgs"&gt;https://github.com/NixOS/nixpkgs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -46,34 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:NotAShelf:nvf:1792195200</ns0:id>
-    <ns0:title>NotAShelf/nvf</ns0:title>
-    <ns0:link href="https://github.com/NotAShelf/nvf"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NotAShelf/nvf"&gt;https://github.com/NotAShelf/nvf&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Modular, extensible and distro-agnostic Neovim configuration framework for Nix/NixOS&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:microvm-nix:microvm.nix:1792195200</ns0:id>
-    <ns0:title>microvm-nix/microvm.nix</ns0:title>
-    <ns0:link href="https://github.com/microvm-nix/microvm.nix"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microvm-nix/microvm.nix"&gt;https://github.com/microvm-nix/microvm.nix&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;NixOS MicroVMs&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:nix-community:home-manager:1792195200</ns0:id>
+    <ns0:id>urn:github:nix-community:home-manager:1792281600</ns0:id>
     <ns0:title>nix-community/home-manager</ns0:title>
     <ns0:link href="https://github.com/nix-community/home-manager"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/home-manager"&gt;https://github.com/nix-community/home-manager&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -82,10 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nix-darwin:nix-darwin:1792195200</ns0:id>
+    <ns0:id>urn:github:nix-darwin:nix-darwin:1792281600</ns0:id>
     <ns0:title>nix-darwin/nix-darwin</ns0:title>
     <ns0:link href="https://github.com/nix-darwin/nix-darwin"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-darwin/nix-darwin"&gt;https://github.com/nix-darwin/nix-darwin&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -94,15 +70,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:numtide:llm-agents.nix:1792195200</ns0:id>
+    <ns0:id>urn:github:numtide:llm-agents.nix:1792281600</ns0:id>
     <ns0:title>numtide/llm-agents.nix</ns0:title>
     <ns0:link href="https://github.com/numtide/llm-agents.nix"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/numtide/llm-agents.nix"&gt;https://github.com/numtide/llm-agents.nix&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Nix packages for AI coding agents and development tools. Automatically updated daily.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:xddxdd:nix-cachyos-kernel:1792281600</ns0:id>
+    <ns0:title>xddxdd/nix-cachyos-kernel</ns0:title>
+    <ns0:link href="https://github.com/xddxdd/nix-cachyos-kernel"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xddxdd/nix-cachyos-kernel"&gt;https://github.com/xddxdd/nix-cachyos-kernel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;CachyOS kernel for NixOS&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

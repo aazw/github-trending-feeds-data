@@ -1,0 +1,156 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - haskell (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/haskell/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:PostgREST:postgrest:1792281600</ns0:id>
+    <ns0:title>PostgREST/postgrest</ns0:title>
+    <ns0:link href="https://github.com/PostgREST/postgrest"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PostgREST/postgrest"&gt;https://github.com/PostgREST/postgrest&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;REST API for any Postgres database&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:agda:agda:1792281600</ns0:id>
+    <ns0:title>agda/agda</ns0:title>
+    <ns0:link href="https://github.com/agda/agda"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/agda/agda"&gt;https://github.com/agda/agda&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Agda is a dependently typed programming language / interactive theorem prover.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:commercialhaskell:stack:1792281600</ns0:id>
+    <ns0:title>commercialhaskell/stack</ns0:title>
+    <ns0:link href="https://github.com/commercialhaskell/stack"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/commercialhaskell/stack"&gt;https://github.com/commercialhaskell/stack&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Haskell Tool Stack&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:hadolint:hadolint:1792281600</ns0:id>
+    <ns0:title>hadolint/hadolint</ns0:title>
+    <ns0:link href="https://github.com/hadolint/hadolint"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hadolint/hadolint"&gt;https://github.com/hadolint/hadolint&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Dockerfile linter, validate inline bash, written in Haskell&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:haskell:cabal:1792281600</ns0:id>
+    <ns0:title>haskell/cabal</ns0:title>
+    <ns0:link href="https://github.com/haskell/cabal"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/haskell/cabal"&gt;https://github.com/haskell/cabal&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Official upstream development repository for Cabal and cabal-install&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:hledgerorg:hledger:1792281600</ns0:id>
+    <ns0:title>hledgerorg/hledger</ns0:title>
+    <ns0:link href="https://github.com/hledgerorg/hledger"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hledgerorg/hledger"&gt;https://github.com/hledgerorg/hledger&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jgm:pandoc:1792281600</ns0:id>
+    <ns0:title>jgm/pandoc</ns0:title>
+    <ns0:link href="https://github.com/jgm/pandoc"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jgm/pandoc"&gt;https://github.com/jgm/pandoc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Universal markup converter&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:koalaman:shellcheck:1792281600</ns0:id>
+    <ns0:title>koalaman/shellcheck</ns0:title>
+    <ns0:link href="https://github.com/koalaman/shellcheck"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/koalaman/shellcheck"&gt;https://github.com/koalaman/shellcheck&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ShellCheck, a static analysis tool for shell scripts&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:monoscope-tech:monoscope:1792281600</ns0:id>
+    <ns0:title>monoscope-tech/monoscope</ns0:title>
+    <ns0:link href="https://github.com/monoscope-tech/monoscope"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/monoscope-tech/monoscope"&gt;https://github.com/monoscope-tech/monoscope&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Monoscope lets you ingest and explore your logs, traces and metrics. We store these in S3 compatible buckets. Query in natural language via LLMs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:mtolly:onyx:1792281600</ns0:id>
+    <ns0:title>mtolly/onyx</ns0:title>
+    <ns0:link href="https://github.com/mtolly/onyx"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mtolly/onyx"&gt;https://github.com/mtolly/onyx&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Toolkit for converting and building songs for Rock Band, Guitar Hero, Clone Hero, and other similar rhythm games&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:simplex-chat:simplex-chat:1792281600</ns0:id>
+    <ns0:title>simplex-chat/simplex-chat</ns0:title>
+    <ns0:link href="https://github.com/simplex-chat/simplex-chat"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/simplex-chat/simplex-chat"&gt;https://github.com/simplex-chat/simplex-chat&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:unisonweb:unison:1792281600</ns0:id>
+    <ns0:title>unisonweb/unison</ns0:title>
+    <ns0:link href="https://github.com/unisonweb/unison"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/unisonweb/unison"&gt;https://github.com/unisonweb/unison&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; haskell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A friendly programming language from the future&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

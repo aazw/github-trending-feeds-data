@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - perl (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:LMS-Community:slimserver:1792281600</ns0:id>
+    <ns0:title>LMS-Community/slimserver</ns0:title>
+    <ns0:link href="https://github.com/LMS-Community/slimserver"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LMS-Community/slimserver"&gt;https://github.com/LMS-Community/slimserver&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:OpenKore:openkore:1792281600</ns0:id>
+    <ns0:title>OpenKore/openkore</ns0:title>
+    <ns0:link href="https://github.com/OpenKore/openkore"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenKore/openkore"&gt;https://github.com/OpenKore/openkore&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A free/open source client and automation tool for Ragnarok Online&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Perl:perl5:1792281600</ns0:id>
+    <ns0:title>Perl/perl5</ns0:title>
+    <ns0:link href="https://github.com/Perl/perl5"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Perl/perl5"&gt;https://github.com/Perl/perl5&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🐪 The Perl programming language&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

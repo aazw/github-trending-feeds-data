@@ -5,39 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:FreeRTOS:FreeRTOS-Kernel:1792195200</ns0:id>
-    <ns0:title>FreeRTOS/FreeRTOS-Kernel</ns0:title>
-    <ns0:link href="https://github.com/FreeRTOS/FreeRTOS-Kernel"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:DeusData:codebase-memory-mcp:1792281600</ns0:id>
+    <ns0:title>DeusData/codebase-memory-mcp</ns0:title>
+    <ns0:link href="https://github.com/DeusData/codebase-memory-mcp"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FreeRTOS/FreeRTOS-Kernel"&gt;https://github.com/FreeRTOS/FreeRTOS-Kernel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DeusData/codebase-memory-mcp"&gt;https://github.com/DeusData/codebase-memory-mcp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.&lt;/div&gt;
+&lt;div&gt;High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:JustVugg:colibri:1792195200</ns0:id>
-    <ns0:title>JustVugg/colibri</ns0:title>
-    <ns0:link href="https://github.com/JustVugg/colibri"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JustVugg/colibri"&gt;https://github.com/JustVugg/colibri&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:KernelSU-Next:KernelSU-Next:1792195200</ns0:id>
+    <ns0:id>urn:github:KernelSU-Next:KernelSU-Next:1792281600</ns0:id>
     <ns0:title>KernelSU-Next/KernelSU-Next</ns0:title>
     <ns0:link href="https://github.com/KernelSU-Next/KernelSU-Next"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/KernelSU-Next/KernelSU-Next"&gt;https://github.com/KernelSU-Next/KernelSU-Next&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
@@ -46,70 +34,70 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:luka-dev:mib2q-carplay-rgi:1792195200</ns0:id>
-    <ns0:title>luka-dev/mib2q-carplay-rgi</ns0:title>
-    <ns0:link href="https://github.com/luka-dev/mib2q-carplay-rgi"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:NVIDIA-RTX:Streamline:1792281600</ns0:id>
+    <ns0:title>NVIDIA-RTX/Streamline</ns0:title>
+    <ns0:link href="https://github.com/NVIDIA-RTX/Streamline"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/luka-dev/mib2q-carplay-rgi"&gt;https://github.com/luka-dev/mib2q-carplay-rgi&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA-RTX/Streamline"&gt;https://github.com/NVIDIA-RTX/Streamline&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Better CarPlay for MHI2Q! Cluster Map, HUD Projection, Spatial Audio and more&lt;/div&gt;
+&lt;div&gt;Streamline Integration Framework&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:lz4:lz4:1792195200</ns0:id>
-    <ns0:title>lz4/lz4</ns0:title>
-    <ns0:link href="https://github.com/lz4/lz4"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:SlickAmogus:silent-hill-decomp:1792281600</ns0:id>
+    <ns0:title>SlickAmogus/silent-hill-decomp</ns0:title>
+    <ns0:link href="https://github.com/SlickAmogus/silent-hill-decomp"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lz4/lz4"&gt;https://github.com/lz4/lz4&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SlickAmogus/silent-hill-decomp"&gt;https://github.com/SlickAmogus/silent-hill-decomp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Extremely Fast Compression algorithm&lt;/div&gt;
+&lt;div&gt;Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:meshcore-dev:MeshCore:1792195200</ns0:id>
-    <ns0:title>meshcore-dev/MeshCore</ns0:title>
-    <ns0:link href="https://github.com/meshcore-dev/MeshCore"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:libsdl-org:SDL:1792281600</ns0:id>
+    <ns0:title>libsdl-org/SDL</ns0:title>
+    <ns0:link href="https://github.com/libsdl-org/SDL"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/meshcore-dev/MeshCore"&gt;https://github.com/meshcore-dev/MeshCore&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/libsdl-org/SDL"&gt;https://github.com/libsdl-org/SDL&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A new lightweight, hybrid routing mesh protocol for packet radios&lt;/div&gt;
+&lt;div&gt;Simple DirectMedia Layer&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:microsoft:PowerToys:1792195200</ns0:id>
-    <ns0:title>microsoft/PowerToys</ns0:title>
-    <ns0:link href="https://github.com/microsoft/PowerToys"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:matz:spinel:1792281600</ns0:id>
+    <ns0:title>matz/spinel</ns0:title>
+    <ns0:link href="https://github.com/matz/spinel"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/PowerToys"&gt;https://github.com/microsoft/PowerToys&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/matz/spinel"&gt;https://github.com/matz/spinel&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows&lt;/div&gt;
+&lt;div&gt;Ruby AOT compiler&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openwrt:openwrt:1792195200</ns0:id>
-    <ns0:title>openwrt/openwrt</ns0:title>
-    <ns0:link href="https://github.com/openwrt/openwrt"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nmap:nmap:1792281600</ns0:id>
+    <ns0:title>nmap/nmap</ns0:title>
+    <ns0:link href="https://github.com/nmap/nmap"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openwrt/openwrt"&gt;https://github.com/openwrt/openwrt&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nmap/nmap"&gt;https://github.com/nmap/nmap&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;This repository is a mirror of https://git.openwrt.org/openwrt/openwrt.git It is for reference only and is not active for check-ins. We will continue to accept Pull Requests here. They will be merged via staging trees then into openwrt.git.&lt;/div&gt;
+&lt;div&gt;Nmap - the Network Mapper. Github mirror of official SVN repository.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:raysan5:raylib:1792195200</ns0:id>
+    <ns0:id>urn:github:raysan5:raylib:1792281600</ns0:id>
     <ns0:title>raysan5/raylib</ns0:title>
     <ns0:link href="https://github.com/raysan5/raylib"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/raysan5/raylib"&gt;https://github.com/raysan5/raylib&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
@@ -118,39 +106,51 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:shardulvs:xnotes-android:1792195200</ns0:id>
-    <ns0:title>shardulvs/xnotes-android</ns0:title>
-    <ns0:link href="https://github.com/shardulvs/xnotes-android"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:rizinorg:rizin:1792281600</ns0:id>
+    <ns0:title>rizinorg/rizin</ns0:title>
+    <ns0:link href="https://github.com/rizinorg/rizin"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/shardulvs/xnotes-android"&gt;https://github.com/shardulvs/xnotes-android&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rizinorg/rizin"&gt;https://github.com/rizinorg/rizin&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A handwriting notes and sketching app for Android with stylus support&lt;/div&gt;
+&lt;div&gt;UNIX-like reverse engineering framework and command-line toolset.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:tmux:tmux:1792195200</ns0:id>
-    <ns0:title>tmux/tmux</ns0:title>
-    <ns0:link href="https://github.com/tmux/tmux"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:sp00nznet:ps3recomp:1792281600</ns0:id>
+    <ns0:title>sp00nznet/ps3recomp</ns0:title>
+    <ns0:link href="https://github.com/sp00nznet/ps3recomp"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tmux/tmux"&gt;https://github.com/tmux/tmux&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sp00nznet/ps3recomp"&gt;https://github.com/sp00nznet/ps3recomp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;tmux source code&lt;/div&gt;
+&lt;div&gt;Static recompilation runtime libraries for PlayStation 3 titles.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:zephyrproject-rtos:zephyr:1792195200</ns0:id>
-    <ns0:title>zephyrproject-rtos/zephyr</ns0:title>
-    <ns0:link href="https://github.com/zephyrproject-rtos/zephyr"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:id>urn:github:tr4m0ryp:tr4mpass:1792281600</ns0:id>
+    <ns0:title>tr4m0ryp/tr4mpass</ns0:title>
+    <ns0:link href="https://github.com/tr4m0ryp/tr4mpass"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zephyrproject-rtos/zephyr"&gt;https://github.com/zephyrproject-rtos/zephyr&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tr4m0ryp/tr4mpass"&gt;https://github.com/tr4m0ryp/tr4mpass&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Primary Git Repository for the Zephyr Project. Zephyr is a new generation, scalable, optimized, secure RTOS for multiple hardware architectures.&lt;/div&gt;
+&lt;div&gt;Free, open-source iCloud activation lock bypass tool. Remove iCloud lock from iPhone 5s through iPhone 15 Pro (iOS 12-26.1). Fully offline -- no servers, no payments. Supports checkm8 (A5-A11) and session activation (A12+).&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:xiaojieonly:Ehviewer_CN_SXJ:1792281600</ns0:id>
+    <ns0:title>xiaojieonly/Ehviewer_CN_SXJ</ns0:title>
+    <ns0:link href="https://github.com/xiaojieonly/Ehviewer_CN_SXJ"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xiaojieonly/Ehviewer_CN_SXJ"&gt;https://github.com/xiaojieonly/Ehviewer_CN_SXJ&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ehviewer，用爱发电，快乐前行&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

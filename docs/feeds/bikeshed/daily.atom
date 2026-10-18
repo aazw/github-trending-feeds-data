@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/bikeshed/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:gpuweb:gpuweb:1792195200</ns0:id>
+    <ns0:id>urn:github:WICG:first-party-sets:1792281600</ns0:id>
+    <ns0:title>WICG/first-party-sets</ns0:title>
+    <ns0:link href="https://github.com/WICG/first-party-sets"/>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/WICG/first-party-sets"&gt;https://github.com/WICG/first-party-sets&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bikeshed&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:gpuweb:gpuweb:1792281600</ns0:id>
     <ns0:title>gpuweb/gpuweb</ns0:title>
     <ns0:link href="https://github.com/gpuweb/gpuweb"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gpuweb/gpuweb"&gt;https://github.com/gpuweb/gpuweb&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bikeshed&lt;/div&gt;
@@ -22,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:immersive-web:webxr:1792195200</ns0:id>
+    <ns0:id>urn:github:immersive-web:webxr:1792281600</ns0:id>
     <ns0:title>immersive-web/webxr</ns0:title>
     <ns0:link href="https://github.com/immersive-web/webxr"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/immersive-web/webxr"&gt;https://github.com/immersive-web/webxr&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bikeshed&lt;/div&gt;
@@ -34,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:w3c:ServiceWorker:1792195200</ns0:id>
+    <ns0:id>urn:github:w3c:ServiceWorker:1792281600</ns0:id>
     <ns0:title>w3c/ServiceWorker</ns0:title>
     <ns0:link href="https://github.com/w3c/ServiceWorker"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/w3c/ServiceWorker"&gt;https://github.com/w3c/ServiceWorker&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bikeshed&lt;/div&gt;
@@ -46,10 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:w3c:csswg-drafts:1792195200</ns0:id>
+    <ns0:id>urn:github:w3c:csswg-drafts:1792281600</ns0:id>
     <ns0:title>w3c/csswg-drafts</ns0:title>
     <ns0:link href="https://github.com/w3c/csswg-drafts"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/w3c/csswg-drafts"&gt;https://github.com/w3c/csswg-drafts&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bikeshed&lt;/div&gt;
@@ -58,10 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:w3c:svgwg:1792195200</ns0:id>
+    <ns0:id>urn:github:w3c:svgwg:1792281600</ns0:id>
     <ns0:title>w3c/svgwg</ns0:title>
     <ns0:link href="https://github.com/w3c/svgwg"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/w3c/svgwg"&gt;https://github.com/w3c/svgwg&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bikeshed&lt;/div&gt;
@@ -70,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:w3c:webappsec-permissions-policy:1792195200</ns0:id>
+    <ns0:id>urn:github:w3c:webappsec-permissions-policy:1792281600</ns0:id>
     <ns0:title>w3c/webappsec-permissions-policy</ns0:title>
     <ns0:link href="https://github.com/w3c/webappsec-permissions-policy"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/w3c/webappsec-permissions-policy"&gt;https://github.com/w3c/webappsec-permissions-policy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bikeshed&lt;/div&gt;
@@ -82,27 +94,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:w3c:webauthn:1792195200</ns0:id>
+    <ns0:id>urn:github:w3c:webauthn:1792281600</ns0:id>
     <ns0:title>w3c/webauthn</ns0:title>
     <ns0:link href="https://github.com/w3c/webauthn"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/w3c/webauthn"&gt;https://github.com/w3c/webauthn&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bikeshed&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Web Authentication: An API for accessing Public Key Credentials&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:webmachinelearning:webmcp:1792195200</ns0:id>
-    <ns0:title>webmachinelearning/webmcp</ns0:title>
-    <ns0:link href="https://github.com/webmachinelearning/webmcp"/>
-    <ns0:updated>2026-10-17T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/webmachinelearning/webmcp"&gt;https://github.com/webmachinelearning/webmcp&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bikeshed&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;🤖 WebMCP&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
