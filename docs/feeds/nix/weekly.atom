@@ -5,27 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/nix/weekly.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Mic92:sops-nix:1791158400</ns0:id>
-    <ns0:title>Mic92/sops-nix</ns0:title>
-    <ns0:link href="https://github.com/Mic92/sops-nix"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Mic92/sops-nix"&gt;https://github.com/Mic92/sops-nix&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Atomic secret provisioning for NixOS based on sops&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:NixOS:nix.dev:1791158400</ns0:id>
+    <ns0:id>urn:github:NixOS:nix.dev:1792368000</ns0:id>
     <ns0:title>NixOS/nix.dev</ns0:title>
     <ns0:link href="https://github.com/NixOS/nix.dev"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nix.dev"&gt;https://github.com/NixOS/nix.dev&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -34,22 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:NixOS:nixos-hardware:1791158400</ns0:id>
-    <ns0:title>NixOS/nixos-hardware</ns0:title>
-    <ns0:link href="https://github.com/NixOS/nixos-hardware"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nixos-hardware"&gt;https://github.com/NixOS/nixos-hardware&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A collection of NixOS modules covering hardware quirks.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:NixOS:nixpkgs:1791158400</ns0:id>
+    <ns0:id>urn:github:NixOS:nixpkgs:1792368000</ns0:id>
     <ns0:title>NixOS/nixpkgs</ns0:title>
     <ns0:link href="https://github.com/NixOS/nixpkgs"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nixpkgs"&gt;https://github.com/NixOS/nixpkgs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -58,106 +34,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:SushyDev:nix-plist-manager:1791158400</ns0:id>
-    <ns0:title>SushyDev/nix-plist-manager</ns0:title>
-    <ns0:link href="https://github.com/SushyDev/nix-plist-manager"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Tarow:nix-podman-stacks:1792368000</ns0:id>
+    <ns0:title>Tarow/nix-podman-stacks</ns0:title>
+    <ns0:link href="https://github.com/Tarow/nix-podman-stacks"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SushyDev/nix-plist-manager"&gt;https://github.com/SushyDev/nix-plist-manager&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Tarow/nix-podman-stacks"&gt;https://github.com/Tarow/nix-podman-stacks&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Your Mac's System Settings, declared in Nix: 550+ settings for nix-darwin and home-manager&lt;/div&gt;
+&lt;div&gt;Home Manager Modules for integrated Podman Stacks&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cloud-gouv:securix:1791158400</ns0:id>
-    <ns0:title>cloud-gouv/securix</ns0:title>
-    <ns0:link href="https://github.com/cloud-gouv/securix"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:chaotic-cx:nyx:1792368000</ns0:id>
+    <ns0:title>chaotic-cx/nyx</ns0:title>
+    <ns0:link href="https://github.com/chaotic-cx/nyx"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloud-gouv/securix"&gt;https://github.com/cloud-gouv/securix&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chaotic-cx/nyx"&gt;https://github.com/chaotic-cx/nyx&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;SécurixOS is a NixOS-based secure operating system tailored for small to medium-sized teams. It provides a minimal, hardened environment with strong isolation, reproducibility, and policy-driven configurations to ensure operational security and compliance.&lt;/div&gt;
+&lt;div&gt;Nix flake for "too much bleeding-edge" and unreleased packages (e.g., mesa_git, linux_cachyos, firefox_nightly, sway_git, gamescope_git). And experimental modules (e.g., HDR, duckdns).&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:finix-community:finix:1791158400</ns0:id>
-    <ns0:title>finix-community/finix</ns0:title>
-    <ns0:link href="https://github.com/finix-community/finix"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/finix-community/finix"&gt;https://github.com/finix-community/finix&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A daily-drivable experimental os, featuring finit as pid 1, to explore the NixOS design space&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:flyingcircusio:fc-nixos:1791158400</ns0:id>
-    <ns0:title>flyingcircusio/fc-nixos</ns0:title>
-    <ns0:link href="https://github.com/flyingcircusio/fc-nixos"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/flyingcircusio/fc-nixos"&gt;https://github.com/flyingcircusio/fc-nixos&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The Flying Circus platform, based on NixOS.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:microvm-nix:microvm.nix:1791158400</ns0:id>
-    <ns0:title>microvm-nix/microvm.nix</ns0:title>
-    <ns0:link href="https://github.com/microvm-nix/microvm.nix"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microvm-nix/microvm.nix"&gt;https://github.com/microvm-nix/microvm.nix&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;NixOS MicroVMs&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:nix-community:home-manager:1791158400</ns0:id>
-    <ns0:title>nix-community/home-manager</ns0:title>
-    <ns0:link href="https://github.com/nix-community/home-manager"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/home-manager"&gt;https://github.com/nix-community/home-manager&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Manage a user environment using Nix [maintainer=@khaneliman, @rycee]&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:nix-community:stylix:1791158400</ns0:id>
-    <ns0:title>nix-community/stylix</ns0:title>
-    <ns0:link href="https://github.com/nix-community/stylix"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/stylix"&gt;https://github.com/nix-community/stylix&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Theming framework for NixOS, Home Manager, nix-darwin, and Nix-on-Droid [maintainers=@0xda157, @danth, @trueNAHO]&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:nix-darwin:nix-darwin:1791158400</ns0:id>
-    <ns0:title>nix-darwin/nix-darwin</ns0:title>
-    <ns0:link href="https://github.com/nix-darwin/nix-darwin"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-darwin/nix-darwin"&gt;https://github.com/nix-darwin/nix-darwin&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Manage your macOS using Nix&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:numtide:llm-agents.nix:1791158400</ns0:id>
+    <ns0:id>urn:github:numtide:llm-agents.nix:1792368000</ns0:id>
     <ns0:title>numtide/llm-agents.nix</ns0:title>
     <ns0:link href="https://github.com/numtide/llm-agents.nix"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/numtide/llm-agents.nix"&gt;https://github.com/numtide/llm-agents.nix&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -166,22 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:numtide:system-manager:1791158400</ns0:id>
-    <ns0:title>numtide/system-manager</ns0:title>
-    <ns0:link href="https://github.com/numtide/system-manager"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/numtide/system-manager"&gt;https://github.com/numtide/system-manager&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Manage system config using nix on any distro&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:supabase:postgres:1791158400</ns0:id>
+    <ns0:id>urn:github:supabase:postgres:1792368000</ns0:id>
     <ns0:title>supabase/postgres</ns0:title>
     <ns0:link href="https://github.com/supabase/postgres"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/supabase/postgres"&gt;https://github.com/supabase/postgres&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;

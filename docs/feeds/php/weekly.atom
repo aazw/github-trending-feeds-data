@@ -5,39 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/php/weekly.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:FreshRSS:FreshRSS:1791158400</ns0:id>
-    <ns0:title>FreshRSS/FreshRSS</ns0:title>
-    <ns0:link href="https://github.com/FreshRSS/FreshRSS"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Dolibarr:dolibarr:1792368000</ns0:id>
+    <ns0:title>Dolibarr/dolibarr</ns0:title>
+    <ns0:link href="https://github.com/Dolibarr/dolibarr"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FreshRSS/FreshRSS"&gt;https://github.com/FreshRSS/FreshRSS&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Dolibarr/dolibarr"&gt;https://github.com/Dolibarr/dolibarr&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A free, self-hostable news aggregator…&lt;/div&gt;
+&lt;div&gt;Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Leantime:leantime:1791158400</ns0:id>
-    <ns0:title>Leantime/leantime</ns0:title>
-    <ns0:link href="https://github.com/Leantime/leantime"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Leantime/leantime"&gt;https://github.com/Leantime/leantime&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:Paymenter:Paymenter:1791158400</ns0:id>
+    <ns0:id>urn:github:Paymenter:Paymenter:1792368000</ns0:id>
     <ns0:title>Paymenter/Paymenter</ns0:title>
     <ns0:link href="https://github.com/Paymenter/Paymenter"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Paymenter/Paymenter"&gt;https://github.com/Paymenter/Paymenter&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -46,166 +34,82 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:PipraPay:PipraPay:1791158400</ns0:id>
-    <ns0:title>PipraPay/PipraPay</ns0:title>
-    <ns0:link href="https://github.com/PipraPay/PipraPay"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:karatektus:pl_mail:1792368000</ns0:id>
+    <ns0:title>karatektus/pl_mail</ns0:title>
+    <ns0:link href="https://github.com/karatektus/pl_mail"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PipraPay/PipraPay"&gt;https://github.com/PipraPay/PipraPay&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/karatektus/pl_mail"&gt;https://github.com/karatektus/pl_mail&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Empower your payment operations with PipraPay, the free and open-source, plugin-based platform for automated payments and full workflow control.&lt;/div&gt;
+&lt;div&gt;Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:WordPress:mcp-adapter:1791158400</ns0:id>
-    <ns0:title>WordPress/mcp-adapter</ns0:title>
-    <ns0:link href="https://github.com/WordPress/mcp-adapter"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:koel:koel:1792368000</ns0:id>
+    <ns0:title>koel/koel</ns0:title>
+    <ns0:link href="https://github.com/koel/koel"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/WordPress/mcp-adapter"&gt;https://github.com/WordPress/mcp-adapter&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/koel/koel"&gt;https://github.com/koel/koel&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.&lt;/div&gt;
+&lt;div&gt;Music streaming solution that works.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:firefly-iii:firefly-iii:1791158400</ns0:id>
-    <ns0:title>firefly-iii/firefly-iii</ns0:title>
-    <ns0:link href="https://github.com/firefly-iii/firefly-iii"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:laravel:prompts:1792368000</ns0:id>
+    <ns0:title>laravel/prompts</ns0:title>
+    <ns0:link href="https://github.com/laravel/prompts"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/firefly-iii/firefly-iii"&gt;https://github.com/firefly-iii/firefly-iii&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/laravel/prompts"&gt;https://github.com/laravel/prompts&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Firefly III: a personal finances manager&lt;/div&gt;
+&lt;div&gt;Beautiful and user-friendly forms for your command-line PHP applications.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:freescout-help-desk:freescout:1791158400</ns0:id>
-    <ns0:title>freescout-help-desk/freescout</ns0:title>
-    <ns0:link href="https://github.com/freescout-help-desk/freescout"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:matomo-org:matomo:1792368000</ns0:id>
+    <ns0:title>matomo-org/matomo</ns0:title>
+    <ns0:link href="https://github.com/matomo-org/matomo"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/freescout-help-desk/freescout"&gt;https://github.com/freescout-help-desk/freescout&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/matomo-org/matomo"&gt;https://github.com/matomo-org/matomo&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox&lt;/div&gt;
+&lt;div&gt;Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites &amp; apps. Star us on GitHub ⭐️ – Pull Requests welcome!&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:glpi-project:glpi:1791158400</ns0:id>
-    <ns0:title>glpi-project/glpi</ns0:title>
-    <ns0:link href="https://github.com/glpi-project/glpi"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nextcloud:server:1792368000</ns0:id>
+    <ns0:title>nextcloud/server</ns0:title>
+    <ns0:link href="https://github.com/nextcloud/server"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/glpi-project/glpi"&gt;https://github.com/glpi-project/glpi&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nextcloud/server"&gt;https://github.com/nextcloud/server&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.&lt;/div&gt;
+&lt;div&gt;☁️ Nextcloud server, a safe home for all your data&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:grokability:snipe-it:1791158400</ns0:id>
-    <ns0:title>grokability/snipe-it</ns0:title>
-    <ns0:link href="https://github.com/grokability/snipe-it"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:php-fig:container:1792368000</ns0:id>
+    <ns0:title>php-fig/container</ns0:title>
+    <ns0:link href="https://github.com/php-fig/container"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/grokability/snipe-it"&gt;https://github.com/grokability/snipe-it&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/php-fig/container"&gt;https://github.com/php-fig/container&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A free open source IT asset/license management system&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:invoiceninja:invoiceninja:1791158400</ns0:id>
-    <ns0:title>invoiceninja/invoiceninja</ns0:title>
-    <ns0:link href="https://github.com/invoiceninja/invoiceninja"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/invoiceninja/invoiceninja"&gt;https://github.com/invoiceninja/invoiceninja&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A source-available invoice, quote, project and time-tracking app built with Laravel&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:joomla:joomla-cms:1791158400</ns0:id>
-    <ns0:title>joomla/joomla-cms</ns0:title>
-    <ns0:link href="https://github.com/joomla/joomla-cms"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/joomla/joomla-cms"&gt;https://github.com/joomla/joomla-cms&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Home of the Joomla! Content Management System&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:laravel:framework:1791158400</ns0:id>
-    <ns0:title>laravel/framework</ns0:title>
-    <ns0:link href="https://github.com/laravel/framework"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/laravel/framework"&gt;https://github.com/laravel/framework&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Laravel is a web application framework with expressive, elegant syntax.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:librenms:librenms:1791158400</ns0:id>
-    <ns0:title>librenms/librenms</ns0:title>
-    <ns0:link href="https://github.com/librenms/librenms"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/librenms/librenms"&gt;https://github.com/librenms/librenms&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Community-based GPL-licensed network monitoring system&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:mautic:mautic:1791158400</ns0:id>
-    <ns0:title>mautic/mautic</ns0:title>
-    <ns0:link href="https://github.com/mautic/mautic"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mautic/mautic"&gt;https://github.com/mautic/mautic&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Mautic: Open Source Marketing Automation Software.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:nextcloud:all-in-one:1791158400</ns0:id>
-    <ns0:title>nextcloud/all-in-one</ns0:title>
-    <ns0:link href="https://github.com/nextcloud/all-in-one"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nextcloud/all-in-one"&gt;https://github.com/nextcloud/all-in-one&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:opencart:opencart:1791158400</ns0:id>
-    <ns0:title>opencart/opencart</ns0:title>
-    <ns0:link href="https://github.com/opencart/opencart"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opencart/opencart"&gt;https://github.com/opencart/opencart&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A free shopping cart system. OpenCart is an open source PHP-based online e-commerce solution.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:phpmyadmin:phpmyadmin:1791158400</ns0:id>
+    <ns0:id>urn:github:phpmyadmin:phpmyadmin:1792368000</ns0:id>
     <ns0:title>phpmyadmin/phpmyadmin</ns0:title>
     <ns0:link href="https://github.com/phpmyadmin/phpmyadmin"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/phpmyadmin/phpmyadmin"&gt;https://github.com/phpmyadmin/phpmyadmin&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -214,75 +118,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pixelfed:pixelfed:1791158400</ns0:id>
-    <ns0:title>pixelfed/pixelfed</ns0:title>
-    <ns0:link href="https://github.com/pixelfed/pixelfed"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:sebastianbergmann:phpunit:1792368000</ns0:id>
+    <ns0:title>sebastianbergmann/phpunit</ns0:title>
+    <ns0:link href="https://github.com/sebastianbergmann/phpunit"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pixelfed/pixelfed"&gt;https://github.com/pixelfed/pixelfed&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sebastianbergmann/phpunit"&gt;https://github.com/sebastianbergmann/phpunit&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Photo Sharing. For Everyone.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:relaticle:relaticle:1791158400</ns0:id>
-    <ns0:title>relaticle/relaticle</ns0:title>
-    <ns0:link href="https://github.com/relaticle/relaticle"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/relaticle/relaticle"&gt;https://github.com/relaticle/relaticle&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Open-source CRM with native AI agent support. 37 MCP tools, REST API, self-hosted. Built with Laravel &amp; Filament&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:solidtime-io:solidtime:1791158400</ns0:id>
-    <ns0:title>solidtime-io/solidtime</ns0:title>
-    <ns0:link href="https://github.com/solidtime-io/solidtime"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/solidtime-io/solidtime"&gt;https://github.com/solidtime-io/solidtime&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Modern open-source time-tracking app&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:symfony:symfony:1791158400</ns0:id>
-    <ns0:title>symfony/symfony</ns0:title>
-    <ns0:link href="https://github.com/symfony/symfony"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/symfony/symfony"&gt;https://github.com/symfony/symfony&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The Symfony PHP framework&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:symfony:symfony-docs:1791158400</ns0:id>
-    <ns0:title>symfony/symfony-docs</ns0:title>
-    <ns0:link href="https://github.com/symfony/symfony-docs"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/symfony/symfony-docs"&gt;https://github.com/symfony/symfony-docs&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The Symfony documentation&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:vimeo:psalm:1791158400</ns0:id>
-    <ns0:title>vimeo/psalm</ns0:title>
-    <ns0:link href="https://github.com/vimeo/psalm"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vimeo/psalm"&gt;https://github.com/vimeo/psalm&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications&lt;/div&gt;
+&lt;div&gt;The PHP Unit Testing framework.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

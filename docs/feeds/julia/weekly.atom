@@ -5,27 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/julia/weekly.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:CliMA:Oceananigans.jl:1791158400</ns0:id>
-    <ns0:title>CliMA/Oceananigans.jl</ns0:title>
-    <ns0:link href="https://github.com/CliMA/Oceananigans.jl"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:JuliaGPU:KernelAbstractions.jl:1792368000</ns0:id>
+    <ns0:title>JuliaGPU/KernelAbstractions.jl</ns0:title>
+    <ns0:link href="https://github.com/JuliaGPU/KernelAbstractions.jl"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CliMA/Oceananigans.jl"&gt;https://github.com/CliMA/Oceananigans.jl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliaGPU/KernelAbstractions.jl"&gt;https://github.com/JuliaGPU/KernelAbstractions.jl&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;🌊 Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs&lt;/div&gt;
+&lt;div&gt;Heterogeneous programming in Julia&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:JuliaLang:julia:1791158400</ns0:id>
+    <ns0:id>urn:github:JuliaLang:julia:1792368000</ns0:id>
     <ns0:title>JuliaLang/julia</ns0:title>
     <ns0:link href="https://github.com/JuliaLang/julia"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliaLang/julia"&gt;https://github.com/JuliaLang/julia&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
@@ -34,22 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:JuliaPlots:Plots.jl:1791158400</ns0:id>
-    <ns0:title>JuliaPlots/Plots.jl</ns0:title>
-    <ns0:link href="https://github.com/JuliaPlots/Plots.jl"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliaPlots/Plots.jl"&gt;https://github.com/JuliaPlots/Plots.jl&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Powerful convenience for Julia visualizations and data analysis&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:JuliaRegistries:General:1791158400</ns0:id>
+    <ns0:id>urn:github:JuliaRegistries:General:1792368000</ns0:id>
     <ns0:title>JuliaRegistries/General</ns0:title>
     <ns0:link href="https://github.com/JuliaRegistries/General"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliaRegistries/General"&gt;https://github.com/JuliaRegistries/General&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
@@ -58,27 +46,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:MakieOrg:Makie.jl:1791158400</ns0:id>
-    <ns0:title>MakieOrg/Makie.jl</ns0:title>
-    <ns0:link href="https://github.com/MakieOrg/Makie.jl"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:qojulia:QuantumOptics.jl:1792368000</ns0:id>
+    <ns0:title>qojulia/QuantumOptics.jl</ns0:title>
+    <ns0:link href="https://github.com/qojulia/QuantumOptics.jl"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MakieOrg/Makie.jl"&gt;https://github.com/MakieOrg/Makie.jl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/qojulia/QuantumOptics.jl"&gt;https://github.com/qojulia/QuantumOptics.jl&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Interactive data visualizations and plotting in Julia&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:SpeedyWeather:SpeedyWeather.jl:1791158400</ns0:id>
-    <ns0:title>SpeedyWeather/SpeedyWeather.jl</ns0:title>
-    <ns0:link href="https://github.com/SpeedyWeather/SpeedyWeather.jl"/>
-    <ns0:updated>2026-10-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SpeedyWeather/SpeedyWeather.jl"&gt;https://github.com/SpeedyWeather/SpeedyWeather.jl&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;An atmospheric model for research: friendly, interactive, extensible, and built for speed&lt;/div&gt;
+&lt;div&gt;Library for the numerical simulation of closed as well as open quantum systems.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

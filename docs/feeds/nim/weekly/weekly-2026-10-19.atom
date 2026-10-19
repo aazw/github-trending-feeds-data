@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/nim/weekly.atom</ns0:id>
+  <ns0:title>GitHub Trending - nim (weekly)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/nim/weekly.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:logos-messaging:logos-delivery:1792368000</ns0:id>
+    <ns0:title>logos-messaging/logos-delivery</ns0:title>
+    <ns0:link href="https://github.com/logos-messaging/logos-delivery"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/logos-messaging/logos-delivery"&gt;https://github.com/logos-messaging/logos-delivery&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nim&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Logos Messaging protocols implemented in Nim&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nim-lang:Nim:1792368000</ns0:id>
+    <ns0:title>nim-lang/Nim</ns0:title>
+    <ns0:link href="https://github.com/nim-lang/Nim"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nim-lang/Nim"&gt;https://github.com/nim-lang/Nim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nim&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Nim is a statically typed compiled systems programming language. It combines successful concepts from mature languages like Python, Ada and Modula. Its design focuses on efficiency, expressiveness, and elegance (in that order of priority).&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:status-im:nimbus-eth2:1792368000</ns0:id>
+    <ns0:title>status-im/nimbus-eth2</ns0:title>
+    <ns0:link href="https://github.com/status-im/nimbus-eth2"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/status-im/nimbus-eth2"&gt;https://github.com/status-im/nimbus-eth2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nim&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Nim implementation of the Ethereum Beacon Chain&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
