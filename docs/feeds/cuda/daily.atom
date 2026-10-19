@@ -5,27 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/cuda/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:NVlabs:instant-ngp:1792281600</ns0:id>
-    <ns0:title>NVlabs/instant-ngp</ns0:title>
-    <ns0:link href="https://github.com/NVlabs/instant-ngp"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:id>urn:github:deepseek-ai:DeepEP:1792368000</ns0:id>
+    <ns0:title>deepseek-ai/DeepEP</ns0:title>
+    <ns0:link href="https://github.com/deepseek-ai/DeepEP"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVlabs/instant-ngp"&gt;https://github.com/NVlabs/instant-ngp&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/deepseek-ai/DeepEP"&gt;https://github.com/deepseek-ai/DeepEP&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Instant neural graphics primitives: lightning fast NeRF and more&lt;/div&gt;
+&lt;div&gt;DeepEP: an efficient expert-parallel communication library&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:flashinfer-ai:flashinfer:1792281600</ns0:id>
+    <ns0:id>urn:github:flashinfer-ai:flashinfer:1792368000</ns0:id>
     <ns0:title>flashinfer-ai/flashinfer</ns0:title>
     <ns0:link href="https://github.com/flashinfer-ai/flashinfer"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/flashinfer-ai/flashinfer"&gt;https://github.com/flashinfer-ai/flashinfer&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
@@ -34,15 +34,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:karpathy:llm.c:1792281600</ns0:id>
+    <ns0:id>urn:github:karpathy:llm.c:1792368000</ns0:id>
     <ns0:title>karpathy/llm.c</ns0:title>
     <ns0:link href="https://github.com/karpathy/llm.c"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/karpathy/llm.c"&gt;https://github.com/karpathy/llm.c&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;LLM training in simple, raw C/CUDA&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:mirage-project:mirage:1792368000</ns0:id>
+    <ns0:title>mirage-project/mirage</ns0:title>
+    <ns0:link href="https://github.com/mirage-project/mirage"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mirage-project/mirage"&gt;https://github.com/mirage-project/mirage&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Mirage Persistent Kernel: Compiling LLMs into a MegaKernel&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Rdatatable:data.table:1792281600</ns0:id>
+    <ns0:id>urn:github:Rdatatable:data.table:1792368000</ns0:id>
     <ns0:title>Rdatatable/data.table</ns0:title>
     <ns0:link href="https://github.com/Rdatatable/data.table"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Rdatatable/data.table"&gt;https://github.com/Rdatatable/data.table&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
@@ -22,22 +22,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:briatte:awesome-network-analysis:1792281600</ns0:id>
-    <ns0:title>briatte/awesome-network-analysis</ns0:title>
-    <ns0:link href="https://github.com/briatte/awesome-network-analysis"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:id>urn:github:StevenLShafer:stanpumpR:1792368000</ns0:id>
+    <ns0:title>StevenLShafer/stanpumpR</ns0:title>
+    <ns0:link href="https://github.com/StevenLShafer/stanpumpR"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/briatte/awesome-network-analysis"&gt;https://github.com/briatte/awesome-network-analysis&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/StevenLShafer/stanpumpR"&gt;https://github.com/StevenLShafer/stanpumpR&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A curated list of awesome network analysis resources.&lt;/div&gt;
+&lt;div&gt;stanpumpR, and PK/PD simulation program&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rstudio:rmarkdown:1792281600</ns0:id>
+    <ns0:id>urn:github:benjjneb:dada2:1792368000</ns0:id>
+    <ns0:title>benjjneb/dada2</ns0:title>
+    <ns0:link href="https://github.com/benjjneb/dada2"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/benjjneb/dada2"&gt;https://github.com/benjjneb/dada2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Accurate sample inference from amplicon data with single nucleotide resolution&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nflverse:nflverse-data:1792368000</ns0:id>
+    <ns0:title>nflverse/nflverse-data</ns0:title>
+    <ns0:link href="https://github.com/nflverse/nflverse-data"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nflverse/nflverse-data"&gt;https://github.com/nflverse/nflverse-data&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Automated nflverse data repository&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rstudio:rmarkdown:1792368000</ns0:id>
     <ns0:title>rstudio/rmarkdown</ns0:title>
     <ns0:link href="https://github.com/rstudio/rmarkdown"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rstudio/rmarkdown"&gt;https://github.com/rstudio/rmarkdown&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
@@ -46,10 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rstudio:shiny:1792281600</ns0:id>
+    <ns0:id>urn:github:rstudio:shiny:1792368000</ns0:id>
     <ns0:title>rstudio/shiny</ns0:title>
     <ns0:link href="https://github.com/rstudio/shiny"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rstudio/shiny"&gt;https://github.com/rstudio/shiny&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
@@ -58,34 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:satijalab:seurat:1792281600</ns0:id>
-    <ns0:title>satijalab/seurat</ns0:title>
-    <ns0:link href="https://github.com/satijalab/seurat"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/satijalab/seurat"&gt;https://github.com/satijalab/seurat&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;R toolkit for single cell genomics&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tidyverse:dplyr:1792281600</ns0:id>
-    <ns0:title>tidyverse/dplyr</ns0:title>
-    <ns0:link href="https://github.com/tidyverse/dplyr"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tidyverse/dplyr"&gt;https://github.com/tidyverse/dplyr&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;dplyr: A grammar of data manipulation&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tidyverse:ggplot2:1792281600</ns0:id>
+    <ns0:id>urn:github:tidyverse:ggplot2:1792368000</ns0:id>
     <ns0:title>tidyverse/ggplot2</ns0:title>
     <ns0:link href="https://github.com/tidyverse/ggplot2"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tidyverse/ggplot2"&gt;https://github.com/tidyverse/ggplot2&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;

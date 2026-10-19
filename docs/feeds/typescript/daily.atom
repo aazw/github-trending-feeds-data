@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/typescript/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:DmNote-App:DmNote:1792281600</ns0:id>
+    <ns0:id>urn:github:DmNote-App:DmNote:1792368000</ns0:id>
     <ns0:title>DmNote-App/DmNote</ns0:title>
     <ns0:link href="https://github.com/DmNote-App/DmNote"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DmNote-App/DmNote"&gt;https://github.com/DmNote-App/DmNote&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -22,22 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:LibreChat-AI:LibreChat:1792281600</ns0:id>
-    <ns0:title>LibreChat-AI/LibreChat</ns0:title>
-    <ns0:link href="https://github.com/LibreChat-AI/LibreChat"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LibreChat-AI/LibreChat"&gt;https://github.com/LibreChat-AI/LibreChat&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:anomalyco:opencode:1792281600</ns0:id>
+    <ns0:id>urn:github:anomalyco:opencode:1792368000</ns0:id>
     <ns0:title>anomalyco/opencode</ns0:title>
     <ns0:link href="https://github.com/anomalyco/opencode"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anomalyco/opencode"&gt;https://github.com/anomalyco/opencode&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -46,10 +34,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:anthropics:claude-quickstarts:1792281600</ns0:id>
+    <ns0:id>urn:github:anthropics:claude-code:1792368000</ns0:id>
+    <ns0:title>anthropics/claude-code</ns0:title>
+    <ns0:link href="https://github.com/anthropics/claude-code"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anthropics/claude-code"&gt;https://github.com/anthropics/claude-code&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:anthropics:claude-code-action:1792368000</ns0:id>
+    <ns0:title>anthropics/claude-code-action</ns0:title>
+    <ns0:link href="https://github.com/anthropics/claude-code-action"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anthropics/claude-code-action"&gt;https://github.com/anthropics/claude-code-action&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:anthropics:claude-quickstarts:1792368000</ns0:id>
     <ns0:title>anthropics/claude-quickstarts</ns0:title>
     <ns0:link href="https://github.com/anthropics/claude-quickstarts"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anthropics/claude-quickstarts"&gt;https://github.com/anthropics/claude-quickstarts&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -58,22 +70,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:chthollyphile:folia-major:1792281600</ns0:id>
-    <ns0:title>chthollyphile/folia-major</ns0:title>
-    <ns0:link href="https://github.com/chthollyphile/folia-major"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:id>urn:github:antonio-orionus:Arroxy:1792368000</ns0:id>
+    <ns0:title>antonio-orionus/Arroxy</ns0:title>
+    <ns0:link href="https://github.com/antonio-orionus/Arroxy"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chthollyphile/folia-major"&gt;https://github.com/chthollyphile/folia-major&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/antonio-orionus/Arroxy"&gt;https://github.com/antonio-orionus/Arroxy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方多平台在线音乐播放器&lt;/div&gt;
+&lt;div&gt;Free open-source YouTube and 2000+ sites downloader for Windows, macOS, and Linux. Download 4K, 60fps, HDR, Dolby audio, Shorts, playlists, channels, MP3, and subtitles with no ads. Built-in YouTube browser for members-only and age-restricted videos. 31 languages.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cursor:plugins:1792281600</ns0:id>
+    <ns0:id>urn:github:croffasia:itsaplan:1792368000</ns0:id>
+    <ns0:title>croffasia/itsaplan</ns0:title>
+    <ns0:link href="https://github.com/croffasia/itsaplan"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/croffasia/itsaplan"&gt;https://github.com/croffasia/itsaplan&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cursor:plugins:1792368000</ns0:id>
     <ns0:title>cursor/plugins</ns0:title>
     <ns0:link href="https://github.com/cursor/plugins"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cursor/plugins"&gt;https://github.com/cursor/plugins&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -82,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:diegosouzapw:OmniRoute:1792281600</ns0:id>
+    <ns0:id>urn:github:diegosouzapw:OmniRoute:1792368000</ns0:id>
     <ns0:title>diegosouzapw/OmniRoute</ns0:title>
     <ns0:link href="https://github.com/diegosouzapw/OmniRoute"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/diegosouzapw/OmniRoute"&gt;https://github.com/diegosouzapw/OmniRoute&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -94,46 +118,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:earendil-works:pi:1792281600</ns0:id>
-    <ns0:title>earendil-works/pi</ns0:title>
-    <ns0:link href="https://github.com/earendil-works/pi"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:id>urn:github:koala73:worldmonitor:1792368000</ns0:id>
+    <ns0:title>koala73/worldmonitor</ns0:title>
+    <ns0:link href="https://github.com/koala73/worldmonitor"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/earendil-works/pi"&gt;https://github.com/earendil-works/pi&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/koala73/worldmonitor"&gt;https://github.com/koala73/worldmonitor&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI&lt;/div&gt;
+&lt;div&gt;Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:elie222:rakazo:1792281600</ns0:id>
-    <ns0:title>elie222/rakazo</ns0:title>
-    <ns0:link href="https://github.com/elie222/rakazo"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:id>urn:github:pingdotgg:t3code:1792368000</ns0:id>
+    <ns0:title>pingdotgg/t3code</ns0:title>
+    <ns0:link href="https://github.com/pingdotgg/t3code"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elie222/rakazo"&gt;https://github.com/elie222/rakazo&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pingdotgg/t3code"&gt;https://github.com/pingdotgg/t3code&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Open-source Grok Bot alternative. Choose your own model and sandbox.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:iptv-org:iptv:1792281600</ns0:id>
-    <ns0:title>iptv-org/iptv</ns0:title>
-    <ns0:link href="https://github.com/iptv-org/iptv"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ranxianglei:billion-context:1792368000</ns0:id>
+    <ns0:title>ranxianglei/billion-context</ns0:title>
+    <ns0:link href="https://github.com/ranxianglei/billion-context"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/iptv-org/iptv"&gt;https://github.com/iptv-org/iptv&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ranxianglei/billion-context"&gt;https://github.com/ranxianglei/billion-context&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Collection of publicly available IPTV channels from all over the world&lt;/div&gt;
+&lt;div&gt;A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ruvnet:ruflo:1792281600</ns0:id>
+    <ns0:id>urn:github:ruvnet:ruflo:1792368000</ns0:id>
     <ns0:title>ruvnet/ruflo</ns0:title>
     <ns0:link href="https://github.com/ruvnet/ruflo"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruvnet/ruflo"&gt;https://github.com/ruvnet/ruflo&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -142,10 +166,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:stablyai:orca:1792281600</ns0:id>
+    <ns0:id>urn:github:stablyai:orca:1792368000</ns0:id>
     <ns0:title>stablyai/orca</ns0:title>
     <ns0:link href="https://github.com/stablyai/orca"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/stablyai/orca"&gt;https://github.com/stablyai/orca&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -154,10 +178,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:thesysdev:openui:1792281600</ns0:id>
+    <ns0:id>urn:github:thesysdev:openui:1792368000</ns0:id>
     <ns0:title>thesysdev/openui</ns0:title>
     <ns0:link href="https://github.com/thesysdev/openui"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/thesysdev/openui"&gt;https://github.com/thesysdev/openui&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -166,27 +190,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:twentyhq:twenty:1792281600</ns0:id>
-    <ns0:title>twentyhq/twenty</ns0:title>
-    <ns0:link href="https://github.com/twentyhq/twenty"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:id>urn:github:trycompai:crm:1792368000</ns0:id>
+    <ns0:title>trycompai/crm</ns0:title>
+    <ns0:link href="https://github.com/trycompai/crm"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/twentyhq/twenty"&gt;https://github.com/twentyhq/twenty&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/trycompai/crm"&gt;https://github.com/trycompai/crm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The open alternative to Salesforce, designed for AI.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:vercel-labs:scriptc:1792281600</ns0:id>
-    <ns0:title>vercel-labs/scriptc</ns0:title>
-    <ns0:link href="https://github.com/vercel-labs/scriptc"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vercel-labs/scriptc"&gt;https://github.com/vercel-labs/scriptc&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;TypeScript-to-Native Compiler&lt;/div&gt;
+&lt;div&gt;Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

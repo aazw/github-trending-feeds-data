@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/json/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Fyrd:caniuse:1792281600</ns0:id>
+    <ns0:id>urn:github:Fyrd:caniuse:1792368000</ns0:id>
     <ns0:title>Fyrd/caniuse</ns0:title>
     <ns0:link href="https://github.com/Fyrd/caniuse"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Fyrd/caniuse"&gt;https://github.com/Fyrd/caniuse&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; json&lt;/div&gt;
@@ -22,15 +22,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mdn:browser-compat-data:1792281600</ns0:id>
-    <ns0:title>mdn/browser-compat-data</ns0:title>
-    <ns0:link href="https://github.com/mdn/browser-compat-data"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:id>urn:github:osmlab:name-suggestion-index:1792368000</ns0:id>
+    <ns0:title>osmlab/name-suggestion-index</ns0:title>
+    <ns0:link href="https://github.com/osmlab/name-suggestion-index"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mdn/browser-compat-data"&gt;https://github.com/mdn/browser-compat-data&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/osmlab/name-suggestion-index"&gt;https://github.com/osmlab/name-suggestion-index&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; json&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Browser compatibility data for Web technologies as displayed on MDN&lt;/div&gt;
+&lt;div&gt;Canonical common brand names, operators, transit, and flags for OpenStreetMap.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

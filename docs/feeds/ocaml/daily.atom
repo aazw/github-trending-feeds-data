@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:AeneasVerif:aeneas:1792281600</ns0:id>
+    <ns0:id>urn:github:AeneasVerif:aeneas:1792368000</ns0:id>
     <ns0:title>AeneasVerif/aeneas</ns0:title>
     <ns0:link href="https://github.com/AeneasVerif/aeneas"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AeneasVerif/aeneas"&gt;https://github.com/AeneasVerif/aeneas&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
@@ -22,10 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ocaml:dune:1792281600</ns0:id>
+    <ns0:id>urn:github:MinaProtocol:mina:1792368000</ns0:id>
+    <ns0:title>MinaProtocol/mina</ns0:title>
+    <ns0:link href="https://github.com/MinaProtocol/mina"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MinaProtocol/mina"&gt;https://github.com/MinaProtocol/mina&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ocaml:dune:1792368000</ns0:id>
     <ns0:title>ocaml/dune</ns0:title>
     <ns0:link href="https://github.com/ocaml/dune"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ocaml/dune"&gt;https://github.com/ocaml/dune&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
@@ -34,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ocaml:ocaml:1792281600</ns0:id>
+    <ns0:id>urn:github:ocaml:ocaml:1792368000</ns0:id>
     <ns0:title>ocaml/ocaml</ns0:title>
     <ns0:link href="https://github.com/ocaml/ocaml"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ocaml/ocaml"&gt;https://github.com/ocaml/ocaml&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
@@ -46,10 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ocaml:opam:1792281600</ns0:id>
+    <ns0:id>urn:github:ocaml:opam:1792368000</ns0:id>
     <ns0:title>ocaml/opam</ns0:title>
     <ns0:link href="https://github.com/ocaml/opam"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ocaml/opam"&gt;https://github.com/ocaml/opam&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
@@ -58,10 +70,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rocq-prover:rocq:1792281600</ns0:id>
+    <ns0:id>urn:github:rescript-lang:rescript:1792368000</ns0:id>
+    <ns0:title>rescript-lang/rescript</ns0:title>
+    <ns0:link href="https://github.com/rescript-lang/rescript"/>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rescript-lang/rescript"&gt;https://github.com/rescript-lang/rescript&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rocq-prover:rocq:1792368000</ns0:id>
     <ns0:title>rocq-prover/rocq</ns0:title>
     <ns0:link href="https://github.com/rocq-prover/rocq"/>
-    <ns0:updated>2026-10-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rocq-prover/rocq"&gt;https://github.com/rocq-prover/rocq&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
