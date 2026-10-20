@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-20T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:AliSoftware:OHHTTPStubs:1792368000</ns0:id>
+    <ns0:id>urn:github:AliSoftware:OHHTTPStubs:1792454400</ns0:id>
     <ns0:title>AliSoftware/OHHTTPStubs</ns0:title>
     <ns0:link href="https://github.com/AliSoftware/OHHTTPStubs"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AliSoftware/OHHTTPStubs"&gt;https://github.com/AliSoftware/OHHTTPStubs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -22,10 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:SDWebImage:SDWebImage:1792368000</ns0:id>
+    <ns0:id>urn:github:CocoaLumberjack:CocoaLumberjack:1792454400</ns0:id>
+    <ns0:title>CocoaLumberjack/CocoaLumberjack</ns0:title>
+    <ns0:link href="https://github.com/CocoaLumberjack/CocoaLumberjack"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CocoaLumberjack/CocoaLumberjack"&gt;https://github.com/CocoaLumberjack/CocoaLumberjack&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A fast &amp; simple, yet powerful &amp; flexible logging framework for macOS, iOS, tvOS, watchOS and visionOS&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:SDWebImage:SDWebImage:1792454400</ns0:id>
     <ns0:title>SDWebImage/SDWebImage</ns0:title>
     <ns0:link href="https://github.com/SDWebImage/SDWebImage"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SDWebImage/SDWebImage"&gt;https://github.com/SDWebImage/SDWebImage&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -34,22 +46,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:SoCuul:SCInsta:1792368000</ns0:id>
-    <ns0:title>SoCuul/SCInsta</ns0:title>
-    <ns0:link href="https://github.com/SoCuul/SCInsta"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:SDWebImage:SDWebImageSVGCoder:1792454400</ns0:id>
+    <ns0:title>SDWebImage/SDWebImageSVGCoder</ns0:title>
+    <ns0:link href="https://github.com/SDWebImage/SDWebImageSVGCoder"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SoCuul/SCInsta"&gt;https://github.com/SoCuul/SCInsta&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SDWebImage/SDWebImageSVGCoder"&gt;https://github.com/SDWebImage/SDWebImageSVGCoder&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A feature-rich tweak for Instagram on iOS!&lt;/div&gt;
+&lt;div&gt;A SVG coder plugin for SDWebImage, using Apple's built-in framework&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google:GoogleDataTransport:1792368000</ns0:id>
+    <ns0:id>urn:github:SDWebImage:SDWebImageWebPCoder:1792454400</ns0:id>
+    <ns0:title>SDWebImage/SDWebImageWebPCoder</ns0:title>
+    <ns0:link href="https://github.com/SDWebImage/SDWebImageWebPCoder"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SDWebImage/SDWebImageWebPCoder"&gt;https://github.com/SDWebImage/SDWebImageWebPCoder&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A WebP coder plugin for SDWebImage, use libwebp&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:facebookincubator:SocketRocket:1792454400</ns0:id>
+    <ns0:title>facebookincubator/SocketRocket</ns0:title>
+    <ns0:link href="https://github.com/facebookincubator/SocketRocket"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/facebookincubator/SocketRocket"&gt;https://github.com/facebookincubator/SocketRocket&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A conforming Objective-C WebSocket client library.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:google:GoogleDataTransport:1792454400</ns0:id>
     <ns0:title>google/GoogleDataTransport</ns0:title>
     <ns0:link href="https://github.com/google/GoogleDataTransport"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/GoogleDataTransport"&gt;https://github.com/google/GoogleDataTransport&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -58,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google:GoogleSignIn-iOS:1792368000</ns0:id>
+    <ns0:id>urn:github:google:GoogleSignIn-iOS:1792454400</ns0:id>
     <ns0:title>google/GoogleSignIn-iOS</ns0:title>
     <ns0:link href="https://github.com/google/GoogleSignIn-iOS"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/GoogleSignIn-iOS"&gt;https://github.com/google/GoogleSignIn-iOS&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -70,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google:GoogleUtilities:1792368000</ns0:id>
+    <ns0:id>urn:github:google:GoogleUtilities:1792454400</ns0:id>
     <ns0:title>google/GoogleUtilities</ns0:title>
     <ns0:link href="https://github.com/google/GoogleUtilities"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/GoogleUtilities"&gt;https://github.com/google/GoogleUtilities&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -82,10 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google:gtm-session-fetcher:1792368000</ns0:id>
+    <ns0:id>urn:github:google:gtm-session-fetcher:1792454400</ns0:id>
     <ns0:title>google/gtm-session-fetcher</ns0:title>
     <ns0:link href="https://github.com/google/gtm-session-fetcher"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/gtm-session-fetcher"&gt;https://github.com/google/gtm-session-fetcher&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -94,10 +130,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google:promises:1792368000</ns0:id>
+    <ns0:id>urn:github:google:promises:1792454400</ns0:id>
     <ns0:title>google/promises</ns0:title>
     <ns0:link href="https://github.com/google/promises"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/promises"&gt;https://github.com/google/promises&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -106,10 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:kstenerud:KSCrash:1792368000</ns0:id>
+    <ns0:id>urn:github:kstenerud:KSCrash:1792454400</ns0:id>
     <ns0:title>kstenerud/KSCrash</ns0:title>
     <ns0:link href="https://github.com/kstenerud/KSCrash"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kstenerud/KSCrash"&gt;https://github.com/kstenerud/KSCrash&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -118,10 +154,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nfzerox:VirtualMacOniPad:1792368000</ns0:id>
+    <ns0:id>urn:github:nfzerox:VirtualMacOniPad:1792454400</ns0:id>
     <ns0:title>nfzerox/VirtualMacOniPad</ns0:title>
     <ns0:link href="https://github.com/nfzerox/VirtualMacOniPad"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nfzerox/VirtualMacOniPad"&gt;https://github.com/nfzerox/VirtualMacOniPad&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -130,10 +166,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:objective-see:LuLu:1792368000</ns0:id>
+    <ns0:id>urn:github:objective-see:LuLu:1792454400</ns0:id>
     <ns0:title>objective-see/LuLu</ns0:title>
     <ns0:link href="https://github.com/objective-see/LuLu"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/objective-see/LuLu"&gt;https://github.com/objective-see/LuLu&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -142,22 +178,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:opa334:TrollStore:1792368000</ns0:id>
-    <ns0:title>opa334/TrollStore</ns0:title>
-    <ns0:link href="https://github.com/opa334/TrollStore"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opa334/TrollStore"&gt;https://github.com/opa334/TrollStore&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:openid:AppAuth-iOS:1792368000</ns0:id>
+    <ns0:id>urn:github:openid:AppAuth-iOS:1792454400</ns0:id>
     <ns0:title>openid/AppAuth-iOS</ns0:title>
     <ns0:link href="https://github.com/openid/AppAuth-iOS"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openid/AppAuth-iOS"&gt;https://github.com/openid/AppAuth-iOS&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -166,10 +190,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sparkle-project:Sparkle:1792368000</ns0:id>
+    <ns0:id>urn:github:pilotmoon:Scroll-Reverser:1792454400</ns0:id>
+    <ns0:title>pilotmoon/Scroll-Reverser</ns0:title>
+    <ns0:link href="https://github.com/pilotmoon/Scroll-Reverser"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pilotmoon/Scroll-Reverser"&gt;https://github.com/pilotmoon/Scroll-Reverser&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Per-device scrolling prefs on macOS.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:sparkle-project:Sparkle:1792454400</ns0:id>
     <ns0:title>sparkle-project/Sparkle</ns0:title>
     <ns0:link href="https://github.com/sparkle-project/Sparkle"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sparkle-project/Sparkle"&gt;https://github.com/sparkle-project/Sparkle&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;

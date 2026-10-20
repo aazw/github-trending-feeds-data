@@ -5,15 +5,51 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-20T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:PrivateBin:PrivateBin:1792368000</ns0:id>
+    <ns0:id>urn:github:FreshRSS:FreshRSS:1792454400</ns0:id>
+    <ns0:title>FreshRSS/FreshRSS</ns0:title>
+    <ns0:link href="https://github.com/FreshRSS/FreshRSS"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FreshRSS/FreshRSS"&gt;https://github.com/FreshRSS/FreshRSS&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A free, self-hostable news aggregator…&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:MISP:MISP:1792454400</ns0:id>
+    <ns0:title>MISP/MISP</ns0:title>
+    <ns0:link href="https://github.com/MISP/MISP"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MISP/MISP"&gt;https://github.com/MISP/MISP&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;MISP (core software) - Open Source Threat Intelligence and Sharing Platform&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:PHPOffice:PhpSpreadsheet:1792454400</ns0:id>
+    <ns0:title>PHPOffice/PhpSpreadsheet</ns0:title>
+    <ns0:link href="https://github.com/PHPOffice/PhpSpreadsheet"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PHPOffice/PhpSpreadsheet"&gt;https://github.com/PHPOffice/PhpSpreadsheet&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A pure PHP library for reading and writing spreadsheet files&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:PrivateBin:PrivateBin:1792454400</ns0:id>
     <ns0:title>PrivateBin/PrivateBin</ns0:title>
     <ns0:link href="https://github.com/PrivateBin/PrivateBin"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PrivateBin/PrivateBin"&gt;https://github.com/PrivateBin/PrivateBin&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -22,46 +58,70 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:WordPress:wordpress-develop:1792368000</ns0:id>
-    <ns0:title>WordPress/wordpress-develop</ns0:title>
-    <ns0:link href="https://github.com/WordPress/wordpress-develop"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:RSS-Bridge:rss-bridge:1792454400</ns0:id>
+    <ns0:title>RSS-Bridge/rss-bridge</ns0:title>
+    <ns0:link href="https://github.com/RSS-Bridge/rss-bridge"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/WordPress/wordpress-develop"&gt;https://github.com/WordPress/wordpress-develop&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/RSS-Bridge/rss-bridge"&gt;https://github.com/RSS-Bridge/rss-bridge&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.&lt;/div&gt;
+&lt;div&gt;The RSS feed for websites missing it&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:akaunting:akaunting:1792368000</ns0:id>
-    <ns0:title>akaunting/akaunting</ns0:title>
-    <ns0:link href="https://github.com/akaunting/akaunting"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:WordPress:mcp-adapter:1792454400</ns0:id>
+    <ns0:title>WordPress/mcp-adapter</ns0:title>
+    <ns0:link href="https://github.com/WordPress/mcp-adapter"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/akaunting/akaunting"&gt;https://github.com/akaunting/akaunting&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/WordPress/mcp-adapter"&gt;https://github.com/WordPress/mcp-adapter&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Online Accounting Software&lt;/div&gt;
+&lt;div&gt;An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:bobthecow:psysh:1792368000</ns0:id>
-    <ns0:title>bobthecow/psysh</ns0:title>
-    <ns0:link href="https://github.com/bobthecow/psysh"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:aws:aws-sdk-php:1792454400</ns0:id>
+    <ns0:title>aws/aws-sdk-php</ns0:title>
+    <ns0:link href="https://github.com/aws/aws-sdk-php"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bobthecow/psysh"&gt;https://github.com/bobthecow/psysh&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aws/aws-sdk-php"&gt;https://github.com/aws/aws-sdk-php&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A REPL for PHP&lt;/div&gt;
+&lt;div&gt;Official repository of the AWS SDK for PHP (@awsforphp)&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:coollabsio:coolify:1792368000</ns0:id>
+    <ns0:id>urn:github:cedar2025:Xboard:1792454400</ns0:id>
+    <ns0:title>cedar2025/Xboard</ns0:title>
+    <ns0:link href="https://github.com/cedar2025/Xboard"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cedar2025/Xboard"&gt;https://github.com/cedar2025/Xboard&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;High-performance panel based on V2board secondary development supporting new protocols and new features&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:composer:composer:1792454400</ns0:id>
+    <ns0:title>composer/composer</ns0:title>
+    <ns0:link href="https://github.com/composer/composer"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/composer/composer"&gt;https://github.com/composer/composer&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Dependency Manager for PHP&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:coollabsio:coolify:1792454400</ns0:id>
     <ns0:title>coollabsio/coolify</ns0:title>
     <ns0:link href="https://github.com/coollabsio/coolify"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/coollabsio/coolify"&gt;https://github.com/coollabsio/coolify&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -70,10 +130,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:danielmiessler:SecLists:1792368000</ns0:id>
+    <ns0:id>urn:github:danielmiessler:SecLists:1792454400</ns0:id>
     <ns0:title>danielmiessler/SecLists</ns0:title>
     <ns0:link href="https://github.com/danielmiessler/SecLists"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/danielmiessler/SecLists"&gt;https://github.com/danielmiessler/SecLists&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -82,58 +142,58 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:danog:MadelineProto:1792368000</ns0:id>
-    <ns0:title>danog/MadelineProto</ns0:title>
-    <ns0:link href="https://github.com/danog/MadelineProto"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:elabftw:elabftw:1792454400</ns0:id>
+    <ns0:title>elabftw/elabftw</ns0:title>
+    <ns0:link href="https://github.com/elabftw/elabftw"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/danog/MadelineProto"&gt;https://github.com/danog/MadelineProto&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elabftw/elabftw"&gt;https://github.com/elabftw/elabftw&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Async PHP client API for the telegram MTProto protocol&lt;/div&gt;
+&lt;div&gt;📓 eLabFTW is the most popular open source electronic lab notebook for research labs.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:espocrm:espocrm:1792368000</ns0:id>
-    <ns0:title>espocrm/espocrm</ns0:title>
-    <ns0:link href="https://github.com/espocrm/espocrm"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ellite:Wallos:1792454400</ns0:id>
+    <ns0:title>ellite/Wallos</ns0:title>
+    <ns0:link href="https://github.com/ellite/Wallos"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/espocrm/espocrm"&gt;https://github.com/espocrm/espocrm&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ellite/Wallos"&gt;https://github.com/ellite/Wallos&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;EspoCRM – Open Source CRM Application&lt;/div&gt;
+&lt;div&gt;Wallos: Open-source, self-hostable personal subscription tracker. Visualize your recurring expenses, manage your budget, and save money.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:firefly-iii:firefly-iii:1792368000</ns0:id>
-    <ns0:title>firefly-iii/firefly-iii</ns0:title>
-    <ns0:link href="https://github.com/firefly-iii/firefly-iii"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:grokability:snipe-it:1792454400</ns0:id>
+    <ns0:title>grokability/snipe-it</ns0:title>
+    <ns0:link href="https://github.com/grokability/snipe-it"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/firefly-iii/firefly-iii"&gt;https://github.com/firefly-iii/firefly-iii&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/grokability/snipe-it"&gt;https://github.com/grokability/snipe-it&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Firefly III: a personal finances manager&lt;/div&gt;
+&lt;div&gt;A free open source IT asset/license management system&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:kanboard:kanboard:1792368000</ns0:id>
-    <ns0:title>kanboard/kanboard</ns0:title>
-    <ns0:link href="https://github.com/kanboard/kanboard"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:guzzle:guzzle:1792454400</ns0:id>
+    <ns0:title>guzzle/guzzle</ns0:title>
+    <ns0:link href="https://github.com/guzzle/guzzle"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kanboard/kanboard"&gt;https://github.com/kanboard/kanboard&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/guzzle/guzzle"&gt;https://github.com/guzzle/guzzle&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Kanban project management software&lt;/div&gt;
+&lt;div&gt;Guzzle, an extensible PHP HTTP client&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:krayin:laravel-crm:1792368000</ns0:id>
+    <ns0:id>urn:github:krayin:laravel-crm:1792454400</ns0:id>
     <ns0:title>krayin/laravel-crm</ns0:title>
     <ns0:link href="https://github.com/krayin/laravel-crm"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/krayin/laravel-crm"&gt;https://github.com/krayin/laravel-crm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -142,10 +202,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:laravel:framework:1792368000</ns0:id>
+    <ns0:id>urn:github:laravel:framework:1792454400</ns0:id>
     <ns0:title>laravel/framework</ns0:title>
     <ns0:link href="https://github.com/laravel/framework"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/laravel/framework"&gt;https://github.com/laravel/framework&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -154,34 +214,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:livewire:livewire:1792368000</ns0:id>
-    <ns0:title>livewire/livewire</ns0:title>
-    <ns0:link href="https://github.com/livewire/livewire"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:modelcontextprotocol:php-sdk:1792454400</ns0:id>
+    <ns0:title>modelcontextprotocol/php-sdk</ns0:title>
+    <ns0:link href="https://github.com/modelcontextprotocol/php-sdk"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/livewire/livewire"&gt;https://github.com/livewire/livewire&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/modelcontextprotocol/php-sdk"&gt;https://github.com/modelcontextprotocol/php-sdk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A full-stack framework for Laravel that takes the pain out of building dynamic UIs.&lt;/div&gt;
+&lt;div&gt;The official PHP SDK for Model Context Protocol servers and clients. Maintained in collaboration with The PHP Foundation.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:monicahq:monica:1792368000</ns0:id>
-    <ns0:title>monicahq/monica</ns0:title>
-    <ns0:link href="https://github.com/monicahq/monica"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/monicahq/monica"&gt;https://github.com/monicahq/monica&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Personal CRM. Remember everything about your friends, family and business relationships.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:nunomaduro:collision:1792368000</ns0:id>
+    <ns0:id>urn:github:nunomaduro:collision:1792454400</ns0:id>
     <ns0:title>nunomaduro/collision</ns0:title>
     <ns0:link href="https://github.com/nunomaduro/collision"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nunomaduro/collision"&gt;https://github.com/nunomaduro/collision&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -190,39 +238,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:opnsense:core:1792368000</ns0:id>
-    <ns0:title>opnsense/core</ns0:title>
-    <ns0:link href="https://github.com/opnsense/core"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:statamic:cms:1792454400</ns0:id>
+    <ns0:title>statamic/cms</ns0:title>
+    <ns0:link href="https://github.com/statamic/cms"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opnsense/core"&gt;https://github.com/opnsense/core&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/statamic/cms"&gt;https://github.com/statamic/cms&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;OPNsense GUI, API and systems backend&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:opnsense:plugins:1792368000</ns0:id>
-    <ns0:title>opnsense/plugins</ns0:title>
-    <ns0:link href="https://github.com/opnsense/plugins"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opnsense/plugins"&gt;https://github.com/opnsense/plugins&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;OPNsense plugin collection&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:sebastianbergmann:phpunit:1792368000</ns0:id>
-    <ns0:title>sebastianbergmann/phpunit</ns0:title>
-    <ns0:link href="https://github.com/sebastianbergmann/phpunit"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sebastianbergmann/phpunit"&gt;https://github.com/sebastianbergmann/phpunit&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The PHP Unit Testing framework.&lt;/div&gt;
+&lt;div&gt;The core Laravel CMS Composer package&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

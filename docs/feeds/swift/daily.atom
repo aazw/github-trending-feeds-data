@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/swift/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-20T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:1lck:Lithe-IDEA:1792368000</ns0:id>
+    <ns0:id>urn:github:1lck:Lithe-IDEA:1792454400</ns0:id>
     <ns0:title>1lck/Lithe-IDEA</ns0:title>
     <ns0:link href="https://github.com/1lck/Lithe-IDEA"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/1lck/Lithe-IDEA"&gt;https://github.com/1lck/Lithe-IDEA&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
@@ -22,10 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Lakr233:vphone-cli:1792368000</ns0:id>
+    <ns0:id>urn:github:Alamofire:Alamofire:1792454400</ns0:id>
+    <ns0:title>Alamofire/Alamofire</ns0:title>
+    <ns0:link href="https://github.com/Alamofire/Alamofire"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Alamofire/Alamofire"&gt;https://github.com/Alamofire/Alamofire&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Elegant HTTP Networking in Swift&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Lakr233:vphone-cli:1792454400</ns0:id>
     <ns0:title>Lakr233/vphone-cli</ns0:title>
     <ns0:link href="https://github.com/Lakr233/vphone-cli"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Lakr233/vphone-cli"&gt;https://github.com/Lakr233/vphone-cli&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
@@ -34,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:LiveContainer:LiveContainer:1792368000</ns0:id>
+    <ns0:id>urn:github:LiveContainer:LiveContainer:1792454400</ns0:id>
     <ns0:title>LiveContainer/LiveContainer</ns0:title>
     <ns0:link href="https://github.com/LiveContainer/LiveContainer"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LiveContainer/LiveContainer"&gt;https://github.com/LiveContainer/LiveContainer&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
@@ -46,10 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:TelegramMessenger:Telegram-iOS:1792368000</ns0:id>
+    <ns0:id>urn:github:TelegramMessenger:Telegram-iOS:1792454400</ns0:id>
     <ns0:title>TelegramMessenger/Telegram-iOS</ns0:title>
     <ns0:link href="https://github.com/TelegramMessenger/Telegram-iOS"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TelegramMessenger/Telegram-iOS"&gt;https://github.com/TelegramMessenger/Telegram-iOS&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
@@ -58,58 +70,82 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:altstoreio:AltStore:1792368000</ns0:id>
-    <ns0:title>altstoreio/AltStore</ns0:title>
-    <ns0:link href="https://github.com/altstoreio/AltStore"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:airbnb:lottie-ios:1792454400</ns0:id>
+    <ns0:title>airbnb/lottie-ios</ns0:title>
+    <ns0:link href="https://github.com/airbnb/lottie-ios"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/altstoreio/AltStore"&gt;https://github.com/altstoreio/AltStore&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/airbnb/lottie-ios"&gt;https://github.com/airbnb/lottie-ios&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;AltStore is an alternative app store for non-jailbroken iOS devices.&lt;/div&gt;
+&lt;div&gt;An iOS library to natively render After Effects vector animations&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apple:container:1792368000</ns0:id>
-    <ns0:title>apple/container</ns0:title>
-    <ns0:link href="https://github.com/apple/container"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:f:textream:1792454400</ns0:id>
+    <ns0:title>f/textream</ns0:title>
+    <ns0:link href="https://github.com/f/textream"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apple/container"&gt;https://github.com/apple/container&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/f/textream"&gt;https://github.com/f/textream&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.&lt;/div&gt;
+&lt;div&gt;Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. With extensible features.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apple:swift-argument-parser:1792368000</ns0:id>
-    <ns0:title>apple/swift-argument-parser</ns0:title>
-    <ns0:link href="https://github.com/apple/swift-argument-parser"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:facebook:facebook-ios-sdk:1792454400</ns0:id>
+    <ns0:title>facebook/facebook-ios-sdk</ns0:title>
+    <ns0:link href="https://github.com/facebook/facebook-ios-sdk"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apple/swift-argument-parser"&gt;https://github.com/apple/swift-argument-parser&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/facebook/facebook-ios-sdk"&gt;https://github.com/facebook/facebook-ios-sdk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Straightforward, type-safe argument parsing for Swift&lt;/div&gt;
+&lt;div&gt;Used to integrate the Facebook Platform with your iOS &amp; tvOS apps.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:darrylmorley:whatcable:1792368000</ns0:id>
-    <ns0:title>darrylmorley/whatcable</ns0:title>
-    <ns0:link href="https://github.com/darrylmorley/whatcable"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:getsentry:sentry-cocoa:1792454400</ns0:id>
+    <ns0:title>getsentry/sentry-cocoa</ns0:title>
+    <ns0:link href="https://github.com/getsentry/sentry-cocoa"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/darrylmorley/whatcable"&gt;https://github.com/darrylmorley/whatcable&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/getsentry/sentry-cocoa"&gt;https://github.com/getsentry/sentry-cocoa&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do&lt;/div&gt;
+&lt;div&gt;The official Sentry SDK for iOS, tvOS, macOS, watchOS, iPadOS and visionOS.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:iFurySt:open-computer-use:1792368000</ns0:id>
+    <ns0:id>urn:github:github:CopilotForXcode:1792454400</ns0:id>
+    <ns0:title>github/CopilotForXcode</ns0:title>
+    <ns0:link href="https://github.com/github/CopilotForXcode"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/CopilotForXcode"&gt;https://github.com/github/CopilotForXcode&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;AI coding assistant for Xcode&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:gnachman:iTerm2:1792454400</ns0:id>
+    <ns0:title>gnachman/iTerm2</ns0:title>
+    <ns0:link href="https://github.com/gnachman/iTerm2"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gnachman/iTerm2"&gt;https://github.com/gnachman/iTerm2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;iTerm2 is a terminal emulator for Mac OS X that does amazing things.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:iFurySt:open-computer-use:1792454400</ns0:id>
     <ns0:title>iFurySt/open-computer-use</ns0:title>
     <ns0:link href="https://github.com/iFurySt/open-computer-use"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/iFurySt/open-computer-use"&gt;https://github.com/iFurySt/open-computer-use&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
@@ -118,22 +154,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jellyfin:Swiftfin:1792368000</ns0:id>
-    <ns0:title>jellyfin/Swiftfin</ns0:title>
-    <ns0:link href="https://github.com/jellyfin/Swiftfin"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:lycorp-jp:sim-use:1792454400</ns0:id>
+    <ns0:title>lycorp-jp/sim-use</ns0:title>
+    <ns0:link href="https://github.com/lycorp-jp/sim-use"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jellyfin/Swiftfin"&gt;https://github.com/jellyfin/Swiftfin&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lycorp-jp/sim-use"&gt;https://github.com/lycorp-jp/sim-use&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Native Jellyfin Client for iOS and tvOS&lt;/div&gt;
+&lt;div&gt;Give your AI agent eyes and hands on iOS Simulator and Android emulator/devices.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:manaflow-ai:cmux:1792368000</ns0:id>
+    <ns0:id>urn:github:manaflow-ai:cmux:1792454400</ns0:id>
     <ns0:title>manaflow-ai/cmux</ns0:title>
     <ns0:link href="https://github.com/manaflow-ai/cmux"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/manaflow-ai/cmux"&gt;https://github.com/manaflow-ai/cmux&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
@@ -142,63 +178,51 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:maxgoedjen:secretive:1792368000</ns0:id>
-    <ns0:title>maxgoedjen/secretive</ns0:title>
-    <ns0:link href="https://github.com/maxgoedjen/secretive"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:open-meteo:open-meteo:1792454400</ns0:id>
+    <ns0:title>open-meteo/open-meteo</ns0:title>
+    <ns0:link href="https://github.com/open-meteo/open-meteo"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/maxgoedjen/secretive"&gt;https://github.com/maxgoedjen/secretive&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/open-meteo/open-meteo"&gt;https://github.com/open-meteo/open-meteo&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Protect your SSH keys with your Mac's Secure Enclave&lt;/div&gt;
+&lt;div&gt;Free Weather Forecast API for non-commercial use&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pointfreeco:swift-composable-architecture:1792368000</ns0:id>
+    <ns0:id>urn:github:p0deje:Maccy:1792454400</ns0:id>
+    <ns0:title>p0deje/Maccy</ns0:title>
+    <ns0:link href="https://github.com/p0deje/Maccy"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/p0deje/Maccy"&gt;https://github.com/p0deje/Maccy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Lightweight clipboard manager for macOS&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:permissionlesstech:bitchat:1792454400</ns0:id>
+    <ns0:title>permissionlesstech/bitchat</ns0:title>
+    <ns0:link href="https://github.com/permissionlesstech/bitchat"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/permissionlesstech/bitchat"&gt;https://github.com/permissionlesstech/bitchat&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;bluetooth mesh chat, IRC vibes&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:pointfreeco:swift-composable-architecture:1792454400</ns0:id>
     <ns0:title>pointfreeco/swift-composable-architecture</ns0:title>
     <ns0:link href="https://github.com/pointfreeco/swift-composable-architecture"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pointfreeco/swift-composable-architecture"&gt;https://github.com/pointfreeco/swift-composable-architecture&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;A library for building applications in a consistent and understandable way, with composition, testing, and ergonomics in mind.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:productdevbook:port-killer:1792368000</ns0:id>
-    <ns0:title>productdevbook/port-killer</ns0:title>
-    <ns0:link href="https://github.com/productdevbook/port-killer"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/productdevbook/port-killer"&gt;https://github.com/productdevbook/port-killer&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A powerful cross-platform port management tool for developers. Monitor ports, manage Kubernetes port forwards, integrate Cloudflare Tunnels, and kill processes with one click.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:utmapp:UTM:1792368000</ns0:id>
-    <ns0:title>utmapp/UTM</ns0:title>
-    <ns0:link href="https://github.com/utmapp/UTM"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/utmapp/UTM"&gt;https://github.com/utmapp/UTM&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Virtual machines for iOS and macOS&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:vsouza:awesome-ios:1792368000</ns0:id>
-    <ns0:title>vsouza/awesome-ios</ns0:title>
-    <ns0:link href="https://github.com/vsouza/awesome-ios"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vsouza/awesome-ios"&gt;https://github.com/vsouza/awesome-ios&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A curated list of awesome iOS ecosystem, including Objective-C and Swift Projects&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

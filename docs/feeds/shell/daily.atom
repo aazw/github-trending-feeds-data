@@ -5,27 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/shell/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-20T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:CachyOS:linux-cachyos:1792368000</ns0:id>
-    <ns0:title>CachyOS/linux-cachyos</ns0:title>
-    <ns0:link href="https://github.com/CachyOS/linux-cachyos"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CachyOS/linux-cachyos"&gt;https://github.com/CachyOS/linux-cachyos&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Archlinux Kernel based on different schedulers and some other performance improvements.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:EpicGames:unreal-engine-skills-for-claude-code-plugin:1792368000</ns0:id>
+    <ns0:id>urn:github:EpicGames:unreal-engine-skills-for-claude-code-plugin:1792454400</ns0:id>
     <ns0:title>EpicGames/unreal-engine-skills-for-claude-code-plugin</ns0:title>
     <ns0:link href="https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin"&gt;https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
@@ -34,58 +22,70 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:IceWhaleTech:ZimaOS:1792368000</ns0:id>
-    <ns0:title>IceWhaleTech/ZimaOS</ns0:title>
-    <ns0:link href="https://github.com/IceWhaleTech/ZimaOS"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Steam-Headless:docker-steam-headless:1792454400</ns0:id>
+    <ns0:title>Steam-Headless/docker-steam-headless</ns0:title>
+    <ns0:link href="https://github.com/Steam-Headless/docker-steam-headless"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/IceWhaleTech/ZimaOS"&gt;https://github.com/IceWhaleTech/ZimaOS&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Steam-Headless/docker-steam-headless"&gt;https://github.com/Steam-Headless/docker-steam-headless&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A Simplified, Focused and Open NAS OS_&lt;/div&gt;
+&lt;div&gt;A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:StressOzz:Zapret-Manager:1792368000</ns0:id>
-    <ns0:title>StressOzz/Zapret-Manager</ns0:title>
-    <ns0:link href="https://github.com/StressOzz/Zapret-Manager"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:VSCodium:vscodium:1792454400</ns0:id>
+    <ns0:title>VSCodium/vscodium</ns0:title>
+    <ns0:link href="https://github.com/VSCodium/vscodium"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/StressOzz/Zapret-Manager"&gt;https://github.com/StressOzz/Zapret-Manager&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/VSCodium/vscodium"&gt;https://github.com/VSCodium/vscodium&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Универсальный менеджер для обхода блокировок на OpenWrt&lt;/div&gt;
+&lt;div&gt;binary releases of VS Code without MS branding/telemetry/licensing&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:awesome-jellyfin:awesome-jellyfin:1792368000</ns0:id>
-    <ns0:title>awesome-jellyfin/awesome-jellyfin</ns0:title>
-    <ns0:link href="https://github.com/awesome-jellyfin/awesome-jellyfin"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:github:copilot-cli:1792454400</ns0:id>
+    <ns0:title>github/copilot-cli</ns0:title>
+    <ns0:link href="https://github.com/github/copilot-cli"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/awesome-jellyfin/awesome-jellyfin"&gt;https://github.com/awesome-jellyfin/awesome-jellyfin&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/copilot-cli"&gt;https://github.com/github/copilot-cli&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!&lt;/div&gt;
+&lt;div&gt;GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:czlonkowski:n8n-skills:1792368000</ns0:id>
-    <ns0:title>czlonkowski/n8n-skills</ns0:title>
-    <ns0:link href="https://github.com/czlonkowski/n8n-skills"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:linux-surface:linux-surface:1792454400</ns0:id>
+    <ns0:title>linux-surface/linux-surface</ns0:title>
+    <ns0:link href="https://github.com/linux-surface/linux-surface"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/czlonkowski/n8n-skills"&gt;https://github.com/czlonkowski/n8n-skills&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/linux-surface/linux-surface"&gt;https://github.com/linux-surface/linux-surface&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;n8n skillset for Claude Code to build flawless n8n workflows&lt;/div&gt;
+&lt;div&gt;Linux Kernel for Surface Devices&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:msitarzewski:agency-agents:1792368000</ns0:id>
+    <ns0:id>urn:github:mattpocock:skills:1792454400</ns0:id>
+    <ns0:title>mattpocock/skills</ns0:title>
+    <ns0:link href="https://github.com/mattpocock/skills"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mattpocock/skills"&gt;https://github.com/mattpocock/skills&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Skills for Real Engineers. Straight from my .agents directory.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:msitarzewski:agency-agents:1792454400</ns0:id>
     <ns0:title>msitarzewski/agency-agents</ns0:title>
     <ns0:link href="https://github.com/msitarzewski/agency-agents"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/msitarzewski/agency-agents"&gt;https://github.com/msitarzewski/agency-agents&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
@@ -94,10 +94,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:omacom:omarchy:1792368000</ns0:id>
+    <ns0:id>urn:github:nvm-sh:nvm:1792454400</ns0:id>
+    <ns0:title>nvm-sh/nvm</ns0:title>
+    <ns0:link href="https://github.com/nvm-sh/nvm"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nvm-sh/nvm"&gt;https://github.com/nvm-sh/nvm&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:obra:superpowers:1792454400</ns0:id>
+    <ns0:title>obra/superpowers</ns0:title>
+    <ns0:link href="https://github.com/obra/superpowers"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/obra/superpowers"&gt;https://github.com/obra/superpowers&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An agentic skills framework &amp; software development methodology that works.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ohmyzsh:ohmyzsh:1792454400</ns0:id>
+    <ns0:title>ohmyzsh/ohmyzsh</ns0:title>
+    <ns0:link href="https://github.com/ohmyzsh/ohmyzsh"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ohmyzsh/ohmyzsh"&gt;https://github.com/ohmyzsh/ohmyzsh&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🙃 A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:omacom:omarchy:1792454400</ns0:id>
     <ns0:title>omacom/omarchy</ns0:title>
     <ns0:link href="https://github.com/omacom/omarchy"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/omacom/omarchy"&gt;https://github.com/omacom/omarchy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
@@ -106,46 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pi-hole:docker-pi-hole:1792368000</ns0:id>
-    <ns0:title>pi-hole/docker-pi-hole</ns0:title>
-    <ns0:link href="https://github.com/pi-hole/docker-pi-hole"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pi-hole/docker-pi-hole"&gt;https://github.com/pi-hole/docker-pi-hole&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The official Pi-hole Docker image from pi-hole.net&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:pi-hole:pi-hole:1792368000</ns0:id>
-    <ns0:title>pi-hole/pi-hole</ns0:title>
-    <ns0:link href="https://github.com/pi-hole/pi-hole"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pi-hole/pi-hole"&gt;https://github.com/pi-hole/pi-hole&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A black hole for Internet advertisements&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:pystardust:ani-cli:1792368000</ns0:id>
-    <ns0:title>pystardust/ani-cli</ns0:title>
-    <ns0:link href="https://github.com/pystardust/ani-cli"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pystardust/ani-cli"&gt;https://github.com/pystardust/ani-cli&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A cli tool to browse and play anime&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:rawfilejson:awesome-osint-arsenal:1792368000</ns0:id>
+    <ns0:id>urn:github:rawfilejson:awesome-osint-arsenal:1792454400</ns0:id>
     <ns0:title>rawfilejson/awesome-osint-arsenal</ns0:title>
     <ns0:link href="https://github.com/rawfilejson/awesome-osint-arsenal"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rawfilejson/awesome-osint-arsenal"&gt;https://github.com/rawfilejson/awesome-osint-arsenal&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
@@ -154,51 +154,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rockerBOO:awesome-neovim:1792368000</ns0:id>
-    <ns0:title>rockerBOO/awesome-neovim</ns0:title>
-    <ns0:link href="https://github.com/rockerBOO/awesome-neovim"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:sorin-ionescu:prezto:1792454400</ns0:id>
+    <ns0:title>sorin-ionescu/prezto</ns0:title>
+    <ns0:link href="https://github.com/sorin-ionescu/prezto"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rockerBOO/awesome-neovim"&gt;https://github.com/rockerBOO/awesome-neovim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sorin-ionescu/prezto"&gt;https://github.com/sorin-ionescu/prezto&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Collections of awesome neovim plugins.&lt;/div&gt;
+&lt;div&gt;The configuration framework for Zsh&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sabamdarif:termux-desktop:1792368000</ns0:id>
-    <ns0:title>sabamdarif/termux-desktop</ns0:title>
-    <ns0:link href="https://github.com/sabamdarif/termux-desktop"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:unixorn:awesome-zsh-plugins:1792454400</ns0:id>
+    <ns0:title>unixorn/awesome-zsh-plugins</ns0:title>
+    <ns0:link href="https://github.com/unixorn/awesome-zsh-plugins"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sabamdarif/termux-desktop"&gt;https://github.com/sabamdarif/termux-desktop&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/unixorn/awesome-zsh-plugins"&gt;https://github.com/unixorn/awesome-zsh-plugins&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:termux:termux-packages:1792368000</ns0:id>
-    <ns0:title>termux/termux-packages</ns0:title>
-    <ns0:link href="https://github.com/termux/termux-packages"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/termux/termux-packages"&gt;https://github.com/termux/termux-packages&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A package build system for Termux.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tw93:Mole:1792368000</ns0:id>
-    <ns0:title>tw93/Mole</ns0:title>
-    <ns0:link href="https://github.com/tw93/Mole"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tw93/Mole"&gt;https://github.com/tw93/Mole&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;🐹 Keep your Mac and PC clean, light, and running like new. Fast open-source CLI, plus native Mac and Windows apps.&lt;/div&gt;
+&lt;div&gt;A collection of ZSH frameworks, plugins, themes and tutorials.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

@@ -5,20 +5,56 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/bitbake/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-20T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:openembedded:meta-openembedded:1792368000</ns0:id>
+    <ns0:id>urn:github:openbmc:openbmc:1792454400</ns0:id>
+    <ns0:title>openbmc/openbmc</ns0:title>
+    <ns0:link href="https://github.com/openbmc/openbmc"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openbmc/openbmc"&gt;https://github.com/openbmc/openbmc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bitbake&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;OpenBMC Distribution&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:openembedded:meta-openembedded:1792454400</ns0:id>
     <ns0:title>openembedded/meta-openembedded</ns0:title>
     <ns0:link href="https://github.com/openembedded/meta-openembedded"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openembedded/meta-openembedded"&gt;https://github.com/openembedded/meta-openembedded&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bitbake&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:qualcomm-linux:meta-qcom:1792454400</ns0:id>
+    <ns0:title>qualcomm-linux/meta-qcom</ns0:title>
+    <ns0:link href="https://github.com/qualcomm-linux/meta-qcom"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/qualcomm-linux/meta-qcom"&gt;https://github.com/qualcomm-linux/meta-qcom&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bitbake&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;OpenEmbedded/Yocto Project BSP layer for Qualcomm based platforms&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ros:meta-ros:1792454400</ns0:id>
+    <ns0:title>ros/meta-ros</ns0:title>
+    <ns0:link href="https://github.com/ros/meta-ros"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ros/meta-ros"&gt;https://github.com/ros/meta-ros&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; bitbake&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;OpenEmbedded Layers for ROS 1 and ROS 2&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

@@ -5,27 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-20T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Freika:dawarich:1792368000</ns0:id>
-    <ns0:title>Freika/dawarich</ns0:title>
-    <ns0:link href="https://github.com/Freika/dawarich"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:CocoaPods:CocoaPods:1792454400</ns0:id>
+    <ns0:title>CocoaPods/CocoaPods</ns0:title>
+    <ns0:link href="https://github.com/CocoaPods/CocoaPods"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Freika/dawarich"&gt;https://github.com/Freika/dawarich&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CocoaPods/CocoaPods"&gt;https://github.com/CocoaPods/CocoaPods&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Your favorite self-hostable alternative to Google Timeline (Google Location History)&lt;/div&gt;
+&lt;div&gt;The Cocoa Dependency Manager.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Homebrew:homebrew-core:1792368000</ns0:id>
+    <ns0:id>urn:github:Homebrew:homebrew-core:1792454400</ns0:id>
     <ns0:title>Homebrew/homebrew-core</ns0:title>
     <ns0:link href="https://github.com/Homebrew/homebrew-core"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Homebrew/homebrew-core"&gt;https://github.com/Homebrew/homebrew-core&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -34,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:chatwoot:chatwoot:1792368000</ns0:id>
+    <ns0:id>urn:github:chatwoot:chatwoot:1792454400</ns0:id>
     <ns0:title>chatwoot/chatwoot</ns0:title>
     <ns0:link href="https://github.com/chatwoot/chatwoot"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chatwoot/chatwoot"&gt;https://github.com/chatwoot/chatwoot&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -46,22 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:danbooru:danbooru:1792368000</ns0:id>
-    <ns0:title>danbooru/danbooru</ns0:title>
-    <ns0:link href="https://github.com/danbooru/danbooru"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/danbooru/danbooru"&gt;https://github.com/danbooru/danbooru&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A taggable image board written in Rails.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:discourse:discourse:1792368000</ns0:id>
+    <ns0:id>urn:github:discourse:discourse:1792454400</ns0:id>
     <ns0:title>discourse/discourse</ns0:title>
     <ns0:link href="https://github.com/discourse/discourse"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/discourse/discourse"&gt;https://github.com/discourse/discourse&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -70,22 +58,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mastodon:mastodon:1792368000</ns0:id>
-    <ns0:title>mastodon/mastodon</ns0:title>
-    <ns0:link href="https://github.com/mastodon/mastodon"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:github:scientist:1792454400</ns0:id>
+    <ns0:title>github/scientist</ns0:title>
+    <ns0:link href="https://github.com/github/scientist"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mastodon/mastodon"&gt;https://github.com/mastodon/mastodon&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/scientist"&gt;https://github.com/github/scientist&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Your self-hosted, globally interconnected microblogging community&lt;/div&gt;
+&lt;div&gt;🔬 A Ruby library for carefully refactoring critical paths.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:matteocrippa:awesome-swift:1792368000</ns0:id>
+    <ns0:id>urn:github:hashicorp:vagrant:1792454400</ns0:id>
+    <ns0:title>hashicorp/vagrant</ns0:title>
+    <ns0:link href="https://github.com/hashicorp/vagrant"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hashicorp/vagrant"&gt;https://github.com/hashicorp/vagrant&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Vagrant is a tool for building and distributing development environments.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:huginn:huginn:1792454400</ns0:id>
+    <ns0:title>huginn/huginn</ns0:title>
+    <ns0:link href="https://github.com/huginn/huginn"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/huginn/huginn"&gt;https://github.com/huginn/huginn&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Create agents that monitor and act on your behalf. Your agents are standing by!&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:matteocrippa:awesome-swift:1792454400</ns0:id>
     <ns0:title>matteocrippa/awesome-swift</ns0:title>
     <ns0:link href="https://github.com/matteocrippa/awesome-swift"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/matteocrippa/awesome-swift"&gt;https://github.com/matteocrippa/awesome-swift&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -94,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:neutraltone:awesome-stock-resources:1792368000</ns0:id>
+    <ns0:id>urn:github:neutraltone:awesome-stock-resources:1792454400</ns0:id>
     <ns0:title>neutraltone/awesome-stock-resources</ns0:title>
     <ns0:link href="https://github.com/neutraltone/awesome-stock-resources"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/neutraltone/awesome-stock-resources"&gt;https://github.com/neutraltone/awesome-stock-resources&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -106,34 +118,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:orbitalindex:awesome-space:1792368000</ns0:id>
-    <ns0:title>orbitalindex/awesome-space</ns0:title>
-    <ns0:link href="https://github.com/orbitalindex/awesome-space"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:opf:openproject:1792454400</ns0:id>
+    <ns0:title>opf/openproject</ns0:title>
+    <ns0:link href="https://github.com/opf/openproject"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/orbitalindex/awesome-space"&gt;https://github.com/orbitalindex/awesome-space&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opf/openproject"&gt;https://github.com/opf/openproject&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;🛰️🚀A list of awesome space-related packages and resources maintained by The Orbital Index&lt;/div&gt;
+&lt;div&gt;OpenProject is the leading open source project management software for product, project and portfolio management. A powerful Jira alternative with agile planning, issue tracking, roadmaps, Gantt charts, time tracking, collaboration features, and more. Available on premises or in the cloud. ⭐ Star us on GitHub&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:otwcode:otwarchive:1792368000</ns0:id>
-    <ns0:title>otwcode/otwarchive</ns0:title>
-    <ns0:link href="https://github.com/otwcode/otwarchive"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/otwcode/otwarchive"&gt;https://github.com/otwcode/otwarchive&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The Organization for Transformative Works (OTW) - Archive Of Our Own (AO3) Project&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:palkan:isolator:1792368000</ns0:id>
+    <ns0:id>urn:github:palkan:isolator:1792454400</ns0:id>
     <ns0:title>palkan/isolator</ns0:title>
     <ns0:link href="https://github.com/palkan/isolator"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/palkan/isolator"&gt;https://github.com/palkan/isolator&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -142,10 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:patterns-ai-core:langchainrb:1792368000</ns0:id>
+    <ns0:id>urn:github:patterns-ai-core:langchainrb:1792454400</ns0:id>
     <ns0:title>patterns-ai-core/langchainrb</ns0:title>
     <ns0:link href="https://github.com/patterns-ai-core/langchainrb"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/patterns-ai-core/langchainrb"&gt;https://github.com/patterns-ai-core/langchainrb&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -154,46 +154,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:postalserver:postal:1792368000</ns0:id>
-    <ns0:title>postalserver/postal</ns0:title>
-    <ns0:link href="https://github.com/postalserver/postal"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/postalserver/postal"&gt;https://github.com/postalserver/postal&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;📮 A fully featured open source mail delivery platform for incoming &amp; outgoing e-mail&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:rails:rails:1792368000</ns0:id>
-    <ns0:title>rails/rails</ns0:title>
-    <ns0:link href="https://github.com/rails/rails"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rails/rails"&gt;https://github.com/rails/rails&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Ruby on Rails&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:rapid7:metasploit-framework:1792368000</ns0:id>
-    <ns0:title>rapid7/metasploit-framework</ns0:title>
-    <ns0:link href="https://github.com/rapid7/metasploit-framework"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rapid7/metasploit-framework"&gt;https://github.com/rapid7/metasploit-framework&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Metasploit Framework&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:red-data-tools:YouPlot:1792368000</ns0:id>
+    <ns0:id>urn:github:red-data-tools:YouPlot:1792454400</ns0:id>
     <ns0:title>red-data-tools/YouPlot</ns0:title>
     <ns0:link href="https://github.com/red-data-tools/YouPlot"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/red-data-tools/YouPlot"&gt;https://github.com/red-data-tools/YouPlot&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -202,10 +166,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ruby:ruby:1792368000</ns0:id>
+    <ns0:id>urn:github:ruby:gem_rbs_collection:1792454400</ns0:id>
+    <ns0:title>ruby/gem_rbs_collection</ns0:title>
+    <ns0:link href="https://github.com/ruby/gem_rbs_collection"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruby/gem_rbs_collection"&gt;https://github.com/ruby/gem_rbs_collection&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A collection of RBS for gems.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ruby:ruby:1792454400</ns0:id>
     <ns0:title>ruby/ruby</ns0:title>
     <ns0:link href="https://github.com/ruby/ruby"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruby/ruby"&gt;https://github.com/ruby/ruby&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -214,15 +190,39 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:we-promise:sure:1792368000</ns0:id>
+    <ns0:id>urn:github:rubycdp:ferrum:1792454400</ns0:id>
+    <ns0:title>rubycdp/ferrum</ns0:title>
+    <ns0:link href="https://github.com/rubycdp/ferrum"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rubycdp/ferrum"&gt;https://github.com/rubycdp/ferrum&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Headless Chrome Ruby API&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:we-promise:sure:1792454400</ns0:id>
     <ns0:title>we-promise/sure</ns0:title>
     <ns0:link href="https://github.com/we-promise/sure"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/we-promise/sure"&gt;https://github.com/we-promise/sure&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;The personal finance app for everyone (by everyone)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ytti:oxidized:1792454400</ns0:id>
+    <ns0:title>ytti/oxidized</ns0:title>
+    <ns0:link href="https://github.com/ytti/oxidized"/>
+    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ytti/oxidized"&gt;https://github.com/ytti/oxidized&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Oxidized is a network device configuration backup tool. It's a RANCID replacement!&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
