@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-21T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:ash-project:ash:1792454400</ns0:id>
+    <ns0:id>urn:github:ash-project:ash:1792540800</ns0:id>
     <ns0:title>ash-project/ash</ns0:title>
     <ns0:link href="https://github.com/ash-project/ash"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ash-project/ash"&gt;https://github.com/ash-project/ash&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -22,10 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:elixir-lang:elixir:1792454400</ns0:id>
+    <ns0:id>urn:github:blockscout:blockscout:1792540800</ns0:id>
+    <ns0:title>blockscout/blockscout</ns0:title>
+    <ns0:link href="https://github.com/blockscout/blockscout"/>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/blockscout/blockscout"&gt;https://github.com/blockscout/blockscout&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:elixir-lang:elixir:1792540800</ns0:id>
     <ns0:title>elixir-lang/elixir</ns0:title>
     <ns0:link href="https://github.com/elixir-lang/elixir"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elixir-lang/elixir"&gt;https://github.com/elixir-lang/elixir&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -34,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:elixir-lsp:elixir-ls:1792454400</ns0:id>
+    <ns0:id>urn:github:elixir-lsp:elixir-ls:1792540800</ns0:id>
     <ns0:title>elixir-lsp/elixir-ls</ns0:title>
     <ns0:link href="https://github.com/elixir-lsp/elixir-ls"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elixir-lsp/elixir-ls"&gt;https://github.com/elixir-lsp/elixir-ls&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -46,10 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:elixir-lsp:elixir_sense:1792454400</ns0:id>
+    <ns0:id>urn:github:elixir-lsp:elixir_sense:1792540800</ns0:id>
     <ns0:title>elixir-lsp/elixir_sense</ns0:title>
     <ns0:link href="https://github.com/elixir-lsp/elixir_sense"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elixir-lsp/elixir_sense"&gt;https://github.com/elixir-lsp/elixir_sense&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -58,10 +70,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:elixirschool:elixirschool:1792454400</ns0:id>
+    <ns0:id>urn:github:elixirs:faker:1792540800</ns0:id>
+    <ns0:title>elixirs/faker</ns0:title>
+    <ns0:link href="https://github.com/elixirs/faker"/>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elixirs/faker"&gt;https://github.com/elixirs/faker&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Faker is a pure Elixir library for generating fake data.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:elixirschool:elixirschool:1792540800</ns0:id>
     <ns0:title>elixirschool/elixirschool</ns0:title>
     <ns0:link href="https://github.com/elixirschool/elixirschool"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elixirschool/elixirschool"&gt;https://github.com/elixirschool/elixirschool&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -70,46 +94,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:firezone:firezone:1792454400</ns0:id>
-    <ns0:title>firezone/firezone</ns0:title>
-    <ns0:link href="https://github.com/firezone/firezone"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:id>urn:github:kieraneglin:pinchflat:1792540800</ns0:id>
+    <ns0:title>kieraneglin/pinchflat</ns0:title>
+    <ns0:link href="https://github.com/kieraneglin/pinchflat"/>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/firezone/firezone"&gt;https://github.com/firezone/firezone&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kieraneglin/pinchflat"&gt;https://github.com/kieraneglin/pinchflat&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Blazing-fast remote access&lt;/div&gt;
+&lt;div&gt;Your next YouTube media manager&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:livebook-dev:livebook:1792454400</ns0:id>
-    <ns0:title>livebook-dev/livebook</ns0:title>
-    <ns0:link href="https://github.com/livebook-dev/livebook"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/livebook-dev/livebook"&gt;https://github.com/livebook-dev/livebook&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Automate code &amp; data workflows with interactive Elixir notebooks&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:openai:symphony:1792454400</ns0:id>
-    <ns0:title>openai/symphony</ns0:title>
-    <ns0:link href="https://github.com/openai/symphony"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openai/symphony"&gt;https://github.com/openai/symphony&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:phoenixframework:phoenix:1792454400</ns0:id>
+    <ns0:id>urn:github:phoenixframework:phoenix:1792540800</ns0:id>
     <ns0:title>phoenixframework/phoenix</ns0:title>
     <ns0:link href="https://github.com/phoenixframework/phoenix"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/phoenixframework/phoenix"&gt;https://github.com/phoenixframework/phoenix&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -118,10 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:teslamate-org:teslamate:1792454400</ns0:id>
+    <ns0:id>urn:github:teslamate-org:teslamate:1792540800</ns0:id>
     <ns0:title>teslamate-org/teslamate</ns0:title>
     <ns0:link href="https://github.com/teslamate-org/teslamate"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/teslamate-org/teslamate"&gt;https://github.com/teslamate-org/teslamate&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -130,10 +130,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:tuist:tuist:1792454400</ns0:id>
+    <ns0:id>urn:github:tuist:tuist:1792540800</ns0:id>
     <ns0:title>tuist/tuist</ns0:title>
     <ns0:link href="https://github.com/tuist/tuist"/>
-    <ns0:updated>2026-10-20T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tuist/tuist"&gt;https://github.com/tuist/tuist&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
