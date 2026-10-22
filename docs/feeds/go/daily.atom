@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-22T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Asymptote-Labs:agent-beacon:1792540800</ns0:id>
+    <ns0:id>urn:github:Asymptote-Labs:agent-beacon:1792627200</ns0:id>
     <ns0:title>Asymptote-Labs/agent-beacon</ns0:title>
     <ns0:link href="https://github.com/Asymptote-Labs/agent-beacon"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Asymptote-Labs/agent-beacon"&gt;https://github.com/Asymptote-Labs/agent-beacon&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -22,106 +22,94 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:DataDog:dd-trace-go:1792540800</ns0:id>
-    <ns0:title>DataDog/dd-trace-go</ns0:title>
-    <ns0:link href="https://github.com/DataDog/dd-trace-go"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:CarterPerez-dev:Cybersecurity-Projects:1792627200</ns0:id>
+    <ns0:title>CarterPerez-dev/Cybersecurity-Projects</ns0:title>
+    <ns0:link href="https://github.com/CarterPerez-dev/Cybersecurity-Projects"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DataDog/dd-trace-go"&gt;https://github.com/DataDog/dd-trace-go&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CarterPerez-dev/Cybersecurity-Projects"&gt;https://github.com/CarterPerez-dev/Cybersecurity-Projects&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Datadog Go Library including APM tracing, profiling, and security monitoring.&lt;/div&gt;
+&lt;div&gt;Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:aldinokemal:go-whatsapp-web-multidevice:1792540800</ns0:id>
-    <ns0:title>aldinokemal/go-whatsapp-web-multidevice</ns0:title>
-    <ns0:link href="https://github.com/aldinokemal/go-whatsapp-web-multidevice"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:alibaba:open-code-review:1792627200</ns0:id>
+    <ns0:title>alibaba/open-code-review</ns0:title>
+    <ns0:link href="https://github.com/alibaba/open-code-review"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aldinokemal/go-whatsapp-web-multidevice"&gt;https://github.com/aldinokemal/go-whatsapp-web-multidevice&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/alibaba/open-code-review"&gt;https://github.com/alibaba/open-code-review&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.&lt;/div&gt;
+&lt;div&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:argoproj:argo-cd:1792540800</ns0:id>
-    <ns0:title>argoproj/argo-cd</ns0:title>
-    <ns0:link href="https://github.com/argoproj/argo-cd"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:aquasecurity:trivy:1792627200</ns0:id>
+    <ns0:title>aquasecurity/trivy</ns0:title>
+    <ns0:link href="https://github.com/aquasecurity/trivy"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/argoproj/argo-cd"&gt;https://github.com/argoproj/argo-cd&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aquasecurity/trivy"&gt;https://github.com/aquasecurity/trivy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Declarative Continuous Deployment for Kubernetes&lt;/div&gt;
+&lt;div&gt;Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cloudwego:eino:1792540800</ns0:id>
-    <ns0:title>cloudwego/eino</ns0:title>
-    <ns0:link href="https://github.com/cloudwego/eino"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:golang:go:1792627200</ns0:id>
+    <ns0:title>golang/go</ns0:title>
+    <ns0:link href="https://github.com/golang/go"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudwego/eino"&gt;https://github.com/cloudwego/eino&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/golang/go"&gt;https://github.com/golang/go&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The ultimate LLM/AI application development framework in Go.&lt;/div&gt;
+&lt;div&gt;The Go programming language&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:gin-gonic:gin:1792540800</ns0:id>
-    <ns0:title>gin-gonic/gin</ns0:title>
-    <ns0:link href="https://github.com/gin-gonic/gin"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:grafana:alloy:1792627200</ns0:id>
+    <ns0:title>grafana/alloy</ns0:title>
+    <ns0:link href="https://github.com/grafana/alloy"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gin-gonic/gin"&gt;https://github.com/gin-gonic/gin&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/grafana/alloy"&gt;https://github.com/grafana/alloy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for building REST APIs, web applications, and microservices.&lt;/div&gt;
+&lt;div&gt;OpenTelemetry Collector distribution with programmable pipelines&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google:gvisor:1792540800</ns0:id>
-    <ns0:title>google/gvisor</ns0:title>
-    <ns0:link href="https://github.com/google/gvisor"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:helm:helm:1792627200</ns0:id>
+    <ns0:title>helm/helm</ns0:title>
+    <ns0:link href="https://github.com/helm/helm"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/gvisor"&gt;https://github.com/google/gvisor&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/helm/helm"&gt;https://github.com/helm/helm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Application Kernel for Containers&lt;/div&gt;
+&lt;div&gt;The Kubernetes Package Manager&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:harness:harness:1792540800</ns0:id>
-    <ns0:title>harness/harness</ns0:title>
-    <ns0:link href="https://github.com/harness/harness"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:kubernetes:kubernetes:1792627200</ns0:id>
+    <ns0:title>kubernetes/kubernetes</ns0:title>
+    <ns0:link href="https://github.com/kubernetes/kubernetes"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/harness/harness"&gt;https://github.com/harness/harness&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kubernetes/kubernetes"&gt;https://github.com/kubernetes/kubernetes&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.&lt;/div&gt;
+&lt;div&gt;Production-Grade Container Scheduling and Management&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:hashicorp:vault:1792540800</ns0:id>
-    <ns0:title>hashicorp/vault</ns0:title>
-    <ns0:link href="https://github.com/hashicorp/vault"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hashicorp/vault"&gt;https://github.com/hashicorp/vault&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A tool for secrets management, encryption as a service, and privileged access management&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:larksuite:cli:1792540800</ns0:id>
+    <ns0:id>urn:github:larksuite:cli:1792627200</ns0:id>
     <ns0:title>larksuite/cli</ns0:title>
     <ns0:link href="https://github.com/larksuite/cli"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/larksuite/cli"&gt;https://github.com/larksuite/cli&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -130,22 +118,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mudler:LocalAI:1792540800</ns0:id>
-    <ns0:title>mudler/LocalAI</ns0:title>
-    <ns0:link href="https://github.com/mudler/LocalAI"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ltaoo:wx_channels_download:1792627200</ns0:id>
+    <ns0:title>ltaoo/wx_channels_download</ns0:title>
+    <ns0:link href="https://github.com/ltaoo/wx_channels_download"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mudler/LocalAI"&gt;https://github.com/mudler/LocalAI&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ltaoo/wx_channels_download"&gt;https://github.com/ltaoo/wx_channels_download&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.&lt;/div&gt;
+&lt;div&gt;微信视频号下载器&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:multica-ai:multica:1792540800</ns0:id>
+    <ns0:id>urn:github:microsoft:TypeScript:1792627200</ns0:id>
+    <ns0:title>microsoft/TypeScript</ns0:title>
+    <ns0:link href="https://github.com/microsoft/TypeScript"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/TypeScript"&gt;https://github.com/microsoft/TypeScript&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;TypeScript is a superset of JavaScript that compiles to clean JavaScript output.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:multica-ai:multica:1792627200</ns0:id>
     <ns0:title>multica-ai/multica</ns0:title>
     <ns0:link href="https://github.com/multica-ai/multica"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/multica-ai/multica"&gt;https://github.com/multica-ai/multica&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -154,34 +154,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ollama:ollama:1792540800</ns0:id>
-    <ns0:title>ollama/ollama</ns0:title>
-    <ns0:link href="https://github.com/ollama/ollama"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:open-telemetry:opentelemetry-collector-contrib:1792627200</ns0:id>
+    <ns0:title>open-telemetry/opentelemetry-collector-contrib</ns0:title>
+    <ns0:link href="https://github.com/open-telemetry/opentelemetry-collector-contrib"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ollama/ollama"&gt;https://github.com/ollama/ollama&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/open-telemetry/opentelemetry-collector-contrib"&gt;https://github.com/open-telemetry/opentelemetry-collector-contrib&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.&lt;/div&gt;
+&lt;div&gt;Contrib repository for the OpenTelemetry Collector&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openbao:openbao:1792540800</ns0:id>
-    <ns0:title>openbao/openbao</ns0:title>
-    <ns0:link href="https://github.com/openbao/openbao"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:samber:cc-skills-golang:1792627200</ns0:id>
+    <ns0:title>samber/cc-skills-golang</ns0:title>
+    <ns0:link href="https://github.com/samber/cc-skills-golang"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openbao/openbao"&gt;https://github.com/openbao/openbao&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/samber/cc-skills-golang"&gt;https://github.com/samber/cc-skills-golang&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;OpenBao is a software solution to manage, store, and distribute sensitive data including secrets, certificates, and keys.&lt;/div&gt;
+&lt;div&gt;🧑‍🎨 A collection of Golang agentic skills that works&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:strelov1:freehire:1792540800</ns0:id>
+    <ns0:id>urn:github:strelov1:freehire:1792627200</ns0:id>
     <ns0:title>strelov1/freehire</ns0:title>
     <ns0:link href="https://github.com/strelov1/freehire"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/strelov1/freehire"&gt;https://github.com/strelov1/freehire&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
@@ -190,27 +190,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ys-ll:uniterm:1792540800</ns0:id>
-    <ns0:title>ys-ll/uniterm</ns0:title>
-    <ns0:link href="https://github.com/ys-ll/uniterm"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:tailscale:tailscale:1792627200</ns0:id>
+    <ns0:title>tailscale/tailscale</ns0:title>
+    <ns0:link href="https://github.com/tailscale/tailscale"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ys-ll/uniterm"&gt;https://github.com/ys-ll/uniterm&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tailscale/tailscale"&gt;https://github.com/tailscale/tailscale&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;All-in-one terminal covering 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in AI Agent that runs multi-turn shell commands autonomously.&lt;/div&gt;
+&lt;div&gt;The easiest, most secure way to use WireGuard and 2FA.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:zhoushoujianwork:easyeda-agent:1792540800</ns0:id>
-    <ns0:title>zhoushoujianwork/easyeda-agent</ns0:title>
-    <ns0:link href="https://github.com/zhoushoujianwork/easyeda-agent"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:zitadel:zitadel:1792627200</ns0:id>
+    <ns0:title>zitadel/zitadel</ns0:title>
+    <ns0:link href="https://github.com/zitadel/zitadel"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zhoushoujianwork/easyeda-agent"&gt;https://github.com/zhoushoujianwork/easyeda-agent&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zitadel/zitadel"&gt;https://github.com/zitadel/zitadel&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;嘉立创EDA专业版(EasyEDA Pro)自动化：给 AI harness 装上画板的「手」—— 一套 typed 原理图/PCB 动作，CLI / Agent Skill / stdio MCP 三形态融合接入。承接嘉立创「不以卖板赚钱，以培养中国工程师为己任」 | EasyEDA Pro automation: the hands of your AI harness — typed schematic/PCB actions via CLI, Agent Skill and stdio MCP.&lt;/div&gt;
+&lt;div&gt;ZITADEL - Identity infrastructure, simplified for you.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

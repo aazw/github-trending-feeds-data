@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-22T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:EttusResearch:uhd:1792540800</ns0:id>
+    <ns0:id>urn:github:EttusResearch:uhd:1792627200</ns0:id>
     <ns0:title>EttusResearch/uhd</ns0:title>
     <ns0:link href="https://github.com/EttusResearch/uhd"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/EttusResearch/uhd"&gt;https://github.com/EttusResearch/uhd&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
@@ -22,10 +22,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:The-OpenROAD-Project:OpenROAD:1792540800</ns0:id>
+    <ns0:id>urn:github:MiSTer-devel:Template_MiSTer:1792627200</ns0:id>
+    <ns0:title>MiSTer-devel/Template_MiSTer</ns0:title>
+    <ns0:link href="https://github.com/MiSTer-devel/Template_MiSTer"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MiSTer-devel/Template_MiSTer"&gt;https://github.com/MiSTer-devel/Template_MiSTer&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Template with latest framework for MiSTer&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:MiSTle-Dev:NanoMig:1792627200</ns0:id>
+    <ns0:title>MiSTle-Dev/NanoMig</ns0:title>
+    <ns0:link href="https://github.com/MiSTle-Dev/NanoMig"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MiSTle-Dev/NanoMig"&gt;https://github.com/MiSTle-Dev/NanoMig&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Amiga Minimig ported to the Tang Nano 20k FPGA&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:The-OpenROAD-Project:OpenROAD:1792627200</ns0:id>
     <ns0:title>The-OpenROAD-Project/OpenROAD</ns0:title>
     <ns0:link href="https://github.com/The-OpenROAD-Project/OpenROAD"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/The-OpenROAD-Project/OpenROAD"&gt;https://github.com/The-OpenROAD-Project/OpenROAD&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
@@ -34,15 +58,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:The-OpenROAD-Project:OpenROAD-flow-scripts:1792540800</ns0:id>
+    <ns0:id>urn:github:The-OpenROAD-Project:OpenROAD-flow-scripts:1792627200</ns0:id>
     <ns0:title>The-OpenROAD-Project/OpenROAD-flow-scripts</ns0:title>
     <ns0:link href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts"&gt;https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;OpenROAD's scripts implementing an RTL-to-GDS Flow. Documentation at https://openroad-flow-scripts.readthedocs.io/en/latest/&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:TinyTapeout:ttsky-verilog-template:1792627200</ns0:id>
+    <ns0:title>TinyTapeout/ttsky-verilog-template</ns0:title>
+    <ns0:link href="https://github.com/TinyTapeout/ttsky-verilog-template"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TinyTapeout/ttsky-verilog-template"&gt;https://github.com/TinyTapeout/ttsky-verilog-template&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Submission template for Tiny Tapeout SKY130 (ChipFoundry) shuttles - Verilog HDL Projects&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

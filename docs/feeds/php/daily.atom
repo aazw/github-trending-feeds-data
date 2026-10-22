@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-22T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:FreshRSS:FreshRSS:1792540800</ns0:id>
+    <ns0:id>urn:github:4jean:lav_sms:1792627200</ns0:id>
+    <ns0:title>4jean/lav_sms</ns0:title>
+    <ns0:link href="https://github.com/4jean/lav_sms"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/4jean/lav_sms"&gt;https://github.com/4jean/lav_sms&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Laravel School Management System (LAVSMS)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:FreshRSS:FreshRSS:1792627200</ns0:id>
     <ns0:title>FreshRSS/FreshRSS</ns0:title>
     <ns0:link href="https://github.com/FreshRSS/FreshRSS"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FreshRSS/FreshRSS"&gt;https://github.com/FreshRSS/FreshRSS&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -22,22 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Leantime:leantime:1792540800</ns0:id>
-    <ns0:title>Leantime/leantime</ns0:title>
-    <ns0:link href="https://github.com/Leantime/leantime"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Leantime/leantime"&gt;https://github.com/Leantime/leantime&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:PHPMailer:PHPMailer:1792540800</ns0:id>
+    <ns0:id>urn:github:PHPMailer:PHPMailer:1792627200</ns0:id>
     <ns0:title>PHPMailer/PHPMailer</ns0:title>
     <ns0:link href="https://github.com/PHPMailer/PHPMailer"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PHPMailer/PHPMailer"&gt;https://github.com/PHPMailer/PHPMailer&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -46,22 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:PHPOffice:PhpSpreadsheet:1792540800</ns0:id>
-    <ns0:title>PHPOffice/PhpSpreadsheet</ns0:title>
-    <ns0:link href="https://github.com/PHPOffice/PhpSpreadsheet"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PHPOffice/PhpSpreadsheet"&gt;https://github.com/PHPOffice/PhpSpreadsheet&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A pure PHP library for reading and writing spreadsheet files&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:PrestaShop:PrestaShop:1792540800</ns0:id>
+    <ns0:id>urn:github:PrestaShop:PrestaShop:1792627200</ns0:id>
     <ns0:title>PrestaShop/PrestaShop</ns0:title>
     <ns0:link href="https://github.com/PrestaShop/PrestaShop"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PrestaShop/PrestaShop"&gt;https://github.com/PrestaShop/PrestaShop&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -70,46 +58,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:PrivateBin:PrivateBin:1792540800</ns0:id>
-    <ns0:title>PrivateBin/PrivateBin</ns0:title>
-    <ns0:link href="https://github.com/PrivateBin/PrivateBin"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:RSS-Bridge:rss-bridge:1792627200</ns0:id>
+    <ns0:title>RSS-Bridge/rss-bridge</ns0:title>
+    <ns0:link href="https://github.com/RSS-Bridge/rss-bridge"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PrivateBin/PrivateBin"&gt;https://github.com/PrivateBin/PrivateBin&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/RSS-Bridge/rss-bridge"&gt;https://github.com/RSS-Bridge/rss-bridge&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.&lt;/div&gt;
+&lt;div&gt;The RSS feed for websites missing it&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:WordPress:wordpress-develop:1792540800</ns0:id>
-    <ns0:title>WordPress/wordpress-develop</ns0:title>
-    <ns0:link href="https://github.com/WordPress/wordpress-develop"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:bagisto:bagisto:1792627200</ns0:id>
+    <ns0:title>bagisto/bagisto</ns0:title>
+    <ns0:link href="https://github.com/bagisto/bagisto"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/WordPress/wordpress-develop"&gt;https://github.com/WordPress/wordpress-develop&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bagisto/bagisto"&gt;https://github.com/bagisto/bagisto&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;WordPress Develop, Git-ified. Synced from git://develop.git.wordpress.org/, including branches and tags! This repository is just a mirror of the WordPress subversion repository. Please include a link to a pre-existing ticket on https://core.trac.wordpress.org/ with every pull request.&lt;/div&gt;
+&lt;div&gt;Open Source eCommerce &amp; Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:aws:aws-sdk-php:1792540800</ns0:id>
-    <ns0:title>aws/aws-sdk-php</ns0:title>
-    <ns0:link href="https://github.com/aws/aws-sdk-php"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:cedar2025:Xboard:1792627200</ns0:id>
+    <ns0:title>cedar2025/Xboard</ns0:title>
+    <ns0:link href="https://github.com/cedar2025/Xboard"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aws/aws-sdk-php"&gt;https://github.com/aws/aws-sdk-php&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cedar2025/Xboard"&gt;https://github.com/cedar2025/Xboard&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Official repository of the AWS SDK for PHP (@awsforphp)&lt;/div&gt;
+&lt;div&gt;High-performance panel based on V2board secondary development supporting new protocols and new features&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:coollabsio:coolify:1792540800</ns0:id>
+    <ns0:id>urn:github:coollabsio:coolify:1792627200</ns0:id>
     <ns0:title>coollabsio/coolify</ns0:title>
     <ns0:link href="https://github.com/coollabsio/coolify"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/coollabsio/coolify"&gt;https://github.com/coollabsio/coolify&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -118,22 +106,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:filamentphp:filament:1792540800</ns0:id>
-    <ns0:title>filamentphp/filament</ns0:title>
-    <ns0:link href="https://github.com/filamentphp/filament"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:danog:MadelineProto:1792627200</ns0:id>
+    <ns0:title>danog/MadelineProto</ns0:title>
+    <ns0:link href="https://github.com/danog/MadelineProto"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/filamentphp/filament"&gt;https://github.com/filamentphp/filament&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/danog/MadelineProto"&gt;https://github.com/danog/MadelineProto&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A powerful open-source UI framework for Laravel • Build and ship apps &amp; admin panels fast with Livewire&lt;/div&gt;
+&lt;div&gt;Async PHP client API for the telegram MTProto protocol&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:glpi-project:glpi:1792540800</ns0:id>
+    <ns0:id>urn:github:elabftw:elabftw:1792627200</ns0:id>
+    <ns0:title>elabftw/elabftw</ns0:title>
+    <ns0:link href="https://github.com/elabftw/elabftw"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elabftw/elabftw"&gt;https://github.com/elabftw/elabftw&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;📓 eLabFTW is the most popular open source electronic lab notebook for research labs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:glpi-project:glpi:1792627200</ns0:id>
     <ns0:title>glpi-project/glpi</ns0:title>
     <ns0:link href="https://github.com/glpi-project/glpi"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/glpi-project/glpi"&gt;https://github.com/glpi-project/glpi&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -142,46 +142,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jez500:pricebuddy:1792540800</ns0:id>
-    <ns0:title>jez500/pricebuddy</ns0:title>
-    <ns0:link href="https://github.com/jez500/pricebuddy"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:grokability:snipe-it:1792627200</ns0:id>
+    <ns0:title>grokability/snipe-it</ns0:title>
+    <ns0:link href="https://github.com/grokability/snipe-it"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jez500/pricebuddy"&gt;https://github.com/jez500/pricebuddy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/grokability/snipe-it"&gt;https://github.com/grokability/snipe-it&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A self hostable app that tracks prices and sends you notifications when prices match your preferences&lt;/div&gt;
+&lt;div&gt;A free open source IT asset/license management system&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:karatektus:pl_mail:1792540800</ns0:id>
-    <ns0:title>karatektus/pl_mail</ns0:title>
-    <ns0:link href="https://github.com/karatektus/pl_mail"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:kimai:kimai:1792627200</ns0:id>
+    <ns0:title>kimai/kimai</ns0:title>
+    <ns0:link href="https://github.com/kimai/kimai"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/karatektus/pl_mail"&gt;https://github.com/karatektus/pl_mail&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kimai/kimai"&gt;https://github.com/kimai/kimai&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Self-hosted, Gmail-style mail client. Multi-account IMAP, threaded conversations, real-time push via IMAP IDLE + Mercure. Built with Symfony, FrankenPHP, Hotwire Turbo. Clone and docker compose up.&lt;/div&gt;
+&lt;div&gt;Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:krayin:laravel-crm:1792540800</ns0:id>
-    <ns0:title>krayin/laravel-crm</ns0:title>
-    <ns0:link href="https://github.com/krayin/laravel-crm"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/krayin/laravel-crm"&gt;https://github.com/krayin/laravel-crm&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Krayin CRM is Free &amp; Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:laravel:framework:1792540800</ns0:id>
+    <ns0:id>urn:github:laravel:framework:1792627200</ns0:id>
     <ns0:title>laravel/framework</ns0:title>
     <ns0:link href="https://github.com/laravel/framework"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/laravel/framework"&gt;https://github.com/laravel/framework&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -190,10 +178,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:librenms:librenms:1792540800</ns0:id>
+    <ns0:id>urn:github:librenms:librenms:1792627200</ns0:id>
     <ns0:title>librenms/librenms</ns0:title>
     <ns0:link href="https://github.com/librenms/librenms"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/librenms/librenms"&gt;https://github.com/librenms/librenms&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -202,10 +190,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nextcloud:all-in-one:1792540800</ns0:id>
+    <ns0:id>urn:github:magento:magento2:1792627200</ns0:id>
+    <ns0:title>magento/magento2</ns0:title>
+    <ns0:link href="https://github.com/magento/magento2"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/magento/magento2"&gt;https://github.com/magento/magento2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nextcloud:all-in-one:1792627200</ns0:id>
     <ns0:title>nextcloud/all-in-one</ns0:title>
     <ns0:link href="https://github.com/nextcloud/all-in-one"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nextcloud/all-in-one"&gt;https://github.com/nextcloud/all-in-one&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -214,22 +214,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openemr:openemr:1792540800</ns0:id>
-    <ns0:title>openemr/openemr</ns0:title>
-    <ns0:link href="https://github.com/openemr/openemr"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nextcloud:server:1792627200</ns0:id>
+    <ns0:title>nextcloud/server</ns0:title>
+    <ns0:link href="https://github.com/nextcloud/server"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openemr/openemr"&gt;https://github.com/openemr/openemr&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nextcloud/server"&gt;https://github.com/nextcloud/server&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The most popular open source electronic health records and medical practice management solution.&lt;/div&gt;
+&lt;div&gt;☁️ Nextcloud server, a safe home for all your data&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:opnsense:core:1792540800</ns0:id>
+    <ns0:id>urn:github:opensourcepos:opensourcepos:1792627200</ns0:id>
+    <ns0:title>opensourcepos/opensourcepos</ns0:title>
+    <ns0:link href="https://github.com/opensourcepos/opensourcepos"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opensourcepos/opensourcepos"&gt;https://github.com/opensourcepos/opensourcepos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:opnsense:core:1792627200</ns0:id>
     <ns0:title>opnsense/core</ns0:title>
     <ns0:link href="https://github.com/opnsense/core"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opnsense/core"&gt;https://github.com/opnsense/core&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -238,10 +250,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pterodactyl:panel:1792540800</ns0:id>
+    <ns0:id>urn:github:pterodactyl:panel:1792627200</ns0:id>
     <ns0:title>pterodactyl/panel</ns0:title>
     <ns0:link href="https://github.com/pterodactyl/panel"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pterodactyl/panel"&gt;https://github.com/pterodactyl/panel&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -250,10 +262,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:roundcube:roundcubemail:1792540800</ns0:id>
+    <ns0:id>urn:github:roundcube:roundcubemail:1792627200</ns0:id>
     <ns0:title>roundcube/roundcubemail</ns0:title>
     <ns0:link href="https://github.com/roundcube/roundcubemail"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/roundcube/roundcubemail"&gt;https://github.com/roundcube/roundcubemail&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -262,15 +274,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sebastianbergmann:phpunit:1792540800</ns0:id>
-    <ns0:title>sebastianbergmann/phpunit</ns0:title>
-    <ns0:link href="https://github.com/sebastianbergmann/phpunit"/>
-    <ns0:updated>2026-10-21T00:00:00</ns0:updated>
+    <ns0:id>urn:github:shlinkio:shlink:1792627200</ns0:id>
+    <ns0:title>shlinkio/shlink</ns0:title>
+    <ns0:link href="https://github.com/shlinkio/shlink"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sebastianbergmann/phpunit"&gt;https://github.com/sebastianbergmann/phpunit&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/shlinkio/shlink"&gt;https://github.com/shlinkio/shlink&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The PHP Unit Testing framework.&lt;/div&gt;
+&lt;div&gt;The definitive self-hosted URL shortener&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:symfony:symfony:1792627200</ns0:id>
+    <ns0:title>symfony/symfony</ns0:title>
+    <ns0:link href="https://github.com/symfony/symfony"/>
+    <ns0:updated>2026-10-22T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/symfony/symfony"&gt;https://github.com/symfony/symfony&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Symfony PHP framework&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
