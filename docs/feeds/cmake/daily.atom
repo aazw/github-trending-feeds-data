@@ -5,27 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/cmake/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-24T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:KiCad:kicad-footprints:1792713600</ns0:id>
-    <ns0:title>KiCad/kicad-footprints</ns0:title>
-    <ns0:link href="https://github.com/KiCad/kicad-footprints"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/KiCad/kicad-footprints"&gt;https://github.com/KiCad/kicad-footprints&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cmake&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Official KiCad Footprint Libraries for Kicad version 5&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:corrosion-rs:corrosion:1792713600</ns0:id>
+    <ns0:id>urn:github:corrosion-rs:corrosion:1792800000</ns0:id>
     <ns0:title>corrosion-rs/corrosion</ns0:title>
     <ns0:link href="https://github.com/corrosion-rs/corrosion"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/corrosion-rs/corrosion"&gt;https://github.com/corrosion-rs/corrosion&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cmake&lt;/div&gt;
@@ -34,27 +22,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:e-gleba:wemod_enhancer:1792713600</ns0:id>
-    <ns0:title>e-gleba/wemod_enhancer</ns0:title>
-    <ns0:link href="https://github.com/e-gleba/wemod_enhancer"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/e-gleba/wemod_enhancer"&gt;https://github.com/e-gleba/wemod_enhancer&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cmake&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Wemod patcher impl getting rid of C#&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:microsoft:vcpkg:1792713600</ns0:id>
+    <ns0:id>urn:github:microsoft:vcpkg:1792800000</ns0:id>
     <ns0:title>microsoft/vcpkg</ns0:title>
     <ns0:link href="https://github.com/microsoft/vcpkg"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/vcpkg"&gt;https://github.com/microsoft/vcpkg&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cmake&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;C++ Library Manager for Windows, Linux, and MacOS&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:steinbergmedia:vst3sdk:1792800000</ns0:id>
+    <ns0:title>steinbergmedia/vst3sdk</ns0:title>
+    <ns0:link href="https://github.com/steinbergmedia/vst3sdk"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/steinbergmedia/vst3sdk"&gt;https://github.com/steinbergmedia/vst3sdk&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cmake&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;VST 3 Plug-In SDK&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

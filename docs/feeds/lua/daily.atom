@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/lua/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-24T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Kong:kong:1792713600</ns0:id>
+    <ns0:id>urn:github:FrSkyRC:ETHOS-Feedback-Community:1792800000</ns0:id>
+    <ns0:title>FrSkyRC/ETHOS-Feedback-Community</ns0:title>
+    <ns0:link href="https://github.com/FrSkyRC/ETHOS-Feedback-Community"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FrSkyRC/ETHOS-Feedback-Community"&gt;https://github.com/FrSkyRC/ETHOS-Feedback-Community&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Feedback &amp; suggestions are welcomed here for ETHOS by FrSky&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Kong:kong:1792800000</ns0:id>
     <ns0:title>Kong/kong</ns0:title>
     <ns0:link href="https://github.com/Kong/kong"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Kong/kong"&gt;https://github.com/Kong/kong&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
@@ -22,34 +34,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:LunarVim:LunarVim:1792713600</ns0:id>
-    <ns0:title>LunarVim/LunarVim</ns0:title>
-    <ns0:link href="https://github.com/LunarVim/LunarVim"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:LazyVim:starter:1792800000</ns0:id>
+    <ns0:title>LazyVim/starter</ns0:title>
+    <ns0:link href="https://github.com/LazyVim/starter"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LunarVim/LunarVim"&gt;https://github.com/LunarVim/LunarVim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LazyVim/starter"&gt;https://github.com/LazyVim/starter&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.&lt;/div&gt;
+&lt;div&gt;Starter template for LazyVim&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:PortsMaster:PortMaster-New:1792713600</ns0:id>
-    <ns0:title>PortsMaster/PortMaster-New</ns0:title>
-    <ns0:link href="https://github.com/PortsMaster/PortMaster-New"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PortsMaster/PortMaster-New"&gt;https://github.com/PortsMaster/PortMaster-New&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;New PortMaster repo&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:alpinelinux:docker-alpine:1792713600</ns0:id>
+    <ns0:id>urn:github:alpinelinux:docker-alpine:1792800000</ns0:id>
     <ns0:title>alpinelinux/docker-alpine</ns0:title>
     <ns0:link href="https://github.com/alpinelinux/docker-alpine"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/alpinelinux/docker-alpine"&gt;https://github.com/alpinelinux/docker-alpine&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
@@ -58,34 +58,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:amzxyz:rime-wanxiang:1792713600</ns0:id>
-    <ns0:title>amzxyz/rime-wanxiang</ns0:title>
-    <ns0:link href="https://github.com/amzxyz/rime-wanxiang"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:folke:lazy.nvim:1792800000</ns0:id>
+    <ns0:title>folke/lazy.nvim</ns0:title>
+    <ns0:link href="https://github.com/folke/lazy.nvim"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/amzxyz/rime-wanxiang"&gt;https://github.com/amzxyz/rime-wanxiang&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/folke/lazy.nvim"&gt;https://github.com/folke/lazy.nvim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;「万象拼音」：把算法留在幕后，把纯粹还给指尖，用更优质的数据，接管你的候选。&lt;/div&gt;
+&lt;div&gt;💤 A modern plugin manager for Neovim&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:apisix:1792713600</ns0:id>
-    <ns0:title>apache/apisix</ns0:title>
-    <ns0:link href="https://github.com/apache/apisix"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/apisix"&gt;https://github.com/apache/apisix&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The Cloud-Native API Gateway and AI Gateway&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:folke:snacks.nvim:1792713600</ns0:id>
+    <ns0:id>urn:github:folke:snacks.nvim:1792800000</ns0:id>
     <ns0:title>folke/snacks.nvim</ns0:title>
     <ns0:link href="https://github.com/folke/snacks.nvim"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/folke/snacks.nvim"&gt;https://github.com/folke/snacks.nvim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
@@ -94,34 +82,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:gaboolic:rime-frost:1792713600</ns0:id>
-    <ns0:title>gaboolic/rime-frost</ns0:title>
-    <ns0:link href="https://github.com/gaboolic/rime-frost"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:iDvel:rime-ice:1792800000</ns0:id>
+    <ns0:title>iDvel/rime-ice</ns0:title>
+    <ns0:link href="https://github.com/iDvel/rime-ice"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gaboolic/rime-frost"&gt;https://github.com/gaboolic/rime-frost&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/iDvel/rime-ice"&gt;https://github.com/iDvel/rime-ice&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;白霜拼音：蒹葭苍苍，白露为霜。白霜拼音使用高质量语料，进行分词，重新统计字频、词频，归一化，打造纯净、词频准确、智能的词库。白霜词库是目前rime方案下最好的开源词库，经评测准确性已经不输于商业输入法。在墨奇输入法内置，欢迎使用。&lt;/div&gt;
+&lt;div&gt;Rime 配置：雾凇拼音 | 长期维护的简体词库&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jitsi:docker-jitsi-meet:1792713600</ns0:id>
-    <ns0:title>jitsi/docker-jitsi-meet</ns0:title>
-    <ns0:link href="https://github.com/jitsi/docker-jitsi-meet"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:koreader:koreader:1792800000</ns0:id>
+    <ns0:title>koreader/koreader</ns0:title>
+    <ns0:link href="https://github.com/koreader/koreader"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jitsi/docker-jitsi-meet"&gt;https://github.com/jitsi/docker-jitsi-meet&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/koreader/koreader"&gt;https://github.com/koreader/koreader&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Jitsi Meet on Docker&lt;/div&gt;
+&lt;div&gt;An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mason-org:mason-lspconfig.nvim:1792713600</ns0:id>
+    <ns0:id>urn:github:lewis6991:gitsigns.nvim:1792800000</ns0:id>
+    <ns0:title>lewis6991/gitsigns.nvim</ns0:title>
+    <ns0:link href="https://github.com/lewis6991/gitsigns.nvim"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lewis6991/gitsigns.nvim"&gt;https://github.com/lewis6991/gitsigns.nvim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Git integration for buffers&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:mason-org:mason-lspconfig.nvim:1792800000</ns0:id>
     <ns0:title>mason-org/mason-lspconfig.nvim</ns0:title>
     <ns0:link href="https://github.com/mason-org/mason-lspconfig.nvim"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mason-org/mason-lspconfig.nvim"&gt;https://github.com/mason-org/mason-lspconfig.nvim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
@@ -130,27 +130,87 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:saghen:blink.cmp:1792713600</ns0:id>
-    <ns0:title>saghen/blink.cmp</ns0:title>
-    <ns0:link href="https://github.com/saghen/blink.cmp"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nvim-lua:kickstart.nvim:1792800000</ns0:id>
+    <ns0:title>nvim-lua/kickstart.nvim</ns0:title>
+    <ns0:link href="https://github.com/nvim-lua/kickstart.nvim"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/saghen/blink.cmp"&gt;https://github.com/saghen/blink.cmp&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nvim-lua/kickstart.nvim"&gt;https://github.com/nvim-lua/kickstart.nvim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Performant, batteries-included completion plugin for Neovim&lt;/div&gt;
+&lt;div&gt;A launch point for your personal nvim configuration&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:xhcherry:GTA5-Stand-LuaAIO:1792713600</ns0:id>
-    <ns0:title>xhcherry/GTA5-Stand-LuaAIO</ns0:title>
-    <ns0:link href="https://github.com/xhcherry/GTA5-Stand-LuaAIO"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nvim-telescope:telescope.nvim:1792800000</ns0:id>
+    <ns0:title>nvim-telescope/telescope.nvim</ns0:title>
+    <ns0:link href="https://github.com/nvim-telescope/telescope.nvim"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xhcherry/GTA5-Stand-LuaAIO"&gt;https://github.com/xhcherry/GTA5-Stand-LuaAIO&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nvim-telescope/telescope.nvim"&gt;https://github.com/nvim-telescope/telescope.nvim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;GTA5 Mod Stand Lua All in One:快捷任务、crash、模组(人物|车辆|地图|模型)、娱乐等多种拓展功能玩法的lua脚本&lt;/div&gt;
+&lt;div&gt;Find, Filter, Preview, Pick. All lua, all the time.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:olimorris:codecompanion.nvim:1792800000</ns0:id>
+    <ns0:title>olimorris/codecompanion.nvim</ns0:title>
+    <ns0:link href="https://github.com/olimorris/codecompanion.nvim"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/olimorris/codecompanion.nvim"&gt;https://github.com/olimorris/codecompanion.nvim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;✨ AI Coding, Vim Style&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:opentibiabr:canary:1792800000</ns0:id>
+    <ns0:title>opentibiabr/canary</ns0:title>
+    <ns0:link href="https://github.com/opentibiabr/canary"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opentibiabr/canary"&gt;https://github.com/opentibiabr/canary&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Canary Server 15.25 for OpenTibia community.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:opentibiabr:otclient:1792800000</ns0:id>
+    <ns0:title>opentibiabr/otclient</ns0:title>
+    <ns0:link href="https://github.com/opentibiabr/otclient"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opentibiabr/otclient"&gt;https://github.com/opentibiabr/otclient&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An alternative tibia client for otserv written in C++20 and Lua, made with a modular system that uses lua scripts for ingame interface and functionality, making otclient flexible and easy to customize&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:overextended:ox_lib:1792800000</ns0:id>
+    <ns0:title>overextended/ox_lib</ns0:title>
+    <ns0:link href="https://github.com/overextended/ox_lib"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/overextended/ox_lib"&gt;https://github.com/overextended/ox_lib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A FiveM resource and script library for Lua and JS.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rittermod:FS25_RealisticLivestockRM:1792800000</ns0:id>
+    <ns0:title>rittermod/FS25_RealisticLivestockRM</ns0:title>
+    <ns0:link href="https://github.com/rittermod/FS25_RealisticLivestockRM"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rittermod/FS25_RealisticLivestockRM"&gt;https://github.com/rittermod/FS25_RealisticLivestockRM&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;FS25_RealisticLivestock - Ritter version&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

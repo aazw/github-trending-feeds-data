@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-24T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:NVIDIA:OpenShell:1792713600</ns0:id>
+    <ns0:id>urn:github:CapSoftware:Cap:1792800000</ns0:id>
+    <ns0:title>CapSoftware/Cap</ns0:title>
+    <ns0:link href="https://github.com/CapSoftware/Cap"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CapSoftware/Cap"&gt;https://github.com/CapSoftware/Cap&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open source Loom alternative. Beautiful, shareable screen recordings.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:NVIDIA:OpenShell:1792800000</ns0:id>
     <ns0:title>NVIDIA/OpenShell</ns0:title>
     <ns0:link href="https://github.com/NVIDIA/OpenShell"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA/OpenShell"&gt;https://github.com/NVIDIA/OpenShell&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -22,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ZSeven-W:openpencil:1792713600</ns0:id>
+    <ns0:id>urn:github:ZSeven-W:openpencil:1792800000</ns0:id>
     <ns0:title>ZSeven-W/openpencil</ns0:title>
     <ns0:link href="https://github.com/ZSeven-W/openpencil"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ZSeven-W/openpencil"&gt;https://github.com/ZSeven-W/openpencil&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -34,82 +46,58 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:agentgateway:agentgateway:1792713600</ns0:id>
-    <ns0:title>agentgateway/agentgateway</ns0:title>
-    <ns0:link href="https://github.com/agentgateway/agentgateway"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:aaif-goose:goose:1792800000</ns0:id>
+    <ns0:title>aaif-goose/goose</ns0:title>
+    <ns0:link href="https://github.com/aaif-goose/goose"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/agentgateway/agentgateway"&gt;https://github.com/agentgateway/agentgateway&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aaif-goose/goose"&gt;https://github.com/aaif-goose/goose&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Next Generation Agentic Proxy for AI Agents and MCP servers&lt;/div&gt;
+&lt;div&gt;an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ai-dynamo:dynamo:1792713600</ns0:id>
-    <ns0:title>ai-dynamo/dynamo</ns0:title>
-    <ns0:link href="https://github.com/ai-dynamo/dynamo"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:apache:iggy:1792800000</ns0:id>
+    <ns0:title>apache/iggy</ns0:title>
+    <ns0:link href="https://github.com/apache/iggy"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ai-dynamo/dynamo"&gt;https://github.com/ai-dynamo/dynamo&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/iggy"&gt;https://github.com/apache/iggy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A Datacenter Scale Distributed Inference Serving Framework&lt;/div&gt;
+&lt;div&gt;Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:akitaonrails:ai-memory:1792713600</ns0:id>
-    <ns0:title>akitaonrails/ai-memory</ns0:title>
-    <ns0:link href="https://github.com/akitaonrails/ai-memory"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:cjpais:Handy:1792800000</ns0:id>
+    <ns0:title>cjpais/Handy</ns0:title>
+    <ns0:link href="https://github.com/cjpais/Handy"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/akitaonrails/ai-memory"&gt;https://github.com/akitaonrails/ai-memory&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cjpais/Handy"&gt;https://github.com/cjpais/Handy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors&lt;/div&gt;
+&lt;div&gt;A free, open source, and extensible speech-to-text application that works completely offline.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:anomalyco:hex:1792713600</ns0:id>
-    <ns0:title>anomalyco/hex</ns0:title>
-    <ns0:link href="https://github.com/anomalyco/hex"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:herdrdev:herdr:1792800000</ns0:id>
+    <ns0:title>herdrdev/herdr</ns0:title>
+    <ns0:link href="https://github.com/herdrdev/herdr"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anomalyco/hex"&gt;https://github.com/anomalyco/hex&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/herdrdev/herdr"&gt;https://github.com/herdrdev/herdr&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Local-first voice dictation for macOS. Hold a shortcut, speak, and paste into any app. Native Rust, on-device speech recognition, and a Linux beta.&lt;/div&gt;
+&lt;div&gt;the runtime your coding agents live on&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:astral-sh:uv:1792713600</ns0:id>
-    <ns0:title>astral-sh/uv</ns0:title>
-    <ns0:link href="https://github.com/astral-sh/uv"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/astral-sh/uv"&gt;https://github.com/astral-sh/uv&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;An extremely fast Python package and project manager, written in Rust.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:harry0703:MangoDisk:1792713600</ns0:id>
-    <ns0:title>harry0703/MangoDisk</ns0:title>
-    <ns0:link href="https://github.com/harry0703/MangoDisk"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/harry0703/MangoDisk"&gt;https://github.com/harry0703/MangoDisk&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:macro-inc:macro:1792713600</ns0:id>
+    <ns0:id>urn:github:macro-inc:macro:1792800000</ns0:id>
     <ns0:title>macro-inc/macro</ns0:title>
     <ns0:link href="https://github.com/macro-inc/macro"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/macro-inc/macro"&gt;https://github.com/macro-inc/macro&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -118,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:max-sixty:worktrunk:1792713600</ns0:id>
+    <ns0:id>urn:github:max-sixty:worktrunk:1792800000</ns0:id>
     <ns0:title>max-sixty/worktrunk</ns0:title>
     <ns0:link href="https://github.com/max-sixty/worktrunk"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/max-sixty/worktrunk"&gt;https://github.com/max-sixty/worktrunk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -130,22 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openai:codex:1792713600</ns0:id>
-    <ns0:title>openai/codex</ns0:title>
-    <ns0:link href="https://github.com/openai/codex"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openai/codex"&gt;https://github.com/openai/codex&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Lightweight coding agent that runs in your terminal&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:pbakaus:impeccable:1792713600</ns0:id>
+    <ns0:id>urn:github:pbakaus:impeccable:1792800000</ns0:id>
     <ns0:title>pbakaus/impeccable</ns0:title>
     <ns0:link href="https://github.com/pbakaus/impeccable"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pbakaus/impeccable"&gt;https://github.com/pbakaus/impeccable&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -154,10 +130,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pollen-robotics:microduck:1792713600</ns0:id>
+    <ns0:id>urn:github:pollen-robotics:microduck:1792800000</ns0:id>
     <ns0:title>pollen-robotics/microduck</ns0:title>
     <ns0:link href="https://github.com/pollen-robotics/microduck"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pollen-robotics/microduck"&gt;https://github.com/pollen-robotics/microduck&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -166,10 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:redlib-org:redlib:1792713600</ns0:id>
+    <ns0:id>urn:github:redlib-org:redlib:1792800000</ns0:id>
     <ns0:title>redlib-org/redlib</ns0:title>
     <ns0:link href="https://github.com/redlib-org/redlib"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/redlib-org/redlib"&gt;https://github.com/redlib-org/redlib&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -178,27 +154,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:stalwartlabs:stalwart:1792713600</ns0:id>
-    <ns0:title>stalwartlabs/stalwart</ns0:title>
-    <ns0:link href="https://github.com/stalwartlabs/stalwart"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:vercel-labs:agent-browser:1792800000</ns0:id>
+    <ns0:title>vercel-labs/agent-browser</ns0:title>
+    <ns0:link href="https://github.com/vercel-labs/agent-browser"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/stalwartlabs/stalwart"&gt;https://github.com/stalwartlabs/stalwart&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vercel-labs/agent-browser"&gt;https://github.com/vercel-labs/agent-browser&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;All-in-one Mail &amp; Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).&lt;/div&gt;
+&lt;div&gt;Browser automation CLI for AI agents&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:tursodatabase:turso:1792713600</ns0:id>
-    <ns0:title>tursodatabase/turso</ns0:title>
-    <ns0:link href="https://github.com/tursodatabase/turso"/>
-    <ns0:updated>2026-10-23T00:00:00</ns0:updated>
+    <ns0:id>urn:github:xingkongliang:skills-manager:1792800000</ns0:id>
+    <ns0:title>xingkongliang/skills-manager</ns0:title>
+    <ns0:link href="https://github.com/xingkongliang/skills-manager"/>
+    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tursodatabase/turso"&gt;https://github.com/tursodatabase/turso&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xingkongliang/skills-manager"&gt;https://github.com/xingkongliang/skills-manager&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.&lt;/div&gt;
+&lt;div&gt;A lightweight desktop app to manage, sync, and organize AI agent skills across 50+ coding tools — Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
