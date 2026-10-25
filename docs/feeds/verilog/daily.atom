@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/verilog/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-25T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:EttusResearch:uhd:1792800000</ns0:id>
+    <ns0:id>urn:github:EttusResearch:uhd:1792886400</ns0:id>
     <ns0:title>EttusResearch/uhd</ns0:title>
     <ns0:link href="https://github.com/EttusResearch/uhd"/>
-    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/EttusResearch/uhd"&gt;https://github.com/EttusResearch/uhd&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
@@ -22,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:The-OpenROAD-Project:OpenROAD:1792800000</ns0:id>
+    <ns0:id>urn:github:The-OpenROAD-Project:OpenROAD:1792886400</ns0:id>
     <ns0:title>The-OpenROAD-Project/OpenROAD</ns0:title>
     <ns0:link href="https://github.com/The-OpenROAD-Project/OpenROAD"/>
-    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/The-OpenROAD-Project/OpenROAD"&gt;https://github.com/The-OpenROAD-Project/OpenROAD&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
@@ -34,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:The-OpenROAD-Project:OpenROAD-flow-scripts:1792800000</ns0:id>
+    <ns0:id>urn:github:The-OpenROAD-Project:OpenROAD-flow-scripts:1792886400</ns0:id>
     <ns0:title>The-OpenROAD-Project/OpenROAD-flow-scripts</ns0:title>
     <ns0:link href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts"/>
-    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts"&gt;https://github.com/The-OpenROAD-Project/OpenROAD-flow-scripts&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
@@ -46,15 +46,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openecos-projects:icsprout55-pdk:1792800000</ns0:id>
-    <ns0:title>openecos-projects/icsprout55-pdk</ns0:title>
-    <ns0:link href="https://github.com/openecos-projects/icsprout55-pdk"/>
-    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ufrisk:pcileech-fpga:1792886400</ns0:id>
+    <ns0:title>ufrisk/pcileech-fpga</ns0:title>
+    <ns0:link href="https://github.com/ufrisk/pcileech-fpga"/>
+    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openecos-projects/icsprout55-pdk"&gt;https://github.com/openecos-projects/icsprout55-pdk&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ufrisk/pcileech-fpga"&gt;https://github.com/ufrisk/pcileech-fpga&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; verilog&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;55nm CMOS Open Source PDK for Digital, Analog, and Mixed-Signal Circuit Design. It supports an open-source RTL2GDS workflow for education, research, and silicon prototyping.&lt;/div&gt;
+&lt;div&gt;FPGA modules used together with the PCILeech Direct Memory Access (DMA) Attack Software&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

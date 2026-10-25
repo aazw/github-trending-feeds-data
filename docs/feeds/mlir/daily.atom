@@ -5,27 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/mlir/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-25T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:openxla:stablehlo:1792800000</ns0:id>
-    <ns0:title>openxla/stablehlo</ns0:title>
-    <ns0:link href="https://github.com/openxla/stablehlo"/>
-    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:id>urn:github:intel:intel-xpu-backend-for-triton:1792886400</ns0:id>
+    <ns0:title>intel/intel-xpu-backend-for-triton</ns0:title>
+    <ns0:link href="https://github.com/intel/intel-xpu-backend-for-triton"/>
+    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openxla/stablehlo"&gt;https://github.com/openxla/stablehlo&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/intel/intel-xpu-backend-for-triton"&gt;https://github.com/intel/intel-xpu-backend-for-triton&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mlir&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Backward compatible ML compute opset inspired by HLO/MHLO&lt;/div&gt;
+&lt;div&gt;OpenAI Triton backend for Intel® GPUs&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:triton-lang:triton:1792800000</ns0:id>
+    <ns0:id>urn:github:triton-lang:triton:1792886400</ns0:id>
     <ns0:title>triton-lang/triton</ns0:title>
     <ns0:link href="https://github.com/triton-lang/triton"/>
-    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/triton-lang/triton"&gt;https://github.com/triton-lang/triton&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mlir&lt;/div&gt;
@@ -34,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:triton-lang:triton-ascend:1792800000</ns0:id>
+    <ns0:id>urn:github:triton-lang:triton-ascend:1792886400</ns0:id>
     <ns0:title>triton-lang/triton-ascend</ns0:title>
     <ns0:link href="https://github.com/triton-lang/triton-ascend"/>
-    <ns0:updated>2026-10-24T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/triton-lang/triton-ascend"&gt;https://github.com/triton-lang/triton-ascend&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mlir&lt;/div&gt;
