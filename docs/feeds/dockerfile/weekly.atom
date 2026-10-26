@@ -5,39 +5,87 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/dockerfile/weekly.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-26T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:TristanCage:CypherX:1792368000</ns0:id>
-    <ns0:title>TristanCage/CypherX</ns0:title>
-    <ns0:link href="https://github.com/TristanCage/CypherX"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:MicrosoftDocs:windows-powershell-docs:1792972800</ns0:id>
+    <ns0:title>MicrosoftDocs/windows-powershell-docs</ns0:title>
+    <ns0:link href="https://github.com/MicrosoftDocs/windows-powershell-docs"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TristanCage/CypherX"&gt;https://github.com/TristanCage/CypherX&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MicrosoftDocs/windows-powershell-docs"&gt;https://github.com/MicrosoftDocs/windows-powershell-docs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;CypherX Repository&lt;/div&gt;
+&lt;div&gt;This repo is used to contribute to Windows, Windows Server, and MDOP PowerShell module documentation.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:datawhalechina:vibe-vibe:1792368000</ns0:id>
-    <ns0:title>datawhalechina/vibe-vibe</ns0:title>
-    <ns0:link href="https://github.com/datawhalechina/vibe-vibe"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:autowarefoundation:autoware:1792972800</ns0:id>
+    <ns0:title>autowarefoundation/autoware</ns0:title>
+    <ns0:link href="https://github.com/autowarefoundation/autoware"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/datawhalechina/vibe-vibe"&gt;https://github.com/datawhalechina/vibe-vibe&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/autowarefoundation/autoware"&gt;https://github.com/autowarefoundation/autoware&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;AI for All: The First Systematic Vibe Coding Tutorial | From Zero to Full-Stack, Bring Your Ideas to Life | Live at: www.vibevibe.cn ；全民AI学习第一课，首个系统化 Vibe Coding 开源教程 | 零基础到全栈实战，让人人都能借助 AI 实现自己的想法与创意 | 在线地址：www.vibevibe.cn&lt;/div&gt;
+&lt;div&gt;Autoware - the world's leading open-source software project for autonomous driving&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:goldbergyoni:nodebestpractices:1792368000</ns0:id>
+    <ns0:id>urn:github:aws-amplify:amplify-hosting:1792972800</ns0:id>
+    <ns0:title>aws-amplify/amplify-hosting</ns0:title>
+    <ns0:link href="https://github.com/aws-amplify/amplify-hosting"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aws-amplify/amplify-hosting"&gt;https://github.com/aws-amplify/amplify-hosting&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;AWS Amplify Hosting provides a Git-based workflow for deploying and hosting fullstack serverless web applications.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:corretto:corretto-docker:1792972800</ns0:id>
+    <ns0:title>corretto/corretto-docker</ns0:title>
+    <ns0:link href="https://github.com/corretto/corretto-docker"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/corretto/corretto-docker"&gt;https://github.com/corretto/corretto-docker&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Dockerfiles for Amazon Corretto Official images.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:docker-library:php:1792972800</ns0:id>
+    <ns0:title>docker-library/php</ns0:title>
+    <ns0:link href="https://github.com/docker-library/php"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/docker-library/php"&gt;https://github.com/docker-library/php&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Docker Official Image packaging for PHP&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:freeCodeCamp:rdb-alpha:1792972800</ns0:id>
+    <ns0:title>freeCodeCamp/rdb-alpha</ns0:title>
+    <ns0:link href="https://github.com/freeCodeCamp/rdb-alpha"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/freeCodeCamp/rdb-alpha"&gt;https://github.com/freeCodeCamp/rdb-alpha&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:goldbergyoni:nodebestpractices:1792972800</ns0:id>
     <ns0:title>goldbergyoni/nodebestpractices</ns0:title>
     <ns0:link href="https://github.com/goldbergyoni/nodebestpractices"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/goldbergyoni/nodebestpractices"&gt;https://github.com/goldbergyoni/nodebestpractices&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -46,10 +94,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jaywcjlove:reference:1792368000</ns0:id>
+    <ns0:id>urn:github:iggredible:Learn-Vim:1792972800</ns0:id>
+    <ns0:title>iggredible/Learn-Vim</ns0:title>
+    <ns0:link href="https://github.com/iggredible/Learn-Vim"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/iggredible/Learn-Vim"&gt;https://github.com/iggredible/Learn-Vim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jaywcjlove:reference:1792972800</ns0:id>
     <ns0:title>jaywcjlove/reference</ns0:title>
     <ns0:link href="https://github.com/jaywcjlove/reference"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jaywcjlove/reference"&gt;https://github.com/jaywcjlove/reference&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -58,10 +118,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mikeroyal:Self-Hosting-Guide:1792368000</ns0:id>
+    <ns0:id>urn:github:laradock:laradock:1792972800</ns0:id>
+    <ns0:title>laradock/laradock</ns0:title>
+    <ns0:link href="https://github.com/laradock/laradock"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/laradock/laradock"&gt;https://github.com/laradock/laradock&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Full PHP development environment for Docker. Run Laravel, Symfony, CodeIgniter, Phalcon, WordPress, Drupal, Magento, Moodle, or any PHP project with 70+ pre-configured services: Nginx, Apache, PHP-FPM, MySQL, PostgreSQL, MongoDB, Redis, Elasticsearch &amp; more.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:mikeroyal:Self-Hosting-Guide:1792972800</ns0:id>
     <ns0:title>mikeroyal/Self-Hosting-Guide</ns0:title>
     <ns0:link href="https://github.com/mikeroyal/Self-Hosting-Guide"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mikeroyal/Self-Hosting-Guide"&gt;https://github.com/mikeroyal/Self-Hosting-Guide&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
@@ -70,27 +142,51 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:vulhub:vulhub:1792368000</ns0:id>
+    <ns0:id>urn:github:nodejs:docker-node:1792972800</ns0:id>
+    <ns0:title>nodejs/docker-node</ns0:title>
+    <ns0:link href="https://github.com/nodejs/docker-node"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nodejs/docker-node"&gt;https://github.com/nodejs/docker-node&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Official Docker Image for Node.js 🐳 🐢 🚀&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:oxsecurity:megalinter:1792972800</ns0:id>
+    <ns0:title>oxsecurity/megalinter</ns0:title>
+    <ns0:link href="https://github.com/oxsecurity/megalinter"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/oxsecurity/megalinter"&gt;https://github.com/oxsecurity/megalinter&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🦙 MegaLinter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:render-examples:mysql:1792972800</ns0:id>
+    <ns0:title>render-examples/mysql</ns0:title>
+    <ns0:link href="https://github.com/render-examples/mysql"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/render-examples/mysql"&gt;https://github.com/render-examples/mysql&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;MySQL 8.0 and 5.7 on Render&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:vulhub:vulhub:1792972800</ns0:id>
     <ns0:title>vulhub/vulhub</ns0:title>
     <ns0:link href="https://github.com/vulhub/vulhub"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vulhub/vulhub"&gt;https://github.com/vulhub/vulhub&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Pre-Built Vulnerable Environments Based on Docker-Compose&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:xhyphertech:Pretty-md:1792368000</ns0:id>
-    <ns0:title>xhyphertech/Pretty-md</ns0:title>
-    <ns0:link href="https://github.com/xhyphertech/Pretty-md"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xhyphertech/Pretty-md"&gt;https://github.com/xhyphertech/Pretty-md&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dockerfile&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;𝐏𝐑𝐄𝐓𝐓𝐘-𝐌𝐃 𝐎𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𝐑𝐄𝐏𝐎𝐒𝐈𝐓𝐎𝐑𝐘 𝐂𝐑𝐀𝐅𝐓𝐄𝐃 𝐁𝐘 𝐒𝐔𝐏𝐄𝐑𝐒𝐓𝐀𝐑&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

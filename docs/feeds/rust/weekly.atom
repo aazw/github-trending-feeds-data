@@ -5,27 +5,75 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/rust/weekly.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-26T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:HakanSeven12:OpenCADStudio:1792368000</ns0:id>
-    <ns0:title>HakanSeven12/OpenCADStudio</ns0:title>
-    <ns0:link href="https://github.com/HakanSeven12/OpenCADStudio"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Automattic:harper:1792972800</ns0:id>
+    <ns0:title>Automattic/harper</ns0:title>
+    <ns0:link href="https://github.com/Automattic/harper"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/HakanSeven12/OpenCADStudio"&gt;https://github.com/HakanSeven12/OpenCADStudio&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Automattic/harper"&gt;https://github.com/Automattic/harper&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering&lt;/div&gt;
+&lt;div&gt;Offline, privacy-first grammar checker. Fast, open-source, Rust-powered&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:akitaonrails:ai-memory:1792368000</ns0:id>
+    <ns0:id>urn:github:CapSoftware:Cap:1792972800</ns0:id>
+    <ns0:title>CapSoftware/Cap</ns0:title>
+    <ns0:link href="https://github.com/CapSoftware/Cap"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CapSoftware/Cap"&gt;https://github.com/CapSoftware/Cap&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open source Loom alternative. Beautiful, shareable screen recordings.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ModernRelay:omnigraph:1792972800</ns0:id>
+    <ns0:title>ModernRelay/omnigraph</ns0:title>
+    <ns0:link href="https://github.com/ModernRelay/omnigraph"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ModernRelay/omnigraph"&gt;https://github.com/ModernRelay/omnigraph&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Object-storage native graph database with branching and typed ontology&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:NVIDIA:OpenShell:1792972800</ns0:id>
+    <ns0:title>NVIDIA/OpenShell</ns0:title>
+    <ns0:link href="https://github.com/NVIDIA/OpenShell"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA/OpenShell"&gt;https://github.com/NVIDIA/OpenShell&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;OpenShell is the safe, private runtime for autonomous AI agents.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ZSeven-W:openpencil:1792972800</ns0:id>
+    <ns0:title>ZSeven-W/openpencil</ns0:title>
+    <ns0:link href="https://github.com/ZSeven-W/openpencil"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ZSeven-W/openpencil"&gt;https://github.com/ZSeven-W/openpencil&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:akitaonrails:ai-memory:1792972800</ns0:id>
     <ns0:title>akitaonrails/ai-memory</ns0:title>
     <ns0:link href="https://github.com/akitaonrails/ai-memory"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/akitaonrails/ai-memory"&gt;https://github.com/akitaonrails/ai-memory&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -34,39 +82,135 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:storytold:artcraft:1792368000</ns0:id>
-    <ns0:title>storytold/artcraft</ns0:title>
-    <ns0:link href="https://github.com/storytold/artcraft"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:claration:impactor:1792972800</ns0:id>
+    <ns0:title>claration/impactor</ns0:title>
+    <ns0:link href="https://github.com/claration/impactor"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/storytold/artcraft"&gt;https://github.com/storytold/artcraft&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/claration/impactor"&gt;https://github.com/claration/impactor&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;ArtCraft is an intentional crafting engine for artists, designers, and filmmakers&lt;/div&gt;
+&lt;div&gt;Cross-platform &amp; feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:trymirai:uzu:1792368000</ns0:id>
-    <ns0:title>trymirai/uzu</ns0:title>
-    <ns0:link href="https://github.com/trymirai/uzu"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:harry0703:MangoDisk:1792972800</ns0:id>
+    <ns0:title>harry0703/MangoDisk</ns0:title>
+    <ns0:link href="https://github.com/harry0703/MangoDisk"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/trymirai/uzu"&gt;https://github.com/trymirai/uzu&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/harry0703/MangoDisk"&gt;https://github.com/harry0703/MangoDisk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A high-performance inference engine for AI models&lt;/div&gt;
+&lt;div&gt;Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:xerj-org:xerj:1792368000</ns0:id>
+    <ns0:id>urn:github:jub0t:Concat:1792972800</ns0:id>
+    <ns0:title>jub0t/Concat</ns0:title>
+    <ns0:link href="https://github.com/jub0t/Concat"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jub0t/Concat"&gt;https://github.com/jub0t/Concat&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The truly free, open-source, local-first, cross-platform CapCut replacement. Scriptable through a JSON-RPC API &amp; MCP.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:macro-inc:macro:1792972800</ns0:id>
+    <ns0:title>macro-inc/macro</ns0:title>
+    <ns0:link href="https://github.com/macro-inc/macro"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/macro-inc/macro"&gt;https://github.com/macro-inc/macro&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nautechsystems:nautilus_trader:1792972800</ns0:id>
+    <ns0:title>nautechsystems/nautilus_trader</ns0:title>
+    <ns0:link href="https://github.com/nautechsystems/nautilus_trader"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nautechsystems/nautilus_trader"&gt;https://github.com/nautechsystems/nautilus_trader&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Production-grade Rust-native trading engine with deterministic event-driven architecture&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:oven-sh:bun:1792972800</ns0:id>
+    <ns0:title>oven-sh/bun</ns0:title>
+    <ns0:link href="https://github.com/oven-sh/bun"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/oven-sh/bun"&gt;https://github.com/oven-sh/bun&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:oxc-project:oxc:1792972800</ns0:id>
+    <ns0:title>oxc-project/oxc</ns0:title>
+    <ns0:link href="https://github.com/oxc-project/oxc"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/oxc-project/oxc"&gt;https://github.com/oxc-project/oxc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;⚓ A collection of high-performance JavaScript tools.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:pbakaus:impeccable:1792972800</ns0:id>
+    <ns0:title>pbakaus/impeccable</ns0:title>
+    <ns0:link href="https://github.com/pbakaus/impeccable"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pbakaus/impeccable"&gt;https://github.com/pbakaus/impeccable&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The design language that makes your AI harness better at design.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:pollen-robotics:microduck:1792972800</ns0:id>
+    <ns0:title>pollen-robotics/microduck</ns0:title>
+    <ns0:link href="https://github.com/pollen-robotics/microduck"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pollen-robotics/microduck"&gt;https://github.com/pollen-robotics/microduck&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A Tiny biped duck robot 🦆&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:redlib-org:redlib:1792972800</ns0:id>
+    <ns0:title>redlib-org/redlib</ns0:title>
+    <ns0:link href="https://github.com/redlib-org/redlib"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/redlib-org/redlib"&gt;https://github.com/redlib-org/redlib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Private front-end for Reddit&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:xerj-org:xerj:1792972800</ns0:id>
     <ns0:title>xerj-org/xerj</ns0:title>
     <ns0:link href="https://github.com/xerj-org/xerj"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xerj-org/xerj"&gt;https://github.com/xerj-org/xerj&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.&lt;/div&gt;
+&lt;div&gt;Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

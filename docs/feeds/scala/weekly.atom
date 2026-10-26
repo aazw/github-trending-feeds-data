@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/scala/weekly.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-26T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:OpenXiangShan:XiangShan:1792368000</ns0:id>
+    <ns0:id>urn:github:MightyPirates:OpenComputers:1792972800</ns0:id>
+    <ns0:title>MightyPirates/OpenComputers</ns0:title>
+    <ns0:link href="https://github.com/MightyPirates/OpenComputers"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MightyPirates/OpenComputers"&gt;https://github.com/MightyPirates/OpenComputers&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Home of the OpenComputers mod for Minecraft.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:OpenXiangShan:XiangShan:1792972800</ns0:id>
     <ns0:title>OpenXiangShan/XiangShan</ns0:title>
     <ns0:link href="https://github.com/OpenXiangShan/XiangShan"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenXiangShan/XiangShan"&gt;https://github.com/OpenXiangShan/XiangShan&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -22,10 +34,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:datafusion-comet:1792368000</ns0:id>
+    <ns0:id>urn:github:TheHive-Project:TheHive:1792972800</ns0:id>
+    <ns0:title>TheHive-Project/TheHive</ns0:title>
+    <ns0:link href="https://github.com/TheHive-Project/TheHive"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TheHive-Project/TheHive"&gt;https://github.com/TheHive-Project/TheHive&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;TheHive is a Cybersecurity Incident Response Management (CIRM) platform, now distributed commercially. Learn more on the official website:&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:apache:carbondata:1792972800</ns0:id>
+    <ns0:title>apache/carbondata</ns0:title>
+    <ns0:link href="https://github.com/apache/carbondata"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/carbondata"&gt;https://github.com/apache/carbondata&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;High performance data store solution&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:apache:datafusion-comet:1792972800</ns0:id>
     <ns0:title>apache/datafusion-comet</ns0:title>
     <ns0:link href="https://github.com/apache/datafusion-comet"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/datafusion-comet"&gt;https://github.com/apache/datafusion-comet&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -34,10 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:predictionio:1792368000</ns0:id>
+    <ns0:id>urn:github:apache:predictionio:1792972800</ns0:id>
     <ns0:title>apache/predictionio</ns0:title>
     <ns0:link href="https://github.com/apache/predictionio"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/predictionio"&gt;https://github.com/apache/predictionio&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -46,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:spark:1792368000</ns0:id>
+    <ns0:id>urn:github:apache:spark:1792972800</ns0:id>
     <ns0:title>apache/spark</ns0:title>
     <ns0:link href="https://github.com/apache/spark"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/spark"&gt;https://github.com/apache/spark&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -58,22 +94,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:delta-io:delta:1792368000</ns0:id>
-    <ns0:title>delta-io/delta</ns0:title>
-    <ns0:link href="https://github.com/delta-io/delta"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:gatling:gatling:1792972800</ns0:id>
+    <ns0:title>gatling/gatling</ns0:title>
+    <ns0:link href="https://github.com/gatling/gatling"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/delta-io/delta"&gt;https://github.com/delta-io/delta&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gatling/gatling"&gt;https://github.com/gatling/gatling&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs&lt;/div&gt;
+&lt;div&gt;Modern Load Testing as Code&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:joernio:joern:1792368000</ns0:id>
+    <ns0:id>urn:github:gitbucket:gitbucket:1792972800</ns0:id>
+    <ns0:title>gitbucket/gitbucket</ns0:title>
+    <ns0:link href="https://github.com/gitbucket/gitbucket"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gitbucket/gitbucket"&gt;https://github.com/gitbucket/gitbucket&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A Git platform powered by Scala with easy installation, high extensibility &amp; GitHub API compatibility&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:http4s:http4s:1792972800</ns0:id>
+    <ns0:title>http4s/http4s</ns0:title>
+    <ns0:link href="https://github.com/http4s/http4s"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/http4s/http4s"&gt;https://github.com/http4s/http4s&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A minimal, idiomatic Scala interface for HTTP&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:joernio:joern:1792972800</ns0:id>
     <ns0:title>joernio/joern</ns0:title>
     <ns0:link href="https://github.com/joernio/joern"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/joernio/joern"&gt;https://github.com/joernio/joern&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -82,10 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:lichess-org:lila:1792368000</ns0:id>
+    <ns0:id>urn:github:lichess-org:lila:1792972800</ns0:id>
     <ns0:title>lichess-org/lila</ns0:title>
     <ns0:link href="https://github.com/lichess-org/lila"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lichess-org/lila"&gt;https://github.com/lichess-org/lila&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -94,27 +154,63 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sbt:sbt:1792368000</ns0:id>
-    <ns0:title>sbt/sbt</ns0:title>
-    <ns0:link href="https://github.com/sbt/sbt"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:id>urn:github:scala:scala:1792972800</ns0:id>
+    <ns0:title>scala/scala</ns0:title>
+    <ns0:link href="https://github.com/scala/scala"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sbt/sbt"&gt;https://github.com/sbt/sbt&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scala/scala"&gt;https://github.com/scala/scala&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;sbt, the interactive build tool&lt;/div&gt;
+&lt;div&gt;Scala 2 compiler and standard library. Scala 2 bugs at https://github.com/scala/bug; Scala 3 at https://github.com/scala/scala3&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:scalapb:ScalaPB:1792368000</ns0:id>
+    <ns0:id>urn:github:scalapb:ScalaPB:1792972800</ns0:id>
     <ns0:title>scalapb/ScalaPB</ns0:title>
     <ns0:link href="https://github.com/scalapb/ScalaPB"/>
-    <ns0:updated>2026-10-19T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scalapb/ScalaPB"&gt;https://github.com/scalapb/ScalaPB&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Protocol buffer compiler for Scala.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:snowplow:snowplow:1792972800</ns0:id>
+    <ns0:title>snowplow/snowplow</ns0:title>
+    <ns0:link href="https://github.com/snowplow/snowplow"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/snowplow/snowplow"&gt;https://github.com/snowplow/snowplow&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The leader in Customer Data Infrastructure&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:twitter:the-algorithm:1792972800</ns0:id>
+    <ns0:title>twitter/the-algorithm</ns0:title>
+    <ns0:link href="https://github.com/twitter/the-algorithm"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/twitter/the-algorithm"&gt;https://github.com/twitter/the-algorithm&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Source code for the X Recommendation Algorithm&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:zio:zio:1792972800</ns0:id>
+    <ns0:title>zio/zio</ns0:title>
+    <ns0:link href="https://github.com/zio/zio"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zio/zio"&gt;https://github.com/zio/zio&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ZIO — A type-safe, composable library for async and concurrent programming in Scala&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

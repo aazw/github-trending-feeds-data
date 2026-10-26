@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/julia/weekly.atom</ns0:id>
+  <ns0:title>GitHub Trending - julia (weekly)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/julia/weekly.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:JuliaLang:julia:1792972800</ns0:id>
+    <ns0:title>JuliaLang/julia</ns0:title>
+    <ns0:link href="https://github.com/JuliaLang/julia"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliaLang/julia"&gt;https://github.com/JuliaLang/julia&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Julia Programming Language&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:JuliaPlots:Plots.jl:1792972800</ns0:id>
+    <ns0:title>JuliaPlots/Plots.jl</ns0:title>
+    <ns0:link href="https://github.com/JuliaPlots/Plots.jl"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliaPlots/Plots.jl"&gt;https://github.com/JuliaPlots/Plots.jl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Powerful convenience for Julia visualizations and data analysis&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:MakieOrg:Makie.jl:1792972800</ns0:id>
+    <ns0:title>MakieOrg/Makie.jl</ns0:title>
+    <ns0:link href="https://github.com/MakieOrg/Makie.jl"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MakieOrg/Makie.jl"&gt;https://github.com/MakieOrg/Makie.jl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Interactive data visualizations and plotting in Julia&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:timholy:Revise.jl:1792972800</ns0:id>
+    <ns0:title>timholy/Revise.jl</ns0:title>
+    <ns0:link href="https://github.com/timholy/Revise.jl"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/timholy/Revise.jl"&gt;https://github.com/timholy/Revise.jl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Automatically update function definitions in a running Julia session&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
