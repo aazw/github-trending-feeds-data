@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - perl (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:AlDanial:cloc:1792972800</ns0:id>
+    <ns0:title>AlDanial/cloc</ns0:title>
+    <ns0:link href="https://github.com/AlDanial/cloc"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AlDanial/cloc"&gt;https://github.com/AlDanial/cloc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:LMS-Community:slimserver:1792972800</ns0:id>
+    <ns0:title>LMS-Community/slimserver</ns0:title>
+    <ns0:link href="https://github.com/LMS-Community/slimserver"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LMS-Community/slimserver"&gt;https://github.com/LMS-Community/slimserver&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Server for Squeezebox and compatible players. This server is also called Lyrion Music Server.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:brendangregg:FlameGraph:1792972800</ns0:id>
+    <ns0:title>brendangregg/FlameGraph</ns0:title>
+    <ns0:link href="https://github.com/brendangregg/FlameGraph"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/brendangregg/FlameGraph"&gt;https://github.com/brendangregg/FlameGraph&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Stack trace visualizer&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:holzschu:a-shell:1792972800</ns0:id>
+    <ns0:title>holzschu/a-shell</ns0:title>
+    <ns0:link href="https://github.com/holzschu/a-shell"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/holzschu/a-shell"&gt;https://github.com/holzschu/a-shell&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A terminal for iOS, with multiple windows&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:yaml:yaml-test-suite:1792972800</ns0:id>
+    <ns0:title>yaml/yaml-test-suite</ns0:title>
+    <ns0:link href="https://github.com/yaml/yaml-test-suite"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/yaml/yaml-test-suite"&gt;https://github.com/yaml/yaml-test-suite&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Comprehensive, language independent Test Suite for YAML&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

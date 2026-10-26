@@ -5,27 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/powershell/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-26T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Azure:azure-sdk:1792886400</ns0:id>
-    <ns0:title>Azure/azure-sdk</ns0:title>
-    <ns0:link href="https://github.com/Azure/azure-sdk"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Azure/azure-sdk"&gt;https://github.com/Azure/azure-sdk&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;This is the Azure SDK parent repository and mostly contains documentation around guidelines and policies as well as the releases for the various languages supported by the Azure SDK.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:ChrisTitusTech:winutil:1792886400</ns0:id>
+    <ns0:id>urn:github:ChrisTitusTech:winutil:1792972800</ns0:id>
     <ns0:title>ChrisTitusTech/winutil</ns0:title>
     <ns0:link href="https://github.com/ChrisTitusTech/winutil"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ChrisTitusTech/winutil"&gt;https://github.com/ChrisTitusTech/winutil&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -34,22 +22,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Raphire:Win11Debloat:1792886400</ns0:id>
-    <ns0:title>Raphire/Win11Debloat</ns0:title>
-    <ns0:link href="https://github.com/Raphire/Win11Debloat"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Euro-Office:DesktopEditors:1792972800</ns0:id>
+    <ns0:title>Euro-Office/DesktopEditors</ns0:title>
+    <ns0:link href="https://github.com/Euro-Office/DesktopEditors"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Raphire/Win11Debloat"&gt;https://github.com/Raphire/Win11Debloat&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Euro-Office/DesktopEditors"&gt;https://github.com/Euro-Office/DesktopEditors&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ScoopInstaller:Extras:1792886400</ns0:id>
+    <ns0:id>urn:github:OrcaSlicer:OrcaSlicer_WIKI:1792972800</ns0:id>
+    <ns0:title>OrcaSlicer/OrcaSlicer_WIKI</ns0:title>
+    <ns0:link href="https://github.com/OrcaSlicer/OrcaSlicer_WIKI"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OrcaSlicer/OrcaSlicer_WIKI"&gt;https://github.com/OrcaSlicer/OrcaSlicer_WIKI&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The official wiki repository for OrcaSlicer&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ScoopInstaller:Extras:1792972800</ns0:id>
     <ns0:title>ScoopInstaller/Extras</ns0:title>
     <ns0:link href="https://github.com/ScoopInstaller/Extras"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ScoopInstaller/Extras"&gt;https://github.com/ScoopInstaller/Extras&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -58,22 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ScoopInstaller:Main:1792886400</ns0:id>
-    <ns0:title>ScoopInstaller/Main</ns0:title>
-    <ns0:link href="https://github.com/ScoopInstaller/Main"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ScoopInstaller/Main"&gt;https://github.com/ScoopInstaller/Main&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;📦 The default bucket for Scoop.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:ScoopInstaller:Scoop:1792886400</ns0:id>
+    <ns0:id>urn:github:ScoopInstaller:Scoop:1792972800</ns0:id>
     <ns0:title>ScoopInstaller/Scoop</ns0:title>
     <ns0:link href="https://github.com/ScoopInstaller/Scoop"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ScoopInstaller/Scoop"&gt;https://github.com/ScoopInstaller/Scoop&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -82,39 +70,39 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:comol:ai_rules_1c:1792886400</ns0:id>
-    <ns0:title>comol/ai_rules_1c</ns0:title>
-    <ns0:link href="https://github.com/comol/ai_rules_1c"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+    <ns0:id>urn:github:javaht:claude-desktop-zh-cn:1792972800</ns0:id>
+    <ns0:title>javaht/claude-desktop-zh-cn</ns0:title>
+    <ns0:link href="https://github.com/javaht/claude-desktop-zh-cn"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/comol/ai_rules_1c"&gt;https://github.com/comol/ai_rules_1c&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/javaht/claude-desktop-zh-cn"&gt;https://github.com/javaht/claude-desktop-zh-cn&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Rules\skills\subagens for vibecoding in 1C(bsl)&lt;/div&gt;
+&lt;div&gt;Claude Desktop Chinese Patch (macOS &amp; Windows &amp; Linux)&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dotnet:core:1792886400</ns0:id>
-    <ns0:title>dotnet/core</ns0:title>
-    <ns0:link href="https://github.com/dotnet/core"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+    <ns0:id>urn:github:microsoft:hve-core:1792972800</ns0:id>
+    <ns0:title>microsoft/hve-core</ns0:title>
+    <ns0:link href="https://github.com/microsoft/hve-core"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dotnet/core"&gt;https://github.com/dotnet/core&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/hve-core"&gt;https://github.com/microsoft/hve-core&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;.NET news, announcements, release notes, and more!&lt;/div&gt;
+&lt;div&gt;A refined collection of Hypervelocity Engineering components (instructions, prompts, agents, and skills) to start your project off right, or upgrade your existing projects to get the most out of GitHub Copilot&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:zoicware:RemoveWindowsAI:1792886400</ns0:id>
-    <ns0:title>zoicware/RemoveWindowsAI</ns0:title>
-    <ns0:link href="https://github.com/zoicware/RemoveWindowsAI"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+    <ns0:id>urn:github:zhaoxuya520:reverse-skill:1792972800</ns0:id>
+    <ns0:title>zhaoxuya520/reverse-skill</ns0:title>
+    <ns0:link href="https://github.com/zhaoxuya520/reverse-skill"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zoicware/RemoveWindowsAI"&gt;https://github.com/zoicware/RemoveWindowsAI&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zhaoxuya520/reverse-skill"&gt;https://github.com/zhaoxuya520/reverse-skill&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Force Remove Copilot, Recall and More in Windows 11&lt;/div&gt;
+&lt;div&gt;Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

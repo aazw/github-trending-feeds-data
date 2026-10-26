@@ -5,15 +5,39 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/systemverilog/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-26T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:chipsalliance:caliptra-ss:1792886400</ns0:id>
+    <ns0:id>urn:github:adam-maj:tiny-gpu:1792972800</ns0:id>
+    <ns0:title>adam-maj/tiny-gpu</ns0:title>
+    <ns0:link href="https://github.com/adam-maj/tiny-gpu"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/adam-maj/tiny-gpu"&gt;https://github.com/adam-maj/tiny-gpu&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; systemverilog&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A minimal GPU design in Verilog to learn how GPUs work from the ground up&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:chipsalliance:caliptra-rtl:1792972800</ns0:id>
+    <ns0:title>chipsalliance/caliptra-rtl</ns0:title>
+    <ns0:link href="https://github.com/chipsalliance/caliptra-rtl"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chipsalliance/caliptra-rtl"&gt;https://github.com/chipsalliance/caliptra-rtl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; systemverilog&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;HW Design Collateral for Caliptra RoT IP&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:chipsalliance:caliptra-ss:1792972800</ns0:id>
     <ns0:title>chipsalliance/caliptra-ss</ns0:title>
     <ns0:link href="https://github.com/chipsalliance/caliptra-ss"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chipsalliance/caliptra-ss"&gt;https://github.com/chipsalliance/caliptra-ss&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; systemverilog&lt;/div&gt;
@@ -22,34 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:lowRISC:ibex:1792886400</ns0:id>
-    <ns0:title>lowRISC/ibex</ns0:title>
-    <ns0:link href="https://github.com/lowRISC/ibex"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lowRISC/ibex"&gt;https://github.com/lowRISC/ibex&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; systemverilog&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Ibex is a small 32-bit RISC-V CPU core with high-level of verification (previously known as zero-riscy)&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:lowRISC:opentitan:1792886400</ns0:id>
-    <ns0:title>lowRISC/opentitan</ns0:title>
-    <ns0:link href="https://github.com/lowRISC/opentitan"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lowRISC/opentitan"&gt;https://github.com/lowRISC/opentitan&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; systemverilog&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;OpenTitan: Open source silicon root of trust&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:verilator:verilator:1792886400</ns0:id>
+    <ns0:id>urn:github:verilator:verilator:1792972800</ns0:id>
     <ns0:title>verilator/verilator</ns0:title>
     <ns0:link href="https://github.com/verilator/verilator"/>
-    <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/verilator/verilator"&gt;https://github.com/verilator/verilator&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; systemverilog&lt;/div&gt;

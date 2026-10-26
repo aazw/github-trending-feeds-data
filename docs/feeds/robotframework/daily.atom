@@ -5,8 +5,20 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/robotframework/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-25T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-26T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:renode:renode:1792972800</ns0:id>
+    <ns0:title>renode/renode</ns0:title>
+    <ns0:link href="https://github.com/renode/renode"/>
+    <ns0:updated>2026-10-26T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/renode/renode"&gt;https://github.com/renode/renode&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; robotframework&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Renode - Antmicro's open source simulation and virtual development framework for complex embedded systems&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
 </ns0:feed>
