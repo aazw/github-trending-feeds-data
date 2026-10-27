@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - nix (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:NixOS:nixpkgs:1793059200</ns0:id>
+    <ns0:title>NixOS/nixpkgs</ns0:title>
+    <ns0:link href="https://github.com/NixOS/nixpkgs"/>
+    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nixpkgs"&gt;https://github.com/NixOS/nixpkgs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Nix Packages collection &amp; NixOS&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nix-community:NixOS-WSL:1793059200</ns0:id>
+    <ns0:title>nix-community/NixOS-WSL</ns0:title>
+    <ns0:link href="https://github.com/nix-community/NixOS-WSL"/>
+    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/NixOS-WSL"&gt;https://github.com/nix-community/NixOS-WSL&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;NixOS on WSL [maintainer=@nzbr]&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nix-community:disko:1793059200</ns0:id>
+    <ns0:title>nix-community/disko</ns0:title>
+    <ns0:link href="https://github.com/nix-community/disko"/>
+    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/disko"&gt;https://github.com/nix-community/disko&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:numtide:llm-agents.nix:1793059200</ns0:id>
+    <ns0:title>numtide/llm-agents.nix</ns0:title>
+    <ns0:link href="https://github.com/numtide/llm-agents.nix"/>
+    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/numtide/llm-agents.nix"&gt;https://github.com/numtide/llm-agents.nix&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Nix packages for AI coding agents and development tools. Automatically updated daily.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:youwen5:zen-browser-flake:1793059200</ns0:id>
+    <ns0:title>youwen5/zen-browser-flake</ns0:title>
+    <ns0:link href="https://github.com/youwen5/zen-browser-flake"/>
+    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/youwen5/zen-browser-flake"&gt;https://github.com/youwen5/zen-browser-flake&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Nix Flake for the Zen Browser, with automatic updates&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
