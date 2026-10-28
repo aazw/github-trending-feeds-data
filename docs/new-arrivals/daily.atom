@@ -5,140 +5,200 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/new-arrivals/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-27T20:19:39+00:00</ns0:updated>
+  <ns0:updated>2026-10-28T20:36:09+00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:QCYTSN:dsh-dafeiyu:1793059200</ns0:id>
-    <ns0:title>[javascript] QCYTSN/dsh-dafeiyu</ns0:title>
-    <ns0:link href="https://github.com/QCYTSN/dsh-dafeiyu"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:scaledteam:obs-image-reaction:1793145600</ns0:id>
+    <ns0:title>[cmake] scaledteam/obs-image-reaction</ns0:title>
+    <ns0:link href="https://github.com/scaledteam/obs-image-reaction"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/QCYTSN/dsh-dafeiyu"&gt;https://github.com/QCYTSN/dsh-dafeiyu&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; javascript&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scaledteam/obs-image-reaction"&gt;https://github.com/scaledteam/obs-image-reaction&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cmake&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Desktop-native BigFish companion for DeepSeek Harness — real Agent status, always on top on Windows.&lt;/div&gt;
+&lt;div&gt;OBS Plugin with image that reacts to sound source.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:hanliang97:MatrixMedia:1793059200</ns0:id>
-    <ns0:title>[javascript] hanliang97/MatrixMedia</ns0:title>
-    <ns0:link href="https://github.com/hanliang97/MatrixMedia"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ParadevAI:Paradev:1793145600</ns0:id>
+    <ns0:title>[typescript] ParadevAI/Paradev</ns0:title>
+    <ns0:link href="https://github.com/ParadevAI/Paradev"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hanliang97/MatrixMedia"&gt;https://github.com/hanliang97/MatrixMedia&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; javascript&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ParadevAI/Paradev"&gt;https://github.com/ParadevAI/Paradev&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;视频矩阵工具 vue electorn puppeteer 批量发布 视频到各个视频平台 自媒体 矩阵 抖音 小红书 头条 视频号 快手等 ai 自动化 cli&lt;/div&gt;
+&lt;div&gt;Paradev (formerly Superset) is an agentic IDE to orchestrate 100+ coding agents in parallel. Run any agent with your own subscription.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ethereum:EthLib:1793059200</ns0:id>
-    <ns0:title>[lean] ethereum/EthLib</ns0:title>
-    <ns0:link href="https://github.com/ethereum/EthLib"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:carloslfu:slotstream:1793145600</ns0:id>
+    <ns0:title>[swift] carloslfu/slotstream</ns0:title>
+    <ns0:link href="https://github.com/carloslfu/slotstream"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ethereum/EthLib"&gt;https://github.com/ethereum/EthLib&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/carloslfu/slotstream"&gt;https://github.com/carloslfu/slotstream&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Formally verified Ethereum primitives, written in Lean.&lt;/div&gt;
+&lt;div&gt;Run a 105 GB AI model on a Mac that can't hold it. Qwen3.8-Flash-Next 4-bit, streamed from SSD on 16–64 GB Apple Silicon Macs. Fully native Swift, MLX and Metal. Offline, no Python. CLI, Swift library, and Ollama/OpenAI/Anthropic APIs. Works with Claude Code and Codex.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:helloianneo:ian-xiaohei-illustrations:1793059200</ns0:id>
-    <ns0:title>[unknown] helloianneo/ian-xiaohei-illustrations</ns0:title>
-    <ns0:link href="https://github.com/helloianneo/ian-xiaohei-illustrations"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:cmagnussen:blitztext-app:1793145600</ns0:id>
+    <ns0:title>[swift] cmagnussen/blitztext-app</ns0:title>
+    <ns0:link href="https://github.com/cmagnussen/blitztext-app"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/helloianneo/ian-xiaohei-illustrations"&gt;https://github.com/helloianneo/ian-xiaohei-illustrations&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cmagnussen/blitztext-app"&gt;https://github.com/cmagnussen/blitztext-app&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Local-first dictation for macOS. Speak, text, done. Parakeet or Whisper on your Mac, writing modes with Apple Intelligence. Free, MIT.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:milika:SmartTubeIOS:1793145600</ns0:id>
+    <ns0:title>[swift] milika/SmartTubeIOS</ns0:title>
+    <ns0:link href="https://github.com/milika/SmartTubeIOS"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/milika/SmartTubeIOS"&gt;https://github.com/milika/SmartTubeIOS&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Native Swift/SwiftUI YouTube client for iPhone, iPad, Apple TV &amp; Mac — ad-free, SponsorBlock, DeArrow, Google sign-in, up to 8K. Open source.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:meta:infer:1793145600</ns0:id>
+    <ns0:title>[ocaml] meta/infer</ns0:title>
+    <ns0:link href="https://github.com/meta/infer"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/meta/infer"&gt;https://github.com/meta/infer&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A static analyzer for Java, C, C++, and Objective-C&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:TheMythologist:GenP:1793145600</ns0:id>
+    <ns0:title>[autoit] TheMythologist/GenP</ns0:title>
+    <ns0:link href="https://github.com/TheMythologist/GenP"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TheMythologist/GenP"&gt;https://github.com/TheMythologist/GenP&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; autoit&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Automatically builds GenP executables from source&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:elayadesign:ai-design-skills:1793145600</ns0:id>
+    <ns0:title>[unknown] elayadesign/ai-design-skills</ns0:title>
+    <ns0:link href="https://github.com/elayadesign/ai-design-skills"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elayadesign/ai-design-skills"&gt;https://github.com/elayadesign/ai-design-skills&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; unknown&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:HierarchThurs:DYKiller:1793059200</ns0:id>
-    <ns0:title>[logos] HierarchThurs/DYKiller</ns0:title>
-    <ns0:link href="https://github.com/HierarchThurs/DYKiller"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/HierarchThurs/DYKiller"&gt;https://github.com/HierarchThurs/DYKiller&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; logos&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:HKUDS:AutoSwarm:1793059200</ns0:id>
-    <ns0:title>[python] HKUDS/AutoSwarm</ns0:title>
-    <ns0:link href="https://github.com/HKUDS/AutoSwarm"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:cbrock84:headcount:1793145600</ns0:id>
+    <ns0:title>[markdown] cbrock84/headcount</ns0:title>
+    <ns0:link href="https://github.com/cbrock84/headcount"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/HKUDS/AutoSwarm"&gt;https://github.com/HKUDS/AutoSwarm&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cbrock84/headcount"&gt;https://github.com/cbrock84/headcount&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; markdown&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An agent organization structured as a company — 15+ departments, 125+ skills, each independently installable, citing the standards and regulators that settle the question. Runs in Claude Code and ChatGPT.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:beenuar:AiSOC:1793145600</ns0:id>
+    <ns0:title>[python] beenuar/AiSOC</ns0:title>
+    <ns0:link href="https://github.com/beenuar/AiSOC"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/beenuar/AiSOC"&gt;https://github.com/beenuar/AiSOC&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more)&lt;/div&gt;
+&lt;div&gt;Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:NVIDIA:auto-ontology:1793059200</ns0:id>
-    <ns0:title>[python] NVIDIA/auto-ontology</ns0:title>
-    <ns0:link href="https://github.com/NVIDIA/auto-ontology"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:shitagaki-lab:see-through:1793145600</ns0:id>
+    <ns0:title>[python] shitagaki-lab/see-through</ns0:title>
+    <ns0:link href="https://github.com/shitagaki-lab/see-through"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA/auto-ontology"&gt;https://github.com/NVIDIA/auto-ontology&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/shitagaki-lab/see-through"&gt;https://github.com/shitagaki-lab/see-through&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.&lt;/div&gt;
+&lt;div&gt;"Single-image Layer Decomposition for Anime Characters" (SIGGRAPH 2026 Conference Paper)&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ShayanAbbas1:dbdelve:1793059200</ns0:id>
-    <ns0:title>[rust] ShayanAbbas1/dbdelve</ns0:title>
-    <ns0:link href="https://github.com/ShayanAbbas1/dbdelve"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:lionsoul2014:ip2region:1793145600</ns0:id>
+    <ns0:title>[go] lionsoul2014/ip2region</ns0:title>
+    <ns0:link href="https://github.com/lionsoul2014/ip2region"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ShayanAbbas1/dbdelve"&gt;https://github.com/ShayanAbbas1/dbdelve&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lionsoul2014/ip2region"&gt;https://github.com/lionsoul2014/ip2region&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Fast and lightweight DB Client made in Rust and GPUI.&lt;/div&gt;
+&lt;div&gt;Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Raktim94:nodedr-restaurant-pos:1793059200</ns0:id>
-    <ns0:title>[typescript] Raktim94/nodedr-restaurant-pos</ns0:title>
-    <ns0:link href="https://github.com/Raktim94/nodedr-restaurant-pos"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:realidkroo:Mochy-Music:1793145600</ns0:id>
+    <ns0:title>[kotlin] realidkroo/Mochy-Music</ns0:title>
+    <ns0:link href="https://github.com/realidkroo/Mochy-Music"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Raktim94/nodedr-restaurant-pos"&gt;https://github.com/Raktim94/nodedr-restaurant-pos&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/realidkroo/Mochy-Music"&gt;https://github.com/realidkroo/Mochy-Music&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Self-hosted restaurant POS with tables, kitchen display, reservations, QR ordering, loyalty and local-network operation.&lt;/div&gt;
+&lt;div&gt;A modern sleek music player.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:video-db:call.md:1793059200</ns0:id>
-    <ns0:title>[typescript] video-db/call.md</ns0:title>
-    <ns0:link href="https://github.com/video-db/call.md"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Balatro-Multiplayer:BalatroMultiplayerPvP:1793145600</ns0:id>
+    <ns0:title>[lua] Balatro-Multiplayer/BalatroMultiplayerPvP</ns0:title>
+    <ns0:link href="https://github.com/Balatro-Multiplayer/BalatroMultiplayerPvP"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/video-db/call.md"&gt;https://github.com/video-db/call.md&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Balatro-Multiplayer/BalatroMultiplayerPvP"&gt;https://github.com/Balatro-Multiplayer/BalatroMultiplayerPvP&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lua&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Turn meetings into live agent loops. Record, transcribe, and analyze meetings with real-time AI intelligence — before, during, and after calls.&lt;/div&gt;
+&lt;div&gt;A Multiplayer Mod for Balatro&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:DualCoder:vgpu_unlock:1793059200</ns0:id>
-    <ns0:title>[c] DualCoder/vgpu_unlock</ns0:title>
-    <ns0:link href="https://github.com/DualCoder/vgpu_unlock"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:NPGameDev:godot-mcp-toolkit:1793145600</ns0:id>
+    <ns0:title>[gdscript] NPGameDev/godot-mcp-toolkit</ns0:title>
+    <ns0:link href="https://github.com/NPGameDev/godot-mcp-toolkit"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DualCoder/vgpu_unlock"&gt;https://github.com/DualCoder/vgpu_unlock&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NPGameDev/godot-mcp-toolkit"&gt;https://github.com/NPGameDev/godot-mcp-toolkit&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; gdscript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Unlock vGPU functionality for consumer grade GPUs.&lt;/div&gt;
+&lt;div&gt;A Godot 4.2+ editor plugin that lets AI coding assistants work inside the editor over the Model Context Protocol. Consolidated tools cover 150+ operations across scenes, scripts, nodes, and playtests, and a GDScript extension API lets any project add its own tools. Pairs with the godot-mcp-server npm bridge; runs locally.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:meta:rocksdb:1793145600</ns0:id>
+    <ns0:title>[c++] meta/rocksdb</ns0:title>
+    <ns0:link href="https://github.com/meta/rocksdb"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/meta/rocksdb"&gt;https://github.com/meta/rocksdb&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A library that provides an embeddable, persistent key-value store for fast storage.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
