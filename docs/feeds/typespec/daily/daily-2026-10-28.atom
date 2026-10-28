@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/typespec/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - typespec (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/typespec/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:Azure:azure-rest-api-specs:1793145600</ns0:id>
+    <ns0:title>Azure/azure-rest-api-specs</ns0:title>
+    <ns0:link href="https://github.com/Azure/azure-rest-api-specs"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Azure/azure-rest-api-specs"&gt;https://github.com/Azure/azure-rest-api-specs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typespec&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The source for REST API specifications for Microsoft Azure.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

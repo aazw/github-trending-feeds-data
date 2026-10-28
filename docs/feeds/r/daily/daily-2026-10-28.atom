@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - r (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:Rdatatable:data.table:1793145600</ns0:id>
+    <ns0:title>Rdatatable/data.table</ns0:title>
+    <ns0:link href="https://github.com/Rdatatable/data.table"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Rdatatable/data.table"&gt;https://github.com/Rdatatable/data.table&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;R's data.table package extends data.frame:&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:benjjneb:dada2:1793145600</ns0:id>
+    <ns0:title>benjjneb/dada2</ns0:title>
+    <ns0:link href="https://github.com/benjjneb/dada2"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/benjjneb/dada2"&gt;https://github.com/benjjneb/dada2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Accurate sample inference from amplicon data with single nucleotide resolution&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jinworks:CellChat:1793145600</ns0:id>
+    <ns0:title>jinworks/CellChat</ns0:title>
+    <ns0:link href="https://github.com/jinworks/CellChat"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jinworks/CellChat"&gt;https://github.com/jinworks/CellChat&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;R toolkit for inference, visualization and analysis of cell-cell communication from single-cell and spatially resolved transcriptomics&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:joey711:phyloseq:1793145600</ns0:id>
+    <ns0:title>joey711/phyloseq</ns0:title>
+    <ns0:link href="https://github.com/joey711/phyloseq"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/joey711/phyloseq"&gt;https://github.com/joey711/phyloseq&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;phyloseq is a set of classes, wrappers, and tools (in R) to make it easier to import, store, and analyze phylogenetic sequencing data; and to reproducibly share that data and analysis with others. See the phyloseq front page:&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nflverse:nflverse-data:1793145600</ns0:id>
+    <ns0:title>nflverse/nflverse-data</ns0:title>
+    <ns0:link href="https://github.com/nflverse/nflverse-data"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nflverse/nflverse-data"&gt;https://github.com/nflverse/nflverse-data&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Automated nflverse data repository&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:r-spatial:sf:1793145600</ns0:id>
+    <ns0:title>r-spatial/sf</ns0:title>
+    <ns0:link href="https://github.com/r-spatial/sf"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/r-spatial/sf"&gt;https://github.com/r-spatial/sf&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Simple Features for R&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rdpeng:ProgrammingAssignment2:1793145600</ns0:id>
+    <ns0:title>rdpeng/ProgrammingAssignment2</ns0:title>
+    <ns0:link href="https://github.com/rdpeng/ProgrammingAssignment2"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rdpeng/ProgrammingAssignment2"&gt;https://github.com/rdpeng/ProgrammingAssignment2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Repository for Programming Assignment 2 for R Programming on Coursera&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rstudio:rmarkdown:1793145600</ns0:id>
+    <ns0:title>rstudio/rmarkdown</ns0:title>
+    <ns0:link href="https://github.com/rstudio/rmarkdown"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rstudio/rmarkdown"&gt;https://github.com/rstudio/rmarkdown&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Dynamic Documents for R&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rstudio:shiny:1793145600</ns0:id>
+    <ns0:title>rstudio/shiny</ns0:title>
+    <ns0:link href="https://github.com/rstudio/shiny"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rstudio/shiny"&gt;https://github.com/rstudio/shiny&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Easy interactive web applications with R&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:satijalab:seurat:1793145600</ns0:id>
+    <ns0:title>satijalab/seurat</ns0:title>
+    <ns0:link href="https://github.com/satijalab/seurat"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/satijalab/seurat"&gt;https://github.com/satijalab/seurat&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;R toolkit for single cell genomics&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:swirldev:swirl_courses:1793145600</ns0:id>
+    <ns0:title>swirldev/swirl_courses</ns0:title>
+    <ns0:link href="https://github.com/swirldev/swirl_courses"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/swirldev/swirl_courses"&gt;https://github.com/swirldev/swirl_courses&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🎓 A collection of interactive courses for the swirl R package.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:tidyverse:dplyr:1793145600</ns0:id>
+    <ns0:title>tidyverse/dplyr</ns0:title>
+    <ns0:link href="https://github.com/tidyverse/dplyr"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tidyverse/dplyr"&gt;https://github.com/tidyverse/dplyr&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;dplyr: A grammar of data manipulation&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:tidyverse:ggplot2:1793145600</ns0:id>
+    <ns0:title>tidyverse/ggplot2</ns0:title>
+    <ns0:link href="https://github.com/tidyverse/ggplot2"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tidyverse/ggplot2"&gt;https://github.com/tidyverse/ggplot2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An implementation of the Grammar of Graphics in R&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

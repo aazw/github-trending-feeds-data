@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:OpenXiangShan:XiangShan:1793059200</ns0:id>
+    <ns0:id>urn:github:NVIDIA:cudf-spark:1793145600</ns0:id>
+    <ns0:title>NVIDIA/cudf-spark</ns0:title>
+    <ns0:link href="https://github.com/NVIDIA/cudf-spark"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA/cudf-spark"&gt;https://github.com/NVIDIA/cudf-spark&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;NVIDIA cuDF for Apache Spark plugin - accelerate Apache Spark with GPUs&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:OpenXiangShan:XiangShan:1793145600</ns0:id>
     <ns0:title>OpenXiangShan/XiangShan</ns0:title>
     <ns0:link href="https://github.com/OpenXiangShan/XiangShan"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenXiangShan/XiangShan"&gt;https://github.com/OpenXiangShan/XiangShan&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -22,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:OpenXiangShan:XiangShanLab:1793059200</ns0:id>
+    <ns0:id>urn:github:OpenXiangShan:XiangShanLab:1793145600</ns0:id>
     <ns0:title>OpenXiangShan/XiangShanLab</ns0:title>
     <ns0:link href="https://github.com/OpenXiangShan/XiangShanLab"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenXiangShan/XiangShanLab"&gt;https://github.com/OpenXiangShan/XiangShanLab&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -34,46 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ShiftLeftSecurity:codepropertygraph:1793059200</ns0:id>
-    <ns0:title>ShiftLeftSecurity/codepropertygraph</ns0:title>
-    <ns0:link href="https://github.com/ShiftLeftSecurity/codepropertygraph"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ShiftLeftSecurity/codepropertygraph"&gt;https://github.com/ShiftLeftSecurity/codepropertygraph&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Code Property Graph: specification, query language, and utilities&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:akka:akka-core:1793059200</ns0:id>
-    <ns0:title>akka/akka-core</ns0:title>
-    <ns0:link href="https://github.com/akka/akka-core"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/akka/akka-core"&gt;https://github.com/akka/akka-core&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A platform to build and run apps that are elastic, agile, and resilient. SDK, libraries, and hosted environments.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:apache:carbondata:1793059200</ns0:id>
-    <ns0:title>apache/carbondata</ns0:title>
-    <ns0:link href="https://github.com/apache/carbondata"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/carbondata"&gt;https://github.com/apache/carbondata&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;High performance data store solution&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:apache:datafusion-comet:1793059200</ns0:id>
+    <ns0:id>urn:github:apache:datafusion-comet:1793145600</ns0:id>
     <ns0:title>apache/datafusion-comet</ns0:title>
     <ns0:link href="https://github.com/apache/datafusion-comet"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/datafusion-comet"&gt;https://github.com/apache/datafusion-comet&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -82,10 +58,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:spark:1793059200</ns0:id>
+    <ns0:id>urn:github:apache:gluten:1793145600</ns0:id>
+    <ns0:title>apache/gluten</ns0:title>
+    <ns0:link href="https://github.com/apache/gluten"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/gluten"&gt;https://github.com/apache/gluten&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:apache:kyuubi:1793145600</ns0:id>
+    <ns0:title>apache/kyuubi</ns0:title>
+    <ns0:link href="https://github.com/apache/kyuubi"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/kyuubi"&gt;https://github.com/apache/kyuubi&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:apache:spark:1793145600</ns0:id>
     <ns0:title>apache/spark</ns0:title>
     <ns0:link href="https://github.com/apache/spark"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/spark"&gt;https://github.com/apache/spark&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -94,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:canton-network:splice:1793059200</ns0:id>
+    <ns0:id>urn:github:canton-network:splice:1793145600</ns0:id>
     <ns0:title>canton-network/splice</ns0:title>
     <ns0:link href="https://github.com/canton-network/splice"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/canton-network/splice"&gt;https://github.com/canton-network/splice&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -106,22 +106,58 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:joernio:joern:1793059200</ns0:id>
-    <ns0:title>joernio/joern</ns0:title>
-    <ns0:link href="https://github.com/joernio/joern"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:com-lihaoyi:mill:1793145600</ns0:id>
+    <ns0:title>com-lihaoyi/mill</ns0:title>
+    <ns0:link href="https://github.com/com-lihaoyi/mill"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/joernio/joern"&gt;https://github.com/joernio/joern&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/com-lihaoyi/mill"&gt;https://github.com/com-lihaoyi/mill&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Open-source code analysis platform for C/C++/Java/Binary/Javascript/Python/Kotlin based on code property graphs. Discord https://discord.gg/vv4MH284Hc&lt;/div&gt;
+&lt;div&gt;A better build tool for Java, Scala and Kotlin: Simpler than Maven, easier than Gradle, with 3-7x faster dev workflows than other JVM build tools&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:lichess-org:lila:1793059200</ns0:id>
+    <ns0:id>urn:github:delta-io:delta:1793145600</ns0:id>
+    <ns0:title>delta-io/delta</ns0:title>
+    <ns0:link href="https://github.com/delta-io/delta"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/delta-io/delta"&gt;https://github.com/delta-io/delta&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:guardian:frontend:1793145600</ns0:id>
+    <ns0:title>guardian/frontend</ns0:title>
+    <ns0:link href="https://github.com/guardian/frontend"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/guardian/frontend"&gt;https://github.com/guardian/frontend&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Guardian DotCom.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:guardian:grid:1793145600</ns0:id>
+    <ns0:title>guardian/grid</ns0:title>
+    <ns0:link href="https://github.com/guardian/grid"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/guardian/grid"&gt;https://github.com/guardian/grid&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Guardian’s image management system&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:lichess-org:lila:1793145600</ns0:id>
     <ns0:title>lichess-org/lila</ns0:title>
     <ns0:link href="https://github.com/lichess-org/lila"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lichess-org/lila"&gt;https://github.com/lichess-org/lila&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -130,10 +166,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:playframework:playframework:1793059200</ns0:id>
+    <ns0:id>urn:github:llm4s:llm4s:1793145600</ns0:id>
+    <ns0:title>llm4s/llm4s</ns0:title>
+    <ns0:link href="https://github.com/llm4s/llm4s"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/llm4s/llm4s"&gt;https://github.com/llm4s/llm4s&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Agentic and LLM Programming in Scala&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:playframework:playframework:1793145600</ns0:id>
     <ns0:title>playframework/playframework</ns0:title>
     <ns0:link href="https://github.com/playframework/playframework"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/playframework/playframework"&gt;https://github.com/playframework/playframework&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -142,10 +190,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:scala:scala:1793059200</ns0:id>
+    <ns0:id>urn:github:scala:scala:1793145600</ns0:id>
     <ns0:title>scala/scala</ns0:title>
     <ns0:link href="https://github.com/scala/scala"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scala/scala"&gt;https://github.com/scala/scala&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -154,22 +202,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:scala:scala3:1793059200</ns0:id>
-    <ns0:title>scala/scala3</ns0:title>
-    <ns0:link href="https://github.com/scala/scala3"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:scalameta:metals:1793145600</ns0:id>
+    <ns0:title>scalameta/metals</ns0:title>
+    <ns0:link href="https://github.com/scalameta/metals"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scala/scala3"&gt;https://github.com/scala/scala3&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scalameta/metals"&gt;https://github.com/scalameta/metals&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The Scala 3 compiler, also known as Dotty.&lt;/div&gt;
+&lt;div&gt;Scala language server with rich IDE features 🚀&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:twitter:finagle:1793059200</ns0:id>
+    <ns0:id>urn:github:twitter:finagle:1793145600</ns0:id>
     <ns0:title>twitter/finagle</ns0:title>
     <ns0:link href="https://github.com/twitter/finagle"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/twitter/finagle"&gt;https://github.com/twitter/finagle&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -178,10 +226,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:twitter:the-algorithm:1793059200</ns0:id>
+    <ns0:id>urn:github:twitter:the-algorithm:1793145600</ns0:id>
     <ns0:title>twitter/the-algorithm</ns0:title>
     <ns0:link href="https://github.com/twitter/the-algorithm"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/twitter/the-algorithm"&gt;https://github.com/twitter/the-algorithm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -190,15 +238,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ucb-bar:chipyard:1793059200</ns0:id>
-    <ns0:title>ucb-bar/chipyard</ns0:title>
-    <ns0:link href="https://github.com/ucb-bar/chipyard"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:yahoo:CMAK:1793145600</ns0:id>
+    <ns0:title>yahoo/CMAK</ns0:title>
+    <ns0:link href="https://github.com/yahoo/CMAK"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ucb-bar/chipyard"&gt;https://github.com/ucb-bar/chipyard&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/yahoo/CMAK"&gt;https://github.com/yahoo/CMAK&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more&lt;/div&gt;
+&lt;div&gt;CMAK is a tool for managing Apache Kafka clusters&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

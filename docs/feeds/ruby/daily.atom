@@ -5,15 +5,51 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/ruby/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Homebrew:homebrew-cask:1793059200</ns0:id>
+    <ns0:id>urn:github:DataDog:datadog-api-client-ruby:1793145600</ns0:id>
+    <ns0:title>DataDog/datadog-api-client-ruby</ns0:title>
+    <ns0:link href="https://github.com/DataDog/datadog-api-client-ruby"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DataDog/datadog-api-client-ruby"&gt;https://github.com/DataDog/datadog-api-client-ruby&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Ruby client for the Datadog API&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:DataDog:dd-trace-rb:1793145600</ns0:id>
+    <ns0:title>DataDog/dd-trace-rb</ns0:title>
+    <ns0:link href="https://github.com/DataDog/dd-trace-rb"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DataDog/dd-trace-rb"&gt;https://github.com/DataDog/dd-trace-rb&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Datadog's client library for Ruby&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Freika:dawarich:1793145600</ns0:id>
+    <ns0:title>Freika/dawarich</ns0:title>
+    <ns0:link href="https://github.com/Freika/dawarich"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Freika/dawarich"&gt;https://github.com/Freika/dawarich&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Your favorite self-hostable alternative to Google Timeline (Google Location History)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Homebrew:homebrew-cask:1793145600</ns0:id>
     <ns0:title>Homebrew/homebrew-cask</ns0:title>
     <ns0:link href="https://github.com/Homebrew/homebrew-cask"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Homebrew/homebrew-cask"&gt;https://github.com/Homebrew/homebrew-cask&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -22,22 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:antiwork:gumroad:1793059200</ns0:id>
-    <ns0:title>antiwork/gumroad</ns0:title>
-    <ns0:link href="https://github.com/antiwork/gumroad"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/antiwork/gumroad"&gt;https://github.com/antiwork/gumroad&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;See what sticks&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:chatwoot:chatwoot:1793059200</ns0:id>
+    <ns0:id>urn:github:chatwoot:chatwoot:1793145600</ns0:id>
     <ns0:title>chatwoot/chatwoot</ns0:title>
     <ns0:link href="https://github.com/chatwoot/chatwoot"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chatwoot/chatwoot"&gt;https://github.com/chatwoot/chatwoot&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -46,10 +70,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:docusealco:docuseal:1793059200</ns0:id>
+    <ns0:id>urn:github:coinbase:temporal-ruby:1793145600</ns0:id>
+    <ns0:title>coinbase/temporal-ruby</ns0:title>
+    <ns0:link href="https://github.com/coinbase/temporal-ruby"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/coinbase/temporal-ruby"&gt;https://github.com/coinbase/temporal-ruby&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Ruby SDK for Temporal&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:dependabot:dependabot-core:1793145600</ns0:id>
+    <ns0:title>dependabot/dependabot-core</ns0:title>
+    <ns0:link href="https://github.com/dependabot/dependabot-core"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dependabot/dependabot-core"&gt;https://github.com/dependabot/dependabot-core&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🤖 Dependabot's core logic for creating update PRs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:discourse:discourse:1793145600</ns0:id>
+    <ns0:title>discourse/discourse</ns0:title>
+    <ns0:link href="https://github.com/discourse/discourse"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/discourse/discourse"&gt;https://github.com/discourse/discourse&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A platform for community discussion. Free, open, simple.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:docusealco:docuseal:1793145600</ns0:id>
     <ns0:title>docusealco/docuseal</ns0:title>
     <ns0:link href="https://github.com/docusealco/docuseal"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/docusealco/docuseal"&gt;https://github.com/docusealco/docuseal&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -58,46 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:endoflife-date:endoflife.date:1793059200</ns0:id>
-    <ns0:title>endoflife-date/endoflife.date</ns0:title>
-    <ns0:link href="https://github.com/endoflife-date/endoflife.date"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/endoflife-date/endoflife.date"&gt;https://github.com/endoflife-date/endoflife.date&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Informative site with EoL dates of everything&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:fastlane:fastlane:1793059200</ns0:id>
-    <ns0:title>fastlane/fastlane</ns0:title>
-    <ns0:link href="https://github.com/fastlane/fastlane"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/fastlane/fastlane"&gt;https://github.com/fastlane/fastlane&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;🚀 The easiest way to automate building and releasing your iOS and Android apps&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:forem:forem:1793059200</ns0:id>
-    <ns0:title>forem/forem</ns0:title>
-    <ns0:link href="https://github.com/forem/forem"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/forem/forem"&gt;https://github.com/forem/forem&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;For empowering community 🌱&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:freeCodeCamp:devdocs:1793059200</ns0:id>
+    <ns0:id>urn:github:freeCodeCamp:devdocs:1793145600</ns0:id>
     <ns0:title>freeCodeCamp/devdocs</ns0:title>
     <ns0:link href="https://github.com/freeCodeCamp/devdocs"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/freeCodeCamp/devdocs"&gt;https://github.com/freeCodeCamp/devdocs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -106,10 +130,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:github:explore:1793059200</ns0:id>
+    <ns0:id>urn:github:github:explore:1793145600</ns0:id>
     <ns0:title>github/explore</ns0:title>
     <ns0:link href="https://github.com/github/explore"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/explore"&gt;https://github.com/github/explore&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -118,10 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:hashicorp:vagrant:1793059200</ns0:id>
+    <ns0:id>urn:github:hashicorp:vagrant:1793145600</ns0:id>
     <ns0:title>hashicorp/vagrant</ns0:title>
     <ns0:link href="https://github.com/hashicorp/vagrant"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hashicorp/vagrant"&gt;https://github.com/hashicorp/vagrant&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -130,22 +154,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:instructure:canvas-lms:1793059200</ns0:id>
-    <ns0:title>instructure/canvas-lms</ns0:title>
-    <ns0:link href="https://github.com/instructure/canvas-lms"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:huginn:huginn:1793145600</ns0:id>
+    <ns0:title>huginn/huginn</ns0:title>
+    <ns0:link href="https://github.com/huginn/huginn"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/instructure/canvas-lms"&gt;https://github.com/instructure/canvas-lms&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/huginn/huginn"&gt;https://github.com/huginn/huginn&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The open LMS by Instructure, Inc.&lt;/div&gt;
+&lt;div&gt;Create agents that monitor and act on your behalf. Your agents are standing by!&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mastodon:mastodon:1793059200</ns0:id>
+    <ns0:id>urn:github:jekyll:jekyll:1793145600</ns0:id>
+    <ns0:title>jekyll/jekyll</ns0:title>
+    <ns0:link href="https://github.com/jekyll/jekyll"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jekyll/jekyll"&gt;https://github.com/jekyll/jekyll&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🌐 Jekyll is a blog-aware static site generator in Ruby&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:mastodon:mastodon:1793145600</ns0:id>
     <ns0:title>mastodon/mastodon</ns0:title>
     <ns0:link href="https://github.com/mastodon/mastodon"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mastodon/mastodon"&gt;https://github.com/mastodon/mastodon&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -154,10 +190,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:opf:openproject:1793059200</ns0:id>
+    <ns0:id>urn:github:opf:openproject:1793145600</ns0:id>
     <ns0:title>opf/openproject</ns0:title>
     <ns0:link href="https://github.com/opf/openproject"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opf/openproject"&gt;https://github.com/opf/openproject&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -166,34 +202,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rails:rails:1793059200</ns0:id>
-    <ns0:title>rails/rails</ns0:title>
-    <ns0:link href="https://github.com/rails/rails"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ruby:rubygems:1793145600</ns0:id>
+    <ns0:title>ruby/rubygems</ns0:title>
+    <ns0:link href="https://github.com/ruby/rubygems"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rails/rails"&gt;https://github.com/rails/rails&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruby/rubygems"&gt;https://github.com/ruby/rubygems&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Ruby on Rails&lt;/div&gt;
+&lt;div&gt;Library packaging and distribution for Ruby.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ruby:gem_rbs_collection:1793059200</ns0:id>
-    <ns0:title>ruby/gem_rbs_collection</ns0:title>
-    <ns0:link href="https://github.com/ruby/gem_rbs_collection"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ruby/gem_rbs_collection"&gt;https://github.com/ruby/gem_rbs_collection&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A collection of RBS for gems.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:rubysec:ruby-advisory-db:1793059200</ns0:id>
+    <ns0:id>urn:github:rubysec:ruby-advisory-db:1793145600</ns0:id>
     <ns0:title>rubysec/ruby-advisory-db</ns0:title>
     <ns0:link href="https://github.com/rubysec/ruby-advisory-db"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rubysec/ruby-advisory-db"&gt;https://github.com/rubysec/ruby-advisory-db&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -202,10 +226,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:spree:spree:1793059200</ns0:id>
+    <ns0:id>urn:github:spree:spree:1793145600</ns0:id>
     <ns0:title>spree/spree</ns0:title>
     <ns0:link href="https://github.com/spree/spree"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/spree/spree"&gt;https://github.com/spree/spree&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
@@ -214,15 +238,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:we-promise:sure:1793059200</ns0:id>
-    <ns0:title>we-promise/sure</ns0:title>
-    <ns0:link href="https://github.com/we-promise/sure"/>
-    <ns0:updated>2026-10-27T00:00:00</ns0:updated>
+    <ns0:id>urn:github:zammad:zammad:1793145600</ns0:id>
+    <ns0:title>zammad/zammad</ns0:title>
+    <ns0:link href="https://github.com/zammad/zammad"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/we-promise/sure"&gt;https://github.com/we-promise/sure&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zammad/zammad"&gt;https://github.com/zammad/zammad&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The personal finance app for everyone (by everyone)&lt;/div&gt;
+&lt;div&gt;Zammad is a web based open source helpdesk/customer support system.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

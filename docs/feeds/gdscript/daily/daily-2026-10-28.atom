@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - gdscript (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/gdscript/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:NPGameDev:godot-mcp-toolkit:1793145600</ns0:id>
+    <ns0:title>NPGameDev/godot-mcp-toolkit</ns0:title>
+    <ns0:link href="https://github.com/NPGameDev/godot-mcp-toolkit"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NPGameDev/godot-mcp-toolkit"&gt;https://github.com/NPGameDev/godot-mcp-toolkit&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; gdscript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A Godot 4.2+ editor plugin that lets AI coding assistants work inside the editor over the Model Context Protocol. Consolidated tools cover 150+ operations across scenes, scripts, nodes, and playtests, and a GDScript extension API lets any project add its own tools. Pairs with the godot-mcp-server npm bridge; runs locally.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:RodZill4:material-maker:1793145600</ns0:id>
+    <ns0:title>RodZill4/material-maker</ns0:title>
+    <ns0:link href="https://github.com/RodZill4/material-maker"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/RodZill4/material-maker"&gt;https://github.com/RodZill4/material-maker&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; gdscript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A procedural textures authoring and 3D model painting tool based on the Godot game engine&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:godotengine:godot-demo-projects:1793145600</ns0:id>
+    <ns0:title>godotengine/godot-demo-projects</ns0:title>
+    <ns0:link href="https://github.com/godotengine/godot-demo-projects"/>
+    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/godotengine/godot-demo-projects"&gt;https://github.com/godotengine/godot-demo-projects&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; gdscript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Demonstration and Template Projects&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
