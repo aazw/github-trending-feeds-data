@@ -1,0 +1,228 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - java (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:DependencyTrack:dependency-track:1793232000</ns0:id>
+    <ns0:title>DependencyTrack/dependency-track</ns0:title>
+    <ns0:link href="https://github.com/DependencyTrack/dependency-track"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DependencyTrack/dependency-track"&gt;https://github.com/DependencyTrack/dependency-track&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Dependency-Track is an intelligent Component Analysis platform that allows organizations to identify and reduce risk in the software supply chain.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:GeyserMC:Geyser:1793232000</ns0:id>
+    <ns0:title>GeyserMC/Geyser</ns0:title>
+    <ns0:link href="https://github.com/GeyserMC/Geyser"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GeyserMC/Geyser"&gt;https://github.com/GeyserMC/Geyser&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A bridge/proxy allowing you to connect to Minecraft: Java Edition servers with Minecraft: Bedrock Edition.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:NationalSecurityAgency:ghidra:1793232000</ns0:id>
+    <ns0:title>NationalSecurityAgency/ghidra</ns0:title>
+    <ns0:link href="https://github.com/NationalSecurityAgency/ghidra"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NationalSecurityAgency/ghidra"&gt;https://github.com/NationalSecurityAgency/ghidra&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Ghidra is a software reverse engineering (SRE) framework&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:PaperMC:Paper:1793232000</ns0:id>
+    <ns0:title>PaperMC/Paper</ns0:title>
+    <ns0:link href="https://github.com/PaperMC/Paper"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PaperMC/Paper"&gt;https://github.com/PaperMC/Paper&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The most widely used, high performance Minecraft server that aims to fix gameplay and mechanics inconsistencies&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:StarRocks:starrocks:1793232000</ns0:id>
+    <ns0:title>StarRocks/starrocks</ns0:title>
+    <ns0:link href="https://github.com/StarRocks/starrocks"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/StarRocks/starrocks"&gt;https://github.com/StarRocks/starrocks&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The world's fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:agentscope-ai:agentscope-java:1793232000</ns0:id>
+    <ns0:title>agentscope-ai/agentscope-java</ns0:title>
+    <ns0:link href="https://github.com/agentscope-ai/agentscope-java"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/agentscope-ai/agentscope-java"&gt;https://github.com/agentscope-ai/agentscope-java&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Build distributed, production-grade, long-running agents.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:apache:dolphinscheduler:1793232000</ns0:id>
+    <ns0:title>apache/dolphinscheduler</ns0:title>
+    <ns0:link href="https://github.com/apache/dolphinscheduler"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/dolphinscheduler"&gt;https://github.com/apache/dolphinscheduler&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:apache:fineract:1793232000</ns0:id>
+    <ns0:title>apache/fineract</ns0:title>
+    <ns0:link href="https://github.com/apache/fineract"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/fineract"&gt;https://github.com/apache/fineract&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Apache Fineract&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:floci-io:floci:1793232000</ns0:id>
+    <ns0:title>floci-io/floci</ns0:title>
+    <ns0:link href="https://github.com/floci-io/floci"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/floci-io/floci"&gt;https://github.com/floci-io/floci&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Light, fluffy, and always free - The AWS Local Emulator alternative&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:github:copilot-sdk:1793232000</ns0:id>
+    <ns0:title>github/copilot-sdk</ns0:title>
+    <ns0:link href="https://github.com/github/copilot-sdk"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/copilot-sdk"&gt;https://github.com/github/copilot-sdk&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Multi-platform SDK for integrating GitHub Copilot Agent into apps and services&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jenkinsci:jenkins:1793232000</ns0:id>
+    <ns0:title>jenkinsci/jenkins</ns0:title>
+    <ns0:link href="https://github.com/jenkinsci/jenkins"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jenkinsci/jenkins"&gt;https://github.com/jenkinsci/jenkins&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Jenkins automation server&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:keycloak:keycloak:1793232000</ns0:id>
+    <ns0:title>keycloak/keycloak</ns0:title>
+    <ns0:link href="https://github.com/keycloak/keycloak"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/keycloak/keycloak"&gt;https://github.com/keycloak/keycloak&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open Source Identity and Access Management For Modern Applications and Services&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:kunal-kushwaha:DSA-Bootcamp-Java:1793232000</ns0:id>
+    <ns0:title>kunal-kushwaha/DSA-Bootcamp-Java</ns0:title>
+    <ns0:link href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kunal-kushwaha/DSA-Bootcamp-Java"&gt;https://github.com/kunal-kushwaha/DSA-Bootcamp-Java&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;This repository consists of the code samples, assignments, and notes for the Java data structures &amp; algorithms + interview preparation bootcamp of WeMakeDevs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:neo4j:neo4j:1793232000</ns0:id>
+    <ns0:title>neo4j/neo4j</ns0:title>
+    <ns0:link href="https://github.com/neo4j/neo4j"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/neo4j/neo4j"&gt;https://github.com/neo4j/neo4j&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Graphs for Everyone&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:opensearch-project:OpenSearch:1793232000</ns0:id>
+    <ns0:title>opensearch-project/OpenSearch</ns0:title>
+    <ns0:link href="https://github.com/opensearch-project/OpenSearch"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opensearch-project/OpenSearch"&gt;https://github.com/opensearch-project/OpenSearch&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🔎 Open source distributed and RESTful search engine.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:spring-projects:spring-framework:1793232000</ns0:id>
+    <ns0:title>spring-projects/spring-framework</ns0:title>
+    <ns0:link href="https://github.com/spring-projects/spring-framework"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/spring-projects/spring-framework"&gt;https://github.com/spring-projects/spring-framework&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Spring Framework&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:spring-projects:spring-security:1793232000</ns0:id>
+    <ns0:title>spring-projects/spring-security</ns0:title>
+    <ns0:link href="https://github.com/spring-projects/spring-security"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/spring-projects/spring-security"&gt;https://github.com/spring-projects/spring-security&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Spring Security&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:zhukunpenglinyutong:jetbrains-cc-gui:1793232000</ns0:id>
+    <ns0:title>zhukunpenglinyutong/jetbrains-cc-gui</ns0:title>
+    <ns0:link href="https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zhukunpenglinyutong/jetbrains-cc-gui"&gt;https://github.com/zhukunpenglinyutong/jetbrains-cc-gui&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Jetbrains Claude Code and Codex GUI Plugin&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

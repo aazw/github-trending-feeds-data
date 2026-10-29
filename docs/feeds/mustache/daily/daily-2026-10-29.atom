@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/mustache/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - mustache (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/mustache/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:amzn:selling-partner-api-models:1793232000</ns0:id>
+    <ns0:title>amzn/selling-partner-api-models</ns0:title>
+    <ns0:link href="https://github.com/amzn/selling-partner-api-models"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/amzn/selling-partner-api-models"&gt;https://github.com/amzn/selling-partner-api-models&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mustache&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;This repository contains OpenAPI models for developers to use when developing software to call Selling Partner APIs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:goharbor:harbor-helm:1793232000</ns0:id>
+    <ns0:title>goharbor/harbor-helm</ns0:title>
+    <ns0:link href="https://github.com/goharbor/harbor-helm"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/goharbor/harbor-helm"&gt;https://github.com/goharbor/harbor-helm&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mustache&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The helm chart to deploy Harbor&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:netbox-community:netbox-chart:1793232000</ns0:id>
+    <ns0:title>netbox-community/netbox-chart</ns0:title>
+    <ns0:link href="https://github.com/netbox-community/netbox-chart"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/netbox-community/netbox-chart"&gt;https://github.com/netbox-community/netbox-chart&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mustache&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A Helm chart for NetBox&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:prometheus-community:helm-charts:1793232000</ns0:id>
+    <ns0:title>prometheus-community/helm-charts</ns0:title>
+    <ns0:link href="https://github.com/prometheus-community/helm-charts"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/prometheus-community/helm-charts"&gt;https://github.com/prometheus-community/helm-charts&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mustache&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Prometheus community Helm charts&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:renovatebot:helm-charts:1793232000</ns0:id>
+    <ns0:title>renovatebot/helm-charts</ns0:title>
+    <ns0:link href="https://github.com/renovatebot/helm-charts"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/renovatebot/helm-charts"&gt;https://github.com/renovatebot/helm-charts&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mustache&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

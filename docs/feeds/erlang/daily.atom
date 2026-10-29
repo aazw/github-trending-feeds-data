@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/erlang/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:blt:port_compiler:1793145600</ns0:id>
+    <ns0:id>urn:github:blt:port_compiler:1793232000</ns0:id>
     <ns0:title>blt/port_compiler</ns0:title>
     <ns0:link href="https://github.com/blt/port_compiler"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/blt/port_compiler"&gt;https://github.com/blt/port_compiler&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; erlang&lt;/div&gt;
@@ -22,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:emqx:emqx:1793145600</ns0:id>
+    <ns0:id>urn:github:emqx:emqx:1793232000</ns0:id>
     <ns0:title>emqx/emqx</ns0:title>
     <ns0:link href="https://github.com/emqx/emqx"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/emqx/emqx"&gt;https://github.com/emqx/emqx&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; erlang&lt;/div&gt;
@@ -34,15 +34,51 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:erlang:otp:1793145600</ns0:id>
+    <ns0:id>urn:github:erlang:otp:1793232000</ns0:id>
     <ns0:title>erlang/otp</ns0:title>
     <ns0:link href="https://github.com/erlang/otp"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/erlang/otp"&gt;https://github.com/erlang/otp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; erlang&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Erlang/OTP&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ninenines:cowlib:1793232000</ns0:id>
+    <ns0:title>ninenines/cowlib</ns0:title>
+    <ns0:link href="https://github.com/ninenines/cowlib"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ninenines/cowlib"&gt;https://github.com/ninenines/cowlib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; erlang&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Support library for manipulating Web protocols.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:processone:ejabberd:1793232000</ns0:id>
+    <ns0:title>processone/ejabberd</ns0:title>
+    <ns0:link href="https://github.com/processone/ejabberd"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/processone/ejabberd"&gt;https://github.com/processone/ejabberd&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; erlang&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:vernemq:vernemq:1793232000</ns0:id>
+    <ns0:title>vernemq/vernemq</ns0:title>
+    <ns0:link href="https://github.com/vernemq/vernemq"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vernemq/vernemq"&gt;https://github.com/vernemq/vernemq&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; erlang&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A distributed MQTT message broker based on Erlang/OTP. Built for high quality &amp; Industrial use cases. The VerneMQ mission is active &amp; the project maintained. Thank you for your support!&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

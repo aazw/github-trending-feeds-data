@@ -5,8 +5,20 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/glsl/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:KhronosGroup:SPIRV-Cross:1793232000</ns0:id>
+    <ns0:title>KhronosGroup/SPIRV-Cross</ns0:title>
+    <ns0:link href="https://github.com/KhronosGroup/SPIRV-Cross"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/KhronosGroup/SPIRV-Cross"&gt;https://github.com/KhronosGroup/SPIRV-Cross&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; glsl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;SPIRV-Cross is a practical tool and library for performing reflection on SPIR-V and disassembling SPIR-V back to high level languages.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
 </ns0:feed>

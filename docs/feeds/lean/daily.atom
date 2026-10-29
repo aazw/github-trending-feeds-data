@@ -5,27 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/lean/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:ethereum:EthLib:1793145600</ns0:id>
-    <ns0:title>ethereum/EthLib</ns0:title>
-    <ns0:link href="https://github.com/ethereum/EthLib"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:id>urn:github:anthropics:formal-math:1793232000</ns0:id>
+    <ns0:title>anthropics/formal-math</ns0:title>
+    <ns0:link href="https://github.com/anthropics/formal-math"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ethereum/EthLib"&gt;https://github.com/ethereum/EthLib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anthropics/formal-math"&gt;https://github.com/anthropics/formal-math&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Formally verified Ethereum primitives, written in Lean.&lt;/div&gt;
+&lt;div&gt;&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google-deepmind:formal-conjectures:1793145600</ns0:id>
+    <ns0:id>urn:github:google-deepmind:formal-conjectures:1793232000</ns0:id>
     <ns0:title>google-deepmind/formal-conjectures</ns0:title>
     <ns0:link href="https://github.com/google-deepmind/formal-conjectures"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-deepmind/formal-conjectures"&gt;https://github.com/google-deepmind/formal-conjectures&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
@@ -34,22 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leanprover-community:mathlib3:1793145600</ns0:id>
-    <ns0:title>leanprover-community/mathlib3</ns0:title>
-    <ns0:link href="https://github.com/leanprover-community/mathlib3"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover-community/mathlib3"&gt;https://github.com/leanprover-community/mathlib3&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Lean 3's obsolete mathematical components library: please use mathlib4&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:leanprover-community:mathlib4:1793145600</ns0:id>
+    <ns0:id>urn:github:leanprover-community:mathlib4:1793232000</ns0:id>
     <ns0:title>leanprover-community/mathlib4</ns0:title>
     <ns0:link href="https://github.com/leanprover-community/mathlib4"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover-community/mathlib4"&gt;https://github.com/leanprover-community/mathlib4&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
@@ -58,22 +46,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leanprover-community:quote4:1793145600</ns0:id>
-    <ns0:title>leanprover-community/quote4</ns0:title>
-    <ns0:link href="https://github.com/leanprover-community/quote4"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:id>urn:github:leanprover-community:physlib:1793232000</ns0:id>
+    <ns0:title>leanprover-community/physlib</ns0:title>
+    <ns0:link href="https://github.com/leanprover-community/physlib"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover-community/quote4"&gt;https://github.com/leanprover-community/quote4&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover-community/physlib"&gt;https://github.com/leanprover-community/physlib&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Intuitive, type-safe expression quotations for Lean 4.&lt;/div&gt;
+&lt;div&gt;A project to digitalise results from physics into Lean.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leanprover:lean4:1793145600</ns0:id>
+    <ns0:id>urn:github:leanprover:lean4:1793232000</ns0:id>
     <ns0:title>leanprover/lean4</ns0:title>
     <ns0:link href="https://github.com/leanprover/lean4"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover/lean4"&gt;https://github.com/leanprover/lean4&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;

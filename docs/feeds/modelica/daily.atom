@@ -5,20 +5,32 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/modelica/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:OpenModelica:OpenModelica:1793145600</ns0:id>
+    <ns0:id>urn:github:OpenModelica:OpenModelica:1793232000</ns0:id>
     <ns0:title>OpenModelica/OpenModelica</ns0:title>
     <ns0:link href="https://github.com/OpenModelica/OpenModelica"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenModelica/OpenModelica"&gt;https://github.com/OpenModelica/OpenModelica&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; modelica&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;OpenModelica is an open-source Modelica-based modeling and simulation environment intended for industrial and academic usage.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:modelica:ModelicaStandardLibrary:1793232000</ns0:id>
+    <ns0:title>modelica/ModelicaStandardLibrary</ns0:title>
+    <ns0:link href="https://github.com/modelica/ModelicaStandardLibrary"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/modelica/ModelicaStandardLibrary"&gt;https://github.com/modelica/ModelicaStandardLibrary&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; modelica&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Free (standard conforming) library to model mechanical (1D/3D), electrical (analog, digital, machines), magnetic, thermal, fluid, control systems and hierarchical state machines. Also numerical functions and functions for strings, files and streams are included.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

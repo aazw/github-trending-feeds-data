@@ -5,27 +5,63 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/elixir/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:ash-project:ash:1793145600</ns0:id>
-    <ns0:title>ash-project/ash</ns0:title>
-    <ns0:link href="https://github.com/ash-project/ash"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Phineas:lanyard:1793232000</ns0:id>
+    <ns0:title>Phineas/lanyard</ns0:title>
+    <ns0:link href="https://github.com/Phineas/lanyard"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ash-project/ash"&gt;https://github.com/ash-project/ash&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Phineas/lanyard"&gt;https://github.com/Phineas/lanyard&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A declarative, extensible framework for building Elixir applications.&lt;/div&gt;
+&lt;div&gt;🏷️   Expose your Discord presence and activities to a RESTful API and WebSocket in less than 10 seconds&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:blockscout:blockscout:1793145600</ns0:id>
+    <ns0:id>urn:github:Tymeslot:tymeslot:1793232000</ns0:id>
+    <ns0:title>Tymeslot/tymeslot</ns0:title>
+    <ns0:link href="https://github.com/Tymeslot/tymeslot"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Tymeslot/tymeslot"&gt;https://github.com/Tymeslot/tymeslot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open-source meeting scheduling platform built with Elixir/Phoenix LiveView. Self-host or use the managed cloud at tymeslot.app.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:algora-io:algora:1793232000</ns0:id>
+    <ns0:title>algora-io/algora</ns0:title>
+    <ns0:link href="https://github.com/algora-io/algora"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/algora-io/algora"&gt;https://github.com/algora-io/algora&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Hire the top 1% OSS engineers&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ash-project:ash_postgres:1793232000</ns0:id>
+    <ns0:title>ash-project/ash_postgres</ns0:title>
+    <ns0:link href="https://github.com/ash-project/ash_postgres"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ash-project/ash_postgres"&gt;https://github.com/ash-project/ash_postgres&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The PostgreSQL data layer for Ash Framework&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:blockscout:blockscout:1793232000</ns0:id>
     <ns0:title>blockscout/blockscout</ns0:title>
     <ns0:link href="https://github.com/blockscout/blockscout"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/blockscout/blockscout"&gt;https://github.com/blockscout/blockscout&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -34,10 +70,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:elixir-lang:elixir:1793145600</ns0:id>
+    <ns0:id>urn:github:elixir-ecto:ecto:1793232000</ns0:id>
+    <ns0:title>elixir-ecto/ecto</ns0:title>
+    <ns0:link href="https://github.com/elixir-ecto/ecto"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elixir-ecto/ecto"&gt;https://github.com/elixir-ecto/ecto&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A toolkit for data mapping and language integrated query.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:elixir-lang:elixir:1793232000</ns0:id>
     <ns0:title>elixir-lang/elixir</ns0:title>
     <ns0:link href="https://github.com/elixir-lang/elixir"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elixir-lang/elixir"&gt;https://github.com/elixir-lang/elixir&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -46,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:firezone:firezone:1793145600</ns0:id>
+    <ns0:id>urn:github:firezone:firezone:1793232000</ns0:id>
     <ns0:title>firezone/firezone</ns0:title>
     <ns0:link href="https://github.com/firezone/firezone"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/firezone/firezone"&gt;https://github.com/firezone/firezone&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -58,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:kieraneglin:pinchflat:1793145600</ns0:id>
+    <ns0:id>urn:github:kieraneglin:pinchflat:1793232000</ns0:id>
     <ns0:title>kieraneglin/pinchflat</ns0:title>
     <ns0:link href="https://github.com/kieraneglin/pinchflat"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kieraneglin/pinchflat"&gt;https://github.com/kieraneglin/pinchflat&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -70,10 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:operately:operately:1793145600</ns0:id>
+    <ns0:id>urn:github:operately:operately:1793232000</ns0:id>
     <ns0:title>operately/operately</ns0:title>
     <ns0:link href="https://github.com/operately/operately"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/operately/operately"&gt;https://github.com/operately/operately&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -82,10 +130,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:phoenixframework:phoenix:1793145600</ns0:id>
+    <ns0:id>urn:github:pentacent:keila:1793232000</ns0:id>
+    <ns0:title>pentacent/keila</ns0:title>
+    <ns0:link href="https://github.com/pentacent/keila"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pentacent/keila"&gt;https://github.com/pentacent/keila&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open Source Newsletter Tool.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:phoenixframework:phoenix:1793232000</ns0:id>
     <ns0:title>phoenixframework/phoenix</ns0:title>
     <ns0:link href="https://github.com/phoenixframework/phoenix"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/phoenixframework/phoenix"&gt;https://github.com/phoenixframework/phoenix&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -94,10 +154,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:plausible:analytics:1793145600</ns0:id>
+    <ns0:id>urn:github:phoenixframework:phoenix_live_view:1793232000</ns0:id>
+    <ns0:title>phoenixframework/phoenix_live_view</ns0:title>
+    <ns0:link href="https://github.com/phoenixframework/phoenix_live_view"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/phoenixframework/phoenix_live_view"&gt;https://github.com/phoenixframework/phoenix_live_view&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Rich, real-time user experiences with server-rendered HTML&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:plausible:analytics:1793232000</ns0:id>
     <ns0:title>plausible/analytics</ns0:title>
     <ns0:link href="https://github.com/plausible/analytics"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/plausible/analytics"&gt;https://github.com/plausible/analytics&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -106,10 +178,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:supabase:realtime:1793145600</ns0:id>
+    <ns0:id>urn:github:supabase:realtime:1793232000</ns0:id>
     <ns0:title>supabase/realtime</ns0:title>
     <ns0:link href="https://github.com/supabase/realtime"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/supabase/realtime"&gt;https://github.com/supabase/realtime&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
@@ -118,10 +190,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:tuist:tuist:1793145600</ns0:id>
+    <ns0:id>urn:github:teslamate-org:teslamate:1793232000</ns0:id>
+    <ns0:title>teslamate-org/teslamate</ns0:title>
+    <ns0:link href="https://github.com/teslamate-org/teslamate"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/teslamate-org/teslamate"&gt;https://github.com/teslamate-org/teslamate&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:tuist:tuist:1793232000</ns0:id>
     <ns0:title>tuist/tuist</ns0:title>
     <ns0:link href="https://github.com/tuist/tuist"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tuist/tuist"&gt;https://github.com/tuist/tuist&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; elixir&lt;/div&gt;

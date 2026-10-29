@@ -5,15 +5,39 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:NixOS:nixpkgs:1793145600</ns0:id>
+    <ns0:id>urn:github:0xc000022070:zen-browser-flake:1793232000</ns0:id>
+    <ns0:title>0xc000022070/zen-browser-flake</ns0:title>
+    <ns0:link href="https://github.com/0xc000022070/zen-browser-flake"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/0xc000022070/zen-browser-flake"&gt;https://github.com/0xc000022070/zen-browser-flake&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Community-driven Nix Flake for the Zen browser&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:NixOS:nixos-hardware:1793232000</ns0:id>
+    <ns0:title>NixOS/nixos-hardware</ns0:title>
+    <ns0:link href="https://github.com/NixOS/nixos-hardware"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nixos-hardware"&gt;https://github.com/NixOS/nixos-hardware&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A collection of NixOS modules covering hardware quirks.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:NixOS:nixpkgs:1793232000</ns0:id>
     <ns0:title>NixOS/nixpkgs</ns0:title>
     <ns0:link href="https://github.com/NixOS/nixpkgs"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nixpkgs"&gt;https://github.com/NixOS/nixpkgs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -22,10 +46,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nix-community:home-manager:1793145600</ns0:id>
+    <ns0:id>urn:github:nix-community:disko:1793232000</ns0:id>
+    <ns0:title>nix-community/disko</ns0:title>
+    <ns0:link href="https://github.com/nix-community/disko"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/disko"&gt;https://github.com/nix-community/disko&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nix-community:home-manager:1793232000</ns0:id>
     <ns0:title>nix-community/home-manager</ns0:title>
     <ns0:link href="https://github.com/nix-community/home-manager"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/home-manager"&gt;https://github.com/nix-community/home-manager&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -34,22 +70,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nix-community:preservation:1793145600</ns0:id>
-    <ns0:title>nix-community/preservation</ns0:title>
-    <ns0:link href="https://github.com/nix-community/preservation"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nix-community:impermanence:1793232000</ns0:id>
+    <ns0:title>nix-community/impermanence</ns0:title>
+    <ns0:link href="https://github.com/nix-community/impermanence"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/preservation"&gt;https://github.com/nix-community/preservation&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/impermanence"&gt;https://github.com/nix-community/impermanence&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]&lt;/div&gt;
+&lt;div&gt;Modules to help you handle persistent state on systems with ephemeral root storage [maintainer=@talyz]&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nix-darwin:nix-darwin:1793145600</ns0:id>
+    <ns0:id>urn:github:nix-community:nix-on-droid:1793232000</ns0:id>
+    <ns0:title>nix-community/nix-on-droid</ns0:title>
+    <ns0:link href="https://github.com/nix-community/nix-on-droid"/>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/nix-on-droid"&gt;https://github.com/nix-community/nix-on-droid&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Nix-enabled environment for your Android device. [maintainers=@t184256]&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nix-darwin:nix-darwin:1793232000</ns0:id>
     <ns0:title>nix-darwin/nix-darwin</ns0:title>
     <ns0:link href="https://github.com/nix-darwin/nix-darwin"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-darwin/nix-darwin"&gt;https://github.com/nix-darwin/nix-darwin&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -58,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:numtide:llm-agents.nix:1793145600</ns0:id>
+    <ns0:id>urn:github:numtide:llm-agents.nix:1793232000</ns0:id>
     <ns0:title>numtide/llm-agents.nix</ns0:title>
     <ns0:link href="https://github.com/numtide/llm-agents.nix"/>
-    <ns0:updated>2026-10-28T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/numtide/llm-agents.nix"&gt;https://github.com/numtide/llm-agents.nix&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
