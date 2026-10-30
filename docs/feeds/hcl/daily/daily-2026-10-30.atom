@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - hcl (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:GoogleCloudPlatform:cloud-foundation-fabric:1793318400</ns0:id>
+    <ns0:title>GoogleCloudPlatform/cloud-foundation-fabric</ns0:title>
+    <ns0:link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric"&gt;https://github.com/GoogleCloudPlatform/cloud-foundation-fabric&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;End-to-end modular samples and landing zones toolkit for Terraform on GCP.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cloudposse:terraform-aws-ecs-container-definition:1793318400</ns0:id>
+    <ns0:title>cloudposse/terraform-aws-ecs-container-definition</ns0:title>
+    <ns0:link href="https://github.com/cloudposse/terraform-aws-ecs-container-definition"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudposse/terraform-aws-ecs-container-definition"&gt;https://github.com/cloudposse/terraform-aws-ecs-container-definition&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:hashicorp:agent-skills:1793318400</ns0:id>
+    <ns0:title>hashicorp/agent-skills</ns0:title>
+    <ns0:link href="https://github.com/hashicorp/agent-skills"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hashicorp/agent-skills"&gt;https://github.com/hashicorp/agent-skills&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A collection of Agent skills and Claude Code plugins for HashiCorp products.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-eks:1793318400</ns0:id>
+    <ns0:title>terraform-aws-modules/terraform-aws-eks</ns0:title>
+    <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-eks"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-eks"&gt;https://github.com/terraform-aws-modules/terraform-aws-eks&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Terraform module to create Amazon Elastic Kubernetes (EKS) resources 🇺🇦&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-lambda:1793318400</ns0:id>
+    <ns0:title>terraform-aws-modules/terraform-aws-lambda</ns0:title>
+    <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-lambda"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-lambda"&gt;https://github.com/terraform-aws-modules/terraform-aws-lambda&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-s3-bucket:1793318400</ns0:id>
+    <ns0:title>terraform-aws-modules/terraform-aws-s3-bucket</ns0:title>
+    <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-s3-bucket"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-s3-bucket"&gt;https://github.com/terraform-aws-modules/terraform-aws-s3-bucket&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Terraform module to create AWS S3 resources 🇺🇦&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-vpc:1793318400</ns0:id>
+    <ns0:title>terraform-aws-modules/terraform-aws-vpc</ns0:title>
+    <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-vpc"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-vpc"&gt;https://github.com/terraform-aws-modules/terraform-aws-vpc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Terraform module to create AWS VPC resources 🇺🇦&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:terraform-google-modules:terraform-google-project-factory:1793318400</ns0:id>
+    <ns0:title>terraform-google-modules/terraform-google-project-factory</ns0:title>
+    <ns0:link href="https://github.com/terraform-google-modules/terraform-google-project-factory"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-project-factory"&gt;https://github.com/terraform-google-modules/terraform-google-project-factory&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Creates an opinionated Google Cloud project by using Shared VPC, IAM, and Google Cloud APIs&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

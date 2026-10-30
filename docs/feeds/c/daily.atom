@@ -5,39 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-30T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:FreeRTOS:FreeRTOS-Kernel:1793232000</ns0:id>
-    <ns0:title>FreeRTOS/FreeRTOS-Kernel</ns0:title>
-    <ns0:link href="https://github.com/FreeRTOS/FreeRTOS-Kernel"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ImageMagick:ImageMagick:1793318400</ns0:id>
+    <ns0:title>ImageMagick/ImageMagick</ns0:title>
+    <ns0:link href="https://github.com/ImageMagick/ImageMagick"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FreeRTOS/FreeRTOS-Kernel"&gt;https://github.com/FreeRTOS/FreeRTOS-Kernel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ImageMagick/ImageMagick"&gt;https://github.com/ImageMagick/ImageMagick&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;FreeRTOS kernel files only, submoduled into https://github.com/FreeRTOS/FreeRTOS and various other repos.&lt;/div&gt;
+&lt;div&gt;ImageMagick is a free, open-source software suite for creating, editing, converting, and displaying images. It supports 200+ formats and offers powerful command-line tools and APIs for automation, scripting, and integration across platforms.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:HansKristian-Work:vkd3d-proton:1793232000</ns0:id>
-    <ns0:title>HansKristian-Work/vkd3d-proton</ns0:title>
-    <ns0:link href="https://github.com/HansKristian-Work/vkd3d-proton"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/HansKristian-Work/vkd3d-proton"&gt;https://github.com/HansKristian-Work/vkd3d-proton&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Fork of VKD3D. Development branches for Proton's Direct3D 12 implementation.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:JustVugg:colibri:1793232000</ns0:id>
+    <ns0:id>urn:github:JustVugg:colibri:1793318400</ns0:id>
     <ns0:title>JustVugg/colibri</ns0:title>
     <ns0:link href="https://github.com/JustVugg/colibri"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JustVugg/colibri"&gt;https://github.com/JustVugg/colibri&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
@@ -46,70 +34,106 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:allinurl:goaccess:1793232000</ns0:id>
-    <ns0:title>allinurl/goaccess</ns0:title>
-    <ns0:link href="https://github.com/allinurl/goaccess"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Mbed-TLS:mbedtls:1793318400</ns0:id>
+    <ns0:title>Mbed-TLS/mbedtls</ns0:title>
+    <ns0:link href="https://github.com/Mbed-TLS/mbedtls"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/allinurl/goaccess"&gt;https://github.com/allinurl/goaccess&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Mbed-TLS/mbedtls"&gt;https://github.com/Mbed-TLS/mbedtls&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.&lt;/div&gt;
+&lt;div&gt;An open source, portable, easy to use, readable and flexible TLS library, and reference implementation of the PSA Cryptography API. Releases are on a varying cadence, typically around 3 - 6 months between releases.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:nuttx:1793232000</ns0:id>
-    <ns0:title>apache/nuttx</ns0:title>
-    <ns0:link href="https://github.com/apache/nuttx"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Serial-Studio:Serial-Studio:1793318400</ns0:id>
+    <ns0:title>Serial-Studio/Serial-Studio</ns0:title>
+    <ns0:link href="https://github.com/Serial-Studio/Serial-Studio"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/nuttx"&gt;https://github.com/apache/nuttx&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Serial-Studio/Serial-Studio"&gt;https://github.com/Serial-Studio/Serial-Studio&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Apache NuttX is a mature, real-time embedded operating system (RTOS)&lt;/div&gt;
+&lt;div&gt;Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:arendst:Tasmota:1793232000</ns0:id>
-    <ns0:title>arendst/Tasmota</ns0:title>
-    <ns0:link href="https://github.com/arendst/Tasmota"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:cilium:tetragon:1793318400</ns0:id>
+    <ns0:title>cilium/tetragon</ns0:title>
+    <ns0:link href="https://github.com/cilium/tetragon"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/arendst/Tasmota"&gt;https://github.com/arendst/Tasmota&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cilium/tetragon"&gt;https://github.com/cilium/tetragon&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at&lt;/div&gt;
+&lt;div&gt;eBPF-based Security Observability and Runtime Enforcement&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:capstone-engine:capstone:1793232000</ns0:id>
-    <ns0:title>capstone-engine/capstone</ns0:title>
-    <ns0:link href="https://github.com/capstone-engine/capstone"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:eclipse-mosquitto:mosquitto:1793318400</ns0:id>
+    <ns0:title>eclipse-mosquitto/mosquitto</ns0:title>
+    <ns0:link href="https://github.com/eclipse-mosquitto/mosquitto"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/capstone-engine/capstone"&gt;https://github.com/capstone-engine/capstone&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/eclipse-mosquitto/mosquitto"&gt;https://github.com/eclipse-mosquitto/mosquitto&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Capstone disassembly/disassembler framework for ARM, ARM64 (ARMv8), Alpha, BPF, Ethereum VM, HPPA, LoongArch, M68K, M680X, Mips, MOS65XX, PPC, RISC-V(rv32G/rv64G), SH, Sparc, SystemZ, TMS320C64X, TriCore, Webassembly, XCore and X86.&lt;/div&gt;
+&lt;div&gt;Eclipse Mosquitto - An open source MQTT broker&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:littlefs-project:littlefs:1793232000</ns0:id>
-    <ns0:title>littlefs-project/littlefs</ns0:title>
-    <ns0:link href="https://github.com/littlefs-project/littlefs"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:fluent:fluent-bit:1793318400</ns0:id>
+    <ns0:title>fluent/fluent-bit</ns0:title>
+    <ns0:link href="https://github.com/fluent/fluent-bit"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/littlefs-project/littlefs"&gt;https://github.com/littlefs-project/littlefs&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/fluent/fluent-bit"&gt;https://github.com/fluent/fluent-bit&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A little fail-safe filesystem designed for microcontrollers&lt;/div&gt;
+&lt;div&gt;Fast and Lightweight Logs, Metrics and Traces processor for Linux, BSD, OSX and Windows&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:lvgl:lvgl:1793232000</ns0:id>
+    <ns0:id>urn:github:glfw:glfw:1793318400</ns0:id>
+    <ns0:title>glfw/glfw</ns0:title>
+    <ns0:link href="https://github.com/glfw/glfw"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/glfw/glfw"&gt;https://github.com/glfw/glfw&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A multi-platform library for OpenGL, OpenGL ES, Vulkan, window and input&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:libarchive:libarchive:1793318400</ns0:id>
+    <ns0:title>libarchive/libarchive</ns0:title>
+    <ns0:link href="https://github.com/libarchive/libarchive"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/libarchive/libarchive"&gt;https://github.com/libarchive/libarchive&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Multi-format archive and compression library&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:libuv:libuv:1793318400</ns0:id>
+    <ns0:title>libuv/libuv</ns0:title>
+    <ns0:link href="https://github.com/libuv/libuv"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/libuv/libuv"&gt;https://github.com/libuv/libuv&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Cross-platform asynchronous I/O&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:lvgl:lvgl:1793318400</ns0:id>
     <ns0:title>lvgl/lvgl</ns0:title>
     <ns0:link href="https://github.com/lvgl/lvgl"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lvgl/lvgl"&gt;https://github.com/lvgl/lvgl&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
@@ -118,10 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:madler:zlib:1793232000</ns0:id>
+    <ns0:id>urn:github:madler:zlib:1793318400</ns0:id>
     <ns0:title>madler/zlib</ns0:title>
     <ns0:link href="https://github.com/madler/zlib"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/madler/zlib"&gt;https://github.com/madler/zlib&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
@@ -130,10 +154,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:microsoft:PowerToys:1793232000</ns0:id>
+    <ns0:id>urn:github:matz:spinel:1793318400</ns0:id>
+    <ns0:title>matz/spinel</ns0:title>
+    <ns0:link href="https://github.com/matz/spinel"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/matz/spinel"&gt;https://github.com/matz/spinel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Ruby AOT compiler&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:meta:zstd:1793318400</ns0:id>
+    <ns0:title>meta/zstd</ns0:title>
+    <ns0:link href="https://github.com/meta/zstd"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/meta/zstd"&gt;https://github.com/meta/zstd&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Zstandard - Fast real-time compression algorithm&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:microsoft:PowerToys:1793318400</ns0:id>
     <ns0:title>microsoft/PowerToys</ns0:title>
     <ns0:link href="https://github.com/microsoft/PowerToys"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/PowerToys"&gt;https://github.com/microsoft/PowerToys&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
@@ -142,75 +190,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openssl:openssl:1793232000</ns0:id>
-    <ns0:title>openssl/openssl</ns0:title>
-    <ns0:link href="https://github.com/openssl/openssl"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:microsoft:mimalloc:1793318400</ns0:id>
+    <ns0:title>microsoft/mimalloc</ns0:title>
+    <ns0:link href="https://github.com/microsoft/mimalloc"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openssl/openssl"&gt;https://github.com/openssl/openssl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/mimalloc"&gt;https://github.com/microsoft/mimalloc&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;General purpose TLS and crypto library&lt;/div&gt;
+&lt;div&gt;mimalloc is a compact general purpose allocator with excellent performance.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pgvector:pgvector:1793232000</ns0:id>
-    <ns0:title>pgvector/pgvector</ns0:title>
-    <ns0:link href="https://github.com/pgvector/pgvector"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:unicorn-engine:unicorn:1793318400</ns0:id>
+    <ns0:title>unicorn-engine/unicorn</ns0:title>
+    <ns0:link href="https://github.com/unicorn-engine/unicorn"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pgvector/pgvector"&gt;https://github.com/pgvector/pgvector&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/unicorn-engine/unicorn"&gt;https://github.com/unicorn-engine/unicorn&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Open-source vector similarity search for Postgres&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:redis:redis:1793232000</ns0:id>
-    <ns0:title>redis/redis</ns0:title>
-    <ns0:link href="https://github.com/redis/redis"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/redis/redis"&gt;https://github.com/redis/redis&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:snesrev:zelda3:1793232000</ns0:id>
-    <ns0:title>snesrev/zelda3</ns0:title>
-    <ns0:link href="https://github.com/snesrev/zelda3"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/snesrev/zelda3"&gt;https://github.com/snesrev/zelda3&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tianocore:edk2:1793232000</ns0:id>
-    <ns0:title>tianocore/edk2</ns0:title>
-    <ns0:link href="https://github.com/tianocore/edk2"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tianocore/edk2"&gt;https://github.com/tianocore/edk2&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;EDK II&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:valkey-io:valkey:1793232000</ns0:id>
-    <ns0:title>valkey-io/valkey</ns0:title>
-    <ns0:link href="https://github.com/valkey-io/valkey"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/valkey-io/valkey"&gt;https://github.com/valkey-io/valkey&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A flexible distributed key-value database that is optimized for caching and other realtime workloads.&lt;/div&gt;
+&lt;div&gt;Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

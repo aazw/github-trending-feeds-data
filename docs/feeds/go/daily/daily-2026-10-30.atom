@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - go (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:JuliusBrussee:caveman:1793318400</ns0:id>
+    <ns0:title>JuliusBrussee/caveman</ns0:title>
+    <ns0:link href="https://github.com/JuliusBrussee/caveman"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliusBrussee/caveman"&gt;https://github.com/JuliusBrussee/caveman&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Wei-Shaw:sub2api:1793318400</ns0:id>
+    <ns0:title>Wei-Shaw/sub2api</ns0:title>
+    <ns0:link href="https://github.com/Wei-Shaw/sub2api"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Wei-Shaw/sub2api"&gt;https://github.com/Wei-Shaw/sub2api&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:alibaba:open-code-review:1793318400</ns0:id>
+    <ns0:title>alibaba/open-code-review</ns0:title>
+    <ns0:link href="https://github.com/alibaba/open-code-review"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/alibaba/open-code-review"&gt;https://github.com/alibaba/open-code-review&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:argoproj:argo-cd:1793318400</ns0:id>
+    <ns0:title>argoproj/argo-cd</ns0:title>
+    <ns0:link href="https://github.com/argoproj/argo-cd"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/argoproj/argo-cd"&gt;https://github.com/argoproj/argo-cd&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Declarative Continuous Deployment for Kubernetes&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:argoproj:argo-workflows:1793318400</ns0:id>
+    <ns0:title>argoproj/argo-workflows</ns0:title>
+    <ns0:link href="https://github.com/argoproj/argo-workflows"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/argoproj/argo-workflows"&gt;https://github.com/argoproj/argo-workflows&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Workflow Engine for Kubernetes&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:crossplane:crossplane:1793318400</ns0:id>
+    <ns0:title>crossplane/crossplane</ns0:title>
+    <ns0:link href="https://github.com/crossplane/crossplane"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/crossplane/crossplane"&gt;https://github.com/crossplane/crossplane&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Cloud Native Control Plane&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:docker:docker-agent:1793318400</ns0:id>
+    <ns0:title>docker/docker-agent</ns0:title>
+    <ns0:link href="https://github.com/docker/docker-agent"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/docker/docker-agent"&gt;https://github.com/docker/docker-agent&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;AI Agent Builder and Runtime by Docker Engineering&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:fatedier:frp:1793318400</ns0:id>
+    <ns0:title>fatedier/frp</ns0:title>
+    <ns0:link href="https://github.com/fatedier/frp"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/fatedier/frp"&gt;https://github.com/fatedier/frp&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:fleetdm:fleet:1793318400</ns0:id>
+    <ns0:title>fleetdm/fleet</ns0:title>
+    <ns0:link href="https://github.com/fleetdm/fleet"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/fleetdm/fleet"&gt;https://github.com/fleetdm/fleet&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open device management&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:github:gh-aw:1793318400</ns0:id>
+    <ns0:title>github/gh-aw</ns0:title>
+    <ns0:link href="https://github.com/github/gh-aw"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/gh-aw"&gt;https://github.com/github/gh-aw&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;GitHub Agentic Workflows&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:google:ax:1793318400</ns0:id>
+    <ns0:title>google/ax</ns0:title>
+    <ns0:link href="https://github.com/google/ax"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/ax"&gt;https://github.com/google/ax&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Agent Executor (AX) is Google's open agentic orchestration runtime&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:grafana:loki:1793318400</ns0:id>
+    <ns0:title>grafana/loki</ns0:title>
+    <ns0:link href="https://github.com/grafana/loki"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/grafana/loki"&gt;https://github.com/grafana/loki&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Like Prometheus, but for logs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:hashicorp:nomad:1793318400</ns0:id>
+    <ns0:title>hashicorp/nomad</ns0:title>
+    <ns0:link href="https://github.com/hashicorp/nomad"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hashicorp/nomad"&gt;https://github.com/hashicorp/nomad&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:infiniflow:ragflow:1793318400</ns0:id>
+    <ns0:title>infiniflow/ragflow</ns0:title>
+    <ns0:link href="https://github.com/infiniflow/ragflow"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/infiniflow/ragflow"&gt;https://github.com/infiniflow/ragflow&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jesseduffield:lazygit:1793318400</ns0:id>
+    <ns0:title>jesseduffield/lazygit</ns0:title>
+    <ns0:link href="https://github.com/jesseduffield/lazygit"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jesseduffield/lazygit"&gt;https://github.com/jesseduffield/lazygit&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;simple terminal UI for git commands&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:kserve:kserve:1793318400</ns0:id>
+    <ns0:title>kserve/kserve</ns0:title>
+    <ns0:link href="https://github.com/kserve/kserve"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kserve/kserve"&gt;https://github.com/kserve/kserve&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:milvus-io:milvus:1793318400</ns0:id>
+    <ns0:title>milvus-io/milvus</ns0:title>
+    <ns0:link href="https://github.com/milvus-io/milvus"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/milvus-io/milvus"&gt;https://github.com/milvus-io/milvus&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Milvus is a high-performance, cloud-native vector database built for scalable vector ANN search&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:multica-ai:multica:1793318400</ns0:id>
+    <ns0:title>multica-ai/multica</ns0:title>
+    <ns0:link href="https://github.com/multica-ai/multica"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/multica-ai/multica"&gt;https://github.com/multica-ai/multica&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Make humans and AI agents work as one team — open-source and self-hostable.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:mvanhorn:cli-printing-press:1793318400</ns0:id>
+    <ns0:title>mvanhorn/cli-printing-press</ns0:title>
+    <ns0:link href="https://github.com/mvanhorn/cli-printing-press"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mvanhorn/cli-printing-press"&gt;https://github.com/mvanhorn/cli-printing-press&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nektos:act:1793318400</ns0:id>
+    <ns0:title>nektos/act</ns0:title>
+    <ns0:link href="https://github.com/nektos/act"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nektos/act"&gt;https://github.com/nektos/act&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Run your GitHub Actions locally 🚀&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:open-telemetry:opentelemetry-collector-contrib:1793318400</ns0:id>
+    <ns0:title>open-telemetry/opentelemetry-collector-contrib</ns0:title>
+    <ns0:link href="https://github.com/open-telemetry/opentelemetry-collector-contrib"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/open-telemetry/opentelemetry-collector-contrib"&gt;https://github.com/open-telemetry/opentelemetry-collector-contrib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Contrib repository for the OpenTelemetry Collector&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:tailscale:tailscale:1793318400</ns0:id>
+    <ns0:title>tailscale/tailscale</ns0:title>
+    <ns0:link href="https://github.com/tailscale/tailscale"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tailscale/tailscale"&gt;https://github.com/tailscale/tailscale&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The easiest, most secure way to use WireGuard and 2FA.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:wailsapp:wails:1793318400</ns0:id>
+    <ns0:title>wailsapp/wails</ns0:title>
+    <ns0:link href="https://github.com/wailsapp/wails"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/wailsapp/wails"&gt;https://github.com/wailsapp/wails&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Create beautiful applications using Go&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

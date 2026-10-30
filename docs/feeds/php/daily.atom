@@ -5,39 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-30T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Cacti:cacti:1793232000</ns0:id>
-    <ns0:title>Cacti/cacti</ns0:title>
-    <ns0:link href="https://github.com/Cacti/cacti"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Dolibarr:dolibarr:1793318400</ns0:id>
+    <ns0:title>Dolibarr/dolibarr</ns0:title>
+    <ns0:link href="https://github.com/Dolibarr/dolibarr"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Cacti/cacti"&gt;https://github.com/Cacti/cacti&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Dolibarr/dolibarr"&gt;https://github.com/Dolibarr/dolibarr&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Cacti ™&lt;/div&gt;
+&lt;div&gt;Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:DataDog:dd-trace-php:1793232000</ns0:id>
-    <ns0:title>DataDog/dd-trace-php</ns0:title>
-    <ns0:link href="https://github.com/DataDog/dd-trace-php"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DataDog/dd-trace-php"&gt;https://github.com/DataDog/dd-trace-php&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Datadog PHP Clients&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:PrestaShop:PrestaShop:1793232000</ns0:id>
+    <ns0:id>urn:github:PrestaShop:PrestaShop:1793318400</ns0:id>
     <ns0:title>PrestaShop/PrestaShop</ns0:title>
     <ns0:link href="https://github.com/PrestaShop/PrestaShop"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PrestaShop/PrestaShop"&gt;https://github.com/PrestaShop/PrestaShop&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -46,10 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:SuiteCRM:SuiteCRM:1793232000</ns0:id>
+    <ns0:id>urn:github:SuiteCRM:SuiteCRM:1793318400</ns0:id>
     <ns0:title>SuiteCRM/SuiteCRM</ns0:title>
     <ns0:link href="https://github.com/SuiteCRM/SuiteCRM"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SuiteCRM/SuiteCRM"&gt;https://github.com/SuiteCRM/SuiteCRM&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -58,22 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:WordPress:mcp-adapter:1793232000</ns0:id>
-    <ns0:title>WordPress/mcp-adapter</ns0:title>
-    <ns0:link href="https://github.com/WordPress/mcp-adapter"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/WordPress/mcp-adapter"&gt;https://github.com/WordPress/mcp-adapter&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;An MCP adapter that bridges the Abilities API to the Model Context Protocol, enabling MCP clients to discover and invoke WordPress plugin, theme, and core abilities programmatically.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:WordPress:wordpress-develop:1793232000</ns0:id>
+    <ns0:id>urn:github:WordPress:wordpress-develop:1793318400</ns0:id>
     <ns0:title>WordPress/wordpress-develop</ns0:title>
     <ns0:link href="https://github.com/WordPress/wordpress-develop"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/WordPress/wordpress-develop"&gt;https://github.com/WordPress/wordpress-develop&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -82,22 +58,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:bagisto:bagisto:1793232000</ns0:id>
-    <ns0:title>bagisto/bagisto</ns0:title>
-    <ns0:link href="https://github.com/bagisto/bagisto"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:api-platform:core:1793318400</ns0:id>
+    <ns0:title>api-platform/core</ns0:title>
+    <ns0:link href="https://github.com/api-platform/core"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bagisto/bagisto"&gt;https://github.com/bagisto/bagisto&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/api-platform/core"&gt;https://github.com/api-platform/core&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Open Source eCommerce &amp; Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs&lt;/div&gt;
+&lt;div&gt;The server component of API Platform: hypermedia and GraphQL APIs in minutes&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:composer:composer:1793232000</ns0:id>
+    <ns0:id>urn:github:composer:composer:1793318400</ns0:id>
     <ns0:title>composer/composer</ns0:title>
     <ns0:link href="https://github.com/composer/composer"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/composer/composer"&gt;https://github.com/composer/composer&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -106,22 +82,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:danielmiessler:SecLists:1793232000</ns0:id>
-    <ns0:title>danielmiessler/SecLists</ns0:title>
-    <ns0:link href="https://github.com/danielmiessler/SecLists"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:elabftw:elabftw:1793318400</ns0:id>
+    <ns0:title>elabftw/elabftw</ns0:title>
+    <ns0:link href="https://github.com/elabftw/elabftw"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/danielmiessler/SecLists"&gt;https://github.com/danielmiessler/SecLists&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elabftw/elabftw"&gt;https://github.com/elabftw/elabftw&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.&lt;/div&gt;
+&lt;div&gt;📓 eLabFTW is the most popular open source electronic lab notebook for research labs.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:filamentphp:filament:1793232000</ns0:id>
+    <ns0:id>urn:github:filamentphp:filament:1793318400</ns0:id>
     <ns0:title>filamentphp/filament</ns0:title>
     <ns0:link href="https://github.com/filamentphp/filament"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/filamentphp/filament"&gt;https://github.com/filamentphp/filament&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -130,22 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:freescout-help-desk:freescout:1793232000</ns0:id>
-    <ns0:title>freescout-help-desk/freescout</ns0:title>
-    <ns0:link href="https://github.com/freescout-help-desk/freescout"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/freescout-help-desk/freescout"&gt;https://github.com/freescout-help-desk/freescout&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;FreeScout — Free self-hosted omnichannel AI-powered helpdesk &amp; shared mailbox&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:glpi-project:glpi:1793232000</ns0:id>
+    <ns0:id>urn:github:glpi-project:glpi:1793318400</ns0:id>
     <ns0:title>glpi-project/glpi</ns0:title>
     <ns0:link href="https://github.com/glpi-project/glpi"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/glpi-project/glpi"&gt;https://github.com/glpi-project/glpi&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -154,10 +118,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:invoiceninja:invoiceninja:1793232000</ns0:id>
+    <ns0:id>urn:github:grokability:snipe-it:1793318400</ns0:id>
+    <ns0:title>grokability/snipe-it</ns0:title>
+    <ns0:link href="https://github.com/grokability/snipe-it"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/grokability/snipe-it"&gt;https://github.com/grokability/snipe-it&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A free open source IT asset/license management system&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:invoiceninja:invoiceninja:1793318400</ns0:id>
     <ns0:title>invoiceninja/invoiceninja</ns0:title>
     <ns0:link href="https://github.com/invoiceninja/invoiceninja"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/invoiceninja/invoiceninja"&gt;https://github.com/invoiceninja/invoiceninja&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -166,22 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:joomla:joomla-cms:1793232000</ns0:id>
-    <ns0:title>joomla/joomla-cms</ns0:title>
-    <ns0:link href="https://github.com/joomla/joomla-cms"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/joomla/joomla-cms"&gt;https://github.com/joomla/joomla-cms&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Home of the Joomla! Content Management System&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:laravel:framework:1793232000</ns0:id>
+    <ns0:id>urn:github:laravel:framework:1793318400</ns0:id>
     <ns0:title>laravel/framework</ns0:title>
     <ns0:link href="https://github.com/laravel/framework"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/laravel/framework"&gt;https://github.com/laravel/framework&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -190,22 +154,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:magento:magento2:1793232000</ns0:id>
-    <ns0:title>magento/magento2</ns0:title>
-    <ns0:link href="https://github.com/magento/magento2"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:mautic:mautic:1793318400</ns0:id>
+    <ns0:title>mautic/mautic</ns0:title>
+    <ns0:link href="https://github.com/mautic/mautic"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/magento/magento2"&gt;https://github.com/magento/magento2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mautic/mautic"&gt;https://github.com/mautic/mautic&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Prior to making any Submission(s), you must sign an Adobe Contributor License Agreement, available here at: https://opensource.adobe.com/cla.html. All Submissions you make to Adobe Inc. and its affiliates, assigns and subsidiaries (collectively “Adobe”) are subject to the terms of the Adobe Contributor License Agreement.&lt;/div&gt;
+&lt;div&gt;Mautic: Open Source Marketing Automation Software.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:metadist:synaplan:1793232000</ns0:id>
+    <ns0:id>urn:github:metadist:synaplan:1793318400</ns0:id>
     <ns0:title>metadist/synaplan</ns0:title>
     <ns0:link href="https://github.com/metadist/synaplan"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/metadist/synaplan"&gt;https://github.com/metadist/synaplan&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -214,22 +178,58 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:opnsense:core:1793232000</ns0:id>
-    <ns0:title>opnsense/core</ns0:title>
-    <ns0:link href="https://github.com/opnsense/core"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:id>urn:github:monicahq:monica:1793318400</ns0:id>
+    <ns0:title>monicahq/monica</ns0:title>
+    <ns0:link href="https://github.com/monicahq/monica"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opnsense/core"&gt;https://github.com/opnsense/core&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/monicahq/monica"&gt;https://github.com/monicahq/monica&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;OPNsense GUI, API and systems backend&lt;/div&gt;
+&lt;div&gt;Personal CRM. Remember everything about your friends, family and business relationships.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:shopware:shopware:1793232000</ns0:id>
+    <ns0:id>urn:github:openemr:openemr:1793318400</ns0:id>
+    <ns0:title>openemr/openemr</ns0:title>
+    <ns0:link href="https://github.com/openemr/openemr"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openemr/openemr"&gt;https://github.com/openemr/openemr&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The most popular open source electronic health records and medical practice management solution.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:opensourcepos:opensourcepos:1793318400</ns0:id>
+    <ns0:title>opensourcepos/opensourcepos</ns0:title>
+    <ns0:link href="https://github.com/opensourcepos/opensourcepos"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opensourcepos/opensourcepos"&gt;https://github.com/opensourcepos/opensourcepos&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open Source Point of Sale is a web based point of sale application written in PHP using CodeIgniter framework. It uses MySQL as the data back end and has a Bootstrap 3 based user interface. If you like this project, please give it a star! Doing so helps maintain Popular OSS status for the project.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:phpstan:phpstan:1793318400</ns0:id>
+    <ns0:title>phpstan/phpstan</ns0:title>
+    <ns0:link href="https://github.com/phpstan/phpstan"/>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/phpstan/phpstan"&gt;https://github.com/phpstan/phpstan&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;PHP Static Analysis Tool - discover bugs in your code without running it!&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:shopware:shopware:1793318400</ns0:id>
     <ns0:title>shopware/shopware</ns0:title>
     <ns0:link href="https://github.com/shopware/shopware"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/shopware/shopware"&gt;https://github.com/shopware/shopware&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -238,10 +238,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:symfony:symfony:1793232000</ns0:id>
+    <ns0:id>urn:github:symfony:symfony:1793318400</ns0:id>
     <ns0:title>symfony/symfony</ns0:title>
     <ns0:link href="https://github.com/symfony/symfony"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/symfony/symfony"&gt;https://github.com/symfony/symfony&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -250,34 +250,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:vimeo:psalm:1793232000</ns0:id>
-    <ns0:title>vimeo/psalm</ns0:title>
-    <ns0:link href="https://github.com/vimeo/psalm"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vimeo/psalm"&gt;https://github.com/vimeo/psalm&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:wallabag:wallabag:1793232000</ns0:id>
-    <ns0:title>wallabag/wallabag</ns0:title>
-    <ns0:link href="https://github.com/wallabag/wallabag"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/wallabag/wallabag"&gt;https://github.com/wallabag/wallabag&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:woocommerce:woocommerce:1793232000</ns0:id>
+    <ns0:id>urn:github:woocommerce:woocommerce:1793318400</ns0:id>
     <ns0:title>woocommerce/woocommerce</ns0:title>
     <ns0:link href="https://github.com/woocommerce/woocommerce"/>
-    <ns0:updated>2026-10-29T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/woocommerce/woocommerce"&gt;https://github.com/woocommerce/woocommerce&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
