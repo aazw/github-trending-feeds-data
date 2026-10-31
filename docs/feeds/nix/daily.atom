@@ -5,27 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/nix/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-31T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:NixOS:nixos-hardware:1793318400</ns0:id>
-    <ns0:title>NixOS/nixos-hardware</ns0:title>
-    <ns0:link href="https://github.com/NixOS/nixos-hardware"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nixos-hardware"&gt;https://github.com/NixOS/nixos-hardware&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A collection of NixOS modules covering hardware quirks.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:NixOS:nixpkgs:1793318400</ns0:id>
+    <ns0:id>urn:github:NixOS:nixpkgs:1793404800</ns0:id>
     <ns0:title>NixOS/nixpkgs</ns0:title>
     <ns0:link href="https://github.com/NixOS/nixpkgs"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NixOS/nixpkgs"&gt;https://github.com/NixOS/nixpkgs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -34,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:finix-community:finix:1793318400</ns0:id>
+    <ns0:id>urn:github:finix-community:finix:1793404800</ns0:id>
     <ns0:title>finix-community/finix</ns0:title>
     <ns0:link href="https://github.com/finix-community/finix"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/finix-community/finix"&gt;https://github.com/finix-community/finix&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -46,22 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:microvm-nix:microvm.nix:1793318400</ns0:id>
-    <ns0:title>microvm-nix/microvm.nix</ns0:title>
-    <ns0:link href="https://github.com/microvm-nix/microvm.nix"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microvm-nix/microvm.nix"&gt;https://github.com/microvm-nix/microvm.nix&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;NixOS MicroVMs&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:nix-community:home-manager:1793318400</ns0:id>
+    <ns0:id>urn:github:nix-community:home-manager:1793404800</ns0:id>
     <ns0:title>nix-community/home-manager</ns0:title>
     <ns0:link href="https://github.com/nix-community/home-manager"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/home-manager"&gt;https://github.com/nix-community/home-manager&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
@@ -70,34 +46,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nix-community:preservation:1793318400</ns0:id>
-    <ns0:title>nix-community/preservation</ns0:title>
-    <ns0:link href="https://github.com/nix-community/preservation"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nix-community:nixGL:1793404800</ns0:id>
+    <ns0:title>nix-community/nixGL</ns0:title>
+    <ns0:link href="https://github.com/nix-community/nixGL"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/preservation"&gt;https://github.com/nix-community/preservation&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-community/nixGL"&gt;https://github.com/nix-community/nixGL&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]&lt;/div&gt;
+&lt;div&gt;A wrapper tool for nix OpenGL application [maintainer=@guibou]&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nix-darwin:nix-darwin:1793318400</ns0:id>
-    <ns0:title>nix-darwin/nix-darwin</ns0:title>
-    <ns0:link href="https://github.com/nix-darwin/nix-darwin"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nix-darwin/nix-darwin"&gt;https://github.com/nix-darwin/nix-darwin&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Manage your macOS using Nix&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:numtide:llm-agents.nix:1793318400</ns0:id>
+    <ns0:id>urn:github:numtide:llm-agents.nix:1793404800</ns0:id>
     <ns0:title>numtide/llm-agents.nix</ns0:title>
     <ns0:link href="https://github.com/numtide/llm-agents.nix"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/numtide/llm-agents.nix"&gt;https://github.com/numtide/llm-agents.nix&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; nix&lt;/div&gt;

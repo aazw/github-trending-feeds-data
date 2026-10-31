@@ -5,27 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/emacs-lisp/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-31T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:clojure-emacs:cider:1793318400</ns0:id>
-    <ns0:title>clojure-emacs/cider</ns0:title>
-    <ns0:link href="https://github.com/clojure-emacs/cider"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/clojure-emacs/cider"&gt;https://github.com/clojure-emacs/cider&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The Clojure Interactive Development Environment that Rocks for Emacs&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:dakra:ghostel:1793318400</ns0:id>
+    <ns0:id>urn:github:dakra:ghostel:1793404800</ns0:id>
     <ns0:title>dakra/ghostel</ns0:title>
     <ns0:link href="https://github.com/dakra/ghostel"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dakra/ghostel"&gt;https://github.com/dakra/ghostel&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
@@ -34,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:doomemacs:core:1793318400</ns0:id>
+    <ns0:id>urn:github:doomemacs:core:1793404800</ns0:id>
     <ns0:title>doomemacs/core</ns0:title>
     <ns0:link href="https://github.com/doomemacs/core"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/doomemacs/core"&gt;https://github.com/doomemacs/core&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
@@ -46,22 +34,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:emacs-lsp:lsp-mode:1793318400</ns0:id>
-    <ns0:title>emacs-lsp/lsp-mode</ns0:title>
-    <ns0:link href="https://github.com/emacs-lsp/lsp-mode"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:id>urn:github:emacs-mirror:emacs:1793404800</ns0:id>
+    <ns0:title>emacs-mirror/emacs</ns0:title>
+    <ns0:link href="https://github.com/emacs-mirror/emacs"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/emacs-lsp/lsp-mode"&gt;https://github.com/emacs-lsp/lsp-mode&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/emacs-mirror/emacs"&gt;https://github.com/emacs-mirror/emacs&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Emacs client/library for the Language Server Protocol&lt;/div&gt;
+&lt;div&gt;Mirror of GNU Emacs&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google-coral:coralnpu:1793318400</ns0:id>
+    <ns0:id>urn:github:google-coral:coralnpu:1793404800</ns0:id>
     <ns0:title>google-coral/coralnpu</ns0:title>
     <ns0:link href="https://github.com/google-coral/coralnpu"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-coral/coralnpu"&gt;https://github.com/google-coral/coralnpu&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
@@ -70,10 +58,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:karthink:gptel:1793318400</ns0:id>
+    <ns0:id>urn:github:google:styleguide:1793404800</ns0:id>
+    <ns0:title>google/styleguide</ns0:title>
+    <ns0:link href="https://github.com/google/styleguide"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/styleguide"&gt;https://github.com/google/styleguide&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Style guides for Google-originated open-source projects&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:karthink:gptel:1793404800</ns0:id>
     <ns0:title>karthink/gptel</ns0:title>
     <ns0:link href="https://github.com/karthink/gptel"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/karthink/gptel"&gt;https://github.com/karthink/gptel&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
@@ -82,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:magit:magit:1793318400</ns0:id>
+    <ns0:id>urn:github:magit:magit:1793404800</ns0:id>
     <ns0:title>magit/magit</ns0:title>
     <ns0:link href="https://github.com/magit/magit"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/magit/magit"&gt;https://github.com/magit/magit&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
@@ -94,22 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:syl20bnr:spacemacs:1793318400</ns0:id>
-    <ns0:title>syl20bnr/spacemacs</ns0:title>
-    <ns0:link href="https://github.com/syl20bnr/spacemacs"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/syl20bnr/spacemacs"&gt;https://github.com/syl20bnr/spacemacs&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A community-driven Emacs distribution - The best editor is neither Emacs nor Vim, it's Emacs *and* Vim!&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:xenodium:agent-shell:1793318400</ns0:id>
+    <ns0:id>urn:github:xenodium:agent-shell:1793404800</ns0:id>
     <ns0:title>xenodium/agent-shell</ns0:title>
     <ns0:link href="https://github.com/xenodium/agent-shell"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xenodium/agent-shell"&gt;https://github.com/xenodium/agent-shell&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; emacs-lisp&lt;/div&gt;

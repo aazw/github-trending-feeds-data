@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - adblock-filter-list (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/adblock-filter-list/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:Stevoisiak:Stevos-AI-Blocklist:1793404800</ns0:id>
+    <ns0:title>Stevoisiak/Stevos-AI-Blocklist</ns0:title>
+    <ns0:link href="https://github.com/Stevoisiak/Stevos-AI-Blocklist"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Stevoisiak/Stevos-AI-Blocklist"&gt;https://github.com/Stevoisiak/Stevos-AI-Blocklist&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; adblock-filter-list&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A filter list that hides website features which use Generative AI &amp; content labeled as AI Generated.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:easylist:easylist:1793404800</ns0:id>
+    <ns0:title>easylist/easylist</ns0:title>
+    <ns0:link href="https://github.com/easylist/easylist"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/easylist/easylist"&gt;https://github.com/easylist/easylist&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; adblock-filter-list&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;EasyList filter subscription (EasyList, EasyPrivacy, EasyList Cookie, Fanboy's Social/Annoyances/Notifications Blocking List)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

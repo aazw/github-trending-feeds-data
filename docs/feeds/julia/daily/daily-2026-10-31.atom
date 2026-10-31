@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - julia (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/julia/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:JuliaLang:julia:1793404800</ns0:id>
+    <ns0:title>JuliaLang/julia</ns0:title>
+    <ns0:link href="https://github.com/JuliaLang/julia"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliaLang/julia"&gt;https://github.com/JuliaLang/julia&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Julia Programming Language&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:JuliaRegistries:General:1793404800</ns0:id>
+    <ns0:title>JuliaRegistries/General</ns0:title>
+    <ns0:link href="https://github.com/JuliaRegistries/General"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JuliaRegistries/General"&gt;https://github.com/JuliaRegistries/General&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The official registry of general Julia packages&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:SciML:OrdinaryDiffEq.jl:1793404800</ns0:id>
+    <ns0:title>SciML/OrdinaryDiffEq.jl</ns0:title>
+    <ns0:link href="https://github.com/SciML/OrdinaryDiffEq.jl"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SciML/OrdinaryDiffEq.jl"&gt;https://github.com/SciML/OrdinaryDiffEq.jl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;High performance ordinary differential equation (ODE) and differential-algebraic equation (DAE) solvers, including neural ordinary differential equations (neural ODEs) and scientific machine learning (SciML)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

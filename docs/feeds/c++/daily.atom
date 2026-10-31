@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+  <ns0:updated>2026-10-31T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:TokisanGames:Terrain3D:1793318400</ns0:id>
+    <ns0:id>urn:github:TokisanGames:Terrain3D:1793404800</ns0:id>
     <ns0:title>TokisanGames/Terrain3D</ns0:title>
     <ns0:link href="https://github.com/TokisanGames/Terrain3D"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TokisanGames/Terrain3D"&gt;https://github.com/TokisanGames/Terrain3D&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
@@ -22,46 +22,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ai-dynamo:nixl:1793318400</ns0:id>
-    <ns0:title>ai-dynamo/nixl</ns0:title>
-    <ns0:link href="https://github.com/ai-dynamo/nixl"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Zylann:godot_voxel:1793404800</ns0:id>
+    <ns0:title>Zylann/godot_voxel</ns0:title>
+    <ns0:link href="https://github.com/Zylann/godot_voxel"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ai-dynamo/nixl"&gt;https://github.com/ai-dynamo/nixl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Zylann/godot_voxel"&gt;https://github.com/Zylann/godot_voxel&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;NVIDIA Inference Xfer Library (NIXL)&lt;/div&gt;
+&lt;div&gt;Voxel module for Godot Engine&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:amnezia-vpn:amnezia-client:1793318400</ns0:id>
-    <ns0:title>amnezia-vpn/amnezia-client</ns0:title>
-    <ns0:link href="https://github.com/amnezia-vpn/amnezia-client"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:id>urn:github:apache:arrow:1793404800</ns0:id>
+    <ns0:title>apache/arrow</ns0:title>
+    <ns0:link href="https://github.com/apache/arrow"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/amnezia-vpn/amnezia-client"&gt;https://github.com/amnezia-vpn/amnezia-client&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/arrow"&gt;https://github.com/apache/arrow&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Amnezia VPN Client (Desktop+Mobile)&lt;/div&gt;
+&lt;div&gt;Apache Arrow is the universal columnar format and multi-language toolbox for fast data interchange and in-memory analytics&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dmlc:xgboost:1793318400</ns0:id>
-    <ns0:title>dmlc/xgboost</ns0:title>
-    <ns0:link href="https://github.com/dmlc/xgboost"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dmlc/xgboost"&gt;https://github.com/dmlc/xgboost&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Scalable, Portable and Distributed Gradient Boosting (GBDT, GBRT or GBM) Library, for Python, R, Java, Scala, C and more. Runs on single machine, Hadoop, Spark, Dask, Flink and DataFlow&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:electron:electron:1793318400</ns0:id>
+    <ns0:id>urn:github:electron:electron:1793404800</ns0:id>
     <ns0:title>electron/electron</ns0:title>
     <ns0:link href="https://github.com/electron/electron"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/electron/electron"&gt;https://github.com/electron/electron&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
@@ -70,22 +58,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google:perfetto:1793318400</ns0:id>
-    <ns0:title>google/perfetto</ns0:title>
-    <ns0:link href="https://github.com/google/perfetto"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ggml-org:llama.cpp:1793404800</ns0:id>
+    <ns0:title>ggml-org/llama.cpp</ns0:title>
+    <ns0:link href="https://github.com/ggml-org/llama.cpp"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/perfetto"&gt;https://github.com/google/perfetto&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ggml-org/llama.cpp"&gt;https://github.com/ggml-org/llama.cpp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Production-grade client-side tracing, profiling, and analysis for complex software systems.&lt;/div&gt;
+&lt;div&gt;LLM inference in C/C++&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:hyprwm:Hyprland:1793318400</ns0:id>
+    <ns0:id>urn:github:google:googletest:1793404800</ns0:id>
+    <ns0:title>google/googletest</ns0:title>
+    <ns0:link href="https://github.com/google/googletest"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/googletest"&gt;https://github.com/google/googletest&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;GoogleTest - Google Testing and Mocking Framework&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:hyprwm:Hyprland:1793404800</ns0:id>
     <ns0:title>hyprwm/Hyprland</ns0:title>
     <ns0:link href="https://github.com/hyprwm/Hyprland"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hyprwm/Hyprland"&gt;https://github.com/hyprwm/Hyprland&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
@@ -94,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jrouwe:JoltPhysics:1793318400</ns0:id>
+    <ns0:id>urn:github:jrouwe:JoltPhysics:1793404800</ns0:id>
     <ns0:title>jrouwe/JoltPhysics</ns0:title>
     <ns0:link href="https://github.com/jrouwe/JoltPhysics"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jrouwe/JoltPhysics"&gt;https://github.com/jrouwe/JoltPhysics&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
@@ -106,22 +106,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:lemonade-sdk:lemonade:1793318400</ns0:id>
-    <ns0:title>lemonade-sdk/lemonade</ns0:title>
-    <ns0:link href="https://github.com/lemonade-sdk/lemonade"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:id>urn:github:k2-fsa:sherpa-onnx:1793404800</ns0:id>
+    <ns0:title>k2-fsa/sherpa-onnx</ns0:title>
+    <ns0:link href="https://github.com/k2-fsa/sherpa-onnx"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lemonade-sdk/lemonade"&gt;https://github.com/lemonade-sdk/lemonade&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/k2-fsa/sherpa-onnx"&gt;https://github.com/k2-fsa/sherpa-onnx&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Lemonade helps users discover and run local AI apps by serving optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk&lt;/div&gt;
+&lt;div&gt;Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android, iOS, HarmonyOS, Raspberry Pi, RISC-V, RK NPU, Axera NPU, Ascend NPU, x86_64 servers, websocket server/client, support 12 programming languages&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:microsoft:BitNet:1793318400</ns0:id>
+    <ns0:id>urn:github:microsoft:BitNet:1793404800</ns0:id>
     <ns0:title>microsoft/BitNet</ns0:title>
     <ns0:link href="https://github.com/microsoft/BitNet"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/BitNet"&gt;https://github.com/microsoft/BitNet&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
@@ -130,22 +130,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nextcloud:desktop:1793318400</ns0:id>
-    <ns0:title>nextcloud/desktop</ns0:title>
-    <ns0:link href="https://github.com/nextcloud/desktop"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:id>urn:github:microsoft:onnxruntime:1793404800</ns0:id>
+    <ns0:title>microsoft/onnxruntime</ns0:title>
+    <ns0:link href="https://github.com/microsoft/onnxruntime"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nextcloud/desktop"&gt;https://github.com/nextcloud/desktop&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/onnxruntime"&gt;https://github.com/microsoft/onnxruntime&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;💻 Desktop sync client for Nextcloud&lt;/div&gt;
+&lt;div&gt;ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openxla:xla:1793318400</ns0:id>
+    <ns0:id>urn:github:microsoft:terminal:1793404800</ns0:id>
+    <ns0:title>microsoft/terminal</ns0:title>
+    <ns0:link href="https://github.com/microsoft/terminal"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/terminal"&gt;https://github.com/microsoft/terminal&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The new Windows Terminal and the original Windows console host, all in the same place!&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:moonshine-ai:moonshine:1793404800</ns0:id>
+    <ns0:title>moonshine-ai/moonshine</ns0:title>
+    <ns0:link href="https://github.com/moonshine-ai/moonshine"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/moonshine-ai/moonshine"&gt;https://github.com/moonshine-ai/moonshine&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:openxla:xla:1793404800</ns0:id>
     <ns0:title>openxla/xla</ns0:title>
     <ns0:link href="https://github.com/openxla/xla"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openxla/xla"&gt;https://github.com/openxla/xla&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
@@ -154,22 +178,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:protocolbuffers:protobuf:1793318400</ns0:id>
-    <ns0:title>protocolbuffers/protobuf</ns0:title>
-    <ns0:link href="https://github.com/protocolbuffers/protobuf"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:id>urn:github:optiscaler:OptiScaler:1793404800</ns0:id>
+    <ns0:title>optiscaler/OptiScaler</ns0:title>
+    <ns0:link href="https://github.com/optiscaler/OptiScaler"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/protocolbuffers/protobuf"&gt;https://github.com/protocolbuffers/protobuf&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/optiscaler/OptiScaler"&gt;https://github.com/optiscaler/OptiScaler&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Protocol Buffers - Google's data interchange format&lt;/div&gt;
+&lt;div&gt;OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:zeux:meshoptimizer:1793318400</ns0:id>
+    <ns0:id>urn:github:recastnavigation:recastnavigation:1793404800</ns0:id>
+    <ns0:title>recastnavigation/recastnavigation</ns0:title>
+    <ns0:link href="https://github.com/recastnavigation/recastnavigation"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/recastnavigation/recastnavigation"&gt;https://github.com/recastnavigation/recastnavigation&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Industry-standard navigation-mesh toolset for games&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:telegramdesktop:tdesktop:1793404800</ns0:id>
+    <ns0:title>telegramdesktop/tdesktop</ns0:title>
+    <ns0:link href="https://github.com/telegramdesktop/tdesktop"/>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/telegramdesktop/tdesktop"&gt;https://github.com/telegramdesktop/tdesktop&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Telegram Desktop messaging app&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:zeux:meshoptimizer:1793404800</ns0:id>
     <ns0:title>zeux/meshoptimizer</ns0:title>
     <ns0:link href="https://github.com/zeux/meshoptimizer"/>
-    <ns0:updated>2026-10-30T00:00:00</ns0:updated>
+    <ns0:updated>2026-10-31T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zeux/meshoptimizer"&gt;https://github.com/zeux/meshoptimizer&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
