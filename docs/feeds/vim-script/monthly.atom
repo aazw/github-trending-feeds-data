@@ -5,39 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/vim-script/monthly.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-10-01T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-01T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:amix:vimrc:1790812800</ns0:id>
-    <ns0:title>amix/vimrc</ns0:title>
-    <ns0:link href="https://github.com/amix/vimrc"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/amix/vimrc"&gt;https://github.com/amix/vimrc&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The ultimate Vim configuration (vimrc)&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:andymass:vim-matchup:1790812800</ns0:id>
-    <ns0:title>andymass/vim-matchup</ns0:title>
-    <ns0:link href="https://github.com/andymass/vim-matchup"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/andymass/vim-matchup"&gt;https://github.com/andymass/vim-matchup&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;vim match-up: even better % 👊 navigate and highlight matching words 👊 modern matchit and matchparen. Supports both vim and neovim + tree-sitter.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:dense-analysis:ale:1790812800</ns0:id>
+    <ns0:id>urn:github:dense-analysis:ale:1793491200</ns0:id>
     <ns0:title>dense-analysis/ale</ns0:title>
     <ns0:link href="https://github.com/dense-analysis/ale"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dense-analysis/ale"&gt;https://github.com/dense-analysis/ale&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
@@ -46,22 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:fatih:vim-go:1790812800</ns0:id>
-    <ns0:title>fatih/vim-go</ns0:title>
-    <ns0:link href="https://github.com/fatih/vim-go"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/fatih/vim-go"&gt;https://github.com/fatih/vim-go&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Go development plugin for Vim&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:github:copilot.vim:1790812800</ns0:id>
+    <ns0:id>urn:github:github:copilot.vim:1793491200</ns0:id>
     <ns0:title>github/copilot.vim</ns0:title>
     <ns0:link href="https://github.com/github/copilot.vim"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/copilot.vim"&gt;https://github.com/github/copilot.vim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
@@ -70,34 +34,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:junegunn:fzf.vim:1790812800</ns0:id>
-    <ns0:title>junegunn/fzf.vim</ns0:title>
-    <ns0:link href="https://github.com/junegunn/fzf.vim"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
+    <ns0:id>urn:github:jbranchaud:til:1793491200</ns0:id>
+    <ns0:title>jbranchaud/til</ns0:title>
+    <ns0:link href="https://github.com/jbranchaud/til"/>
+    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/junegunn/fzf.vim"&gt;https://github.com/junegunn/fzf.vim&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jbranchaud/til"&gt;https://github.com/jbranchaud/til&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;fzf ❤️ vim&lt;/div&gt;
+&lt;div&gt;📝 Today I Learned&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:junegunn:vim-plug:1790812800</ns0:id>
-    <ns0:title>junegunn/vim-plug</ns0:title>
-    <ns0:link href="https://github.com/junegunn/vim-plug"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/junegunn/vim-plug"&gt;https://github.com/junegunn/vim-plug&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;🌺 Minimalist Vim Plugin Manager&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:kristijanhusak:vim-dadbod-completion:1790812800</ns0:id>
+    <ns0:id>urn:github:kristijanhusak:vim-dadbod-completion:1793491200</ns0:id>
     <ns0:title>kristijanhusak/vim-dadbod-completion</ns0:title>
     <ns0:link href="https://github.com/kristijanhusak/vim-dadbod-completion"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kristijanhusak/vim-dadbod-completion"&gt;https://github.com/kristijanhusak/vim-dadbod-completion&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
@@ -106,58 +58,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:kristijanhusak:vim-dadbod-ui:1790812800</ns0:id>
-    <ns0:title>kristijanhusak/vim-dadbod-ui</ns0:title>
-    <ns0:link href="https://github.com/kristijanhusak/vim-dadbod-ui"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
+    <ns0:id>urn:github:macvim-dev:macvim:1793491200</ns0:id>
+    <ns0:title>macvim-dev/macvim</ns0:title>
+    <ns0:link href="https://github.com/macvim-dev/macvim"/>
+    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kristijanhusak/vim-dadbod-ui"&gt;https://github.com/kristijanhusak/vim-dadbod-ui&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/macvim-dev/macvim"&gt;https://github.com/macvim-dev/macvim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Simple UI for https://github.com/tpope/vim-dadbod&lt;/div&gt;
+&lt;div&gt;Vim - the text editor - for macOS&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mbbill:undotree:1790812800</ns0:id>
-    <ns0:title>mbbill/undotree</ns0:title>
-    <ns0:link href="https://github.com/mbbill/undotree"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mbbill/undotree"&gt;https://github.com/mbbill/undotree&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The undo history visualizer for VIM&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:mhinz:vim-galore:1790812800</ns0:id>
-    <ns0:title>mhinz/vim-galore</ns0:title>
-    <ns0:link href="https://github.com/mhinz/vim-galore"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mhinz/vim-galore"&gt;https://github.com/mhinz/vim-galore&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;🎓 All things Vim!&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:morhetz:gruvbox:1790812800</ns0:id>
-    <ns0:title>morhetz/gruvbox</ns0:title>
-    <ns0:link href="https://github.com/morhetz/gruvbox"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/morhetz/gruvbox"&gt;https://github.com/morhetz/gruvbox&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Retro groove color scheme for Vim&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:neovim:neovim:1790812800</ns0:id>
+    <ns0:id>urn:github:neovim:neovim:1793491200</ns0:id>
     <ns0:title>neovim/neovim</ns0:title>
     <ns0:link href="https://github.com/neovim/neovim"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/neovim/neovim"&gt;https://github.com/neovim/neovim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
@@ -166,82 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:preservim:nerdtree:1790812800</ns0:id>
-    <ns0:title>preservim/nerdtree</ns0:title>
-    <ns0:link href="https://github.com/preservim/nerdtree"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/preservim/nerdtree"&gt;https://github.com/preservim/nerdtree&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A tree explorer plugin for vim.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:sainnhe:everforest:1790812800</ns0:id>
-    <ns0:title>sainnhe/everforest</ns0:title>
-    <ns0:link href="https://github.com/sainnhe/everforest"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sainnhe/everforest"&gt;https://github.com/sainnhe/everforest&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;🌲 Comfortable &amp; Pleasant Color Scheme for Vim&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tpope:vim-dadbod:1790812800</ns0:id>
-    <ns0:title>tpope/vim-dadbod</ns0:title>
-    <ns0:link href="https://github.com/tpope/vim-dadbod"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tpope/vim-dadbod"&gt;https://github.com/tpope/vim-dadbod&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;dadbod.vim: Modern database interface for Vim&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tpope:vim-fugitive:1790812800</ns0:id>
-    <ns0:title>tpope/vim-fugitive</ns0:title>
-    <ns0:link href="https://github.com/tpope/vim-fugitive"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tpope/vim-fugitive"&gt;https://github.com/tpope/vim-fugitive&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;fugitive.vim: A Git wrapper so awesome, it should be illegal&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tpope:vim-rhubarb:1790812800</ns0:id>
-    <ns0:title>tpope/vim-rhubarb</ns0:title>
-    <ns0:link href="https://github.com/tpope/vim-rhubarb"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tpope/vim-rhubarb"&gt;https://github.com/tpope/vim-rhubarb&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;rhubarb.vim: GitHub extension for fugitive.vim&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tpope:vim-sleuth:1790812800</ns0:id>
-    <ns0:title>tpope/vim-sleuth</ns0:title>
-    <ns0:link href="https://github.com/tpope/vim-sleuth"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tpope/vim-sleuth"&gt;https://github.com/tpope/vim-sleuth&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;sleuth.vim: Heuristically set buffer options&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tpope:vim-surround:1790812800</ns0:id>
+    <ns0:id>urn:github:tpope:vim-surround:1793491200</ns0:id>
     <ns0:title>tpope/vim-surround</ns0:title>
     <ns0:link href="https://github.com/tpope/vim-surround"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tpope/vim-surround"&gt;https://github.com/tpope/vim-surround&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
@@ -250,39 +94,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:vim-airline:vim-airline:1790812800</ns0:id>
-    <ns0:title>vim-airline/vim-airline</ns0:title>
-    <ns0:link href="https://github.com/vim-airline/vim-airline"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vim-airline/vim-airline"&gt;https://github.com/vim-airline/vim-airline&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;lean &amp; mean status/tabline for vim that's light as air&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:vim:vim:1790812800</ns0:id>
+    <ns0:id>urn:github:vim:vim:1793491200</ns0:id>
     <ns0:title>vim/vim</ns0:title>
     <ns0:link href="https://github.com/vim/vim"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vim/vim"&gt;https://github.com/vim/vim&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;The official Vim repository&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:yangyangwithgnu:use_vim_as_ide:1790812800</ns0:id>
-    <ns0:title>yangyangwithgnu/use_vim_as_ide</ns0:title>
-    <ns0:link href="https://github.com/yangyangwithgnu/use_vim_as_ide"/>
-    <ns0:updated>2026-10-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/yangyangwithgnu/use_vim_as_ide"&gt;https://github.com/yangyangwithgnu/use_vim_as_ide&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vim-script&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;use vim as IDE&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
