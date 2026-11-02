@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-01T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-02T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:apache:datafusion-comet:1793491200</ns0:id>
+    <ns0:id>urn:github:OpenXiangShan:XiangShanLab:1793577600</ns0:id>
+    <ns0:title>OpenXiangShan/XiangShanLab</ns0:title>
+    <ns0:link href="https://github.com/OpenXiangShan/XiangShanLab"/>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenXiangShan/XiangShanLab"&gt;https://github.com/OpenXiangShan/XiangShanLab&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;XiangShanLab is the open-source XiangShan ecosystem's entry layer — a learning, practice, and collaboration hub spanning the RISC-V processor core and its specialized domains, making high-performance processor design learnable, doable, and participable, and welcoming collaborators from academia and industry to join real open-source development.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:apache:datafusion-comet:1793577600</ns0:id>
     <ns0:title>apache/datafusion-comet</ns0:title>
     <ns0:link href="https://github.com/apache/datafusion-comet"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/datafusion-comet"&gt;https://github.com/apache/datafusion-comet&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -22,34 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:gluten:1793491200</ns0:id>
-    <ns0:title>apache/gluten</ns0:title>
-    <ns0:link href="https://github.com/apache/gluten"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/gluten"&gt;https://github.com/apache/gluten&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:apache:kyuubi:1793491200</ns0:id>
-    <ns0:title>apache/kyuubi</ns0:title>
-    <ns0:link href="https://github.com/apache/kyuubi"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/kyuubi"&gt;https://github.com/apache/kyuubi&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Apache Kyuubi is a distributed and multi-tenant gateway to provide serverless SQL on data warehouses and lakehouses.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:apache:spark:1793491200</ns0:id>
+    <ns0:id>urn:github:apache:spark:1793577600</ns0:id>
     <ns0:title>apache/spark</ns0:title>
     <ns0:link href="https://github.com/apache/spark"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/spark"&gt;https://github.com/apache/spark&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -58,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:canton-network:splice:1793491200</ns0:id>
+    <ns0:id>urn:github:canton-network:splice:1793577600</ns0:id>
     <ns0:title>canton-network/splice</ns0:title>
     <ns0:link href="https://github.com/canton-network/splice"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/canton-network/splice"&gt;https://github.com/canton-network/splice&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -70,10 +58,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:lichess-org:lila:1793491200</ns0:id>
+    <ns0:id>urn:github:guardian:grid:1793577600</ns0:id>
+    <ns0:title>guardian/grid</ns0:title>
+    <ns0:link href="https://github.com/guardian/grid"/>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/guardian/grid"&gt;https://github.com/guardian/grid&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Guardian’s image management system&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:lichess-org:lila:1793577600</ns0:id>
     <ns0:title>lichess-org/lila</ns0:title>
     <ns0:link href="https://github.com/lichess-org/lila"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lichess-org/lila"&gt;https://github.com/lichess-org/lila&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -82,34 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:llm4s:llm4s:1793491200</ns0:id>
-    <ns0:title>llm4s/llm4s</ns0:title>
-    <ns0:link href="https://github.com/llm4s/llm4s"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/llm4s/llm4s"&gt;https://github.com/llm4s/llm4s&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Agentic and LLM Programming in Scala&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:sbt:sbt:1793491200</ns0:id>
-    <ns0:title>sbt/sbt</ns0:title>
-    <ns0:link href="https://github.com/sbt/sbt"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sbt/sbt"&gt;https://github.com/sbt/sbt&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;sbt, the interactive build tool&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:scala-native:scala-native:1793491200</ns0:id>
+    <ns0:id>urn:github:scala-native:scala-native:1793577600</ns0:id>
     <ns0:title>scala-native/scala-native</ns0:title>
     <ns0:link href="https://github.com/scala-native/scala-native"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scala-native/scala-native"&gt;https://github.com/scala-native/scala-native&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -118,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:scala:scala:1793491200</ns0:id>
+    <ns0:id>urn:github:scala:scala:1793577600</ns0:id>
     <ns0:title>scala/scala</ns0:title>
     <ns0:link href="https://github.com/scala/scala"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scala/scala"&gt;https://github.com/scala/scala&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -130,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:twitter:the-algorithm:1793491200</ns0:id>
+    <ns0:id>urn:github:twitter:the-algorithm:1793577600</ns0:id>
     <ns0:title>twitter/the-algorithm</ns0:title>
     <ns0:link href="https://github.com/twitter/the-algorithm"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/twitter/the-algorithm"&gt;https://github.com/twitter/the-algorithm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -142,22 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:typelevel:cats-effect:1793491200</ns0:id>
-    <ns0:title>typelevel/cats-effect</ns0:title>
-    <ns0:link href="https://github.com/typelevel/cats-effect"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/typelevel/cats-effect"&gt;https://github.com/typelevel/cats-effect&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The pure asynchronous runtime for Scala&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:zio:zio:1793491200</ns0:id>
+    <ns0:id>urn:github:zio:zio:1793577600</ns0:id>
     <ns0:title>zio/zio</ns0:title>
     <ns0:link href="https://github.com/zio/zio"/>
-    <ns0:updated>2026-11-01T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-02T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zio/zio"&gt;https://github.com/zio/zio&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
