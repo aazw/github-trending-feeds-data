@@ -5,39 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-04T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:AlDanial:cloc:1793664000</ns0:id>
-    <ns0:title>AlDanial/cloc</ns0:title>
-    <ns0:link href="https://github.com/AlDanial/cloc"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AlDanial/cloc"&gt;https://github.com/AlDanial/cloc&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:OpenKore:openkore:1793664000</ns0:id>
-    <ns0:title>OpenKore/openkore</ns0:title>
-    <ns0:link href="https://github.com/OpenKore/openkore"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenKore/openkore"&gt;https://github.com/OpenKore/openkore&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A free/open source client and automation tool for Ragnarok Online&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:adrienverge:openfortivpn:1793664000</ns0:id>
+    <ns0:id>urn:github:adrienverge:openfortivpn:1793750400</ns0:id>
     <ns0:title>adrienverge/openfortivpn</ns0:title>
     <ns0:link href="https://github.com/adrienverge/openfortivpn"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/adrienverge/openfortivpn"&gt;https://github.com/adrienverge/openfortivpn&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
@@ -46,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:brendangregg:FlameGraph:1793664000</ns0:id>
+    <ns0:id>urn:github:brendangregg:FlameGraph:1793750400</ns0:id>
     <ns0:title>brendangregg/FlameGraph</ns0:title>
     <ns0:link href="https://github.com/brendangregg/FlameGraph"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/brendangregg/FlameGraph"&gt;https://github.com/brendangregg/FlameGraph&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
@@ -58,10 +34,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:exiftool:exiftool:1793664000</ns0:id>
+    <ns0:id>urn:github:docker-library:repo-info:1793750400</ns0:id>
+    <ns0:title>docker-library/repo-info</ns0:title>
+    <ns0:link href="https://github.com/docker-library/repo-info"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/docker-library/repo-info"&gt;https://github.com/docker-library/repo-info&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Extended information (especially license and layer details) about the published Official Images&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:exiftool:exiftool:1793750400</ns0:id>
     <ns0:title>exiftool/exiftool</ns0:title>
     <ns0:link href="https://github.com/exiftool/exiftool"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/exiftool/exiftool"&gt;https://github.com/exiftool/exiftool&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
@@ -70,10 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:glpi-project:glpi-agent:1793664000</ns0:id>
+    <ns0:id>urn:github:glpi-project:glpi-agent:1793750400</ns0:id>
     <ns0:title>glpi-project/glpi-agent</ns0:title>
     <ns0:link href="https://github.com/glpi-project/glpi-agent"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/glpi-project/glpi-agent"&gt;https://github.com/glpi-project/glpi-agent&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
@@ -82,10 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:holzschu:a-shell:1793664000</ns0:id>
+    <ns0:id>urn:github:holzschu:a-shell:1793750400</ns0:id>
     <ns0:title>holzschu/a-shell</ns0:title>
     <ns0:link href="https://github.com/holzschu/a-shell"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/holzschu/a-shell"&gt;https://github.com/holzschu/a-shell&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
@@ -94,10 +82,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:yaml:yaml-test-suite:1793664000</ns0:id>
+    <ns0:id>urn:github:netdisco:netdisco:1793750400</ns0:id>
+    <ns0:title>netdisco/netdisco</ns0:title>
+    <ns0:link href="https://github.com/netdisco/netdisco"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/netdisco/netdisco"&gt;https://github.com/netdisco/netdisco&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A web-based network management tool.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:yaml:yaml-test-suite:1793750400</ns0:id>
     <ns0:title>yaml/yaml-test-suite</ns0:title>
     <ns0:link href="https://github.com/yaml/yaml-test-suite"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/yaml/yaml-test-suite"&gt;https://github.com/yaml/yaml-test-suite&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
@@ -106,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:znuny:Znuny:1793664000</ns0:id>
+    <ns0:id>urn:github:znuny:Znuny:1793750400</ns0:id>
     <ns0:title>znuny/Znuny</ns0:title>
     <ns0:link href="https://github.com/znuny/Znuny"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/znuny/Znuny"&gt;https://github.com/znuny/Znuny&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;

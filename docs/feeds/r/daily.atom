@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/r/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-04T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:carob-data:carob:1793664000</ns0:id>
+    <ns0:id>urn:github:carob-data:carob:1793750400</ns0:id>
     <ns0:title>carob-data/carob</ns0:title>
     <ns0:link href="https://github.com/carob-data/carob"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/carob-data/carob"&gt;https://github.com/carob-data/carob&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
@@ -22,10 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jinworks:CellChat:1793664000</ns0:id>
+    <ns0:id>urn:github:glmmTMB:glmmTMB:1793750400</ns0:id>
+    <ns0:title>glmmTMB/glmmTMB</ns0:title>
+    <ns0:link href="https://github.com/glmmTMB/glmmTMB"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/glmmTMB/glmmTMB"&gt;https://github.com/glmmTMB/glmmTMB&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;glmmTMB&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jinworks:CellChat:1793750400</ns0:id>
     <ns0:title>jinworks/CellChat</ns0:title>
     <ns0:link href="https://github.com/jinworks/CellChat"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jinworks/CellChat"&gt;https://github.com/jinworks/CellChat&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
@@ -34,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nflverse:nflverse-data:1793664000</ns0:id>
+    <ns0:id>urn:github:nflverse:nflverse-data:1793750400</ns0:id>
     <ns0:title>nflverse/nflverse-data</ns0:title>
     <ns0:link href="https://github.com/nflverse/nflverse-data"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nflverse/nflverse-data"&gt;https://github.com/nflverse/nflverse-data&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
@@ -46,10 +58,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:swirldev:swirl_courses:1793664000</ns0:id>
+    <ns0:id>urn:github:posit-dev:skills:1793750400</ns0:id>
+    <ns0:title>posit-dev/skills</ns0:title>
+    <ns0:link href="https://github.com/posit-dev/skills"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/posit-dev/skills"&gt;https://github.com/posit-dev/skills&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A collection of Claude Skills from Posit&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:r-spatial:sf:1793750400</ns0:id>
+    <ns0:title>r-spatial/sf</ns0:title>
+    <ns0:link href="https://github.com/r-spatial/sf"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/r-spatial/sf"&gt;https://github.com/r-spatial/sf&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Simple Features for R&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:swirldev:swirl_courses:1793750400</ns0:id>
     <ns0:title>swirldev/swirl_courses</ns0:title>
     <ns0:link href="https://github.com/swirldev/swirl_courses"/>
-    <ns0:updated>2026-11-03T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/swirldev/swirl_courses"&gt;https://github.com/swirldev/swirl_courses&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; r&lt;/div&gt;

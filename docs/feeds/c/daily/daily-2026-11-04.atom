@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - c (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:FareedKhan-dev:kimi-k3-in-c:1793750400</ns0:id>
+    <ns0:title>FareedKhan-dev/kimi-k3-in-c</ns0:title>
+    <ns0:link href="https://github.com/FareedKhan-dev/kimi-k3-in-c"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FareedKhan-dev/kimi-k3-in-c"&gt;https://github.com/FareedKhan-dev/kimi-k3-in-c&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:JustVugg:colibri:1793750400</ns0:id>
+    <ns0:title>JustVugg/colibri</ns0:title>
+    <ns0:link href="https://github.com/JustVugg/colibri"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JustVugg/colibri"&gt;https://github.com/JustVugg/colibri&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A hierarchical inference engine for frontier MoE models: hot experts on the GPU (CUDA, Vulkan), warm ones in RAM, cold ones streamed from NVMe. Written in C, runs on the hardware you already own.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Serial-Studio:Serial-Studio:1793750400</ns0:id>
+    <ns0:title>Serial-Studio/Serial-Studio</ns0:title>
+    <ns0:link href="https://github.com/Serial-Studio/Serial-Studio"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Serial-Studio/Serial-Studio"&gt;https://github.com/Serial-Studio/Serial-Studio&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open-source telemetry dashboard. Supports UART, BLE, MQTT, Modbus, CAN Bus and more.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:YizhengWw:HachimoDock:1793750400</ns0:id>
+    <ns0:title>YizhengWw/HachimoDock</ns0:title>
+    <ns0:link href="https://github.com/YizhengWw/HachimoDock"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/YizhengWw/HachimoDock"&gt;https://github.com/YizhengWw/HachimoDock&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A desktop pet that reacts to your Claude Code sessions in real-time — thinking, typing, juggling, sleeping, and more.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:dorianborian:sesame-robot:1793750400</ns0:id>
+    <ns0:title>dorianborian/sesame-robot</ns0:title>
+    <ns0:link href="https://github.com/dorianborian/sesame-robot"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dorianborian/sesame-robot"&gt;https://github.com/dorianborian/sesame-robot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An open and affordable mini quadruped robot based on ESP32.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:radareorg:radare2:1793750400</ns0:id>
+    <ns0:title>radareorg/radare2</ns0:title>
+    <ns0:link href="https://github.com/radareorg/radare2"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/radareorg/radare2"&gt;https://github.com/radareorg/radare2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;UNIX-like reverse engineering framework and command-line toolset&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:vedderb:bldc:1793750400</ns0:id>
+    <ns0:title>vedderb/bldc</ns0:title>
+    <ns0:link href="https://github.com/vedderb/bldc"/>
+    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vedderb/bldc"&gt;https://github.com/vedderb/bldc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The VESC motor control firmware&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
