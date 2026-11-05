@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/powershell/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-05T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:ChrisTitusTech:winutil:1793750400</ns0:id>
+    <ns0:id>urn:github:Atlas-OS:Atlas:1793836800</ns0:id>
+    <ns0:title>Atlas-OS/Atlas</ns0:title>
+    <ns0:link href="https://github.com/Atlas-OS/Atlas"/>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Atlas-OS/Atlas"&gt;https://github.com/Atlas-OS/Atlas&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ChrisTitusTech:winutil:1793836800</ns0:id>
     <ns0:title>ChrisTitusTech/winutil</ns0:title>
     <ns0:link href="https://github.com/ChrisTitusTech/winutil"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ChrisTitusTech/winutil"&gt;https://github.com/ChrisTitusTech/winutil&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -22,46 +34,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:I-Am-Jakoby:Flipper-Zero-BadUSB:1793750400</ns0:id>
-    <ns0:title>I-Am-Jakoby/Flipper-Zero-BadUSB</ns0:title>
-    <ns0:link href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB"&gt;https://github.com/I-Am-Jakoby/Flipper-Zero-BadUSB&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Repository for my flipper zero badUSB payloads. Now almost entirely plug and play.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:Micke-K:IntuneManagement:1793750400</ns0:id>
-    <ns0:title>Micke-K/IntuneManagement</ns0:title>
-    <ns0:link href="https://github.com/Micke-K/IntuneManagement"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Micke-K/IntuneManagement"&gt;https://github.com/Micke-K/IntuneManagement&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Copy, export, import, delete, document and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and registry settings with ADMX ingestion. View and edit PowerShell script.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:ScoopInstaller:Main:1793750400</ns0:id>
-    <ns0:title>ScoopInstaller/Main</ns0:title>
-    <ns0:link href="https://github.com/ScoopInstaller/Main"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ScoopInstaller/Main"&gt;https://github.com/ScoopInstaller/Main&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;📦 The default bucket for Scoop.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:SkipToTheEndpoint:OpenIntuneBaseline:1793750400</ns0:id>
+    <ns0:id>urn:github:SkipToTheEndpoint:OpenIntuneBaseline:1793836800</ns0:id>
     <ns0:title>SkipToTheEndpoint/OpenIntuneBaseline</ns0:title>
     <ns0:link href="https://github.com/SkipToTheEndpoint/OpenIntuneBaseline"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SkipToTheEndpoint/OpenIntuneBaseline"&gt;https://github.com/SkipToTheEndpoint/OpenIntuneBaseline&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -70,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:actions:runner-images:1793750400</ns0:id>
+    <ns0:id>urn:github:actions:runner-images:1793836800</ns0:id>
     <ns0:title>actions/runner-images</ns0:title>
     <ns0:link href="https://github.com/actions/runner-images"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/actions/runner-images"&gt;https://github.com/actions/runner-images&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -82,10 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:comol:ai_rules_1c:1793750400</ns0:id>
+    <ns0:id>urn:github:comol:ai_rules_1c:1793836800</ns0:id>
     <ns0:title>comol/ai_rules_1c</ns0:title>
     <ns0:link href="https://github.com/comol/ai_rules_1c"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/comol/ai_rules_1c"&gt;https://github.com/comol/ai_rules_1c&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -94,10 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:hak5:usbrubberducky-payloads:1793750400</ns0:id>
+    <ns0:id>urn:github:hak5:usbrubberducky-payloads:1793836800</ns0:id>
     <ns0:title>hak5/usbrubberducky-payloads</ns0:title>
     <ns0:link href="https://github.com/hak5/usbrubberducky-payloads"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hak5/usbrubberducky-payloads"&gt;https://github.com/hak5/usbrubberducky-payloads&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -106,22 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:irzyxa:Volume2:1793750400</ns0:id>
-    <ns0:title>irzyxa/Volume2</ns0:title>
-    <ns0:link href="https://github.com/irzyxa/Volume2"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/irzyxa/Volume2"&gt;https://github.com/irzyxa/Volume2&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Volume² - advanced Windows volume control.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:javaht:claude-desktop-zh-cn:1793750400</ns0:id>
+    <ns0:id>urn:github:javaht:claude-desktop-zh-cn:1793836800</ns0:id>
     <ns0:title>javaht/claude-desktop-zh-cn</ns0:title>
     <ns0:link href="https://github.com/javaht/claude-desktop-zh-cn"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/javaht/claude-desktop-zh-cn"&gt;https://github.com/javaht/claude-desktop-zh-cn&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -130,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:maester365:maester:1793750400</ns0:id>
+    <ns0:id>urn:github:maester365:maester:1793836800</ns0:id>
     <ns0:title>maester365/maester</ns0:title>
     <ns0:link href="https://github.com/maester365/maester"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/maester365/maester"&gt;https://github.com/maester365/maester&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -142,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mandiant:flare-vm:1793750400</ns0:id>
+    <ns0:id>urn:github:mandiant:flare-vm:1793836800</ns0:id>
     <ns0:title>mandiant/flare-vm</ns0:title>
     <ns0:link href="https://github.com/mandiant/flare-vm"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mandiant/flare-vm"&gt;https://github.com/mandiant/flare-vm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -154,10 +118,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:microsoft:fabric-toolbox:1793750400</ns0:id>
+    <ns0:id>urn:github:microsoft:AL-Go:1793836800</ns0:id>
+    <ns0:title>microsoft/AL-Go</ns0:title>
+    <ns0:link href="https://github.com/microsoft/AL-Go"/>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/AL-Go"&gt;https://github.com/microsoft/AL-Go&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The plug-and-play DevOps solution for Business Central app development on GitHub&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:microsoft:fabric-toolbox:1793836800</ns0:id>
     <ns0:title>microsoft/fabric-toolbox</ns0:title>
     <ns0:link href="https://github.com/microsoft/fabric-toolbox"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/fabric-toolbox"&gt;https://github.com/microsoft/fabric-toolbox&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -166,10 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:microsoft:sql-server-samples:1793750400</ns0:id>
+    <ns0:id>urn:github:microsoft:sql-server-samples:1793836800</ns0:id>
     <ns0:title>microsoft/sql-server-samples</ns0:title>
     <ns0:link href="https://github.com/microsoft/sql-server-samples"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/sql-server-samples"&gt;https://github.com/microsoft/sql-server-samples&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
@@ -178,15 +154,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:microsoft:sre-agent:1793750400</ns0:id>
-    <ns0:title>microsoft/sre-agent</ns0:title>
-    <ns0:link href="https://github.com/microsoft/sre-agent"/>
-    <ns0:updated>2026-11-04T00:00:00</ns0:updated>
+    <ns0:id>urn:github:zhaoxuya520:reverse-skill:1793836800</ns0:id>
+    <ns0:title>zhaoxuya520/reverse-skill</ns0:title>
+    <ns0:link href="https://github.com/zhaoxuya520/reverse-skill"/>
+    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/sre-agent"&gt;https://github.com/microsoft/sre-agent&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zhaoxuya520/reverse-skill"&gt;https://github.com/zhaoxuya520/reverse-skill&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; powershell&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Azure SRE Agent is an AI-powered reliability assistant that helps teams diagnose and resolve production issues, reduce operational toil, and lower mean time to resolution&lt;/div&gt;
+&lt;div&gt;Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
