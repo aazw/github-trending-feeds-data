@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/python/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-06T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:D4Vinci:Scrapling:1793836800</ns0:id>
+    <ns0:id>urn:github:D4Vinci:Scrapling:1793923200</ns0:id>
     <ns0:title>D4Vinci/Scrapling</ns0:title>
     <ns0:link href="https://github.com/D4Vinci/Scrapling"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/D4Vinci/Scrapling"&gt;https://github.com/D4Vinci/Scrapling&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
@@ -22,22 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:NVIDIA:Model-Optimizer:1793836800</ns0:id>
-    <ns0:title>NVIDIA/Model-Optimizer</ns0:title>
-    <ns0:link href="https://github.com/NVIDIA/Model-Optimizer"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:NVIDIA:TensorRT-LLM:1793923200</ns0:id>
+    <ns0:title>NVIDIA/TensorRT-LLM</ns0:title>
+    <ns0:link href="https://github.com/NVIDIA/TensorRT-LLM"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA/Model-Optimizer"&gt;https://github.com/NVIDIA/Model-Optimizer&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA/TensorRT-LLM"&gt;https://github.com/NVIDIA/TensorRT-LLM&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.&lt;/div&gt;
+&lt;div&gt;TensorRT LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and supports state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT LLM also contains components to create Python and C++ runtimes that orchestrate the inference execution in a performant way.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:NVIDIA:auto-ontology:1793836800</ns0:id>
+    <ns0:id>urn:github:NVIDIA:auto-ontology:1793923200</ns0:id>
     <ns0:title>NVIDIA/auto-ontology</ns0:title>
     <ns0:link href="https://github.com/NVIDIA/auto-ontology"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA/auto-ontology"&gt;https://github.com/NVIDIA/auto-ontology&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
@@ -46,118 +46,70 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:The-PR-Agent:pr-agent:1793836800</ns0:id>
-    <ns0:title>The-PR-Agent/pr-agent</ns0:title>
-    <ns0:link href="https://github.com/The-PR-Agent/pr-agent"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:airbytehq:airbyte:1793923200</ns0:id>
+    <ns0:title>airbytehq/airbyte</ns0:title>
+    <ns0:link href="https://github.com/airbytehq/airbyte"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/The-PR-Agent/pr-agent"&gt;https://github.com/The-PR-Agent/pr-agent&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/airbytehq/airbyte"&gt;https://github.com/airbytehq/airbyte&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;🚀 PR Agent: The Original Open-Source PR Reviewer. This project is not the Qodo free tier.&lt;/div&gt;
+&lt;div&gt;Open-source data movement for ELT pipelines and AI agents — from APIs, databases &amp; files to warehouses, lakes, and AI applications. Both self-hosted and Cloud.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Thysrael:Horizon:1793836800</ns0:id>
-    <ns0:title>Thysrael/Horizon</ns0:title>
-    <ns0:link href="https://github.com/Thysrael/Horizon"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:antoniaci:blackbird:1793923200</ns0:id>
+    <ns0:title>antoniaci/blackbird</ns0:title>
+    <ns0:link href="https://github.com/antoniaci/blackbird"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Thysrael/Horizon"&gt;https://github.com/Thysrael/Horizon&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/antoniaci/blackbird"&gt;https://github.com/antoniaci/blackbird&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;📡 Your own AI-powered news radar. Generates daily briefings in English &amp; Chinese. | 用 AI 构建你专属的新闻雷达&lt;/div&gt;
+&lt;div&gt;An OSINT tool to search for accounts by username and email in social networks.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Usagi-org:ai-goofish-monitor:1793836800</ns0:id>
-    <ns0:title>Usagi-org/ai-goofish-monitor</ns0:title>
-    <ns0:link href="https://github.com/Usagi-org/ai-goofish-monitor"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:apache:airflow:1793923200</ns0:id>
+    <ns0:title>apache/airflow</ns0:title>
+    <ns0:link href="https://github.com/apache/airflow"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Usagi-org/ai-goofish-monitor"&gt;https://github.com/Usagi-org/ai-goofish-monitor&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/airflow"&gt;https://github.com/apache/airflow&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;基于 Playwright 和AI实现的闲鱼多任务实时/定时监控与智能分析系统，配备了功能完善的后台管理UI。帮助用户从闲鱼海量商品中，找到心仪产品。&lt;/div&gt;
+&lt;div&gt;Apache Airflow - A platform to programmatically author, schedule, and monitor workflows&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:aws:agent-toolkit-for-aws:1793836800</ns0:id>
-    <ns0:title>aws/agent-toolkit-for-aws</ns0:title>
-    <ns0:link href="https://github.com/aws/agent-toolkit-for-aws"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:dgtlmoon:changedetection.io:1793923200</ns0:id>
+    <ns0:title>dgtlmoon/changedetection.io</ns0:title>
+    <ns0:link href="https://github.com/dgtlmoon/changedetection.io"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aws/agent-toolkit-for-aws"&gt;https://github.com/aws/agent-toolkit-for-aws&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dgtlmoon/changedetection.io"&gt;https://github.com/dgtlmoon/changedetection.io&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS&lt;/div&gt;
+&lt;div&gt;Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring— MCP included! all for free or enjoy our SaaS plan!&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:blacklanternsecurity:bbot:1793836800</ns0:id>
-    <ns0:title>blacklanternsecurity/bbot</ns0:title>
-    <ns0:link href="https://github.com/blacklanternsecurity/bbot"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:django:django:1793923200</ns0:id>
+    <ns0:title>django/django</ns0:title>
+    <ns0:link href="https://github.com/django/django"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/blacklanternsecurity/bbot"&gt;https://github.com/blacklanternsecurity/bbot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/django/django"&gt;https://github.com/django/django&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The recursive internet scanner for hackers. 🧡&lt;/div&gt;
+&lt;div&gt;The Web framework for perfectionists with deadlines.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:derv82:wifit3:1793836800</ns0:id>
-    <ns0:title>derv82/wifit3</ns0:title>
-    <ns0:link href="https://github.com/derv82/wifit3"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/derv82/wifit3"&gt;https://github.com/derv82/wifit3&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Wifite but USB-only &amp; cross-platform.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:github:spec-kit:1793836800</ns0:id>
-    <ns0:title>github/spec-kit</ns0:title>
-    <ns0:link href="https://github.com/github/spec-kit"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/spec-kit"&gt;https://github.com/github/spec-kit&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;💫 Toolkit to help you get started with SDD or any other process!&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:google-gemini:gemini-skills:1793836800</ns0:id>
-    <ns0:title>google-gemini/gemini-skills</ns0:title>
-    <ns0:link href="https://github.com/google-gemini/gemini-skills"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-gemini/gemini-skills"&gt;https://github.com/google-gemini/gemini-skills&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Skills for the Gemini API, SDK and model/agent interactions&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:google-research:timesfm:1793836800</ns0:id>
-    <ns0:title>google-research/timesfm</ns0:title>
-    <ns0:link href="https://github.com/google-research/timesfm"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-research/timesfm"&gt;https://github.com/google-research/timesfm&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:google:skills:1793836800</ns0:id>
+    <ns0:id>urn:github:google:skills:1793923200</ns0:id>
     <ns0:title>google/skills</ns0:title>
     <ns0:link href="https://github.com/google/skills"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/skills"&gt;https://github.com/google/skills&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
@@ -166,34 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:harry0703:MoneyPrinterTurbo:1793836800</ns0:id>
-    <ns0:title>harry0703/MoneyPrinterTurbo</ns0:title>
-    <ns0:link href="https://github.com/harry0703/MoneyPrinterTurbo"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/harry0703/MoneyPrinterTurbo"&gt;https://github.com/harry0703/MoneyPrinterTurbo&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:harvard-edge:cs249r_book:1793836800</ns0:id>
-    <ns0:title>harvard-edge/cs249r_book</ns0:title>
-    <ns0:link href="https://github.com/harvard-edge/cs249r_book"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/harvard-edge/cs249r_book"&gt;https://github.com/harvard-edge/cs249r_book&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:microsoft:VibeVoice:1793836800</ns0:id>
+    <ns0:id>urn:github:microsoft:VibeVoice:1793923200</ns0:id>
     <ns0:title>microsoft/VibeVoice</ns0:title>
     <ns0:link href="https://github.com/microsoft/VibeVoice"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/VibeVoice"&gt;https://github.com/microsoft/VibeVoice&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
@@ -202,27 +130,123 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sandbox-quantum:switch:1793836800</ns0:id>
-    <ns0:title>sandbox-quantum/switch</ns0:title>
-    <ns0:link href="https://github.com/sandbox-quantum/switch"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:mlflow:mlflow:1793923200</ns0:id>
+    <ns0:title>mlflow/mlflow</ns0:title>
+    <ns0:link href="https://github.com/mlflow/mlflow"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sandbox-quantum/switch"&gt;https://github.com/sandbox-quantum/switch&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mlflow/mlflow"&gt;https://github.com/mlflow/mlflow&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model.&lt;/div&gt;
+&lt;div&gt;The open source AI engineering platform for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize production-quality AI applications while controlling costs and managing access to models and data.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:scenario-labs:skills:1793836800</ns0:id>
-    <ns0:title>scenario-labs/skills</ns0:title>
-    <ns0:link href="https://github.com/scenario-labs/skills"/>
-    <ns0:updated>2026-11-05T00:00:00</ns0:updated>
+    <ns0:id>urn:github:numpy:numpy:1793923200</ns0:id>
+    <ns0:title>numpy/numpy</ns0:title>
+    <ns0:link href="https://github.com/numpy/numpy"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scenario-labs/skills"&gt;https://github.com/scenario-labs/skills&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/numpy/numpy"&gt;https://github.com/numpy/numpy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.&lt;/div&gt;
+&lt;div&gt;The fundamental package for scientific computing with Python.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:onnx:onnx:1793923200</ns0:id>
+    <ns0:title>onnx/onnx</ns0:title>
+    <ns0:link href="https://github.com/onnx/onnx"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/onnx/onnx"&gt;https://github.com/onnx/onnx&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open standard for machine learning interoperability&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:pandas-dev:pandas:1793923200</ns0:id>
+    <ns0:title>pandas-dev/pandas</ns0:title>
+    <ns0:link href="https://github.com/pandas-dev/pandas"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pandas-dev/pandas"&gt;https://github.com/pandas-dev/pandas&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:pipeshub-ai:pipeshub-ai:1793923200</ns0:id>
+    <ns0:title>pipeshub-ai/pipeshub-ai</ns0:title>
+    <ns0:link href="https://github.com/pipeshub-ai/pipeshub-ai"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pipeshub-ai/pipeshub-ai"&gt;https://github.com/pipeshub-ai/pipeshub-ai&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The open-source context layer for AI agents. PipesHub turns your company's knowledge (Slack, Drive, Jira, GitHub, Microsoft 365 and 50+ connectors) into a permission-aware workspace that agents can search, grep, navigate and cite. MCP, SDKs and built-in agents. Self-hosted.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:psf:black:1793923200</ns0:id>
+    <ns0:title>psf/black</ns0:title>
+    <ns0:link href="https://github.com/psf/black"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/psf/black"&gt;https://github.com/psf/black&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The uncompromising Python code formatter&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:psf:requests:1793923200</ns0:id>
+    <ns0:title>psf/requests</ns0:title>
+    <ns0:link href="https://github.com/psf/requests"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/psf/requests"&gt;https://github.com/psf/requests&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A simple, yet elegant, HTTP library.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:pydantic:pydantic:1793923200</ns0:id>
+    <ns0:title>pydantic/pydantic</ns0:title>
+    <ns0:link href="https://github.com/pydantic/pydantic"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pydantic/pydantic"&gt;https://github.com/pydantic/pydantic&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Data validation using Python type hints&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:python-poetry:poetry:1793923200</ns0:id>
+    <ns0:title>python-poetry/poetry</ns0:title>
+    <ns0:link href="https://github.com/python-poetry/poetry"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/python-poetry/poetry"&gt;https://github.com/python-poetry/poetry&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Python packaging and dependency management made easy&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:sherlock-project:sherlock:1793923200</ns0:id>
+    <ns0:title>sherlock-project/sherlock</ns0:title>
+    <ns0:link href="https://github.com/sherlock-project/sherlock"/>
+    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sherlock-project/sherlock"&gt;https://github.com/sherlock-project/sherlock&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Hunt down social media accounts by username across social networks&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
