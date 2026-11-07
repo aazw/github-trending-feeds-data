@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - c (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:FareedKhan-dev:kimi-k3-in-c:1794009600</ns0:id>
+    <ns0:title>FareedKhan-dev/kimi-k3-in-c</ns0:title>
+    <ns0:link href="https://github.com/FareedKhan-dev/kimi-k3-in-c"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FareedKhan-dev/kimi-k3-in-c"&gt;https://github.com/FareedKhan-dev/kimi-k3-in-c&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:HarbourMasters:Shipwright:1794009600</ns0:id>
+    <ns0:title>HarbourMasters/Shipwright</ns0:title>
+    <ns0:link href="https://github.com/HarbourMasters/Shipwright"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/HarbourMasters/Shipwright"&gt;https://github.com/HarbourMasters/Shipwright&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:OpenVPN:openvpn:1794009600</ns0:id>
+    <ns0:title>OpenVPN/openvpn</ns0:title>
+    <ns0:link href="https://github.com/OpenVPN/openvpn"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenVPN/openvpn"&gt;https://github.com/OpenVPN/openvpn&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;OpenVPN is an open source VPN daemon&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:curl:curl:1794009600</ns0:id>
+    <ns0:title>curl/curl</ns0:title>
+    <ns0:link href="https://github.com/curl/curl"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/curl/curl"&gt;https://github.com/curl/curl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, MQTTS, POP3, POP3S, RTSP, SCP, SFTP, SMTP, SMTPS, TELNET, TFTP, WS and WSS. libcurl offers a myriad of powerful features&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:lz4:lz4:1794009600</ns0:id>
+    <ns0:title>lz4/lz4</ns0:title>
+    <ns0:link href="https://github.com/lz4/lz4"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lz4/lz4"&gt;https://github.com/lz4/lz4&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Extremely Fast Compression algorithm&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:madler:zlib:1794009600</ns0:id>
+    <ns0:title>madler/zlib</ns0:title>
+    <ns0:link href="https://github.com/madler/zlib"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/madler/zlib"&gt;https://github.com/madler/zlib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A massively spiffy yet delicately unobtrusive compression library.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:meta:zstd:1794009600</ns0:id>
+    <ns0:title>meta/zstd</ns0:title>
+    <ns0:link href="https://github.com/meta/zstd"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/meta/zstd"&gt;https://github.com/meta/zstd&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Zstandard - Fast real-time compression algorithm&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:microsoft:PowerToys:1794009600</ns0:id>
+    <ns0:title>microsoft/PowerToys</ns0:title>
+    <ns0:link href="https://github.com/microsoft/PowerToys"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/PowerToys"&gt;https://github.com/microsoft/PowerToys&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:mpv-player:mpv:1794009600</ns0:id>
+    <ns0:title>mpv-player/mpv</ns0:title>
+    <ns0:link href="https://github.com/mpv-player/mpv"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mpv-player/mpv"&gt;https://github.com/mpv-player/mpv&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🎥 Command line media player&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:openssh:openssh-portable:1794009600</ns0:id>
+    <ns0:title>openssh/openssh-portable</ns0:title>
+    <ns0:link href="https://github.com/openssh/openssh-portable"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openssh/openssh-portable"&gt;https://github.com/openssh/openssh-portable&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Portable OpenSSH&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:openssl:openssl:1794009600</ns0:id>
+    <ns0:title>openssl/openssl</ns0:title>
+    <ns0:link href="https://github.com/openssl/openssl"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openssl/openssl"&gt;https://github.com/openssl/openssl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;General purpose TLS and crypto library&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:signalwire:freeswitch:1794009600</ns0:id>
+    <ns0:title>signalwire/freeswitch</ns0:title>
+    <ns0:link href="https://github.com/signalwire/freeswitch"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/signalwire/freeswitch"&gt;https://github.com/signalwire/freeswitch&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;FreeSWITCH is a Software Defined Telecom Stack enabling the digital transformation from proprietary telecom switches to a versatile software implementation that runs on any commodity hardware. From a Raspberry PI to a multi-core server, FreeSWITCH can unlock the telecommunications potential of any device.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:zeldaret:oot:1794009600</ns0:id>
+    <ns0:title>zeldaret/oot</ns0:title>
+    <ns0:link href="https://github.com/zeldaret/oot"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zeldaret/oot"&gt;https://github.com/zeldaret/oot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Decompilation of The Legend of Zelda: Ocarina of Time&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

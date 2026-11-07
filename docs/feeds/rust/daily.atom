@@ -5,15 +5,39 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-07T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:astral-sh:ruff:1793923200</ns0:id>
+    <ns0:id>urn:github:BurntSushi:ripgrep:1794009600</ns0:id>
+    <ns0:title>BurntSushi/ripgrep</ns0:title>
+    <ns0:link href="https://github.com/BurntSushi/ripgrep"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/BurntSushi/ripgrep"&gt;https://github.com/BurntSushi/ripgrep&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ripgrep recursively searches directories for a regex pattern while respecting your gitignore&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:CapSoftware:Cap:1794009600</ns0:id>
+    <ns0:title>CapSoftware/Cap</ns0:title>
+    <ns0:link href="https://github.com/CapSoftware/Cap"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CapSoftware/Cap"&gt;https://github.com/CapSoftware/Cap&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open source Loom alternative. Beautiful, shareable screen recordings.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:astral-sh:ruff:1794009600</ns0:id>
     <ns0:title>astral-sh/ruff</ns0:title>
     <ns0:link href="https://github.com/astral-sh/ruff"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/astral-sh/ruff"&gt;https://github.com/astral-sh/ruff&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -22,10 +46,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:denoland:deno:1793923200</ns0:id>
+    <ns0:id>urn:github:astral-sh:uv:1794009600</ns0:id>
+    <ns0:title>astral-sh/uv</ns0:title>
+    <ns0:link href="https://github.com/astral-sh/uv"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/astral-sh/uv"&gt;https://github.com/astral-sh/uv&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An extremely fast Python package and project manager, written in Rust.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:denoland:deno:1794009600</ns0:id>
     <ns0:title>denoland/deno</ns0:title>
     <ns0:link href="https://github.com/denoland/deno"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/denoland/deno"&gt;https://github.com/denoland/deno&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -34,22 +70,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:foundry-rs:foundry:1793923200</ns0:id>
-    <ns0:title>foundry-rs/foundry</ns0:title>
-    <ns0:link href="https://github.com/foundry-rs/foundry"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:longbridge:gpui-kit:1794009600</ns0:id>
+    <ns0:title>longbridge/gpui-kit</ns0:title>
+    <ns0:link href="https://github.com/longbridge/gpui-kit"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/foundry-rs/foundry"&gt;https://github.com/foundry-rs/foundry&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/longbridge/gpui-kit"&gt;https://github.com/longbridge/gpui-kit&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.&lt;/div&gt;
+&lt;div&gt;Rust GUI components for building fantastic cross-platform desktop application by using GPUI.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:max-sixty:worktrunk:1793923200</ns0:id>
+    <ns0:id>urn:github:max-sixty:worktrunk:1794009600</ns0:id>
     <ns0:title>max-sixty/worktrunk</ns0:title>
     <ns0:link href="https://github.com/max-sixty/worktrunk"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/max-sixty/worktrunk"&gt;https://github.com/max-sixty/worktrunk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -58,22 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nushell:nushell:1793923200</ns0:id>
-    <ns0:title>nushell/nushell</ns0:title>
-    <ns0:link href="https://github.com/nushell/nushell"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nushell/nushell"&gt;https://github.com/nushell/nushell&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A new type of shell&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:orhun:git-cliff:1793923200</ns0:id>
+    <ns0:id>urn:github:orhun:git-cliff:1794009600</ns0:id>
     <ns0:title>orhun/git-cliff</ns0:title>
     <ns0:link href="https://github.com/orhun/git-cliff"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/orhun/git-cliff"&gt;https://github.com/orhun/git-cliff&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -82,34 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:oven-sh:bun:1793923200</ns0:id>
-    <ns0:title>oven-sh/bun</ns0:title>
-    <ns0:link href="https://github.com/oven-sh/bun"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/oven-sh/bun"&gt;https://github.com/oven-sh/bun&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:rerun-io:rerun:1793923200</ns0:id>
-    <ns0:title>rerun-io/rerun</ns0:title>
-    <ns0:link href="https://github.com/rerun-io/rerun"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rerun-io/rerun"&gt;https://github.com/rerun-io/rerun&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Visualize, query, and stream to train on multimodal robotics data.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:rivet-dev:rivet:1793923200</ns0:id>
+    <ns0:id>urn:github:rivet-dev:rivet:1794009600</ns0:id>
     <ns0:title>rivet-dev/rivet</ns0:title>
     <ns0:link href="https://github.com/rivet-dev/rivet"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rivet-dev/rivet"&gt;https://github.com/rivet-dev/rivet&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -118,22 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rust-lang:cargo:1793923200</ns0:id>
-    <ns0:title>rust-lang/cargo</ns0:title>
-    <ns0:link href="https://github.com/rust-lang/cargo"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rust-lang/cargo"&gt;https://github.com/rust-lang/cargo&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The Rust package manager&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:rust-lang:rust:1793923200</ns0:id>
+    <ns0:id>urn:github:rust-lang:rust:1794009600</ns0:id>
     <ns0:title>rust-lang/rust</ns0:title>
     <ns0:link href="https://github.com/rust-lang/rust"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rust-lang/rust"&gt;https://github.com/rust-lang/rust&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -142,46 +130,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:rust-lang:rust-clippy:1793923200</ns0:id>
-    <ns0:title>rust-lang/rust-clippy</ns0:title>
-    <ns0:link href="https://github.com/rust-lang/rust-clippy"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:rustdesk:rustdesk:1794009600</ns0:id>
+    <ns0:title>rustdesk/rustdesk</ns0:title>
+    <ns0:link href="https://github.com/rustdesk/rustdesk"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rust-lang/rust-clippy"&gt;https://github.com/rust-lang/rust-clippy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rustdesk/rustdesk"&gt;https://github.com/rustdesk/rustdesk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/&lt;/div&gt;
+&lt;div&gt;An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:servo:servo:1793923200</ns0:id>
-    <ns0:title>servo/servo</ns0:title>
-    <ns0:link href="https://github.com/servo/servo"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:serde-rs:serde:1794009600</ns0:id>
+    <ns0:title>serde-rs/serde</ns0:title>
+    <ns0:link href="https://github.com/serde-rs/serde"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/servo/servo"&gt;https://github.com/servo/servo&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/serde-rs/serde"&gt;https://github.com/serde-rs/serde&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.&lt;/div&gt;
+&lt;div&gt;Serialization framework for Rust&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sharkdp:bat:1793923200</ns0:id>
-    <ns0:title>sharkdp/bat</ns0:title>
-    <ns0:link href="https://github.com/sharkdp/bat"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sharkdp/bat"&gt;https://github.com/sharkdp/bat&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A cat(1) clone with wings.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:sharkdp:fd:1793923200</ns0:id>
+    <ns0:id>urn:github:sharkdp:fd:1794009600</ns0:id>
     <ns0:title>sharkdp/fd</ns0:title>
     <ns0:link href="https://github.com/sharkdp/fd"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sharkdp/fd"&gt;https://github.com/sharkdp/fd&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -190,22 +166,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:slint-ui:slint:1793923200</ns0:id>
-    <ns0:title>slint-ui/slint</ns0:title>
-    <ns0:link href="https://github.com/slint-ui/slint"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/slint-ui/slint"&gt;https://github.com/slint-ui/slint&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Slint is an open-source declarative GUI toolkit to build native user interfaces for Rust, C++, JavaScript, or Python apps.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tokio-rs:tokio:1793923200</ns0:id>
+    <ns0:id>urn:github:tokio-rs:tokio:1794009600</ns0:id>
     <ns0:title>tokio-rs/tokio</ns0:title>
     <ns0:link href="https://github.com/tokio-rs/tokio"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tokio-rs/tokio"&gt;https://github.com/tokio-rs/tokio&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -214,10 +178,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:vercel-labs:agent-browser:1793923200</ns0:id>
+    <ns0:id>urn:github:vercel-labs:agent-browser:1794009600</ns0:id>
     <ns0:title>vercel-labs/agent-browser</ns0:title>
     <ns0:link href="https://github.com/vercel-labs/agent-browser"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vercel-labs/agent-browser"&gt;https://github.com/vercel-labs/agent-browser&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -226,10 +190,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:windmill-labs:windmill:1793923200</ns0:id>
+    <ns0:id>urn:github:windmill-labs:windmill:1794009600</ns0:id>
     <ns0:title>windmill-labs/windmill</ns0:title>
     <ns0:link href="https://github.com/windmill-labs/windmill"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/windmill-labs/windmill"&gt;https://github.com/windmill-labs/windmill&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
@@ -238,10 +202,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:zed-industries:zed:1793923200</ns0:id>
+    <ns0:id>urn:github:zed-industries:zed:1794009600</ns0:id>
     <ns0:title>zed-industries/zed</ns0:title>
     <ns0:link href="https://github.com/zed-industries/zed"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zed-industries/zed"&gt;https://github.com/zed-industries/zed&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;

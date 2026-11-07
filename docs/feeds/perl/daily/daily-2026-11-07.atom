@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - perl (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/perl/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:AlDanial:cloc:1794009600</ns0:id>
+    <ns0:title>AlDanial/cloc</ns0:title>
+    <ns0:link href="https://github.com/AlDanial/cloc"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AlDanial/cloc"&gt;https://github.com/AlDanial/cloc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:glpi-project:glpi-agent:1794009600</ns0:id>
+    <ns0:title>glpi-project/glpi-agent</ns0:title>
+    <ns0:link href="https://github.com/glpi-project/glpi-agent"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/glpi-project/glpi-agent"&gt;https://github.com/glpi-project/glpi-agent&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;GLPI Agent&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:yaml:yaml-test-suite:1794009600</ns0:id>
+    <ns0:title>yaml/yaml-test-suite</ns0:title>
+    <ns0:link href="https://github.com/yaml/yaml-test-suite"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/yaml/yaml-test-suite"&gt;https://github.com/yaml/yaml-test-suite&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Comprehensive, language independent Test Suite for YAML&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:znuny:Znuny:1794009600</ns0:id>
+    <ns0:title>znuny/Znuny</ns0:title>
+    <ns0:link href="https://github.com/znuny/Znuny"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/znuny/Znuny"&gt;https://github.com/znuny/Znuny&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; perl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Znuny is a free, open-source, and versatile web-based ticketing system for Customer Service, Help Desk, IT Service Management, and more. It is built for transparency and long-term sustainability and is highly tailorable to your organization's needs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

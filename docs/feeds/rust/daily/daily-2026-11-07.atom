@@ -1,0 +1,216 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - rust (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/rust/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:BurntSushi:ripgrep:1794009600</ns0:id>
+    <ns0:title>BurntSushi/ripgrep</ns0:title>
+    <ns0:link href="https://github.com/BurntSushi/ripgrep"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/BurntSushi/ripgrep"&gt;https://github.com/BurntSushi/ripgrep&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ripgrep recursively searches directories for a regex pattern while respecting your gitignore&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:CapSoftware:Cap:1794009600</ns0:id>
+    <ns0:title>CapSoftware/Cap</ns0:title>
+    <ns0:link href="https://github.com/CapSoftware/Cap"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CapSoftware/Cap"&gt;https://github.com/CapSoftware/Cap&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open source Loom alternative. Beautiful, shareable screen recordings.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:astral-sh:ruff:1794009600</ns0:id>
+    <ns0:title>astral-sh/ruff</ns0:title>
+    <ns0:link href="https://github.com/astral-sh/ruff"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/astral-sh/ruff"&gt;https://github.com/astral-sh/ruff&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An extremely fast Python linter and code formatter, written in Rust.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:astral-sh:uv:1794009600</ns0:id>
+    <ns0:title>astral-sh/uv</ns0:title>
+    <ns0:link href="https://github.com/astral-sh/uv"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/astral-sh/uv"&gt;https://github.com/astral-sh/uv&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An extremely fast Python package and project manager, written in Rust.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:denoland:deno:1794009600</ns0:id>
+    <ns0:title>denoland/deno</ns0:title>
+    <ns0:link href="https://github.com/denoland/deno"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/denoland/deno"&gt;https://github.com/denoland/deno&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A modern runtime for JavaScript and TypeScript.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:longbridge:gpui-kit:1794009600</ns0:id>
+    <ns0:title>longbridge/gpui-kit</ns0:title>
+    <ns0:link href="https://github.com/longbridge/gpui-kit"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/longbridge/gpui-kit"&gt;https://github.com/longbridge/gpui-kit&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Rust GUI components for building fantastic cross-platform desktop application by using GPUI.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:max-sixty:worktrunk:1794009600</ns0:id>
+    <ns0:title>max-sixty/worktrunk</ns0:title>
+    <ns0:link href="https://github.com/max-sixty/worktrunk"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/max-sixty/worktrunk"&gt;https://github.com/max-sixty/worktrunk&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:orhun:git-cliff:1794009600</ns0:id>
+    <ns0:title>orhun/git-cliff</ns0:title>
+    <ns0:link href="https://github.com/orhun/git-cliff"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/orhun/git-cliff"&gt;https://github.com/orhun/git-cliff&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rivet-dev:rivet:1794009600</ns0:id>
+    <ns0:title>rivet-dev/rivet</ns0:title>
+    <ns0:link href="https://github.com/rivet-dev/rivet"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rivet-dev/rivet"&gt;https://github.com/rivet-dev/rivet&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rust-lang:rust:1794009600</ns0:id>
+    <ns0:title>rust-lang/rust</ns0:title>
+    <ns0:link href="https://github.com/rust-lang/rust"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rust-lang/rust"&gt;https://github.com/rust-lang/rust&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Empowering everyone to build reliable and efficient software.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:rustdesk:rustdesk:1794009600</ns0:id>
+    <ns0:title>rustdesk/rustdesk</ns0:title>
+    <ns0:link href="https://github.com/rustdesk/rustdesk"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/rustdesk/rustdesk"&gt;https://github.com/rustdesk/rustdesk&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:serde-rs:serde:1794009600</ns0:id>
+    <ns0:title>serde-rs/serde</ns0:title>
+    <ns0:link href="https://github.com/serde-rs/serde"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/serde-rs/serde"&gt;https://github.com/serde-rs/serde&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Serialization framework for Rust&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:sharkdp:fd:1794009600</ns0:id>
+    <ns0:title>sharkdp/fd</ns0:title>
+    <ns0:link href="https://github.com/sharkdp/fd"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sharkdp/fd"&gt;https://github.com/sharkdp/fd&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A simple, fast and user-friendly alternative to 'find'&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:tokio-rs:tokio:1794009600</ns0:id>
+    <ns0:title>tokio-rs/tokio</ns0:title>
+    <ns0:link href="https://github.com/tokio-rs/tokio"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tokio-rs/tokio"&gt;https://github.com/tokio-rs/tokio&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:vercel-labs:agent-browser:1794009600</ns0:id>
+    <ns0:title>vercel-labs/agent-browser</ns0:title>
+    <ns0:link href="https://github.com/vercel-labs/agent-browser"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vercel-labs/agent-browser"&gt;https://github.com/vercel-labs/agent-browser&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Browser automation CLI for AI agents&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:windmill-labs:windmill:1794009600</ns0:id>
+    <ns0:title>windmill-labs/windmill</ns0:title>
+    <ns0:link href="https://github.com/windmill-labs/windmill"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/windmill-labs/windmill"&gt;https://github.com/windmill-labs/windmill&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Code-first platform for workflows, apps and AI agents, on the fastest self-hostable orchestrator (benchmarked against Airflow, Prefect and Temporal). Business teams build with AI, engineers control what ships. Open-source alternative to Lovable, Retool and n8n.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:zed-industries:zed:1794009600</ns0:id>
+    <ns0:title>zed-industries/zed</ns0:title>
+    <ns0:link href="https://github.com/zed-industries/zed"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zed-industries/zed"&gt;https://github.com/zed-industries/zed&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

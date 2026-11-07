@@ -5,75 +5,39 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c%23/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-07T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Azure:azure-functions-host:1793923200</ns0:id>
-    <ns0:title>Azure/azure-functions-host</ns0:title>
-    <ns0:link href="https://github.com/Azure/azure-functions-host"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:AvaloniaUI:Avalonia:1794009600</ns0:id>
+    <ns0:title>AvaloniaUI/Avalonia</ns0:title>
+    <ns0:link href="https://github.com/AvaloniaUI/Avalonia"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Azure/azure-functions-host"&gt;https://github.com/Azure/azure-functions-host&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AvaloniaUI/Avalonia"&gt;https://github.com/AvaloniaUI/Avalonia&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The host/runtime that powers Azure Functions&lt;/div&gt;
+&lt;div&gt;Develop Desktop, Embedded, Mobile and WebAssembly apps with C# and XAML. The future of .NET UI&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Azure:azure-powershell:1793923200</ns0:id>
-    <ns0:title>Azure/azure-powershell</ns0:title>
-    <ns0:link href="https://github.com/Azure/azure-powershell"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ItsJokerZz:FPKGi:1794009600</ns0:id>
+    <ns0:title>ItsJokerZz/FPKGi</ns0:title>
+    <ns0:link href="https://github.com/ItsJokerZz/FPKGi"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Azure/azure-powershell"&gt;https://github.com/Azure/azure-powershell&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ItsJokerZz/FPKGi"&gt;https://github.com/ItsJokerZz/FPKGi&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Microsoft Azure PowerShell&lt;/div&gt;
+&lt;div&gt;FPKGi is an open-source clone of the PKGi homebrew by Bucanero for PSP, Vita, and PS3. It retains the beloved functionality, UI, background image, and music while bringing the experience back to the latest console generations. It supports custom fake package (FPKG) content via .json files &amp; more! It's ideal for game preservation and personal use.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Azure:azure-sdk-for-net:1793923200</ns0:id>
-    <ns0:title>Azure/azure-sdk-for-net</ns0:title>
-    <ns0:link href="https://github.com/Azure/azure-sdk-for-net"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Azure/azure-sdk-for-net"&gt;https://github.com/Azure/azure-sdk-for-net&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;This repository is for active development of the Azure SDK for .NET. For consumers of the SDK we recommend visiting our public developer docs at https://learn.microsoft.com/dotnet/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-net.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:DataDog:dd-trace-dotnet:1793923200</ns0:id>
-    <ns0:title>DataDog/dd-trace-dotnet</ns0:title>
-    <ns0:link href="https://github.com/DataDog/dd-trace-dotnet"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DataDog/dd-trace-dotnet"&gt;https://github.com/DataDog/dd-trace-dotnet&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;.NET Client Library for Datadog APM&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:MUnique:OpenMU:1793923200</ns0:id>
-    <ns0:title>MUnique/OpenMU</ns0:title>
-    <ns0:link href="https://github.com/MUnique/OpenMU"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MUnique/OpenMU"&gt;https://github.com/MUnique/OpenMU&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:MoFeng2223:BrimDeck:1793923200</ns0:id>
+    <ns0:id>urn:github:MoFeng2223:BrimDeck:1794009600</ns0:id>
     <ns0:title>MoFeng2223/BrimDeck</ns0:title>
     <ns0:link href="https://github.com/MoFeng2223/BrimDeck"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MoFeng2223/BrimDeck"&gt;https://github.com/MoFeng2223/BrimDeck&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
@@ -82,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:QuantConnect:Lean:1793923200</ns0:id>
+    <ns0:id>urn:github:QuantConnect:Lean:1794009600</ns0:id>
     <ns0:title>QuantConnect/Lean</ns0:title>
     <ns0:link href="https://github.com/QuantConnect/Lean"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/QuantConnect/Lean"&gt;https://github.com/QuantConnect/Lean&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
@@ -94,10 +58,70 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:d2phap:ImageGlass:1793923200</ns0:id>
+    <ns0:id>urn:github:ShareX:ShareX:1794009600</ns0:id>
+    <ns0:title>ShareX/ShareX</ns0:title>
+    <ns0:link href="https://github.com/ShareX/ShareX"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ShareX/ShareX"&gt;https://github.com/ShareX/ShareX&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ShareX is a free and open-source application that enables users to capture or record any area of their screen with a single keystroke. It also supports uploading images, text, and various file types to a wide range of destinations.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:SubtitleEdit:subtitleedit:1794009600</ns0:id>
+    <ns0:title>SubtitleEdit/subtitleedit</ns0:title>
+    <ns0:link href="https://github.com/SubtitleEdit/subtitleedit"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SubtitleEdit/subtitleedit"&gt;https://github.com/SubtitleEdit/subtitleedit&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;the subtitle editor :)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Tianyu199509:DeskBox:1794009600</ns0:id>
+    <ns0:title>Tianyu199509/DeskBox</ns0:title>
+    <ns0:link href="https://github.com/Tianyu199509/DeskBox"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Tianyu199509/DeskBox"&gt;https://github.com/Tianyu199509/DeskBox&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A free, open-source Windows desktop organizer with native-feeling WinUI 3 widgets.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Unity-Technologies:ml-agents:1794009600</ns0:id>
+    <ns0:title>Unity-Technologies/ml-agents</ns0:title>
+    <ns0:link href="https://github.com/Unity-Technologies/ml-agents"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Unity-Technologies/ml-agents"&gt;https://github.com/Unity-Technologies/ml-agents&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Unity Machine Learning Agents Toolkit (ML-Agents) is an open-source project that enables games and simulations to serve as environments for training intelligent agents using deep reinforcement learning and imitation learning.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:builtbybel:Bloatynosy:1794009600</ns0:id>
+    <ns0:title>builtbybel/Bloatynosy</ns0:title>
+    <ns0:link href="https://github.com/builtbybel/Bloatynosy"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/builtbybel/Bloatynosy"&gt;https://github.com/builtbybel/Bloatynosy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Windows debloater.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:d2phap:ImageGlass:1794009600</ns0:id>
     <ns0:title>d2phap/ImageGlass</ns0:title>
     <ns0:link href="https://github.com/d2phap/ImageGlass"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/d2phap/ImageGlass"&gt;https://github.com/d2phap/ImageGlass&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
@@ -106,22 +130,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dotnet:android:1793923200</ns0:id>
-    <ns0:title>dotnet/android</ns0:title>
-    <ns0:link href="https://github.com/dotnet/android"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dotnet/android"&gt;https://github.com/dotnet/android&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;.NET for Android provides open-source bindings of the Android SDK for use with .NET managed languages such as C#&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:dotnet:aspnetcore:1793923200</ns0:id>
+    <ns0:id>urn:github:dotnet:aspnetcore:1794009600</ns0:id>
     <ns0:title>dotnet/aspnetcore</ns0:title>
     <ns0:link href="https://github.com/dotnet/aspnetcore"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dotnet/aspnetcore"&gt;https://github.com/dotnet/aspnetcore&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
@@ -130,111 +142,63 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dotnet:efcore:1793923200</ns0:id>
-    <ns0:title>dotnet/efcore</ns0:title>
-    <ns0:link href="https://github.com/dotnet/efcore"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:dotnet:skills:1794009600</ns0:id>
+    <ns0:title>dotnet/skills</ns0:title>
+    <ns0:link href="https://github.com/dotnet/skills"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dotnet/efcore"&gt;https://github.com/dotnet/efcore&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dotnet/skills"&gt;https://github.com/dotnet/skills&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.&lt;/div&gt;
+&lt;div&gt;Repository for skills to assist AI coding agents with .NET and C#&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dotnet:roslyn:1793923200</ns0:id>
-    <ns0:title>dotnet/roslyn</ns0:title>
-    <ns0:link href="https://github.com/dotnet/roslyn"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:jasontaylordev:CleanArchitecture:1794009600</ns0:id>
+    <ns0:title>jasontaylordev/CleanArchitecture</ns0:title>
+    <ns0:link href="https://github.com/jasontaylordev/CleanArchitecture"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dotnet/roslyn"&gt;https://github.com/dotnet/roslyn&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jasontaylordev/CleanArchitecture"&gt;https://github.com/jasontaylordev/CleanArchitecture&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The Roslyn .NET compiler provides C# and Visual Basic languages with rich code analysis APIs.&lt;/div&gt;
+&lt;div&gt;Clean Architecture Solution Template for ASP.NET Core&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dotnet:runtime:1793923200</ns0:id>
-    <ns0:title>dotnet/runtime</ns0:title>
-    <ns0:link href="https://github.com/dotnet/runtime"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:k1tbyte:Wand-Enhancer:1794009600</ns0:id>
+    <ns0:title>k1tbyte/Wand-Enhancer</ns0:title>
+    <ns0:link href="https://github.com/k1tbyte/Wand-Enhancer"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dotnet/runtime"&gt;https://github.com/dotnet/runtime&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/k1tbyte/Wand-Enhancer"&gt;https://github.com/k1tbyte/Wand-Enhancer&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;.NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.&lt;/div&gt;
+&lt;div&gt;Advanced UX and interoperability extension for Wand (WeMod) app&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dotnet:sdk:1793923200</ns0:id>
-    <ns0:title>dotnet/sdk</ns0:title>
-    <ns0:link href="https://github.com/dotnet/sdk"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:lostindark:DriverStoreExplorer:1794009600</ns0:id>
+    <ns0:title>lostindark/DriverStoreExplorer</ns0:title>
+    <ns0:link href="https://github.com/lostindark/DriverStoreExplorer"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dotnet/sdk"&gt;https://github.com/dotnet/sdk&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lostindark/DriverStoreExplorer"&gt;https://github.com/lostindark/DriverStoreExplorer&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Core functionality needed to create .NET Core projects, that is shared between Visual Studio and CLI&lt;/div&gt;
+&lt;div&gt;Driver Store Explorer&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:itsfatduck:optimizerDuck:1793923200</ns0:id>
-    <ns0:title>itsfatduck/optimizerDuck</ns0:title>
-    <ns0:link href="https://github.com/itsfatduck/optimizerDuck"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
+    <ns0:id>urn:github:seerge:g-helper:1794009600</ns0:id>
+    <ns0:title>seerge/g-helper</ns0:title>
+    <ns0:link href="https://github.com/seerge/g-helper"/>
+    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/itsfatduck/optimizerDuck"&gt;https://github.com/itsfatduck/optimizerDuck&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/seerge/g-helper"&gt;https://github.com/seerge/g-helper&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Free, open-source Windows optimization tool for performance, privacy, and simplicity.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:microsoft:aspire:1793923200</ns0:id>
-    <ns0:title>microsoft/aspire</ns0:title>
-    <ns0:link href="https://github.com/microsoft/aspire"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/aspire"&gt;https://github.com/microsoft/aspire&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Aspire is the tool for code-first, extensible, observable dev and deploy.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:microsoft:semantic-kernel:1793923200</ns0:id>
-    <ns0:title>microsoft/semantic-kernel</ns0:title>
-    <ns0:link href="https://github.com/microsoft/semantic-kernel"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/semantic-kernel"&gt;https://github.com/microsoft/semantic-kernel&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Integrate cutting-edge LLM technology quickly and easily into your apps&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:sourcegit-scm:sourcegit:1793923200</ns0:id>
-    <ns0:title>sourcegit-scm/sourcegit</ns0:title>
-    <ns0:link href="https://github.com/sourcegit-scm/sourcegit"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sourcegit-scm/sourcegit"&gt;https://github.com/sourcegit-scm/sourcegit&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Windows/macOS/Linux GUI client for GIT users&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:unoplatform:uno:1793923200</ns0:id>
-    <ns0:title>unoplatform/uno</ns0:title>
-    <ns0:link href="https://github.com/unoplatform/uno"/>
-    <ns0:updated>2026-11-06T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/unoplatform/uno"&gt;https://github.com/unoplatform/uno&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c%23&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Open-source platform for building cross-platform native Mobile, Web, Desktop, and Embedded apps from a single C#/XAML codebase. Work from any IDE/CLI with Hot Reload, Visual Designer, MCPs, and Skills built for modern .NET workflows. 200M+ NuGet downloads.&lt;/div&gt;
+&lt;div&gt;Lightweight Armoury Crate alternative for Asus laptops with nearly the same functionality. Works with ROG Zephyrus, Flow, TUF, Strix, Scar, ProArt, Vivobook, Zenbook, Expertbook, ROG Ally, and more.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
