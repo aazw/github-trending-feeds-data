@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/objective-c/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-08T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:BranchMetrics:ios-branch-sdk-spm:1794009600</ns0:id>
+    <ns0:id>urn:github:34306:FilzaJailedDS:1794096000</ns0:id>
+    <ns0:title>34306/FilzaJailedDS</ns0:title>
+    <ns0:link href="https://github.com/34306/FilzaJailedDS"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/34306/FilzaJailedDS"&gt;https://github.com/34306/FilzaJailedDS&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Filza Jailed Darksword, support iOS 17.0-26.0.1. This repo open source the tweak inject into the Filza iPA (4.0.0 and back, 4.0.2 seems crash something)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:BranchMetrics:ios-branch-sdk-spm:1794096000</ns0:id>
     <ns0:title>BranchMetrics/ios-branch-sdk-spm</ns0:title>
     <ns0:link href="https://github.com/BranchMetrics/ios-branch-sdk-spm"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/BranchMetrics/ios-branch-sdk-spm"&gt;https://github.com/BranchMetrics/ios-branch-sdk-spm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -22,22 +34,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:SDWebImage:SDWebImage:1794009600</ns0:id>
-    <ns0:title>SDWebImage/SDWebImage</ns0:title>
-    <ns0:link href="https://github.com/SDWebImage/SDWebImage"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:PojavLauncherTeam:PojavLauncher_iOS:1794096000</ns0:id>
+    <ns0:title>PojavLauncherTeam/PojavLauncher_iOS</ns0:title>
+    <ns0:link href="https://github.com/PojavLauncherTeam/PojavLauncher_iOS"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SDWebImage/SDWebImage"&gt;https://github.com/SDWebImage/SDWebImage&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PojavLauncherTeam/PojavLauncher_iOS"&gt;https://github.com/PojavLauncherTeam/PojavLauncher_iOS&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Asynchronous image downloader with cache support as a UIImageView category&lt;/div&gt;
+&lt;div&gt;A Minecraft: Java Edition Launcher for Android and iOS based on Boardwalk. Succeeded by https://github.com/AngelAuraMC/Amethyst-iOS&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:bugsnag:bugsnag-cocoa:1794009600</ns0:id>
+    <ns0:id>urn:github:SoCuul:SCInsta:1794096000</ns0:id>
+    <ns0:title>SoCuul/SCInsta</ns0:title>
+    <ns0:link href="https://github.com/SoCuul/SCInsta"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SoCuul/SCInsta"&gt;https://github.com/SoCuul/SCInsta&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A feature-rich tweak for Instagram on iOS!&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:bugsnag:bugsnag-cocoa:1794096000</ns0:id>
     <ns0:title>bugsnag/bugsnag-cocoa</ns0:title>
     <ns0:link href="https://github.com/bugsnag/bugsnag-cocoa"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bugsnag/bugsnag-cocoa"&gt;https://github.com/bugsnag/bugsnag-cocoa&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -46,10 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:danveloper:flash-moe:1794009600</ns0:id>
+    <ns0:id>urn:github:danveloper:flash-moe:1794096000</ns0:id>
     <ns0:title>danveloper/flash-moe</ns0:title>
     <ns0:link href="https://github.com/danveloper/flash-moe"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/danveloper/flash-moe"&gt;https://github.com/danveloper/flash-moe&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -58,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:darlinghq:darling:1794009600</ns0:id>
+    <ns0:id>urn:github:darlinghq:darling:1794096000</ns0:id>
     <ns0:title>darlinghq/darling</ns0:title>
     <ns0:link href="https://github.com/darlinghq/darling"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/darlinghq/darling"&gt;https://github.com/darlinghq/darling&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -70,58 +94,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google:GoogleDataTransport:1794009600</ns0:id>
-    <ns0:title>google/GoogleDataTransport</ns0:title>
-    <ns0:link href="https://github.com/google/GoogleDataTransport"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:geode-sdk:ios-launcher:1794096000</ns0:id>
+    <ns0:title>geode-sdk/ios-launcher</ns0:title>
+    <ns0:link href="https://github.com/geode-sdk/ios-launcher"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/GoogleDataTransport"&gt;https://github.com/google/GoogleDataTransport&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/geode-sdk/ios-launcher"&gt;https://github.com/geode-sdk/ios-launcher&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Manages installing and launching Geometry Dash for iOS&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google:GoogleUtilities:1794009600</ns0:id>
-    <ns0:title>google/GoogleUtilities</ns0:title>
-    <ns0:link href="https://github.com/google/GoogleUtilities"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/GoogleUtilities"&gt;https://github.com/google/GoogleUtilities&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:google:gtm-session-fetcher:1794009600</ns0:id>
-    <ns0:title>google/gtm-session-fetcher</ns0:title>
-    <ns0:link href="https://github.com/google/gtm-session-fetcher"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/gtm-session-fetcher"&gt;https://github.com/google/gtm-session-fetcher&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Google Toolbox for Mac - Session Fetcher&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:google:promises:1794009600</ns0:id>
-    <ns0:title>google/promises</ns0:title>
-    <ns0:link href="https://github.com/google/promises"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/promises"&gt;https://github.com/google/promises&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Promises is a modern framework that provides a synchronization construct for Swift and Objective-C.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:iodefog:VipVideo:1794009600</ns0:id>
+    <ns0:id>urn:github:iodefog:VipVideo:1794096000</ns0:id>
     <ns0:title>iodefog/VipVideo</ns0:title>
     <ns0:link href="https://github.com/iodefog/VipVideo"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/iodefog/VipVideo"&gt;https://github.com/iodefog/VipVideo&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -130,22 +118,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:kstenerud:KSCrash:1794009600</ns0:id>
-    <ns0:title>kstenerud/KSCrash</ns0:title>
-    <ns0:link href="https://github.com/kstenerud/KSCrash"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:mParticle:mparticle-apple-sdk:1794096000</ns0:id>
+    <ns0:title>mParticle/mparticle-apple-sdk</ns0:title>
+    <ns0:link href="https://github.com/mParticle/mparticle-apple-sdk"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kstenerud/KSCrash"&gt;https://github.com/kstenerud/KSCrash&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mParticle/mparticle-apple-sdk"&gt;https://github.com/mParticle/mparticle-apple-sdk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The Ultimate iOS Crash Reporter&lt;/div&gt;
+&lt;div&gt;mParticle Apple SDK&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nfzerox:VirtualMacOniPad:1794009600</ns0:id>
+    <ns0:id>urn:github:nfzerox:VirtualMacOniPad:1794096000</ns0:id>
     <ns0:title>nfzerox/VirtualMacOniPad</ns0:title>
     <ns0:link href="https://github.com/nfzerox/VirtualMacOniPad"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nfzerox/VirtualMacOniPad"&gt;https://github.com/nfzerox/VirtualMacOniPad&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -154,10 +142,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:noah-nuebling:mac-mouse-fix:1794009600</ns0:id>
+    <ns0:id>urn:github:noah-nuebling:mac-mouse-fix:1794096000</ns0:id>
     <ns0:title>noah-nuebling/mac-mouse-fix</ns0:title>
     <ns0:link href="https://github.com/noah-nuebling/mac-mouse-fix"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/noah-nuebling/mac-mouse-fix"&gt;https://github.com/noah-nuebling/mac-mouse-fix&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
@@ -166,15 +154,39 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:opa334:TrollStore:1794009600</ns0:id>
+    <ns0:id>urn:github:opa334:TrollStore:1794096000</ns0:id>
     <ns0:title>opa334/TrollStore</ns0:title>
     <ns0:link href="https://github.com/opa334/TrollStore"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opa334/TrollStore"&gt;https://github.com/opa334/TrollStore&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Jailed iOS app that can install IPAs permanently with arbitary entitlements and root helpers because it trolls Apple&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:skopevoj:spoti.pw:1794096000</ns0:id>
+    <ns0:title>skopevoj/spoti.pw</ns0:title>
+    <ns0:link href="https://github.com/skopevoj/spoti.pw"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/skopevoj/spoti.pw"&gt;https://github.com/skopevoj/spoti.pw&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Liquid Glass UI for the Spotify iOS app, no jailbreak&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:sparkle-project:Sparkle:1794096000</ns0:id>
+    <ns0:title>sparkle-project/Sparkle</ns0:title>
+    <ns0:link href="https://github.com/sparkle-project/Sparkle"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sparkle-project/Sparkle"&gt;https://github.com/sparkle-project/Sparkle&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; objective-c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A software update framework for macOS&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

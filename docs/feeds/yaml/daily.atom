@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/yaml/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-08T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:GTFOBins:GTFOBins.github.io:1794009600</ns0:id>
+    <ns0:id>urn:github:GTFOBins:GTFOBins.github.io:1794096000</ns0:id>
     <ns0:title>GTFOBins/GTFOBins.github.io</ns0:title>
     <ns0:link href="https://github.com/GTFOBins/GTFOBins.github.io"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GTFOBins/GTFOBins.github.io"&gt;https://github.com/GTFOBins/GTFOBins.github.io&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
@@ -22,15 +22,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:KSP-CKAN:NetKAN:1794009600</ns0:id>
+    <ns0:id>urn:github:KSP-CKAN:NetKAN:1794096000</ns0:id>
     <ns0:title>KSP-CKAN/NetKAN</ns0:title>
     <ns0:link href="https://github.com/KSP-CKAN/NetKAN"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/KSP-CKAN/NetKAN"&gt;https://github.com/KSP-CKAN/NetKAN&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Metadata files used by the NetKAN/CKAN indexer for KSP&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:web-platform-dx:web-features:1794096000</ns0:id>
+    <ns0:title>web-platform-dx/web-features</ns0:title>
+    <ns0:link href="https://github.com/web-platform-dx/web-features"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/web-platform-dx/web-features"&gt;https://github.com/web-platform-dx/web-features&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; yaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Exploring how to present Web platform features adoptability&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

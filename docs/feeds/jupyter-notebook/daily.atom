@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/jupyter-notebook/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-08T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:DataTalksClub:data-engineering-zoomcamp:1794009600</ns0:id>
+    <ns0:id>urn:github:DataTalksClub:data-engineering-zoomcamp:1794096000</ns0:id>
     <ns0:title>DataTalksClub/data-engineering-zoomcamp</ns0:title>
     <ns0:link href="https://github.com/DataTalksClub/data-engineering-zoomcamp"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DataTalksClub/data-engineering-zoomcamp"&gt;https://github.com/DataTalksClub/data-engineering-zoomcamp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
@@ -22,22 +22,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Lifelong-Robot-Learning:LIBERO:1794009600</ns0:id>
-    <ns0:title>Lifelong-Robot-Learning/LIBERO</ns0:title>
-    <ns0:link href="https://github.com/Lifelong-Robot-Learning/LIBERO"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:DataTalksClub:llm-zoomcamp:1794096000</ns0:id>
+    <ns0:title>DataTalksClub/llm-zoomcamp</ns0:title>
+    <ns0:link href="https://github.com/DataTalksClub/llm-zoomcamp"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Lifelong-Robot-Learning/LIBERO"&gt;https://github.com/Lifelong-Robot-Learning/LIBERO&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DataTalksClub/llm-zoomcamp"&gt;https://github.com/DataTalksClub/llm-zoomcamp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Benchmarking Knowledge Transfer in Lifelong Robot Learning&lt;/div&gt;
+&lt;div&gt;LLM Zoomcamp - a free online course about real-life applications of LLMs. In 10 weeks you will learn how to build an AI system that answers questions about your knowledge base. Register here 👇🏼&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Lordog:dive-into-llms:1794009600</ns0:id>
+    <ns0:id>urn:github:DataTalksClub:machine-learning-zoomcamp:1794096000</ns0:id>
+    <ns0:title>DataTalksClub/machine-learning-zoomcamp</ns0:title>
+    <ns0:link href="https://github.com/DataTalksClub/machine-learning-zoomcamp"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DataTalksClub/machine-learning-zoomcamp"&gt;https://github.com/DataTalksClub/machine-learning-zoomcamp&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Learn ML engineering for free in 4 months! Register here 👇🏼&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Lordog:dive-into-llms:1794096000</ns0:id>
     <ns0:title>Lordog/dive-into-llms</ns0:title>
     <ns0:link href="https://github.com/Lordog/dive-into-llms"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Lordog/dive-into-llms"&gt;https://github.com/Lordog/dive-into-llms&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
@@ -46,46 +58,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:NirDiamant:GenAI_Agents:1794009600</ns0:id>
-    <ns0:title>NirDiamant/GenAI_Agents</ns0:title>
-    <ns0:link href="https://github.com/NirDiamant/GenAI_Agents"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:UFund-Me:Qbot:1794096000</ns0:id>
+    <ns0:title>UFund-Me/Qbot</ns0:title>
+    <ns0:link href="https://github.com/UFund-Me/Qbot"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NirDiamant/GenAI_Agents"&gt;https://github.com/NirDiamant/GenAI_Agents&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/UFund-Me/Qbot"&gt;https://github.com/UFund-Me/Qbot&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.&lt;/div&gt;
+&lt;div&gt;[🔥updating ...] AI 自动量化交易机器人(完全本地部署) AI-powered Quantitative Investment Research Platform. 📃 online docs: https://ufund-me.github.io/Qbot ✨ :news: qbot-mini: https://github.com/Charmve/iQuant&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:NirDiamant:agents-towards-production:1794009600</ns0:id>
-    <ns0:title>NirDiamant/agents-towards-production</ns0:title>
-    <ns0:link href="https://github.com/NirDiamant/agents-towards-production"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ageron:handson-ml3:1794096000</ns0:id>
+    <ns0:title>ageron/handson-ml3</ns0:title>
+    <ns0:link href="https://github.com/ageron/handson-ml3"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NirDiamant/agents-towards-production"&gt;https://github.com/NirDiamant/agents-towards-production&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ageron/handson-ml3"&gt;https://github.com/ageron/handson-ml3&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.&lt;/div&gt;
+&lt;div&gt;A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Pierian-Data:Complete-Python-3-Bootcamp:1794009600</ns0:id>
-    <ns0:title>Pierian-Data/Complete-Python-3-Bootcamp</ns0:title>
-    <ns0:link href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Pierian-Data/Complete-Python-3-Bootcamp"&gt;https://github.com/Pierian-Data/Complete-Python-3-Bootcamp&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Course Files for Complete Python 3 Bootcamp Course on Udemy&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:anthropics:claude-cookbooks:1794009600</ns0:id>
+    <ns0:id>urn:github:anthropics:claude-cookbooks:1794096000</ns0:id>
     <ns0:title>anthropics/claude-cookbooks</ns0:title>
     <ns0:link href="https://github.com/anthropics/claude-cookbooks"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anthropics/claude-cookbooks"&gt;https://github.com/anthropics/claude-cookbooks&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
@@ -94,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:anthropics:courses:1794009600</ns0:id>
+    <ns0:id>urn:github:anthropics:courses:1794096000</ns0:id>
     <ns0:title>anthropics/courses</ns0:title>
     <ns0:link href="https://github.com/anthropics/courses"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anthropics/courses"&gt;https://github.com/anthropics/courses&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
@@ -106,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:anthropics:prompt-eng-interactive-tutorial:1794009600</ns0:id>
+    <ns0:id>urn:github:anthropics:prompt-eng-interactive-tutorial:1794096000</ns0:id>
     <ns0:title>anthropics/prompt-eng-interactive-tutorial</ns0:title>
     <ns0:link href="https://github.com/anthropics/prompt-eng-interactive-tutorial"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/anthropics/prompt-eng-interactive-tutorial"&gt;https://github.com/anthropics/prompt-eng-interactive-tutorial&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
@@ -118,94 +118,58 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:datawhalechina:every-embodied:1794009600</ns0:id>
-    <ns0:title>datawhalechina/every-embodied</ns0:title>
-    <ns0:link href="https://github.com/datawhalechina/every-embodied"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:chiphuyen:aie-book:1794096000</ns0:id>
+    <ns0:title>chiphuyen/aie-book</ns0:title>
+    <ns0:link href="https://github.com/chiphuyen/aie-book"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/datawhalechina/every-embodied"&gt;https://github.com/datawhalechina/every-embodied&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/chiphuyen/aie-book"&gt;https://github.com/chiphuyen/aie-book&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能&lt;/div&gt;
+&lt;div&gt;[WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:facebookresearch:dinov2:1794009600</ns0:id>
-    <ns0:title>facebookresearch/dinov2</ns0:title>
-    <ns0:link href="https://github.com/facebookresearch/dinov2"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ed-donner:agents:1794096000</ns0:id>
+    <ns0:title>ed-donner/agents</ns0:title>
+    <ns0:link href="https://github.com/ed-donner/agents"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/facebookresearch/dinov2"&gt;https://github.com/facebookresearch/dinov2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ed-donner/agents"&gt;https://github.com/ed-donner/agents&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;PyTorch code and models for the DINOv2 self-supervised learning method.&lt;/div&gt;
+&lt;div&gt;Repo for the Complete Agentic AI Engineering Course&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:facebookresearch:dinov3:1794009600</ns0:id>
-    <ns0:title>facebookresearch/dinov3</ns0:title>
-    <ns0:link href="https://github.com/facebookresearch/dinov3"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:guipsamora:pandas_exercises:1794096000</ns0:id>
+    <ns0:title>guipsamora/pandas_exercises</ns0:title>
+    <ns0:link href="https://github.com/guipsamora/pandas_exercises"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/facebookresearch/dinov3"&gt;https://github.com/facebookresearch/dinov3&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/guipsamora/pandas_exercises"&gt;https://github.com/guipsamora/pandas_exercises&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Reference PyTorch implementation and models for DINOv3&lt;/div&gt;
+&lt;div&gt;Practice your pandas skills!&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:facebookresearch:sam2:1794009600</ns0:id>
-    <ns0:title>facebookresearch/sam2</ns0:title>
-    <ns0:link href="https://github.com/facebookresearch/sam2"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:hugo2046:QuantsPlaybook:1794096000</ns0:id>
+    <ns0:title>hugo2046/QuantsPlaybook</ns0:title>
+    <ns0:link href="https://github.com/hugo2046/QuantsPlaybook"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/facebookresearch/sam2"&gt;https://github.com/facebookresearch/sam2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hugo2046/QuantsPlaybook"&gt;https://github.com/hugo2046/QuantsPlaybook&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.&lt;/div&gt;
+&lt;div&gt;量化研究-券商金工研报复现&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:fastai:fastbook:1794009600</ns0:id>
-    <ns0:title>fastai/fastbook</ns0:title>
-    <ns0:link href="https://github.com/fastai/fastbook"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/fastai/fastbook"&gt;https://github.com/fastai/fastbook&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The fastai book, published as Jupyter Notebooks&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:gepa-ai:gepa:1794009600</ns0:id>
-    <ns0:title>gepa-ai/gepa</ns0:title>
-    <ns0:link href="https://github.com/gepa-ai/gepa"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gepa-ai/gepa"&gt;https://github.com/gepa-ai/gepa&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Optimize prompts, code, and more with AI-powered Reflective Optimization&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:google-gemini:cookbook:1794009600</ns0:id>
-    <ns0:title>google-gemini/cookbook</ns0:title>
-    <ns0:link href="https://github.com/google-gemini/cookbook"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-gemini/cookbook"&gt;https://github.com/google-gemini/cookbook&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Examples and guides for using the Gemini API&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:jackfrued:Python-100-Days:1794009600</ns0:id>
+    <ns0:id>urn:github:jackfrued:Python-100-Days:1794096000</ns0:id>
     <ns0:title>jackfrued/Python-100-Days</ns0:title>
     <ns0:link href="https://github.com/jackfrued/Python-100-Days"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jackfrued/Python-100-Days"&gt;https://github.com/jackfrued/Python-100-Days&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
@@ -214,34 +178,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:langchain-ai:rag-from-scratch:1794009600</ns0:id>
-    <ns0:title>langchain-ai/rag-from-scratch</ns0:title>
-    <ns0:link href="https://github.com/langchain-ai/rag-from-scratch"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:lyogavin:airllm:1794096000</ns0:id>
+    <ns0:title>lyogavin/airllm</ns0:title>
+    <ns0:link href="https://github.com/lyogavin/airllm"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/langchain-ai/rag-from-scratch"&gt;https://github.com/langchain-ai/rag-from-scratch&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lyogavin/airllm"&gt;https://github.com/lyogavin/airllm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;AirLLM 2.8T LLM inference with single 4GB GPU&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:microsoft:ML-For-Beginners:1794009600</ns0:id>
-    <ns0:title>microsoft/ML-For-Beginners</ns0:title>
-    <ns0:link href="https://github.com/microsoft/ML-For-Beginners"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/ML-For-Beginners"&gt;https://github.com/microsoft/ML-For-Beginners&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:mrdbourke:zero-to-mastery-ml:1794009600</ns0:id>
+    <ns0:id>urn:github:mrdbourke:zero-to-mastery-ml:1794096000</ns0:id>
     <ns0:title>mrdbourke/zero-to-mastery-ml</ns0:title>
     <ns0:link href="https://github.com/mrdbourke/zero-to-mastery-ml"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mrdbourke/zero-to-mastery-ml"&gt;https://github.com/mrdbourke/zero-to-mastery-ml&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
@@ -250,22 +202,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openai:openai-cookbook:1794009600</ns0:id>
-    <ns0:title>openai/openai-cookbook</ns0:title>
-    <ns0:link href="https://github.com/openai/openai-cookbook"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:id>urn:github:udlbook:udlbook:1794096000</ns0:id>
+    <ns0:title>udlbook/udlbook</ns0:title>
+    <ns0:link href="https://github.com/udlbook/udlbook"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openai/openai-cookbook"&gt;https://github.com/openai/openai-cookbook&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/udlbook/udlbook"&gt;https://github.com/udlbook/udlbook&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Examples and guides for using the OpenAI API&lt;/div&gt;
+&lt;div&gt;Understanding Deep Learning - Simon J.D. Prince&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:wesm:pydata-book:1794009600</ns0:id>
+    <ns0:id>urn:github:wesm:pydata-book:1794096000</ns0:id>
     <ns0:title>wesm/pydata-book</ns0:title>
     <ns0:link href="https://github.com/wesm/pydata-book"/>
-    <ns0:updated>2026-11-07T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/wesm/pydata-book"&gt;https://github.com/wesm/pydata-book&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; jupyter-notebook&lt;/div&gt;

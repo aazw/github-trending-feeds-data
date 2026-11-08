@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - gherkin (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/gherkin/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:keygen-sh:keygen-api:1794096000</ns0:id>
+    <ns0:title>keygen-sh/keygen-api</ns0:title>
+    <ns0:link href="https://github.com/keygen-sh/keygen-api"/>
+    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/keygen-sh/keygen-api"&gt;https://github.com/keygen-sh/keygen-api&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; gherkin&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Keygen is a modern, fair source software licensing and distribution API. For developers, by developers.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
