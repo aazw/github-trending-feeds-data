@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-09T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:AeneasVerif:aeneas:1794096000</ns0:id>
+    <ns0:id>urn:github:AeneasVerif:aeneas:1794182400</ns0:id>
     <ns0:title>AeneasVerif/aeneas</ns0:title>
     <ns0:link href="https://github.com/AeneasVerif/aeneas"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AeneasVerif/aeneas"&gt;https://github.com/AeneasVerif/aeneas&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
@@ -22,15 +22,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:semgrep:semgrep-interfaces:1794096000</ns0:id>
-    <ns0:title>semgrep/semgrep-interfaces</ns0:title>
-    <ns0:link href="https://github.com/semgrep/semgrep-interfaces"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:id>urn:github:geocaml:ocaml-tiff:1794182400</ns0:id>
+    <ns0:title>geocaml/ocaml-tiff</ns0:title>
+    <ns0:link href="https://github.com/geocaml/ocaml-tiff"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/semgrep/semgrep-interfaces"&gt;https://github.com/semgrep/semgrep-interfaces&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/geocaml/ocaml-tiff"&gt;https://github.com/geocaml/ocaml-tiff&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Store the ATD/openapi/protobuf/... interfaces between semgrep components&lt;/div&gt;
+&lt;div&gt;Pure OCaml library for working with TIFF files&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

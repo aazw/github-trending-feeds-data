@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/scala/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-10T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:JohnSnowLabs:spark-nlp:1794096000</ns0:id>
+    <ns0:id>urn:github:JohnSnowLabs:spark-nlp:1794268800</ns0:id>
     <ns0:title>JohnSnowLabs/spark-nlp</ns0:title>
     <ns0:link href="https://github.com/JohnSnowLabs/spark-nlp"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JohnSnowLabs/spark-nlp"&gt;https://github.com/JohnSnowLabs/spark-nlp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -22,10 +22,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:OpenXiangShan:XiangShanLab:1794096000</ns0:id>
+    <ns0:id>urn:github:OpenXiangShan:XiangShan:1794268800</ns0:id>
+    <ns0:title>OpenXiangShan/XiangShan</ns0:title>
+    <ns0:link href="https://github.com/OpenXiangShan/XiangShan"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenXiangShan/XiangShan"&gt;https://github.com/OpenXiangShan/XiangShan&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open-source high-performance RISC-V processor&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:OpenXiangShan:XiangShanLab:1794268800</ns0:id>
     <ns0:title>OpenXiangShan/XiangShanLab</ns0:title>
     <ns0:link href="https://github.com/OpenXiangShan/XiangShanLab"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenXiangShan/XiangShanLab"&gt;https://github.com/OpenXiangShan/XiangShanLab&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -34,22 +46,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:gluten:1794096000</ns0:id>
-    <ns0:title>apache/gluten</ns0:title>
-    <ns0:link href="https://github.com/apache/gluten"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:id>urn:github:apache:carbondata:1794268800</ns0:id>
+    <ns0:title>apache/carbondata</ns0:title>
+    <ns0:link href="https://github.com/apache/carbondata"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/gluten"&gt;https://github.com/apache/gluten&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/carbondata"&gt;https://github.com/apache/carbondata&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Gluten is a middle layer responsible for offloading JVM-based SQL engines' execution to native engines.&lt;/div&gt;
+&lt;div&gt;High performance data store solution&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:spark:1794096000</ns0:id>
+    <ns0:id>urn:github:apache:spark:1794268800</ns0:id>
     <ns0:title>apache/spark</ns0:title>
     <ns0:link href="https://github.com/apache/spark"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/spark"&gt;https://github.com/apache/spark&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -58,10 +70,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:canton-network:splice:1794096000</ns0:id>
+    <ns0:id>urn:github:apache:texera:1794268800</ns0:id>
+    <ns0:title>apache/texera</ns0:title>
+    <ns0:link href="https://github.com/apache/texera"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/texera"&gt;https://github.com/apache/texera&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Human-AI Collaborative Data Science Using Visual Workflows&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:canton-network:splice:1794268800</ns0:id>
     <ns0:title>canton-network/splice</ns0:title>
     <ns0:link href="https://github.com/canton-network/splice"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/canton-network/splice"&gt;https://github.com/canton-network/splice&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -70,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:delta-io:delta:1794096000</ns0:id>
+    <ns0:id>urn:github:delta-io:delta:1794268800</ns0:id>
     <ns0:title>delta-io/delta</ns0:title>
     <ns0:link href="https://github.com/delta-io/delta"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/delta-io/delta"&gt;https://github.com/delta-io/delta&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -82,34 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:guardian:grid:1794096000</ns0:id>
-    <ns0:title>guardian/grid</ns0:title>
-    <ns0:link href="https://github.com/guardian/grid"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/guardian/grid"&gt;https://github.com/guardian/grid&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;The Guardian’s image management system&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:ie3-institute:simona:1794096000</ns0:id>
-    <ns0:title>ie3-institute/simona</ns0:title>
-    <ns0:link href="https://github.com/ie3-institute/simona"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ie3-institute/simona"&gt;https://github.com/ie3-institute/simona&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;simona is an agent-based discrete-event power system simulation model developed @ie3-institute&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:lichess-org:lila:1794096000</ns0:id>
+    <ns0:id>urn:github:lichess-org:lila:1794268800</ns0:id>
     <ns0:title>lichess-org/lila</ns0:title>
     <ns0:link href="https://github.com/lichess-org/lila"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lichess-org/lila"&gt;https://github.com/lichess-org/lila&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -118,10 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:scala:scala3:1794096000</ns0:id>
+    <ns0:id>urn:github:scala:scala3:1794268800</ns0:id>
     <ns0:title>scala/scala3</ns0:title>
     <ns0:link href="https://github.com/scala/scala3"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/scala/scala3"&gt;https://github.com/scala/scala3&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -130,10 +130,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:twitter:the-algorithm:1794096000</ns0:id>
+    <ns0:id>urn:github:twitter:the-algorithm:1794268800</ns0:id>
     <ns0:title>twitter/the-algorithm</ns0:title>
     <ns0:link href="https://github.com/twitter/the-algorithm"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/twitter/the-algorithm"&gt;https://github.com/twitter/the-algorithm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
@@ -142,51 +142,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ucb-bar:chipyard:1794096000</ns0:id>
+    <ns0:id>urn:github:ucb-bar:chipyard:1794268800</ns0:id>
     <ns0:title>ucb-bar/chipyard</ns0:title>
     <ns0:link href="https://github.com/ucb-bar/chipyard"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ucb-bar/chipyard"&gt;https://github.com/ucb-bar/chipyard&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;An Agile RISC-V SoC Design Framework with in-order cores, out-of-order cores, accelerators, and more&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:ucb-bar:gemmini:1794096000</ns0:id>
-    <ns0:title>ucb-bar/gemmini</ns0:title>
-    <ns0:link href="https://github.com/ucb-bar/gemmini"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ucb-bar/gemmini"&gt;https://github.com/ucb-bar/gemmini&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Berkeley's Spatial Array Generator&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:zio:zio:1794096000</ns0:id>
-    <ns0:title>zio/zio</ns0:title>
-    <ns0:link href="https://github.com/zio/zio"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zio/zio"&gt;https://github.com/zio/zio&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;ZIO — A type-safe, composable library for async and concurrent programming in Scala&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:zio:zio-http:1794096000</ns0:id>
-    <ns0:title>zio/zio-http</ns0:title>
-    <ns0:link href="https://github.com/zio/zio-http"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zio/zio-http"&gt;https://github.com/zio/zio-http&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; scala&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A next-generation Scala framework for building scalable, correct, and efficient HTTP clients and servers&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

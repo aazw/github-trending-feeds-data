@@ -1,0 +1,192 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - c++ (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:BruceDevices:firmware:1794182400</ns0:id>
+    <ns0:title>BruceDevices/firmware</ns0:title>
+    <ns0:link href="https://github.com/BruceDevices/firmware"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/BruceDevices/firmware"&gt;https://github.com/BruceDevices/firmware&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Predatory ESP32 Firmware&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:JakeATX:llamAmpere:1794182400</ns0:id>
+    <ns0:title>JakeATX/llamAmpere</ns0:title>
+    <ns0:link href="https://github.com/JakeATX/llamAmpere"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JakeATX/llamAmpere"&gt;https://github.com/JakeATX/llamAmpere&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:OrcaSlicer:OrcaSlicer:1794182400</ns0:id>
+    <ns0:title>OrcaSlicer/OrcaSlicer</ns0:title>
+    <ns0:link href="https://github.com/OrcaSlicer/OrcaSlicer"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OrcaSlicer/OrcaSlicer"&gt;https://github.com/OrcaSlicer/OrcaSlicer&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:Vita3K:Vita3K:1794182400</ns0:id>
+    <ns0:title>Vita3K/Vita3K</ns0:title>
+    <ns0:link href="https://github.com/Vita3K/Vita3K"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Vita3K/Vita3K"&gt;https://github.com/Vita3K/Vita3K&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Experimental PlayStation Vita emulator&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:boykopovar:AnyPS5:1794182400</ns0:id>
+    <ns0:title>boykopovar/AnyPS5</ns0:title>
+    <ns0:link href="https://github.com/boykopovar/AnyPS5"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/boykopovar/AnyPS5"&gt;https://github.com/boykopovar/AnyPS5&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Tool for automatic PS5 executables porting to Linux and Windows&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cemu-project:Cemu:1794182400</ns0:id>
+    <ns0:title>cemu-project/Cemu</ns0:title>
+    <ns0:link href="https://github.com/cemu-project/Cemu"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cemu-project/Cemu"&gt;https://github.com/cemu-project/Cemu&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Cemu - Wii U emulator&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:dariulone:cyberpunk-vr-port:1794182400</ns0:id>
+    <ns0:title>dariulone/cyberpunk-vr-port</ns0:title>
+    <ns0:link href="https://github.com/dariulone/cyberpunk-vr-port"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dariulone/cyberpunk-vr-port"&gt;https://github.com/dariulone/cyberpunk-vr-port&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:dashdogy:MFG-Unlocker:1794182400</ns0:id>
+    <ns0:title>dashdogy/MFG-Unlocker</ns0:title>
+    <ns0:link href="https://github.com/dashdogy/MFG-Unlocker"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dashdogy/MFG-Unlocker"&gt;https://github.com/dashdogy/MFG-Unlocker&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;DLSS Multi Frame Generation Unlock and controls for any supported MFG title on RTX series GPUs&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:google-deepmind:mujoco:1794182400</ns0:id>
+    <ns0:title>google-deepmind/mujoco</ns0:title>
+    <ns0:link href="https://github.com/google-deepmind/mujoco"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-deepmind/mujoco"&gt;https://github.com/google-deepmind/mujoco&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Multi-Joint dynamics with Contact. A general purpose physics simulator.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:justcallmekoko:ESP32Marauder:1794182400</ns0:id>
+    <ns0:title>justcallmekoko/ESP32Marauder</ns0:title>
+    <ns0:link href="https://github.com/justcallmekoko/ESP32Marauder"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/justcallmekoko/ESP32Marauder"&gt;https://github.com/justcallmekoko/ESP32Marauder&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A suite of WiFi/Bluetooth offensive and defensive tools for the ESP32&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:melonDS-emu:melonDS:1794182400</ns0:id>
+    <ns0:title>melonDS-emu/melonDS</ns0:title>
+    <ns0:link href="https://github.com/melonDS-emu/melonDS"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/melonDS-emu/melonDS"&gt;https://github.com/melonDS-emu/melonDS&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;DS emulator, sorta&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:orailnoor:cross-platform-llm-client:1794182400</ns0:id>
+    <ns0:title>orailnoor/cross-platform-llm-client</ns0:title>
+    <ns0:link href="https://github.com/orailnoor/cross-platform-llm-client"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/orailnoor/cross-platform-llm-client"&gt;https://github.com/orailnoor/cross-platform-llm-client&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:praydog:REFramework:1794182400</ns0:id>
+    <ns0:title>praydog/REFramework</ns0:title>
+    <ns0:link href="https://github.com/praydog/REFramework"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/praydog/REFramework"&gt;https://github.com/praydog/REFramework&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Mod loader, scripting platform, and VR support for all RE Engine games&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:skizzophrenic:SquachWatch-CYD:1794182400</ns0:id>
+    <ns0:title>skizzophrenic/SquachWatch-CYD</ns0:title>
+    <ns0:link href="https://github.com/skizzophrenic/SquachWatch-CYD"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/skizzophrenic/SquachWatch-CYD"&gt;https://github.com/skizzophrenic/SquachWatch-CYD&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;SquachWatch is a firmware for the Cheap Yellow Display that gamifies detecting things like Flock Cameras, Trackers, Meta Glasses and so much more!&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:throneproj:Throne:1794182400</ns0:id>
+    <ns0:title>throneproj/Throne</ns0:title>
+    <ns0:link href="https://github.com/throneproj/Throne"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/throneproj/Throne"&gt;https://github.com/throneproj/Throne&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Cross-platform GUI proxy utility (Empowered by sing-box)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>

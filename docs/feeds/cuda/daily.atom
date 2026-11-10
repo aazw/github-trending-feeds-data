@@ -5,27 +5,39 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/cuda/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-09T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:NVIDIA:raft:1794096000</ns0:id>
-    <ns0:title>NVIDIA/raft</ns0:title>
-    <ns0:link href="https://github.com/NVIDIA/raft"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:id>urn:github:NVIDIA:cuopt:1794182400</ns0:id>
+    <ns0:title>NVIDIA/cuopt</ns0:title>
+    <ns0:link href="https://github.com/NVIDIA/cuopt"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA/raft"&gt;https://github.com/NVIDIA/raft&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NVIDIA/cuopt"&gt;https://github.com/NVIDIA/cuopt&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;RAFT contains fundamental widely-used algorithms and primitives for machine learning and information retrieval. The algorithms are CUDA-accelerated and form building blocks for more easily writing high performance applications.&lt;/div&gt;
+&lt;div&gt;GPU accelerated decision optimization&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:deepseek-ai:DeepEP:1794096000</ns0:id>
+    <ns0:id>urn:github:brucefan1983:GPUMD:1794182400</ns0:id>
+    <ns0:title>brucefan1983/GPUMD</ns0:title>
+    <ns0:link href="https://github.com/brucefan1983/GPUMD"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/brucefan1983/GPUMD"&gt;https://github.com/brucefan1983/GPUMD&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Graphics Processing Units Molecular Dynamics&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:deepseek-ai:DeepEP:1794182400</ns0:id>
     <ns0:title>deepseek-ai/DeepEP</ns0:title>
     <ns0:link href="https://github.com/deepseek-ai/DeepEP"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/deepseek-ai/DeepEP"&gt;https://github.com/deepseek-ai/DeepEP&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
@@ -34,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:deepseek-ai:DeepGEMM:1794096000</ns0:id>
+    <ns0:id>urn:github:deepseek-ai:DeepGEMM:1794182400</ns0:id>
     <ns0:title>deepseek-ai/DeepGEMM</ns0:title>
     <ns0:link href="https://github.com/deepseek-ai/DeepGEMM"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/deepseek-ai/DeepGEMM"&gt;https://github.com/deepseek-ai/DeepGEMM&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
@@ -46,10 +58,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:flashinfer-ai:flashinfer:1794096000</ns0:id>
+    <ns0:id>urn:github:deepseek-ai:DeepSelect:1794182400</ns0:id>
+    <ns0:title>deepseek-ai/DeepSelect</ns0:title>
+    <ns0:link href="https://github.com/deepseek-ai/DeepSelect"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/deepseek-ai/DeepSelect"&gt;https://github.com/deepseek-ai/DeepSelect&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:flashinfer-ai:flashinfer:1794182400</ns0:id>
     <ns0:title>flashinfer-ai/flashinfer</ns0:title>
     <ns0:link href="https://github.com/flashinfer-ai/flashinfer"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/flashinfer-ai/flashinfer"&gt;https://github.com/flashinfer-ai/flashinfer&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
@@ -58,10 +82,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:thu-ml:SageAttention:1794096000</ns0:id>
+    <ns0:id>urn:github:karpathy:llm.c:1794182400</ns0:id>
+    <ns0:title>karpathy/llm.c</ns0:title>
+    <ns0:link href="https://github.com/karpathy/llm.c"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/karpathy/llm.c"&gt;https://github.com/karpathy/llm.c&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;LLM training in simple, raw C/CUDA&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:mirage-project:mirage:1794182400</ns0:id>
+    <ns0:title>mirage-project/mirage</ns0:title>
+    <ns0:link href="https://github.com/mirage-project/mirage"/>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mirage-project/mirage"&gt;https://github.com/mirage-project/mirage&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Mirage Persistent Kernel: Compiling LLMs into a MegaKernel&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:thu-ml:SageAttention:1794182400</ns0:id>
     <ns0:title>thu-ml/SageAttention</ns0:title>
     <ns0:link href="https://github.com/thu-ml/SageAttention"/>
-    <ns0:updated>2026-11-08T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/thu-ml/SageAttention"&gt;https://github.com/thu-ml/SageAttention&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
