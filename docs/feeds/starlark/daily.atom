@@ -10,6 +10,42 @@
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
+    <ns0:id>urn:github:GoogleContainerTools:distroless:1794268800</ns0:id>
+    <ns0:title>GoogleContainerTools/distroless</ns0:title>
+    <ns0:link href="https://github.com/GoogleContainerTools/distroless"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GoogleContainerTools/distroless"&gt;https://github.com/GoogleContainerTools/distroless&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;🥑 Language focused docker images, minus the operating system.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:bazel-contrib:rules_perl:1794268800</ns0:id>
+    <ns0:title>bazel-contrib/rules_perl</ns0:title>
+    <ns0:link href="https://github.com/bazel-contrib/rules_perl"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bazel-contrib/rules_perl"&gt;https://github.com/bazel-contrib/rules_perl&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Perl rules for Bazel&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:bazel-contrib:rules_python:1794268800</ns0:id>
+    <ns0:title>bazel-contrib/rules_python</ns0:title>
+    <ns0:link href="https://github.com/bazel-contrib/rules_python"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bazel-contrib/rules_python"&gt;https://github.com/bazel-contrib/rules_python&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Bazel Python Rules&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
     <ns0:id>urn:github:bazelbuild:bazel-central-registry:1794268800</ns0:id>
     <ns0:title>bazelbuild/bazel-central-registry</ns0:title>
     <ns0:link href="https://github.com/bazelbuild/bazel-central-registry"/>
@@ -22,39 +58,63 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:grpc:grpc-proto:1794268800</ns0:id>
-    <ns0:title>grpc/grpc-proto</ns0:title>
-    <ns0:link href="https://github.com/grpc/grpc-proto"/>
+    <ns0:id>urn:github:cel-expr:cel-spec:1794268800</ns0:id>
+    <ns0:title>cel-expr/cel-spec</ns0:title>
+    <ns0:link href="https://github.com/cel-expr/cel-spec"/>
     <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/grpc/grpc-proto"&gt;https://github.com/grpc/grpc-proto&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cel-expr/cel-spec"&gt;https://github.com/cel-expr/cel-spec&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;gRPC-defined protobufs for peripheral services such as health checking, load balancing, etc.&lt;/div&gt;
+&lt;div&gt;Common Expression Language -- specification and binary representation&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openconfig:gnoi:1794268800</ns0:id>
-    <ns0:title>openconfig/gnoi</ns0:title>
-    <ns0:link href="https://github.com/openconfig/gnoi"/>
+    <ns0:id>urn:github:cncf:xds:1794268800</ns0:id>
+    <ns0:title>cncf/xds</ns0:title>
+    <ns0:link href="https://github.com/cncf/xds"/>
     <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openconfig/gnoi"&gt;https://github.com/openconfig/gnoi&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cncf/xds"&gt;https://github.com/cncf/xds&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;gRPC Network Operations Interface (gNOI) defines a set of gRPC-based microservices for executing operational commands on network devices.&lt;/div&gt;
+&lt;div&gt;xDS API Working Group&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:tronbyt:apps:1794268800</ns0:id>
-    <ns0:title>tronbyt/apps</ns0:title>
-    <ns0:link href="https://github.com/tronbyt/apps"/>
+    <ns0:id>urn:github:googleapis:googleapis:1794268800</ns0:id>
+    <ns0:title>googleapis/googleapis</ns0:title>
+    <ns0:link href="https://github.com/googleapis/googleapis"/>
     <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tronbyt/apps"&gt;https://github.com/tronbyt/apps&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/googleapis/googleapis"&gt;https://github.com/googleapis/googleapis&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Hard Fork of Tidbyt Community Repo&lt;/div&gt;
+&lt;div&gt;Public interface definitions of Google APIs.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:tilt-dev:tilt-extensions:1794268800</ns0:id>
+    <ns0:title>tilt-dev/tilt-extensions</ns0:title>
+    <ns0:link href="https://github.com/tilt-dev/tilt-extensions"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tilt-dev/tilt-extensions"&gt;https://github.com/tilt-dev/tilt-extensions&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Extensions for Tilt&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:uber:hermetic_cc_toolchain:1794268800</ns0:id>
+    <ns0:title>uber/hermetic_cc_toolchain</ns0:title>
+    <ns0:link href="https://github.com/uber/hermetic_cc_toolchain"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/uber/hermetic_cc_toolchain"&gt;https://github.com/uber/hermetic_cc_toolchain&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; starlark&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Bazel C/C++ toolchain for cross-compiling C/C++ programs&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

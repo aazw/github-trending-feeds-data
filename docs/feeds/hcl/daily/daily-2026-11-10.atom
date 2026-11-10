@@ -5,51 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-10T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:Azure:terraform-azurerm-avm-res-keyvault-vault:1794182400</ns0:id>
-    <ns0:title>Azure/terraform-azurerm-avm-res-keyvault-vault</ns0:title>
-    <ns0:link href="https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault"&gt;https://github.com/Azure/terraform-azurerm-avm-res-keyvault-vault&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Terraform Azure Verified Resource Module for Key Vault&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:Azure:terraform-azurerm-avm-res-storage-storageaccount:1794182400</ns0:id>
-    <ns0:title>Azure/terraform-azurerm-avm-res-storage-storageaccount</ns0:title>
-    <ns0:link href="https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount"&gt;https://github.com/Azure/terraform-azurerm-avm-res-storage-storageaccount&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Terraform Azure Verified Resource Module for Storage Account&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:Azure:terraform-azurerm-naming:1794182400</ns0:id>
-    <ns0:title>Azure/terraform-azurerm-naming</ns0:title>
-    <ns0:link href="https://github.com/Azure/terraform-azurerm-naming"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Azure/terraform-azurerm-naming"&gt;https://github.com/Azure/terraform-azurerm-naming&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:GoogleCloudPlatform:cloud-foundation-fabric:1794182400</ns0:id>
+    <ns0:id>urn:github:GoogleCloudPlatform:cloud-foundation-fabric:1794268800</ns0:id>
     <ns0:title>GoogleCloudPlatform/cloud-foundation-fabric</ns0:title>
     <ns0:link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric"&gt;https://github.com/GoogleCloudPlatform/cloud-foundation-fabric&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -58,10 +22,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:LinkedInLearning:learning-terraform-3087701:1794182400</ns0:id>
+    <ns0:id>urn:github:LinkedInLearning:learning-terraform-3087701:1794268800</ns0:id>
     <ns0:title>LinkedInLearning/learning-terraform-3087701</ns0:title>
     <ns0:link href="https://github.com/LinkedInLearning/learning-terraform-3087701"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LinkedInLearning/learning-terraform-3087701"&gt;https://github.com/LinkedInLearning/learning-terraform-3087701&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -70,58 +34,70 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:RaJiska:terraform-aws-fck-nat:1794182400</ns0:id>
-    <ns0:title>RaJiska/terraform-aws-fck-nat</ns0:title>
-    <ns0:link href="https://github.com/RaJiska/terraform-aws-fck-nat"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:cloudposse:terraform-aws-ecs-container-definition:1794268800</ns0:id>
+    <ns0:title>cloudposse/terraform-aws-ecs-container-definition</ns0:title>
+    <ns0:link href="https://github.com/cloudposse/terraform-aws-ecs-container-definition"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/RaJiska/terraform-aws-fck-nat"&gt;https://github.com/RaJiska/terraform-aws-fck-nat&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudposse/terraform-aws-ecs-container-definition"&gt;https://github.com/cloudposse/terraform-aws-ecs-container-definition&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Terraform module for fck-nat&lt;/div&gt;
+&lt;div&gt;Terraform module to generate well-formed JSON documents (container definitions) that are passed to the aws_ecs_task_definition Terraform resource&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:awslabs:ai-on-eks:1794182400</ns0:id>
-    <ns0:title>awslabs/ai-on-eks</ns0:title>
-    <ns0:link href="https://github.com/awslabs/ai-on-eks"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-lambda:1794268800</ns0:id>
+    <ns0:title>terraform-aws-modules/terraform-aws-lambda</ns0:title>
+    <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-lambda"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/awslabs/ai-on-eks"&gt;https://github.com/awslabs/ai-on-eks&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-lambda"&gt;https://github.com/terraform-aws-modules/terraform-aws-lambda&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;AI on EKS - Tested AI/ML for Amazon Elastic Kubernetes Service&lt;/div&gt;
+&lt;div&gt;Terraform module, which takes care of a lot of AWS Lambda/serverless tasks (build dependencies, packages, updates, deployments) in countless combinations 🇺🇦&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:semgrep:semgrep-rules:1794182400</ns0:id>
-    <ns0:title>semgrep/semgrep-rules</ns0:title>
-    <ns0:link href="https://github.com/semgrep/semgrep-rules"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-s3-bucket:1794268800</ns0:id>
+    <ns0:title>terraform-aws-modules/terraform-aws-s3-bucket</ns0:title>
+    <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-s3-bucket"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/semgrep/semgrep-rules"&gt;https://github.com/semgrep/semgrep-rules&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-s3-bucket"&gt;https://github.com/terraform-aws-modules/terraform-aws-s3-bucket&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.&lt;/div&gt;
+&lt;div&gt;Terraform module to create AWS S3 resources 🇺🇦&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-google-modules:terraform-google-bigquery:1794182400</ns0:id>
-    <ns0:title>terraform-google-modules/terraform-google-bigquery</ns0:title>
-    <ns0:link href="https://github.com/terraform-google-modules/terraform-google-bigquery"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:terraform-aws-modules:terraform-aws-vpc:1794268800</ns0:id>
+    <ns0:title>terraform-aws-modules/terraform-aws-vpc</ns0:title>
+    <ns0:link href="https://github.com/terraform-aws-modules/terraform-aws-vpc"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-bigquery"&gt;https://github.com/terraform-google-modules/terraform-google-bigquery&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-aws-modules/terraform-aws-vpc"&gt;https://github.com/terraform-aws-modules/terraform-aws-vpc&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Creates opinionated BigQuery datasets and tables&lt;/div&gt;
+&lt;div&gt;Terraform module to create AWS VPC resources 🇺🇦&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-google-modules:terraform-google-lb-http:1794182400</ns0:id>
+    <ns0:id>urn:github:terraform-google-modules:terraform-google-kms:1794268800</ns0:id>
+    <ns0:title>terraform-google-modules/terraform-google-kms</ns0:title>
+    <ns0:link href="https://github.com/terraform-google-modules/terraform-google-kms"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-kms"&gt;https://github.com/terraform-google-modules/terraform-google-kms&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Allows managing a keyring, zero or more keys in the keyring, and IAM role bindings on individual keys&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:terraform-google-modules:terraform-google-lb-http:1794268800</ns0:id>
     <ns0:title>terraform-google-modules/terraform-google-lb-http</ns0:title>
     <ns0:link href="https://github.com/terraform-google-modules/terraform-google-lb-http"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-lb-http"&gt;https://github.com/terraform-google-modules/terraform-google-lb-http&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -130,10 +106,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:terraform-google-modules:terraform-google-memorystore:1794182400</ns0:id>
+    <ns0:id>urn:github:terraform-google-modules:terraform-google-memorystore:1794268800</ns0:id>
     <ns0:title>terraform-google-modules/terraform-google-memorystore</ns0:title>
     <ns0:link href="https://github.com/terraform-google-modules/terraform-google-memorystore"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/terraform-google-modules/terraform-google-memorystore"&gt;https://github.com/terraform-google-modules/terraform-google-memorystore&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
@@ -142,10 +118,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:zealvora:terraform-beginner-to-advanced-resource:1794182400</ns0:id>
+    <ns0:id>urn:github:zealvora:terraform-beginner-to-advanced-resource:1794268800</ns0:id>
     <ns0:title>zealvora/terraform-beginner-to-advanced-resource</ns0:title>
     <ns0:link href="https://github.com/zealvora/terraform-beginner-to-advanced-resource"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zealvora/terraform-beginner-to-advanced-resource"&gt;https://github.com/zealvora/terraform-beginner-to-advanced-resource&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;

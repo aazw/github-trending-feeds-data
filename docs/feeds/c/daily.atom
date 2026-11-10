@@ -5,44 +5,92 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-10T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:FoloToy:ai-passport:1794182400</ns0:id>
-    <ns0:title>FoloToy/ai-passport</ns0:title>
-    <ns0:link href="https://github.com/FoloToy/ai-passport"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:InterceptSuite:ProxyBridge:1794268800</ns0:id>
+    <ns0:title>InterceptSuite/ProxyBridge</ns0:title>
+    <ns0:link href="https://github.com/InterceptSuite/ProxyBridge"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FoloToy/ai-passport"&gt;https://github.com/FoloToy/ai-passport&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/InterceptSuite/ProxyBridge"&gt;https://github.com/InterceptSuite/ProxyBridge&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;FOLOTOY AI Passport develop resources for Agent&lt;/div&gt;
+&lt;div&gt;Simple Proxy Client to force proxy to any Windows/MacOS/Linux Application TCP and UDP traffic&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:raysan5:raylib:1794182400</ns0:id>
-    <ns0:title>raysan5/raylib</ns0:title>
-    <ns0:link href="https://github.com/raysan5/raylib"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Zelda64Recomp:Zelda64Recomp:1794268800</ns0:id>
+    <ns0:title>Zelda64Recomp/Zelda64Recomp</ns0:title>
+    <ns0:link href="https://github.com/Zelda64Recomp/Zelda64Recomp"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/raysan5/raylib"&gt;https://github.com/raysan5/raylib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Zelda64Recomp/Zelda64Recomp"&gt;https://github.com/Zelda64Recomp/Zelda64Recomp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A simple and easy-to-use library to enjoy videogames programming&lt;/div&gt;
+&lt;div&gt;Static recompilation of Majora's Mask (and soon Ocarina of Time) for PC (Windows/Linux/Mac)&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sp00nznet:xboxrecomp:1794182400</ns0:id>
+    <ns0:id>urn:github:madler:zlib:1794268800</ns0:id>
+    <ns0:title>madler/zlib</ns0:title>
+    <ns0:link href="https://github.com/madler/zlib"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/madler/zlib"&gt;https://github.com/madler/zlib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A massively spiffy yet delicately unobtrusive compression library.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:nrfconnect:sdk-nrf:1794268800</ns0:id>
+    <ns0:title>nrfconnect/sdk-nrf</ns0:title>
+    <ns0:link href="https://github.com/nrfconnect/sdk-nrf"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nrfconnect/sdk-nrf"&gt;https://github.com/nrfconnect/sdk-nrf&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;nRF Connect SDK main repository&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:redcanaryco:atomic-red-team:1794268800</ns0:id>
+    <ns0:title>redcanaryco/atomic-red-team</ns0:title>
+    <ns0:link href="https://github.com/redcanaryco/atomic-red-team"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/redcanaryco/atomic-red-team"&gt;https://github.com/redcanaryco/atomic-red-team&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Small and highly portable detection tests based on MITRE's ATT&amp;CK.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:sp00nznet:xboxrecomp:1794268800</ns0:id>
     <ns0:title>sp00nznet/xboxrecomp</ns0:title>
     <ns0:link href="https://github.com/sp00nznet/xboxrecomp"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sp00nznet/xboxrecomp"&gt;https://github.com/sp00nznet/xboxrecomp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;Turn any Xbox game binary into a native Windows executable. No emulation. No interpreter. Just raw, recompiled C.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:zeldaret:oot:1794268800</ns0:id>
+    <ns0:title>zeldaret/oot</ns0:title>
+    <ns0:link href="https://github.com/zeldaret/oot"/>
+    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zeldaret/oot"&gt;https://github.com/zeldaret/oot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Decompilation of The Legend of Zelda: Ocarina of Time&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
