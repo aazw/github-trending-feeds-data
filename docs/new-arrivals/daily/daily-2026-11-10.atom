@@ -5,212 +5,68 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/new-arrivals/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-10T00:08:22+00:00</ns0:updated>
+  <ns0:updated>2026-11-10T21:40:11+00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:deepseek-ai:DeepSelect:1794182400</ns0:id>
-    <ns0:title>[cuda] deepseek-ai/DeepSelect</ns0:title>
-    <ns0:link href="https://github.com/deepseek-ai/DeepSelect"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/deepseek-ai/DeepSelect"&gt;https://github.com/deepseek-ai/DeepSelect&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; cuda&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;DeepSelect: TopK kernels for DeepSeek Sparse Attention (DSA) and Samplers&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:opensandbox-group:OpenSandbox:1794182400</ns0:id>
-    <ns0:title>[python] opensandbox-group/OpenSandbox</ns0:title>
-    <ns0:link href="https://github.com/opensandbox-group/OpenSandbox"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opensandbox-group/OpenSandbox"&gt;https://github.com/opensandbox-group/OpenSandbox&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; python&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Secure, Fast, and Extensible Sandbox runtime for AI agents.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:github:copilot-app-for-beginners:1794268800</ns0:id>
-    <ns0:title>[unknown] github/copilot-app-for-beginners</ns0:title>
-    <ns0:link href="https://github.com/github/copilot-app-for-beginners"/>
+    <ns0:id>urn:github:dsx-ai-factory:run-ai:1794268800</ns0:id>
+    <ns0:title>[go] dsx-ai-factory/run-ai</ns0:title>
+    <ns0:link href="https://github.com/dsx-ai-factory/run-ai"/>
     <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/github/copilot-app-for-beginners"&gt;https://github.com/github/copilot-app-for-beginners&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; unknown&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dsx-ai-factory/run-ai"&gt;https://github.com/dsx-ai-factory/run-ai&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Learn how to get started using the GitHub Copilot app!&lt;/div&gt;
+&lt;div&gt;Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:engineyard:engineyard-jenkins:1794268800</ns0:id>
-    <ns0:title>[ruby] engineyard/engineyard-jenkins</ns0:title>
-    <ns0:link href="https://github.com/engineyard/engineyard-jenkins"/>
+    <ns0:id>urn:github:WhiteTowerAI:ohmygame:1794268800</ns0:id>
+    <ns0:title>[typescript] WhiteTowerAI/ohmygame</ns0:title>
+    <ns0:link href="https://github.com/WhiteTowerAI/ohmygame"/>
     <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/engineyard/engineyard-jenkins"&gt;https://github.com/engineyard/engineyard-jenkins&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/WhiteTowerAI/ohmygame"&gt;https://github.com/WhiteTowerAI/ohmygame&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;This project is deprecated in favour of eycloud-app-jenkins.&lt;/div&gt;
+&lt;div&gt;The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas. Bring your own key.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:engineyard:rails_metrics:1794268800</ns0:id>
-    <ns0:title>[ruby] engineyard/rails_metrics</ns0:title>
-    <ns0:link href="https://github.com/engineyard/rails_metrics"/>
+    <ns0:id>urn:github:amanthanvi:noctty:1794268800</ns0:id>
+    <ns0:title>[zig] amanthanvi/noctty</ns0:title>
+    <ns0:link href="https://github.com/amanthanvi/noctty"/>
     <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/engineyard/rails_metrics"&gt;https://github.com/engineyard/rails_metrics&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ruby&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/amanthanvi/noctty"&gt;https://github.com/amanthanvi/noctty&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; zig&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Engine for tracking various metrics related to a Rails 3 application&lt;/div&gt;
+&lt;div&gt;A fast, native terminal for Windows. Formerly winghostty. 🌙&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:orwa-mahmoud:nightshift:1794268800</ns0:id>
-    <ns0:title>[shell] orwa-mahmoud/nightshift</ns0:title>
-    <ns0:link href="https://github.com/orwa-mahmoud/nightshift"/>
+    <ns0:id>urn:github:hack-gpon:hack-gpon.github.io:1794268800</ns0:id>
+    <ns0:title>[vue] hack-gpon/hack-gpon.github.io</ns0:title>
+    <ns0:link href="https://github.com/hack-gpon/hack-gpon.github.io"/>
     <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/orwa-mahmoud/nightshift"&gt;https://github.com/orwa-mahmoud/nightshift&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; shell&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/hack-gpon/hack-gpon.github.io"&gt;https://github.com/hack-gpon/hack-gpon.github.io&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; vue&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Accountable long-running coding shifts for Cursor, Codex, and Claude Code. Safe autonomy, recovery, persistent state, and reviewable results a clear view of what’s done, in progress, parked, or blocked—without scrolling a marathon chat.&lt;/div&gt;
+&lt;div&gt;Worldwide wiki on how to access, change and edit ONTs&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:CeeJayDK:SweetFX:1794182400</ns0:id>
-    <ns0:title>[hlsl] CeeJayDK/SweetFX</ns0:title>
-    <ns0:link href="https://github.com/CeeJayDK/SweetFX"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CeeJayDK/SweetFX"&gt;https://github.com/CeeJayDK/SweetFX&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hlsl&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tidain:YunX-Desktop:1794182400</ns0:id>
-    <ns0:title>[kotlin] tidain/YunX-Desktop</ns0:title>
-    <ns0:link href="https://github.com/tidain/YunX-Desktop"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tidain/YunX-Desktop"&gt;https://github.com/tidain/YunX-Desktop&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;YunX（云析）的官方 windows 桌面端&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:ViceVerse-cz:Serein:1794268800</ns0:id>
-    <ns0:title>[rust] ViceVerse-cz/Serein</ns0:title>
-    <ns0:link href="https://github.com/ViceVerse-cz/Serein"/>
+    <ns0:id>urn:github:yancharkin:SpelunkyClassicHD:1794268800</ns0:id>
+    <ns0:title>[game-maker-language] yancharkin/SpelunkyClassicHD</ns0:title>
+    <ns0:link href="https://github.com/yancharkin/SpelunkyClassicHD"/>
     <ns0:updated>2026-11-10T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ViceVerse-cz/Serein"&gt;https://github.com/ViceVerse-cz/Serein&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/yancharkin/SpelunkyClassicHD"&gt;https://github.com/yancharkin/SpelunkyClassicHD&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; game-maker-language&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Tiny, Performant &amp; 100% Native client for Discord made in Rust&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:ooolabdev:ooosplat:1794268800</ns0:id>
-    <ns0:title>[rust] ooolabdev/ooosplat</ns0:title>
-    <ns0:link href="https://github.com/ooolabdev/ooosplat"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ooolabdev/ooosplat"&gt;https://github.com/ooolabdev/ooosplat&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; rust&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A local desktop app that turns videos and images into 3D Gaussian Splats in one click.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:StructuralEquationModels:StructuralEquationModels.jl:1794182400</ns0:id>
-    <ns0:title>[julia] StructuralEquationModels/StructuralEquationModels.jl</ns0:title>
-    <ns0:link href="https://github.com/StructuralEquationModels/StructuralEquationModels.jl"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/StructuralEquationModels/StructuralEquationModels.jl"&gt;https://github.com/StructuralEquationModels/StructuralEquationModels.jl&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; julia&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A fast and flexible Structural Equation Modelling Framework&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:JakeATX:llamAmpere:1794182400</ns0:id>
-    <ns0:title>[c++] JakeATX/llamAmpere</ns0:title>
-    <ns0:link href="https://github.com/JakeATX/llamAmpere"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JakeATX/llamAmpere"&gt;https://github.com/JakeATX/llamAmpere&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:skizzophrenic:SquachWatch-CYD:1794182400</ns0:id>
-    <ns0:title>[c++] skizzophrenic/SquachWatch-CYD</ns0:title>
-    <ns0:link href="https://github.com/skizzophrenic/SquachWatch-CYD"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/skizzophrenic/SquachWatch-CYD"&gt;https://github.com/skizzophrenic/SquachWatch-CYD&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;SquachWatch is a firmware for the Cheap Yellow Display that gamifies detecting things like Flock Cameras, Trackers, Meta Glasses and so much more!&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:Weiss-UltimateSavior:Tyranor-Next:1794182400</ns0:id>
-    <ns0:title>[html] Weiss-UltimateSavior/Tyranor-Next</ns0:title>
-    <ns0:link href="https://github.com/Weiss-UltimateSavior/Tyranor-Next"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Weiss-UltimateSavior/Tyranor-Next"&gt;https://github.com/Weiss-UltimateSavior/Tyranor-Next&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; html&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;多引擎视觉小说（Galgame）模拟器，面向 Android 平台。内置 Kirikiri / ONScripter / Tyrano / Artemis / Siglus / FVP 六套引擎运行环境，并支持 Ren'Py、RPG Maker RGSS 外置 APK 引擎模块与 PSP / Nintendo Switch 外置模拟器跳转（PPSSPP / Eden），可识别和启动多类游戏，提供游戏库管理、封面获取、存档镜像、引擎参数调节等一体化体验。&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:KrisTHL181:Break-This-Repo:1794182400</ns0:id>
-    <ns0:title>[mcfunction] KrisTHL181/Break-This-Repo</ns0:title>
-    <ns0:link href="https://github.com/KrisTHL181/Break-This-Repo"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/KrisTHL181/Break-This-Repo"&gt;https://github.com/KrisTHL181/Break-This-Repo&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; mcfunction&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;This repository automatically merges pull requests without conflicts. All text is subject to edits via PR and shouldn't be trusted.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:BrisklyDev:brisk:1794182400</ns0:id>
-    <ns0:title>[dart] BrisklyDev/brisk</ns0:title>
-    <ns0:link href="https://github.com/BrisklyDev/brisk"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/BrisklyDev/brisk"&gt;https://github.com/BrisklyDev/brisk&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; dart&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Ultra-fast, modern download manager for desktop&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:AllTheMods:ATM-11:1794182400</ns0:id>
-    <ns0:title>[groovy] AllTheMods/ATM-11</ns0:title>
-    <ns0:link href="https://github.com/AllTheMods/ATM-11"/>
-    <ns0:updated>2026-11-09T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AllTheMods/ATM-11"&gt;https://github.com/AllTheMods/ATM-11&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; groovy&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;ATM-11&lt;/div&gt;
+&lt;div&gt;A modified version of Derek Yu's game Spelunky Classic.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
