@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/kotlin/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-11T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:CYQawa:YunX:1794268800</ns0:id>
+    <ns0:id>urn:github:2dust:v2rayNG:1794355200</ns0:id>
+    <ns0:title>2dust/v2rayNG</ns0:title>
+    <ns0:link href="https://github.com/2dust/v2rayNG"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/2dust/v2rayNG"&gt;https://github.com/2dust/v2rayNG&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A V2Ray client for Android, support Xray core and v2fly core&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:CYQawa:YunX:1794355200</ns0:id>
     <ns0:title>CYQawa/YunX</ns0:title>
     <ns0:link href="https://github.com/CYQawa/YunX"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CYQawa/YunX"&gt;https://github.com/CYQawa/YunX&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
@@ -22,58 +34,94 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:EchoMusicApp:Echo-Music:1794268800</ns0:id>
-    <ns0:title>EchoMusicApp/Echo-Music</ns0:title>
-    <ns0:link href="https://github.com/EchoMusicApp/Echo-Music"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:id>urn:github:JetBrains:kotlin:1794355200</ns0:id>
+    <ns0:title>JetBrains/kotlin</ns0:title>
+    <ns0:link href="https://github.com/JetBrains/kotlin"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/EchoMusicApp/Echo-Music"&gt;https://github.com/EchoMusicApp/Echo-Music&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JetBrains/kotlin"&gt;https://github.com/JetBrains/kotlin&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;An YouTube Music Client&lt;/div&gt;
+&lt;div&gt;The Kotlin Programming Language.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ExTV:Podroid:1794268800</ns0:id>
-    <ns0:title>ExTV/Podroid</ns0:title>
-    <ns0:link href="https://github.com/ExTV/Podroid"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ahXN00:OwnTV:1794355200</ns0:id>
+    <ns0:title>ahXN00/OwnTV</ns0:title>
+    <ns0:link href="https://github.com/ahXN00/OwnTV"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ExTV/Podroid"&gt;https://github.com/ExTV/Podroid&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ahXN00/OwnTV"&gt;https://github.com/ahXN00/OwnTV&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A rootless Android app that boots Alpine Linux: run containers (Podman/Docker/LXC) and GUI desktop apps.&lt;/div&gt;
+&lt;div&gt;Native Android TV IPTV player — Kotlin, Compose for TV, ExoPlayer + mpv. Xtream, M3U and Stalker portals, EPG, catch-up TV, profiles and downloads.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:HapeLee:legado-with-MD3:1794268800</ns0:id>
-    <ns0:title>HapeLee/legado-with-MD3</ns0:title>
-    <ns0:link href="https://github.com/HapeLee/legado-with-MD3"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:id>urn:github:android:nowinandroid:1794355200</ns0:id>
+    <ns0:title>android/nowinandroid</ns0:title>
+    <ns0:link href="https://github.com/android/nowinandroid"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/HapeLee/legado-with-MD3"&gt;https://github.com/HapeLee/legado-with-MD3&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/android/nowinandroid"&gt;https://github.com/android/nowinandroid&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;使用 Material Design 3 全新设计的阅读 3.0&lt;/div&gt;
+&lt;div&gt;A fully functional Android app built entirely with Kotlin and Jetpack Compose&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:amir1376:ab-download-manager:1794268800</ns0:id>
-    <ns0:title>amir1376/ab-download-manager</ns0:title>
-    <ns0:link href="https://github.com/amir1376/ab-download-manager"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:id>urn:github:babalae:bettergi-pocket:1794355200</ns0:id>
+    <ns0:title>babalae/bettergi-pocket</ns0:title>
+    <ns0:link href="https://github.com/babalae/bettergi-pocket"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/amir1376/ab-download-manager"&gt;https://github.com/amir1376/ab-download-manager&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/babalae/bettergi-pocket"&gt;https://github.com/babalae/bettergi-pocket&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A Download Manager that speeds up your downloads&lt;/div&gt;
+&lt;div&gt;BetterGI 安卓版本&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:recloudstream:cloudstream:1794268800</ns0:id>
+    <ns0:id>urn:github:breezy-weather:breezy-weather:1794355200</ns0:id>
+    <ns0:title>breezy-weather/breezy-weather</ns0:title>
+    <ns0:link href="https://github.com/breezy-weather/breezy-weather"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/breezy-weather/breezy-weather"&gt;https://github.com/breezy-weather/breezy-weather&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A feature-rich weather app with good visualizations and more than 50 sources.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jellyfin:jellyfin-androidtv:1794355200</ns0:id>
+    <ns0:title>jellyfin/jellyfin-androidtv</ns0:title>
+    <ns0:link href="https://github.com/jellyfin/jellyfin-androidtv"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jellyfin/jellyfin-androidtv"&gt;https://github.com/jellyfin/jellyfin-androidtv&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Android TV Client for Jellyfin&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:mollyim:mollyim-android:1794355200</ns0:id>
+    <ns0:title>mollyim/mollyim-android</ns0:title>
+    <ns0:link href="https://github.com/mollyim/mollyim-android"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mollyim/mollyim-android"&gt;https://github.com/mollyim/mollyim-android&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Enhanced and security-focused fork of Signal.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:recloudstream:cloudstream:1794355200</ns0:id>
     <ns0:title>recloudstream/cloudstream</ns0:title>
     <ns0:link href="https://github.com/recloudstream/cloudstream"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/recloudstream/cloudstream"&gt;https://github.com/recloudstream/cloudstream&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
@@ -82,58 +130,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:sameerasw:essentials:1794268800</ns0:id>
-    <ns0:title>sameerasw/essentials</ns0:title>
-    <ns0:link href="https://github.com/sameerasw/essentials"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sameerasw/essentials"&gt;https://github.com/sameerasw/essentials&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Essential tools and mods for Android nerds&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:samolego:Canta:1794268800</ns0:id>
-    <ns0:title>samolego/Canta</ns0:title>
-    <ns0:link href="https://github.com/samolego/Canta"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/samolego/Canta"&gt;https://github.com/samolego/Canta&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Uninstall any Android app without root (with power of Shizuku). Debloat your device as you wish, with Android app or even from your browser!&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:techjarves:Mobile-Harness:1794268800</ns0:id>
-    <ns0:title>techjarves/Mobile-Harness</ns0:title>
-    <ns0:link href="https://github.com/techjarves/Mobile-Harness"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/techjarves/Mobile-Harness"&gt;https://github.com/techjarves/Mobile-Harness&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Claude Code on Android: AI-powered mobile coding IDE for Android — chat with a coding agent, run Linux commands, edit files, review diffs, and preview web apps directly from your phone. No root required.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tharunbirla:LibreCuts:1794268800</ns0:id>
-    <ns0:title>tharunbirla/LibreCuts</ns0:title>
-    <ns0:link href="https://github.com/tharunbirla/LibreCuts"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tharunbirla/LibreCuts"&gt;https://github.com/tharunbirla/LibreCuts&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;LibreCuts is a free, open-source video editor for Android that prioritizes simplicity and efficiency.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:tidain:YunX-Desktop:1794268800</ns0:id>
+    <ns0:id>urn:github:tidain:YunX-Desktop:1794355200</ns0:id>
     <ns0:title>tidain/YunX-Desktop</ns0:title>
     <ns0:link href="https://github.com/tidain/YunX-Desktop"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tidain/YunX-Desktop"&gt;https://github.com/tidain/YunX-Desktop&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
@@ -142,10 +142,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:vivizzz007:vivi-music:1794268800</ns0:id>
+    <ns0:id>urn:github:torlando-tech:columba:1794355200</ns0:id>
+    <ns0:title>torlando-tech/columba</ns0:title>
+    <ns0:link href="https://github.com/torlando-tech/columba"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/torlando-tech/columba"&gt;https://github.com/torlando-tech/columba&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Native Android messaging app using Bluetooth LE, TCP, or RNode (LoRa) over LXMF and Reticulum&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:vivizzz007:vivi-music:1794355200</ns0:id>
     <ns0:title>vivizzz007/vivi-music</ns0:title>
     <ns0:link href="https://github.com/vivizzz007/vivi-music"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vivizzz007/vivi-music"&gt;https://github.com/vivizzz007/vivi-music&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
@@ -154,15 +166,15 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ximeiorg:Xime:1794268800</ns0:id>
-    <ns0:title>ximeiorg/Xime</ns0:title>
-    <ns0:link href="https://github.com/ximeiorg/Xime"/>
-    <ns0:updated>2026-11-10T00:00:00</ns0:updated>
+    <ns0:id>urn:github:wasi-master:wmkeyboard:1794355200</ns0:id>
+    <ns0:title>wasi-master/wmkeyboard</ns0:title>
+    <ns0:link href="https://github.com/wasi-master/wmkeyboard"/>
+    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ximeiorg/Xime"&gt;https://github.com/ximeiorg/Xime&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/wasi-master/wmkeyboard"&gt;https://github.com/wasi-master/wmkeyboard&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; kotlin&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;我的自用安卓输入法，基于Rime 构建，部分功能由本人设计的本地AI模型驱动，支持五笔/拼音/自定义方案。&lt;/div&gt;
+&lt;div&gt;A modern, privacy-first Android keyboard: offline intelligence, 600+ languages, themes, tools and an addon ecosystem.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
