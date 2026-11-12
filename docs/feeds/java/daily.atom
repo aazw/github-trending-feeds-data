@@ -5,15 +5,51 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/java/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-12T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:TheAlgorithms:Java:1794355200</ns0:id>
+    <ns0:id>urn:github:AndreyPavlenko:Fermata:1794441600</ns0:id>
+    <ns0:title>AndreyPavlenko/Fermata</ns0:title>
+    <ns0:link href="https://github.com/AndreyPavlenko/Fermata"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/AndreyPavlenko/Fermata"&gt;https://github.com/AndreyPavlenko/Fermata&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:DrKLO:Telegram:1794441600</ns0:id>
+    <ns0:title>DrKLO/Telegram</ns0:title>
+    <ns0:link href="https://github.com/DrKLO/Telegram"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DrKLO/Telegram"&gt;https://github.com/DrKLO/Telegram&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Telegram for Android source&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:TGX-Android:Telegram-X:1794441600</ns0:id>
+    <ns0:title>TGX-Android/Telegram-X</ns0:title>
+    <ns0:link href="https://github.com/TGX-Android/Telegram-X"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TGX-Android/Telegram-X"&gt;https://github.com/TGX-Android/Telegram-X&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The main repository of Telegram X — official alternative Telegram client for Android.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:TheAlgorithms:Java:1794441600</ns0:id>
     <ns0:title>TheAlgorithms/Java</ns0:title>
     <ns0:link href="https://github.com/TheAlgorithms/Java"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/TheAlgorithms/Java"&gt;https://github.com/TheAlgorithms/Java&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
@@ -22,82 +58,94 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:agentscope-ai:agentscope-java:1794355200</ns0:id>
-    <ns0:title>agentscope-ai/agentscope-java</ns0:title>
-    <ns0:link href="https://github.com/agentscope-ai/agentscope-java"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:apache:flink:1794441600</ns0:id>
+    <ns0:title>apache/flink</ns0:title>
+    <ns0:link href="https://github.com/apache/flink"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/agentscope-ai/agentscope-java"&gt;https://github.com/agentscope-ai/agentscope-java&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/flink"&gt;https://github.com/apache/flink&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Build distributed, production-grade, long-running agents.&lt;/div&gt;
+&lt;div&gt;Apache Flink&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:aleixrodriala:newtube:1794355200</ns0:id>
-    <ns0:title>aleixrodriala/newtube</ns0:title>
-    <ns0:link href="https://github.com/aleixrodriala/newtube"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:apache:ozone:1794441600</ns0:id>
+    <ns0:title>apache/ozone</ns0:title>
+    <ns0:link href="https://github.com/apache/ozone"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aleixrodriala/newtube"&gt;https://github.com/aleixrodriala/newtube&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/ozone"&gt;https://github.com/apache/ozone&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;SmartTube for phones, unofficial: an open-source YouTube client for Android. Background play, PiP, SponsorBlock, DeArrow, save for offline, code sign-in.&lt;/div&gt;
+&lt;div&gt;Scalable, reliable, distributed storage system optimized for data analytics and object store workloads.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:fineract:1794355200</ns0:id>
-    <ns0:title>apache/fineract</ns0:title>
-    <ns0:link href="https://github.com/apache/fineract"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:apache:solr:1794441600</ns0:id>
+    <ns0:title>apache/solr</ns0:title>
+    <ns0:link href="https://github.com/apache/solr"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/fineract"&gt;https://github.com/apache/fineract&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/solr"&gt;https://github.com/apache/solr&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Apache Fineract&lt;/div&gt;
+&lt;div&gt;Apache Solr open-source search software&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:apache:kafka:1794355200</ns0:id>
-    <ns0:title>apache/kafka</ns0:title>
-    <ns0:link href="https://github.com/apache/kafka"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ashishps1:awesome-system-design-resources:1794441600</ns0:id>
+    <ns0:title>ashishps1/awesome-system-design-resources</ns0:title>
+    <ns0:link href="https://github.com/ashishps1/awesome-system-design-resources"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apache/kafka"&gt;https://github.com/apache/kafka&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ashishps1/awesome-system-design-resources"&gt;https://github.com/ashishps1/awesome-system-design-resources&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Apache Kafka - A distributed event streaming platform&lt;/div&gt;
+&lt;div&gt;Learn System Design concepts and prepare for interviews using free resources.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:iterate-ch:cyberduck:1794355200</ns0:id>
-    <ns0:title>iterate-ch/cyberduck</ns0:title>
-    <ns0:link href="https://github.com/iterate-ch/cyberduck"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:dataease:dataease:1794441600</ns0:id>
+    <ns0:title>dataease/dataease</ns0:title>
+    <ns0:link href="https://github.com/dataease/dataease"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/iterate-ch/cyberduck"&gt;https://github.com/iterate-ch/cyberduck&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dataease/dataease"&gt;https://github.com/dataease/dataease&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure &amp; OneDrive and OpenStack Swift file transfer client for Mac and Windows.&lt;/div&gt;
+&lt;div&gt;🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jeecgboot:JeecgBoot:1794355200</ns0:id>
-    <ns0:title>jeecgboot/JeecgBoot</ns0:title>
-    <ns0:link href="https://github.com/jeecgboot/JeecgBoot"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:elastic:elasticsearch:1794441600</ns0:id>
+    <ns0:title>elastic/elasticsearch</ns0:title>
+    <ns0:link href="https://github.com/elastic/elasticsearch"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jeecgboot/JeecgBoot"&gt;https://github.com/jeecgboot/JeecgBoot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elastic/elasticsearch"&gt;https://github.com/elastic/elasticsearch&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;一款免费开源的 AI 低代码平台，也是 AI 时代构建复杂业务系统的开源基座！权限、多租户、工作流、报表、大屏、AI 知识库等通用能力开箱即用，AI 只需生成业务差异部分。AI Skills 一句话生成完整系统——建表、前后端代码、菜单权限、BPM 流程、表单、报表、大屏全自动。内置 AI 应用平台（聊天、知识库、流程编排、MCP），兼容主流大模型&lt;/div&gt;
+&lt;div&gt;Free and Open Source, Distributed, RESTful Search Engine&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jenkinsci:jenkins:1794355200</ns0:id>
+    <ns0:id>urn:github:jean-voila:FeurStagram:1794441600</ns0:id>
+    <ns0:title>jean-voila/FeurStagram</ns0:title>
+    <ns0:link href="https://github.com/jean-voila/FeurStagram"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jean-voila/FeurStagram"&gt;https://github.com/jean-voila/FeurStagram&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Instagram without Reels, feed or ads: an open-source, updatable Instagram app for Android that keeps DMs and stories.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:jenkinsci:jenkins:1794441600</ns0:id>
     <ns0:title>jenkinsci/jenkins</ns0:title>
     <ns0:link href="https://github.com/jenkinsci/jenkins"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jenkinsci/jenkins"&gt;https://github.com/jenkinsci/jenkins&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
@@ -106,39 +154,63 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mlmvpn:mlmvpn_android:1794355200</ns0:id>
-    <ns0:title>mlmvpn/mlmvpn_android</ns0:title>
-    <ns0:link href="https://github.com/mlmvpn/mlmvpn_android"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:microg:GmsCore:1794441600</ns0:id>
+    <ns0:title>microg/GmsCore</ns0:title>
+    <ns0:link href="https://github.com/microg/GmsCore"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mlmvpn/mlmvpn_android"&gt;https://github.com/mlmvpn/mlmvpn_android&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microg/GmsCore"&gt;https://github.com/microg/GmsCore&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Multi-engine Android VPN — Xray, WARP, Psiphon, Tor, Geph, OpenVPN, MASQUE/AmneziaWG, and the MLM Adaptive Engine that routes each app by its own best path; Cloudflare panels, Config Studio, game booster. Kotlin + Jetpack Compose. | اپلیکیشن VPN چندموتورهٔ اندروید با موتور تطبیقی&lt;/div&gt;
+&lt;div&gt;Free implementation of Play Services&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:spring-projects:spring-framework:1794355200</ns0:id>
-    <ns0:title>spring-projects/spring-framework</ns0:title>
-    <ns0:link href="https://github.com/spring-projects/spring-framework"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:openjdk:jdk:1794441600</ns0:id>
+    <ns0:title>openjdk/jdk</ns0:title>
+    <ns0:link href="https://github.com/openjdk/jdk"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/spring-projects/spring-framework"&gt;https://github.com/spring-projects/spring-framework&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openjdk/jdk"&gt;https://github.com/openjdk/jdk&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Spring Framework&lt;/div&gt;
+&lt;div&gt;JDK main-line development https://openjdk.org/projects/jdk&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:zaproxy:zaproxy:1794355200</ns0:id>
-    <ns0:title>zaproxy/zaproxy</ns0:title>
-    <ns0:link href="https://github.com/zaproxy/zaproxy"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:spring-projects:spring-boot:1794441600</ns0:id>
+    <ns0:title>spring-projects/spring-boot</ns0:title>
+    <ns0:link href="https://github.com/spring-projects/spring-boot"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zaproxy/zaproxy"&gt;https://github.com/zaproxy/zaproxy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/spring-projects/spring-boot"&gt;https://github.com/spring-projects/spring-boot&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The ZAP by Checkmarx Core project&lt;/div&gt;
+&lt;div&gt;Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:termux:termux-x11:1794441600</ns0:id>
+    <ns0:title>termux/termux-x11</ns0:title>
+    <ns0:link href="https://github.com/termux/termux-x11"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/termux/termux-x11"&gt;https://github.com/termux/termux-x11&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Termux X-server add-on.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:xuxueli:xxl-job:1794441600</ns0:id>
+    <ns0:title>xuxueli/xxl-job</ns0:title>
+    <ns0:link href="https://github.com/xuxueli/xxl-job"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xuxueli/xxl-job"&gt;https://github.com/xuxueli/xxl-job&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; java&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

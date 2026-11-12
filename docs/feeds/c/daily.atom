@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-12T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:DarkFlippers:unleashed-firmware:1794355200</ns0:id>
+    <ns0:id>urn:github:CTCaer:hekate:1794441600</ns0:id>
+    <ns0:title>CTCaer/hekate</ns0:title>
+    <ns0:link href="https://github.com/CTCaer/hekate"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CTCaer/hekate"&gt;https://github.com/CTCaer/hekate&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;hekate - A GUI based Nintendo Switch Bootloader&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:DarkFlippers:unleashed-firmware:1794441600</ns0:id>
     <ns0:title>DarkFlippers/unleashed-firmware</ns0:title>
     <ns0:link href="https://github.com/DarkFlippers/unleashed-firmware"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/DarkFlippers/unleashed-firmware"&gt;https://github.com/DarkFlippers/unleashed-firmware&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
@@ -22,123 +34,63 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ExistentialAudio:BlackHole:1794355200</ns0:id>
-    <ns0:title>ExistentialAudio/BlackHole</ns0:title>
-    <ns0:link href="https://github.com/ExistentialAudio/BlackHole"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:SlickAmogus:silent-hill-decomp:1794441600</ns0:id>
+    <ns0:title>SlickAmogus/silent-hill-decomp</ns0:title>
+    <ns0:link href="https://github.com/SlickAmogus/silent-hill-decomp"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ExistentialAudio/BlackHole"&gt;https://github.com/ExistentialAudio/BlackHole&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SlickAmogus/silent-hill-decomp"&gt;https://github.com/SlickAmogus/silent-hill-decomp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.&lt;/div&gt;
+&lt;div&gt;Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:HarbourMasters:Shipwright:1794355200</ns0:id>
-    <ns0:title>HarbourMasters/Shipwright</ns0:title>
-    <ns0:link href="https://github.com/HarbourMasters/Shipwright"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:freebsd:freebsd-src:1794441600</ns0:id>
+    <ns0:title>freebsd/freebsd-src</ns0:title>
+    <ns0:link href="https://github.com/freebsd/freebsd-src"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/HarbourMasters/Shipwright"&gt;https://github.com/HarbourMasters/Shipwright&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/freebsd/freebsd-src"&gt;https://github.com/freebsd/freebsd-src&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;The FreeBSD src tree publish-only repository. Experimenting with 'simple' pull requests....&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ValdikSS:GoodbyeDPI:1794355200</ns0:id>
-    <ns0:title>ValdikSS/GoodbyeDPI</ns0:title>
-    <ns0:link href="https://github.com/ValdikSS/GoodbyeDPI"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:obsproject:obs-studio:1794441600</ns0:id>
+    <ns0:title>obsproject/obs-studio</ns0:title>
+    <ns0:link href="https://github.com/obsproject/obs-studio"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ValdikSS/GoodbyeDPI"&gt;https://github.com/ValdikSS/GoodbyeDPI&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/obsproject/obs-studio"&gt;https://github.com/obsproject/obs-studio&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)&lt;/div&gt;
+&lt;div&gt;OBS Studio - Free and open source software for live streaming and screen recording&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:bol-van:zapret2:1794355200</ns0:id>
-    <ns0:title>bol-van/zapret2</ns0:title>
-    <ns0:link href="https://github.com/bol-van/zapret2"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:redis:redis:1794441600</ns0:id>
+    <ns0:title>redis/redis</ns0:title>
+    <ns0:link href="https://github.com/redis/redis"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bol-van/zapret2"&gt;https://github.com/bol-van/zapret2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/redis/redis"&gt;https://github.com/redis/redis&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;anti-dpi software&lt;/div&gt;
+&lt;div&gt;For developers, who are building real-time data-driven applications, Redis is the preferred, fastest, and most feature-rich cache, data structure server, and document and vector query engine.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:brunodev85:winlator:1794355200</ns0:id>
-    <ns0:title>brunodev85/winlator</ns0:title>
-    <ns0:link href="https://github.com/brunodev85/winlator"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ventoy:Ventoy:1794441600</ns0:id>
+    <ns0:title>ventoy/Ventoy</ns0:title>
+    <ns0:link href="https://github.com/ventoy/Ventoy"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/brunodev85/winlator"&gt;https://github.com/brunodev85/winlator&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ventoy/Ventoy"&gt;https://github.com/ventoy/Ventoy&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Android application for running Windows applications with Wine and Box86/Box64&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:containers:bubblewrap:1794355200</ns0:id>
-    <ns0:title>containers/bubblewrap</ns0:title>
-    <ns0:link href="https://github.com/containers/bubblewrap"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/containers/bubblewrap"&gt;https://github.com/containers/bubblewrap&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Low-level unprivileged sandboxing tool used by Flatpak and similar projects&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:dorianborian:sesame-robot:1794355200</ns0:id>
-    <ns0:title>dorianborian/sesame-robot</ns0:title>
-    <ns0:link href="https://github.com/dorianborian/sesame-robot"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dorianborian/sesame-robot"&gt;https://github.com/dorianborian/sesame-robot&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;An open and affordable mini quadruped robot based on ESP32.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:henrypp:simplewall:1794355200</ns0:id>
-    <ns0:title>henrypp/simplewall</ns0:title>
-    <ns0:link href="https://github.com/henrypp/simplewall"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/henrypp/simplewall"&gt;https://github.com/henrypp/simplewall&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:lvgl:lvgl:1794355200</ns0:id>
-    <ns0:title>lvgl/lvgl</ns0:title>
-    <ns0:link href="https://github.com/lvgl/lvgl"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/lvgl/lvgl"&gt;https://github.com/lvgl/lvgl&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;LVGL is a free, full-featured embedded UI library for devices from small MCUs to 3D-capable MPUs, enhanced by LVGL Pro, a professional editor and tooling.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:microsoft:PowerToys:1794355200</ns0:id>
-    <ns0:title>microsoft/PowerToys</ns0:title>
-    <ns0:link href="https://github.com/microsoft/PowerToys"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/PowerToys"&gt;https://github.com/microsoft/PowerToys&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows&lt;/div&gt;
+&lt;div&gt;A new bootable USB solution.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

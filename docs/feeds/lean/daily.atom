@@ -5,27 +5,51 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/lean/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-12T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:facebookresearch:atlas-lean:1794355200</ns0:id>
-    <ns0:title>facebookresearch/atlas-lean</ns0:title>
-    <ns0:link href="https://github.com/facebookresearch/atlas-lean"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:SlopDotCash:proximityprize:1794441600</ns0:id>
+    <ns0:title>SlopDotCash/proximityprize</ns0:title>
+    <ns0:link href="https://github.com/SlopDotCash/proximityprize"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/facebookresearch/atlas-lean"&gt;https://github.com/facebookresearch/atlas-lean&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/SlopDotCash/proximityprize"&gt;https://github.com/SlopDotCash/proximityprize&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;ATLAS Autoformalized Textbook Library At Scale&lt;/div&gt;
+&lt;div&gt;Machine-checked Reed–Solomon proximity research for the Ethereum Foundation Proximity Prize.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google-deepmind:formal-conjectures:1794355200</ns0:id>
+    <ns0:id>urn:github:Verified-zkEVM:ArkLib:1794441600</ns0:id>
+    <ns0:title>Verified-zkEVM/ArkLib</ns0:title>
+    <ns0:link href="https://github.com/Verified-zkEVM/ArkLib"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Verified-zkEVM/ArkLib"&gt;https://github.com/Verified-zkEVM/ArkLib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Formally Verified Arguments of Knowledge in Lean&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ethereum:EthLib:1794441600</ns0:id>
+    <ns0:title>ethereum/EthLib</ns0:title>
+    <ns0:link href="https://github.com/ethereum/EthLib"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ethereum/EthLib"&gt;https://github.com/ethereum/EthLib&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Formally verified Ethereum primitives, written in Lean.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:google-deepmind:formal-conjectures:1794441600</ns0:id>
     <ns0:title>google-deepmind/formal-conjectures</ns0:title>
     <ns0:link href="https://github.com/google-deepmind/formal-conjectures"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-deepmind/formal-conjectures"&gt;https://github.com/google-deepmind/formal-conjectures&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
@@ -34,22 +58,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leanEthereum:leanVM:1794355200</ns0:id>
-    <ns0:title>leanEthereum/leanVM</ns0:title>
-    <ns0:link href="https://github.com/leanEthereum/leanVM"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanEthereum/leanVM"&gt;https://github.com/leanEthereum/leanVM&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Minimal zkVM for Ethereum.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:leanprover-community:mathlib4:1794355200</ns0:id>
+    <ns0:id>urn:github:leanprover-community:mathlib4:1794441600</ns0:id>
     <ns0:title>leanprover-community/mathlib4</ns0:title>
     <ns0:link href="https://github.com/leanprover-community/mathlib4"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover-community/mathlib4"&gt;https://github.com/leanprover-community/mathlib4&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
@@ -58,22 +70,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leanprover-community:physlib:1794355200</ns0:id>
-    <ns0:title>leanprover-community/physlib</ns0:title>
-    <ns0:link href="https://github.com/leanprover-community/physlib"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover-community/physlib"&gt;https://github.com/leanprover-community/physlib&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A project to digitalise results from physics into Lean.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:leanprover:cslib:1794355200</ns0:id>
+    <ns0:id>urn:github:leanprover:cslib:1794441600</ns0:id>
     <ns0:title>leanprover/cslib</ns0:title>
     <ns0:link href="https://github.com/leanprover/cslib"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover/cslib"&gt;https://github.com/leanprover/cslib&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;
@@ -82,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leanprover:lean4:1794355200</ns0:id>
+    <ns0:id>urn:github:leanprover:lean4:1794441600</ns0:id>
     <ns0:title>leanprover/lean4</ns0:title>
     <ns0:link href="https://github.com/leanprover/lean4"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leanprover/lean4"&gt;https://github.com/leanprover/lean4&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; lean&lt;/div&gt;

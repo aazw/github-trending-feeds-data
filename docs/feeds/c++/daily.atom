@@ -5,39 +5,75 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/c++/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-12T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:alibaba:MNN:1794355200</ns0:id>
-    <ns0:title>alibaba/MNN</ns0:title>
-    <ns0:link href="https://github.com/alibaba/MNN"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:Atmosphere-NX:Atmosphere:1794441600</ns0:id>
+    <ns0:title>Atmosphere-NX/Atmosphere</ns0:title>
+    <ns0:link href="https://github.com/Atmosphere-NX/Atmosphere"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/alibaba/MNN"&gt;https://github.com/alibaba/MNN&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Atmosphere-NX/Atmosphere"&gt;https://github.com/Atmosphere-NX/Atmosphere&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.&lt;/div&gt;
+&lt;div&gt;Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:boykopovar:AnyPS5:1794355200</ns0:id>
-    <ns0:title>boykopovar/AnyPS5</ns0:title>
-    <ns0:link href="https://github.com/boykopovar/AnyPS5"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:JakeATX:llamAmpere:1794441600</ns0:id>
+    <ns0:title>JakeATX/llamAmpere</ns0:title>
+    <ns0:link href="https://github.com/JakeATX/llamAmpere"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/boykopovar/AnyPS5"&gt;https://github.com/boykopovar/AnyPS5&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/JakeATX/llamAmpere"&gt;https://github.com/JakeATX/llamAmpere&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Tool for automatic PS5 executables porting to Linux and Windows&lt;/div&gt;
+&lt;div&gt;llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:facebookresearch:faiss:1794355200</ns0:id>
+    <ns0:id>urn:github:Tencent:ncnn:1794441600</ns0:id>
+    <ns0:title>Tencent/ncnn</ns0:title>
+    <ns0:link href="https://github.com/Tencent/ncnn"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Tencent/ncnn"&gt;https://github.com/Tencent/ncnn&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;ncnn is a high-performance neural network inference framework optimized for the mobile platform&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:catchorg:Catch2:1794441600</ns0:id>
+    <ns0:title>catchorg/Catch2</ns0:title>
+    <ns0:link href="https://github.com/catchorg/Catch2"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/catchorg/Catch2"&gt;https://github.com/catchorg/Catch2&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:dariulone:cyberpunk-vr-port:1794441600</ns0:id>
+    <ns0:title>dariulone/cyberpunk-vr-port</ns0:title>
+    <ns0:link href="https://github.com/dariulone/cyberpunk-vr-port"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dariulone/cyberpunk-vr-port"&gt;https://github.com/dariulone/cyberpunk-vr-port&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:facebookresearch:faiss:1794441600</ns0:id>
     <ns0:title>facebookresearch/faiss</ns0:title>
     <ns0:link href="https://github.com/facebookresearch/faiss"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/facebookresearch/faiss"&gt;https://github.com/facebookresearch/faiss&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
@@ -46,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ggml-org:llama.cpp:1794355200</ns0:id>
+    <ns0:id>urn:github:ggml-org:llama.cpp:1794441600</ns0:id>
     <ns0:title>ggml-org/llama.cpp</ns0:title>
     <ns0:link href="https://github.com/ggml-org/llama.cpp"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ggml-org/llama.cpp"&gt;https://github.com/ggml-org/llama.cpp&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
@@ -58,75 +94,99 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google-deepmind:mujoco:1794355200</ns0:id>
-    <ns0:title>google-deepmind/mujoco</ns0:title>
-    <ns0:link href="https://github.com/google-deepmind/mujoco"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:google:googletest:1794441600</ns0:id>
+    <ns0:title>google/googletest</ns0:title>
+    <ns0:link href="https://github.com/google/googletest"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-deepmind/mujoco"&gt;https://github.com/google-deepmind/mujoco&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google/googletest"&gt;https://github.com/google/googletest&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Multi-Joint dynamics with Contact. A general purpose physics simulator.&lt;/div&gt;
+&lt;div&gt;GoogleTest - Google Testing and Mocking Framework&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:harry7557558:spirula-studio:1794355200</ns0:id>
-    <ns0:title>harry7557558/spirula-studio</ns0:title>
-    <ns0:link href="https://github.com/harry7557558/spirula-studio"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:love2d:love:1794441600</ns0:id>
+    <ns0:title>love2d/love</ns0:title>
+    <ns0:link href="https://github.com/love2d/love"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/harry7557558/spirula-studio"&gt;https://github.com/harry7557558/spirula-studio&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/love2d/love"&gt;https://github.com/love2d/love&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.&lt;/div&gt;
+&lt;div&gt;LÖVE is an awesome 2D game framework for Lua.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:mg-chao:snow-shot:1794355200</ns0:id>
-    <ns0:title>mg-chao/snow-shot</ns0:title>
-    <ns0:link href="https://github.com/mg-chao/snow-shot"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nlohmann:json:1794441600</ns0:id>
+    <ns0:title>nlohmann/json</ns0:title>
+    <ns0:link href="https://github.com/nlohmann/json"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mg-chao/snow-shot"&gt;https://github.com/mg-chao/snow-shot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nlohmann/json"&gt;https://github.com/nlohmann/json&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。&lt;/div&gt;
+&lt;div&gt;JSON for Modern C++&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:orailnoor:cross-platform-llm-client:1794355200</ns0:id>
-    <ns0:title>orailnoor/cross-platform-llm-client</ns0:title>
-    <ns0:link href="https://github.com/orailnoor/cross-platform-llm-client"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:notepad-plus-plus:notepad-plus-plus:1794441600</ns0:id>
+    <ns0:title>notepad-plus-plus/notepad-plus-plus</ns0:title>
+    <ns0:link href="https://github.com/notepad-plus-plus/notepad-plus-plus"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/orailnoor/cross-platform-llm-client"&gt;https://github.com/orailnoor/cross-platform-llm-client&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/notepad-plus-plus/notepad-plus-plus"&gt;https://github.com/notepad-plus-plus/notepad-plus-plus&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A unified cross-platform AI client supporting seamless transitions between standard cloud APIs and on-device, offline execution of custom and uncensored language models.&lt;/div&gt;
+&lt;div&gt;Notepad++ official repository&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:simdjson:simdjson:1794355200</ns0:id>
-    <ns0:title>simdjson/simdjson</ns0:title>
-    <ns0:link href="https://github.com/simdjson/simdjson"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:openxla:xla:1794441600</ns0:id>
+    <ns0:title>openxla/xla</ns0:title>
+    <ns0:link href="https://github.com/openxla/xla"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/simdjson/simdjson"&gt;https://github.com/simdjson/simdjson&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openxla/xla"&gt;https://github.com/openxla/xla&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Parsing gigabytes of JSON per second : used by Facebook/Meta Velox, the Node.js runtime, ClickHouse, WatermelonDB, Apache Doris, Milvus, StarRocks&lt;/div&gt;
+&lt;div&gt;A machine learning compiler for GPUs, CPUs, and ML accelerators&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:throneproj:Throne:1794355200</ns0:id>
-    <ns0:title>throneproj/Throne</ns0:title>
-    <ns0:link href="https://github.com/throneproj/Throne"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:protocolbuffers:protobuf:1794441600</ns0:id>
+    <ns0:title>protocolbuffers/protobuf</ns0:title>
+    <ns0:link href="https://github.com/protocolbuffers/protobuf"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/throneproj/Throne"&gt;https://github.com/throneproj/Throne&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/protocolbuffers/protobuf"&gt;https://github.com/protocolbuffers/protobuf&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Cross-platform GUI proxy utility (Empowered by sing-box)&lt;/div&gt;
+&lt;div&gt;Protocol Buffers - Google's data interchange format&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:telegramdesktop:tdesktop:1794441600</ns0:id>
+    <ns0:title>telegramdesktop/tdesktop</ns0:title>
+    <ns0:link href="https://github.com/telegramdesktop/tdesktop"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/telegramdesktop/tdesktop"&gt;https://github.com/telegramdesktop/tdesktop&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Telegram Desktop messaging app&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:tensorflow:tensorflow:1794441600</ns0:id>
+    <ns0:title>tensorflow/tensorflow</ns0:title>
+    <ns0:link href="https://github.com/tensorflow/tensorflow"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tensorflow/tensorflow"&gt;https://github.com/tensorflow/tensorflow&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; c++&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;An Open Source Machine Learning Framework for Everyone&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

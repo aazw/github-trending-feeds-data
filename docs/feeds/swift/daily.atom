@@ -5,15 +5,15 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/swift/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-12T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:LiveContainer:LiveContainer:1794355200</ns0:id>
+    <ns0:id>urn:github:LiveContainer:LiveContainer:1794441600</ns0:id>
     <ns0:title>LiveContainer/LiveContainer</ns0:title>
     <ns0:link href="https://github.com/LiveContainer/LiveContainer"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LiveContainer/LiveContainer"&gt;https://github.com/LiveContainer/LiveContainer&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
@@ -22,34 +22,34 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:YangJiiii:3105:1794355200</ns0:id>
-    <ns0:title>YangJiiii/3105</ns0:title>
-    <ns0:link href="https://github.com/YangJiiii/3105"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:apple:container:1794441600</ns0:id>
+    <ns0:title>apple/container</ns0:title>
+    <ns0:link href="https://github.com/apple/container"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/YangJiiii/3105"&gt;https://github.com/YangJiiii/3105&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/apple/container"&gt;https://github.com/apple/container&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Native iOS app-data browser, portable patch manager, limited cleaner, and PosterBoard wallpaper lab.&lt;/div&gt;
+&lt;div&gt;A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:altstoreio:AltStore:1794355200</ns0:id>
-    <ns0:title>altstoreio/AltStore</ns0:title>
-    <ns0:link href="https://github.com/altstoreio/AltStore"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:exelban:stats:1794441600</ns0:id>
+    <ns0:title>exelban/stats</ns0:title>
+    <ns0:link href="https://github.com/exelban/stats"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/altstoreio/AltStore"&gt;https://github.com/altstoreio/AltStore&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/exelban/stats"&gt;https://github.com/exelban/stats&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;AltStore is an alternative app store for non-jailbroken iOS devices.&lt;/div&gt;
+&lt;div&gt;macOS system monitor in your menu bar&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:frs0n:GestaltEdit:1794355200</ns0:id>
+    <ns0:id>urn:github:frs0n:GestaltEdit:1794441600</ns0:id>
     <ns0:title>frs0n/GestaltEdit</ns0:title>
     <ns0:link href="https://github.com/frs0n/GestaltEdit"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/frs0n/GestaltEdit"&gt;https://github.com/frs0n/GestaltEdit&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
@@ -58,82 +58,94 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:jaywcjlove:awesome-mac:1794355200</ns0:id>
-    <ns0:title>jaywcjlove/awesome-mac</ns0:title>
-    <ns0:link href="https://github.com/jaywcjlove/awesome-mac"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:ggml-org:Llama-macOS:1794441600</ns0:id>
+    <ns0:title>ggml-org/Llama-macOS</ns0:title>
+    <ns0:link href="https://github.com/ggml-org/Llama-macOS"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jaywcjlove/awesome-mac"&gt;https://github.com/jaywcjlove/awesome-mac&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ggml-org/Llama-macOS"&gt;https://github.com/ggml-org/Llama-macOS&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt; This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.&lt;/div&gt;
+&lt;div&gt;A cosy home for your LLMs.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:kaishi00:hermes-conduit:1794355200</ns0:id>
-    <ns0:title>kaishi00/hermes-conduit</ns0:title>
-    <ns0:link href="https://github.com/kaishi00/hermes-conduit"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:jellyfin:Swiftfin:1794441600</ns0:id>
+    <ns0:title>jellyfin/Swiftfin</ns0:title>
+    <ns0:link href="https://github.com/jellyfin/Swiftfin"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kaishi00/hermes-conduit"&gt;https://github.com/kaishi00/hermes-conduit&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/jellyfin/Swiftfin"&gt;https://github.com/jellyfin/Swiftfin&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Conduit — native SwiftUI iOS client for Hermes Agent&lt;/div&gt;
+&lt;div&gt;Native Jellyfin Client for iOS and tvOS&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:p0deje:Maccy:1794355200</ns0:id>
-    <ns0:title>p0deje/Maccy</ns0:title>
-    <ns0:link href="https://github.com/p0deje/Maccy"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:maxgoedjen:secretive:1794441600</ns0:id>
+    <ns0:title>maxgoedjen/secretive</ns0:title>
+    <ns0:link href="https://github.com/maxgoedjen/secretive"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/p0deje/Maccy"&gt;https://github.com/p0deje/Maccy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/maxgoedjen/secretive"&gt;https://github.com/maxgoedjen/secretive&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Lightweight clipboard manager for macOS&lt;/div&gt;
+&lt;div&gt;Protect your SSH keys with your Mac's Secure Enclave&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:palmier-io:palmier-pro:1794355200</ns0:id>
-    <ns0:title>palmier-io/palmier-pro</ns0:title>
-    <ns0:link href="https://github.com/palmier-io/palmier-pro"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:microsoft:Procexp-Mac:1794441600</ns0:id>
+    <ns0:title>microsoft/Procexp-Mac</ns0:title>
+    <ns0:link href="https://github.com/microsoft/Procexp-Mac"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/palmier-io/palmier-pro"&gt;https://github.com/palmier-io/palmier-pro&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/microsoft/Procexp-Mac"&gt;https://github.com/microsoft/Procexp-Mac&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;macOS video editor built for AI&lt;/div&gt;
+&lt;div&gt;Process Explorer for MacOS&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pauljoda:Crest:1794355200</ns0:id>
-    <ns0:title>pauljoda/Crest</ns0:title>
-    <ns0:link href="https://github.com/pauljoda/Crest"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:sozercan:kaset:1794441600</ns0:id>
+    <ns0:title>sozercan/kaset</ns0:title>
+    <ns0:link href="https://github.com/sozercan/kaset"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pauljoda/Crest"&gt;https://github.com/pauljoda/Crest&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/sozercan/kaset"&gt;https://github.com/sozercan/kaset&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;An open source browser for Mac, iPhone, and iPad.&lt;/div&gt;
+&lt;div&gt;📼 The missing YouTube and YouTube Music macOS app&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:steipete:CodexBar:1794355200</ns0:id>
-    <ns0:title>steipete/CodexBar</ns0:title>
-    <ns0:link href="https://github.com/steipete/CodexBar"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:swiftbar:SwiftBar:1794441600</ns0:id>
+    <ns0:title>swiftbar/SwiftBar</ns0:title>
+    <ns0:link href="https://github.com/swiftbar/SwiftBar"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/steipete/CodexBar"&gt;https://github.com/steipete/CodexBar&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/swiftbar/SwiftBar"&gt;https://github.com/swiftbar/SwiftBar&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Show usage stats for OpenAI Codex and Claude Code, without having to login.&lt;/div&gt;
+&lt;div&gt;Powerful macOS menu bar customization tool&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:xtool-org:xtool:1794355200</ns0:id>
+    <ns0:id>urn:github:vorssaint:vorssaint-utils:1794441600</ns0:id>
+    <ns0:title>vorssaint/vorssaint-utils</ns0:title>
+    <ns0:link href="https://github.com/vorssaint/vorssaint-utils"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vorssaint/vorssaint-utils"&gt;https://github.com/vorssaint/vorssaint-utils&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Free and open-source macOS menu bar toolkit.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:xtool-org:xtool:1794441600</ns0:id>
     <ns0:title>xtool-org/xtool</ns0:title>
     <ns0:link href="https://github.com/xtool-org/xtool"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/xtool-org/xtool"&gt;https://github.com/xtool-org/xtool&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;

@@ -5,123 +5,183 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/typescript/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-12T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:GoogleChrome:modern-web-guidance-src:1794355200</ns0:id>
+    <ns0:id>urn:github:ChromeDevTools:chrome-devtools-mcp:1794441600</ns0:id>
+    <ns0:title>ChromeDevTools/chrome-devtools-mcp</ns0:title>
+    <ns0:link href="https://github.com/ChromeDevTools/chrome-devtools-mcp"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ChromeDevTools/chrome-devtools-mcp"&gt;https://github.com/ChromeDevTools/chrome-devtools-mcp&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Chrome DevTools for coding agents&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:CopilotKit:OpenBot:1794441600</ns0:id>
+    <ns0:title>CopilotKit/OpenBot</ns0:title>
+    <ns0:link href="https://github.com/CopilotKit/OpenBot"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/CopilotKit/OpenBot"&gt;https://github.com/CopilotKit/OpenBot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open-source AI coworkers that each get a computer of their own: a browser, files and tools, with every action decided before it happens and recorded after. Bring any AG-UI agent.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:GoogleChrome:modern-web-guidance-src:1794441600</ns0:id>
     <ns0:title>GoogleChrome/modern-web-guidance-src</ns0:title>
     <ns0:link href="https://github.com/GoogleChrome/modern-web-guidance-src"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GoogleChrome/modern-web-guidance-src"&gt;https://github.com/GoogleChrome/modern-web-guidance-src&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;&lt;/div&gt;
+&lt;div&gt;Keep your coding agent up to date with the latest web best practices&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:LibreSpark:LibreTV:1794355200</ns0:id>
-    <ns0:title>LibreSpark/LibreTV</ns0:title>
-    <ns0:link href="https://github.com/LibreSpark/LibreTV"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/LibreSpark/LibreTV"&gt;https://github.com/LibreSpark/LibreTV&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;一分钟搭建影视站，支持Docker等部署方式&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:NapNeko:NapCatQQ:1794355200</ns0:id>
+    <ns0:id>urn:github:NapNeko:NapCatQQ:1794441600</ns0:id>
     <ns0:title>NapNeko/NapCatQQ</ns0:title>
     <ns0:link href="https://github.com/NapNeko/NapCatQQ"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/NapNeko/NapCatQQ"&gt;https://github.com/NapNeko/NapCatQQ&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Modern protocol-side framework based on NTQQ&lt;/div&gt;
+&lt;div&gt;Modern protocol-side framework&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:OpenCTI-Platform:opencti:1794355200</ns0:id>
-    <ns0:title>OpenCTI-Platform/opencti</ns0:title>
-    <ns0:link href="https://github.com/OpenCTI-Platform/opencti"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:PurpleDoubleD:locally-uncensored:1794441600</ns0:id>
+    <ns0:title>PurpleDoubleD/locally-uncensored</ns0:title>
+    <ns0:link href="https://github.com/PurpleDoubleD/locally-uncensored"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/OpenCTI-Platform/opencti"&gt;https://github.com/OpenCTI-Platform/opencti&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/PurpleDoubleD/locally-uncensored"&gt;https://github.com/PurpleDoubleD/locally-uncensored&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Open Cyber Threat Intelligence Platform&lt;/div&gt;
+&lt;div&gt;The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:WhiteTowerAI:ohmygame:1794355200</ns0:id>
-    <ns0:title>WhiteTowerAI/ohmygame</ns0:title>
-    <ns0:link href="https://github.com/WhiteTowerAI/ohmygame"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:QwenLM:qwen-code:1794441600</ns0:id>
+    <ns0:title>QwenLM/qwen-code</ns0:title>
+    <ns0:link href="https://github.com/QwenLM/qwen-code"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/WhiteTowerAI/ohmygame"&gt;https://github.com/WhiteTowerAI/ohmygame&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/QwenLM/qwen-code"&gt;https://github.com/QwenLM/qwen-code&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas. Bring your own key.&lt;/div&gt;
+&lt;div&gt;An open-source AI coding agent that lives in your terminal.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:backnotprop:plannotator:1794355200</ns0:id>
-    <ns0:title>backnotprop/plannotator</ns0:title>
-    <ns0:link href="https://github.com/backnotprop/plannotator"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:RocketChat:Rocket.Chat:1794441600</ns0:id>
+    <ns0:title>RocketChat/Rocket.Chat</ns0:title>
+    <ns0:link href="https://github.com/RocketChat/Rocket.Chat"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/backnotprop/plannotator"&gt;https://github.com/backnotprop/plannotator&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/RocketChat/Rocket.Chat"&gt;https://github.com/RocketChat/Rocket.Chat&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.&lt;/div&gt;
+&lt;div&gt;The Secure CommsOS™ for mission-critical operations&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:dream-num:univer:1794355200</ns0:id>
-    <ns0:title>dream-num/univer</ns0:title>
-    <ns0:link href="https://github.com/dream-num/univer"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:adewaskar:jarvis:1794441600</ns0:id>
+    <ns0:title>adewaskar/jarvis</ns0:title>
+    <ns0:link href="https://github.com/adewaskar/jarvis"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dream-num/univer"&gt;https://github.com/dream-num/univer&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/adewaskar/jarvis"&gt;https://github.com/adewaskar/jarvis&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.&lt;/div&gt;
+&lt;div&gt;J.A.R.V.I.S for automating your daily tasks using Claude Code&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ever-co:ever-gauzy:1794355200</ns0:id>
-    <ns0:title>ever-co/ever-gauzy</ns0:title>
-    <ns0:link href="https://github.com/ever-co/ever-gauzy"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:angular:angular:1794441600</ns0:id>
+    <ns0:title>angular/angular</ns0:title>
+    <ns0:link href="https://github.com/angular/angular"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ever-co/ever-gauzy"&gt;https://github.com/ever-co/ever-gauzy&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/angular/angular"&gt;https://github.com/angular/angular&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Ever® Gauzy™ - Open Business Management Platform (ERP/CRM/HRM/ATS/PM) - https://gauzy.co&lt;/div&gt;
+&lt;div&gt;Deliver web apps with confidence 🚀&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:garrytan:gbrain:1794355200</ns0:id>
-    <ns0:title>garrytan/gbrain</ns0:title>
-    <ns0:link href="https://github.com/garrytan/gbrain"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:appwrite:appwrite:1794441600</ns0:id>
+    <ns0:title>appwrite/appwrite</ns0:title>
+    <ns0:link href="https://github.com/appwrite/appwrite"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/garrytan/gbrain"&gt;https://github.com/garrytan/gbrain&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/appwrite/appwrite"&gt;https://github.com/appwrite/appwrite&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Garry's Opinionated OpenClaw/Hermes Agent Brain&lt;/div&gt;
+&lt;div&gt;The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:google-labs-code:stitch-skills:1794355200</ns0:id>
+    <ns0:id>urn:github:block:buzz-app:1794441600</ns0:id>
+    <ns0:title>block/buzz-app</ns0:title>
+    <ns0:link href="https://github.com/block/buzz-app"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/block/buzz-app"&gt;https://github.com/block/buzz-app&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A new desktop/web app experience for buzz&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:elder-plinius:G0DM0D3:1794441600</ns0:id>
+    <ns0:title>elder-plinius/G0DM0D3</ns0:title>
+    <ns0:link href="https://github.com/elder-plinius/G0DM0D3"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/elder-plinius/G0DM0D3"&gt;https://github.com/elder-plinius/G0DM0D3&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;LIBERATED AI CHAT&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:every-app:open-seo:1794441600</ns0:id>
+    <ns0:title>every-app/open-seo</ns0:title>
+    <ns0:link href="https://github.com/every-app/open-seo"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/every-app/open-seo"&gt;https://github.com/every-app/open-seo&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open source alternative to Semrush and Ahrefs&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:gitroomhq:postiz-app:1794441600</ns0:id>
+    <ns0:title>gitroomhq/postiz-app</ns0:title>
+    <ns0:link href="https://github.com/gitroomhq/postiz-app"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/gitroomhq/postiz-app"&gt;https://github.com/gitroomhq/postiz-app&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;📨 The ultimate agentic social media scheduling tool 🤖&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:google-labs-code:stitch-skills:1794441600</ns0:id>
     <ns0:title>google-labs-code/stitch-skills</ns0:title>
     <ns0:link href="https://github.com/google-labs-code/stitch-skills"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/google-labs-code/stitch-skills"&gt;https://github.com/google-labs-code/stitch-skills&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -130,10 +190,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:meta:astryx:1794355200</ns0:id>
+    <ns0:id>urn:github:meta:astryx:1794441600</ns0:id>
     <ns0:title>meta/astryx</ns0:title>
     <ns0:link href="https://github.com/meta/astryx"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/meta/astryx"&gt;https://github.com/meta/astryx&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -142,22 +202,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nab138:iloader:1794355200</ns0:id>
-    <ns0:title>nab138/iloader</ns0:title>
-    <ns0:link href="https://github.com/nab138/iloader"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:n8n-io:n8n:1794441600</ns0:id>
+    <ns0:title>n8n-io/n8n</ns0:title>
+    <ns0:link href="https://github.com/n8n-io/n8n"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nab138/iloader"&gt;https://github.com/nab138/iloader&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/n8n-io/n8n"&gt;https://github.com/n8n-io/n8n&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;User friendly sideloader&lt;/div&gt;
+&lt;div&gt;Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openai:codex-security:1794355200</ns0:id>
+    <ns0:id>urn:github:openai:codex-security:1794441600</ns0:id>
     <ns0:title>openai/codex-security</ns0:title>
     <ns0:link href="https://github.com/openai/codex-security"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openai/codex-security"&gt;https://github.com/openai/codex-security&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
@@ -166,15 +226,27 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ranxianglei:billion-context:1794355200</ns0:id>
-    <ns0:title>ranxianglei/billion-context</ns0:title>
-    <ns0:link href="https://github.com/ranxianglei/billion-context"/>
-    <ns0:updated>2026-11-11T00:00:00</ns0:updated>
+    <ns0:id>urn:github:shanliuling:dsh-image-gen:1794441600</ns0:id>
+    <ns0:title>shanliuling/dsh-image-gen</ns0:title>
+    <ns0:link href="https://github.com/shanliuling/dsh-image-gen"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ranxianglei/billion-context"&gt;https://github.com/ranxianglei/billion-context&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/shanliuling/dsh-image-gen"&gt;https://github.com/shanliuling/dsh-image-gen&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need&lt;/div&gt;
+&lt;div&gt;可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit &amp; compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:supabase:supabase:1794441600</ns0:id>
+    <ns0:title>supabase/supabase</ns0:title>
+    <ns0:link href="https://github.com/supabase/supabase"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/supabase/supabase"&gt;https://github.com/supabase/supabase&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; typescript&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>

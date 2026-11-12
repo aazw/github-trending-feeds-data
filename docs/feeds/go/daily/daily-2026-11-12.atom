@@ -1,0 +1,180 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - go (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/go/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:Tencent:LoopForge:1794441600</ns0:id>
+    <ns0:title>Tencent/LoopForge</ns0:title>
+    <ns0:link href="https://github.com/Tencent/LoopForge"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Tencent/LoopForge"&gt;https://github.com/Tencent/LoopForge&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:agent-substrate:substrate:1794441600</ns0:id>
+    <ns0:title>agent-substrate/substrate</ns0:title>
+    <ns0:link href="https://github.com/agent-substrate/substrate"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/agent-substrate/substrate"&gt;https://github.com/agent-substrate/substrate&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Agent Substrate: the core system&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cloudflare:cloudflared:1794441600</ns0:id>
+    <ns0:title>cloudflare/cloudflared</ns0:title>
+    <ns0:link href="https://github.com/cloudflare/cloudflared"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudflare/cloudflared"&gt;https://github.com/cloudflare/cloudflared&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Cloudflare Tunnel client&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:databricks:cli:1794441600</ns0:id>
+    <ns0:title>databricks/cli</ns0:title>
+    <ns0:link href="https://github.com/databricks/cli"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/databricks/cli"&gt;https://github.com/databricks/cli&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Databricks CLI&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:dsx-ai-factory:run-ai:1794441600</ns0:id>
+    <ns0:title>dsx-ai-factory/run-ai</ns0:title>
+    <ns0:link href="https://github.com/dsx-ai-factory/run-ai"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/dsx-ai-factory/run-ai"&gt;https://github.com/dsx-ai-factory/run-ai&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:fatedier:frp:1794441600</ns0:id>
+    <ns0:title>fatedier/frp</ns0:title>
+    <ns0:link href="https://github.com/fatedier/frp"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/fatedier/frp"&gt;https://github.com/fatedier/frp&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:golang:go:1794441600</ns0:id>
+    <ns0:title>golang/go</ns0:title>
+    <ns0:link href="https://github.com/golang/go"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/golang/go"&gt;https://github.com/golang/go&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;The Go programming language&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:kubernetes:kubernetes:1794441600</ns0:id>
+    <ns0:title>kubernetes/kubernetes</ns0:title>
+    <ns0:link href="https://github.com/kubernetes/kubernetes"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kubernetes/kubernetes"&gt;https://github.com/kubernetes/kubernetes&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Production-Grade Container Scheduling and Management&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:kubescape:kubescape:1794441600</ns0:id>
+    <ns0:title>kubescape/kubescape</ns0:title>
+    <ns0:link href="https://github.com/kubescape/kubescape"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kubescape/kubescape"&gt;https://github.com/kubescape/kubescape&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernetes users and administrators precious time, effort, and resources.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:moby:buildkit:1794441600</ns0:id>
+    <ns0:title>moby/buildkit</ns0:title>
+    <ns0:link href="https://github.com/moby/buildkit"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/moby/buildkit"&gt;https://github.com/moby/buildkit&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:multica-ai:multica:1794441600</ns0:id>
+    <ns0:title>multica-ai/multica</ns0:title>
+    <ns0:link href="https://github.com/multica-ai/multica"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/multica-ai/multica"&gt;https://github.com/multica-ai/multica&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Make humans and AI agents work as one team — open-source and self-hostable.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:smtg-ai:claude-squad:1794441600</ns0:id>
+    <ns0:title>smtg-ai/claude-squad</ns0:title>
+    <ns0:link href="https://github.com/smtg-ai/claude-squad"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/smtg-ai/claude-squad"&gt;https://github.com/smtg-ai/claude-squad&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:superplanehq:superplane:1794441600</ns0:id>
+    <ns0:title>superplanehq/superplane</ns0:title>
+    <ns0:link href="https://github.com/superplanehq/superplane"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/superplanehq/superplane"&gt;https://github.com/superplanehq/superplane&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Open source factory for one-shot engineering&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:tailscale:tailcat:1794441600</ns0:id>
+    <ns0:title>tailscale/tailcat</ns0:title>
+    <ns0:link href="https://github.com/tailscale/tailcat"/>
+    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/tailscale/tailcat"&gt;https://github.com/tailscale/tailcat&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; go&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;like netcat, but over Tailscale's data plane, without Tailscale's control plane&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
