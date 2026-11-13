@@ -5,15 +5,27 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/php/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-13T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:EC-CUBE:ec-cube:1794441600</ns0:id>
+    <ns0:id>urn:github:Dolibarr:dolibarr:1794528000</ns0:id>
+    <ns0:title>Dolibarr/dolibarr</ns0:title>
+    <ns0:link href="https://github.com/Dolibarr/dolibarr"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Dolibarr/dolibarr"&gt;https://github.com/Dolibarr/dolibarr&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Dolibarr ERP CRM is a modern software package to manage your company or foundation's activity (contacts, suppliers, invoices, orders, stocks, agenda, accounting, ...). it's an open source Web application (written in PHP) designed for businesses of any sizes, foundations and freelancers.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:EC-CUBE:ec-cube:1794528000</ns0:id>
     <ns0:title>EC-CUBE/ec-cube</ns0:title>
     <ns0:link href="https://github.com/EC-CUBE/ec-cube"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/EC-CUBE/ec-cube"&gt;https://github.com/EC-CUBE/ec-cube&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -22,34 +34,46 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:Leantime:leantime:1794441600</ns0:id>
-    <ns0:title>Leantime/leantime</ns0:title>
-    <ns0:link href="https://github.com/Leantime/leantime"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:FreshRSS:FreshRSS:1794528000</ns0:id>
+    <ns0:title>FreshRSS/FreshRSS</ns0:title>
+    <ns0:link href="https://github.com/FreshRSS/FreshRSS"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/Leantime/leantime"&gt;https://github.com/Leantime/leantime&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/FreshRSS/FreshRSS"&gt;https://github.com/FreshRSS/FreshRSS&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Leantime is a goals focused project management system for non-project managers. Building with ADHD, Autism, and dyslexia in mind.&lt;/div&gt;
+&lt;div&gt;A free, self-hostable news aggregator…&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:bagisto:bagisto:1794441600</ns0:id>
-    <ns0:title>bagisto/bagisto</ns0:title>
-    <ns0:link href="https://github.com/bagisto/bagisto"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:InvoiceShelf:InvoiceShelf:1794528000</ns0:id>
+    <ns0:title>InvoiceShelf/InvoiceShelf</ns0:title>
+    <ns0:link href="https://github.com/InvoiceShelf/InvoiceShelf"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bagisto/bagisto"&gt;https://github.com/bagisto/bagisto&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/InvoiceShelf/InvoiceShelf"&gt;https://github.com/InvoiceShelf/InvoiceShelf&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Open Source eCommerce &amp; Multi-Vendor Marketplace Platform Built with Laravel for Enterprise-Scale Commerce, Supporting 10M+ SKUs&lt;/div&gt;
+&lt;div&gt;Open Source Invoicing Solution for Individuals &amp; Businesses&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:cedar2025:Xboard:1794441600</ns0:id>
+    <ns0:id>urn:github:aureuserp:aureuserp:1794528000</ns0:id>
+    <ns0:title>aureuserp/aureuserp</ns0:title>
+    <ns0:link href="https://github.com/aureuserp/aureuserp"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/aureuserp/aureuserp"&gt;https://github.com/aureuserp/aureuserp&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Free and Open Source ERP software&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cedar2025:Xboard:1794528000</ns0:id>
     <ns0:title>cedar2025/Xboard</ns0:title>
     <ns0:link href="https://github.com/cedar2025/Xboard"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cedar2025/Xboard"&gt;https://github.com/cedar2025/Xboard&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -58,10 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:danielmiessler:SecLists:1794441600</ns0:id>
+    <ns0:id>urn:github:danielmiessler:SecLists:1794528000</ns0:id>
     <ns0:title>danielmiessler/SecLists</ns0:title>
     <ns0:link href="https://github.com/danielmiessler/SecLists"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/danielmiessler/SecLists"&gt;https://github.com/danielmiessler/SecLists&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -70,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:espocrm:espocrm:1794441600</ns0:id>
+    <ns0:id>urn:github:espocrm:espocrm:1794528000</ns0:id>
     <ns0:title>espocrm/espocrm</ns0:title>
     <ns0:link href="https://github.com/espocrm/espocrm"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/espocrm/espocrm"&gt;https://github.com/espocrm/espocrm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
@@ -82,123 +106,123 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:filamentphp:filament:1794441600</ns0:id>
-    <ns0:title>filamentphp/filament</ns0:title>
-    <ns0:link href="https://github.com/filamentphp/filament"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:glpi-project:glpi:1794528000</ns0:id>
+    <ns0:title>glpi-project/glpi</ns0:title>
+    <ns0:link href="https://github.com/glpi-project/glpi"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/filamentphp/filament"&gt;https://github.com/filamentphp/filament&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/glpi-project/glpi"&gt;https://github.com/glpi-project/glpi&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;An open-source framework for building polished, maintainable business software with Laravel.&lt;/div&gt;
+&lt;div&gt;GLPI is a Free Asset and IT Management Software package, Data center management, ITIL Service Desk, licenses tracking and software auditing.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:leokhoa:laragon:1794441600</ns0:id>
-    <ns0:title>leokhoa/laragon</ns0:title>
-    <ns0:link href="https://github.com/leokhoa/laragon"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:grokability:snipe-it:1794528000</ns0:id>
+    <ns0:title>grokability/snipe-it</ns0:title>
+    <ns0:link href="https://github.com/grokability/snipe-it"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/leokhoa/laragon"&gt;https://github.com/leokhoa/laragon&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/grokability/snipe-it"&gt;https://github.com/grokability/snipe-it&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Laragon is a portable, isolated, fast &amp; powerful universal development environment for PHP, Node.js, Python. It is fast, lightweight, easy-to-use and easy-to-extend.&lt;/div&gt;
+&lt;div&gt;A free open source IT asset/license management system&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:matomo-org:matomo:1794441600</ns0:id>
-    <ns0:title>matomo-org/matomo</ns0:title>
-    <ns0:link href="https://github.com/matomo-org/matomo"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:kimai:kimai:1794528000</ns0:id>
+    <ns0:title>kimai/kimai</ns0:title>
+    <ns0:link href="https://github.com/kimai/kimai"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/matomo-org/matomo"&gt;https://github.com/matomo-org/matomo&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/kimai/kimai"&gt;https://github.com/kimai/kimai&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Empowering People Ethically 🚀 — Matomo is hiring! Join us → https://matomo.org/jobs Matomo is the leading open-source alternative to Google Analytics, giving you complete control and built-in privacy. Easily collect, visualise, and analyse data from websites &amp; apps. Star us on GitHub ⭐️ – Pull Requests welcome!&lt;/div&gt;
+&lt;div&gt;Kimai is the #1 open-source time-tracking application. From freelancers to companies and organisations - everyone can manage timesheets, generate reports, create invoices and so much more... Web-based multi-user application, available as On-Premise or SaaS version: https://www.kimai.org&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:nextcloud:all-in-one:1794441600</ns0:id>
-    <ns0:title>nextcloud/all-in-one</ns0:title>
-    <ns0:link href="https://github.com/nextcloud/all-in-one"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:krayin:laravel-crm:1794528000</ns0:id>
+    <ns0:title>krayin/laravel-crm</ns0:title>
+    <ns0:link href="https://github.com/krayin/laravel-crm"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nextcloud/all-in-one"&gt;https://github.com/nextcloud/all-in-one&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/krayin/laravel-crm"&gt;https://github.com/krayin/laravel-crm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;📦 The official Nextcloud installation method. Provides easy deployment and maintenance with most features included in this one Nextcloud instance.&lt;/div&gt;
+&lt;div&gt;Krayin CRM is Free &amp; Open Source CRM Built with Laravel for Customer, Lead, and Sales Management.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:openemr:openemr:1794441600</ns0:id>
-    <ns0:title>openemr/openemr</ns0:title>
-    <ns0:link href="https://github.com/openemr/openemr"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:laravel:framework:1794528000</ns0:id>
+    <ns0:title>laravel/framework</ns0:title>
+    <ns0:link href="https://github.com/laravel/framework"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/openemr/openemr"&gt;https://github.com/openemr/openemr&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/laravel/framework"&gt;https://github.com/laravel/framework&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The most popular open source electronic health records and medical practice management solution.&lt;/div&gt;
+&lt;div&gt;Laravel is a web application framework with expressive, elegant syntax.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:phpmyadmin:phpmyadmin:1794441600</ns0:id>
-    <ns0:title>phpmyadmin/phpmyadmin</ns0:title>
-    <ns0:link href="https://github.com/phpmyadmin/phpmyadmin"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:mailcow:mailcow-dockerized:1794528000</ns0:id>
+    <ns0:title>mailcow/mailcow-dockerized</ns0:title>
+    <ns0:link href="https://github.com/mailcow/mailcow-dockerized"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/phpmyadmin/phpmyadmin"&gt;https://github.com/phpmyadmin/phpmyadmin&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mailcow/mailcow-dockerized"&gt;https://github.com/mailcow/mailcow-dockerized&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A web interface for MySQL and MariaDB&lt;/div&gt;
+&lt;div&gt;mailcow: dockerized - 🐮 + 🐋 = 💕&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:pterodactyl:panel:1794441600</ns0:id>
-    <ns0:title>pterodactyl/panel</ns0:title>
-    <ns0:link href="https://github.com/pterodactyl/panel"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:mautic:mautic:1794528000</ns0:id>
+    <ns0:title>mautic/mautic</ns0:title>
+    <ns0:link href="https://github.com/mautic/mautic"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/pterodactyl/panel"&gt;https://github.com/pterodactyl/panel&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/mautic/mautic"&gt;https://github.com/mautic/mautic&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;Pterodactyl® is a free, open-source game server management panel built with PHP, React, and Go. Designed with security in mind, Pterodactyl runs all game servers in isolated Docker containers while exposing a beautiful and intuitive UI to end users.&lt;/div&gt;
+&lt;div&gt;Mautic: Open Source Marketing Automation Software.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:roundcube:roundcubemail:1794441600</ns0:id>
-    <ns0:title>roundcube/roundcubemail</ns0:title>
-    <ns0:link href="https://github.com/roundcube/roundcubemail"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:id>urn:github:nextcloud:server:1794528000</ns0:id>
+    <ns0:title>nextcloud/server</ns0:title>
+    <ns0:link href="https://github.com/nextcloud/server"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/roundcube/roundcubemail"&gt;https://github.com/roundcube/roundcubemail&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/nextcloud/server"&gt;https://github.com/nextcloud/server&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;The Roundcube Webmail suite&lt;/div&gt;
+&lt;div&gt;☁️ Nextcloud server, a safe home for all your data&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:vimeo:psalm:1794441600</ns0:id>
+    <ns0:id>urn:github:shopware:shopware:1794528000</ns0:id>
+    <ns0:title>shopware/shopware</ns0:title>
+    <ns0:link href="https://github.com/shopware/shopware"/>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/shopware/shopware"&gt;https://github.com/shopware/shopware&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Shopware 6 is an open commerce platform based on Symfony Framework and Vue and supported by a worldwide community and more than 3.100 community extensions&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:vimeo:psalm:1794528000</ns0:id>
     <ns0:title>vimeo/psalm</ns0:title>
     <ns0:link href="https://github.com/vimeo/psalm"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-13T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/vimeo/psalm"&gt;https://github.com/vimeo/psalm&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:woocommerce:woocommerce:1794441600</ns0:id>
-    <ns0:title>woocommerce/woocommerce</ns0:title>
-    <ns0:link href="https://github.com/woocommerce/woocommerce"/>
-    <ns0:updated>2026-11-12T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/woocommerce/woocommerce"&gt;https://github.com/woocommerce/woocommerce&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; php&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;A customizable, open-source ecommerce platform built on WordPress. Build any commerce solution you can imagine.&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
