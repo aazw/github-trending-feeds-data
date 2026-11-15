@@ -1,0 +1,132 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom</ns0:id>
+  <ns0:title>GitHub Trending - hcl (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/hcl/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:GoogleCloudPlatform:cloud-foundation-fabric:1794700800</ns0:id>
+    <ns0:title>GoogleCloudPlatform/cloud-foundation-fabric</ns0:title>
+    <ns0:link href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/GoogleCloudPlatform/cloud-foundation-fabric"&gt;https://github.com/GoogleCloudPlatform/cloud-foundation-fabric&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;End-to-end modular samples and landing zones toolkit for Terraform on GCP.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:bridgecrewio:terragoat:1794700800</ns0:id>
+    <ns0:title>bridgecrewio/terragoat</ns0:title>
+    <ns0:link href="https://github.com/bridgecrewio/terragoat"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/bridgecrewio/terragoat"&gt;https://github.com/bridgecrewio/terragoat&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository. TerraGoat is a learning and training project that demonstrates how common configuration errors can find their way into production cloud environments.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cloudposse:terraform-aws-dynamic-subnets:1794700800</ns0:id>
+    <ns0:title>cloudposse/terraform-aws-dynamic-subnets</ns0:title>
+    <ns0:link href="https://github.com/cloudposse/terraform-aws-dynamic-subnets"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudposse/terraform-aws-dynamic-subnets"&gt;https://github.com/cloudposse/terraform-aws-dynamic-subnets&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Terraform module for public and private subnets provisioning in existing VPC&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cloudposse:terraform-aws-elasticache-redis:1794700800</ns0:id>
+    <ns0:title>cloudposse/terraform-aws-elasticache-redis</ns0:title>
+    <ns0:link href="https://github.com/cloudposse/terraform-aws-elasticache-redis"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudposse/terraform-aws-elasticache-redis"&gt;https://github.com/cloudposse/terraform-aws-elasticache-redis&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Terraform module to provision an ElastiCache Redis Cluster&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:cloudposse:terraform-aws-vpc:1794700800</ns0:id>
+    <ns0:title>cloudposse/terraform-aws-vpc</ns0:title>
+    <ns0:link href="https://github.com/cloudposse/terraform-aws-vpc"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/cloudposse/terraform-aws-vpc"&gt;https://github.com/cloudposse/terraform-aws-vpc&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Terraform Module that defines a VPC with public/private subnets across multiple AZs with Internet Gateways&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:iam-veeramalla:ultimate-devops-project-aws:1794700800</ns0:id>
+    <ns0:title>iam-veeramalla/ultimate-devops-project-aws</ns0:title>
+    <ns0:link href="https://github.com/iam-veeramalla/ultimate-devops-project-aws"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/iam-veeramalla/ultimate-devops-project-aws"&gt;https://github.com/iam-veeramalla/ultimate-devops-project-aws&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;End to End DevOps project&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ministryofjustice:cloud-platform-environments:1794700800</ns0:id>
+    <ns0:title>ministryofjustice/cloud-platform-environments</ns0:title>
+    <ns0:link href="https://github.com/ministryofjustice/cloud-platform-environments"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ministryofjustice/cloud-platform-environments"&gt;https://github.com/ministryofjustice/cloud-platform-environments&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Environment configuration for the Cloud Platform&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:piyushsachdeva:Terraform-Full-Course-Aws:1794700800</ns0:id>
+    <ns0:title>piyushsachdeva/Terraform-Full-Course-Aws</ns0:title>
+    <ns0:link href="https://github.com/piyushsachdeva/Terraform-Full-Course-Aws"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/piyushsachdeva/Terraform-Full-Course-Aws"&gt;https://github.com/piyushsachdeva/Terraform-Full-Course-Aws&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:semgrep:semgrep-rules:1794700800</ns0:id>
+    <ns0:title>semgrep/semgrep-rules</ns0:title>
+    <ns0:link href="https://github.com/semgrep/semgrep-rules"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/semgrep/semgrep-rules"&gt;https://github.com/semgrep/semgrep-rules&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Semgrep Community Edition rules, maintained by Semgrep and the community. Free to use under the Semgrep Rules License.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:zealvora:terraform-beginner-to-advanced-resource:1794700800</ns0:id>
+    <ns0:title>zealvora/terraform-beginner-to-advanced-resource</ns0:title>
+    <ns0:link href="https://github.com/zealvora/terraform-beginner-to-advanced-resource"/>
+    <ns0:updated>2026-11-15T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/zealvora/terraform-beginner-to-advanced-resource"&gt;https://github.com/zealvora/terraform-beginner-to-advanced-resource&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; hcl&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;HashiCorp Certified Terraform Associate 2026&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
