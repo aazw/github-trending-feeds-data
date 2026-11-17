@@ -10,15 +10,15 @@
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:black-parrot:black-parrot:1794873600</ns0:id>
-    <ns0:title>black-parrot/black-parrot</ns0:title>
-    <ns0:link href="https://github.com/black-parrot/black-parrot"/>
+    <ns0:id>urn:github:adam-maj:tiny-gpu:1794873600</ns0:id>
+    <ns0:title>adam-maj/tiny-gpu</ns0:title>
+    <ns0:link href="https://github.com/adam-maj/tiny-gpu"/>
     <ns0:updated>2026-11-17T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/black-parrot/black-parrot"&gt;https://github.com/black-parrot/black-parrot&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/adam-maj/tiny-gpu"&gt;https://github.com/adam-maj/tiny-gpu&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; systemverilog&lt;/div&gt;
 &lt;hr&gt;
-&lt;div&gt;A Linux-capable RISC-V multicore for and by the world&lt;/div&gt;
+&lt;div&gt;A minimal GPU design in Verilog to learn how GPUs work from the ground up&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
@@ -55,18 +55,6 @@
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; systemverilog&lt;/div&gt;
 &lt;hr&gt;
 &lt;div&gt;OpenTitan: Open source silicon root of trust&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:verilator:verilator:1794873600</ns0:id>
-    <ns0:title>verilator/verilator</ns0:title>
-    <ns0:link href="https://github.com/verilator/verilator"/>
-    <ns0:updated>2026-11-17T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/verilator/verilator"&gt;https://github.com/verilator/verilator&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; systemverilog&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;Verilator open-source SystemVerilog simulator and lint system&lt;/div&gt;
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
 </ns0:feed>
