@@ -5,15 +5,39 @@
   <ns0:link href="https://aazw.github.io/github-trending-feeds/feeds/ocaml/daily.atom" rel="self"/>
   <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
   <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
-  <ns0:updated>2026-11-18T00:00:00</ns0:updated>
+  <ns0:updated>2026-11-19T00:00:00</ns0:updated>
   <ns0:author>
     <ns0:name>aazw</ns0:name>
   </ns0:author>
   <ns0:entry>
-    <ns0:id>urn:github:janestreet:core:1794960000</ns0:id>
+    <ns0:id>urn:github:MinaProtocol:mina:1795046400</ns0:id>
+    <ns0:title>MinaProtocol/mina</ns0:title>
+    <ns0:link href="https://github.com/MinaProtocol/mina"/>
+    <ns0:updated>2026-11-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/MinaProtocol/mina"&gt;https://github.com/MinaProtocol/mina&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:janestreet:bonsai:1795046400</ns0:id>
+    <ns0:title>janestreet/bonsai</ns0:title>
+    <ns0:link href="https://github.com/janestreet/bonsai"/>
+    <ns0:updated>2026-11-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/janestreet/bonsai"&gt;https://github.com/janestreet/bonsai&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A library for building dynamic webapps, using Js_of_ocaml&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:janestreet:core:1795046400</ns0:id>
     <ns0:title>janestreet/core</ns0:title>
     <ns0:link href="https://github.com/janestreet/core"/>
-    <ns0:updated>2026-11-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/janestreet/core"&gt;https://github.com/janestreet/core&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
@@ -22,10 +46,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:janestreet:hardcaml:1794960000</ns0:id>
+    <ns0:id>urn:github:janestreet:hardcaml:1795046400</ns0:id>
     <ns0:title>janestreet/hardcaml</ns0:title>
     <ns0:link href="https://github.com/janestreet/hardcaml"/>
-    <ns0:updated>2026-11-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/janestreet/hardcaml"&gt;https://github.com/janestreet/hardcaml&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
@@ -34,10 +58,22 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ocaml:ocaml:1794960000</ns0:id>
+    <ns0:id>urn:github:janestreet:magic-trace:1795046400</ns0:id>
+    <ns0:title>janestreet/magic-trace</ns0:title>
+    <ns0:link href="https://github.com/janestreet/magic-trace"/>
+    <ns0:updated>2026-11-19T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/janestreet/magic-trace"&gt;https://github.com/janestreet/magic-trace&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;magic-trace collects and displays high-resolution traces of what a process is doing&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:ocaml:ocaml:1795046400</ns0:id>
     <ns0:title>ocaml/ocaml</ns0:title>
     <ns0:link href="https://github.com/ocaml/ocaml"/>
-    <ns0:updated>2026-11-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ocaml/ocaml"&gt;https://github.com/ocaml/ocaml&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
@@ -46,22 +82,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:ocaml:opam:1794960000</ns0:id>
-    <ns0:title>ocaml/opam</ns0:title>
-    <ns0:link href="https://github.com/ocaml/opam"/>
-    <ns0:updated>2026-11-18T00:00:00</ns0:updated>
-    <ns0:content type="html">&lt;div&gt;
-&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/ocaml/opam"&gt;https://github.com/ocaml/opam&lt;/a&gt;&lt;/div&gt;
-&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
-&lt;hr&gt;
-&lt;div&gt;opam is a source-based package manager. It supports multiple simultaneous compiler installations, flexible package constraints, and a Git-friendly development workflow.&lt;/div&gt;
-&lt;/div&gt;</ns0:content>
-  </ns0:entry>
-  <ns0:entry>
-    <ns0:id>urn:github:opengrep:opengrep:1794960000</ns0:id>
+    <ns0:id>urn:github:opengrep:opengrep:1795046400</ns0:id>
     <ns0:title>opengrep/opengrep</ns0:title>
     <ns0:link href="https://github.com/opengrep/opengrep"/>
-    <ns0:updated>2026-11-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/opengrep/opengrep"&gt;https://github.com/opengrep/opengrep&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
@@ -70,10 +94,10 @@
 &lt;/div&gt;</ns0:content>
   </ns0:entry>
   <ns0:entry>
-    <ns0:id>urn:github:semgrep:semgrep-interfaces:1794960000</ns0:id>
+    <ns0:id>urn:github:semgrep:semgrep-interfaces:1795046400</ns0:id>
     <ns0:title>semgrep/semgrep-interfaces</ns0:title>
     <ns0:link href="https://github.com/semgrep/semgrep-interfaces"/>
-    <ns0:updated>2026-11-18T00:00:00</ns0:updated>
+    <ns0:updated>2026-11-19T00:00:00</ns0:updated>
     <ns0:content type="html">&lt;div&gt;
 &lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/semgrep/semgrep-interfaces"&gt;https://github.com/semgrep/semgrep-interfaces&lt;/a&gt;&lt;/div&gt;
 &lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; ocaml&lt;/div&gt;
