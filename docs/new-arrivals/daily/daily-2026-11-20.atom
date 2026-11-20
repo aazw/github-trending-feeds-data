@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ns0:feed xmlns:ns0="http://www.w3.org/2005/Atom" xml:lang="en">
+  <ns0:id>https://aazw.github.io/github-trending-feeds/new-arrivals/daily.atom</ns0:id>
+  <ns0:title>GitHub New Arrivals (daily)</ns0:title>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/new-arrivals/daily.atom" rel="self"/>
+  <ns0:link href="https://aazw.github.io/github-trending-feeds/" rel="alternate"/>
+  <ns0:icon>https://github.githubassets.com/favicons/favicon.svg</ns0:icon>
+  <ns0:updated>2026-11-20T22:32:36+00:00</ns0:updated>
+  <ns0:author>
+    <ns0:name>aazw</ns0:name>
+  </ns0:author>
+  <ns0:entry>
+    <ns0:id>urn:github:beamivalice:sushi:1795132800</ns0:id>
+    <ns0:title>[zig] beamivalice/sushi</ns0:title>
+    <ns0:link href="https://github.com/beamivalice/sushi"/>
+    <ns0:updated>2026-11-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/beamivalice/sushi"&gt;https://github.com/beamivalice/sushi&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; zig&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;Sushi engine runs very high quality quant model in Apple Silicon, using both STQ and EXL3 format with special tuning technology to achieve frontier sub 4 bits compression.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+  <ns0:entry>
+    <ns0:id>urn:github:driceroland:Search:1795132800</ns0:id>
+    <ns0:title>[swift] driceroland/Search</ns0:title>
+    <ns0:link href="https://github.com/driceroland/Search"/>
+    <ns0:updated>2026-11-20T00:00:00</ns0:updated>
+    <ns0:content type="html">&lt;div&gt;
+&lt;div&gt;&lt;strong&gt;URL:&lt;/strong&gt; &lt;a href="https://github.com/driceroland/Search"&gt;https://github.com/driceroland/Search&lt;/a&gt;&lt;/div&gt;
+&lt;div&gt;&lt;strong&gt;Language:&lt;/strong&gt; swift&lt;/div&gt;
+&lt;hr&gt;
+&lt;div&gt;A small, fast WebKit browser for macOS, by Office Commun.&lt;/div&gt;
+&lt;/div&gt;</ns0:content>
+  </ns0:entry>
+</ns0:feed>
